@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>Макросс для мага, hell flame+flame shackle</Major>
+    <Description>Макрос на мага стан + замедление
+Значения кнопок:
+0 - hell flame
+- flame shackle
+4classic топ 1 приватка, всех ждем !!!!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 39 1
+Delay 0 ms
+KeyUp 39 1
+Delay 0 ms
+KeyDown 22 1
+Delay 42 ms
+KeyUp 22 1
+Delay 42 ms
+KeyDown 45 1
+Delay 0 ms
+KeyUp 45 1
+Delay 0 ms
+KeyDown 22 1
+Delay 42 ms
+KeyUp 22 1
+Delay 42 ms</Syntax>
+    </KeyDown>
+    <Software>4STORY</Software>
+  </DefaultMacro>
+</Root>

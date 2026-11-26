@@ -1,0 +1,65 @@
+<Root>
+  <DefaultMacro>
+    <Major>Archer macro to hit like a machinegun</Major>
+    <Description>This macro is designed to enhance your damage output, allowing you to deliver up to 400% of your damage within a short time frame of 1.4 seconds. It incorporates a random delay method to minimize detection by anti-cheat systems such as Hotshield.
+This macro is designed to enhance your damage output, allowing you to deliver up to 400% of your damage within a short time frame of 1.4 seconds. It incorporates a random delay method to minimize detection by anti-cheat systems such as Hotshield.
+
+Features:
+
+  - Damage Boost: Efficiently executes commands to maximize damage output within the specified time window.
+  - Anti-Detection Measures: Utilizes random delays to reduce the likelihood of detection.
+   -Toggle Activation: Operates with an ON/OFF toggle system. Activate or deactivate the macro by pressing the assigned button.
+    -Animation Canceling: While the macro is active, walking left and right cancels animations, which is essential for optimal performance.
+    -Auto-Movement Option: Includes an automated movement feature, which requires tuning for compatibility with different game patches.
+
+This macro has been tested on main servers and private servers, including 4Vision, 4Legacy, and 4Classic.
+
+How to use:
+1-Assign the macro to a convenient key or button
+2-Asaign the ABB skills of the Archer to the KEYs (1,2,3,7) (Battle Arrow,Normal Attack, Explosive Arrow, Merciless Shot)
+3-Press the assigned button to activate the macro.(firing 4 arrows pew pew pew pew, and you still can use your Blind Arrow skill as a 5th shot. it wasn't included in the macro in case you use it defencely)
+4-make sure to turn it off once you kill your Enemies or Dead</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+
+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 24 68 ms
+KeyUp 31 1
+KeyDown 7 1
+Delay 24 68 ms
+KeyUp 7 1
+Delay 24 68 ms
+KeyDown 30 1
+Delay 24 68 ms
+KeyUp 30 1
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+Delay 24 68 ms
+KeyDown 36 1
+Delay 24 ms
+KeyUp 36 1
+KeyDown 7 1
+Delay 24 68 ms
+KeyUp 7 1
+Delay 24 68 ms
+KeyDown 32 1
+Delay 24 68 ms
+KeyUp 32 1
+KeyDown 4 1
+Delay 67 85 ms
+KeyUp 4 1
+Delay 67 85 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>4STORY</Software>
+  </DefaultMacro>
+</Root>

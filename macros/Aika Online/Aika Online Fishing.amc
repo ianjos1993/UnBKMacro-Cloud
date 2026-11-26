@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для рыбалки в AIKA Online. Он будет автоматически ловить рыбу, освобождая вас от этой рутины. Необходимо установить разрешение экрана 1920 x 1080. Масштаб экрана 100% и "пипетка" рыбалки должна находиться в "дефолтной" стандартной позиции для корректной работы. Если нужны изменения макроса, пишите в личные сообщения.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//Старый код оставил на память
+GoColor 4 0 105,135,227 145,210,192 2 -1109 738 304 21 50 0
+Goto 2
+KeyDown 44 1
+Delay 12 ms
+KeyUp 44 1
+Delay 11 ms</Syntax>
+    </KeyDown>
+    <Software>AIKA Online</Software>
+  </DefaultMacro>
+</Root>

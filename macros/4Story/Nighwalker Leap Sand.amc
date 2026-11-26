@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major>Nightwalker Macro: Shadow Leap + Sand Throw</Major>
+    <Description>Description:
+
+This macro is tailored for Nightwalker characters to deliver a seamless two-skill initiation. By combining Shadow Leap (F2) with Sand Throw (F3) in a single button press, it allows you to jump to a target and immediately disable them. The slight delay of 72 ms between the two skills ensures both abilities execute properly without any failure.
+
+It is particularly effective for:
+
+    Solo Targets: Engage isolated players swiftly before they can react.
+    Mounted Targets: Disrupt fleeing players on mounts and force them into combat.
+
+How to Use the Macro:
+
+    -Link to a Key: Bind the macro to a key close to your movement controls (e.g., Q, E, or a mouse button) for quick and convenient activation.
+    -Set the Target: Ensure you have your desired target selected. Use manual or tab targeting as needed.
+    -Execute the Macro: Press the macro key to initiate. The sequence will teleport you to the target with Shadow Leap (F2) and immediately disable them with Sand Throw (F3).
+
+Tips for Effective Use:
+
+    Optimal Timing: Ensure you’re within the range of Shadow Leap before activating the macro.
+    Cooldown Awareness: Keep both skills off cooldown for consistent effectiveness.
+    
+
+Why It Works:
+
+The 72 ms delay is critical to ensure Sand Throw properly follows Shadow Leap, as triggering them too quickly can cause the second skill to fail. By placing this macro close to your movement keys, you’ll enjoy a fluid and effortless initiation that saves critical time in combat.
+
+Enjoy the satisfaction of swift and effective initiations with just one click!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 59 1
+Delay 24 65 ms
+KeyUp 59 1
+Delay 72 108 ms
+KeyDown 60 1
+Delay 24 65 ms
+KeyUp 60 1</Syntax>
+    </KeyDown>
+    <Software>4STORY</Software>
+  </DefaultMacro>
+</Root>

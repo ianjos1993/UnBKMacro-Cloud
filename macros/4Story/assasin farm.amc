@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major>ASSASIN FARM SQUARE PATTERN OR PLANE PATTERN</Major>
+    <Description>Script ofr walking around and using aoe damage and skills (might get stuck if the terrain is not regular but he will unstuck himself).
+
+NOT DETECTED BY CAPCHA SECURITY ;)</Description>
+    <Comment>Ill try to make some more atm im experimenting wt alot and they seem to work on any sv, ;))</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Button5Down 1
+Delay 64
+Button5up 1
+Delay 64
+KeyDown 26 1
+Delay 6000 ms
+KeyUp 26 1
+Delay 64
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 64
+KeyDown 35 1
+Delay 64
+KeyUp 35 1
+Delay 64
+KeyDown 17 1
+Delay 64
+KeyUp 17 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+KeyDown 17 1
+Delay 64
+KeyUp 17 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 1000 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>4STORY</Software>
+  </DefaultMacro>
+</Root>

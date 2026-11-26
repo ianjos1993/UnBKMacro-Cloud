@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Bot Aika online A - Tab- 1 
+стандартный бот для фарма через 1 ато поиск цели через зажатый А и проклик Tab</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+KeyDown 43 1
+Delay 1 ms
+KeyUp 43 1
+KeyDown 43 1
+Delay 1 ms
+KeyUp 43 1
+Delay 1 s
+KeyUp 4 1
+KeyDown 33 1
+Delay 1 ms
+KeyUp 33 1
+Delay 1 s
+KeyDown 30 1
+Delay 1 s
+KeyUp 30 1
+Delay 15 s
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Aika Online</Software>
+  </DefaultMacro>
+</Root>

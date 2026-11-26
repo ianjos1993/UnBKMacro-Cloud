@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простой в использовании, идеален для добивания и выдавания максимального урона за  раз.
+1- простая атака, 6- battle arrow, 7- merciless shot, 8 -lightning arrow.
+Так же ждем все желающих в 4 classic. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 35 1
+Delay 0 ms
+KeyUp 35 1
+Delay 0 ms
+KeyDown 22 1
+Delay 42 ms
+KeyUp 22 1
+Delay 42 ms
+KeyDown 30 1
+Delay 0 ms
+KeyUp 30 1
+Delay 0 ms
+KeyDown 22 1
+Delay 42 ms
+KeyUp 22 1
+Delay 42 ms
+KeyDown 36 1
+Delay 0 ms
+KeyUp 36 1
+Delay 0 ms
+KeyDown 22 1
+Delay 42 ms
+KeyUp 22 1
+Delay 42 ms
+KeyDown 37 1
+Delay 0 ms
+KeyUp 37 1
+Delay 0 ms</Syntax>
+    </KeyDown>
+    <Software>4 story</Software>
+  </DefaultMacro>
+</Root>

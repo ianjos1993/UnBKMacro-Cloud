@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>С помощью кликера переключать слайд на втором окне компьютера на предыдущий, даже если окно не активно</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 3839 553
+LeftDown 1
+LeftUp 1
+MoveTo 0 0</Syntax>
+    </KeyDown>
+    <Software>adobe pdf</Software>
+  </DefaultMacro>
+</Root>
