@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major>yoawesomohoyubeen</Major>
+    <Description>Keyran Macro Script for Haxball
+
+This macro alternates between "W" "S" "D" "A" key presses (or your preferred movement keys) every 50 milliseconds to help maintain consistent ball control. You can toggle the macro on or off using the assigned hotkey.
+
+How to Use:Assign the macro to a hotkey (e.g., F1 to toggle the macro on/off).
+
+**This can help simulate quick movements and keep the ball close, making dribbling feel more precise and controlled.**</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+
+How to Set Up and Use:
+
+
+Open Keyran Software: Install and launch the Keyran macro editor.
+
+Assign Hotkey: Choose a convenient hotkey like F1 to toggle the macro on and off during gameplay.
+
+Save and Activate: Save your macro and enable it in Keyran.
+
+Run in Haxball: Start your game and press the assigned hotkey to enable the macro when you need it.
+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 50 ms
+KeyUp 26 1
+Delay 50 ms
+KeyDown 4 1
+Delay 50 ms
+KeyUp 4 1
+Delay 50 ms
+KeyDown 22 1
+Delay 50 ms
+KeyUp 22 1
+Delay 50 ms
+KeyDown 7 1
+Delay 50 ms
+KeyUp 7 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>HaxBall</Software>
+  </DefaultMacro>
+</Root>

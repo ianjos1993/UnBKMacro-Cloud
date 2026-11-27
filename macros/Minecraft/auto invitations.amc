@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>данный макрос помогает вам пить зелье невидимости на 8 минут это необходимо для того чтобы вас не было видно при помощи команды /near   будет работать при разрешении монитора/экрана 1920:1080p</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 919 43
+Delay 64
+RightDown 1
+Delay 2 s
+RightUp 1
+Delay 64
+MoveTo 900 1022
+Delay 64
+Delay 478 s
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

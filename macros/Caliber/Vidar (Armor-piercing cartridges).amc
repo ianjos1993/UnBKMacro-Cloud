@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на ВИДАРА (БРОНЕБОЙНЫЕ ПАТРОНЫ)
+
+Вертикальную сихронизацию отключаем
+
+Разрешение экрана 1920x1080
+
+Чувствительность мыши 50
+
+Устанавливаем макрос на любую удобную клавишу и в бой</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 8 ms
+MoveR 0 0
+MoveR 0 3
+Delay 8 ms
+MoveR -1 0
+Delay 8 ms
+Goto 4</Syntax>
+    </KeyDown>
+    <Software>Caliber</Software>
+  </DefaultMacro>
+</Root>

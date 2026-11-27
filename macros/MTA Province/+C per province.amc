@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Вы назначаете макрос на любую клавишу.Нажимаете на кнопку,на которую вы установили и вам больше не надо будет нажимать LShift
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 100000 ms
+KeyUp 225 1
+Delay 100 ms</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

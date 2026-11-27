@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>если вы редактируете на E то этот макрос для вас
+
+заходим в настройки фортнайте убираем подтверждение редактирования и биндим макрос на любую кнопку 
+
+и готово</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 2 ms
+KeyUp 8 1
+Delay 2 ms
+LeftDown 1
+Delay 2 ms
+LeftUp 1
+Delay 2 ms
+KeyDown 8 1
+Delay 2 ms
+KeyUp 8 1
+Delay 2 ms
+LeftDown 1
+Delay 2 ms
+LeftUp 1
+Delay 2 ms
+KeyDown 8 1
+Delay 2 ms
+KeyUp 8 1
+Delay 2 ms
+LeftDown 1
+Delay 2 ms
+LeftUp 1
+Delay 2 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

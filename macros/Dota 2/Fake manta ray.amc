@@ -1,0 +1,60 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Скрипт для Dota 2
+При использовании скрипта, он сам нажмет на манту и отведет иллюзии и героя в разные стороны.
+Скрипт очень помогает в важных файтах, если у вас почти не осталось ресурсов.
+Требования к скрипту:
+1. Манта должна быть забинжена на Z.
+2. Автовыбор призыванных героев должен быть выключен.
+3. В подконтрольных группах следующий юнит должен быть забинжен на TAB.
+
+Настройки девайсов:
+DPI: 800
+Разрешение монитора: 1920x1080
+
+Пользуюсь макросом уже около месяца и все замечательно.</Description>
+    <Comment>Возникнут вопросы - пишите.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 1 ms
+KeyUp 29 1
+Delay 5 ms
+KeyDown 43 1
+Delay 1 ms
+KeyUp 43 1
+Delay 5 ms
+MoveTo 371 298
+Delay 5 ms
+RightDown 1
+RightUp 1
+Delay 5 ms
+KeyDown 43 1
+Delay 1 ms
+KeyUp 43 1
+Delay 5 ms
+MoveTo 1535 891
+Delay 5 ms
+RightDown 1
+Delay 1 ms
+RightUp 1
+Delay 5 ms
+KeyDown 43 1
+Delay 1 ms
+KeyUp 43 1
+Delay 5 ms
+MoveTo 1333 159
+Delay 5 ms
+RightDown 1
+Delay 1 ms
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

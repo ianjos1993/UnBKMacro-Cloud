@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>GTA 5 RP бот на рыбалку. помогает в рыбалке и не нужно ничего знать для того что бы начать рыбачить стоит только лишь навести курсор мыши на моргающую мышку на экране и всё когда загорится красный будет ловиться рыба а когда он не горит то не будет.(разрешение может быть любым но желательно1920:1080)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 8 10 ms
+KeyDown 13 1
+Delay 8 10 ms
+KeyUp 13 1
+GoColor 9 0 193,0,0 255,255,255 0 1053 903
+LeftDown 1
+Delay 2 4 ms
+LeftUp 1
+Delay 3 5 ms
+GoColor 1 0 193,193,193 255,255,255 0 1053 903</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

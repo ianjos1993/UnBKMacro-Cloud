@@ -1,0 +1,76 @@
+<Root>
+  <DefaultMacro>
+    <Major>Semi Automatic Rifle FOV 90 - Sensetivity 0.82</Major>
+    <Description>Semi Automatic Rifle FOV 90 - Sensetivity 0.82
+Best with 800 dpi, sens normaly 0.82 ~ FOV  90
+You can adjust it to your FOV
+FOV 75 - Sensetivity 1.0
+FOV 80 - Sensetivity 0.94
+FOV 85 - Sensetivity 0.88
+FOV 90 - Sensetivity 0.82
+
+What to do:
+
+________EU____________
+1. Don't use snap to window, tick it off if its ticked on.
+2. You can use the driver option if you preffer to.
+3. Always use inkognito mode.
+4. Use minimum delay to the minimum (for better performance.)
+5. If you don't have in setttings the option hold to use, then tick that.
+6. Add it to your prefered key and start the macro.
+Good to go :)
+
+________RU____________
+
+1. Работать без привязки к окну
+2. Использовать драйвер
+3. Запустить слежение за клавишами "ВКЛ"
+4. Запустить режим инкогнито "ВКЛ" (ОБЯЗАТЕЛЬНО!)
+5. Использовать минимальную задержку "ВЫКЛ"
+6. Забиндить на любую кнопку (Рекомендую ЛКМ или КОЛЁСИКО)
+7. Выбрать режим работы "Пока зажата клавиша"
+</Description>
+    <Comment>If any problems contact - Fosiks£3968</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 5 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 3
+Delay 20 ms
+MoveR 0 3
+Delay 5 ms
+LeftUp 1
+Delay 20 ms
+LeftDown 1
+Delay 5 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 5
+Delay 20 ms
+MoveR 0 5
+Delay 5 ms
+LeftUp 1
+Delay 61 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

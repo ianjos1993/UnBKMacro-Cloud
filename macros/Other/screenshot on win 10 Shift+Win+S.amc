@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major>топ скриншот</Major>
+    <Description>Win+Shift+S – запуск панели выбора области создания снимка экрана системным скриншотером «Ножницы». Запуск этой панели при желании в системных параметрах можно назначить на клавишу Print Screen. Win-PrintScreen (PrtScn) – создание снимка всего экрана и сохранение его в файл PNG по пути «Изображения → Снимки экрана».</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 3 ms
+KeyDown 227 1
+Delay 3 ms
+KeyDown 22 1
+Delay 3 ms
+KeyUp 225 1
+Delay 3 ms
+KeyUp 22 1
+Delay 3 ms
+KeyUp 227 1
+Delay 3 ms</Syntax>
+    </KeyDown>
+    <Software>Shift+Win+S</Software>
+  </DefaultMacro>
+</Root>

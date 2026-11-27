@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>
+This macro automates a jungle clear sequence using a combination of Q, W, E, and Smite abilities, designed to optimize your clearing efficiency with minimal input. It’s useful for junglers like Master Yi, Warwick, or similar champions who rely on their abilities and auto-attacks to clear camps quickly.
+
+
+
+REQ:
+
+Champion: Any jungler that uses abilities like Q, W, E for clearing, such as Master Yi, Warwick, Olaf, or similar champions.
+
+Smite: Summoner spell must be assigned to either D or F (ensure it's available).
+Active Abilities: Make sure Q, W, E, and Smite are all available and not on cooldown.
+
+Ping: A ping below 60ms is recommended for accurate input timing.
+
+Recommended Resolution: This macro is optimized for 1920x1080 resolution (User’s screen resolution).
+
+Ensure your game is set to this resolution for the best compatibility and performance.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 0 ms
+KeyUp 20 1
+Delay 300 ms
+KeyDown 26 1
+Delay 300 ms
+KeyUp 26 1
+Delay 300 ms
+KeyDown 8 1
+Delay 500 ms
+KeyUp 8 1
+Delay 400 ms</Syntax>
+    </KeyDown>
+    <Software>League of legends</Software>
+  </DefaultMacro>
+</Root>

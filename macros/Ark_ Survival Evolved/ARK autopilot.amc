@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Бесплатный бот для длительных перелетов на летающих Дино.
+Если вы используете летающих Дино, то с этим макросом вы сможете оставить их в полете в нужном направлении и отойти, например, налить себе чай, при этом энэргия у Дино почти не будет тратиться.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 86400000 ms
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>ARK</Software>
+  </DefaultMacro>
+</Root>

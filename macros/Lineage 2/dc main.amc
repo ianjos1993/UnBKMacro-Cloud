@@ -1,0 +1,55 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос позволяет вам фармить ДК в подвязке с пп на 3 спота
+Выставляете все скилы на панель
+на окне с пп пишете (/target (Ник персонажа) ) обязательно помечаете его приоритетом, выставляете на панель макросов и зацикливаете ПКМ 
+Все готово приятной игры)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 58 1
+Delay 64
+KeyUp 58 1
+Delay 64
+KeyDown 24 1
+Delay 64
+KeyUp 24 1
+Delay 64
+KeyDown 64 1
+Delay 64
+KeyUp 64 1
+Delay 64
+KeyDown 61 1
+Delay 64
+KeyUp 61 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 62 1
+Delay 64
+KeyUp 62 1
+Delay 64
+KeyDown 62 1
+Delay 64
+KeyUp 62 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,95 @@
+<Root>
+  <DefaultMacro>
+    <Major>Leroy T8 Wall Combo 2</Major>
+    <Description>Макрос позволяет выполнять комбо с HEAT за Лероя.
+Видео демонстрации работы макроса: https://youtu.be/HktIMQ9zwW8
+
+Лерой не кричит лозунгов, не ищет последователей, не стремится к признанию. Его присутствие на арене как знак. Традиции не умерли, они просто ждали тех, кто сможет применить их с холодной решимостью и уличной правдой. Его стиль «Wing Chun» лишен показной агрессии. Он компактный, функциональный. Каждый удар Лероя как оборона, перешедшая в контроль. Он не стремится сокрушать, он гасит импульс противника, который подавляет давление серией коротких и точных ударов.
+
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 24.05.2025
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ, обращайтесь в дискорд для этого.
+
+#Leroytekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 6 ms
+KeyDown 7 1
+Delay 24 ms
+KeyDown 76 1
+Delay 5 ms
+KeyDown 77 1
+Delay 156 ms
+KeyUp 77 1
+Delay 11 ms
+KeyUp 76 1
+Delay 38 ms
+KeyUp 26 1
+Delay 24 ms
+KeyUp 7 1
+Delay 104 ms
+KeyDown 74 1
+Delay 157 ms
+KeyDown 76 1
+Delay 133 ms
+KeyUp 76 1
+Delay 68 ms
+KeyDown 76 1
+Delay 103 ms
+KeyUp 76 1
+Delay 69 ms
+KeyDown 76 1
+Delay 86 ms
+KeyUp 76 1
+Delay 80 ms
+KeyDown 76 1
+Delay 87 ms
+KeyUp 76 1
+Delay 834 ms
+KeyDown 76 1
+Delay 114 ms
+KeyUp 76 1
+Delay 81 ms
+KeyDown 76 1
+Delay 98 ms
+KeyUp 76 1
+Delay 86 ms
+KeyDown 76 1
+Delay 87 ms
+KeyUp 76 1
+Delay 62 ms
+KeyDown 76 1
+Delay 98 ms
+KeyUp 76 1
+Delay 237 ms
+KeyUp 74 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

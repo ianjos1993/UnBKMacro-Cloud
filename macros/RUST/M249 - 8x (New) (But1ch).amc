@@ -1,0 +1,72 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Разрешение 1920X1080 
+
+Сенса/sens - 0.78 - FOV 90
+
+Sens/сенса - 0.99 - FOV 70
+
+Работает хорошо сидя, но стоя не стоит.
+
+Спасибо за внимание. by.but1ch
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+MoveR 1 7
+Delay 15 ms
+MoveR 1 7
+Delay 15 ms
+MoveR 1 7
+Delay 15 ms
+MoveR 1 7
+Delay 15 ms
+MoveR 1 6
+Delay 15 ms
+MoveR 1 6
+Delay 15 ms
+MoveR 1 6
+Delay 15 ms
+MoveR 1 6
+Delay 15 ms
+MoveR 1 6
+Delay 15 ms
+MoveR 1 6
+Delay 15 ms
+MoveR 1 6
+Delay 55 ms
+MoveR 1 7
+Delay 15 ms
+MoveR 1 7
+Delay 15 ms
+MoveR 1 7
+Delay 15 ms
+MoveR 1 7
+Delay 15 ms
+MoveR 1 6
+Delay 15 ms
+MoveR 1 6
+Delay 15 ms
+MoveR 1 6
+Delay 15 ms
+MoveR 1 6
+Delay 15 ms
+MoveR 1 6
+Delay 15 ms
+MoveR 1 6
+Delay 15 ms
+MoveR 1 6
+Delay 55 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

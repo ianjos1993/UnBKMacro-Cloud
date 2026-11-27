@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всем привет, на связи Uninon
+Добавил свой новый макрос на Aug a3.
+Желательные перки - скорострел +3,+4
+Макрос считается зажимным, так что спокойно зажимайте в точку
+Юзать на КВ(клановые войны) опасно, ибо могут предъявить и выложить вас на видос
+Блокировки за это не будет, но многие кланы не захотят играть с вами, такая же ситуация была со мной :с
+Всем приятной игры.
+
+
+-------------By Union Inc.------------------</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 10 ms
+LeftUp 1
+MoveR 0 0
+MoveR -2 0
+MoveR 2 0</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

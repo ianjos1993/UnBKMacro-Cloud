@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Лучший макрос для поочередного использования 5 фласок и одного скила, задаваемого на "q". Из плюсов оптималььная скорость нажатия/отжатия клавиш, не рекомендуем для использования на записи/стриме.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 48 ms
+KeyUp 20 1
+Delay 49 ms
+KeyDown 30 1
+Delay 42 ms
+KeyUp 30 1
+Delay 43 ms
+KeyDown 31 1
+Delay 49 ms
+KeyUp 31 1
+Delay 56 ms
+KeyDown 32 1
+Delay 43 ms
+KeyUp 32 1
+Delay 50 ms
+KeyDown 33 1
+Delay 45 ms
+KeyUp 33 1
+Delay 51 ms
+KeyDown 34 1
+Delay 45 ms
+KeyUp 34 1
+Delay 51 ms</Syntax>
+    </KeyDown>
+    <Software>Path of Exile</Software>
+  </DefaultMacro>
+</Root>

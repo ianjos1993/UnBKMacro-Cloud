@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос поможет вам делать прокаст на тинкере.
+Инструкция настройки игры
+Для начало вы должны положить нужные предметы в инвенарь, а именно.
+1 слот-Z (Хекс)
+2 слот-C (Этериал)
+3 слот-Пробел(Дагон 5 уровня)
+Инструкция применения в игре.
+1) Нужно купить данные предметы.
+2) Купить Аркейн блинк (забиндить на что хочешь)
+3) В матче имея все что нужно, нужно сделать такие действия как: Нажать блинк и кнопку на которую у вас будет забинжен макрос.
+Примечания: Можно купить рефрешер и жать его после прокаста для повторения прокаста.
+Прокаст наносит примерно: 3000 урона маг и 800 чистого .</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 1 ms
+KeyUp 29 1
+Delay 1 ms
+KeyDown 6 1
+Delay 1 ms
+KeyUp 6 1
+Delay 1 ms
+KeyDown 44 1
+Delay 1 ms
+KeyUp 44 1
+Delay 1 ms
+KeyDown 20 1
+Delay 1 ms
+KeyUp 20 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

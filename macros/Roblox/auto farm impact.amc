@@ -1,0 +1,83 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>данный макрос позволяет автоматическое поднятие уровня на фрукте - IMPACT (Mythic 0.2%)
+данный макрос создан для игры Fruit Battle Graund
+ 
+
+СОВЕТ 
+
+лучше всего оставлять на фарм в колезеи, либо где то где высокие стенки или закрытое пространство откуда невозможно будет упасть
+
+ПРИМЕЧАНИЯ 
+
+макрос надо ставить на *Выполнять до  повторного нажатия* что бы вам не приходилась самому нажимать.
+Лучше фармить вдали от люедй что бы вы не попали 3 скилом по людям иначи им может не понравится и они вас убьют. 
+Лучше всего фармить на випке где нет людей. 
+
+
+ПРИЯТНОГО ПОЛЬЗОВАНИЯ </Description>
+    <Comment>;З</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 35 1
+Delay 64
+KeyUp 35 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

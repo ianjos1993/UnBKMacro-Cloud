@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>Afk Q Skill</Major>
+    <Description>AFK skill for Battle Axe weapon. stay on the same spot auto spamming Q skill. you can now afk. remember to run in loop.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Albion online</Software>
+  </DefaultMacro>
+</Root>

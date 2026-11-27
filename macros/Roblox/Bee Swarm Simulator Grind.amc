@@ -1,0 +1,111 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макро для фарма соснового дерева в BSS, ставьте улей на 2 место справа. если у вас есть больше 7 медовых пчёл и фармитесь почти без баффов , то можно удалить строки после предпоследнего цикла.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 1000 ms
+KeyUp 26 1
+Delay 64
+KeyDown 7 1
+Delay 1500 ms
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 1000 ms
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+Delay 1 s
+KeyUp 7 1
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 7 1
+Delay 3 s
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 1500 ms
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 10 s
+KeyUp 7 1
+Delay 64
+LeftDown 1
+Delay 64
+KeyDown 26 1
+Delay 2 s
+KeyUp 26 1
+Delay 64
+KeyDown 7 1
+Delay 100 ms
+KeyUp 7 1
+Delay 64
+KeyDown 22 1
+Delay 2 s
+KeyUp 22 1
+Delay 64
+KeyDown 7 1
+Delay 100 ms
+KeyUp 7 1
+Delay 64
+GoWhile 35 8
+KeyDown 4 1
+Delay 1500 ms
+KeyUp 4 1
+Delay 64
+GoWhile 35 100
+KeyDown 7 1
+Delay 5000 ms
+KeyUp 7 1
+Delay 64
+KeyDown 26 1
+Delay 3 s
+KeyUp 26 1
+Delay 64
+KeyDown 4 1
+Delay 2000 ms
+KeyUp 4 1
+Delay 64
+KeyDown 26 1
+Delay 10 s
+KeyUp 26 1
+Delay 64
+KeyDown 4 1
+Delay 3 s
+KeyUp 4 1
+Delay 64
+KeyDown 26 1
+Delay 6000 ms
+KeyUp 26 1
+Delay 64
+KeyDown 4 1
+Delay 3 s
+KeyUp 4 1
+Delay 64
+KeyDown 26 1
+Delay 500 ms
+KeyUp 26 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 3 min
+GoWhile 1 99999
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

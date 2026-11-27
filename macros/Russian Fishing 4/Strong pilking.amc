@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major>Для норвежки</Major>
+    <Description>Закиньте удочку под лодку дождитесь опускания в слой и запустите макрос в ожидании рыбы как только рыба клюнула выключите макрос и доставайте рыбу. Удачи в рыбалке)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 192 ms
+RightUp 1
+Delay 188 ms
+GoWhile 1 200</Syntax>
+    </KeyDown>
+    <Software>Русская Рыбалка 4</Software>
+  </DefaultMacro>
+</Root>

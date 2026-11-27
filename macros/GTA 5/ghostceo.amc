@@ -1,0 +1,59 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>GTA Online v1.70
+Макрос полностью рабочий под версию GTAO 1.70 (после фикса работы AHK) 
+Макрос создан для быстрой активации Скрытой Организации (Ghost CEO). Для работы макроса необходимо быть шефом СВОЕЙ организации (СЕО). 
+Работоспособность макроса может варьироваться от количества ФПС в сессии. При любых фейлах макроса необходимо вручную менять тайминги задержек.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 16 1
+Delay 19 ms
+KeyUp 16 1
+Delay 19 ms
+KeyDown 88 1
+Delay 19 ms
+KeyUp 88 1
+Delay 19 ms
+KeyDown 82 1
+Delay 19 ms
+KeyUp 82 1
+Delay 19 ms
+KeyDown 82 1
+Delay 19 ms
+KeyUp 82 1
+Delay 19 ms
+KeyDown 82 1
+Delay 19 ms
+KeyUp 82 1
+Delay 19 ms
+KeyDown 88 1
+Delay 19 ms
+KeyUp 88 1
+Delay 19 ms
+KeyDown 82 1
+Delay 19 ms
+KeyUp 82 1
+Delay 19 ms
+KeyDown 82 1
+Delay 19 ms
+KeyUp 82 1
+Delay 19 ms
+KeyDown 82 1
+Delay 19 ms
+KeyUp 82 1
+Delay 19 ms
+KeyDown 88 1
+Delay 19 ms
+KeyUp 88 1
+Delay 19 ms</Syntax>
+    </KeyDown>
+    <Software>GTA V</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>car crushers 2</Major>
+    <Description>Для работы нужна машина - ядерка (та которая  по нажатию кнопки взрывается)
+Для работы макроса нужно:
+1. Заспавнить машину
+2. Дождаться когда спадет кд для перезагрузки машины
+3. Запустить макрос
+Макрос автоматически заспавнит новую машину и тут же нажмет кнопку взрыва. Через 10 сек машина взорвется, а еще через 11 сек снова заспавнится (+1 сек на всякий случай)</Description>
+    <Comment>Макрос рабочий. Делает по 10к платины за ночь, 400к деталей и +- 120Т денег </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 2 s
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 21 s</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

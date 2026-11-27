@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Самое быстрое приседание поможет потролить друзей либо же для других целей.
+1. Установите макрос
+2. Настройке их на кнопку
+3. Поставьте Использовать до повторного нажатия.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 1
+KeyUp 225 1
+Delay 1</Syntax>
+    </KeyDown>
+    <Software>minecraft</Software>
+  </DefaultMacro>
+</Root>

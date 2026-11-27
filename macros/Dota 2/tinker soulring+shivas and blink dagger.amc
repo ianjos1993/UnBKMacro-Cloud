@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>una manera facil de jugar tinker si tu solo quieres usar macros solo para tres teclas, el tiempo de delay de las teclas pueden ser cambiadas a gusto pero se los recomienda no modificar porque esta configuracion toma en cuenta el tiempo de casteo de habilidades del heroe</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 64
+KeyUp 29 1
+Delay 64
+KeyDown 27 1
+Delay 64
+KeyUp 27 1
+Delay 64
+KeyDown 6 1
+Delay 50 ms
+KeyUp 6 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>dota 2</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Афк фарм для любой профы. ставим на 1 - атоатаку или автоатаку с петом ( для петоводов) на 2 - ставим хилку или скилл ( смотря какая профа). Камера крутиться автоматически по кругу что позволяет бегать безсконечно. Разрешение 1280х1024.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+RightDown 1
+MoveR -295 -13
+Delay 64
+RightUp 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+RightDown 1
+MoveR 440 8
+Delay 64
+RightUp 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+GoWhile 1 5</Syntax>
+    </KeyDown>
+    <Software>Rappelz</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для фермы тыкв и арбузов на 5 плотов, ставите на клавишу с настройкой отключения только при повторном нажатие(Фермы с 3 рядами) Hypixel RPG Skyblock</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+LeftDown 1
+KeyDown 4 1
+Delay 73 s
+KeyUp 26 1
+LeftUp 1
+KeyUp 4 1
+Delay 64
+KeyDown 26 1
+LeftDown 1
+KeyDown 7 1
+Delay 73 s
+KeyUp 26 1
+LeftUp 1
+KeyUp 7 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

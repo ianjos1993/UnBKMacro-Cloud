@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос автоматически нажимает поиск сигналов и на 6-й лампочке нажимает "Поиск"
+1920 на 1080, в покне без рамки</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1078 799
+Delay 80 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1350 792
+Delay 100 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 11200 ms
+MoveTo 1350 786
+Delay 100
+LeftDown 1
+Delay 100
+LeftUp 1
+Delay 100
+MoveTo 631 571
+Delay 100
+LeftDown 1
+Delay 100
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

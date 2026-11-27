@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Легитный Баннихоп. Активация SPACE. Играю уже около 2 месяцев все нормльно.
+ Всем удачного пользования</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 12
+KeyUp 44 1
+Delay 7 ms
+KeyDown 44 1
+Delay 6
+KeyUp 44 1
+Delay 8 ms</Syntax>
+    </KeyDown>
+    <Software>CS: GO</Software>
+  </DefaultMacro>
+</Root>

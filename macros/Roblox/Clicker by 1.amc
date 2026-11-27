@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос - кликер на цифру 1. Он подходит для игр, в которых нужно кликать на цифру 1, думаю, этот макрос будет полезным для игр в роблоксе.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyUp 30 1
+GoWhile 1 11111111</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

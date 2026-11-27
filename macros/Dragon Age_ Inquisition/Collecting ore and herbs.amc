@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>Поиск и сбор трав и руды</Major>
+    <Description>Скрипт автоматически ищет траву и руду, собирает при приблежении, Работает на любом разрешение, включать желательно на повтор при нажатой кнопке. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 300 ms
+KeyDown 16 1
+Delay 64
+KeyUp 16 1
+Delay 1000 ms</Syntax>
+    </KeyDown>
+    <Software>Dragon Age: Inquisition</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,85 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Отрывок знаменитого сингла "Faded" популярного диджея Алана Уокера, адаптированного под клавишные музыкальные инструменты Undawn (такие как пианино, клавитара и им подобные)</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 60 1
+Delay 64
+KeyUp 60 1
+Delay 64
+KeyDown 23 1
+Delay 330 ms
+KeyUp 23 1
+Delay 330 ms
+KeyDown 23 1
+Delay 330 ms
+KeyUp 23 1
+Delay 330 ms
+KeyDown 23 1
+Delay 330 ms
+KeyUp 23 1
+Delay 330 ms
+KeyDown 24 1
+Delay 330 ms
+KeyUp 24 1
+Delay 330 ms
+KeyDown 19 1
+Delay 330 ms
+KeyUp 19 1
+Delay 330 ms
+KeyDown 19 1
+Delay 330 ms
+KeyUp 19 1
+Delay 330 ms
+KeyDown 19 1
+Delay 330 ms
+KeyUp 19 1
+Delay 330 ms
+KeyDown 18 1
+Delay 330 ms
+KeyUp 18 1
+Delay 330 ms
+KeyDown 24 1
+Delay 330 ms
+KeyUp 24 1
+Delay 330 ms
+KeyDown 24 1
+Delay 330 ms
+KeyUp 24 1
+Delay 330 ms
+KeyDown 24 1
+Delay 330 ms
+KeyUp 24 1
+Delay 330 ms
+KeyDown 24 1
+Delay 330 ms
+KeyUp 24 1
+Delay 330 ms
+KeyDown 32 1
+Delay 330 ms
+KeyUp 32 1
+Delay 330 ms
+KeyDown 32 1
+Delay 330 ms
+KeyUp 32 1
+Delay 330 ms
+KeyDown 32 1
+Delay 330 ms
+KeyUp 32 1
+Delay 330 ms
+KeyDown 8 1
+Delay 330 ms
+KeyUp 8 1
+Delay 330 ms
+GoWhile 5 2</Syntax>
+    </KeyDown>
+    <Software>Undawn</Software>
+  </DefaultMacro>
+</Root>

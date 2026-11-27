@@ -1,0 +1,70 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос создан для автоматического принятия дуэлей на PVP серверах
+1)Макрос автоматически пишет команду /duelaccept на PVP cерверах,например Saturn.
+2)Биндите макрос на любую удобную вам клавишу или кнопку мыши.
+3)После нажатия на поставленную вами клавишу или кнопку мыши макрос автоматически напишет команду.
+4)Не используйте макрос на серверах где они запрещены.
+5)Макрос будет так же полезен на Анархиях.
+6)Спасибо за внимание и приятного использования.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 20 ms
+KeyUp 23 1
+Delay 20 ms
+KeyDown 56 1
+Delay 20 ms
+KeyUp 56 1
+Delay 20 ms
+KeyDown 7 1
+Delay 20 ms
+KeyUp 7 1
+Delay 20 ms
+KeyDown 24 1
+Delay 20 ms
+KeyUp 24 1
+Delay 20 ms
+KeyDown 8 1
+Delay 20 ms
+KeyUp 8 1
+Delay 20 ms
+KeyDown 15 1
+Delay 20 ms
+KeyUp 15 1
+Delay 20 ms
+KeyDown 4 1
+Delay 20 ms
+KeyUp 4 1
+Delay 20 ms
+KeyDown 6 1
+Delay 20 ms
+KeyUp 6 1
+Delay 20 ms
+KeyDown 6 1
+Delay 20 ms
+KeyUp 6 1
+Delay 20 ms
+KeyDown 8 1
+Delay 20 ms
+KeyUp 8 1
+Delay 20 ms
+KeyDown 19 1
+Delay 20 ms
+KeyUp 19 1
+Delay 20 ms
+KeyDown 23 1
+Delay 20 ms
+KeyUp 23 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

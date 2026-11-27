@@ -1,0 +1,68 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Быстрое написание population нажатие ENTER и ЛКМ(применияется ко всем играм и приложениям)
+
+
+
+Ошибок не замеченно</Description>
+    <Comment>Ошибок не замеченно применияется ко всем играм и приложениям</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 19 1
+Delay 6 ms
+KeyUp 19 1
+Delay 6 ms
+KeyDown 18 1
+Delay 6 ms
+KeyUp 18 1
+Delay 6 ms
+KeyDown 19 1
+Delay 6 ms
+KeyUp 19 1
+Delay 6 ms
+KeyDown 24 1
+Delay 6 ms
+KeyUp 24 1
+Delay 6 ms
+KeyDown 15 1
+Delay 6 ms
+KeyUp 15 1
+Delay 6 ms
+KeyDown 4 1
+Delay 6 ms
+KeyUp 4 1
+Delay 6 ms
+KeyDown 23 1
+Delay 6 ms
+KeyUp 23 1
+Delay 6 ms
+KeyDown 12 1
+Delay 6 ms
+KeyUp 12 1
+Delay 6 ms
+KeyDown 18 1
+Delay 6 ms
+KeyUp 18 1
+Delay 6 ms
+KeyDown 17 1
+Delay 6 ms
+KeyUp 17 1
+Delay 6 ms
+KeyDown 88 1
+Delay 6 ms
+KeyUp 88 1
+Delay 6 ms
+LeftDown 1
+Delay 6 ms
+LeftUp 1
+Delay 6 ms</Syntax>
+    </KeyDown>
+    <Software>Пишет population</Software>
+  </DefaultMacro>
+</Root>

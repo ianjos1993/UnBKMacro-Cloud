@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос предназначен для очень быстрой стрельбы с дробовика, для  его использования следует купить быструю перезарядку(особенно хорошо он работает на M1887), однако можно использовать на любом дробовике. Я ставлю на клавишу ЛКМ либо обе боковые, с ЛКМ конфликта не возникает у этого макроса, можно и на Q тут тоже нет конфликта</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 1 ms
+Delay 2 ms
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+Delay 2 ms
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+Delay 2 ms
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+Delay 2 ms
+Delay 1 ms
+WheelUp 1
+Delay 1 ms
+Delay 2 ms
+Delay 1 ms
+WheelDown 1
+Delay 1 ms
+Delay 2 ms
+Delay 1 ms
+WheelUp 1
+Delay 1 ms
+Delay 2 ms
+Delay 1 ms
+WheelDown 1
+Delay 1 ms
+Delay 2 ms
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

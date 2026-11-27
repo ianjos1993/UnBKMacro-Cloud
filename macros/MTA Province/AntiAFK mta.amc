@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Анти-АФК для МТА, каждый 4 минуты действие 
+разрешение экрана ( 1280х1024 )
+План работы
+1. Заходим в дом ( не важно чей )
+2. Ложимся на кровать 
+3. запускаем бота!
+
+Всё очень легко и просто!
+Лучше стоять в афк с 3 часа утра когда админов нету
+Или в час пик, меньший шанс обнаружения
+
+Всем удачного пользования!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 13 1
+Delay 240004 ms
+KeyUp 13 1
+Delay 4 min
+Button4down 1
+Delay 4 min
+Button4Up 1
+Delay 4 min
+WheelDown 1
+Delay 4 ms
+MoveR 0 0
+Delay 4 ms
+MoveR 577 103
+Delay 4 min
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

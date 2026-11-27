@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>Заставляет персонажа бежать на восток</Major>
+    <Description>Простой макрос для использования в сингл/мультиплеере. Персонаж будет бесконечно, пока работает макрос, пытаться бежать в направлении страны восходящего солнца не смотря ни на что, игнорируя ранения, внешние раздражители и прочее, пока вы не отключите макрос.
+
+При этом стоит учитывать, что бег персонажа расходует выносливость.
+ Следует следить за этим показателем для того, чтобы не допустить получения серьёзных дебаффов. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+KeyDown 7 1
+Delay 10 s
+KeyUp 225 1
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Project Zomboid</Software>
+  </DefaultMacro>
+</Root>

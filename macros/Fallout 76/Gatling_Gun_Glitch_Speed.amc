@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>Gatling_Gun_Glitch_Speed</Major>
+    <Description>ВНИМАНИЕ: работает только при использовании вида от 3-го лица и без использования системы VATS. 
+
+Увеличивает скорость стрельбы в 3-5 раз из оружия Гатлинга.
+
+Возможные проблемы (не критично, отключаемо)
+1) Не корректное срабатывания при просадки FPS. 
+2) Периодическое залипание режима прицеливания. (перейти в режим от 1-го лица, отключить)
+3) Автоматическая стрельба. (активировать стрельбу по дефолту (ЛКМ))
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 1 ms
+LeftDown 1
+Delay 10 ms
+RightUp 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Fallout 76</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>macro spass auto</Major>
+    <Description>this is the best macro for sutomatic spass, just put it on your left mouse
+1920x1080
+fov90
+sens 0.6
+dpi 1300
+
+support me and enjoy</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 50 ms
+MoveR 0 -12
+Delay 50 ms
+MoveR 0 -12
+Delay 50 ms
+MoveR 0 -12
+Delay 50 ms
+MoveR 0 -12
+Delay 50 ms
+MoveR 0 -12
+Delay 50 ms
+LeftUp 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>rust</Software>
+  </DefaultMacro>
+</Root>

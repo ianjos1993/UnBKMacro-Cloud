@@ -1,0 +1,55 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Феникс фарм Завоевания "Зал рыцарей-призраков"
++++++++++++++++++++++++++++++++++++++++++++++++
+Необходимо:
+Петомец Золотая жар птица в основном слоте
+Скил Мифический обвал на букву "V" 
+Скил Взрывающаяся стрела на букву"R" 
++++++++++++++++++++++++++++++++++++++++++++++++
+Фарм осуществляеться от 1 до 10 уровня в зависимости от вашего БМа, стоят достаточные долгие задержки между тп к боссу и начала нового Завоевания для воизбежания прогрузок как быстрых пк так и слабых, Примерное время фарма Данжа 10-13 секунд.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 58 1
+Delay 64
+KeyUp 58 1
+Delay 64
+KeyDown 61 1
+Delay 64
+KeyUp 61 1
+Delay 6000 7000 ms
+KeyDown 35 1
+Delay 64
+KeyUp 35 1
+Delay 3500 4000 ms
+KeyDown 26 1
+Delay 3850 4001 ms
+KeyUp 26 1
+Delay 64
+KeyDown 7 1
+Delay 1500 1700 ms
+KeyUp 7 1
+Delay 800 1500 ms
+KeyDown 25 1
+Delay 64
+KeyUp 25 1
+Delay 2000 2500 ms
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 9000 10000 ms
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 7000 8001 ms</Syntax>
+    </KeyDown>
+    <Software>Kritika Online</Software>
+  </DefaultMacro>
+</Root>

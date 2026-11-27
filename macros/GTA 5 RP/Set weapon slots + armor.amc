@@ -1,0 +1,27 @@
+Send(i);
+#region // Броник
+    Sleep(200);
+    leftDOWN(643,704);
+    Sleep(200);
+    leftUP(1127,471);
+#endregion
+#region // 1 Оружее
+    Sleep(500);
+    leftDOWN(370,701);
+    Sleep(200);
+    leftUP(1327,659);
+#endregion
+#region // 2 Оружее
+    Sleep(200);
+    leftDOWN(462,702);
+    Sleep(200);
+    leftUP(1508,662);
+#endregion
+    #region // 3 Оружее
+    Sleep(200);
+    leftDOWN(555,703);
+    Sleep(200);
+    leftUP(1413,750);
+#endregion
+Sleep(200);
+Send(i);

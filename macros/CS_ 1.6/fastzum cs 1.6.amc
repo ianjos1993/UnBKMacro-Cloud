@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>Karyk</Major>
+    <Description>если ваш противник в близи и вы хотите его убить особо не напрягаясь или вы хотите красиво убить врага быстро прицелившись, то этот макрос для вас!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 7 ms
+RightUp 1
+Delay 5 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>CS 1.6</Software>
+  </DefaultMacro>
+</Root>

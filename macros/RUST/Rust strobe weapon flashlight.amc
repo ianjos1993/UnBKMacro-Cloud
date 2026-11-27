@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This is macro very simple bind it to a key and as long as you hold it it should strobe the flashlight.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 45 ms
+KeyUp 9 1
+Delay 45 ms
+KeyDown 9 1
+Delay 45 ms
+KeyUp 9 1
+Delay 45 ms
+KeyDown 9 1
+Delay 45 ms
+KeyUp 9 1
+Delay 45 ms
+KeyDown 9 1
+Delay 45 ms
+KeyUp 9 1
+Delay 45 ms
+KeyDown 9 1
+Delay 45 ms
+KeyUp 9 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

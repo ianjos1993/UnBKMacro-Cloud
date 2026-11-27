@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос идеально подойдёт для тех, кто не умеет нормально играть в дуели. Макрос лёгкий, но полезный в макросе используется стрейф (вид комбо). Для активации зажать кнопку активации макроса и мышкой наводится на противника.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 4 1
+Delay 14 ms
+KeyUp 4 1
+Delay 14 ms
+KeyDown 4 1
+Delay 14 ms
+KeyUp 4 1
+Delay 14 ms
+KeyDown 7 1
+Delay 14 ms
+KeyUp 7 1
+Delay 14 ms
+KeyDown 7 1
+Delay 14 ms
+KeyUp 7 1
+Delay 14 ms
+KeyDown 7 1
+Delay 14 ms
+KeyUp 7 1
+Delay 14 ms
+KeyDown 4 1
+Delay 14 ms
+KeyUp 4 1
+Delay 14 ms
+KeyDown 4 1
+Delay 14 ms
+KeyUp 4 1
+Delay 14 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

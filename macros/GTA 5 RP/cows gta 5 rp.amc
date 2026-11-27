@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>сам доит корову 
+подойдите к ней и нажмите бинд 
+работает только с ближайшей коровой к сдаче молока
+1920-1080</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 500 1000
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 15 ms
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+GoWhile 1 100000
+MoveTo 1000 500
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

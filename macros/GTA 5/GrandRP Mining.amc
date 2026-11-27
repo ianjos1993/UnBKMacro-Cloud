@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major>AimKoot</Major>
+    <Description>GrandRP Roleplay Server Automatic Mining for Copper, Smaragd, Rubin and Diamond.
+
+You dont need press E yourself, the macro do it for you</Description>
+    <Comment>GrandRP Server Easy Automatic Mining</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 50 ms
+KeyDown 8 1
+Delay 5396 ms
+KeyUp 8 1
+Delay 6908 ms
+KeyDown 8 1
+Delay 5459 ms
+KeyUp 8 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>Grand Theft Auto V</Software>
+  </DefaultMacro>
+</Root>

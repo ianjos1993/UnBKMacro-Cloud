@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос эксплуатирует редкий баг в CS2, при котором игрок стреляет с использованием прицела, но в киллфиде (табло убийств) отображается иконка без прицела — как будто выстрел был сделан "от бедра". Это может сбивать с толку противников и выглядит необычно в хайлайтах и демках.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Button4down 1
+RightDown 1
+Delay 5 ms
+LeftDown 1</Syntax>
+    </KeyDown>
+    <Software>Counter-Strike 2</Software>
+  </DefaultMacro>
+</Root>

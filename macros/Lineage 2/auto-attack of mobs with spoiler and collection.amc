@@ -1,0 +1,327 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос для автофарма не социальных мобов
+разрешение экрана 1920х1080
+подходит под любого персонажа с ближним боем, не только спойлера. за других персонажей можно использовать с манором, за спойлера сделать макрос на спойл и манор для дополнительного заработка и максимальной эффективности (т.к. при собирании спойла моб пропадает и персонаж сразу бежит к новому)
+
+все помещается на 3 строку
+на 1 ячейку поместить игровой макрос для выбора моба (/target *часть имени моба* (например /target ragna)
+на 2 ячейку поместить спойл (или макрос (в первую строку посадить себя, во вторую строку заспойлить))
+на 3 ячейку поместить свип (или макрос (если используется в связке с манором, то обязательно сначала собрать манор, а потом уже свип))
+на 4 ячейку сбор дропа</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 3 ms
+MoveTo 990 930
+Delay 3 ms
+MoveTo 989 929
+Delay 4 ms
+MoveTo 989 927
+Delay 3 ms
+MoveTo 989 926
+Delay 3 ms
+MoveTo 987 925
+Delay 3 ms
+MoveTo 987 924
+Delay 4 ms
+MoveTo 986 923
+Delay 4 ms
+MoveTo 986 922
+Delay 3 ms
+MoveTo 986 920
+Delay 3 ms
+MoveTo 986 919
+Delay 4 ms
+MoveTo 985 918
+Delay 4 ms
+MoveTo 984 916
+Delay 7 ms
+MoveTo 984 915
+Delay 4 ms
+MoveTo 983 914
+Delay 155 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 87 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 63 ms
+LeftUp 1
+Delay 76 ms
+LeftDown 1
+Delay 67 ms
+LeftUp 1
+Delay 75 ms
+LeftDown 1
+Delay 72 ms
+LeftUp 1
+Delay 48 ms
+MoveTo 984 913
+Delay 4 ms
+MoveTo 985 913
+Delay 3 ms
+MoveTo 986 912
+Delay 3 ms
+MoveTo 987 912
+Delay 4 ms
+MoveTo 988 912
+Delay 4 ms
+MoveTo 989 912
+Delay 4 ms
+MoveTo 991 912
+Delay 7 ms
+MoveTo 992 911
+Delay 0 ms
+MoveTo 993 911
+Delay 3 ms
+MoveTo 994 910
+Delay 3 ms
+MoveTo 995 910
+Delay 4 ms
+MoveTo 996 910
+Delay 8 ms
+MoveTo 997 910
+Delay 7 ms
+MoveTo 998 910
+Delay 12 ms
+MoveTo 998 910
+Delay 3 ms
+MoveTo 1000 909
+Delay 3 ms
+MoveTo 1001 909
+Delay 4 ms
+MoveTo 1001 909
+Delay 4 ms
+MoveTo 1003 909
+Delay 7 ms
+MoveTo 1004 909
+Delay 4 ms
+MoveTo 1005 909
+Delay 3 ms
+MoveTo 1005 909
+Delay 4 ms
+MoveTo 1006 908
+Delay 3 ms
+MoveTo 1008 908
+Delay 29 ms
+MoveTo 1009 907
+Delay 10 ms
+MoveTo 1009 907
+Delay 7 ms
+MoveTo 1011 907
+Delay 3 ms
+MoveTo 1012 907
+Delay 4 ms
+MoveTo 1013 907
+Delay 4 ms
+MoveTo 1013 906
+Delay 3 ms
+MoveTo 1013 906
+Delay 8 ms
+MoveTo 1015 906
+Delay 4 ms
+MoveTo 1016 906
+Delay 55 ms
+LeftDown 1
+Delay 76 ms
+LeftUp 1
+Delay 68 ms
+LeftDown 1
+Delay 69 ms
+LeftUp 1
+Delay 88 ms
+LeftDown 1
+Delay 44 ms
+LeftUp 1
+Delay 87 ms
+LeftDown 1
+Delay 51 ms
+LeftUp 1
+Delay 92 ms
+LeftDown 1
+Delay 43 ms
+LeftUp 1
+Delay 80 ms
+LeftDown 1
+Delay 83 ms
+LeftUp 1
+Delay 68 ms
+LeftDown 1
+Delay 83 ms
+LeftUp 1
+Delay 112 ms
+MoveTo 1017 906
+Delay 3 ms
+MoveTo 1017 906
+Delay 3 ms
+MoveTo 1020 906
+Delay 4 ms
+MoveTo 1021 906
+Delay 3 ms
+MoveTo 1022 906
+Delay 4 ms
+MoveTo 1023 906
+Delay 3 ms
+MoveTo 1024 906
+Delay 3 ms
+MoveTo 1025 906
+Delay 8 ms
+MoveTo 1026 906
+Delay 3 ms
+MoveTo 1027 906
+Delay 3 ms
+MoveTo 1027 906
+Delay 8 ms
+MoveTo 1029 906
+Delay 3 ms
+MoveTo 1029 906
+Delay 3 ms
+MoveTo 1031 906
+Delay 4 ms
+MoveTo 1032 906
+Delay 4 ms
+MoveTo 1033 906
+Delay 3 ms
+MoveTo 1034 906
+Delay 8 ms
+MoveTo 1035 906
+Delay 7 ms
+MoveTo 1035 906
+Delay 3 ms
+MoveTo 1037 906
+Delay 8 ms
+MoveTo 1038 906
+Delay 4 ms
+MoveTo 1039 906
+Delay 3 ms
+MoveTo 1040 906
+Delay 8 ms
+MoveTo 1041 906
+Delay 3 ms
+MoveTo 1042 906
+Delay 8 ms
+MoveTo 1043 906
+Delay 7 ms
+MoveTo 1043 906
+Delay 3 ms
+MoveTo 1045 906
+Delay 8 ms
+MoveTo 1045 906
+Delay 10 ms
+MoveTo 1047 906
+Delay 1 ms
+MoveTo 1048 906
+Delay 8 ms
+MoveTo 1048 906
+Delay 7 ms
+MoveTo 1050 906
+Delay 8 ms
+MoveTo 1051 906
+Delay 7 ms
+MoveTo 1051 906
+Delay 32 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 91 ms
+LeftDown 1
+Delay 71 ms
+LeftUp 1
+Delay 72 ms
+LeftDown 1
+Delay 71 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 68 ms
+LeftUp 1
+Delay 75 ms
+LeftDown 1
+Delay 72 ms
+LeftUp 1
+Delay 75 ms
+LeftDown 1
+Delay 75 ms
+LeftUp 1
+Delay 108 ms
+MoveTo 1053 906
+Delay 3 ms
+MoveTo 1054 906
+Delay 3 ms
+MoveTo 1054 906
+Delay 4 ms
+MoveTo 1058 906
+Delay 3 ms
+MoveTo 1060 906
+Delay 4 ms
+MoveTo 1063 906
+Delay 3 ms
+MoveTo 1065 906
+Delay 4 ms
+MoveTo 1067 906
+Delay 3 ms
+MoveTo 1069 907
+Delay 4 ms
+MoveTo 1069 907
+Delay 3 ms
+MoveTo 1074 908
+Delay 3 ms
+MoveTo 1076 908
+Delay 3 ms
+MoveTo 1078 909
+Delay 4 ms
+MoveTo 1080 909
+Delay 4 ms
+MoveTo 1082 909
+Delay 4 ms
+MoveTo 1084 909
+Delay 3 ms
+MoveTo 1084 909
+Delay 3 ms
+MoveTo 1086 909
+Delay 4 ms
+MoveTo 1087 909
+Delay 7 ms
+MoveTo 1087 909
+Delay 108 ms
+MoveTo 1088 909
+Delay 51 ms
+LeftDown 1
+Delay 76 ms
+LeftUp 1
+Delay 75 ms
+LeftDown 1
+Delay 76 ms
+LeftUp 1
+Delay 83 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 92 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 84 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 38 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 38 ms</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

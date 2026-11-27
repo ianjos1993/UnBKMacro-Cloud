@@ -1,0 +1,82 @@
+<Root>
+  <DefaultMacro>
+    <Major>Zafina Sample Combo 2</Major>
+    <Description>Макрос позволяет выполнять комбо за Zafina с лаунчера df2 + heat.
+Видео демонстрации работы макроса: https://youtu.be/x9qIx1Ft3yM
+
+Уступая только Лею по общему количеству стоек и переходов в стойки от атак, Зафина  действительно сложный и непредсказуемый персонаж, сила которого заключается не столько в ее чистой силе, сколько в ее менее осязаемых элементах. Хотя ее движения по большей части небезопасны и легко наказуемы, ее движения настолько неортодоксальны, что большинство противников не могут отреагировать должным образом. Ее дальность также является одним из ее лучших оружий, и она может наказывать противников с обычно безопасных дистанций. В Tekken 7 список приемов Зафины получает атаки, которые усиливаются силой Азазеля , находящейся в ее левой руке. Это можно увидеть в ее движении «Рука мести» , а также во время ее «Искусства ярости» и «Движения ярости» . Она сохраняет эти способности в Tekken 8 , получая еще больше атак с использованием Азазеля.
+
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 04.03.2024
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#zafinatekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 7 ms
+KeyDown 22 1
+Delay 7 ms
+KeyDown 74 1
+Delay 184 ms
+KeyUp 22 1
+Delay 16 ms
+KeyUp 74 1
+Delay 8 ms
+KeyUp 7 1
+Delay 568 ms
+KeyDown 76 1
+Delay 87 ms
+KeyUp 76 1
+Delay 527 ms
+KeyDown 77 1
+Delay 87 ms
+KeyUp 77 1
+Delay 583 ms
+KeyDown 7 1
+Delay 88 ms
+KeyUp 7 1
+Delay 72 ms
+KeyDown 7 1
+Delay 175 ms
+KeyUp 7 1
+Delay 40 ms
+KeyDown 4 1
+Delay 87 ms
+KeyDown 73 1
+Delay 79 ms
+KeyUp 4 1
+Delay 55 ms
+KeyUp 73 1
+Delay 104 ms
+KeyDown 75 1
+Delay 103 ms
+KeyUp 75 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major>macro smg holo</Major>
+    <Description>this is the best macro with smg with holo, just set it in your left mouse and you will kill everyone
+fov 90
+1920x1080
+dpi 1400
+sens 0.6
+
+support me and enjoy the macro</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 48 ms
+MoveR 0 -16
+Delay 48 ms
+MoveR 0 -19
+Delay 48 ms
+MoveR 0 -17
+Delay 48 ms
+MoveR 0 -17
+Delay 48 ms
+MoveR 0 -20
+Delay 48 ms
+MoveR 0 -21
+Delay 48 ms
+LeftUp 1
+Delay 48 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,97 @@
+<Root>
+  <DefaultMacro>
+    <Major>Yoshimitsu Basic Combo 1</Major>
+    <Description>Макрос позволяет выполнять комбо за Yoshimitsu с лаунчера.
+Видео демонстрации работы макроса: https://youtu.be/RbFRQiTHb6s
+
+Ёсимицу решил найти владельца голоса, которым с ним общался меч, и убить его, полагая, что это положит конец разрушительной воле клинка. Доктор Босконович снабдил Ёсимицу новейшей усиленной броней, прежде чем отправиться на поиски. Его путешествие привело его к участию в турнире King of Iron Fist Tournament 8, где он выиграл предварительный этап Азиатского блока А. Он перешел в следующий раунд турнира, который проводился в Колизее в Италии, и встретился с Брайаном Фьюри; Однако мероприятие было сорвано махинациями Кадзуи Мисимы, прежде чем удалось определить абсолютного победителя.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 21.05.2024
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#yoshimitsutekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 27 ms
+KeyDown 7 1
+Delay 20 ms
+KeyDown 74 1
+Delay 179 ms
+KeyUp 74 1
+Delay 0 ms
+KeyUp 22 1
+Delay 69 ms
+KeyUp 7 1
+Delay 359 ms
+KeyDown 7 1
+Delay 50 ms
+KeyDown 74 1
+Delay 160 ms
+KeyDown 73 1
+Delay 120 ms
+KeyUp 74 1
+Delay 40 ms
+KeyUp 73 1
+Delay 39 ms
+KeyUp 7 1
+Delay 830 ms
+KeyDown 7 1
+Delay 79 ms
+KeyUp 7 1
+Delay 60 ms
+KeyDown 7 1
+Delay 230 ms
+KeyUp 7 1
+Delay 40 ms
+KeyDown 22 1
+Delay 40 ms
+KeyDown 74 1
+Delay 89 ms
+KeyUp 74 1
+Delay 70 ms
+KeyDown 74 1
+Delay 80 ms
+KeyUp 74 1
+Delay 80 ms
+KeyDown 74 1
+Delay 90 ms
+KeyUp 74 1
+Delay 40 ms
+KeyDown 74 1
+Delay 110 ms
+KeyUp 74 1
+Delay 129 ms
+KeyDown 74 1
+Delay 200 ms
+KeyUp 74 1
+Delay 310 ms
+KeyUp 22 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

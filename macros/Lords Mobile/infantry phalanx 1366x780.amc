@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>смена построения на пехотную фалангу для разрешения монитора 1366х780. работает очень шустро при стабильном подключении интернета</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 35 99
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 146 701
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 276 588
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1045 638
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 100 ms
+MoveTo 1320 46
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 100 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Lords Mobile</Software>
+  </DefaultMacro>
+</Root>

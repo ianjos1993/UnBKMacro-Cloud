@@ -1,0 +1,72 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос автоматически меняет ваш режим игры в Minecraft Bedrock. Если вы что-то строите в своём мире, и вам нужно быстро переключить режим игры, макрос отлично подойдет для этого.
+
+Инструкция по установке данного макроса:
+1. Установите этот макрос.
+2. Назначьте его на удобную для вас клавишу.
+3. Заходите в игру и пользуйтесь!
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>SetLang en-US
+KeyDown 56 1
+Delay 30
+KeyUp 56 1
+Delay 30
+KeyDown 10 1
+Delay 30
+KeyUp 10 1
+Delay 30
+KeyDown 4 1
+Delay 30
+KeyUp 4 1
+Delay 30
+KeyDown 16 1
+Delay 30
+KeyUp 16 1
+Delay 30
+KeyDown 8 1
+Delay 30
+KeyUp 8 1
+Delay 30
+KeyDown 16 1
+Delay 30
+KeyUp 16 1
+Delay 30
+KeyDown 18 1
+Delay 30
+KeyUp 18 1
+Delay 30
+KeyDown 7 1
+Delay 30
+KeyUp 7 1
+Delay 30
+KeyDown 8 1
+Delay 30
+KeyUp 8 1
+Delay 30
+KeyDown 44 1
+Delay 30
+KeyUp 44 1
+Delay 30
+KeyDown 30 1
+Delay 30
+KeyUp 30 1
+Delay 30
+KeyDown 88 1
+Delay 30
+KeyUp 88 1
+Delay 30</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

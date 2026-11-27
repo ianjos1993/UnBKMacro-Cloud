@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для новогоднего события под названием куча мала. Кликает левой правой кнопкой мыши быстрее человека. Вам просто нужно нажимать удобную вам клавишу, а макрос за одно нажатие будет делать целых 4 клика. Соответственно вы будете в 4 раза быстрее среднего игрока.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 7 23 ms
+LeftUp 1
+Delay 5 9 ms
+RightDown 1
+Delay 9 26 ms
+RightUp 1
+RightDown 1
+Delay 7 23 ms
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Stay Out</Software>
+  </DefaultMacro>
+</Root>

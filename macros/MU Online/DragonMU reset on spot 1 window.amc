@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для авторесета DragonMU ресет на споте нужно прописать /reset Макрос будет повторять действие и делать ресет 1 раз в 200 секунд</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 20 s
+KeyDown 88 1
+KeyUp 88 1
+Delay 1 s
+KeyDown 82 1
+KeyUp 82 1
+Delay 1 s
+KeyDown 88 1
+KeyUp 88 1
+Delay 200 s
+GoWhile 2 1000</Syntax>
+    </KeyDown>
+    <Software>MU Online</Software>
+  </DefaultMacro>
+</Root>

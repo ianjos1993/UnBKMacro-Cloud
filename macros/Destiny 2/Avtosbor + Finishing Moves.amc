@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос избавляет от необходимости нажимать/зажимать клавишу Е и G. Просто подходите к сундуку и произойдёт автосбор.
+Также действует на воскрешение стражей.
+Если в радиусе действия находится враг с низким уровнем жизни, произойдёт автодобивание.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 2 s
+KeyUp 8 1
+Delay 2 ms
+KeyDown 10 1
+Delay 2 ms
+KeyUp 10 1
+Delay 2 ms</Syntax>
+    </KeyDown>
+    <Software>Destiny 2 Titian Skating</Software>
+  </DefaultMacro>
+</Root>

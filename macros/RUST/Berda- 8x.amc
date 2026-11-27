@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major>Perfeo</Major>
+    <Description>Макрос на берданку.
+
+(--Настройки для 8х--)  
+-----Sensa 1.3-----
+ ------ Fov 90------
+
+(--Настройки без 8х--)
+-----Sensa 0.43-----
+ ------Fov 90------
+По мне так работает отлично! С 8х отрабатывает в точку.
+Если что то не пойдет пишите в личку!
+Всем приятно игры!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 10 ms
+MoveR 0 8
+Delay 10 ms
+MoveR 0 8
+Delay 10 ms
+MoveR 0 8
+Delay 10 ms
+MoveR 0 8
+Delay 10 ms
+MoveR 0 8
+Delay 10 ms
+LeftUp 1
+Delay 13 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

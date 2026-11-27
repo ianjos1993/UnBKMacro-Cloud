@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>1280x720 Автошот при наведении на врага версия с корректировкой под данное разрешение
+
+Это скрипт который автоматически стреляет, когда прицел наводится на противника</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 3 2 110,0,0 255,15,15 2 450 60 380 440 1 0
+Goto 1
+LeftDown 1
+Delay 5 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

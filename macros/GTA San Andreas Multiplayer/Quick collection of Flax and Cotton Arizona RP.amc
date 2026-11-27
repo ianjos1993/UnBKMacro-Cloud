@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>Fejume</Major>
+    <Description>Очень быстрый сбор льна и хлопка для Arizona RP. Не нужно нажимать альт и пробел. Биндите на любую удобную для вас клавишу (Для меня это NUM 4), используйте настройки макроса и всё! Просто становитесь на кустик с Льном или Хлопком, нажимайте клавишу и всё будет делатся за вас. Удачи</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 25 ms
+KeyUp 44 1
+Delay 25 ms
+KeyDown 226 1
+Delay 32 ms
+KeyUp 226 1
+Delay 32 ms</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

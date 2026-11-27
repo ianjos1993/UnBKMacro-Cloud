@@ -1,0 +1,70 @@
+<Root>
+  <DefaultMacro>
+    <Major>iV3Xz</Major>
+    <Description>Bot for digimon master online area minato city 
+Screen resolution : Fullscreen1920x1080
+map witchmon
+
+Feature:
+Auto kill recomend to use digimon with  powerfull first skill like jogres etc place it in (f1) and second skill in (f2)
+Auto pick place it in (2) if you donthave magnetic
+detect healt monstser and wont change digimon till it die
+autoheal HP dan DS (line 2 and 8) pace it in 7 and 8
+</Description>
+    <Comment>DMO - Free Makro</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>// DIGIMON MASTER ONLINE
+GoColor 4 1 0,0,51 255,255,255 2 197 138 4 7 1 0
+Goto 8
+KeyDown 36 1
+Delay 64
+KeyUp 36 1
+Delay 64
+GoColor 10 1 0,0,51 255,255,255 2 204 124 2 7 1 0
+Goto 13
+KeyDown 37 1
+Delay 64
+KeyUp 37 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+GoWhile 14 5
+Goto 24
+KeyDown 43 1
+Delay 110 ms
+KeyUp 43 1
+Delay 111 ms
+GoColor 26 1 177,48,35 255,255,255 2 934 52 40 7 1 0
+Goto 20
+KeyDown 60 1
+Delay 111 ms
+KeyUp 60 1
+Delay 1 s
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+GoWhile 30 5
+GoColor 26 1 129,34,24 255,255,255 2 829 52 3 7 1 0
+KeyDown 59 1
+Delay 120 ms
+KeyUp 59 1
+Delay 3 s
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+GoWhile 40 5
+GoWhile 2 86400000</Syntax>
+    </KeyDown>
+    <Software>Digimon Masters Online</Software>
+  </DefaultMacro>
+</Root>

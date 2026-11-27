@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Короче говоря , выдаёт 15-16 CPS , очень хорошо подойдёт для жимки . Работает на hypixel,mineplex,и на других серверах.
+Поставьте режим работы ,,Выполнять пока нажата клавиша''</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 25 ms
+LeftUp 1
+Delay 25 ms
+GoWhile 2 16</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

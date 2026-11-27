@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major>TSB back dash cancel 3 skill</Major>
+    <Description>Макрос для back dash cancel для TSB (The Strongest Battlegrounds). 
+Back dash cancel - кувырок назад, и использования скилла, но при этом ничего из перечисленного не сбивается.
+Тот же принцип, так сказать, НО на третий скилл. Среди всех макросов именно этот тип самый полезный, ведь работает адекватно на нескольких герояв
+Этот макрос уже подходит для многих героев, потому что они не будут бесполезны для него
+Достаточно просто нажать на бинд, и макро сделает всё сам.</Description>
+    <Comment>Предназначен только для третьего скилла. Все персонажи подходят для этого макроса (протестил, и на каждогоесть смысл) </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 5 ms
+KeyUp 20 1
+Delay 5 ms
+KeyDown 32 1
+Delay 5 ms
+KeyUp 32 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

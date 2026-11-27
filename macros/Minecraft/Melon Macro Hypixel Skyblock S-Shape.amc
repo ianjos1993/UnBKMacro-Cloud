@@ -1,0 +1,133 @@
+<Root>
+  <DefaultMacro>
+    <Major>1.0.2</Major>
+    <Description>Полностью рабочий макрос, созданный для фермы арбузов.
+Ферма арбузов нужна от MelonKingDE, длиной в 5 плотов (один плот — это примерно 14 250 мс).
+Версия фермы нужна с водой. (На самом деле я думаю что версия без воды тоже должна подойти, но это не точно). 
+
+Инструкция по использованию макроса:
+1. Выставляем правильный угол для фермы:
+Yaw — 0
+Pitch — 59
+Для выставления правильного угла вам понадобится предмет — Squeaky Mousemat.
+
+2. После выставления угла идём в начало фермы (на первый блок, с которого вы будете начинать ломать арбузы) и прописываем команду: /sethome.
+
+3. Включаем Keyran (в моём случае это кнопка NumPad 5). После включения значок программы должен сменить цвет с красного на зелёный.
+
+4. Привязываем макрос к любой удобной вам кнопке (в моём случае это кнопка NumPad 3).
+
+5. Скачиваем и заходим в мод Skyhanni (скачивайте из официального репозитория на GitHub, разработчик мода: hannibal002).
+
+6. Прописываем в чат команду /sh или /skyhanni .
+
+7. Во вкладке About нажимаем на поиск (значок лупы) и пишем туда: keybinds.
+
+8. Заходим во вкладку Garden и нажимаем на раздел Custom Keybinds.
+
+9. Кликаем на ползунок "Enabled".
+
+10. Листаем вниз и меняем настраиваем раскладку:
+(Слева русские названия/раскладка, справа английские названия/раскладка)
+Attack — Пробел / Space
+Use Item — ПКМ / RMB (Button 2)
+Move Left — Ф / A
+Move Right — В / D
+Move Forward — Ц / W
+Move Back — Ы / S
+Jump — ЛКМ / LMB (Button 1)
+Sneak — Left Shift
+
+11. Прописываем команду /warp garden и нажимаем на кнопку, к которой вы привязали макрос.
+(Первая строчка направляется влево, вторая строчка — вправо.)
+
+Обновление 1.0.2: Добавлена функция "Rewarp". (Макрос сам прописывает команду '/warp garden" после окончания 10 полос фермы). by HaBAN3ro 
+
+Не рекомендуется ставить макрос на ночь или фармить кроп более 10 часов в день. 
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+Приятного использования!
+by Haban3ro
+
+Уровень опасности использования макроса: Высокий (пользователи фармящие данный кроп подвергаются частым проверкам со стороны администрации, усиленное слежение Watchdog'ом) 
+Информация взята из платного мода Taunahi 
+Последнее обновление информации о безопасности 16.03.2026 18:00 МСК</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 11 89 ms
+KeyDown 44 1
+Delay 10 90 ms
+KeyDown 4 1
+Delay 72350 73000 ms
+KeyUp 4 1
+Delay 150 200 ms
+KeyDown 7 1
+Delay 72350 73000 ms
+KeyUp 7 1
+Delay 150 200 ms
+GoWhile 1 5
+KeyDown 56 1
+Delay 64 120
+KeyUp 56 1
+Delay 64 120
+Delay 64 120
+KeyDown 26 1
+Delay 64 120
+KeyUp 26 1
+Delay 64 120
+KeyDown 4 1
+Delay 64 120
+KeyUp 4 1
+Delay 64 120
+KeyDown 21 1
+Delay 64 120
+KeyUp 21 1
+Delay 64 120
+KeyDown 19 1
+Delay 64 120
+KeyUp 19 1
+Delay 64 120
+KeyDown 44 1
+Delay 64 120
+KeyUp 44 1
+Delay 64 120
+KeyDown 10 1
+Delay 64 120
+KeyUp 10 1
+Delay 64 120
+KeyDown 4 1
+Delay 64 120
+KeyUp 4 1
+Delay 64 120
+KeyDown 21 1
+Delay 64 120
+KeyUp 21 1
+Delay 64 120
+KeyDown 7 1
+Delay 64 120
+KeyUp 7 1
+Delay 64 120
+KeyDown 8 1
+Delay 64 120
+KeyUp 8 1
+Delay 64 120
+KeyDown 17 1
+Delay 64 120
+KeyUp 17 1
+Delay 64 120
+KeyDown 88 1
+Delay 64 120
+KeyUp 88 1
+Delay 64 120
+GoWhile 1 10</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

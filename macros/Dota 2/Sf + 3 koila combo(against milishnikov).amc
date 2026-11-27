@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Комбинация из 3 койлов,(совет если противник будет стоить в стане в редже 2 койла и вы нажмете данный макрос,он получит урон от всех 3 койлов)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

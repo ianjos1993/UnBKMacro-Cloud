@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major>Soft</Major>
+    <Description>Простой скрипт Анти-Афк GTA5RP. Открывает/Закрывает телефон, Открывает/Закрывает меню, нажимает клавишу m, и по новой.</Description>
+    <Comment>Вам нужно просто его запустить и он сделает все за вас!</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 82 1
+Delay 1 s
+KeyUp 82 1
+Delay 1 s
+KeyDown 42 1
+Delay 1 s
+KeyUp 42 1
+Delay 1 s
+KeyDown 16 1
+Delay 1 s
+KeyUp 16 1
+Delay 1 s
+KeyDown 16 1
+Delay 1 s
+KeyUp 16 1
+Delay 1 s
+KeyDown 16 1
+Delay 1 s
+KeyUp 16 1
+Delay 1 s
+KeyDown 67 1
+Delay 1 s
+KeyUp 67 1
+Delay 1 s
+KeyDown 41 1
+Delay 1 s
+KeyUp 41 1
+Delay 1 s
+Delay 10 min
+GoWhile 1 50000</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

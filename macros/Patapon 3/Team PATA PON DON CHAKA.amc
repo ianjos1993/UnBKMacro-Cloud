@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>PATA PON DON CHAKA</Major>
+    <Description>Данный макрос позволяет бесперерывно отбивать ритм очищения. (Макрос расчитан на 5х ускорение в эмуляторе PPSSPP, для использования на обычной скорости все значения задержки необходимо умножить на 5 ). При подборе хорошего тайминга, может входить в ярость и продержаться там около 4 команд. В виду специфики эмулятора макрос не может постоянно поддерживать идеальный ритм (Т.к. ФПС в ускоренном режиме не стабилен + пинг иногда скачет.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 80 1
+Delay 90 ms
+KeyUp 80 1
+Delay 10 ms
+KeyDown 79 1
+Delay 90 ms
+KeyUp 79 1
+Delay 10 ms
+KeyDown 81 1
+Delay 91 ms
+KeyUp 81 1
+Delay 10 ms
+KeyDown 82 1
+Delay 90 ms
+KeyUp 82 1
+Delay 400 ms</Syntax>
+    </KeyDown>
+    <Software>Patapon 3</Software>
+  </DefaultMacro>
+</Root>

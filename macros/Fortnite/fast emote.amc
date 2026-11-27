@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на быструю эмоцию для фортнайта, если хотите люто беймить типо используйте, биндите на любую кнопку и он использует первую эмоцию</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 5 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyUp 5 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

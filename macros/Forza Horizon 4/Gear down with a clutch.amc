@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Одновременное нажатие сцепление и переключение передачи вниз. Просто ставите на удобною вам кнопку и переключаете передачи со сцепой как будто без сцепы. Но в игре сцепа должна стоять на shift`e, а передача вниз на Q. Если кто не знал зачем переключаться со сцепой - таким образом машина будет разгоняться быстрее.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+KeyDown 20 1
+KeyUp 20 1
+Delay 100 ms
+KeyUp 225 1</Syntax>
+    </KeyDown>
+    <Software>Forza Horizon 4</Software>
+  </DefaultMacro>
+</Root>

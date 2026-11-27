@@ -1,0 +1,108 @@
+<Root>
+  <DefaultMacro>
+    <Major>Leo rage combo</Major>
+    <Description>Макрос позволяет выполнять комбо с d1+2, при том используя rage.
+Видео демонстрации работы макроса: https://youtu.be/qbVdCAZYmCI
+
+Лео Клисен (Leo Kliesen) —  персонаж из серии Tekken, впервые был представлен в Tekken 6. Его пол до сих пор неоднозначен. Фанаты игры спорят по сей день, кем он является на самом деле — парнем или девушкой. Ведь начиная с Tekken 6 персонажа озвучила девушка, но в TTT2 за озвучку немецкого языка взялся мужчина. Однако разработчики не дают точных комментариев насчет этого, они скорее предпочитают оставить все так, как есть. Кроме этого Лео отличается сбалансированным геймплеем и хорош почти во всем: у него много быстрых, сильных комбо и мультиударов, ошеломляющих ударов, имеет хорошие миды и лоу удары. Лео также очень безопасен, потому что движения Лео имеют небольшую задержку и восстановление между ними. Однако многие атаки довольно прямолинейны и предсказуемы,
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+
+Тестирование макроса проводились на последнем патче игры на 19.06.2023 (5.01 патч)
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#leotekken7 #tekken7 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 15 ms
+KeyDown 75 1
+Delay 111 ms
+KeyUp 75 1
+Delay 39 ms
+KeyUp 22 1
+Delay 88 ms
+KeyDown 74 1
+Delay 135 ms
+KeyUp 74 1
+Delay 663 ms
+KeyDown 7 1
+Delay 127 ms
+KeyDown 76 1
+Delay 95 ms
+KeyUp 76 1
+Delay 144 ms
+KeyUp 7 1
+Delay 23 ms
+KeyDown 4 1
+Delay 88 ms
+KeyDown 73 1
+Delay 87 ms
+KeyUp 73 1
+Delay 96 ms
+KeyDown 73 1
+Delay 63 ms
+KeyUp 73 1
+Delay 119 ms
+KeyDown 73 1
+Delay 56 ms
+KeyUp 73 1
+Delay 71 ms
+KeyDown 73 1
+Delay 104 ms
+KeyUp 73 1
+Delay 56 ms
+KeyDown 77 1
+Delay 111 ms
+KeyUp 4 1
+Delay 8 ms
+KeyUp 77 1
+Delay 536 ms
+KeyDown 74 1
+Delay 87 ms
+KeyUp 74 1
+Delay 647 ms
+KeyDown 7 1
+Delay 56 ms
+KeyUp 7 1
+Delay 71 ms
+KeyDown 7 1
+Delay 56 ms
+KeyUp 7 1
+Delay 63 ms
+KeyDown 7 1
+Delay 7 ms
+KeyDown 22 1
+Delay 16 ms
+KeyDown 75 1
+Delay 71 ms
+KeyUp 22 1
+Delay 8 ms
+KeyUp 75 1
+Delay 7 ms
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 7</Software>
+  </DefaultMacro>
+</Root>

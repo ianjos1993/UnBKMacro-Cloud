@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>Minecraft</Major>
+    <Description>easy pearl catch macro. U have to set ur pearl slot with the keybind as tthe button Page Down and the wind charge slot with the keybind as Page Up then activate macro and u will pear catch super fast.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 78 1
+Delay 10
+KeyUp 78 1
+Delay 10
+RightDown 1
+Delay 10
+RightUp 1
+Delay 10
+KeyDown 75 1
+Delay 10
+KeyUp 75 1
+Delay 10
+RightDown 1
+Delay 10
+RightUp 1
+Delay 10</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

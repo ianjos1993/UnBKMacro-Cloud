@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description> Всем спасибо за пользования моего макроса.
+   Создания удобств:
+1. В 1-ой строке кода ставим ту кнопку на которую у вас стоит кирка.
+2. В 13-ой строке ставим клавишу в котором у вас обычно лежит дробовик.
+3. В 5-ой строке ставим ту кнопку на которую у вас стоит редакт.
+4. Сохраняем макрос и кайфуем.
+ (также советую ставить на колесико мышки)
+ В чем суть макроса? - сделан чтобы редактировать пол с конусом - пугая своих врагов.
+ Для чего нужно доставать кирку? - сделал для того чтобы не было никаких случайных выстрелов, когда вы будете редактировать (тоже самое с дробовиком, после нажатия кнопки у вас будет брать в руки дробовик, которым вы отправляете противника в лобби).
+  </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Button4down 1
+Delay 15 ms
+Button4Up 1
+Delay 15 ms
+KeyDown 10 1
+Delay 15 ms
+KeyUp 10 1
+Delay 15 ms
+LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 15 ms
+KeyDown 31 1
+Delay 15 ms
+KeyUp 31 1
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

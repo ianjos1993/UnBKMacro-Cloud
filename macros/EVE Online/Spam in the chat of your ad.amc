@@ -1,0 +1,66 @@
+<Root>
+  <DefaultMacro>
+    <Major>Флудилка в чат</Major>
+    <Description>Макрос служит для авто спама объявлений в 2 открытых чата одновременно.(есть привязка к месту на окне)
+Разрешение 1280*1024. Чаты строго в верхний левый угол в одной вкладке.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 54 71
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 224 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyUp 224 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+MoveTo 69 16
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 185 17
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 72 69
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 224 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyUp 224 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+Delay 60000 300000 ms</Syntax>
+    </KeyDown>
+    <Software>EVE Online</Software>
+  </DefaultMacro>
+</Root>

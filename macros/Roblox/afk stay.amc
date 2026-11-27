@@ -1,0 +1,130 @@
+<Root>
+  <DefaultMacro>
+    <Major>afk stay</Major>
+    <Description>этот макрос был создан для того, чтобы вас не выкинули из игры за 20 минут бездействия. Но есть 2 условия которые вы можете прочитать далее:
+1-этот макрос нужно запустить и стать в место где вам можно свободно двигатся.
+2-после чего поставить курсор на ярлык открытия чата в игре.</Description>
+    <Comment>если вас что то не устраивает обрашяйтесь: markusipersoni@mail.ru</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 84 1
+Delay 64
+KeyUp 84 1
+Delay 64
+KeyDown 17 1
+Delay 64
+KeyUp 17 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 11 1
+Delay 64
+KeyUp 11 1
+Delay 64
+KeyDown 54 1
+Delay 64
+KeyUp 54 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 12 1
+Delay 64
+KeyUp 12 1
+Delay 64
+KeyDown 53 1
+Delay 64
+KeyUp 53 1
+Delay 64
+KeyDown 16 1
+Delay 64
+KeyUp 16 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 57 1
+Delay 64
+KeyUp 57 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 64
+KeyDown 14 1
+Delay 64
+KeyUp 14 1
+Delay 64
+KeyDown 57 1
+Delay 64
+KeyUp 57 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 9 min
+GoWhile 1 10
+Delay 64 ms
+MoveR 654 602
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 10 s
+KeyDown 227 1
+Delay 64
+KeyUp 227 1
+Delay 64
+MoveR -1024 0
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveR 3 -80
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

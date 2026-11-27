@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major>BRARTIK</Major>
+    <Description> Выбрать режим работы "выполнять до повторного нажатия "
+нажимаешь w + клавишу бег 
+затем включаешь макро и ты тихий ))</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 220 ms
+KeyUp 224 1
+Delay 220 ms
+KeyDown 224 1
+Delay 220 ms
+KeyUp 224 1
+Delay 220 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Относительно идеальный тайминг ресета для 5вея.На Q cтоял dash с "Attack without moving" на W стоит shield charge.Может некорректно ресетать если подлагивает в игре</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+KeyUp 20 1
+Delay 64 ms
+KeyDown 26 1
+KeyUp 26 1
+Delay 2320 ms
+GoWhile 1 400</Syntax>
+    </KeyDown>
+    <Software>Path of Exile</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major>66600013</Major>
+    <Description>Макрос на авто дерево для баффательного спека
+Особенности 1-2-2-2-3
+Не стойте в стойке если нажимаете макрос
+Настройте задержку если у вас большой PING</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 64 ms
+KeyUp 43 1
+Delay 64 ms
+KeyDown 33 1
+Delay 64 ms
+KeyUp 33 1
+Delay 64 ms
+KeyDown 6 1
+Delay 64 ms
+KeyUp 6 1
+Delay 64 ms
+KeyDown 29 1
+Delay 64 ms
+KeyUp 29 1</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

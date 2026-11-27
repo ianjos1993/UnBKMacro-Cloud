@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>этот макрос преднозначен для пвп, позволяет за одно нажатие на мышь ударить противника 3 раза,  Неплохо для ПВП на версии 1.8. Hу если у вас есть желание то можно и на ПВП от 1.12.2, работает на всех версиях, неплохое решение если вы хотите улучшить свои навыки пвп</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftUp 1
+LeftDown 1
+Delay 70 80 ms
+LeftDown 1
+LeftDown 1
+Delay 70 80 ms
+LeftDown 1
+LeftDown 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

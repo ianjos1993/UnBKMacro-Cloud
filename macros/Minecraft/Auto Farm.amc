@@ -1,0 +1,92 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro is use on the minecraft serveur play.vinlandmc.fr
+
+To use the macro you need to be looking at the angle -90.0 90.0 and have a farm of 9 chunk</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 10 ms
+KeyDown 224 1
+Delay 10 ms
+KeyDown 20 1
+Delay 13500 ms
+KeyUp 20 1
+Delay 10
+KeyDown 29 1
+Delay 1000 ms
+KeyUp 29 1
+Delay 10
+KeyDown 7 1
+Delay 13500 ms
+KeyUp 7 1
+Delay 10
+KeyDown 29 1
+Delay 1000 ms
+KeyUp 29 1
+Delay 10
+GoWhile 4 7
+Delay 10 ms
+KeyDown 20 1
+Delay 13000 ms
+KeyDown 22 1
+Delay 10 ms
+KeyUp 22 1
+Delay 900 ms
+KeyUp 20 1
+Delay 100 ms
+KeyDown 44 1
+Delay 2000 ms
+KeyUp 44 1
+Delay 10 ms
+KeyDown 29 1
+Delay 100 ms
+KeyUp 29 1
+Delay 10 ms
+KeyDown 7 1
+Delay 13500 ms
+KeyUp 7 1
+Delay 64
+KeyDown 22 1
+Delay 1000 ms
+KeyUp 22 1
+Delay 10 ms
+KeyDown 20 1
+Delay 13500 ms
+KeyUp 20 1
+Delay 10 ms
+KeyDown 22 1
+Delay 1000 ms
+KeyUp 22 1
+Delay 10 ms
+GoWhile 38 7
+Delay 10 ms
+KeyDown 7 1
+Delay 13000 ms
+KeyDown 29 1
+Delay 10
+KeyUp 29 1
+Delay 900 ms
+KeyUp 7 1
+Delay 100 ms
+KeyDown 44 1
+Delay 2000 ms
+KeyUp 44 1
+Delay 10
+KeyDown 29 1
+Delay 100 ms
+KeyUp 29 1
+Delay 10
+GoWhile 2 3
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

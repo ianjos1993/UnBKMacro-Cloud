@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Для того чтобы воспользоватсья этим макросом- вы должны проехать 1 круг и после того как заедете в депо продолжить маршрут.
+Вы жмете кнопку (да) вас телепортирует на начальную точку и вы запускаете макрос.
+Всё макрос запушен он будет сам ехать открывать и закрывать двери.
+И так повторояем сколько вам угодно.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

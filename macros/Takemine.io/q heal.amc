@@ -1,0 +1,67 @@
+<Root>
+  <DefaultMacro>
+    <Major>макрос</Major>
+    <Description>Вы биндите этот макрос на клавишу q и при нажатии клавиши у вас будет автоматически хилиться здоровья, и вам не надо будет прожимать q+пробел, этот макрос автоматически прожимает эти клавиши, с хорошей задержкой так что вас точно не убьют :)</Description>
+    <Comment>Пользуйтесь на здоровечко</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+KeyUp 20 1
+LeftDown 1
+LeftUp 1
+Delay 23 ms
+KeyDown 20 1
+KeyUp 20 1
+LeftDown 1
+LeftUp 1
+Delay 23 ms
+KeyDown 20 1
+KeyUp 20 1
+LeftDown 1
+LeftUp 1
+Delay 23 ms
+KeyDown 20 1
+KeyUp 20 1
+LeftDown 1
+LeftUp 1
+Delay 23 ms
+KeyDown 30 1
+KeyUp 30 1
+LeftDown 1
+LeftUp 1
+Delay 23 ms
+KeyDown 20 1
+KeyUp 20 1
+LeftDown 1
+LeftUp 1
+Delay 23 ms
+KeyDown 20 1
+KeyUp 20 1
+LeftDown 1
+LeftUp 1
+Delay 23 ms
+KeyDown 20 1
+KeyUp 20 1
+LeftDown 1
+LeftUp 1
+Delay 23 ms
+KeyDown 20 1
+KeyUp 20 1
+LeftDown 1
+LeftUp 1
+Delay 23 ms
+KeyDown 30 1
+KeyUp 30 1
+LeftDown 1
+LeftUp 1
+LeftDown 1
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Takemine.io</Software>
+  </DefaultMacro>
+</Root>

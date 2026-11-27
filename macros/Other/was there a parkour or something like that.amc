@@ -1,0 +1,73 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Если вам построил ктото прямой паркур в какой либо игре, вы можете включить этот макрос и если вы нажмете и у вас будет прыгать по паркуру то вы можете его пройти</Description>
+    <Comment>Все для вас)</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoWhile 57 86400000
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Любые</Software>
+  </DefaultMacro>
+</Root>

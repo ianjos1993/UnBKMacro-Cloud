@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major>Гта 5</Major>
+    <Description>Если вы не знали что есть такой баг на GTA5 СуперТормоз, если на высокой скорости нажать alt+F4, потом нажать Esc 
+
+То вы быстро остановитесь на машине 
+
+Этот скрипт работает по той же логике, только делает он это гораздо быстрее 
+
+Просто биндите его на любую клавишу и всё</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 10 ms
+KeyDown 10 1
+Delay 10 ms
+KeyUp 10 1
+Delay 10 ms
+KeyDown 36 1
+Delay 10 ms
+KeyUp 36 1
+Delay 10 ms
+KeyDown 10 1
+Delay 10 ms
+KeyUp 10 1</Syntax>
+    </KeyDown>
+    <Software>GTA V</Software>
+  </DefaultMacro>
+</Root>

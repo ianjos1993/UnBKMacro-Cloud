@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для выбивания последнего большого сундука в локации Cat's world на уровене Hardcore при активном личном бусте урона 3x. Макрос будет максимально эффективным по таймингу, если у вас 20 активных петов с средним уроном 1.3Q на пета. Перед запуском макроса навести курсор на сундук.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 21 ms
+Delay 1773 ms
+LeftDown 1
+Delay 844 ms
+LeftUp 1
+Delay 121182 ms
+KeyDown 44 1
+Delay 119 ms
+KeyUp 44 1
+Delay 96039 ms
+KeyDown 44 1
+Delay 351 ms
+KeyUp 44 1
+Delay 144327 ms
+KeyDown 44 1
+Delay 183 ms
+KeyUp 44 1
+Delay 10832 ms
+GoWhile 1 55555</Syntax>
+    </KeyDown>
+    <Software>Roblox - Pet X Simulator</Software>
+  </DefaultMacro>
+</Root>

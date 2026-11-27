@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>И так этот макрос очень лекгий в использование и очень помогает в пвп
+Первым делам мы ставим на слот 1-Мечь/Клинок на слот 3 -  Хилку/Фростик и т.д
+1.Этот макрос очень хорош в жимке и ямке т.к отхил очень большой и криты вылетают часто и даже постаянно.
+2.Когда вас начинают жжать в запросто можете зделать -2 и уйти от изичек
+3.Дропал з5 пб в з4 халке в ямке 1х1
+И так все обьеснил 1слот-мечь/клинок 3слот-Массик/Фроссик и т.д
+А также макро пойдет на синг/Зоникс
+</Description>
+    <Comment>swap
+</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+Delay 2 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 6 ms
+LeftUp 1
+Delay 7 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 2 ms
+KeyDown 32 1
+Delay 1 ms
+KeyUp 32 1
+Delay 1 ms
+RightDown 1
+Delay 11 ms
+RightUp 1
+Delay 12 ms
+RightDown 1
+Delay 11 ms
+RightUp 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

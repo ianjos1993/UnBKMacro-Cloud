@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>для ZonixCraft Omega 1.7.10 и hcs divine rpg
+Хил,атака (поставить меч на слот 1, а хил на 3) 
+биндим на удобную кнопку и играем убивал з4 сета и з5</Description>
+    <Comment>123321
+</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 20 ms
+KeyUp 30 1
+Delay 20 ms
+LeftDown 1
+Delay 3 ms
+LeftUp 1
+Delay 3 ms
+LeftDown 1
+Delay 3 ms
+LeftUp 1
+Delay 3 ms
+LeftDown 1
+Delay 3 ms
+LeftUp 1
+Delay 3 ms
+KeyDown 32 1
+Delay 20 ms
+KeyUp 32 1
+Delay 20 ms
+RightDown 1
+Delay 3 ms
+RightUp 1
+Delay 3 ms
+RightDown 1
+Delay 3 ms
+RightUp 1
+Delay 3 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

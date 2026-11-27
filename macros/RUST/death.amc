@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description> death command death command in rust is a command that you press a button and die immediately in case you don't want to type in the command f1 /kill</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 58 1
+Delay 64
+KeyUp 58 1
+Delay 64
+KeyDown 14 1
+Delay 64
+KeyUp 14 1
+Delay 64
+KeyDown 12 1
+Delay 64
+KeyUp 12 1
+Delay 64
+KeyDown 15 1
+Delay 64
+KeyUp 15 1
+Delay 64
+KeyDown 15 1
+Delay 64
+KeyUp 15 1
+Delay 64
+KeyDown 77 1
+Delay 64
+KeyUp 77 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,32 @@
+<Root>
+  <!-- by Britan -->
+  <DefaultMacro>
+    <Major></Major>
+    <Description>НАЗВАНИЕ: Lethal Company Quick Scan. ОПИСАНИЕ: Быстрое сканирование предметов: E (взаимодействие) -&gt; Tab (инвентарь) -&gt; ЛКМ (взять). Автоматически сканирует и подбирает предметы. РЕКОМЕНДУЕМАЯ КЛАВИША: Mouse 4 (Side). КАК ИСПОЛЬЗОВАТЬ: Привяжи макрос на кнопку Mouse 4. Подойди к предмету и нажми Mouse 4 - макрос просканирует и подберёт предмет. Однократное выполнение. НАСТРОЙКА: Если E не взаимодействует - замени KeyDown 69 (E) на нужную клавишу. АВТОР: by Britan. ЗАПРЕЩЕНО копировать без указания автора.</Description>
+    <Comment>Привязка: Mouse 4 (Side). Режим: однократное. Инструкция: подойди к предмету и нажми - быстрое сканирование и подбор.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 69 1
+Delay 30 ms
+KeyUp 69 1
+Delay 100 ms
+KeyDown 9 1
+Delay 30 ms
+KeyUp 9 1
+Delay 50 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 50 ms
+KeyDown 9 1
+Delay 30 ms
+KeyUp 9 1</Syntax>
+    </KeyDown>
+    <Software>Lethal Company</Software>
+  </DefaultMacro>
+</Root>

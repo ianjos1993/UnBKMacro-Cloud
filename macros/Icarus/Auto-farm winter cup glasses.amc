@@ -1,0 +1,70 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Максрос для сбора воды по квесту в локации плачущий оазис региона Пересышеные Пустоши.
+Поскольку квест является бесконечным и за каждое выполнение можно получить 1 очко в пропуст winter cup
+Сам макрос будет брать квест у NPC и набирать воду, после сдавать и так покругу.
+Одно выполнения квеста с даным макросом будет занимать 30 секунд, что позволит получать 120 очков пропуска за 1 час, и всего за 25 часов получить все награды пропуска, что рекордно быстро, ведь на заработок этого количества очков выделено 90 дней.
+Для стабильной работы нужно включить авто отклонение торговли, дуэлий , обмена и тд.
+Еще можно отключить интерфейс во время работы макроса комбинацией клавиш Cntrl + / 
+Это снизит риск провисания из-за которого может нарушется работа макроса.
+И наконец для самого начала фарма нужно стать между NPC и Озером, лицом в NPC.
+После чего запустить макрос клавишей на которую его назначили и идти спать :D, а поутру наслождаться новыми заработаными наградами пропуска.
+                                                                   Всем удачного фарма очков.  
+                                          ///  For Icarus Phuenix players ///  Для игроков Icarus Phuenix ///</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 200 ms
+KeyUp 9 1
+Delay 200 ms
+KeyDown 9 1
+Delay 200 ms
+KeyUp 9 1
+Delay 200 ms
+KeyDown 9 1
+Delay 200 ms
+KeyUp 9 1
+Delay 200 ms
+KeyDown 22 1
+Delay 1250 ms
+KeyUp 22 1
+Delay 64
+KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 9 s
+KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 9 s
+KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 4 s
+KeyDown 26 1
+Delay 730 ms
+KeyUp 26 1
+Delay 64
+KeyDown 9 1
+Delay 200 ms
+KeyUp 9 1
+Delay 200 ms
+KeyDown 9 1
+Delay 200 ms
+KeyUp 9 1
+Delay 200 ms
+KeyDown 9 1
+Delay 200 ms
+KeyUp 9 1
+Delay 200 ms</Syntax>
+    </KeyDown>
+    <Software>Icarus</Software>
+  </DefaultMacro>
+</Root>

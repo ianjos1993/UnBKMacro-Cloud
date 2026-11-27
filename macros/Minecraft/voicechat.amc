@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major>RISEEN</Major>
+    <Description>Макрос создан для легкого написания команды /vc on
+включает войс чат или же голосовой канал в майнкрафт 
+
+Макрос работает на любой версии игры. Для более лучшей работы макроса, нужно всего лишь забиндить на любую, удобную для вас кнопку.
+
+РАБОТАЕТ НА СЕРВЕРЕ ГДЕ ЕСТЬ ДАННЫЙ МОД ИЛИ АДДОН!!!!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 64
+KeyUp 56 1
+Delay 64
+KeyDown 25 1
+Delay 64
+KeyUp 25 1
+Delay 64
+KeyDown 6 1
+Delay 64
+KeyUp 6 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 18 1
+Delay 64
+KeyUp 18 1
+Delay 64
+KeyDown 17 1
+Delay 64
+KeyUp 17 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

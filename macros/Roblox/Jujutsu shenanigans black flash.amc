@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>The macro creates a black flash effect on target #2, which increases the damage of the third skill. Its good for begginer
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 32 ms
+KeyDown 32 1
+Delay 47 ms
+KeyUp 32 1
+Delay 304 ms
+KeyDown 32 1
+Delay 71 ms
+KeyUp 32 1
+Delay 288 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

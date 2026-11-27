@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматически выходит в меню
+Помогает при ливе,каких то экстренных ситуациях когда нужно быстро выйди с мира
+мое разрешение экрана 1366х768</Description>
+    <Comment>ну пропусти(((
+а кстати,прицел идеален тк при нажатии Esc мышка и центре</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 64
+MoveR 0 25
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

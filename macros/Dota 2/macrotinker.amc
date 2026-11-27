@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Это макрос на тинкера.
+ставим предметы на 1 2 3 (можете перебиндить, если не хотите ставить предметы на другие бинды), потом ставим на эти слоты шиву блудстоун и соул ринг, так же покупайте блинк, но его лучше жмите сами, потому что с ним макрос лагает, а если самому блинк жать, то все нормально. Все теперь жмете 2 кнопки и кайфуете, иногда можете лазер нажимать в противника. Снизу артефакты/способности которые применяет макрос:
+
+Shiva's Guard
+Soul Ring
+Bloodstone
+Heat-Seeking Missile (ракетки)
+</Description>
+    <Comment>с макро очень удобно играть, потому что жмешь 2 кнопки.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

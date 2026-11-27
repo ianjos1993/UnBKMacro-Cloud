@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Позволяет по нажатию кнопки редактировать быстро на F чтобы удивить друзей а в сомой игре он не очень помогает больше всего подходит для конуса и пола.
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 20 ms
+KeyUp 9 1
+Delay 20 ms
+LeftDown 1
+Delay 20 ms
+LeftUp 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

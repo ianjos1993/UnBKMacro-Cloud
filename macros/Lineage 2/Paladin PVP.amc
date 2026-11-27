@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для палладина
+
+ Специально сделан для версии хф на пала,
+Расстановка скилов F1 автоатака, f2 агр, стан на 1, юзайте автомакросы в игре так же</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 0 ms
+KeyUp 31 1
+Delay 0 ms
+KeyDown 58 1
+Delay 0 ms
+KeyUp 58 1
+Delay 0 ms
+KeyDown 33 1
+Delay 0 ms
+KeyUp 33 1
+Delay 0 ms
+KeyDown 25 1
+Delay 0 ms
+KeyUp 25 1
+Delay 0 ms
+KeyDown 58 1
+Delay 0 ms
+KeyUp 58 1
+Delay 0 ms</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

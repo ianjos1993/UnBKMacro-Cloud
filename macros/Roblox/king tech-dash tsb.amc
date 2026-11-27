@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Лёгкий, но довольно полезный теч для игры The strongest battlegrounds, для того, чтобы сделать всё правильно вам нужно: подойти к игроку, сделать 2 удара и быстро активировать макрос.Этот теч является экстендером, что поможет в комбо, макрос работает на манекене, если у вас не получилось, попробуйте отредактировать задержку.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 2 ms
+LeftUp 1
+Delay 19 ms
+KeyDown 44 1
+KeyUp 44 1
+Delay 64
+LeftDown 1
+Delay 2 ms
+LeftUp 1
+Delay 76 ms
+MoveR 1000 0</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

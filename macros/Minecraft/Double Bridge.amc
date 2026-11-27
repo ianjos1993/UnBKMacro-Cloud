@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Двойной помощник стройки моста для Minecraft доступный как для Java edition как и для Windows 10-11 Старался над созданием данного макроса, думаю он получился как надо, Love Keyran 16:9, 16:10 1280 × 1024</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 34 ms
+RightUp 1
+Delay 34 ms
+MoveTo 700 1000
+RightDown 1
+Delay 34 ms
+RightUp 1
+Delay 34 ms
+MoveTo 700 -1000
+GoWhile 1 1000</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

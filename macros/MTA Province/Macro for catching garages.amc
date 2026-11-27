@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major>Ловля гаражей</Major>
+    <Description>Всем привет, сейчас я поделюсь с вами макросом, который поможет вам поймать гараж в мта провинции! Макрос подходит для разрешения 1920 х 1080! Ссылка на ютуб, где показано как работает макрос на действии - https://youtu.be/CEsFhClqnXQ</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 870 630
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

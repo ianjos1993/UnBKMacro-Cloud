@@ -1,0 +1,72 @@
+<Root>
+  <DefaultMacro>
+    <Major>lee t8 combo 1</Major>
+    <Description>Комбо макрос для персонажа Lee Chaolan в игре Tekken 8
+
+С помощью гениального ученого доктора Босконовича он строит огромную летающую лодку «Видопнир», а также разрабатывает мобильные боевые подразделения на мотоциклах. Благодаря этому повстанческая армия сможет начать борьбу с G Corp в каждом регионе. Ли также инвестирует в боевой костюм нового поколения, идеально подходящий для боя на ближней дистанции, который станет козырной картой против непробиваемой брони противника. Он называется «Фиолетовый костюм» и представляет собой чудесное творение, созданное с использованием сложных технологий и оснащенное многочисленными функциями, отражающими собственную эстетику Ли. Ли выходит на поле боя в этой новой броне, готовый принять все, что может случиться.
+
+Видео демонстрация макроса - https://youtu.be/NqE6Tf_3j-0
+Тестировалось на последней версии игры.
+
+Настройки в программе для корректного выполнения макроса:
+1. Использовать драйвер.
+2. Отключить использование минимальной задержки.
+
+
+Настройки управления в игре:
+1 - Num 4
+2 - Num 5
+3 - Num 1
+4 - Num 2
+Up - W
+Down - S
+Left - A
+Right - D
+
+Если макрос не работает обращаться - https://keyran.net/discord
+Либо к автору макроса, также по вопросам написания макросов - hersonaep (discord)
+
+#tekken #tekken8 #lee #keyran</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 7 ms
+KeyDown 7 1
+Delay 143 ms
+KeyUp 22 1
+Delay 15 ms
+KeyUp 7 1
+Delay 16 ms
+KeyDown 93 1
+Delay 55 ms
+KeyDown 89 1
+Delay 39 ms
+KeyUp 93 1
+Delay 40 ms
+KeyUp 89 1
+Delay 71 ms
+KeyDown 89 1
+Delay 72 ms
+KeyUp 89 1
+Delay 735 ms
+KeyDown 7 1
+Delay 56 ms
+KeyUp 7 1
+Delay 31 ms
+KeyDown 7 1
+Delay 40 ms
+KeyDown 89 1
+Delay 64 ms
+KeyUp 89 1
+Delay 31 ms
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

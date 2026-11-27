@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Это макрос для игры "Gorebox" и нужен этот макрос, для того чтобы баннихопить. Баннихоп используется для разных целей, например поизучать карту, или макрос на бхоп полезен тем, что может помочь в Pvp и набрать скорость</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Gorebox</Software>
+  </DefaultMacro>
+</Root>

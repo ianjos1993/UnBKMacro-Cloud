@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автокопание червей для рыбалки. Смотреть на землю перед собой! Полезно на серверах с трейдом где можно продать дорого рыбу</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 13500 ms
+LeftUp 1
+Delay 300 ms</Syntax>
+    </KeyDown>
+    <Software>DayZ</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>работает на разрешении 2560x1440 (при правильной настройке триггера работает и на других разрешениях) предназначен для фарме на плэйсе stairtrapers просто по началу нажмите на забинженую клавишу а по окончанию вновь нажмите на вашь бинд (сам ещё не тестил но если чтото нетак скоро выйдет патч)
+всем приятной игры :)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>varE = 0
+GoColor 4 2 255,255,244 238,250,193 1 972 1044 851 59 1 0
+Goto 5
+varE = varE + 1
+if varE == 1 Goto 7
+Goto 11
+KeyDown 4 1
+Delay 2
+KeyUp 4 1
+Delay 2
+Delay 2 ms
+KeyDown 7 1
+Delay 2
+KeyUp 7 1
+Delay 2</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

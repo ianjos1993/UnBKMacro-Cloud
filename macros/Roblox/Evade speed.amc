@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Emote speed
+Макр для ускоренного бега с помощью a d
+1.Поставьте макрос на любую клавишу
+По необходимости в режиме работы поставьте "выполнять до нажатия клавиши"
+2. Просто жмите на w, выполняя какие либо другие действия, пока у вас включен макрос</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1 ms
+KeyDown 4 1
+Delay 1 ms
+KeyDown 7 1
+Delay 1 ms
+KeyUp 4 1
+Delay 1 ms
+KeyUp 7 1
+GoWhile 1 20</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

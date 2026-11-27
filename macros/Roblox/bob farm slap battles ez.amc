@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major>Авто фарм перчатки bob в slap battles.</Major>
+    <Description>Вот достаточно простой и полезный макрос, который позволит вам эффективно фармить перчатки Bob, не затрачивая много энергии. Вам нужно лишь активировать режим shiftlock, выполнить ресет и запустить макрос. Он будет автоматически заходить в портал, использовать перчатку Replica и производить ресет. В макросе установлено 7500 повторов, что даёт вам 100% шанс получить перчатку, если вы оставите компьютер включённым на длительное время. Рекомендуется делать это с использованием альтернативного аккаунта или попросить кого-то другого оставаться в игре в режиме AFK на VIP-сервере.</Description>
+    <Comment>использовать шифтлок - запустить макро - наслаждаться.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 72 ms
+Delay 429 ms
+KeyUp 225 1
+Delay 583 ms
+KeyDown 22 1
+Delay 215 ms
+KeyUp 22 1
+Delay 248 ms
+KeyDown 4 1
+Delay 503 ms
+KeyUp 4 1
+Delay 1711 ms
+KeyDown 8 1
+Delay 88 ms
+KeyUp 8 1
+Delay 1143 ms
+KeyDown 41 1
+Delay 135 ms
+KeyUp 41 1
+Delay 16 ms
+KeyDown 21 1
+Delay 87 ms
+KeyUp 21 1
+Delay 40 ms
+KeyDown 88 1
+Delay 71 ms
+KeyUp 88 1
+Delay 4879 ms
+KeyDown 225 1
+Delay 216 ms
+GoWhile 1 7500</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

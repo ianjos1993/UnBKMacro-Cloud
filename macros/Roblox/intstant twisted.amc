@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major>TheWinfulX</Major>
+    <Description>Разрешение: 2144 х 1440
+Чувствительность: 1
+Инструкция: 3 удара, на 4 малый отшаг назад, делаем 4 удар, после активируем макрос, он все сделает автоматически. После макроса нужно будет словить M1 по противнику!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1200 753
+Delay 64
+Delay 80 ms
+KeyDown 20 1
+KeyUp 20 1
+Delay 64
+Delay 64
+MoveTo 700 754
+MoveR 70 0
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

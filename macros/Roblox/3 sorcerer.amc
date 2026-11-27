@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>этот макрос позволит вам использовать чёрную молнию на персонаже king of curses (yuji) в плейсе под названием sorcerer batlegraunds. Он упростит вам игру и подарит множество эмоций от тролинга людей которые чёрную молнию использовать не умеют.
+для этого вам понадобиться: умение подпрыгивать во время нажатия скила, или оставить его в первом варианте не земле, а так же обязательно заряженный скилл на тройку! 
+удачного пользования!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 500 ms
+LeftDown 1
+Delay 64
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

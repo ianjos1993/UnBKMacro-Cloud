@@ -1,0 +1,56 @@
+<Root>
+  <DefaultMacro>
+    <Major>Combatlog</Major>
+    <Description>Automaticly types combatlog command in console usefull ans safe when your in fight and want to see combatlog but someone might push you.
+After the macro work will close itself so you can see it later.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 58 1
+Delay 2 ms
+KeyUp 58 1
+Delay 2 ms
+Delay 2 ms
+Delay 2 ms
+KeyDown 6 1
+Delay 2 ms
+KeyUp 6 1
+Delay 2 ms
+KeyDown 18 1
+KeyUp 18 1
+Delay 2 ms
+KeyDown 16 1
+KeyUp 16 1
+Delay 2 ms
+KeyDown 5 1
+KeyUp 5 1
+Delay 2 ms
+KeyDown 4 1
+KeyUp 4 1
+Delay 2 ms
+KeyDown 23 1
+KeyUp 23 1
+Delay 2 ms
+KeyDown 15 1
+KeyUp 15 1
+Delay 2 ms
+KeyDown 18 1
+KeyUp 18 1
+Delay 2 ms
+KeyDown 10 1
+KeyUp 10 1
+Delay 2 ms
+KeyDown 88 1
+KeyUp 88 1
+Delay 2 ms
+KeyDown 58 1
+KeyUp 58 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major>wall key has to be Q, edit key has to be E, slot 2 has to be the shotgun, also slot 3 has to be the smg</Major>
+    <Description>place a wall, edit that wall, swaps to second slot, shoots, swaps to third slot, shoots again for about 2 seconds . the wall infront of you needs to be yours ,otherwise you cant edit it, you can still use it to brake the wall if it is low.</Description>
+    <Comment>a modified version of the file, do not use if you don`t want to change ur keybinds
+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+KeyUp 20 1
+Delay 14 ms
+LeftDown 1
+LeftUp 1
+Delay 14 ms
+KeyDown 8 1
+KeyUp 8 1
+Delay 14 ms
+LeftDown 1
+Delay 14 ms
+LeftUp 1
+Delay 14 ms
+KeyDown 31 1
+KeyUp 31 1
+Delay 14 ms
+LeftDown 1
+LeftUp 1
+Delay 550 ms
+LeftDown 1
+LeftUp 1
+Delay 14 ms
+KeyDown 32 1
+Delay 5 ms
+KeyUp 32 1
+Delay 14 ms
+LeftDown 1
+Delay 1246 ms
+LeftUp 1
+Delay 14 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

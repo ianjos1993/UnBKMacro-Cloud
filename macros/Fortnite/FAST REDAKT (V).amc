@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>ПРОСТО ФАСТ РЕДАКТ
+что бы работало ставите авто применение редакта и запускаете
+ВАЖНО не используйте сразу кликов 10 это может превисти к бану!</Description>
+    <Comment>топ максро
+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 25 1
+Delay 10 ms
+KeyUp 25 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 3 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

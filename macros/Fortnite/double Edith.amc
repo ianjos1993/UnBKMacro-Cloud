@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Лень строить и редачить дабл элит? Это для тебя! Этот макрос сделает всё за тебя!
+Лестница - Левый Shift 
+Пол - X
+Конус - V 
+Редактирование - F</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 25 ms
+LeftDown 1
+Delay 25 ms
+KeyDown 27 1
+Delay 25 ms
+LeftDown 1
+Delay 25 ms
+KeyDown 25 1
+Delay 25 ms
+LeftDown 1
+Delay 25 ms
+KeyDown 9 1
+Delay 60 ms
+LeftDown 1
+Delay 25 ms
+KeyDown 9 1
+Delay 60 ms
+LeftDown 1
+Delay 25 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

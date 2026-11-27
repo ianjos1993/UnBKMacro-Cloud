@@ -1,0 +1,228 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>A macro for the RUST game for Thompson.
+
+
+In-game settings:
+- FOV 85-Sensitivity 0.66
+
+Command console F1 - «input.sensitivity 0.66» </Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>IfKey 2 1 4
+RightDown 1
+Delay 100 ms
+LeftDown 1
+Delay 25 ms
+MoveR -2 4
+Delay 25 ms
+MoveR -3 5
+Delay 25 ms
+MoveR -3 5
+Delay 25 ms
+MoveR -2 5
+Delay 25 ms
+MoveR -2 5
+Delay 25 ms
+MoveR -1 6
+Delay 25 ms
+MoveR 0 5
+Delay 25 ms
+MoveR -1 6
+Delay 25 ms
+MoveR -1 5
+Delay 25 ms
+MoveR 0 5
+Delay 25 ms
+MoveR 1 5
+Delay 25 ms
+MoveR 1 5
+Delay 25 ms
+MoveR 0 4
+Delay 25 ms
+MoveR 1 5
+Delay 25 ms
+MoveR 0 5
+Delay 25 ms
+MoveR 2 5
+Delay 25 ms
+MoveR 2 5
+Delay 25 ms
+MoveR 1 5
+Delay 25 ms
+MoveR 0 4
+Delay 25 ms
+MoveR 1 4
+Delay 25 ms
+MoveR 3 4
+Delay 25 ms
+MoveR 3 4
+Delay 25 ms
+MoveR 3 4
+Delay 25 ms
+MoveR 2 4
+Delay 25 ms
+MoveR 2 4
+Delay 25 ms
+MoveR 2 4
+Delay 25 ms
+MoveR 1 3
+Delay 25 ms
+MoveR 2 4
+Delay 25 ms
+MoveR 1 4
+Delay 25 ms
+MoveR 1 3
+Delay 25 ms
+MoveR 1 3
+Delay 25 ms
+MoveR 1 3
+Delay 25 ms
+MoveR 0 3
+Delay 25 ms
+MoveR 0 2
+Delay 25 ms
+MoveR 0 3
+Delay 25 ms
+MoveR -2 3
+Delay 25 ms
+MoveR -1 3
+Delay 25 ms
+MoveR -1 3
+Delay 25 ms
+MoveR 0 2
+Delay 25 ms
+MoveR -1 2
+Delay 35 ms
+MoveR -3 3
+Delay 25 ms
+MoveR -3 3
+Delay 25 ms
+MoveR -2 2
+Delay 25 ms
+MoveR -1 1
+Delay 25 ms
+MoveR -2 2
+Delay 25 ms
+MoveR -3 3
+Delay 25 ms
+MoveR -2 2
+Delay 25 ms
+MoveR -2 2
+Delay 25 ms
+MoveR -2 2
+Delay 25 ms
+MoveR -1 1
+Delay 25 ms
+MoveR -1 2
+Delay 25 ms
+MoveR -1 2
+Delay 25 ms
+MoveR -1 2
+Delay 25 ms
+MoveR -1 2
+Delay 25 ms
+MoveR 0 1
+Delay 25 ms
+MoveR 0 1
+Delay 25 ms
+MoveR 1 2
+Delay 25 ms
+MoveR 0 2
+Delay 25 ms
+MoveR 0 1
+Delay 25 ms
+MoveR 0 1
+Delay 25 ms
+MoveR 2 2
+Delay 25 ms
+MoveR 1 2
+Delay 25 ms
+MoveR 0 1
+Delay 25 ms
+MoveR 1 1
+Delay 25 ms
+MoveR 1 1
+Delay 25 ms
+MoveR 2 2
+Delay 25 ms
+MoveR 2 2
+Delay 25 ms
+MoveR 1 0
+Delay 25 ms
+MoveR 2 1
+Delay 25 ms
+MoveR 2 1
+Delay 25 ms
+MoveR 2 2
+Delay 25 ms
+MoveR 2 2
+Delay 25 ms
+MoveR 2 2
+Delay 25 ms
+MoveR 2 1
+Delay 25 ms
+MoveR 1 0
+Delay 25 ms
+MoveR 1 1
+Delay 25 ms
+MoveR 1 1
+Delay 25 ms
+MoveR 1 1
+Delay 25 ms
+MoveR 0 0
+Delay 25 ms
+MoveR 0 0
+Delay 25 ms
+MoveR 0 1
+Delay 25 ms
+MoveR 0 1
+Delay 25 ms
+MoveR 0 0
+Delay 25 ms
+MoveR 0 1
+Delay 25 ms
+MoveR 0 1
+Delay 25 ms
+MoveR -1 1
+Delay 25 ms
+MoveR 0 0
+Delay 25 ms
+MoveR -1 1
+Delay 25 ms
+MoveR -1 1
+Delay 25 ms
+MoveR 0 1
+Delay 25 ms
+MoveR -2 1
+Delay 25 ms
+MoveR -1 1
+Delay 25 ms
+MoveR -1 1
+Delay 25 ms
+MoveR 0 0
+Delay 25 ms
+MoveR -1 1
+Delay 25 ms
+MoveR -1 2
+Delay 25 ms
+MoveR -1 1
+Delay 25 ms
+MoveR -1 1
+Delay 25 ms
+MoveR 0 1
+Delay 25 ms
+MoveR 0 1
+LeftUp 1
+DelayS 1 s</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

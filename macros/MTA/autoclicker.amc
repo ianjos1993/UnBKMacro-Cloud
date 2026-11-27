@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автокликер мта. Подходит под любую задачу. Этот макрос поможет вам как и от афк, так и на любую другую вашу цель.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 50 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Multi Theft Auto (MTA)</Software>
+  </DefaultMacro>
+</Root>

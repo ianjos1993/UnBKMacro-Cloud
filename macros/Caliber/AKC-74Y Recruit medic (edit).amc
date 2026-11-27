@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>АНТИ-отдача на медика рекрута.Потправил макрос для медика рекрута.
+Игра «КАЛИБР» онлайн шутер, командный, для солло игры не подходит.
+Макрос для Рекрута Медика. Стрельба без отдачи. работает. НО решит добавить корективы, что бы макрос был красивым и не забагованый.(хотя не обещаю испровления "залепания клавиши стрельбы-огонь"</Description>
+    <Comment>Потправил макрос для коректной работы на медика рекрута.</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 0 2
+Delay 16 ms
+MoveR 0 2
+Delay 17 ms
+MoveR 0 2
+Delay 16 ms
+MoveR 0 2
+Delay 16 ms
+MoveR 0 1
+Delay 16 ms
+MoveR 0 2
+Delay 16 ms
+MoveR 0 2
+Delay 17 ms
+MoveR 0 2
+Delay 16 ms
+MoveR 0 2
+Delay 16 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Caliber</Software>
+  </DefaultMacro>
+</Root>

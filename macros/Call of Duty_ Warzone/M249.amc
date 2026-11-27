@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>M249 recoil reducer</Major>
+    <Description>bind to your fire button 
+only use it on the m249
+fov 100
+dpi 800
+res 1920x 1080 
+sensitivity 50+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 7
+MoveR 0 1
+Delay 8 ms
+MoveR 0 1
+GoWhile 3 3
+Delay 15 ms
+MoveR 0 3
+GoWhile 6 70
+Delay 13 ms
+MoveR 0 2
+GoWhile 9 70
+Delay 13 ms
+MoveR 0 2
+GoWhile 12 1285</Syntax>
+    </KeyDown>
+    <Software>Call of Duty: War Zone</Software>
+  </DefaultMacro>
+</Root>

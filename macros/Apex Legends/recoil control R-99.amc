@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>recoil control R-99</Major>
+    <Description>макрос для пп R-99 не убирает отдачу полностью (ето не реально без читов) но снижает ее на 90 процентов на средних и ближних дистанциях стрельть можно легко. Рекомендуемое разрешение 1920-1080   Fov 85-95. DPI-1200   чувствительность в игре 2.30 чувствительность ADS по желанию но рекамендуется не ставить выше 1</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 4 ms
+MoveR 0 3
+Delay 4 ms
+MoveR 3 -3
+Delay 4 ms
+MoveR 0 3
+Delay 4 ms
+MoveR -3 3
+Delay 4 ms
+MoveR 0 2
+Delay 4 ms
+MoveR 3 -3
+Delay 4 ms
+MoveR -3 3
+Delay 4 ms
+MoveR 0 2</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,116 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос AutoPilot Caros: автобой, зелья HP/MP, сбор лута. Качайся, фарми, богатей — без напряга! Осторожно, возможен бан!
+
+Разрешение экрана: 1152*864 (4:3) в оконном режиме.
+                      ЗЕЛЬЯ
+ХП - Кнопка 9
+МП - Кнопка 0
+                     НАВЫКИ
+Атакующий навык - Кнопка 1</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//Spam block
+GoColor 3 1 21,20,16 255,255,255 1 1025 479 45 602 1 0
+GoColor 4 1 23,21,17 255,255,255 1 1060 532 15 549 1 0
+GoColor 6 1 23,21,17 255,255,255 1 827 553 335 528 1 0
+Goto 18
+MoveTo 861 572
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 970 603
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//Poison XP MP
+//mana
+GoColor 22 2 0,0,0 59,59,59 1 536 174 146 907 1 0
+Goto 27
+KeyDown 39 1
+Delay 64 120 ms
+KeyUp 39 1
+Delay 64 122 ms
+GoWhile 20 5
+//healt
+GoColor 30 2 0,0,0 59,59,59 1 523 163 143 918 1 0
+Goto 35
+KeyDown 38 1
+Delay 64 132 ms
+KeyUp 38 1
+Delay 140 240 ms
+GoWhile 28 5
+//fight
+KeyDown 43 1
+Delay 150 180 ms
+KeyUp 43 1
+Delay 170 190 ms
+KeyDown 53 1
+Delay 120 178 ms
+KeyUp 53 1
+Delay 150 199 ms
+MiddleDown 1
+Delay 200 257 ms
+MiddleUp 1
+Delay 230 254 ms
+MiddleDown 1
+Delay 254 268 ms
+MiddleUp 1
+Delay 231 275 ms
+KeyDown 30 1
+Delay 320 560 ms
+KeyUp 30 1
+Delay 370 700 ms
+GoWhile 35 3
+//Drop
+KeyDown 9 1
+Delay 384 400 ms
+KeyUp 9 1
+Delay 460 ms
+GoColor 92 2 255,128,128 255,0,0 2 427 358 187 215 1 0
+KeyDown 9 1
+Delay 475 ms
+KeyUp 9 1
+Delay 422 ms
+GoColor 92 2 255,128,128 255,0,0 2 427 358 187 215 1 0
+KeyDown 9 1
+Delay 436 ms
+KeyUp 9 1
+Delay 458 ms
+GoColor 92 2 255,128,128 255,0,0 2 427 358 187 215 1 0
+KeyDown 9 1
+Delay 496 ms
+KeyUp 9 1
+Delay 543 ms
+GoColor 92 2 255,128,128 255,0,0 2 427 358 187 215 1 0
+KeyDown 9 1
+Delay 430 ms
+KeyUp 9 1
+Delay 588 ms
+GoColor 92 2 255,128,128 255,0,0 2 427 358 187 215 1 0
+KeyDown 9 1
+Delay 510 ms
+KeyUp 9 1
+Delay 429 ms
+GoColor 92 2 255,128,128 255,0,0 2 427 358 187 215 1 0
+KeyDown 9 1
+Delay 432 ms
+KeyUp 9 1
+Delay 564 ms
+//max
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Karos Online</Software>
+  </DefaultMacro>
+</Root>

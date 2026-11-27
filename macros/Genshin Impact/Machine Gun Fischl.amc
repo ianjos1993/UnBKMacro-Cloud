@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Machine Gun for Bow character
+
+Inctruction:
+1. Assign the macro key on any button you want.
+2. Walk first before clicking the macro (Press any of WASD)
+3. Press and hold the Macro key to start.
+4. Release the macro key to stop.
+
+Notes:
+1. Tested With Fischl and Ganyu. (This may not work on other bow user characters because of the slight difference with the delay)
+2. Stable FPS is a must! (50-60 FPS)
+3. If stuck at Aimed Shot, just jump or sprint to cancel the aimed shot and continue the macro.
+
+ </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 20 ms
+KeyUp 21 1
+Delay 35 ms
+KeyDown 21 1
+Delay 20 ms
+KeyUp 21 1
+Delay 35 ms
+LeftDown 1
+LeftUp 1
+Delay 13 ms</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

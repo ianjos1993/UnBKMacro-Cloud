@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>Макрос для оружия OBIR APB</Major>
+    <Description>Макрос для оружия OBIR, оружие полуавтоматическое и бурствое (стреляет по 3 патрона) 
+Следственно из этого, макрос реализует автострельбу при зажатой кнопке и небольшой контроль отдачи после выстрела. 
+Макрос писался под разрешение 1980х1080, чувствительность прицела 0.24. DPI 1600
+
+P.S Если у вас работает не идеально, или другое разрешение, меняйте значите Y. Хотя с данным оружием это вряд ли на что-то повлияет. т.к отдачи у меня практически нет.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 25 ms
+LeftUp 1
+MoveR 0 1</Syntax>
+    </KeyDown>
+    <Software>APB Reloaded</Software>
+  </DefaultMacro>
+</Root>

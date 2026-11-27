@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Z - блинк 
+X - еул
+F9 - пауза
+R - реквием
+
+
+Бонус для унижение врагов bind  "любую кнопку между скобками" "say я сосал мне делали 1000-7????" в консоль доты</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 1 ms
+KeyDown 27 1
+Delay 1 ms
+KeyDown 66 1
+Delay 840 ms
+KeyDown 21 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

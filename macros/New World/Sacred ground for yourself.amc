@@ -1,0 +1,60 @@
+<Root>
+  <DefaultMacro>
+    <Major>Макрос для использования умения Sacred ground life staff-а под персонажа</Major>
+    <Description>Макрос на быстрое использование умения Sacred ground оружия  life staff.Нужен для того чтобы быстро кастовать  Sacred ground под своего персонажа .Для корректной работы макроса  умение Sacred ground на вторую  кнопку скилла.Разрешение монитора 1920x1080</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 52 ms
+MoveTo 1135 593
+Delay 0 ms
+MoveTo 1135 593
+Delay 2 ms
+MoveTo 1214 586
+Delay 7 ms
+MoveTo 1299 576
+Delay 8 ms
+MoveTo 1376 563
+Delay 7 ms
+MoveTo 1446 546
+Delay 8 ms
+MoveTo 1503 530
+Delay 7 ms
+MoveTo 1539 517
+Delay 15 ms
+MoveTo 1551 511
+Delay 94 ms
+MoveTo 1541 504
+Delay 0 ms
+MoveTo 1541 504
+Delay 0 ms
+MoveTo 1541 504
+Delay 0 ms
+MoveTo 1541 504
+Delay 0 ms
+MoveTo 1541 504
+Delay 0 ms
+MoveTo 1541 504
+Delay 0 ms
+MoveTo 1541 504
+Delay 2 ms
+LeftDown 1
+Delay 118 ms
+LeftUp 1
+Delay 77 ms
+KeyDown 224 1
+Delay 143 ms
+KeyDown 21 1
+Delay 176 ms
+KeyUp 21 1
+Delay 616 ms
+KeyUp 224 1</Syntax>
+    </KeyDown>
+    <Software>New World</Software>
+  </DefaultMacro>
+</Root>

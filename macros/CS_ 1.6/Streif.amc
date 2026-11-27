@@ -1,0 +1,77 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Стрейфы для кс 1.6
+Макрос делает за вас стрейфы автоматом. Но будьте осторожны иногда его палит антискрипт сервера ну если вы слишком много держите макрос активированным при прыжке то есть 10-15 стрейфов</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 6 ms
+MoveR -25 0
+Delay 6 ms
+MoveR -25 0
+Delay 6 ms
+MoveR -25 0
+Delay 6 ms
+MoveR -25 0
+Delay 6 ms
+MoveR -25 0
+Delay 6 ms
+MoveR -25 0
+Delay 6 ms
+MoveR -25 0
+Delay 6 ms
+MoveR -25 0
+Delay 6 ms
+MoveR -25 0
+Delay 6 ms
+MoveR -25 0
+Delay 6 ms
+MoveR -25 0
+Delay 6 ms
+MoveR -25 0
+Delay 6 ms
+MoveR -25 0
+Delay 6 ms
+MoveR -25 0
+KeyUp 4 1
+KeyDown 7 1
+Delay 6 ms
+MoveR 25 0
+Delay 6 ms
+MoveR 25 0
+Delay 6 ms
+MoveR 25 0
+Delay 6 ms
+MoveR 25 0
+Delay 6 ms
+MoveR 25 0
+Delay 6 ms
+MoveR 25 0
+Delay 6 ms
+MoveR 25 0
+Delay 6 ms
+MoveR 25 0
+Delay 6 ms
+MoveR 25 0
+Delay 6 ms
+MoveR 25 0
+Delay 6 ms
+MoveR 25 0
+Delay 6 ms
+MoveR 25 0
+Delay 6 ms
+MoveR 25 0
+Delay 6 ms
+MoveR 25 0
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>CS 1.6</Software>
+  </DefaultMacro>
+</Root>

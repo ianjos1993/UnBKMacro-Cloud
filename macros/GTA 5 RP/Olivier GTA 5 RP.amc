@@ -1,0 +1,59 @@
+<Root>
+  <DefaultMacro>
+    <Major>Оливье GTA 5 RP под HD мониторы!</Major>
+    <Description>Макрос для Keyran — удобный помощник для автоматического приготовления 18-ти порций оливье в GTA 5 RP. Забудьте об однообразных нажатиях и утомительном повторении одних и тех же действий: пусть кухонная рутина выполняется по заранее настроенной последовательности, пока вы отдыхаете от постоянных кликов. Макрос рассчитан на разрешение экрана 1360×768 (HD). Все точки нажатия можно менять через редактор Keyran, подстраивая координаты под расположение элементов вашего интерфейса. Готовьте любимый праздничный салат с комфортом и без лишних усилий! С наступающим Новым годом!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 797 131
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 891 131
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 971 127
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 801 216
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 413 414
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 647 416
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 373 510
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+GoWhile 1 18</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

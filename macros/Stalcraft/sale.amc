@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>SKS</Major>
+    <Description>Продаёт товары на аукционе.
+Просто нажимает за Вас нопку продажи с интервалом 5 секунд.
+Раскидали товары по ячейкам, выставили цену, нажали горячую клавишу для запуска макроса и пошли по делам, макрос будет выставлять на продажу товары.
+
+Советую свой второй макрос, который раскидывает автоматически товары по ячейкам, это экономит много времени, тем самым облегчая вашу работу по сортировке товаров перед продажей на аукционе.
+
+настроен под разрешение экрана: 1920 * 1080
+игра должна быть развёрнуто на весь экран (не оконный режим).</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 786 894
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1 s
+MoveTo 957 569
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 4 s</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

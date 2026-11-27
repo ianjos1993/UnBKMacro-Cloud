@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос «Бард» для игры ArcheAge, который проигрывает песни при нажатии на кнопки F1,F2,F3, F4.
+Проверено на всех проектах этой игры. Работает хорошо. Прошу помнить, что использование этого макроса не защищает вас от бана.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 58 1
+KeyUp 58 1
+Delay 1 2 s
+KeyDown 59 1
+KeyUp 59 1
+Delay 1 2 s
+KeyDown 60 1
+KeyUp 60 1
+Delay 1 2 s
+KeyDown 61 1
+KeyUp 61 1
+Delay 1 2 s
+Delay 7 8 s</Syntax>
+    </KeyDown>
+    <Software>Archeage</Software>
+  </DefaultMacro>
+</Root>

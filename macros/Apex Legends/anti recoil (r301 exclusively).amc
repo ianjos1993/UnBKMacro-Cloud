@@ -1,0 +1,65 @@
+<Root>
+  <DefaultMacro>
+    <Major>New anti recoil after AR guns patch</Major>
+    <Description>My up-to-date anti recoil (exclusively doing very well on R301 as its my fav gun) macro after the nerf to AR, it works well on 1920x1080, DPI 800, sens 2.5 with 1. on scope, no per optics off.
+
+Bind to MB1 and youre ready to use. But I prefer tryout in firing range on different optics to get the sense on the macro.
+
+If its not workinig right, go to Keyran and click on MB1, choose Operating mode as Run while you hold the key.
+
+Thank you for downloading, have a great day.
+
+</Description>
+    <Comment>Thank you for your time reviewing this, hope you have a wonderful day</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 2 2
+Delay 10 ms
+MoveR 2 -3
+Delay 10 ms
+MoveR -2 -3
+Delay 10 ms
+MoveR -2 1
+Delay 10 ms
+MoveR 2 2
+Delay 10 ms
+GoWhile 10 2
+MoveR 2 -2
+Delay 10 ms
+MoveR -2 -2
+Delay 10 ms
+MoveR -2 2
+Delay 10 ms
+MoveR 1 2
+Delay 10 ms
+GoWhile 19 2
+MoveR 1 -2
+Delay 10 ms
+MoveR -2 -2
+Delay 10 ms
+MoveR -2 2
+Delay 10 ms
+MoveR 1 2
+Delay 10 ms
+GoWhile 1 50
+MoveR 2 0
+Delay 10 ms
+MoveR 2 -1
+Delay 10 ms
+MoveR -2 -3
+Delay 10 ms
+MoveR -2 1
+Delay 10 ms
+MoveR 2 2
+Delay 10 ms
+GoWhile 31 1000</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

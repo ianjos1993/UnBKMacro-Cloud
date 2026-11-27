@@ -1,0 +1,78 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макр для афк манора.
+Макрос настрое на две клавиши с игровым макросом.
+Ф1 и Ф2
+Ф1 устанавливаем игровой макрос(у меня стоит асист по нику игрока, далее посеять семя и атака)
+Ф2 устанавливаем игровой макрос (сбор манора и поднятие дропа. Я поставил 3 подбора.)
+если манор на втором окне, то можно самостоятельно подстроиться под него.
+Надеюсь макрос пригодиться.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1553 ms
+KeyDown 58 1
+Delay 188 ms
+KeyUp 58 1
+Delay 7664 ms
+KeyDown 59 1
+Delay 159 ms
+KeyUp 59 1
+Delay 4639 ms
+KeyDown 58 1
+Delay 160 ms
+KeyUp 58 1
+Delay 2015 ms
+KeyDown 58 1
+Delay 152 ms
+KeyUp 58 1
+Delay 5504 ms
+KeyDown 59 1
+Delay 199 ms
+KeyUp 59 1
+Delay 2752 ms
+KeyDown 58 1
+Delay 215 ms
+KeyUp 58 1
+Delay 9391 ms
+KeyDown 59 1
+Delay 200 ms
+KeyUp 59 1
+Delay 3207 ms
+KeyDown 58 1
+Delay 176 ms
+KeyUp 58 1
+Delay 3528 ms
+KeyDown 59 1
+Delay 120 ms
+KeyUp 59 1
+Delay 7879 ms
+KeyDown 58 1
+Delay 216 ms
+KeyUp 58 1
+Delay 6120 ms
+KeyDown 58 1
+Delay 256 ms
+KeyUp 58 1
+Delay 4487 ms
+KeyDown 59 1
+Delay 239 ms
+KeyUp 59 1
+Delay 5856 ms
+KeyDown 58 1
+Delay 119 ms
+KeyUp 58 1
+Delay 4776 ms
+KeyDown 59 1
+Delay 136 ms
+KeyUp 59 1</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

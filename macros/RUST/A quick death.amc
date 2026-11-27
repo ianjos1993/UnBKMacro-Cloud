@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос для раста, при нажатии кнопки быстро вас убивает
+ставите на удобную клавишу, нажимаете и все готово</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 58 1
+Delay 64
+KeyUp 58 1
+Delay 64
+KeyDown 14 1
+Delay 20 ms
+KeyUp 14 1
+Delay 20 ms
+KeyDown 12 1
+Delay 19 ms
+KeyUp 12 1
+Delay 21 ms
+KeyDown 15 1
+Delay 23 ms
+KeyUp 15 1
+Delay 15 ms
+KeyDown 15 1
+Delay 23 ms
+KeyUp 15 1
+Delay 12 ms
+KeyDown 88 1
+Delay 64
+KeyUp 88 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

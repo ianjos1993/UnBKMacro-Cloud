@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>AHK для посева саженцев ростений на поле участка родина рп
+Разрешение экрана: 1920x1080
+Примечание: умедитесь что семена стоят во 2 слоте!!!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 10 ms
+KeyDown 12 1
+Delay 64 ms
+KeyUp 12 1
+Delay 768 ms
+MoveTo 1079 404
+Delay 216 ms
+LeftDown 1
+Delay 62 ms
+LeftUp 1
+Delay 223 ms
+MoveTo 1085 416
+Delay 280 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 551 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 399 ms
+LeftDown 1
+Delay 120 ms
+LeftUp 1
+Delay 1255 ms
+GoWhile 1 30</Syntax>
+    </KeyDown>
+    <Software>GTA: Criminal Russia (CRMP)</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major>Aks macro зажим [CRIMINALITY]</Major>
+    <Description>Зажим калаша в плейсе Criminality довольно легкий, но я его еще сильнее улучшил, теперь париться даже не надо. Зажми бинд, на котором стоит макро. Макро ведет мышь вниз за вас, из-за этого зажим облегчается, и становится легче использовать калаш в данной игре.
+
+Макро представляет собой бинд на левую кнопку мыши (работает лучше при зажимании правой кнопки мыши, то есть, прицеливания). Что-бы всё работало хорошо, достаточно просто зайти в первое лицо. Он довольно гибридный, поэтому можно использовать и на другие оружия, но советую на калаш.</Description>
+    <Comment>Real gameplay</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR 0 -7
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

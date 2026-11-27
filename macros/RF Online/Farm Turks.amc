@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>RF NEVERDIE фарм акроспецом  мехозавров под турками, можно поменять значение 4 сек на другое которое подойдет вам для убийства моба</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 44 1
+Delay 500 ms
+KeyUp 44 1
+Delay 4 s
+GoWhile 1 51111111</Syntax>
+    </KeyDown>
+    <Software>RF Online</Software>
+  </DefaultMacro>
+</Root>

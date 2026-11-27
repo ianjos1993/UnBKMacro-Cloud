@@ -1,0 +1,49 @@
+<Root>
+  <DefaultMacro>
+    <Major>Supply SH-20 Ballistic Shield Backpack</Major>
+    <Description>The SH-20 Ballistic Shield Backpack or Ballistic Shield for short is a Stratagem which provides portable cover against enemy small arms fire when wielded.
+
+Instructions:
+To make the macro work correctly, set the stratagem button to the «click» type. In the game settings, select the arrows for the stratagems.
+
+The tactical advantage of using the arrow keys is that you can keep moving while entering a stratagem sequence.
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 80 1
+Delay 64
+KeyUp 80 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 80 1
+Delay 64
+KeyUp 80 1
+Delay 64
+KeyUp 224 1</Syntax>
+    </KeyDown>
+    <Software>Helldivers 2</Software>
+  </DefaultMacro>
+</Root>

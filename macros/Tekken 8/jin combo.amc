@@ -1,0 +1,55 @@
+<Root>
+  <DefaultMacro>
+    <Major>Jin kazama Combo</Major>
+    <Description>A simple combo for jin kazama 
+
+Square = u 
+triangle = i 
+x = j 
+circle = k
+w = Up
+s = down
+d = forward
+a = backwards 
+N = heat 
+O = u and i Together
+L = X and circle together</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 24 1
+Delay 88 ms
+KeyUp 24 1
+Delay 63 ms
+KeyDown 12 1
+Delay 104 ms
+KeyUp 12 1
+Delay 55 ms
+KeyDown 12 1
+Delay 87 ms
+KeyUp 12 1
+Delay 72 ms
+KeyDown 24 1
+Delay 96 ms
+KeyUp 24 1
+Delay 64 ms
+KeyDown 24 1
+Delay 112 ms
+KeyUp 24 1
+Delay 55 ms
+KeyDown 24 1
+Delay 88 ms
+KeyUp 24 1
+Delay 56 ms
+KeyDown 24 1
+Delay 96 ms
+KeyUp 24 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

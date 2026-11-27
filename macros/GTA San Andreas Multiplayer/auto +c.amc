@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос на авто +с незаменимания вещь на дм сеерверах, удобно использовать в любом режиме, биндите любую кнопку и нажимаете</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 6 1
+Delay 64
+KeyUp 6 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

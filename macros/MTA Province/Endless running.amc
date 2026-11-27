@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на бесконечный бег, назначаете на любую клавишу, в режиме работы ставити "до повторного нажатия".
+
+Мавкрос для работы на ЖБК, включили имышкой направляете до точек))
+Хорошого фарма!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 523 ms
+KeyDown 26 1
+Delay 4278 ms</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

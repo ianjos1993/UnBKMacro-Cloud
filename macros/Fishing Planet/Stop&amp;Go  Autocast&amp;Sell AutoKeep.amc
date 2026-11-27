@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description> play easily and relaxed for fishing, note for the autokeep monitor that I use 1366 x 768, so you determine your own cursor coordinator with Mpos Portable</Description>
+    <Comment>Demong</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+LeftDown 1
+Delay 35 ms
+KeyUp 44 1
+Delay 1870 ms
+LeftUp 1
+Delay 99 ms
+MoveTo 777 667
+Delay 128 ms
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Fishing Planet</Software>
+  </DefaultMacro>
+</Root>

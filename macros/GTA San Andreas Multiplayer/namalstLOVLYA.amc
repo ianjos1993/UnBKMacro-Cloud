@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Намальск РП. Ловля закака для электриков. Нужно встать на чекпоинт и повернуть камеру в стену, потому что персонаж начинает идти из-за быстрой скорости макроса. Первое нажатие - активация, второе - деактивация.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 226 1
+Delay 10 ms
+KeyUp 226 1
+Delay 10 ms
+KeyDown 81 1
+Delay 10 ms
+KeyUp 81 1
+Delay 10 ms
+KeyDown 81 1
+Delay 10 ms
+KeyUp 81 1
+Delay 10 ms
+KeyDown 81 1
+Delay 10 ms
+KeyUp 81 1
+Delay 10 ms
+KeyDown 88 1
+Delay 10 ms
+KeyUp 88 1
+Delay 100 ms</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

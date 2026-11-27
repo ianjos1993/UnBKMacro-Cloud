@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Steps to make this work:
+
+1.- Assign this macro to CTRL keybind
+2.- Assign crouch to CTRL in fortnite
+3.- Run Keyran
+4.-Enjoy</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 4 ms
+KeyUp 224 1
+Delay 4 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

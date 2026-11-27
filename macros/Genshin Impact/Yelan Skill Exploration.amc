@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major>Yelan Skill Exploration</Major>
+    <Description>This simple script will allow you to use Yelan's skill, and then recast as soon as it is available. Press the bound key once to toggle on and again to toggle off.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 1250 ms
+KeyUp 8 1
+Delay 11860 ms</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

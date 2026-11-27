@@ -1,0 +1,138 @@
+<Root>
+  <DefaultMacro>
+    <Major>Lars Combo 1 T8</Major>
+    <Description>Макрос позволяет выполнять HEAT комбо за Ларса.
+Видео демонстрации работы макроса: https://youtu.be/AnaAAfTMkvI
+
+Ларс Александерссон в Tekken 8 продолжает свою борьбу против корпорации Мишима, оставаясь харизматичным лидером сопротивления. Его боевой стиль – это сочетание молниеносных атак, резких движений и сокрушительных ударов, делающих его одним из самых зрелищных бойцов. Как внебрачный сын Хейхачи, он вынужден жить с тяжестью своего происхождения, но неуклонно идет своим путем. Его броня стала более технологичной, отражая его эволюцию как воина и стратегического лидера. Ларс всегда был борцом за справедливость, но теперь его методы становятся более прагматичными, а решения – жесткими, ведь война требует жертв. 
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 17.02.2025
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ, обращайтесь в дискорд для этого.
+
+#larstekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 10 ms
+KeyDown 26 1
+Delay 24 ms
+KeyDown 77 1
+Delay 295 ms
+KeyUp 77 1
+Delay 154 ms
+KeyUp 26 1
+Delay 116 ms
+KeyUp 7 1
+Delay 392 ms
+KeyDown 73 1
+Delay 87 ms
+KeyUp 73 1
+Delay 213 ms
+KeyDown 7 1
+Delay 69 ms
+KeyUp 7 1
+Delay 45 ms
+KeyDown 7 1
+Delay 116 ms
+KeyUp 7 1
+Delay 29 ms
+KeyDown 73 1
+Delay 63 ms
+KeyUp 73 1
+Delay 201 ms
+KeyDown 7 1
+Delay 75 ms
+KeyUp 7 1
+Delay 58 ms
+KeyDown 7 1
+Delay 121 ms
+KeyUp 7 1
+Delay 39 ms
+KeyDown 73 1
+Delay 64 ms
+KeyUp 73 1
+Delay 213 ms
+KeyDown 7 1
+Delay 85 ms
+KeyUp 7 1
+Delay 51 ms
+KeyDown 7 1
+Delay 133 ms
+KeyUp 7 1
+Delay 18 ms
+KeyDown 73 1
+Delay 75 ms
+KeyUp 73 1
+Delay 196 ms
+KeyDown 7 1
+Delay 80 ms
+KeyUp 7 1
+Delay 46 ms
+KeyDown 7 1
+Delay 132 ms
+KeyUp 7 1
+Delay 23 ms
+KeyDown 73 1
+Delay 92 ms
+KeyUp 73 1
+Delay 81 ms
+KeyDown 74 1
+Delay 168 ms
+KeyDown 76 1
+Delay 115 ms
+KeyUp 76 1
+Delay 64 ms
+KeyDown 76 1
+Delay 114 ms
+KeyUp 76 1
+Delay 57 ms
+KeyDown 76 1
+Delay 115 ms
+KeyUp 76 1
+Delay 75 ms
+KeyDown 76 1
+Delay 138 ms
+KeyUp 76 1
+Delay 1046 ms
+KeyDown 7 1
+Delay 74 ms
+KeyUp 7 1
+Delay 46 ms
+KeyDown 7 1
+Delay 138 ms
+KeyUp 7 1
+Delay 36 ms
+KeyDown 76 1
+Delay 92 ms
+KeyUp 76 1
+Delay 1450 ms
+KeyUp 74 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на новый, только что вышедший класс. На первую специализацию, прожимает базовую ротацию, рекомендуется в настройках клавиш поставить Ячейку 2 на R. Использовать с включенным режимом упрощенного боя. 
+Как использовть:
+1. Включаем макрос не отжимая клавишу на которую вы его забиндили примерно 1-2 секунды, после отжатия прожмутся другие скиллы(Двойка к примеру) за одно нажатие прожимаются все скиллы, в том числе и TAB(баф)
+2. Удерживать пкм(или R если вы поставили её на ячейку 2), жать внутреигровым макросом, можно давать z 2 c по откату.
+3. Когда откатится таб прожимаем макрос еще раз(желательно, что бы все остальные скилы были не в КД)
+
+Макрос довольно сырой, но со своей задачей справляется, желаю приятной игры </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+KeyDown 43 1
+Delay 20
+KeyUp 43 1
+Delay 20
+Delay 20
+KeyUp 29 1
+Delay 20
+KeyDown 6 1
+Delay 20
+KeyUp 6 1
+Delay 20
+KeyDown 25 1
+Delay 20
+KeyUp 25 1
+Delay 20
+KeyDown 33 1
+Delay 20
+KeyUp 33 1
+Delay 20
+KeyDown 32 1
+Delay 20
+KeyUp 32 1
+Delay 20
+KeyDown 31 1
+Delay 20
+KeyUp 31 1
+Delay 20</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

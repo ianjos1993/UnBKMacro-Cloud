@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Надеюсь выстовят этот макрос в общий доступ, так как этот макрос предназначен для обладателей 8 хвостова (Гьюки), а также его берсерк модом. Тем кто не знает как это сделать:
+Устанавливаем скрипт
+Ставим его на кнопку котою хочешь(Чтобы поставить на кнопку надо зайти в клавиатуру и нажать на "AMC макрос")
+Далее нажать кнопку запустить
+Все можете пользоваться</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+KeyDown 37 1
+KeyUp 37 1
+KeyUp 29 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

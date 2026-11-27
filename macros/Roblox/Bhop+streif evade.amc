@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>С помощью данного макроса вы сможете бхопить и делать стрейфы одновременно всё что вам останется сделать это водить мышкой в право и влево.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

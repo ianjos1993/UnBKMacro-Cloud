@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major>БаниХоп</Major>
+    <Description>АвтоБанихоп для Кс 1.6
+Устанавливаем биндим клавишу и просто зажимаем.
+Всем удачки
+Смотрите на некоторых серверах банит!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 5 ms
+KeyUp 44 1
+Delay 5 ms
+KeyDown 44 1
+Delay 5 ms
+KeyUp 44 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>CS 1.6</Software>
+  </DefaultMacro>
+</Root>

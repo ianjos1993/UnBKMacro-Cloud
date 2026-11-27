@@ -1,0 +1,96 @@
+<Root>
+  <DefaultMacro>
+    <Major>Dragunov commbo 2</Major>
+    <Description>Комбо макрос для персонажа Dragunov в игре Tekken 8
+
+Несмотря на то, что Драгунов не говорит в игре, один из разработчиков Tekken заявил в своём интервью, что он вполне может разговаривать, но просто этого не хочет. Также известно, что в повседневной жизни он любит петь.
+
+Видео демонстрация макроса -  https://youtu.be/1qLju669VN4
+Тестировалось на последней версии игры.
+
+Настройки в программе для корректного выполнения макроса:
+1. Использовать драйвер.
+2. Отключить использование минимальной задержки.
+
+
+Настройки управления в игре:
+1 - Num 4
+2 - Num 5
+3 - Num 1
+4 - Num 2
+Up - W
+Down - S
+Left - A
+Right - D
+
+Если макрос не работает обращаться - https://keyran.net/discord
+Либо к автору макроса, также по вопросам написания макросов - hersonaep (discord)
+
+#tekken #tekken8 #dragunov #keyran</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 7 ms
+KeyDown 7 1
+Delay 32 ms
+KeyDown 93 1
+Delay 239 ms
+KeyUp 22 1
+Delay 56 ms
+KeyUp 93 1
+Delay 15 ms
+KeyUp 7 1
+Delay 392 ms
+KeyDown 90 1
+Delay 136 ms
+KeyDown 92 1
+Delay 24 ms
+KeyUp 90 1
+Delay 119 ms
+KeyUp 92 1
+Delay 711 ms
+KeyDown 92 1
+Delay 95 ms
+KeyUp 92 1
+Delay 296 ms
+KeyDown 7 1
+Delay 64 ms
+KeyDown 90 1
+Delay 175 ms
+KeyDown 89 1
+Delay 31 ms
+KeyUp 90 1
+Delay 56 ms
+KeyUp 89 1
+Delay 71 ms
+KeyDown 89 1
+Delay 87 ms
+KeyUp 89 1
+Delay 47 ms
+KeyDown 89 1
+Delay 96 ms
+KeyUp 89 1
+Delay 352 ms
+KeyUp 7 1
+Delay 479 ms
+KeyDown 7 1
+Delay 55 ms
+KeyUp 7 1
+Delay 64 ms
+KeyDown 7 1
+Delay 168 ms
+KeyDown 89 1
+Delay 215 ms
+KeyUp 89 1
+Delay 55 ms
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос предназначен для автоматического показа существующих хомов.
+1)Макрос выполняет функцию написания команды /Homes,которая показывает существующие хомы.
+2)Биндите макрос на любую удобную для вас клавишу или кнопку мыши.
+3)После нажатия клавиши или кнопки мыши на которую вы забиндили его,макрос автоматически напишет команду.
+4)Макрос будет очень удобен на серверах по Анархии и тд.
+5)Не рекомендуется использовать макрос на серверах где сторонние программы запрещены.
+6)Спасибо всем за внимание и приятного использования.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 15 ms
+KeyUp 23 1
+Delay 15 ms
+KeyDown 56 1
+Delay 15 ms
+KeyUp 56 1
+Delay 15 ms
+KeyDown 11 1
+Delay 15 ms
+KeyUp 11 1
+Delay 15 ms
+KeyDown 18 1
+Delay 15 ms
+KeyUp 18 1
+Delay 15 ms
+KeyDown 16 1
+Delay 15 ms
+KeyUp 16 1
+Delay 15 ms
+KeyDown 8 1
+Delay 15 ms
+KeyUp 8 1
+Delay 15 ms
+KeyDown 22 1
+Delay 15 ms
+KeyUp 22 1
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

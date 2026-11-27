@@ -1,0 +1,88 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматическая отправка разведки каждые 2-4 минуты
+Работает на расширении 1366x768 в окне
+Базу выставляем самую первую с надписью ROK
+ПК версия 
+В макросе присутввет рандомная задержка и координат что дает его меня заментным</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1097 724 1140 786
+Delay 64 120
+LeftDown 1
+Delay 64 120
+LeftUp 1
+Delay 2000 3000 ms
+MoveTo 1209 833 1251 871
+Delay 62 120 ms
+LeftDown 1
+Delay 62 120
+LeftUp 1
+Delay 2000 3000 ms
+MoveTo 1160 538 1265 569
+Delay 62 120
+LeftDown 1
+Delay 62 120
+LeftUp 1
+Delay 2000 3000 ms
+MoveTo 1015 628 1135 658
+LeftDown 1
+Delay 62 120
+LeftUp 1
+Delay 62 120
+Delay 2000 3000 ms
+MoveTo 1375 401 1486 433
+Delay 62 120
+LeftDown 1
+Delay 62 120
+LeftUp 1
+Delay 2000 3000 ms
+KeyDown 44 1
+Delay 62 120
+KeyUp 44 1
+Delay 2000 3000 ms
+MoveTo 1090 719 1142 782
+Delay 64 120
+LeftDown 1
+Delay 64 120
+LeftUp 1
+Delay 2000 3000 ms
+MoveTo 1209 833 1251 871
+Delay 62 120 ms
+LeftDown 1
+Delay 62 120
+LeftUp 1
+Delay 2000 3000 ms
+MoveTo 1157 632 1261 665
+Delay 62 120
+LeftDown 1
+Delay 62 120
+LeftUp 1
+Delay 2000 3000 ms
+MoveTo 1015 628 1135 658
+LeftDown 1
+Delay 62 120
+LeftUp 1
+Delay 62 120
+Delay 2000 3000 ms
+MoveTo 1376 492 1488 527
+Delay 62 120
+LeftDown 1
+Delay 62 120
+LeftUp 1
+Delay 2000 3000 ms
+KeyDown 44 1
+Delay 62 120
+KeyUp 44 1
+Delay 2 4 min</Syntax>
+    </KeyDown>
+    <Software>Rise of Kingdoms</Software>
+  </DefaultMacro>
+</Root>

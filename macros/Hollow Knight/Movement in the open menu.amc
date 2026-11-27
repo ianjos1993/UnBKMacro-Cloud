@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Для активации функции нажмите заданную комбинацию — вы сможете передвигаться с открытым инвентарём.
+Затем можно воспользоваться багом с неуязвимостью. Он заключается в следующем: в процессе использования бага через меню вам нужно телепортироваться ко вратам грёз, и во время анимации телепорта закрыть и снова открыть инвентарь. После завершения анимации можно закрыть инвентарь —  ваш персонаж станет неуязвимым.
+Эффект неуязвимости сохраняется при переходах между комнатами. После использования бага для его повторной активации потребуется перезапуск игры.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 0 ms
+KeyUp 43 1
+Delay 0 ms
+KeyDown 8 1
+Delay 0 ms
+KeyUp 8 1
+Delay 0 ms
+KeyDown 43 1
+Delay 0 ms
+KeyUp 43 1
+Delay 0 ms</Syntax>
+    </KeyDown>
+    <Software>Hollow Knight</Software>
+  </DefaultMacro>
+</Root>

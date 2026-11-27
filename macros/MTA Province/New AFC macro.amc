@@ -1,0 +1,268 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Максрос позволяющий долгое время не присутствовать у компьютера и при это не числиться афк, и не давая причину администрации вас кикнуть. Все работает предельно просто, раз в минуту ваш персонаж делает небольшой шажок вперед. Рекомендуется перед началом использования макроса упереться в стену дабы никуда случайно не уйти, или же запрыгнуть на любой забор и не перелазить его, а просто повиснуть, тогда не будет никаких движений и счетчик афк будет сбиваться с нажатием макросом клавиши.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 22 1
+Delay 10 ms
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 26 1
+Delay 64
+Delay 60 s
+KeyUp 26 1
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 60 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

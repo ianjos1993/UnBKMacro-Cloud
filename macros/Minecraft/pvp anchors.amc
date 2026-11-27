@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос нужен для быстрого уничтожения своего врага. Как вы уже поняли, здесь понадобятся якоря и светокамень. В 6 слот инвентаря нужно положить якорь, а в 5 слот инвентаря блок светокамня. В настройках нужно поставить "Слот 6" на кнопку 6, а "Слот 5" на кнопку 5.  Также рекомендую поставить поле зрения Quake-pro. Удачной игры!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 35 1
+Delay 10
+KeyUp 35 1
+Delay 10
+KeyDown 35 1
+Delay 10
+KeyUp 35 1
+Delay 10
+RightDown 1
+Delay 10
+RightUp 1
+Delay 10
+RightDown 1
+Delay 10
+RightUp 1
+Delay 10
+KeyDown 34 1
+Delay 10
+KeyUp 34 1
+Delay 10
+KeyDown 34 1
+Delay 10
+KeyUp 34 1
+Delay 10
+RightDown 1
+Delay 10
+RightUp 1
+Delay 10
+RightDown 1
+Delay 10
+RightUp 1
+Delay 10</Syntax>
+    </KeyDown>
+    <Software>minecraft</Software>
+  </DefaultMacro>
+</Root>

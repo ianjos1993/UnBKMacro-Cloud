@@ -1,0 +1,36 @@
+<Root>
+  <!-- by Britan -->
+  <DefaultMacro>
+    <Major></Major>
+    <Description>НАЗВАНИЕ: Helldivers 2 Stratagem Input. ОПИСАНИЕ: Быстрый ввод стратагемы: вверх -&gt; вниз -&gt; влево -&gt; вправо -&gt; вверх (стандартная команда). Позволяет мгновенно вызвать поддержку. РЕКОМЕНДУЕМАЯ КЛАВИША: Mouse 4 (Side). КАК ИСПОЛЬЗОВАТЬ: Привяжи макрос на кнопку Mouse 4. Нажми Mouse 4 - макрос введёт последовательность стрелок для вызова стратагемы. Однократное выполнение. НАСТРОЙКА: Разные стратагемы требуют разных последовательностей - измени стрелки в коде под нужную команду. АВТОР: by Britan. ЗАПРЕЩЕНО копировать без указания автора.</Description>
+    <Comment>Привязка: Mouse 4 (Side). Режим: однократное. Инструкция: нажми - быстрый ввод стратагемы (вверх-вниз-влево-вправо-вверх).</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 38 1
+Delay 30 ms
+KeyUp 38 1
+Delay 30 ms
+KeyDown 40 1
+Delay 30 ms
+KeyUp 40 1
+Delay 30 ms
+KeyDown 37 1
+Delay 30 ms
+KeyUp 37 1
+Delay 30 ms
+KeyDown 39 1
+Delay 30 ms
+KeyUp 39 1
+Delay 30 ms
+KeyDown 38 1
+Delay 30 ms
+KeyUp 38 1</Syntax>
+    </KeyDown>
+    <Software>Helldivers 2</Software>
+  </DefaultMacro>
+</Root>

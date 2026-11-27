@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>The "Chaka chaka pata pon" macro in Patapon 3, when used with precise timing, has the potential to trigger an unbreakable fever. Best for afk lvling up Cannassault Backbone 1,2,3,4 and Taterazay Energy Field  class skills.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 80 ms
+KeyUp 22 1
+Delay 420 ms
+KeyDown 22 1
+Delay 80 ms
+KeyUp 22 1
+Delay 420 ms
+KeyDown 4 1
+Delay 120 ms
+KeyUp 4 1
+Delay 380 ms
+KeyDown 26 1
+Delay 130 ms
+KeyUp 26 1
+Delay 2354 ms</Syntax>
+    </KeyDown>
+    <Software>Patapon 3</Software>
+  </DefaultMacro>
+</Root>

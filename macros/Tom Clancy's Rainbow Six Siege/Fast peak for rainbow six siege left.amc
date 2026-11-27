@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Fast peak for r6 left side
+Bind to your leaning button
+Might take a bit to get used to it but once you get used to it , easy headshots</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 20 ms
+KeyUp 20 1
+Delay 20 ms
+KeyDown 4 1
+Delay 120 ms
+KeyUp 4 1
+Delay 75 ms
+KeyDown 7 1
+Delay 20 ms
+KeyDown 20 1
+Delay 20 ms
+KeyUp 20 1
+Delay 95 ms
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

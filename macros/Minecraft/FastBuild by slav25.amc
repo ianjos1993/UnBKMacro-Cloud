@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Быстрое строительство - 10 блоков в секунду.
+                                                        
+                                                                         Создано для проекта VimeWorld.
+
+          Инструкция:
+1.Взять блок в руку.
+2.Зажать кнопку.
+
+
+  Все готого.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+RightUp 1
+Delay 87 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

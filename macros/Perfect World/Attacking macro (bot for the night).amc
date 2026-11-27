@@ -1,0 +1,56 @@
+<Root>
+  <DefaultMacro>
+    <Major>Автобот на атаку</Major>
+    <Description>Инструкция для макроса в игре Perfect World, подходит для нового сервера открывщегося 26 января на версии 136х:
+1. Откройте настройки клавиш (обычно клавиша "K" в игре).
+2. Назначьте быстрое действие 1 на клавишу "F" и быстрое действие 2 на клавишу "E".
+
+Макрос работает следующим образом: выберает ближайшую цель, выполнит атаку (клавиша "F"), подберёт лут, смените цель и повторите атаку.
+Сейчас установлено 500 повторений макроса это примерно на 4 часа (можно изменить это число в конце списка).
+3. Назначьте удобную для вас клавишу и запустите макрос
+4. Проверьте, что все действия выполняются корректно и монотонно
+5. Оставьте персонажа в режиме AFK.
+
+Эта программа макросника поможет вам прокачивать персонажа в игре Perfect World в режиме AFK, непрерывно набивая монстров. Пожалуйста, помните о соблюдении правил игры и не используйте этот макрос для недобросовестной игры.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 127 ms
+KeyUp 43 1
+Delay 887 ms
+KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 64
+Delay 20000 ms
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 64
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 64
+GoWhile 1 500</Syntax>
+    </KeyDown>
+    <Software>Perfect World</Software>
+  </DefaultMacro>
+</Root>

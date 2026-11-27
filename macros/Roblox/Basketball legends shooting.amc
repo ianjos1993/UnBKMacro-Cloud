@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>Basketball Legends</Major>
+    <Description>This macro can be used in any situation: both at the beginning of 1vs1 and during the game, even in the corner of the court. I tested it on the average level of players, and the result was impressive. The secret is that you need to move quickly on the spot and press the R  key to activate the pump fake, which allows you to throw the ball with minimal risk of error. This macro works on all resolution</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 10 ms
+KeyUp 4 1
+KeyDown 22 1
+Delay 10 ms
+KeyUp 22 1
+KeyDown 7 1
+Delay 10 ms
+KeyUp 7 1
+KeyDown 21 1
+Delay 0 ms
+KeyUp 21 1
+KeyDown 8 1
+Delay 344 ms
+KeyUp 8 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

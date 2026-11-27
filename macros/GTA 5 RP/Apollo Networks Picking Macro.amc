@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Picking Macro for Apollo Networks GTA V RP.
+Part afk macro need to do skill test every 100 picked and do T/here or move every couple minutes
+You can use this macro at your own risk.. Risk is getting PERM banned or Warnings (:
+
+REQUIRED FOR USE OF MACRO!!!
+
+(SETTINGS&gt;ADVANCED GRAPCHICS&gt;SCREEN TYPE&gt;WINDOWED)
+IF SCREEN TYPE IS NOT CHANGED IT WILL NOT WORK!!!
+
+SCREEN RESOLUTION USED 1904 X 1041</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MiddleDown 1
+Delay 40 ms
+LeftDown 1
+Delay 40 ms
+LeftUp 1
+Delay 50 ms
+MoveTo 1003 553
+Delay 40 ms
+LeftDown 1
+Delay 40 ms
+LeftUp 1
+Delay 40 ms
+MiddleUp 1
+Delay 13 s
+GoWhile 1 98</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

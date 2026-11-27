@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>1112</Major>
+    <Description>Фарм глазиков в комнате краха 
+встать в комнате краха с отрицательным СЕН у костра и включить макрос
+Важно:
+обязательно иметь серебряное кольцо жадности для буста фарма
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Black Souls 2</Software>
+  </DefaultMacro>
+</Root>

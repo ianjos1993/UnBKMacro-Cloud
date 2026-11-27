@@ -1,0 +1,138 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Приветствую, дорогие друзья. 
+Данный макрос позволит автоматизировать все производство мобов на режиме ''Моб Тайкон'', проект Cristalix.
+Первым делом макрос собирает лут со всех мобов( 3 раза ), после чего он бежит на продажу, выгружает в переработку весь лут.
+Выгрузив лут, персонаж бежит покупать мобов( 3 раза ), после чего он их сразу же бежит апгрейдить.
+После всего этого бот возвращается к первой точке.
+Макрос зациклен, по этому, вы можете оставить данный макрос включенным и отлучиться по делам. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 3000 ms
+KeyUp 26 1
+Delay 1 ms
+KeyDown 22 1
+Delay 3000 ms
+KeyUp 22 1
+Delay 1 ms
+KeyDown 26 1
+Delay 3000 ms
+KeyUp 26 1
+Delay 1 ms
+KeyDown 22 1
+Delay 3000 ms
+KeyUp 22 1
+Delay 1 ms
+KeyDown 26 1
+Delay 3 s
+KeyUp 26 1
+Delay 1 ms
+KeyDown 22 1
+Delay 3 s
+KeyUp 22 1
+Delay 1 ms
+KeyDown 26 1
+Delay 2 s
+KeyUp 26 1
+Delay 64
+KeyDown 7 1
+Delay 4500 ms
+KeyUp 7 1
+Delay 64
+KeyDown 26 1
+Delay 750 ms
+KeyUp 26 1
+Delay 64
+KeyDown 22 1
+Delay 750 ms
+KeyUp 22 1
+Delay 64
+KeyDown 4 1
+Delay 1250 ms
+KeyUp 4 1
+Delay 64
+KeyDown 44 1
+Delay 64 ms
+KeyUp 44 1
+Delay 1 ms
+KeyDown 4 1
+Delay 2300 ms
+KeyUp 4 1
+Delay 64
+KeyDown 44 1
+Delay 64 ms
+KeyUp 44 1
+Delay 1 ms
+KeyDown 4 1
+Delay 550 ms
+KeyUp 4 1
+Delay 64
+KeyDown 26 1
+Delay 1300 ms
+KeyUp 26 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 22 1
+Delay 3850 ms
+KeyUp 22 1
+Delay 64
+KeyDown 7 1
+Delay 1000 ms
+KeyUp 7 1
+Delay 64
+KeyDown 4 1
+Delay 700 ms
+KeyUp 4 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 4 1
+Delay 300 ms
+KeyUp 4 1
+Delay 64 ms
+KeyDown 26 1
+Delay 850 ms
+KeyUp 26 1
+Delay 64
+KeyDown 4 1
+Delay 1100 ms
+KeyUp 4 1
+Delay 64
+KeyDown 22 1
+Delay 650 ms
+KeyUp 22 1
+Delay 64
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>minecraft</Software>
+  </DefaultMacro>
+</Root>

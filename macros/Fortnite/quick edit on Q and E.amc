@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данных макросов много на форуме но именно редакт на Q и E я ещё не видел. чтобы всё работало надо включить в настройках функцию быстрого редактирования.ВНИМАНИЕ!! не ставьте данный бинд постоянное повторение при зажатии кнопки ведь человек не может так быстро редачить из за этого мы можете отлететь в бан лучше поставить 1 раз в 1 клик.Приятной игры!</Description>
+    <Comment>По всем вопросам насчёт макроса в тг-@ApelsinYT</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 3 ms
+KeyUp 20 1
+Delay 3 ms
+KeyDown 8 1
+Delay 3 ms
+KeyUp 8 1
+Delay 3 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

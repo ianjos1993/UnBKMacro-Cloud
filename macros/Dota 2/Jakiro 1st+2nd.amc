@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>Dota 2 Jakiro Macro</Major>
+    <Description>Macro for Jakiro's 1st skill and 2nd skill.
+---
+ACTIVATE by putting the 1st skill to "Q" and the 2nd skill to "W"
+Put shortcut key on Keyran and enjoy!
+---</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 32 ms
+KeyUp 20 1
+Delay 32 ms
+LeftDown 1
+Delay 32 ms
+LeftUp 1
+Delay 32 ms
+KeyDown 26 1
+Delay 32 ms
+KeyUp 26 1
+Delay 32 ms
+LeftDown 1
+Delay 32 ms
+LeftUp 1
+Delay 32 ms</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

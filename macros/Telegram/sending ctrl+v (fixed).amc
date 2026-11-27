@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос поможет вам спамить в группу телеграмма с интервалом в 10,5 секунд (для каналов с ограничением в сообщениях в 10 секунд) для рассылки забиндите макрос в любую клавишу скопируйте нужный текст и нажми на бинд, макрос начнет действовать.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 10 ms
+KeyDown 224 1
+Delay 10 ms
+KeyDown 25 1
+Delay 10 ms
+KeyUp 224 1
+Delay 10 ms
+KeyUp 25 1
+Delay 10 ms
+KeyDown 88 1
+Delay 10 ms
+KeyUp 88 1
+Delay 11 s
+GoWhile 2 5000</Syntax>
+    </KeyDown>
+    <Software>Telegram</Software>
+  </DefaultMacro>
+</Root>

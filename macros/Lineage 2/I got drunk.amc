@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major>Споил в деле</Major>
+    <Description>Спойли на афк каче. Достаточно  запустить макрос. 
+Настройки в программе:
+1.Работать с привязкой к окну.
+2.Настройки программы
+2.1.На F1 биндим скил "Погоня за тенью".
+2.2. На F2 биндим скил "Коварный обман "
+2,3, На F3 биндим кнопку /pickup
+Запускаем макрос и наслаждаемся спойлом на АФК.
+
+Макрос тестировался на ПК с разрешением экрана 2560*1080, игра запущена в "окне".</Description>
+    <Comment>https://keyran.net - макрос для всех</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 58 1
+Delay 10
+KeyUp 58 1
+Delay 10
+KeyDown 59 1
+Delay 10
+KeyUp 59 1
+Delay 10
+KeyDown 60 1
+Delay 10
+KeyUp 60 1
+Delay 10</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

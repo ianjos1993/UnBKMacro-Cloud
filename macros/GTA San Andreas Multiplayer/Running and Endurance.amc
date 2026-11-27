@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос создан для проекта Малиновка РП. Он очень сильно упрощает прокачку фитнеса, Достаточно включить макрос, и подойти к необходимому тренажеру. [Бег (Максимум скорости) и Выносливость(Максимум Выносливости) ] Подходит под разрешения 1365x767!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 18 ms
+KeyUp 44 1
+Delay 17 ms
+GoColor 9 0 255,255,255 255,255,255 1 749 685 387 282 1 0
+KeyDown 26 1
+Delay 18 ms
+KeyUp 26 1
+Delay 17 ms
+GoColor 14 0 255,255,255 255,255,255 1 795 685 547 285 1 0
+KeyDown 4 1
+Delay 18 ms
+KeyUp 4 1
+Delay 17 ms
+GoColor 19 0 255,255,255 255,255,255 1 842 685 357 285 1 0
+KeyDown 22 1
+Delay 18 ms
+KeyUp 22 1
+Delay 17 ms
+GoColor 24 0 255,255,255 255,255,255 1 885 685 377 284 1 0
+KeyDown 7 1
+Delay 18 ms
+KeyUp 7 1
+Delay 17 ms</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

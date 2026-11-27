@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Gunner (Dark) стрельба навскидку + перезарядка
+
+Активация на R ( один раз нажать чтобы включить/выключить )
+
+В настройках игры поменять "клавиши -&gt; боевые приёмы" R - первая ячейка, T - вторая </Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 0 ms
+KeyUp 23 1
+Delay 0 ms
+KeyDown 33 1
+Delay 0 ms
+KeyUp 33 1
+Delay 0 ms
+KeyDown 9 1
+Delay 0 ms
+KeyUp 9 1
+Delay 0 ms
+KeyDown 32 1
+Delay 0 ms
+KeyUp 32 1
+Delay 0 ms
+KeyDown 23 1
+Delay 0 ms
+KeyUp 23 1
+Delay 0 ms
+KeyDown 33 1
+Delay 0 ms
+KeyUp 33 1
+Delay 0 ms
+KeyDown 9 1
+Delay 0 ms
+KeyUp 9 1
+Delay 0 ms
+KeyDown 32 1
+Delay 0 ms
+KeyUp 32 1
+Delay 0 ms</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

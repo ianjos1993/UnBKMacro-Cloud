@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Используйте данный макрос для афк фарма каких либо боссов ,  данный максрос будет задействовать скиллы вашего Банкая/Ресурекшиона/Шрифта/Фулбрингера</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1 s
+KeyDown 29 1
+Delay 1 s
+KeyUp 29 1
+Delay 1 s
+KeyDown 27 1
+Delay 1 s
+KeyUp 27 1
+Delay 1 s
+KeyDown 6 1
+Delay 1 s
+KeyUp 6 1
+Delay 1 s
+KeyDown 25 1
+Delay 1 s
+KeyUp 25 1
+Delay 1 s
+GoWhile 2 86400000</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>Автоматическая помощь альянсу</Major>
+    <Description>Автоматическая помощь альянсу — это простой в освоении, но крайне эффективный инструмент для игроков, состоящих в альянсах (кланах), желающих получать больше наград и помогать членам своих альянсов.
+
+Инструкция:
+1. Дождитесь появления кнопки помощи альянсу.
+2. Наведите курсор мыши на кнопку.
+3. Активируйте макрос.
+
+Требования:
+Разрешение экрана 1440x900
+
+Макрос абсолютно безопасен и проверен на личных аккаунтах.
+
+Спасибо, что остаётесь с KeyRan!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 2 1 226,0,0 255,255,255 2 1097 641 22 23 1 0
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 5 s
+GoWhile 1 1</Syntax>
+    </KeyDown>
+    <Software>Rise of Kingdoms</Software>
+  </DefaultMacro>
+</Root>

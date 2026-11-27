@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major>M249 (8x).legit</Major>
+    <Description>Макросс для Пулика 
+Настройки;
+FOV 75
+sens 0,7-0.8 (Как будет удобнее) 
+Макросс самописный, Был написан Ютуберу
+Проверял Я этот макросс лично играл с ним на официалках и таких серверах как Grand Rust(Бана не дали)
+Макросс легитный но зажим летит в точку если правильно контролить
+Чтобы макросс работал лучше Скачайте драйвера !!!
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 25 ms
+MoveR 0 17
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,282 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Bot to farm automatically with alt:
+
+1. Go to the harvesting point and start the macro.
+
+2. The character will start doing its job, but don't forget to press alt at the same time to avoid bugs 
+
+3. It will run as many times as you choose.
+
+The script clicks left, moves the mouse to the right and clicks left to start processing, then waits, and starts again after a certain amount of time (which can be modified according to the duration).
+
+Use 1920x1080 resolution</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 160 ms
+LeftUp 1
+Delay 473 ms
+MoveTo 961 540
+Delay 4 ms
+MoveTo 961 540
+Delay 1 ms
+MoveTo 962 540
+Delay 1 ms
+MoveTo 962 539
+Delay 2 ms
+MoveTo 963 539
+Delay 2 ms
+MoveTo 963 539
+Delay 1 ms
+MoveTo 964 539
+Delay 0 ms
+MoveTo 965 539
+Delay 3 ms
+MoveTo 965 539
+Delay 0 ms
+MoveTo 966 539
+Delay 3 ms
+MoveTo 966 539
+Delay 0 ms
+MoveTo 967 539
+Delay 1 ms
+MoveTo 967 539
+Delay 0 ms
+MoveTo 967 539
+Delay 1 ms
+MoveTo 968 539
+Delay 1 ms
+MoveTo 969 539
+Delay 2 ms
+MoveTo 969 539
+Delay 1 ms
+MoveTo 970 539
+Delay 2 ms
+MoveTo 970 539
+Delay 1 ms
+MoveTo 971 539
+Delay 1 ms
+MoveTo 971 539
+Delay 2 ms
+MoveTo 972 539
+Delay 2 ms
+MoveTo 973 539
+Delay 2 ms
+MoveTo 973 539
+Delay 2 ms
+MoveTo 974 539
+Delay 0 ms
+MoveTo 974 539
+Delay 3 ms
+MoveTo 975 539
+Delay 1 ms
+MoveTo 975 539
+Delay 3 ms
+MoveTo 976 539
+Delay 1 ms
+MoveTo 977 539
+Delay 2 ms
+MoveTo 977 539
+Delay 1 ms
+MoveTo 978 539
+Delay 3 ms
+MoveTo 978 539
+Delay 1 ms
+MoveTo 979 539
+Delay 2 ms
+MoveTo 979 539
+Delay 2 ms
+MoveTo 980 539
+Delay 2 ms
+MoveTo 981 539
+Delay 2 ms
+MoveTo 981 539
+Delay 2 ms
+MoveTo 982 539
+Delay 2 ms
+MoveTo 982 539
+Delay 1 ms
+MoveTo 983 539
+Delay 3 ms
+MoveTo 983 539
+Delay 1 ms
+MoveTo 984 539
+Delay 4 ms
+MoveTo 984 539
+Delay 3 ms
+MoveTo 985 539
+Delay 4 ms
+MoveTo 986 539
+Delay 5 ms
+MoveTo 986 539
+Delay 4 ms
+MoveTo 987 539
+Delay 14 ms
+MoveTo 987 539
+Delay 7 ms
+MoveTo 988 539
+Delay 13 ms
+MoveTo 988 539
+Delay 5 ms
+MoveTo 989 539
+Delay 9 ms
+MoveTo 990 539
+Delay 4 ms
+MoveTo 990 539
+Delay 9 ms
+MoveTo 991 539
+Delay 4 ms
+MoveTo 991 539
+Delay 6 ms
+MoveTo 992 539
+Delay 2 ms
+MoveTo 992 539
+Delay 3 ms
+MoveTo 993 539
+Delay 3 ms
+MoveTo 994 539
+Delay 4 ms
+MoveTo 994 539
+Delay 2 ms
+MoveTo 995 539
+Delay 2 ms
+MoveTo 995 539
+Delay 2 ms
+MoveTo 996 539
+Delay 4 ms
+MoveTo 996 539
+Delay 2 ms
+MoveTo 997 539
+Delay 4 ms
+MoveTo 998 539
+Delay 2 ms
+MoveTo 998 539
+Delay 3 ms
+MoveTo 999 539
+Delay 3 ms
+MoveTo 999 539
+Delay 3 ms
+MoveTo 1000 539
+Delay 3 ms
+MoveTo 1000 539
+Delay 3 ms
+MoveTo 1001 539
+Delay 2 ms
+MoveTo 1002 539
+Delay 4 ms
+MoveTo 1002 539
+Delay 3 ms
+MoveTo 1003 539
+Delay 3 ms
+MoveTo 1003 539
+Delay 3 ms
+MoveTo 1004 539
+Delay 4 ms
+MoveTo 1004 539
+Delay 3 ms
+MoveTo 1005 539
+Delay 5 ms
+MoveTo 1006 539
+Delay 3 ms
+MoveTo 1006 539
+Delay 7 ms
+MoveTo 1007 539
+Delay 4 ms
+MoveTo 1007 539
+Delay 7 ms
+MoveTo 1008 539
+Delay 4 ms
+MoveTo 1008 539
+Delay 5 ms
+MoveTo 1009 539
+Delay 0 ms
+MoveTo 1009 538
+Delay 4 ms
+MoveTo 1010 538
+Delay 4 ms
+MoveTo 1010 538
+Delay 5 ms
+MoveTo 1011 538
+Delay 3 ms
+MoveTo 1011 538
+Delay 5 ms
+MoveTo 1012 538
+Delay 3 ms
+MoveTo 1012 538
+Delay 6 ms
+MoveTo 1013 538
+Delay 2 ms
+MoveTo 1013 538
+Delay 8 ms
+MoveTo 1014 537
+Delay 2 ms
+MoveTo 1015 537
+Delay 9 ms
+MoveTo 1015 537
+Delay 3 ms
+MoveTo 1015 537
+Delay 4 ms
+MoveTo 1016 537
+Delay 11 ms
+MoveTo 1016 537
+Delay 7 ms
+MoveTo 1017 537
+Delay 12 ms
+MoveTo 1017 537
+Delay 5 ms
+MoveTo 1018 537
+Delay 12 ms
+MoveTo 1019 537
+Delay 5 ms
+MoveTo 1019 537
+Delay 17 ms
+MoveTo 1020 537
+Delay 13 ms
+MoveTo 1020 537
+Delay 84 ms
+MoveTo 1021 537
+Delay 13 ms
+MoveTo 1021 537
+Delay 9 ms
+MoveTo 1022 537
+Delay 9 ms
+MoveTo 1023 537
+Delay 11 ms
+MoveTo 1023 537
+Delay 10 ms
+MoveTo 1024 537
+Delay 8 ms
+MoveTo 1024 537
+Delay 10 ms
+MoveTo 1025 537
+Delay 7 ms
+MoveTo 1025 537
+Delay 8 ms
+MoveTo 1026 537
+Delay 8 ms
+MoveTo 1027 537
+Delay 9 ms
+MoveTo 1027 537
+Delay 10 ms
+MoveTo 1028 537
+Delay 255 ms
+LeftDown 1
+Delay 116 ms
+LeftUp 1
+Delay 5804 ms
+LeftDown 1
+Delay 110 ms
+LeftUp 1
+GoWhile 1 100</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

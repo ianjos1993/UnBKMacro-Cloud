@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос автоматически покупает кейсы темные дела, чтобы его запустить надо подойте к персонажу который продает кейсы и запустить макрос нажав назначенную вами ранее клавишу.Если у вас медленно прогружается интерфейс покупки то стоит увеличить задержки между нажатиями в редакторе макросов, или наоборот если вы слишком долго ждете следующее нажатие можно уеньшить время задержки между нажатиями в редакторе.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+макрос позволяющи автоматически покупать кейс "Темные дела" а не тыкать все в ручную</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 226 1
+Delay 200 ms
+KeyUp 226 1
+Delay 1000 ms
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 1500 ms
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 300 ms</Syntax>
+    </KeyDown>
+    <Software>GOLDEN ROLE PLAY</Software>
+  </DefaultMacro>
+</Root>

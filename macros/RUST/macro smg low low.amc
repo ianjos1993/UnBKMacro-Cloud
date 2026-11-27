@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major>perfect smg</Major>
+    <Description>this macro is perfect for smg low dpi different (press to start release to stop)
+1920 x 1080
+dpi 1500
+sens 0.4
+fov 90
+
+try it and enjoy!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 22 ms
+MoveR 0 13
+Delay 22 ms
+MoveR 0 14
+Delay 22 ms
+MoveR 0 12
+Delay 22 ms
+MoveR 0 13
+Delay 22 ms
+MoveR 0 14
+Delay 22 ms
+MoveR 0 13
+Delay 22 ms
+MoveR 0 14
+Delay 22 ms
+MoveR 0 12
+Delay 22 ms
+MoveR 0 13
+Delay 22 ms
+LeftUp 1
+Delay 30 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

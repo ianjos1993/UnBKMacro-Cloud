@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>FM ICE BUILD</Major>
+    <Description>Last update for bns neo fire buil, bllase beam build, use it visely to have fun in blade and sould neo</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+GoWhile 1 100000</Syntax>
+    </KeyDown>
+    <Software>Blade and Soul NEO</Software>
+  </DefaultMacro>
+</Root>

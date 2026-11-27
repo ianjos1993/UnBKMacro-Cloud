@@ -1,0 +1,56 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Позволяет быстро свапнуть абордаж. Ctrl+E (Абордажку) - Ctrl+R (Основное оружие)  Для более быстрого использования требуется прожать два раза.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 9 ms
+KeyDown 8 1
+Delay 9 ms
+KeyUp 8 1
+Delay 399 ms
+KeyDown 8 1
+Delay 9 ms
+KeyUp 8 1
+Delay 9 ms
+KeyDown 8 1
+Delay 388 ms
+KeyDown 8 1
+Delay 9 ms
+KeyUp 8 1
+Delay 9 ms
+KeyDown 8 1
+Delay 9 ms
+KeyUp 8 1
+Delay 9 ms
+KeyUp 8 1
+Delay 9 ms
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 21 1
+Delay 9 ms
+KeyUp 21 1
+Delay 9 ms
+KeyDown 21 1
+Delay 9 ms
+KeyUp 21 1
+Delay 9 ms
+KeyUp 224 1
+Delay 9 ms</Syntax>
+    </KeyDown>
+    <Software>Archeage</Software>
+  </DefaultMacro>
+</Root>

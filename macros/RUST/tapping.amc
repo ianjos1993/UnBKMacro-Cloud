@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>берете и заполняете 5 слотов оружием, включаете макрос и отдыхаете, персонаж сам стукает дом соседа)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 300 ms
+LeftUp 1
+GoWhile 1 50
+KeyDown 31 1
+KeyUp 31 1
+LeftDown 1
+Delay 300 ms
+LeftUp 1
+GoWhile 7 50
+KeyDown 32 1
+KeyUp 32 1
+LeftDown 1
+Delay 300 ms
+LeftUp 1
+GoWhile 13 50
+KeyDown 33 1
+KeyUp 33 1
+LeftDown 1
+Delay 300 ms
+LeftUp 1
+GoWhile 19 50
+KeyDown 34 1
+KeyUp 34 1
+LeftDown 1
+Delay 300 ms
+LeftUp 1
+GoWhile 25 50</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major>Ротация для нажатия клавиш Астроманта</Major>
+    <Description>Самая простая комбинация для нанесения урона за астроманта. Нажал и кайфуй. Только задержки выставь нормальные!</Description>
+    <Comment>Нажал и кайфуй. Только задержки выставь нормальные!</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 50 ms
+RightDown 1
+Delay 50 ms
+RightUp 1
+Delay 50 ms
+KeyDown 9 1
+Delay 50 ms
+KeyUp 9 1
+Delay 50 ms
+KeyDown 32 1
+Delay 50 ms
+KeyUp 32 1
+Delay 50 ms
+KeyDown 6 1
+Delay 50 ms
+KeyUp 6 1
+Delay 50 ms
+KeyDown 33 1
+Delay 50 ms
+KeyUp 33 1
+Delay 50 ms
+GoWhile 1 5</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

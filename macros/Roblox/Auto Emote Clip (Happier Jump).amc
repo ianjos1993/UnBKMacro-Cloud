@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Attempts to clip through walls using the Yungblud Happier Jump emote.
+
+=-Requirements-=
+-A Wall thats less than 1 stud thick
+
+=-How to use-=
+-Go up against a wall and have your back against the wall. Also have your camera facing the wall.
+-Use Macro</Description>
+    <Comment>https://keyran.net - Free macros download</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 55 1
+Delay 1 ms
+KeyUp 55 1
+Delay 1 ms
+KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+Delay 1 ms
+Delay 260 ms
+KeyDown 26 1
+KeyDown 225 1
+Delay 1 ms
+KeyUp 26 1
+Delay 1 s
+KeyUp 225 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

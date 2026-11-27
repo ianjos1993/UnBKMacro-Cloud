@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>Маджестик армреслинг</Major>
+    <Description>Маджестик армреслинг нажимает AD
+1. Нажать E чтобы участвовать
+2. После того как закончился таймер 5 секунд запускать макрос
+3. Выключить после победы</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+KeyUp 4 1
+KeyDown 7 1
+KeyUp 7 1
+GoWhile 1 5000000</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

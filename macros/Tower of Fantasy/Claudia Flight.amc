@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для полета на Клавдии
+Задержка на 7-ой позиции зависит от вашего пинга и FPS, это значение предназначено для 90 FPS
+Если у вас макрос не работает, то попробуйте поэкспериментировать с этим значением</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 270 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 298 ms
+KeyDown 6 1
+Delay 1 ms
+KeyUp 6 1
+Delay 1 ms
+KeyDown 6 1
+Delay 1 ms
+KeyUp 6 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Tower of Fantasy</Software>
+  </DefaultMacro>
+</Root>

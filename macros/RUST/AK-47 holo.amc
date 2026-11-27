@@ -1,0 +1,118 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Настройки для макроса в игре Rust следующие: поле зрения установлено на 90, чувствительность — 0.58, а при прицеливании — 0.54. DPI 500 и разрешение 1920x1080.
+
+Макрос создан для зажима 10 патронов из AK-47 в сидячем положении,c голографическим прицелом и будет функционировать только при корректных настройках. В консоли Rust введите команды: input.sensitivity 0.58 и input.ads_sensitivity 0.54.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 0 11
+Delay 25 ms
+MoveR 0 10
+Delay 25 ms
+MoveR 0 9
+Delay 25 ms
+MoveR 0 10
+Delay 25 ms
+MoveR 0 9
+Delay 25 ms
+MoveR -1 10
+Delay 25 ms
+MoveR -1 10
+Delay 25 ms
+MoveR -2 10
+Delay 25 ms
+MoveR -2 9
+Delay 25 ms
+MoveR -2 11
+Delay 25 ms
+MoveR -2 11
+Delay 25 ms
+MoveR -2 11
+Delay 25 ms
+MoveR -2 11
+Delay 25 ms
+MoveR -3 11
+Delay 25 ms
+MoveR -3 10
+Delay 25 ms
+MoveR -3 10
+Delay 25 ms
+MoveR -4 11
+Delay 25 ms
+MoveR -4 10
+Delay 25 ms
+MoveR -4 10
+Delay 25 ms
+MoveR -4 10
+Delay 25 ms
+MoveR -4 10
+Delay 25 ms
+MoveR -4 12
+Delay 25 ms
+MoveR -4 11
+Delay 25 ms
+MoveR -4 11
+Delay 25 ms
+MoveR -5 9
+Delay 25 ms
+MoveR -5 12
+Delay 25 ms
+MoveR -5 11
+Delay 25 ms
+MoveR -5 11
+Delay 25 ms
+MoveR -5 10
+Delay 25 ms
+MoveR -5 11
+Delay 25 ms
+MoveR -5 9
+Delay 25 ms
+MoveR -5 10
+Delay 25 ms
+MoveR -5 9
+Delay 25 ms
+MoveR -5 11
+Delay 25 ms
+MoveR -5 11
+Delay 25 ms
+MoveR -5 12
+Delay 25 ms
+MoveR -5 11
+Delay 25 ms
+MoveR -5 9
+Delay 25 ms
+MoveR -3 10
+Delay 25 ms
+MoveR -5 9
+Delay 25 ms
+MoveR -5 9
+Delay 25 ms
+MoveR -5 11
+Delay 25 ms
+MoveR -5 11
+Delay 25 ms
+MoveR -5 11
+Delay 25 ms
+MoveR -5 6
+Delay 25 ms
+MoveR -5 12
+Delay 25 ms
+MoveR -5 11
+Delay 25 ms
+MoveR -5 9
+Delay 25 ms
+MoveR -5 10
+Delay 25 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

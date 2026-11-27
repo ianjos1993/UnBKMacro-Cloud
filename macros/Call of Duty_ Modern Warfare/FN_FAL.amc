@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description> БЕСПЛАТНЫЙ МАКРОС ДЛЯ FN FAL. Максимальный проклик + контроль отдачи на оружие FN-FAL. Если тянет в верх - повышаем сенсу. Если вниз - понижаем сенсу.
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 93 1
+Delay 40 ms
+MoveR -2 2
+KeyUp 93 1
+Delay 40 ms</Syntax>
+    </KeyDown>
+    <Software>Call of Duty: Modern Warfare (2019)</Software>
+  </DefaultMacro>
+</Root>

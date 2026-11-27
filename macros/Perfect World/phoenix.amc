@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>прокачка летающего петомца на жуках по свадебной ежедневке. Берет в таргет жука и посылает пета к нему,после чего пет летит к вам обратно. Промежуток поставил 10 секунд,так как петомец летает на далекие расстояния,но вы можете сделать по своему желанию) Удачной прокачки!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 2 s
+KeyDown 226 1
+KeyDown 30 1
+KeyUp 226 1
+Delay 10 s</Syntax>
+    </KeyDown>
+    <Software>Perfect World</Software>
+  </DefaultMacro>
+</Root>

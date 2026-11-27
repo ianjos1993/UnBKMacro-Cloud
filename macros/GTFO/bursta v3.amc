@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на выстреливания 3 патрон из 5 и для дальнейшей их экономии работает против гигантов и батлов.Макрос на оружие burst cannon в игре GTFO работает макрос только с 4 по 5 randown</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 940 ms
+LeftUp 1
+Delay 1 ms
+KeyDown 6 1
+Delay 64
+KeyUp 6 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>GTFO</Software>
+  </DefaultMacro>
+</Root>

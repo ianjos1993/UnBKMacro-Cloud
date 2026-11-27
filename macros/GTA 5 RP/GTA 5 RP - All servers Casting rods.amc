@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>                                                 Простой и отточенный автокликер для забрасывания удочки.
+                          Делался в оконном режими разрешением 1914x1051 - Удочка должна быть в 1 слоте
+                                                                            http://prntscr.com/s7gtw5
+                     Можете включить и он все сделает за вас. При нажатие левой кнопки мыши. После отключаете 
+                                                                    и вылавливаете своими рука 
+                                    После того как скачете не забудьте установить необходимые клавиши
+                       В будующем, я если разберусь как сделать автоматическую ловлю, обязательно дополню.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 12 1
+Delay 64
+KeyUp 12 1
+Delay 64
+MoveTo 362 428
+Delay 64
+LeftDown 1
+Delay 125 ms
+LeftUp 1
+Delay 64
+MoveTo 364 495
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

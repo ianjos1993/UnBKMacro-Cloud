@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>хекс на z ставим                                                 Всем давным давно нужен был quick Kast , быстрое нажатие кнопки . или же скрипты . вот я И bOtmek представляем вам возможность использовать мой скрипт на авто кнопку . Вы просто ложите любой предмет на Z , на клавиатуре и наводите на любого противника . Потом вы просто нажимаете на вашу забинженную кнопку , и вот вам авто кнопка для доты . наслаждайтесь ведь это реально круто )() мне все друзья так говорят ., надеюсь вам тоже понравится                                                           </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 1 ms
+KeyUp 29 1
+Delay 1 ms
+LeftDown 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

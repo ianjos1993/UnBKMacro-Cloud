@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>3 и 1 это предметы например дагон, етериал
+Z - laser ( можоно изменить)
+Space - blink
+R - realm
+Летаешь нажмаешь 1 кнопку у тебя прокаст с лазером.
+
+Удачной игры!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 29 1
+Delay 64
+KeyUp 29 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

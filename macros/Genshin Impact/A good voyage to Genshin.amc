@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>Быстрое плаванье за меньший расход выносливости</Major>
+    <Description>Главное поставить режим работы "пока нажата клавиша" !!!
+
+Ставте на удобное положение на клавиатуре и при зажатие кнопки во время плавания ты будешь плыть быстрее за меньший расход выносливости
+
+Желаю удачи в игре Genshin impact</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

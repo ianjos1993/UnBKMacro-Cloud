@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major>AimKoot</Major>
+    <Description>GrandRP Roleplay Server Gym automatic bot where you only have to press E once and the bot will automatically pump you</Description>
+    <Comment>GrandRP Roleplay Server Gym automatic bot where you only have to press E once and the bot will automatically pump you</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 50 ms
+KeyDown 8 1
+Delay 250 ms
+KeyUp 8 1
+Delay 10863 ms
+KeyDown 8 1
+Delay 108 ms
+KeyUp 8 1
+Delay 10337 ms
+KeyDown 8 1
+Delay 120 ms
+KeyUp 8 1
+Delay 10440 ms
+KeyDown 8 1
+Delay 107 ms
+KeyUp 8 1
+Delay 10333 ms
+KeyDown 8 1
+Delay 107 ms
+KeyUp 8 1
+Delay 10171 ms
+KeyDown 8 1
+Delay 69 ms
+KeyUp 8 1
+Delay 10417 ms
+KeyDown 8 1
+Delay 68 ms
+KeyUp 8 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>Grand Theft Auto V</Software>
+  </DefaultMacro>
+</Root>

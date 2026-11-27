@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Универсальный макрос для автоматического прыжка в Roblox и других играх. Идеально подходит для уклонения от урона или преодоления препятствий. Для корректной работы рекомендуется установить соответствующий драйвер!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 100 ms
+KeyUp 44 1
+Delay 100 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

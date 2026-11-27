@@ -1,0 +1,58 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>A macro for the Digimon Master Online 
+auto kill macro can be use on every map
+
+
+Screen Resolution : Full Screen 1920x1080
+
+Shortcut in game setting:
+Skill shortcut is F1 ( recomended to use powerfull skill 1 digimon)
+HP shortcut is F6
+DS shortcut is 8
+
+
+line 1 for find digimon
+line 5  for check digimon health
+line 6  for attack with skill 1
+line 10 to check target digimon died or not
+line 11 to heal HP
+line 17 to heal DS
+
+</Description>
+    <Comment>https://keyran.net - Free macros download</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 111 ms
+KeyUp 43 1
+Delay 111 ms
+GoColor 1 0 177,48,35 255,255,255 2 946 52 28 7 1 0
+KeyDown 58 1
+Delay 111 ms
+KeyUp 58 1
+Delay 111 ms
+GoColor 6 1 177,48,35 255,255,255 2 829 52 1 7 1 0
+GoColor 13 0 129,34,24 255,255,255 2 205 124 2 7 1 0
+Goto 17
+KeyDown 63 1
+Delay 111 ms
+KeyUp 63 1
+Delay 111 ms
+GoColor 19 0 0,105,231 255,255,255 2 130 138 2 7 1 0
+Goto 22
+KeyDown 37 1
+Delay 111 ms
+KeyUp 37 1
+Delay 111 ms
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Digimon Masters Online</Software>
+  </DefaultMacro>
+</Root>

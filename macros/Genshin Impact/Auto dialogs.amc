@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>Автоматический пропуск диологов в Genshin</Major>
+    <Description>Размер экрана желательно - 1920 × 1080
+
+Автоматический пропуск диологов для того чтобы встать из за компа заварить чаю, прилеч на кровать, понять что твоё существование бессмыслено и снова сесть за комп чтобы начат ьновый диалог с другим НПС</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1450 795
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1450 760
+Delay 64 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

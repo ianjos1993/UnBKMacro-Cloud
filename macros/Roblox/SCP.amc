@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major>wrongname222 (Roblox).</Major>
+    <Description>Максимально простой макрос для игры SCProleplay в Roblox. Стоять лучше в комнате Совета или любом другом спавне, макрос активирует все возможные триггеры фарма GXP и XP. Хорошей игры! разрешение экрана 1920×1080, чувствительность мыши 10 (стандарт windows 10),</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 128 ms
+KeyUp 26 1
+Delay 128 ms
+KeyDown 22 1
+Delay 128 ms
+KeyUp 22 1
+Delay 128 ms
+KeyDown 4 1
+Delay 128 ms
+KeyUp 4 1
+Delay 128 ms
+KeyDown 7 1
+Delay 128 ms
+KeyUp 7 1
+Delay 128 ms
+KeyDown 44 1
+MoveTo 1203 1018
+LeftDown 1
+Delay 64
+LeftDown 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

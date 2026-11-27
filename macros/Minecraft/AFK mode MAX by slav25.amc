@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос который исключает КИК за AFK. Работает если кик за AFK превышает 5 минут.
+
+Чем он отличается от обычного AFK  режима:
+
+1.Этот макрос обходит самые крутые плагины на АнтиAFK
+
+Использование:
+
+Нужно встать по центру платформы 3X3 блока и включить макрос.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 5 min
+KeyDown 44 1
+Delay 180 ms
+KeyUp 44 1
+Delay 500 ms
+KeyDown 4 1
+Delay 180 ms
+KeyUp 4 1
+Delay 250 ms
+KeyDown 7 1
+Delay 180 ms
+KeyUp 7 1
+Delay 250 ms
+KeyDown 22 1
+Delay 180 ms
+KeyUp 22 1
+Delay 250 ms
+KeyDown 26 1
+Delay 180 ms
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

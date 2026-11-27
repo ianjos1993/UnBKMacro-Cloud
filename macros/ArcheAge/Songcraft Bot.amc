@@ -1,0 +1,49 @@
+<Root>
+  <DefaultMacro>
+    <Major>Songcraft Bot</Major>
+    <Description>Button 7 for Battle Hymn
+Button 8 for Startling Strain (I take the ancestral life for buffing the perform, i target my main character)
+Button 9 to = for any performance song
+Button 6 for Healing Hymn</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1460 ms
+KeyDown 36 1
+Delay 176 ms
+KeyUp 36 1
+Delay 4000 ms
+KeyDown 37 1
+Delay 176 ms
+KeyUp 37 1
+Delay 1400 ms
+KeyDown 38 1
+Delay 176 ms
+KeyUp 38 1
+Delay 2311 ms
+KeyDown 39 1
+Delay 208 ms
+KeyUp 39 1
+Delay 2343 ms
+KeyDown 45 1
+Delay 256 ms
+KeyUp 45 1
+Delay 2095 ms
+KeyDown 46 1
+Delay 207 ms
+KeyUp 46 1
+Delay 2095 ms
+KeyDown 35 1
+Delay 64
+KeyUp 35 1
+Delay 64
+Delay 20000 ms</Syntax>
+    </KeyDown>
+    <Software>Archeage</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос дает гашение отдачи оружия MP5 у оперативника ROOK.
+
+!!!ВНИМАНИЕ!!!
+Чтобы работал макрос должным образом, надо поставить Режим работы на Выполнять пока нажата клавиша.
+
+Разрешение экрана: 1600x900
+Соотношение сторон: 16:10
+Чувствительность мыши: 1700 DPI по X и Y
+Чувствительность в игре: 40 верт. и 40 горз.
+
+Прицел на котором иделаьно работае макрос это 2x. Этот макрос хорошо гасит отдачу и можно даже неплохо пострелять на растояние 20 метров. 
+
+Модули которые должны быть на оружие: 
+ствол --  пламягаситель
+рукоятка -- прямая рукоятка
+прицел -- кратность 2</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 15 ms
+MoveR 0 1
+Delay 15 ms
+MoveR 0 2
+Delay 15 ms
+MoveR 0 2
+Delay 15 ms
+MoveR -1 1
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

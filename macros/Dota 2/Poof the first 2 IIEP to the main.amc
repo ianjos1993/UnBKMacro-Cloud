@@ -1,0 +1,53 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Лучший макросс для пуфов мипо (С минимальной задержкой)
+Пуфает первых 2 мипо к главному, после чего сразу же выбирается главный мипо 
+Очень удобно использовать комбинацию с блинком)
+Очень удобно, что после комбинации с блинком и пуфами, выбирается основной мипо, что позволяет сразу же кинуть сетку)
+____________________________________________
+                                  ВАЖНО!!!
+
+Нужно чтобы в доте смена на следующего юнита была на кнопку "Tab"
+Главный мипо выбирается  на цифру "1"
+
+____________________________________________
+                       Установка макросса:
+
+Выбираете клавишу или кнопку на мышке, на которую будет происходить Poof
+Готово! Дальше замечательная программа BotMek сделает все за вас)
+Удачи в поднятии рейтинга и хорошей игры)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 90 ms
+KeyDown 26 1
+Delay 57 ms
+KeyUp 43 1
+Delay 90 ms
+KeyUp 26 1
+Delay 57 ms
+KeyDown 43 1
+Delay 90 ms
+KeyDown 26 1
+Delay 57 ms
+KeyUp 43 1
+Delay 90 ms
+KeyUp 26 1
+Delay 57 ms
+KeyDown 43 1
+Delay 90 ms
+KeyDown 30 1
+Delay 70 ms
+KeyUp 30 1
+Delay 70 ms</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

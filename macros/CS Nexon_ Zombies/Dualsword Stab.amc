@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>A useful macro of auto-attacks for the melee Dualsword Phantom Slayer and works for all modes.It will automatically do the stabs (A MODE) for you.
+
+Line17 to line28 are for the Zombie Scenario mode.Please remember to edit your Bookmark Z to Phantom Slayer and Bookmark C to any other melees in game.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 0 ms
+KeyUp 32 1
+Delay 0 ms
+KeyDown 13 1
+Delay 0 ms
+KeyUp 13 1
+Delay 0 ms
+LeftDown 1
+Delay 650 ms
+LeftUp 1
+Delay 100 ms
+KeyDown 32 1
+Delay 0 ms
+KeyUp 32 1
+Delay 0 ms
+KeyDown 5 1
+Delay 40 ms
+KeyUp 5 1
+Delay 0 ms
+KeyDown 6 1
+Delay 0 ms
+KeyDown 29 1
+Delay 0 ms
+KeyUp 6 1
+Delay 0 ms
+KeyUp 29 1
+Delay 0 ms</Syntax>
+    </KeyDown>
+    <Software>Counter-Strike Nexon: Zombies</Software>
+  </DefaultMacro>
+</Root>

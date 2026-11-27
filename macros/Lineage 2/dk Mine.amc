@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>данный макрос поможет фармить на дк сверх быстро, и буквально летать на поле боя от моба к другому,главное что бы вашего буста хватало на 2-3 тычки на моба 
+
+выставляем на панель все массовые и соло таргетные  умения, читайте внимательно описание, только скилы имеющие значение повышенный шанс Крит. атаки,
+
+на игровом макросе ставите /target next
+
+нажимаете на ПКМ авто бой нажимать не в коем случае не нужно
+
+так как некст таргет будет срабатывать после того как данный моб погибнет,а если нажать авто бой таргет будет меняться автоматически и будет низкий килрейт </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 62 1
+Delay 64
+KeyUp 62 1
+Delay 64
+KeyDown 59 1
+Delay 64
+KeyUp 59 1
+Delay 64
+KeyDown 58 1
+Delay 64
+KeyUp 58 1
+Delay 64
+KeyDown 60 1
+Delay 64
+KeyUp 60 1
+Delay 64
+KeyDown 61 1
+Delay 64
+KeyUp 61 1
+Delay 64
+KeyDown 27 1
+Delay 64
+KeyUp 27 1
+Delay 64
+KeyDown 59 1
+Delay 64
+KeyUp 59 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

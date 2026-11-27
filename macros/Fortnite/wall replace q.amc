@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос позволит отбирать стенки у челов, у которых пинг гораздо меньше чем у вас(примечание: в этом макросе стенка стоит на Q)Просто пцшка всем советую</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 10 ms
+KeyDown 20 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+KeyUp 20 1
+Delay 10 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

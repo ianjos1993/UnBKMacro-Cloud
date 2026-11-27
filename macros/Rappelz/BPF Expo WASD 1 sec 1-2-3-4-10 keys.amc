@@ -1,0 +1,87 @@
+<Root>
+  <DefaultMacro>
+    <Major>Фарм ТО и Экспозито</Major>
+    <Description>Подходит для фарма на ТО и Экспозито.
+
+Взял за исходник макрос Big Place farming и изменил тайминги передвижения WASD с двух до одной секунд. 
+Добавил нажатия кнопок 2 и 3.
+
+Макрос жмёт цифры 1, 2, 3 и 10. Выставляем автоатаку с петами на 1, нужные вам селф бафы на 2, 3 и 10.
+
+Разрешение экрана 1920*1080.
+
+Thanks to "Big place farming" creator</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+GoWhile 1 50
+KeyDown 7 1
+Delay 1 s
+KeyUp 7 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64 ms
+GoWhile 19 50
+KeyDown 26 1
+Delay 1 s
+KeyUp 26 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64 ms
+GoWhile 28 50
+KeyDown 4 1
+Delay 1 s
+KeyUp 4 1
+Delay 64 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+GoWhile 37 50
+Delay 64 ms
+KeyDown 22 1
+Delay 1 s
+KeyUp 22 1
+Delay 64 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64 ms
+GoWhile 47 50
+Delay 1 s
+KeyDown 39 1
+Delay 64
+KeyUp 39 1
+Delay 1 s
+GoWhile 1 200
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+GoWhile 1 300</Syntax>
+    </KeyDown>
+    <Software>Rappelz</Software>
+  </DefaultMacro>
+</Root>

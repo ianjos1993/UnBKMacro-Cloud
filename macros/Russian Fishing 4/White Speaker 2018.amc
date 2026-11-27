@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major>рр4</Major>
+    <Description>Топ макрос для ловли хариуса, форели на реке белой на спининг линеар 68мл аирбатик 3000 на скорость подмота 20  спикер 2018 со стандартным крючком </Description>
+    <Comment>Точка 71:37 кидал в сторону берёз на другом берегу </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 618 ms
+KeyDown 225 1
+Delay 1111 ms
+LeftUp 1
+Delay 16 ms
+KeyUp 225 1
+Delay 5295 ms
+LeftDown 1
+Delay 32816 ms
+RightDown 1
+Delay 1599 ms
+RightUp 1
+Delay 341 ms
+RightDown 1
+Delay 2072 ms
+RightUp 1
+Delay 78 ms
+LeftUp 1
+Delay 2162 ms
+KeyDown 44 1
+Delay 192 ms
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>Русская Рыбалка 4</Software>
+  </DefaultMacro>
+</Root>

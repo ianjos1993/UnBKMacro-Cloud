@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major>macro hgmlg holo</Major>
+    <Description>this macro work for hgmlg with holo normal sensitivity
+1920 x1080
+dpi 1300
+sens 0.6
+fov 90
+
+just try it and enjoy the macro!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 50 ms
+MoveR 0 -48
+Delay 50 ms
+MoveR 0 -45
+Delay 50 ms
+MoveR 0 -50
+Delay 50 ms
+MoveR 0 -46
+Delay 50 ms
+MoveR 0 -50
+Delay 50 ms
+MoveR 0 -49
+Delay 50 ms
+LeftUp 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Один из самых простых макросов в игре. водит курсор по кругу, тем самым упрощая стрельбу. Задействована механика самой игры Jetter Aim! РАзрешение экрана 1920 на 1080. Чувствительность мыши в игре 3.5 dpi мыши 400. Всем удачной игры.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR -4 4
+Delay 10 ms
+MoveR 4 -4
+Delay 10 ms
+MoveR -4 4
+Delay 10 ms
+MoveR 4 -4</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

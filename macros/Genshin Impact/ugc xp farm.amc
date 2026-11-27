@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major>UGC Experience Farm Macro</Major>
+    <Description>Auto Loop for 11912144424 on EU Make a room for yourself and then run the macro P will enter the room screen and F will start the game change certain delays based on hardware requirements and loading times
+Made for 16:9 1080p screens </Description>
+    <Comment>Auto Loop for 11912144424 on EU Make a room for yourself and then run the macro P will enter the room screen and F will start the game change certain delays based on hardware requirements and loading times
+Made for 16:9 1080p screens </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 64 ms
+KeyDown 19 1
+Delay 65 ms
+KeyUp 19 1
+Delay 409 ms
+KeyDown 9 1
+Delay 76 ms
+KeyUp 9 1
+//Wait for ending screen to finish
+Delay 16664 ms
+//Wait for ending screen to finish
+Delay 2 ms
+MoveTo 1722 1016
+Delay 9 ms
+MoveTo 1722 1015
+Delay 9 ms
+LeftDown 1
+Delay 63 ms
+LeftUp 1
+//Loading out of the game back into lobby
+Delay 6250 ms
+//Loading out of the game back into lobby
+GoWhile 1 375</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

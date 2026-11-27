@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на спам в чат, для зависания игры что бы обойти античит
+Пригодиться для тег кто играет с читом в Варфейс</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+KeyDown 88 1
+KeyUp 88 1</Syntax>
+    </KeyDown>
+    <Software>Warface</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,208 @@
+<Root>
+  <DefaultMacro>
+    <Major>Lee combo 4</Major>
+    <Description>Макрос позволяет выполнять комбо uf3 за Lee Chaolan.
+Видео демонстрации работы макроса: https://youtu.be/rbb-ble3vrY
+
+В первой части Tekken Ли носил простую пурпурную жилетку и чёрные штаны, цветовая гамма которых регулярно использовалась в одежде персонажа в последующих играх. В Tekken 4 был одет в более строгую одежду: фиолетовая рубашка, белый жилет и штаны того же оттенка. Первый костюм Ли из Tekken 5 представлял собой воссозданную экипировку из первой части, дополненную майкой в сеточку и чёрным воротником. Альтернативный костюм из Tekken 5 был спроектирован мангакой и дизайнером персонажей Рёдзи Минагавой. Вплоть до Tekken Tag Team Tournament 2 Ли носил чёрный кожаный жилет с вышитым на спине единорогом. В 2008 году сайт News COM причислил Ли в число 10 самых сексуальных персонажей из компьютерных игр.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+
+Тестирование макроса проводились на последнем патче игры на 07.01.2024 (5.01 патч)
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#leeitekken7 #tekken7 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 15 ms
+KeyDown 26 1
+Delay 71 ms
+KeyUp 7 1
+Delay 8 ms
+KeyUp 26 1
+Delay 104 ms
+KeyDown 77 1
+Delay 63 ms
+KeyUp 77 1
+Delay 543 ms
+KeyDown 7 1
+Delay 64 ms
+KeyUp 7 1
+Delay 63 ms
+KeyDown 7 1
+Delay 88 ms
+KeyUp 7 1
+Delay 24 ms
+KeyDown 77 1
+Delay 71 ms
+KeyUp 77 1
+Delay 7 ms
+KeyDown 26 1
+Delay 64 ms
+KeyDown 76 1
+Delay 71 ms
+KeyUp 76 1
+Delay 71 ms
+KeyDown 76 1
+Delay 88 ms
+KeyUp 76 1
+Delay 63 ms
+KeyDown 76 1
+Delay 104 ms
+KeyUp 76 1
+Delay 7 ms
+KeyUp 26 1
+Delay 16 ms
+KeyDown 4 1
+Delay 79 ms
+KeyDown 74 1
+Delay 80 ms
+KeyUp 74 1
+Delay 79 ms
+KeyDown 74 1
+Delay 79 ms
+KeyUp 74 1
+Delay 80 ms
+KeyDown 74 1
+Delay 79 ms
+KeyUp 74 1
+Delay 55 ms
+KeyDown 74 1
+Delay 88 ms
+KeyUp 74 1
+Delay 40 ms
+KeyDown 77 1
+Delay 103 ms
+KeyDown 76 1
+Delay 39 ms
+KeyUp 77 1
+Delay 63 ms
+KeyUp 76 1
+Delay 72 ms
+KeyDown 76 1
+Delay 96 ms
+KeyUp 76 1
+Delay 79 ms
+KeyDown 76 1
+Delay 88 ms
+KeyUp 76 1
+Delay 79 ms
+KeyDown 76 1
+Delay 80 ms
+KeyUp 76 1
+Delay 63 ms
+KeyDown 76 1
+Delay 111 ms
+KeyUp 76 1
+Delay 136 ms
+KeyDown 7 1
+Delay 47 ms
+KeyUp 4 1
+Delay 56 ms
+KeyUp 7 1
+Delay 87 ms
+KeyDown 7 1
+Delay 63 ms
+KeyUp 7 1
+Delay 104 ms
+KeyDown 7 1
+Delay 63 ms
+KeyUp 7 1
+Delay 96 ms
+KeyDown 7 1
+Delay 47 ms
+KeyUp 7 1
+Delay 64 ms
+KeyDown 7 1
+Delay 263 ms
+KeyUp 7 1
+Delay 8 ms
+KeyDown 22 1
+Delay 8 ms
+KeyDown 74 1
+Delay 104 ms
+KeyUp 74 1
+Delay 63 ms
+KeyDown 7 1
+Delay 15 ms
+KeyUp 22 1
+Delay 48 ms
+KeyUp 7 1
+Delay 71 ms
+KeyDown 7 1
+Delay 95 ms
+KeyUp 7 1
+Delay 79 ms
+KeyDown 7 1
+Delay 88 ms
+KeyUp 7 1
+Delay 120 ms
+KeyDown 7 1
+Delay 80 ms
+KeyUp 7 1
+Delay 71 ms
+KeyDown 7 1
+Delay 144 ms
+KeyUp 7 1
+Delay 151 ms
+KeyDown 22 1
+Delay 56 ms
+KeyDown 77 1
+Delay 63 ms
+KeyUp 22 1
+Delay 8 ms
+KeyUp 77 1
+Delay 47 ms
+KeyDown 77 1
+Delay 23 ms
+KeyDown 26 1
+Delay 48 ms
+KeyUp 77 1
+Delay 64 ms
+KeyDown 76 1
+Delay 87 ms
+KeyUp 76 1
+Delay 63 ms
+KeyDown 89 1
+Delay 95 ms
+KeyUp 76 1
+Delay 80 ms
+KeyDown 76 1
+Delay 95 ms
+KeyUp 76 1
+Delay 79 ms
+KeyDown 76 1
+Delay 80 ms
+KeyUp 76 1
+Delay 72 ms
+KeyDown 76 1
+Delay 63 ms
+KeyUp 26 1
+Delay 7 ms
+KeyUp 76 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 7</Software>
+  </DefaultMacro>
+</Root>

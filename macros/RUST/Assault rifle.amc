@@ -1,0 +1,124 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос на контроль отдачи на ак47
+
+Настройки в программе:
+Разрешение 1920х108
+FOV 90 - Сенса - 0.9 (лучше зажимать сидя)
+
+Для работы макроса в программе Keyran установите следующие параметры:
+1. Включите драйвер.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR -4 5
+Delay 25 ms
+MoveR -2 4
+Delay 25 ms
+MoveR -1 3
+Delay 25 ms
+MoveR -2 4
+Delay 25 ms
+MoveR 0 2
+Delay 25 ms
+Delay 25 ms
+MoveR -1 4
+Delay 25 ms
+MoveR -2 5
+Delay 25 ms
+MoveR 0 3
+Delay 25 ms
+MoveR -2 2
+Delay 25 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -1 3
+Delay 25 ms
+MoveR -1 3
+Delay 25 ms
+MoveR -1 3
+Delay 25 ms
+MoveR 0 3
+Delay 25 ms
+MoveR -1 2
+Delay 25 ms
+MoveR -1 2
+Delay 25 ms
+MoveR -2 3
+Delay 25 ms
+MoveR 0 2
+Delay 25 ms
+MoveR 0 2
+Delay 25 ms
+MoveR -2 2
+Delay 25 ms
+MoveR -2 2
+Delay 25 ms
+MoveR -3 4
+Delay 25 ms
+MoveR -1 3
+Delay 25 ms
+MoveR 1 3
+Delay 25 ms
+MoveR -1 1
+Delay 25 ms
+MoveR -1 4
+Delay 25 ms
+MoveR 0 3
+Delay 25 ms
+MoveR -1 3
+Delay 25 ms
+MoveR -1 3
+Delay 25 ms
+MoveR -1 3
+Delay 25 ms
+MoveR -2 1
+Delay 25 ms
+MoveR -1 2
+Delay 25 ms
+MoveR -1 1
+Delay 25 ms
+MoveR -1 3
+Delay 25 ms
+MoveR -1 3
+Delay 25 ms
+MoveR -1 4
+Delay 25 ms
+MoveR 1 3
+Delay 25 ms
+MoveR -3 1
+Delay 25 ms
+MoveR -1 2
+Delay 25 ms
+MoveR -1 1
+Delay 25 ms
+MoveR -1 1
+Delay 25 ms
+MoveR -2 3
+Delay 25 ms
+MoveR -1 3
+Delay 25 ms
+MoveR -1 3
+Delay 25 ms
+MoveR -2 -2
+MoveR -1 4
+Delay 25 ms
+MoveR -1 3
+Delay 25 ms
+MoveR -3 1
+Delay 25 ms
+MoveR -1 2
+Delay 25 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>1-оружие
+3-хиллящий предмет, биндим клавишу и зажимаем её, при условии соблюдения условий выше 1 - оружие 3 - хилка
+Пользуемся и получаем удовольствие, выбиваем лут.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+Delay 1 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 6 ms
+LeftUp 1
+Delay 6 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyDown 32 1
+Delay 1 ms
+KeyUp 32 1
+Delay 1 ms
+RightDown 1
+Delay 8 ms
+RightUp 1
+Delay 8 ms
+RightDown 1
+Delay 10 ms
+RightUp 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

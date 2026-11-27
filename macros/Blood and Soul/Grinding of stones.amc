@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макросс позволяет  шлифовать необработанные камни(блестящие,резные, цветные, простые) 
+
+
+ПОДХОДИТ ДЛЯ РЕЖИМ ОКНА В РАЗРЕШЕНИИ 1600х900, ЕСЛИ ИСПОЛЬЗУЕТЕ СВОЁ РАЗРЕШЕНИЕ МЕНЯЙТЕ КООРДИНАТЫ УКАЗАТЕЛЯ!
+
+1) Ставим соответсвующий шлифавальный камень в 1 слот СУМКИ
+2) Ставим соответсвующий необработанные камени  во 2  слот СУМКИ
+3) ждеемсссс...</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1244 351
+Delay 116 ms
+RightDown 1
+Delay 71 ms
+RightUp 1
+Delay 103 ms
+MoveTo 1284 358
+Delay 142 ms
+LeftDown 1
+Delay 99 ms
+LeftUp 1
+Delay 88 ms
+MoveTo 751 573
+Delay 14 ms
+LeftDown 1
+Delay 128 ms
+LeftUp 1
+Delay 500 ms</Syntax>
+    </KeyDown>
+    <Software>Blood and soul</Software>
+  </DefaultMacro>
+</Root>

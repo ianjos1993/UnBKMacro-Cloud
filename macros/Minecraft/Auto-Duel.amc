@@ -1,0 +1,54 @@
+<Root>
+  <DefaultMacro>
+    <Major>ATEpast</Major>
+    <Description>Макрос который будет вместо вас кидать запрос к рандомному игроку, просто включите макрос и вы будете быстро кидать запросы на дуели</Description>
+    <Comment>Макрос на автоматические запросы на дуель</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>SetLang en-US
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 64
+KeyDown 56 1
+Delay 64
+KeyUp 56 1
+Delay 64
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64
+KeyDown 24 1
+Delay 64
+KeyUp 24 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 15 1
+Delay 64
+KeyUp 15 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+GoWhile 30 15
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

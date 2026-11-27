@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос сделан для фарма картошки или марковки скорость 120 прицел на (90 и 4) 
+нужна ферма на 2 плота перс начинает двигатся в право</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 26 1
+Delay 2 s
+KeyUp 26 1
+KeyDown 7 1
+Delay 40 s
+KeyUp 7 1
+KeyDown 26 1
+Delay 2 s
+KeyUp 26 1
+KeyDown 4 1
+Delay 40 s
+KeyUp 4 1
+KeyDown 26 1
+Delay 2 s
+KeyUp 26 1
+LeftUp 1
+GoWhile 1 10</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

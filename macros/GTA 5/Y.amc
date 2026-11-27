@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для работы на стройке. Когда на чекпоинте появляется буква Y, зажимайте макрос, а дальше все по кругу. Для удобства можно поставить задержку не 19мс, а 25-30мс</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 28 1
+Delay 19 ms
+KeyUp 28 1
+Delay 19 ms
+KeyDown 28 1
+Delay 19 ms
+KeyUp 28 1
+Delay 19 ms
+KeyDown 28 1
+Delay 19 ms
+KeyUp 28 1
+Delay 19 ms</Syntax>
+    </KeyDown>
+    <Software>GTA V</Software>
+  </DefaultMacro>
+</Root>

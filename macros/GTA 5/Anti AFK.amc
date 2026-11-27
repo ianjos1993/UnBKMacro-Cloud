@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос для Анти Афк в GTA:Online
+Каждые 4 минуты двигается вперед 1 минуту,влево 1 минуту, вправо 1 минуту, назад 1 минуту.
+По всем воросам, предложениям, улучшениям и идеям писать мне в личные сообщения.
+Удачной игры.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 4 min
+KeyDown 26 1
+Delay 60 ms
+KeyUp 26 1
+KeyDown 4 1
+Delay 60 ms
+KeyUp 7 1
+Delay 60 ms
+KeyUp 4 1
+KeyDown 7 1
+GoWhile 1 200</Syntax>
+    </KeyDown>
+    <Software>GTA V</Software>
+  </DefaultMacro>
+</Root>

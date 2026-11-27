@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для кансел слайда с хуком для персонажа Вор
+
+Начинаете бежать с шифтом, нажимаете макрос, тайминги можно доработать для лучшего результата. </Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 30 ms
+KeyDown 225 1
+Delay 30 ms
+KeyDown 6 1
+Delay 100 ms
+KeyDown 9 1
+Delay 30 ms
+KeyUp 9 1
+Delay 30 ms
+KeyDown 9 1
+Delay 30 ms
+KeyUp 9 1
+Delay 30 ms
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Marathon</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major>2560х1440 only</Major>
+    <Description>The script was created for easy healing on the project Radmir GTA 5 RP. just bind the macro to a free key and use it!
+Instruction for easy use:
+1. Close weapons and ammo in inventory
+2. Put candy or something in 1 food slot, works for everything.
+Скрипт создан для легкого отхила на проекте Радмир гта 5 рп. просто забиндите макрос на свободную клавишу и пользуйтесь!
+Инструкция для легкого использования:
+1. Закрыть в инвентаре оружие и патроны
+2. В1 слоте еды положить конфеты или что либо, работает для всего.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 12 1
+Delay 50 ms
+KeyUp 12 1
+Delay 250 ms
+MoveTo 1297 397
+Delay 50 ms
+RightDown 1
+Delay 50 ms
+RightUp 1
+Delay 50 ms
+MoveTo 1309 412
+Delay 50 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 10 ms
+KeyDown 12 1
+Delay 19 ms
+KeyUp 12 1</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный Макрос позволит вам ловить контейнеры быстрее всех 
+надо иметь на балансе максимальное количество денег и тогда он точно будет работать
+Разрешение экрана 1920х1080</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 2 ms
+LeftUp 1
+Delay 2 ms
+GoWhile 1 8
+KeyDown 38 1
+Delay 2 ms
+KeyUp 38 1
+GoWhile 1 8
+MoveTo 940 595
+Delay 2 ms
+LeftDown 1
+Delay 2 ms
+LeftUp 1
+Delay 2 ms</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

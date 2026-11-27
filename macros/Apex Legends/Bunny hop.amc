@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major>simple BunnyHop </Major>
+    <Description>It's nothing special, but it's a great help, as it does the jumping for you in a timed manner without you having to worry about timing.
+
+First sprint, then slide, and then hold down the macro key hwile holding slide. This activates when pressed and deactivates when released, this eliminating any complications.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 40 ms
+KeyUp 44 1
+Delay 40 ms
+KeyDown 44 1
+Delay 40 ms
+KeyUp 44 1
+Delay 40 ms
+KeyDown 44 1
+Delay 40 ms
+KeyUp 44 1
+Delay 40 ms
+KeyDown 44 1
+Delay 40 ms
+KeyUp 44 1
+Delay 40 ms
+KeyDown 44 1
+Delay 40 ms
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Auto Spawn - это быстрый макрос который быстро переносит тебя на спавн (полезно на анархиях и ивентах)</Description>
+    <Comment>имба</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 19 1
+Delay 1 ms
+KeyUp 19 1
+Delay 1 ms
+KeyDown 56 1
+KeyUp 56 1
+KeyDown 225 1
+Delay 1 ms
+KeyDown 22 1
+KeyUp 22 1
+KeyUp 225 1
+Delay 1 ms
+KeyDown 19 1
+KeyUp 19 1
+Delay 1 ms
+KeyDown 4 1
+KeyUp 4 1
+Delay 1 ms
+KeyDown 26 1
+KeyUp 26 1
+Delay 1 ms
+KeyDown 17 1
+KeyUp 17 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

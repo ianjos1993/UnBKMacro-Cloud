@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>is a functional half flip macro.
+a rocket mechanic in which you turn faster.
+the delay is made to be play in 30 to 50ms if u have more ping than that you should change the delay between line 15 to line 17.
+This is made for custom controls, instead of right click to jump is now space to jump and right click for the cam ball.
+Also the directional aerol isnt with Q/E, is with the side buttons, E is M4(back button) and Q is M5(Forward button)</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 35 ms
+KeyDown 44 1
+Delay 45 ms
+KeyUp 44 1
+Delay 40 ms
+KeyDown 44 1
+Delay 85 ms
+KeyUp 44 1
+Delay 8 ms
+KeyUp 22 1
+Delay 215 ms
+KeyDown 26 1
+Delay 40 ms
+Button5Down 1
+Delay 480 ms
+Button5up 1
+Delay 15 ms
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>Rocket League</Software>
+  </DefaultMacro>
+</Root>

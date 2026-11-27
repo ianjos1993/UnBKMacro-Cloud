@@ -1,0 +1,71 @@
+<Root>
+  <DefaultMacro>
+    <Major>Жесточайшее фармилово рун невероятнейшей (ФУЛЛ АФК ФАРМ)</Major>
+    <Description>невероятный фарм рун в елден ринге.
+40к рун за 20 секунд, 120к в минуту, 6 лямов в час.
+на нг+ множим эти числа на два
+требования для актуального использования:
+
+1. меч священной реликвии до +9 в двух руках
+2. легкий вес снаряжения (снимите броню)
+3. талисманы на увеличение урона обязательно. иначе будет 30к рун, а не 40к (система оверхит демеджа, при нанесеии 150% урона от макс ХП врагу, получаем на 20% больше с них рун)
+4. ТП на дворец могвинов "крутая дорога, ведущая ко дворцу" и не двигать камерой
+5. приблизить карту максимально близко к телепорту, чтобы макрос точно наводился на телепорт
+6. после этапа 4 запустить макрос и идти спать, играть, гулять, бегать, прыгать, тарабанить пассию, и много других вещей. всем приятного использования</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1000 ms
+KeyDown 26 1
+Delay 256 ms
+KeyDown 44 1
+Delay 150 ms
+KeyDown 4 1
+Delay 509 ms
+KeyUp 4 1
+Delay 139 ms
+KeyDown 4 1
+Delay 179 ms
+KeyUp 4 1
+Delay 500 ms
+KeyDown 9 1
+Delay 150 ms
+KeyUp 9 1
+Delay 939 ms
+KeyDown 4 1
+Delay 89 ms
+KeyUp 4 1
+Delay 759 ms
+KeyUp 44 1
+Delay 40 ms
+KeyDown 224 1
+Delay 211 ms
+KeyUp 224 1
+Delay 1409 ms
+KeyUp 26 1
+Delay 6500 ms
+KeyDown 10 1
+Delay 117 ms
+KeyUp 10 1
+Delay 447 ms
+KeyDown 22 1
+Delay 112 ms
+KeyUp 22 1
+Delay 379 ms
+KeyDown 8 1
+Delay 110 ms
+KeyUp 8 1
+Delay 449 ms
+KeyDown 8 1
+Delay 89 ms
+KeyUp 8 1
+Delay 4500 ms</Syntax>
+    </KeyDown>
+    <Software>Elden Ring</Software>
+  </DefaultMacro>
+</Root>

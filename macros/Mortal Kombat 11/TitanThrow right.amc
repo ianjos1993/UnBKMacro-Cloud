@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Бросок титана (С удержанием кнопки) справа.
+
+Тяжёлый удар рукой: ;
+При желании можно поменять кнопку.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 25 ms
+KeyUp 7 1
+Delay 25 ms
+KeyDown 4 1
+Delay 25 ms
+KeyUp 4 1
+Delay 25 ms
+KeyDown 51 1
+Delay 3 s
+KeyUp 51 1
+Delay 25 ms</Syntax>
+    </KeyDown>
+    <Software>Mortal Kombat 11</Software>
+  </DefaultMacro>
+</Root>

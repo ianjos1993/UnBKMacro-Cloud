@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для марафона.
+
+Лучше всего использовать большое свободное пространство (по типу любого поля) запускаете макрос и идете отдыхать от марафона).
+
+P,S разрешение и ФПС особо не важно</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 557 ms
+KeyDown 26 1
+Delay 695 ms
+KeyDown 225 1
+Delay 6368 ms
+KeyDown 22 1
+Delay 15 ms
+KeyUp 26 1
+Delay 8776 ms
+KeyDown 26 1
+Delay 23 ms
+KeyUp 22 1
+Delay 9272 ms
+KeyDown 22 1
+Delay 23 ms
+KeyUp 26 1
+Delay 25129 ms
+KeyUp 225 1
+Delay 7 ms
+KeyUp 22 1
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

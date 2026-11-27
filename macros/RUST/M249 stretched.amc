@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос для M249 под зажим сидя, жмет в цель, разрешение 2080*1440, FOV90, чувствительность 0.9(можете поиграться с тысячными)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 30 ms
+MoveR -1 4
+Delay 30 ms
+MoveR -2 4
+Delay 30 ms
+MoveR -1 4
+Delay 30 ms
+MoveR -1 4
+Delay 30 ms
+MoveR -1 4
+Delay 30 ms
+MoveR -2 4
+Delay 30 ms
+MoveR -1 4
+Delay 30 ms
+MoveR -1 4
+Delay 30 ms
+MoveR -2 4
+Delay 30 ms
+MoveR -1 4
+Delay 30 ms
+MoveR -1 4
+Delay 30 ms
+MoveR -2 4
+Delay 30 ms
+MoveR -1 4
+Delay 30 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

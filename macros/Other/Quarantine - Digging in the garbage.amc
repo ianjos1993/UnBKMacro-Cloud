@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Поиск мусора в здании, работает как с Людьми, так и с Зомби.
+В ВК отлично работает; Не открывать игру во весь экран!</Description>
+    <Comment>Разрешение монитора 1920x1080</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1169 399
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 2650 ms
+MoveTo 979 629
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+GoWhile 1 150</Syntax>
+    </KeyDown>
+    <Software>Другие</Software>
+  </DefaultMacro>
+</Root>

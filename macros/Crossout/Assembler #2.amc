@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Ассемблеры заряжаются и наносят мега большой урон и даже подходит кабина квант и Ассемблеры не перегреваются.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 4000 ms
+LeftUp 1
+Delay 22 ms
+KeyDown 30 1
+Delay 4000 ms
+KeyUp 30 1
+Delay 22 ms
+KeyDown 31 1
+Delay 4000 ms
+KeyUp 31 1
+Delay 22 ms
+//Ассемблеры стреляют с полным залпом без перегрева. Это лучше забиндить левую кнопку мышь вы можете скачать мой файл Assembler Без # чтобы быстро стрелять</Syntax>
+    </KeyDown>
+    <Software>Crossout</Software>
+  </DefaultMacro>
+</Root>

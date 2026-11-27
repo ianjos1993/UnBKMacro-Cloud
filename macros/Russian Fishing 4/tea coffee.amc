@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major>Чай и кофе авто</Major>
+    <Description>Макрос для варки чая и кофе в большом количестве. Просто наведите мышку на кнопку ок после варения 1 порции и запустите макрос. Можно идти и пить чай в реале)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 3632 ms
+LeftDown 1
+Delay 90 ms
+LeftUp 1
+Delay 201 ms
+LeftDown 1
+Delay 90 ms
+LeftUp 1
+Delay 3562 ms
+LeftDown 1
+Delay 121 ms
+LeftUp 1
+Delay 286 ms
+LeftDown 1
+Delay 99 ms
+LeftUp 1
+Delay 3988 ms
+LeftDown 1
+Delay 97 ms
+LeftUp 1
+Delay 356 ms</Syntax>
+    </KeyDown>
+    <Software>Русская Рыбалка 4</Software>
+  </DefaultMacro>
+</Root>

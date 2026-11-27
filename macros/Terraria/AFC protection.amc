@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>позволяет стоять в АФК и не умирать.</Major>
+    <Description>этот макрос бьёт в лево потом в право с задержкой в 500мс.
+
+идеально работает при использовании "Щит сержанта Юнайтед".
+
+позволяет встать в АФК и оборонятся, или фармить.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1109 537
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 500 ms
+MoveTo 822 533
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 500 ms</Syntax>
+    </KeyDown>
+    <Software>Terraria</Software>
+  </DefaultMacro>
+</Root>

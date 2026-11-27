@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major>FOV 30 Sena 66dpi 33</Major>
+    <Description>подходит на все сервера по типу ваймворлд кубикс и тд.
+лучший баг урон на кубиксе без хила
+FOV 30 
+0.66sen 
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+LeftDown 1
+Delay 8 ms
+Delay 8 ms
+KeyUp 30 1
+Delay 1 ms
+RightDown 1
+Delay 7 ms
+Delay 8 ms
+RightUp 1
+LeftDown 1
+Delay 5 ms
+Delay 5 ms
+LeftUp 1
+RightDown 1
+Delay 4 ms
+Delay 4 ms
+LeftDown 1
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

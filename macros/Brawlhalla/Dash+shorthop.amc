@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>Movement</Major>
+    <Description>Clean dash + shorthop macro for Brawlhalla — optimized for speed, control, and consistency 
+
+change directions using A and D</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 25 ms
+KeyDown 44 1
+Delay 25 ms
+KeyDown 22 1
+GoWhile 1 3</Syntax>
+    </KeyDown>
+    <Software>Brawlhalla</Software>
+  </DefaultMacro>
+</Root>

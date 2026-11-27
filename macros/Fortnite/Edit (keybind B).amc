@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Fortnite macro for edits (keybind B) If you dont have it set as B you can either change the macro or change your edit keybind. Please give this a good rating if you like it or give honest feedback. Thank you!</Description>
+    <Comment>Fortnite macro for edits (keybind B) If you dont have it set as B you can either change the macro or change your edit keybind</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 5 1
+Delay 1 ms
+KeyUp 5 1
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

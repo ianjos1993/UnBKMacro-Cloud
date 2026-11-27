@@ -1,0 +1,63 @@
+<Root>
+  <DefaultMacro>
+    <Major>Airwalk fast</Major>
+    <Description>Fast paced airwalk. While getiing pushed back with a melle weapon or during fall activate the macro for canceling push back and instant recovery. Best to use when in mid air. Good luck with S4!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 0 ms
+KeyDown 44 1
+Delay 25 ms
+KeyUp 26 1
+Delay 0 ms
+KeyUp 44 1
+Delay 25 ms
+KeyDown 44 1
+Delay 125 ms
+KeyUp 44 1
+Delay 25 ms
+KeyDown 4 1
+Delay 0 ms
+KeyDown 44 1
+Delay 125 ms
+KeyUp 44 1
+Delay 7 ms
+KeyUp 4 1
+Delay 25 ms
+KeyDown 26 1
+Delay 25 ms
+KeyUp 26 1
+Delay 25 ms
+KeyDown 26 1
+Delay 25 ms
+KeyUp 26 1
+Delay 25 ms
+KeyDown 26 1
+Delay 250 ms
+KeyDown 44 1
+Delay 25 ms
+KeyUp 26 1
+Delay 25 ms
+KeyUp 44 1
+Delay 25 ms
+KeyDown 4 1
+Delay 0 ms
+KeyDown 44 1
+Delay 125 ms
+KeyUp 4 1
+Delay 0 ms
+KeyUp 44 1
+Delay 25 ms
+KeyDown 26 1
+Delay 25 ms
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>S4 League</Software>
+  </DefaultMacro>
+</Root>

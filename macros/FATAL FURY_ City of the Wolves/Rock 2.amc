@@ -1,0 +1,129 @@
+<Root>
+  <DefaultMacro>
+    <Major>Rock Howard Combo 2</Major>
+    <Description>Макрос позволяет выполнять комбо за Rock Howard комбинацию с оптимальным количеством урона в любой точке карты.
+Видео демонстрации работы макроса: https://youtu.be/7YXJxETNIH8
+
+Рок Ховард персонаж второго поколения бойцов Саут-Тауна. Его имя связано сразу с двумя фигурами. Терри Богард, который вырастил его и научил сражаться. И Гис Ховард, человек чья кровь течет в его жилах. Внешне Рок производит впечатление спокойного и сдержанного бойца. Он редко проявляет лишние эмоции и действует рационально. Однако в моменты напряжения в нем проявляется жесткость, напоминающая стиль его отца. Боевая техника Рока построена на балансе скорости и точности. Он часто использует контратаки, ловит противника на ошибках и переводит бой в удобный для себя темп. Его движения выглядят плавными, но при этом сохраняют высокую силу удара.
+
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — Dodge
+ Z — Feint
+ V — REV Block
+
+Тестирование макроса проводились на последнем патче игры на 11.03.2026
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ.
+
+#RockFatalFuryCotw #fatalfurycotw #fatalfury</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 98 ms
+KeyDown 90 1
+Delay 0 ms
+KeyDown 14 1
+Delay 86 ms
+KeyDown 92 1
+Delay 0 ms
+KeyDown 18 1
+Delay 24 ms
+KeyUp 90 1
+Delay 0 ms
+KeyUp 14 1
+Delay 44 ms
+KeyUp 22 1
+Delay 43 ms
+KeyUp 92 1
+Delay 0 ms
+KeyUp 18 1
+Delay 66 ms
+KeyDown 92 1
+Delay 0 ms
+KeyDown 18 1
+Delay 99 ms
+KeyUp 92 1
+Delay 0 ms
+KeyUp 18 1
+Delay 54 ms
+KeyDown 90 1
+Delay 0 ms
+KeyDown 14 1
+Delay 125 ms
+KeyDown 22 1
+Delay 22 ms
+KeyUp 90 1
+Delay 0 ms
+KeyUp 14 1
+Delay 29 ms
+KeyDown 4 1
+Delay 59 ms
+KeyUp 22 1
+Delay 55 ms
+KeyUp 4 1
+Delay 73 ms
+KeyDown 92 1
+Delay 0 ms
+KeyDown 18 1
+Delay 99 ms
+KeyUp 92 1
+Delay 0 ms
+KeyUp 18 1
+Delay 123 ms
+KeyDown 90 1
+Delay 0 ms
+KeyDown 14 1
+Delay 55 ms
+KeyDown 92 1
+Delay 0 ms
+KeyDown 18 1
+Delay 11 ms
+KeyUp 90 1
+Delay 0 ms
+KeyUp 14 1
+Delay 121 ms
+KeyUp 92 1
+Delay 0 ms
+KeyUp 18 1
+Delay 76 ms
+KeyDown 90 1
+Delay 0 ms
+KeyDown 14 1
+Delay 92 ms
+KeyUp 90 1
+Delay 0 ms
+KeyUp 14 1
+Delay 73 ms
+KeyDown 90 1
+Delay 0 ms
+KeyDown 14 1
+Delay 62 ms
+KeyUp 90 1
+Delay 0 ms
+KeyUp 14 1</Syntax>
+    </KeyDown>
+    <Software>FATAL FURY: City of the Wolves</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>данный скрипт позволяет автоматически добывать нефть на нефтекачках grand rp с разрешением 1280x780 запускаем скрипт затем нажимаем ЛКМ в игре и готово</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 285 750
+Delay 15 ms
+LeftDown 1
+Delay 4300 ms
+LeftUp 1
+Delay 15 ms
+MoveTo 385 750
+Delay 15 ms
+LeftDown 1
+Delay 4300 ms
+LeftUp 1
+Delay 15 ms
+MoveTo 485 750
+Delay 15 ms
+LeftDown 1
+Delay 4300 ms
+LeftUp 1
+Delay 15 ms
+MoveTo 590 750
+Delay 15 ms
+LeftDown 1
+Delay 4300 ms
+LeftUp 1
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

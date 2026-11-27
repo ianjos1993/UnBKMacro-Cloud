@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос на OBIR, максимальная скорость стрельбы в автоматическом режиме с оптимальным гашением отдачи за счет перемешения курсора. Если не работает, поменяйте зажержку</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftUp 1
+MoveR 0 1
+Delay 45
+LeftDown 1</Syntax>
+    </KeyDown>
+    <Software>APB Reloaded</Software>
+  </DefaultMacro>
+</Root>

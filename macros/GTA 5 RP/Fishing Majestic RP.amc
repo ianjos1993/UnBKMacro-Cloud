@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major>GI6PID</Major>
+    <Description>Написал простой макрос для рыбалки на сервере ГТА 5 рп. Для качественной работы макроса, разместите место появления значка рыбы выше середины экрана. Поставьте разрешение экрана 1920х1080, а так же поставьте режим экрана "Оконный без рамки". Нажимайте кнопку '/' и макрос будет ловить рыбу за вас, главное не двигайте экран. Загрузите по-больше наживок в инвентарь и можете идти по своим делам. !Внимание. Макрос не выключается автоматически и не перекладывает рыбу в рюкзак, поэтому вовремя продавайте рыбу.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+GoColor 6 1 255,255,255 255,255,255 2 484 176 999 404 1 0
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+GoColor 12 1 255,255,255 255,255,255 2 0 149 957 496 1 0
+GoColor 16 1 255,255,255 255,255,255 2 963 123 956 463 1 0
+KeyDown 7 1
+Delay 12 s
+KeyUp 7 1
+Delay 64
+KeyDown 4 1
+Delay 12 s
+KeyUp 4 1
+Delay 64
+LeftDown 1
+Delay 15 s
+LeftUp 1
+Delay 7 s
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>отбор стенки поможет вам отобрать стенку у противника и моментально поcтавить лестницу в бокс. Стенка Q а лестница V. Включаете макрос когда на стенке 75 хп или меньше.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы разрещения екрана 1680Х1050 16:10</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 11 ms
+LeftDown 1
+Delay 190 ms
+KeyDown 25 1
+Delay 135 ms
+KeyUp 25 1
+Delay 43 ms
+KeyDown 20 1
+Delay 50 ms
+KeyUp 20 1
+Delay 80 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

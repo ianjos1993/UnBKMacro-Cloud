@@ -1,0 +1,138 @@
+<Root>
+  <DefaultMacro>
+    <Major>Kunimitsu Combo 02</Major>
+    <Description>Макрос позволяет выполнять комбо за Kunimitsu staple.
+Видео демонстрации работы макроса: https://youtu.be/AI5SXaXQjQc
+
+Кунимитцу это боец Tekken. Ключевая особенность это высокая зависимость от позиционирования. Она эффективно раскрывается при навязывании нестабильного ритма боя, где противник теряет возможность фиксировать её траекторию. Взамен персонаж требует точного контроля таймингов и понимания риска при агрессивных входах. Визуально образ в Tekken 8 выполнен в современной интерпретации скрытого бойца: маска, легкая броня, элементы традиционного японского снаряжения, адаптированные под динамику высокотехнологичного мира. Общая концепция подчёркивает скрытность, скорость и отсутствие прямолинейности в действиях.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 02.06.2026
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ.
+
+#Kunimitsutekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 146 ms
+KeyDown 93 1
+Delay 94 ms
+KeyDown 7 1
+Delay 71 ms
+KeyDown 92 1
+Delay 11 ms
+KeyUp 93 1
+Delay 14 ms
+KeyUp 22 1
+Delay 91 ms
+KeyUp 92 1
+Delay 56 ms
+KeyUp 7 1
+Delay 22 ms
+KeyDown 92 1
+Delay 0 ms
+KeyDown 90 1
+Delay 57 ms
+KeyUp 90 1
+Delay 0 ms
+KeyDown 89 1
+Delay 93 ms
+KeyDown 7 1
+Delay 39 ms
+KeyUp 92 1
+Delay 0 ms
+KeyUp 89 1
+Delay 76 ms
+KeyDown 90 1
+Delay 44 ms
+KeyUp 7 1
+Delay 7 ms
+KeyDown 4 1
+Delay 84 ms
+KeyUp 90 1
+Delay 69 ms
+KeyUp 4 1
+Delay 218 ms
+KeyDown 89 1
+Delay 100 ms
+KeyUp 89 1
+Delay 234 ms
+KeyDown 7 1
+Delay 81 ms
+KeyUp 7 1
+Delay 85 ms
+KeyDown 7 1
+Delay 76 ms
+KeyUp 7 1
+Delay 104 ms
+KeyDown 93 1
+Delay 120 ms
+KeyDown 92 1
+Delay 13 ms
+KeyUp 93 1
+Delay 73 ms
+KeyUp 92 1
+Delay 554 ms
+KeyDown 22 1
+Delay 35 ms
+KeyDown 90 1
+Delay 193 ms
+KeyUp 90 1
+Delay 62 ms
+KeyUp 22 1
+Delay 0 ms
+KeyDown 4 1
+Delay 30 ms
+KeyDown 89 1
+Delay 109 ms
+KeyUp 89 1
+Delay 168 ms
+KeyUp 4 1
+Delay 435 ms
+KeyDown 22 1
+Delay 68 ms
+KeyDown 4 1
+Delay 60 ms
+KeyDown 93 1
+Delay 2 ms
+KeyUp 22 1
+Delay 60 ms
+KeyUp 4 1
+Delay 35 ms
+KeyUp 93 1
+Delay 44 ms
+KeyDown 92 1
+Delay 98 ms
+KeyUp 92 1
+Delay 68 ms
+KeyDown 89 1
+Delay 90 ms
+KeyUp 89 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для версии пвп (примерно 1.8) даст вам разносить лица к примеру на VimeWorld (режим работы пока нажата кнопка/повторному нажатию)
+Макрос делает примерно 20-30 кпс. Стоит рандомная задержка для обхода античита который распознаёт макросы.
+Вы теперь крутой пвпшер)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+LeftUp 1
+Delay 5 25 ms
+LeftDown 1
+LeftUp 1
+Delay 10 35 ms
+LeftDown 1
+Delay 15 45 ms
+LeftUp 1
+Delay 34 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

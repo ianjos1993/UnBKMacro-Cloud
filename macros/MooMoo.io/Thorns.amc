@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Ставит моментально шипы, но для начала нужно докачать макс лвл (это займёт минут 5-6). Потом просто биндим кнопку и вауля, шипы поставленны, очень хорошо подойдёт этот скрипт, если за вами кто-то бежит!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 34 1
+Delay 1 ms
+KeyUp 34 1
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>MooMoo.io</Software>
+  </DefaultMacro>
+</Root>

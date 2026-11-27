@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>(EN) This script is designed to skip the stage with Vorghet. The script must be used on the void subclass of warlock, using blink as a jump. Having preliminarily risen to a branch, point the camera at the gap between the wall and the ceiling and press the assigned script key. As a result, you find yourself outside the wall.
+(RU) Данный скрипт предназначен для пропуска этапа с Воргетом. Скрипт необходимо использовать на пустотном подклассе варлока, используя blink в качестве прыжка. Предварительно поднявшись на ветку, наведите  камеру на зазор между стеной и потолком и нажмите на назначенную вами клавишу скрипта. Вследствии чего вы окажитесь за пределами стены.
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 200 ms
+KeyDown 44 1
+Delay 15 ms
+KeyUp 44 1
+Delay 490 ms
+KeyDown 44 1
+Delay 15 ms
+KeyUp 44 1
+Delay 64 ms
+KeyUp 26 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Destiny 2 Warlock Skating</Software>
+  </DefaultMacro>
+</Root>

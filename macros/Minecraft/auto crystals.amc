@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>обсидиан в 9 слот биндим 9 слот на D
+ кристаллы в 8 слот биндим  8 слот на S
+меч в 1 слот биндим на F 
+
+И все, все работает, наслаждайтесь</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 25
+KeyUp 7 1
+Delay 25
+RightDown 1
+Delay 25
+RightUp 1
+Delay 25
+KeyDown 22 1
+Delay 25
+KeyUp 22 1
+Delay 25
+RightDown 1
+Delay 25
+RightUp 1
+Delay 25</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

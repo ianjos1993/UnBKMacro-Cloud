@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный прокаст предназначен для Легкого прокаста на Tinker
+Прокаст состоит из Rocket missle Shivas Guard + Blink
+ВСЕ что вам надо это Герой после 18 лвла И не Нажимать ПКМ или ЛКМ во время прокаста все остальное сделает скрипт
+BLINK на SPACE
+SHIVA на TAB
+ROCKET MISSLE на W
+REARM На R</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 1250 ms
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

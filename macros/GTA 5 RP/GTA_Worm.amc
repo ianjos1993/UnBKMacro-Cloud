@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автокопание червяков на грядке
+Установить курсор на лопате, закрыть инфентарь, запустить макрос.
+Макрос сам откроет инвентарь, кликнет правой кнопкой (курсор должен быть на лопате) и начнёт копать.
+В 5 строке количество копаний.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 12 1
+Delay 1500 3000 ms
+RightDown 1
+Delay 11 12 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+GoWhile 1 1000</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

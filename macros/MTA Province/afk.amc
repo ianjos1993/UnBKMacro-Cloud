@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major>афк провинция</Major>
+    <Description>Читать! Макрос зациклен на каждые 5 минут, если перестал работать, то перезапустите его
+Следите за монитором, админы не спят и могут вызвать на проверку
+Помните, что макросы  запрещены  на проекте
+Удачной игры!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 955 577
+GoWhile 1 5100
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 300000 ms</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

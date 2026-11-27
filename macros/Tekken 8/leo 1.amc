@@ -1,0 +1,90 @@
+<Root>
+  <DefaultMacro>
+    <Major>Leo Combo 01</Major>
+    <Description>Макрос позволяет выполнять комбо за Leo комбинацию у стены.
+Видео демонстрации работы макроса: https://youtu.be/uFhOhN6IUM8
+
+Лео является технически подготовленным бойцом с выраженной ориентацией на универсальный стиль. Использует элементы китайских боевых искусств, сочетая мобильность, точность и контроль дистанции. В поведении сдержан, аналитичен, склонен к наблюдению и сбору информации перед активными действиями. Основной мотивацией является поиск истины и восстановление утраченных фактов, связанных с прошлым семьи.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 13.01.2026
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ.
+
+#Leotekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 5 ms
+KeyDown 22 1
+Delay 565 ms
+KeyUp 22 1
+Delay 17 ms
+KeyUp 4 1
+Delay 12 ms
+KeyDown 93 1
+Delay 122 ms
+KeyUp 93 1
+Delay 316 ms
+KeyDown 4 1
+Delay 110 ms
+KeyDown 92 1
+Delay 123 ms
+KeyUp 92 1
+Delay 18 ms
+KeyDown 90 1
+Delay 169 ms
+KeyUp 90 1
+Delay 248 ms
+KeyUp 4 1
+Delay 86 ms
+KeyDown 7 1
+Delay 86 ms
+KeyDown 89 1
+Delay 19 ms
+KeyUp 7 1
+Delay 73 ms
+KeyDown 90 1
+Delay 53 ms
+KeyUp 89 1
+Delay 95 ms
+KeyUp 90 1
+Delay 397 ms
+KeyDown 7 1
+Delay 62 ms
+KeyUp 7 1
+Delay 61 ms
+KeyDown 7 1
+Delay 91 ms
+KeyDown 93 1
+Delay 112 ms
+KeyUp 93 1
+Delay 84 ms
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

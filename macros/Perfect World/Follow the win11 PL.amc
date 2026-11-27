@@ -1,0 +1,83 @@
+<Root>
+  <DefaultMacro>
+    <Major>След за ПЛ win11</Major>
+    <Description>При надобности измените координаты курсора мышки, экраны у всех разные. 
+Так как в win11 нет разделение окон, свап окон юзается с помощью win+2 / win + 2+2  и т.д. 
+Значение "2" в этом случае порядок расположения окна PW на панеле задач, можете изменить под свое. 
+
+Привязывает твинов и возвращает на основное(первое) окно. 
+Макрос на 3 окна, можете расширить с помощью ctrl v + cntrl c. </Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 227 1
+Delay 32 ms
+KeyDown 31 1
+Delay 64 ms
+KeyUp 31 1
+KeyDown 31 1
+Delay 64 ms
+KeyUp 31 1
+KeyUp 227 1
+KeyDown 225 1
+Delay 48 ms
+KeyDown 30 1
+Delay 48 ms
+KeyUp 225 1
+KeyUp 30 1
+MoveTo 668 46
+Delay 5 ms
+RightDown 1
+Delay 12 ms
+RightUp 1
+Delay 16 ms
+MoveTo 713 58
+Delay 5 ms
+LeftDown 1
+Delay 48 ms
+LeftUp 1
+Delay 48 ms
+KeyDown 227 1
+Delay 32 ms
+KeyDown 31 1
+Delay 64 ms
+KeyUp 31 1
+KeyDown 31 1
+Delay 64 ms
+KeyUp 31 1
+KeyDown 31 1
+Delay 64 ms
+KeyUp 31 1
+KeyUp 227 1
+KeyDown 225 1
+Delay 48 ms
+KeyDown 30 1
+Delay 48 ms
+KeyUp 225 1
+KeyUp 30 1
+MoveTo 668 46
+Delay 5 ms
+RightDown 1
+Delay 12 ms
+RightUp 1
+Delay 16 ms
+MoveTo 713 58
+Delay 5 ms
+LeftDown 1
+Delay 48 ms
+LeftUp 1
+Delay 48 ms
+KeyDown 227 1
+KeyDown 31 1
+Delay 64 ms
+KeyUp 31 1
+KeyUp 227 1</Syntax>
+    </KeyDown>
+    <Software>Perfect World</Software>
+  </DefaultMacro>
+</Root>

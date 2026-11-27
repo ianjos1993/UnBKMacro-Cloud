@@ -1,0 +1,76 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос только на Vandal, можете опробовать его на других видах оружий. 
+- Для макроса не важна сенса
+- Работает ровно по спрею
+- Лучше всего поставить бинд на боковую кнопку мыши</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 100 ms
+MoveR 0 15
+Delay 100 ms
+MoveR 0 15
+Delay 100 ms
+MoveR 0 40
+Delay 100 ms
+MoveR -10 40
+Delay 100 ms
+MoveR -10 40
+Delay 100 ms
+MoveR 0 40
+Delay 100 ms
+MoveR 0 40
+Delay 100 ms
+Delay 100 ms
+MoveR 10 0
+Delay 100 ms
+MoveR 10 0
+Delay 100 ms
+MoveR 10 0
+Delay 100 ms
+MoveR 10 0
+Delay 100 ms
+MoveR 10 0
+Delay 100 ms
+Delay 100 ms
+Delay 100 ms
+Delay 100 ms
+Delay 100 ms
+Delay 100 ms
+MoveR -10 0
+Delay 100 ms
+MoveR -10 0
+Delay 100 ms
+MoveR -10 0
+Delay 100 ms
+MoveR -10 0
+Delay 100 ms
+Delay 100 ms
+Delay 100 ms
+Delay 100 ms
+Delay 100 ms
+Delay 100 ms
+Delay 100 ms
+Delay 100 ms
+Delay 100 ms
+Delay 100 ms
+Delay 100 ms
+Delay 100 ms
+Delay 100 ms
+Delay 100 ms
+Delay 100 ms
+Delay 99999 ms
+LeftUp 1
+Delay 6400 ms</Syntax>
+    </KeyDown>
+    <Software>Valorant</Software>
+  </DefaultMacro>
+</Root>

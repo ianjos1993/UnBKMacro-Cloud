@@ -1,0 +1,298 @@
+<Root>
+  <DefaultMacro>
+    <Major>automatization</Major>
+    <Description>Разрешение экрана 1366x705. Макрос для эвента Valentines's day - обмен коробок с шоколадом у НПС а так же их покупка и заполнение. Для корректной работы нужно отдалить камеру и настроить вид так. чтобы персонаж был по центру экрана, подойти к торговцу магией Коэн и взаимодействовать с ним, а также закройте инвентарь - после чего запускать макрос. Положите свиток обитателей Юноны в ячейку хотбара на F5, а ячейку инвентаря основной сумки освободите. Шоколад в обертке  должен лежать во 2 ячейке первой строки инвентаря
+ Возможно придется перетащить окно инвентаря и диалоговое окно свитка обитателей Юноны если у вас не совпали координаты.
+ Макрос автоматически покупает коробку для шоколада у первого НПС, заполняет ее обернутым шоколадом во все 9 ячеек после чего телепортирует персонажа ко второму НПС и обменивает заполненную коробку на награды, затем телепортирует персонажа обратно к первому НПС и потворяет все действия - повторов цикла 900.</Description>
+    <Comment>Макрос для обертывания шоколада также загружен в базу - chocopacker (1366X705)</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 565 443
+Delay 197 ms
+LeftDown 1
+Delay 197 ms
+LeftUp 1
+Delay 197 ms
+MoveTo 764 202
+Delay 197 ms
+WheelDown 1
+Delay 197 ms
+WheelDown 1
+Delay 197 ms
+WheelDown 1
+Delay 197 ms
+MoveTo 636 266
+Delay 197 ms
+LeftDown 1
+Delay 71 ms
+LeftUp 1
+Delay 71 ms
+LeftDown 1
+Delay 71 ms
+LeftUp 1
+Delay 197 ms
+MoveTo 706 475
+Delay 197 ms
+LeftDown 1
+Delay 197 ms
+LeftUp 1
+Delay 307 ms
+KeyDown 12 1
+Delay 197 ms
+KeyUp 12 1
+//последовательность координат для заполнения бокса шоколада
+Delay 197 ms
+MoveTo 322 301
+Delay 197 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 55 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 197 ms
+MoveTo 357 304
+Delay 85 ms
+LeftDown 1
+Delay 85 ms
+MoveTo 555 332
+Delay 85 ms
+LeftUp 1
+Delay 85 ms
+KeyDown 88 1
+Delay 85 ms
+KeyUp 88 1
+Delay 85 ms
+MoveTo 357 304
+Delay 85 ms
+LeftDown 1
+Delay 85 ms
+MoveTo 590 334
+Delay 85 ms
+LeftUp 1
+Delay 85 ms
+KeyDown 88 1
+Delay 85 ms
+KeyUp 88 1
+Delay 85 ms
+MoveTo 357 304
+Delay 85 ms
+LeftDown 1
+Delay 85 ms
+MoveTo 623 334
+Delay 85 ms
+LeftUp 1
+Delay 85 ms
+KeyDown 88 1
+Delay 85 ms
+KeyUp 88 1
+Delay 85 ms
+MoveTo 357 304
+Delay 85 ms
+LeftDown 1
+Delay 85 ms
+MoveTo 555 365
+Delay 85 ms
+LeftUp 1
+Delay 85 ms
+KeyDown 88 1
+Delay 85 ms
+KeyUp 88 1
+Delay 85 ms
+MoveTo 357 304
+Delay 85 ms
+LeftDown 1
+Delay 85 ms
+MoveTo 592 367
+Delay 85 ms
+LeftUp 1
+Delay 85 ms
+KeyDown 88 1
+Delay 85 ms
+KeyUp 88 1
+Delay 85 ms
+MoveTo 357 304
+Delay 85 ms
+LeftDown 1
+Delay 85 ms
+MoveTo 625 366
+Delay 85 ms
+LeftUp 1
+Delay 85 ms
+KeyDown 88 1
+Delay 85 ms
+KeyUp 88 1
+Delay 85 ms
+MoveTo 357 304
+Delay 85 ms
+LeftDown 1
+Delay 85 ms
+MoveTo 553 398
+Delay 85 ms
+LeftUp 1
+Delay 85 ms
+KeyDown 88 1
+Delay 85 ms
+KeyUp 88 1
+Delay 85 ms
+MoveTo 357 304
+Delay 85 ms
+LeftDown 1
+Delay 85 ms
+MoveTo 590 399
+Delay 85 ms
+LeftUp 1
+Delay 85 ms
+KeyDown 88 1
+Delay 85 ms
+KeyUp 88 1
+Delay 85 ms
+MoveTo 357 304
+Delay 85 ms
+LeftDown 1
+Delay 85 ms
+MoveTo 625 398
+Delay 85 ms
+LeftUp 1
+Delay 85 ms
+KeyDown 88 1
+Delay 85 ms
+KeyUp 88 1
+Delay 85 ms
+MoveTo 652 271
+Delay 85 ms
+LeftDown 1
+Delay 85 ms
+LeftUp 1
+Delay 85 ms
+KeyDown 12 1
+Delay 140 ms
+KeyUp 12 1
+Delay 140 ms
+KeyDown 62 1
+Delay 105 ms
+KeyUp 62 1
+Delay 105 ms
+//следующие 4 координаты - телепорт к мастеру игры
+MoveTo 912 369
+Delay 105 ms
+LeftDown 1
+Delay 105 ms
+LeftUp 1
+Delay 105 ms
+MoveTo 995 367
+Delay 105 ms
+LeftDown 1
+Delay 105 ms
+LeftUp 1
+Delay 105 ms
+MoveTo 850 362
+Delay 105 ms
+LeftDown 1
+Delay 105 ms
+LeftUp 1
+Delay 4041 ms
+MoveTo 684 386
+Delay 105 ms
+LeftDown 1
+Delay 105 ms
+LeftUp 1
+Delay 105 ms
+MoveTo 580 459
+Delay 241 ms
+LeftDown 1
+Delay 105 ms
+LeftUp 1
+Delay 241 ms
+MoveTo 590 467
+Delay 105 ms
+LeftDown 1
+Delay 105 ms
+LeftUp 1
+Delay 105 ms
+KeyDown 12 1
+Delay 105 ms
+KeyUp 12 1
+Delay 105 ms
+MoveTo 334 308
+Delay 105 ms
+LeftDown 1
+Delay 105 ms
+MoveTo 682 251
+Delay 105 ms
+LeftUp 1
+Delay 105 ms
+MoveTo 651 297
+Delay 105 ms
+LeftDown 1
+Delay 105 ms
+LeftUp 1
+Delay 105 ms
+MoveTo 682 240
+Delay 341 ms
+LeftDown 1
+Delay 105 ms
+LeftUp 1
+Delay 105 ms
+KeyDown 12 1
+Delay 105 ms
+KeyUp 12 1
+Delay 105 ms
+KeyDown 62 1
+Delay 105 ms
+KeyUp 62 1
+Delay 105 ms
+//следующие 3 координаты - телепорт к Коэну
+MoveTo 1005 226
+Delay 105 ms
+WheelDown 1
+Delay 105 ms
+WheelDown 1
+Delay 105 ms
+WheelDown 1
+Delay 105 ms
+WheelDown 1
+Delay 105 ms
+WheelDown 1
+Delay 105 ms
+WheelDown 1
+Delay 105 ms
+WheelDown 1
+Delay 105 ms
+WheelDown 1
+Delay 105 ms
+WheelDown 1
+Delay 105 ms
+WheelDown 1
+Delay 105 ms
+WheelDown 1
+Delay 105 ms
+MoveTo 958 363
+Delay 105 ms
+LeftDown 1
+Delay 105 ms
+LeftUp 1
+Delay 105 ms
+MoveTo 851 365
+Delay 105 ms
+LeftDown 1
+Delay 105 ms
+LeftUp 1
+Delay 4041 ms
+MoveTo 681 379
+Delay 105 ms
+LeftDown 1
+Delay 105 ms
+LeftUp 1
+Delay 341 ms
+GoWhile 1 500</Syntax>
+    </KeyDown>
+    <Software>Last chaos</Software>
+  </DefaultMacro>
+</Root>

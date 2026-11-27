@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major>sol super hs</Major>
+    <Description>Супер сола левая сторона
+
+Используйте для пробития стены или как реверсал
+
+7 - punch
+8 - kick
+9 - slash
+4 - heavy slash</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 30 ms
+KeyDown 22 1
+Delay 20 ms
+KeyUp 4 1
+Delay 15 ms
+KeyDown 7 1
+Delay 15 ms
+KeyUp 22 1
+Delay 25 ms
+KeyDown 4 1
+Delay 15 ms
+KeyUp 7 1
+Delay 20 ms
+KeyUp 4 1
+Delay 25 ms
+KeyDown 44 1
+Delay 25 ms
+KeyDown 92 1
+Delay 20 ms
+KeyUp 44 1
+Delay 25 ms
+KeyUp 92 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Guilty Gear</Software>
+  </DefaultMacro>
+</Root>

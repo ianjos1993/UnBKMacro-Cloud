@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major>Karyk</Major>
+    <Description>Макрос для быстрого редакта на F, в 2-3 раза быстреее чем обычный. Биндим макрос на F и редачим как бешаные </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 5 ms
+KeyUp 9 1
+Delay 5 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+KeyDown 9 1
+Delay 5 ms
+KeyUp 9 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

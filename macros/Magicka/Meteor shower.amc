@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Создает и кастует магику Метеоритный дождь,
+Fire,Dirt,Fire,Water,Dirt,Fire
+Вы можите случайно умиреть от того что метиориты падоют где угодна и на кого угодна</Description>
+    <Comment>Вы можите случайно умиреть от того что метиориты падоют где угодна и на кого угодна</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 64
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64
+KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64
+KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Magicka 1</Software>
+  </DefaultMacro>
+</Root>

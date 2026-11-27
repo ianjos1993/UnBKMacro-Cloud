@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Macro for fastest editing on F, 2-3 times faster than normal. Bind macro to F and you will edit... literally crazy
+Set the editing bind to F (In the game too)
+if you are having issues, please contact me or another script/macro creators.
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 0 min
+KeyUp 9 1
+Delay 0 min
+LeftDown 1
+Delay 0 min
+LeftUp 1
+Delay 0 min
+KeyDown 9 1
+Delay 0 min
+KeyUp 9 1
+Delay 0 min</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

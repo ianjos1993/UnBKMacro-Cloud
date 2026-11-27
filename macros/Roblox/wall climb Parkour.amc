@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Даёт делать технику "Wall climb boost"
+Делал в 1920x1080 и Надо в первом лице
+1.Встаёте напротив стены которой хотите сделать wall climb boost.
+2.смотрим верх и движемся вперёд и прыгаем
+3.Нажимаем на макрос букву которую вы поставили.
+4.После полёта Надо постотреть в сторону стены и опять посмотреть в верх и при правильном использование
+у вас должно получится 2 wall climb boost
+Если Что то не получается пишите мне в ЛС я вам обязательно отвечу(иногда задерживаюсь.Но отвечаю!
+Мой соц. сети(если не получается)
+Дискорд:epic.1.1.1
+</Description>
+    <Comment>Извините если плохо объяснил</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+KeyDown 44 1
+MoveR -280 0
+KeyUp 44 1
+KeyDown 44 1
+KeyDown 44 1
+MoveR -280 0
+KeyUp 44 1
+//Это всё одно Wall Climb Boost. Поэтому делайте 2 раза</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

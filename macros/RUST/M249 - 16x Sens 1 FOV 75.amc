@@ -1,0 +1,105 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Shoots straight on the point, should use FOV 75 and input.sensitivity 1
+
+Personally used Settings:
+
+Driver should be turned on to be more legit.
+Snap to Window is off
+Mentioned before: FOV (graphics.fov 75 in F1) and Sensitivity (input.sensitivity 1 in F1)
+Mouse used: Trust GXT 105  ///   DPI: 1600
+if possible put it on Mouse Button 1 (Left Click)
+
+
+Personally used Key Settings:
+
+Use minimal delay when pressing keys in macros: ON
+React only to physical clicks on keyboards and mice: ON
+Block modifier keystrokes: ON</Description>
+    <Comment>Shoots straight on the point, should use FOV 75 and input.sensitivity1
+
+Personally used Settings:
+
+Driver should be turned on to be more legit.
+Snap to Window is off
+Mentioned before: FOV (graphics.fov 75 in F1) and Sensitivity (input.sensitivity 1 in F1)
+Mouse used: Trust GXT 105  ///   DPI: 1600
+if possible put it on Mouse Button 1 (Left Click)
+
+
+Personally used Key Settings:
+
+Use minimal delay when pressing keys in macros: ON
+React only to physical clicks on keyboards and mice: ON
+Block modifier keystrokes: ON</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 22 ms
+MoveR 0 3
+Delay 22 ms
+MoveR 0 98
+Delay 22 ms
+MoveR 0 3
+Delay 22 ms
+MoveR 0 98
+Delay 22 ms
+MoveR 0 3
+Delay 22 ms
+MoveR 0 98
+Delay 22 ms
+MoveR 0 3
+Delay 22 ms
+MoveR 0 98
+Delay 22 ms
+MoveR 0 3
+Delay 22 ms
+MoveR 0 98
+Delay 22 ms
+MoveR 0 3
+Delay 22 ms
+MoveR 0 98
+Delay 22 ms
+MoveR 0 3
+Delay 22 ms
+MoveR 0 98
+Delay 22 ms
+MoveR 0 3
+Delay 22 ms
+MoveR 0 98
+Delay 22 ms
+MoveR 0 3
+Delay 22 ms
+MoveR 0 98
+Delay 22 ms
+MoveR 0 3
+Delay 22 ms
+MoveR 0 98
+Delay 22 ms
+MoveR 0 3
+Delay 22 ms
+MoveR 0 98
+Delay 22 ms
+MoveR 0 3
+Delay 22 ms
+MoveR 0 98
+Delay 22 ms
+MoveR 0 3
+Delay 22 ms
+MoveR 0 98
+Delay 22 ms
+MoveR 0 3
+Delay 22 ms
+MoveR 0 98
+Delay 22 ms
+MoveR 0 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

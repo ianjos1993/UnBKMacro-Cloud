@@ -1,0 +1,48 @@
+<Root>
+  <!-- by Britan -->
+  <DefaultMacro>
+    <Major></Major>
+    <Description>НАЗВАНИЕ: Fortnite Weapon Cycle. ОПИСАНИЕ: Быстрая ротация оружия по слотам 2 -&gt; 3 -&gt; 4 -&gt; 5 с выстрелом между каждым переключением. Каждый слот выстрелит при активации. РЕКОМЕНДУЕМАЯ КЛАВИША: Mouse 5 (вторая боковая кнопка мыши). КАК ИСПОЛЬЗОВАТЬ: Привяжи макрос на кнопку Mouse 5. Нажми кнопку - макрос пройдёт по слотам 2-3-4-5, делая выстрел из каждого оружия. Однократное выполнение. НАСТРОЙКА: Если нужно начать с другого слота - измени начальный KeyDown 50 (слот 2) на нужный код. Если оружие не в слотах 2-5 - поправь коды ключей. АВТОР: by Britan. ЗАПРЕЩЕНО копировать без указания автора.</Description>
+    <Comment>Привязка: Mouse 5 (боковая кнопка). Режим: однократное. Инструкция: нажми - макрос пройдёт по слотам 2-3-4-5 со стрельбой из каждого.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 50 1
+Delay 35 ms
+KeyUp 50 1
+Delay 20 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 51 1
+Delay 35 ms
+KeyUp 51 1
+Delay 20 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 52 1
+Delay 35 ms
+KeyUp 52 1
+Delay 20 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 53 1
+Delay 35 ms
+KeyUp 53 1
+Delay 20 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

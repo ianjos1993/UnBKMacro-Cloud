@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Macro for 0 recoil on nooks gun
+
+specs ; 2560 x 1440
+
+16 vert
+21 horizontal
+
+Attachmenst ; suppresor
+
+Aspect ratio ; 4:3</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR -1 2
+Delay 5 ms
+MoveR 0 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 0 2
+Delay 5 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

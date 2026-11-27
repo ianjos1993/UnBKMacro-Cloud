@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major>Instant wall jump counter</Major>
+    <Description>Equip hand gun or burst shot gun in third slot, counter sword in second slot. Always use single fire weapon in third slot. Enjoy smashing S4, Good luck!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 25 ms
+KeyDown 44 1
+Delay 15 ms
+KeyUp 44 1
+Delay 15 ms
+KeyDown 44 1
+Delay 15 ms
+KeyUp 44 1
+Delay 15 ms
+KeyUp 26 1
+Delay 25 ms
+KeyDown 32 1
+Delay 15 ms
+KeyUp 32 1
+Delay 15 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 25 ms
+KeyDown 4 1
+Delay 0 ms
+KeyDown 44 1
+Delay 135 ms
+KeyUp 4 1
+Delay 0 ms
+KeyUp 44 1
+Delay 25 ms
+KeyDown 31 1
+Delay 15 ms
+KeyUp 31 1
+Delay 15 ms
+RightDown 1
+Delay 200 ms
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>S4 League</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос хорошо подходит для фарма оружий на втором мосту восхода.
+Клавиша V используется по умолчанию.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 25 1
+Delay 70 ms
+KeyUp 25 1
+Delay 70 ms
+GoWhile 1 71400000</Syntax>
+    </KeyDown>
+    <Software>Warface</Software>
+  </DefaultMacro>
+</Root>

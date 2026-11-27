@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для заюза лимитов для тиранта
+
+Что делаем:
+
+Выставляем на вторую панель в ячейки с 7 по 9 такие скилы:
+
+7-пума
+8-зил
+9-бизон
+
+запускаем, юзаем, убиваем :)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 36 1
+KeyUp 36 1
+KeyDown 37 1
+KeyUp 37 1
+KeyDown 38 1
+KeyUp 38 1</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

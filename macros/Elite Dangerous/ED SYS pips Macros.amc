@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для быстрого переключения пипок распределителя питания. При нажатии на кнопку у вас будет 4 Пипки в системы. Я создал еще 2 макроса для системы и двигателей (ED ENG pips Macros и ED WEP pips Macros) Мастхев инструмент в ПВП и очень полезный в ПВЕ. При наличии вопросов рекомендую писать мне в дискорд: ladnizator</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 80 1
+Delay 10 ms
+KeyUp 80 1
+Delay 10 ms
+KeyDown 80 1
+Delay 10 ms
+KeyUp 80 1
+Delay 10 ms
+KeyDown 80 1
+Delay 10 ms
+KeyUp 80 1
+Delay 10 ms
+KeyDown 80 1
+Delay 10 ms
+KeyUp 80 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Elite Dangerous</Software>
+  </DefaultMacro>
+</Root>

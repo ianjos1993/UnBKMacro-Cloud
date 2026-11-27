@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Чтобы использовать данный трюк, вам нужно находиться в зоне 2PT и нажать макрос — он сам все сделает за вас. Сначала мяч кинется об кольцо, затем ваш персонаж пойдет вправо, поймает его в воздухе и бросит мяч с отходом назад (макрос работает только вправо). Для того чтобы использовать макрос, вам нужно иметь 60 OVR. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 25 1
+Delay 0 ms
+KeyUp 25 1
+KeyDown 7 1
+Delay 1 s
+KeyUp 7 1
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+KeyDown 22 1
+Delay 2 s
+KeyUp 22 1
+KeyDown 8 1
+Delay 344 ms
+KeyUp 8 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматически закрывает карточку, при нажатии на кнопку, закрывает без сброса Для те,кто устал закрывать карточки вручную :) Разрешение экрана, при котором проводился тест: 1680 x 1050</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 446 896
+Delay 312 ms
+LeftDown 1
+Delay 109 ms
+LeftUp 1
+MoveTo 442 901
+Delay 130 ms
+LeftDown 1
+Delay 124 ms
+LeftUp 1
+MoveTo 1460 983
+Delay 153 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 63 ms
+LeftDown 1
+Delay 103 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Другие</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>ws stop knife 35 hp</Major>
+    <Description>Простейший скрипт на auto stop для серверов knife в кс го. Пользуйтесь аккуратно, дабы не спалиться перед администрацией серверов!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 792 ms
+KeyUp 26 1
+Delay 64 ms
+KeyDown 22 1
+Delay 256 ms
+KeyUp 22 1
+Delay 0 ms
+KeyDown 26 1
+Delay 855 ms
+KeyUp 26 1
+Delay 32 ms
+KeyDown 22 1
+Delay 128 ms
+KeyDown 26 1
+Delay 48 ms
+KeyUp 22 1
+Delay 568 ms
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>CS: GO</Software>
+  </DefaultMacro>
+</Root>

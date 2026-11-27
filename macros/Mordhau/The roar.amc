@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Использует Анимацию Рёв - после чего кричит угрожающе
+
+Минус - (Данная Анимация Ограничивает Возможность Ходить , можно отменить обычным ударом на ПКМ)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 27 1
+Delay 10 ms
+KeyUp 27 1
+Delay 10 ms
+KeyDown 27 1
+Delay 10 ms
+KeyUp 27 1
+Delay 10 ms
+KeyDown 35 1
+Delay 10 ms
+KeyUp 35 1
+Delay 10 ms
+KeyDown 25 1
+Delay 10 ms
+KeyUp 25 1
+Delay 0 ms</Syntax>
+    </KeyDown>
+    <Software>Mordhau</Software>
+  </DefaultMacro>
+</Root>

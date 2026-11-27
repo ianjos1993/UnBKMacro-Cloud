@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>позволяет подтверждать покупку внутреигровых предметов с наклейками быстрее остальных пользователей.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+KeyDown 88 1
+Delay 10 ms
+KeyUp 88 1</Syntax>
+    </KeyDown>
+    <Software>standoff 2 на эмуляторе</Software>
+  </DefaultMacro>
+</Root>

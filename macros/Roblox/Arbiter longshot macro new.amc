@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>Arbiter longshotr macro [Decaying Winter]</Major>
+    <Description>Арбитер - класс в режиме Decaying Winter у которого есть своя особенность/уникальность. Его способность - shellshot имеет два типа: первый, который используется вблизи и наносит 60-75dmg противнику и второй, который используется после нажатия кнопки F еще раз в определённый тайминг, который уже может в некотором радиусе нанести и тебе, и противнику 90dmg. Для того чтобы использовать макро, нужно просто поставить его на определённый бинд. (Не F)
+
+Рекомендуется 60Fps</Description>
+    <Comment>Не использовать на бинд F, так как игра может посчитать двойным нажатием кнопки F и уже не получится сделать longshot.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+KeyUp 9 1
+Delay 215 ms
+KeyDown 9 1
+KeyUp 9 1
+Delay 67 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major>Panic button auto euls/dagger out/glimmer</Major>
+    <Description>This panic button is very effective when people jump on you. I recommend turn off quick cast to work properly because 2x click on dagger is redirected to base. Works well with euls/glimmer/bkb
+
+Just edit the key to your own hotkey
+
+I recommend putting the macro to mouse4 and it will press your keybind to the item
+
+Suggestions and feedbacks are welcome @trigago on forums
+
+Happy Gaming!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+Delay 5 ms
+KeyUp 6 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

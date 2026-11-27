@@ -1,0 +1,56 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для сервера fun time, авто ввод зарплты каждый час. Для работы макроса нужно
+ 
+1. Скачать макрос
+
+ 2. Поставить клавишу клавиатуры или мыши на включение/выключение
+ 
+3. Поставить режима макроса на " Выполнять до повторного нажатия"
+Всё готово. Заходите на сервер Fun Time нажимаете на выбранную вами клавишу, после чего забирается зарплата каждый час</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 64
+KeyUp 56 1
+Delay 64
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 15 1
+Delay 64
+KeyUp 15 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+KeyDown 28 1
+Delay 64
+KeyUp 28 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+Delay 36000000 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

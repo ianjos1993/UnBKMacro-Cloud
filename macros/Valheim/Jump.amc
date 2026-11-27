@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на прокачку навыка пражка.
+
+Что требуется:
+1. Быть в зоне костра.
+2. Иметь 66 выносливости
+3. Поставить над собой пол.
+3.1. Возьмте молоток и удерживаейте "Shift"
+3.2. Наведитесь над головой персонажа так что бы игрок не блокировал постройку, и ставьте пол.
+4. Вставайте под установленный пол и запускайте макрос.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 100
+KeyUp 44 1
+Delay 100
+KeyDown 44 1
+Delay 100
+KeyUp 44 1
+Delay 100
+KeyDown 44 1
+Delay 100
+KeyUp 44 1
+Delay 100
+KeyDown 44 1
+Delay 100
+KeyUp 44 1
+Delay 100
+KeyDown 44 1
+Delay 100
+KeyUp 44 1
+Delay 100
+KeyDown 44 1
+Delay 100
+KeyUp 44 1
+Delay 100
+Delay 3000 ms
+GoWhile 1 99999</Syntax>
+    </KeyDown>
+    <Software>Valheim</Software>
+  </DefaultMacro>
+</Root>

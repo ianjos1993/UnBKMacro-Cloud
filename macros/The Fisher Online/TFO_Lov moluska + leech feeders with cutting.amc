@@ -1,0 +1,677 @@
+<Root>
+  <DefaultMacro>
+    <Major>Обновлено от 22.02.2022г.</Major>
+    <Description>Писал специально для России (Пра). Взять в руки 3 пикера (фидера), забросить все три. Запустить макрос. Раз в 1 минуту будет выуживание и перезаброс пикеров, после 5 перезабросов откроет разделочный стол и "разберет" добытых молюсков и пиявок. И так по кругу. 
+ВАЖНО!!!:
+- перенастройте управление: 
+Достать подсак - на любую свободную клавишу (главное - убрать с пробела); 
+Взять удочку - "1", "2", "3" (первая, вторая, третья соответственно)
+Альтернативная катушка - G; 
+Альтернативная удочка - H. 
+Не успел проверить в демо версии, время закончилось. На клаве от А4Tech bloody все работает.</Description>
+    <Comment>Обновлено от 22.02.2022г.</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 225 1
+Delay 64
+KeyDown 10 1
+Delay 64
+KeyDown 11 1
+Delay 15000 ms
+KeyUp 225 1
+Delay 64
+KeyUp 10 1
+Delay 64
+KeyUp 11 1
+Delay 64
+KeyDown 44 1
+Delay 500 ms
+KeyUp 44 1
+Delay 2000 ms
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 5000 ms
+KeyDown 28 1
+Delay 64
+KeyUp 28 1
+Delay 2000 ms
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 225 1
+Delay 64
+KeyDown 10 1
+Delay 64
+KeyDown 11 1
+Delay 15000 ms
+KeyUp 225 1
+Delay 64
+KeyUp 10 1
+Delay 64
+KeyUp 11 1
+Delay 64
+KeyDown 44 1
+Delay 500 ms
+KeyUp 44 1
+Delay 2000 ms
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 5000 ms
+KeyDown 28 1
+Delay 64
+KeyUp 28 1
+Delay 2000 ms
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 225 1
+Delay 64
+KeyDown 10 1
+Delay 64
+KeyDown 11 1
+Delay 15000 ms
+KeyUp 225 1
+Delay 64
+KeyUp 10 1
+Delay 64
+KeyUp 11 1
+Delay 64
+KeyDown 44 1
+Delay 500 ms
+KeyUp 44 1
+Delay 2000 ms
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 5000 ms
+KeyDown 28 1
+Delay 64
+KeyUp 28 1
+Delay 60000 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 225 1
+Delay 64
+KeyDown 10 1
+Delay 64
+KeyDown 11 1
+Delay 15000 ms
+KeyUp 225 1
+Delay 64
+KeyUp 10 1
+Delay 64
+KeyUp 11 1
+Delay 64
+KeyDown 44 1
+Delay 500 ms
+KeyUp 44 1
+Delay 2000 ms
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 5000 ms
+KeyDown 28 1
+Delay 64
+KeyUp 28 1
+Delay 2000 ms
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 225 1
+Delay 64
+KeyDown 10 1
+Delay 64
+KeyDown 11 1
+Delay 15000 ms
+KeyUp 225 1
+Delay 64
+KeyUp 10 1
+Delay 64
+KeyUp 11 1
+Delay 64
+KeyDown 44 1
+Delay 500 ms
+KeyUp 44 1
+Delay 2000 ms
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 5000 ms
+KeyDown 28 1
+Delay 64
+KeyUp 28 1
+Delay 2000 ms
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 225 1
+Delay 64
+KeyDown 10 1
+Delay 64
+KeyDown 11 1
+Delay 15000 ms
+KeyUp 225 1
+Delay 64
+KeyUp 10 1
+Delay 64
+KeyUp 11 1
+Delay 64
+KeyDown 44 1
+Delay 500 ms
+KeyUp 44 1
+Delay 2000 ms
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 5000 ms
+KeyDown 28 1
+Delay 64
+KeyUp 28 1
+Delay 60000 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 225 1
+Delay 64
+KeyDown 10 1
+Delay 64
+KeyDown 11 1
+Delay 15000 ms
+KeyUp 225 1
+Delay 64
+KeyUp 10 1
+Delay 64
+KeyUp 11 1
+Delay 64
+KeyDown 44 1
+Delay 500 ms
+KeyUp 44 1
+Delay 2000 ms
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 5000 ms
+KeyDown 28 1
+Delay 64
+KeyUp 28 1
+Delay 2000 ms
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 225 1
+Delay 64
+KeyDown 10 1
+Delay 64
+KeyDown 11 1
+Delay 15000 ms
+KeyUp 225 1
+Delay 64
+KeyUp 10 1
+Delay 64
+KeyUp 11 1
+Delay 64
+KeyDown 44 1
+Delay 500 ms
+KeyUp 44 1
+Delay 2000 ms
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 5000 ms
+KeyDown 28 1
+Delay 64
+KeyUp 28 1
+Delay 2000 ms
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 225 1
+Delay 64
+KeyDown 10 1
+Delay 64
+KeyDown 11 1
+Delay 15000 ms
+KeyUp 225 1
+Delay 64
+KeyUp 10 1
+Delay 64
+KeyUp 11 1
+Delay 64
+KeyDown 44 1
+Delay 500 ms
+KeyUp 44 1
+Delay 2000 ms
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 5000 ms
+KeyDown 28 1
+Delay 64
+KeyUp 28 1
+Delay 60000 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 225 1
+Delay 64
+KeyDown 10 1
+Delay 64
+KeyDown 11 1
+Delay 15000 ms
+KeyUp 225 1
+Delay 64
+KeyUp 10 1
+Delay 64
+KeyUp 11 1
+Delay 64
+KeyDown 44 1
+Delay 500 ms
+KeyUp 44 1
+Delay 2000 ms
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 5000 ms
+KeyDown 28 1
+Delay 64
+KeyUp 28 1
+Delay 2000 ms
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 225 1
+Delay 64
+KeyDown 10 1
+Delay 64
+KeyDown 11 1
+Delay 15000 ms
+KeyUp 225 1
+Delay 64
+KeyUp 10 1
+Delay 64
+KeyUp 11 1
+Delay 64
+KeyDown 44 1
+Delay 500 ms
+KeyUp 44 1
+Delay 2000 ms
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 5000 ms
+KeyDown 28 1
+Delay 64
+KeyUp 28 1
+Delay 2000 ms
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 225 1
+Delay 64
+KeyDown 10 1
+Delay 64
+KeyDown 11 1
+Delay 15000 ms
+KeyUp 225 1
+Delay 64
+KeyUp 10 1
+Delay 64
+KeyUp 11 1
+Delay 64
+KeyDown 44 1
+Delay 500 ms
+KeyUp 44 1
+Delay 2000 ms
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 5000 ms
+KeyDown 28 1
+Delay 64
+KeyUp 28 1
+Delay 60000 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 225 1
+Delay 64
+KeyDown 10 1
+Delay 64
+KeyDown 11 1
+Delay 15000 ms
+KeyUp 225 1
+Delay 64
+KeyUp 10 1
+Delay 64
+KeyUp 11 1
+Delay 64
+KeyDown 44 1
+Delay 500 ms
+KeyUp 44 1
+Delay 2000 ms
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 5000 ms
+KeyDown 28 1
+Delay 64
+KeyUp 28 1
+Delay 2000 ms
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 225 1
+Delay 64
+KeyDown 10 1
+Delay 64
+KeyDown 11 1
+Delay 15000 ms
+KeyUp 225 1
+Delay 64
+KeyUp 10 1
+Delay 64
+KeyUp 11 1
+Delay 64
+KeyDown 44 1
+Delay 500 ms
+KeyUp 44 1
+Delay 2000 ms
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 5000 ms
+KeyDown 28 1
+Delay 64
+KeyUp 28 1
+Delay 2000 ms
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 225 1
+Delay 64
+KeyDown 10 1
+Delay 64
+KeyDown 11 1
+Delay 15000 ms
+KeyUp 225 1
+Delay 64
+KeyUp 10 1
+Delay 64
+KeyUp 11 1
+Delay 64
+KeyDown 44 1
+Delay 500 ms
+KeyUp 44 1
+Delay 2000 ms
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 5000 ms
+KeyDown 28 1
+Delay 64
+KeyUp 28 1
+Delay 2000 ms
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 225 1
+Delay 64
+KeyDown 10 1
+Delay 64
+KeyDown 11 1
+Delay 10000 ms
+KeyUp 225 1
+Delay 64
+KeyUp 10 1
+Delay 64
+KeyUp 11 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 2000 ms
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 5000 ms
+KeyDown 28 1
+Delay 64
+KeyUp 28 1
+Delay 60000 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 225 1
+Delay 64
+KeyDown 10 1
+Delay 64
+KeyDown 11 1
+Delay 10000 ms
+KeyUp 225 1
+Delay 64
+KeyUp 10 1
+Delay 64
+KeyUp 11 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 2000 ms
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 5000 ms
+KeyDown 28 1
+Delay 64
+KeyUp 28 1
+Delay 2000 ms
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 225 1
+Delay 64
+KeyDown 10 1
+Delay 64
+KeyDown 11 1
+Delay 10000 ms
+KeyUp 225 1
+Delay 64
+KeyUp 10 1
+Delay 64
+KeyUp 11 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 2000 ms
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 5000 ms
+KeyDown 28 1
+Delay 64
+KeyUp 28 1
+Delay 2000 ms
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 225 1
+Delay 64
+KeyDown 10 1
+Delay 64
+KeyDown 11 1
+Delay 10000 ms
+KeyUp 225 1
+Delay 64
+KeyUp 10 1
+Delay 64
+KeyUp 11 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 2000 ms
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 5000 ms
+KeyDown 28 1
+Delay 64
+KeyUp 28 1
+Delay 60000 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 225 1
+Delay 64
+KeyDown 10 1
+Delay 64
+KeyDown 11 1
+Delay 10000 ms
+KeyUp 225 1
+Delay 64
+KeyUp 10 1
+Delay 64
+KeyUp 11 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 2000 ms
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 5000 ms
+KeyDown 28 1
+Delay 64
+KeyUp 28 1
+Delay 2000 ms
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 225 1
+Delay 64
+KeyDown 10 1
+Delay 64
+KeyDown 11 1
+Delay 10000 ms
+KeyUp 225 1
+Delay 64
+KeyUp 10 1
+Delay 64
+KeyUp 11 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 2000 ms
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 5000 ms
+KeyDown 28 1
+Delay 64
+KeyUp 28 1
+Delay 2000 ms
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 225 1
+Delay 64
+KeyDown 10 1
+Delay 64
+KeyDown 11 1
+Delay 10000 ms
+KeyUp 225 1
+Delay 64
+KeyUp 10 1
+Delay 64
+KeyUp 11 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 2000 ms
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 5000 ms
+KeyDown 28 1
+Delay 64
+KeyUp 28 1
+Delay 2000 ms
+KeyDown 6 1
+Delay 64
+KeyUp 6 1
+Delay 2000 ms
+MoveTo 79 387
+Delay 1000 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1000 ms
+MoveTo 120 158
+Delay 1000 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1000 ms
+MoveTo 103 104
+Delay 1000 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 10000 ms
+MoveTo 108 225
+Delay 1000 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1000 ms
+MoveTo 93 103
+Delay 1000 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 10000 ms
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 40000 ms</Syntax>
+    </KeyDown>
+    <Software>The Fisher Online</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос предназначен для игры Roblox "Паркур".
+Это позволит вам укреплять стены с низкой MS (более высокой высотой).
+
+!!Предупреждение!!
+Вас могут забанить за это, так что используйте на свой страх и риск!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 1 ms
+KeyUp 44 1
+Delay 1 ms
+KeyDown 44 1
+Delay 1 ms
+KeyUp 44 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

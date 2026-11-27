@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>#КРИСТАЛИКС #СКОТОБОЙНЯ #КЛИКЕР. Кликер с функцикй нажатия G. для чего нужен? для тех, кто устал фармить мобов на скотобойне на кристаликсе и нажимать эту G. Работает в этом вайпе.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 3 ms
+LeftUp 1
+Delay 3 ms
+LeftDown 1
+Delay 3 ms
+LeftUp 1
+Delay 3 ms
+KeyDown 10 1
+Delay 3 ms
+KeyUp 10 1
+Delay 3 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

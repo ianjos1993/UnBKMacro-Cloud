@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major>638</Major>
+    <Description>Устанавливаем нужные умения во внутреигровой макрос билдим на клавишу [ 1 ] ,  сбор ресурсов силдим на клавишу [ f4 ]
+Для максимальной пользы встаем на точку респа мобов одев предварительно хирки на МP и HP
+Радуемся   жизни!
+Удачной игры ))</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 58 1
+Delay 64
+KeyUp 58 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+GoWhile 1 1200000</Syntax>
+    </KeyDown>
+    <Software>Perfect World</Software>
+  </DefaultMacro>
+</Root>

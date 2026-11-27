@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>BM Draw Stance </Major>
+    <Description>BM Draw Stance Knockdown Rotation
+
+This macro works when you are in "Draw Stance" and when party needed knockdown on boss, quickly switch "Draw Stance" to "Basic Stance" knockdown to boss and quickly come back to "Draw Stance" again.
+
+Enjoy!</Description>
+    <Comment>https://keyran.net - Free macros download </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 100 ms
+KeyUp 8 1
+Delay 120 ms
+KeyDown 32 1
+Delay 100 ms
+KeyUp 32 1
+Delay 100 ms
+KeyDown 20 1
+Delay 100 ms
+KeyUp 20 1
+Delay 120 ms
+KeyDown 43 1
+Delay 100 ms
+KeyUp 43 1
+Delay 100 ms</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

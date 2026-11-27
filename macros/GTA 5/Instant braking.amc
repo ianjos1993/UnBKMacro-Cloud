@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>Моментальное торможение </Major>
+    <Description>Если вы не знали что есть такой баг на GTA5RP, если на высокой скорости нажать alt+F4, потом нажать Esc 
+То вы быстро остановитесь на машине 
+
+Этот скрипт работает по той же логике, только делает он это гораздо быстрее 
+
+Просто биндите его на любую клавишу и всё</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 226 1
+KeyDown 61 1
+Delay 32 ms
+KeyUp 226 1
+KeyUp 61 1
+Delay 32 ms
+KeyDown 41 1
+Delay 64 ms
+KeyUp 41 1</Syntax>
+    </KeyDown>
+    <Software>GTA V</Software>
+  </DefaultMacro>
+</Root>

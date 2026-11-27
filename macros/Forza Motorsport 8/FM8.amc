@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Forza motorsport 8, сам нажимает на клавиши, так же убирает окно о бездейсвтие ( из за нажатие одной клавиши) </Description>
+    <Comment>Forza motorpsort фарм без вылетов гарантированный</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 5 min
+KeyUp 26 1
+Delay 64
+KeyDown 26 1
+Delay 10 min
+KeyUp 26 1
+Delay 64
+KeyDown 22 1
+Delay 500 ms
+KeyUp 22 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Forza motorsport 8</Software>
+  </DefaultMacro>
+</Root>

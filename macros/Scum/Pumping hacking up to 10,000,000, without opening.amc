@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Прокачка взлома до 10 000 000 без вскрытия замка. Особенность макроса в том что он не вскрывает замок во время прокачки, и персонаж не начинает бесконечно прыгать. Настроен так что он и имитирует поворот мыши. </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 24 ms
+KeyUp 44 1
+Delay 24 ms
+MoveTo 1916 506
+MoveR -1657 -28
+MoveTo 1919 276
+MoveR -1657 -28
+MoveTo 0 372
+MoveR -1657 -28
+KeyDown 9 1
+Delay 130 ms
+KeyUp 9 1
+Delay 55 ms</Syntax>
+    </KeyDown>
+    <Software>Scum</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Короч, макрос довольно крутой. С ним можно фармить очки "Times piayed" и "Time played" в игре "SAW X: Survive the Obby". АФК фарм для получение предметов. 
+Система у макроса простая, пару циков на продвижение вперед и и ресет на случай промаха или повернутой в стену камеры. 
+Клавиша активации макроса 9</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 1211 ms
+KeyUp 26 1
+Delay 21 s
+KeyDown 26 1
+Delay 1211 ms
+KeyUp 26 1
+Delay 21 s
+KeyDown 26 1
+Delay 1211 ms
+KeyUp 26 1
+Delay 21 s
+KeyDown 26 1
+Delay 1211 ms
+KeyUp 26 1
+Delay 21 s
+KeyDown 41 1
+Delay 111 ms
+KeyUp 41 1
+Delay 2111 ms
+KeyDown 21 1
+Delay 111 ms
+KeyUp 21 1
+Delay 2111 ms
+KeyDown 88 1
+Delay 111 ms
+KeyUp 88 1
+Delay 6 s</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>auto open in  fruit battle graund ( open for 50 gems), necessary DPI 1150
+
+IMPORTANT
+Auto open works only in full screen
+you need to press f11 to make the game frames disappear</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1085 853
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1071 993
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

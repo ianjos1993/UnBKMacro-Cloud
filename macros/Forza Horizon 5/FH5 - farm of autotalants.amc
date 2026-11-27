@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Фарм очков автоталантов.
+1. Берем авто с фулл прокачкой талантов - Lamborghini Sesto elemento FE 2011
+2. настройка сложности с 1 по 10 пункт: Непобедимый,Индивидуальный,Помощь,Авторуление,ВКЛ,ВКЛ,Автоматическое,Вся трасса, НЕТ,ВКЛ.
+3. в настройках управления ставим газ на Пробел - Space
+4.Заходим в гонку в Творчиский центр в Event Lab - cхемы заездов - и в поиске вводим код 743324179 -название у трассы будет 10 SP IN 30S AUTO 3.0 заходим , у вас появится страт заезда, после переходим в кейран - нажимаем на Тест кнопку , быстро обратно в игру и нажимаем в игре начать гонку, и все после этого ничего не трогаем, и можем идти заниматсья своими делами!</Description>
+    <Comment>P.S можно подарочек к ДР к 3 декабрю пожалуйста, продлить деньков на 5 лицензию. Буду вам очень благодарен)
+
+https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 32 s
+KeyUp 44 1
+Delay 15 s
+KeyDown 27 1
+Delay 64
+KeyUp 27 1
+Delay 1 s
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 8 s
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 5 s
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Forza Horizon 5</Software>
+  </DefaultMacro>
+</Root>

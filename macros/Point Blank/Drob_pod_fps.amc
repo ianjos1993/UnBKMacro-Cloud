@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Доработка на более быстрый прокрут!
+Макрос на дробовик,крyтит через qq,этот макрос подходит для мониторов свыше 75hz,качайте макрос и разносите весь паблик)Хорошей игры
+1920х1080 разрешение экрана
+800dpi
+0.1 сенс в игре</Description>
+    <Comment>Всем yдачи!)
+</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 20 ms
+LeftUp 1
+Delay 3 ms
+KeyDown 20 1
+Delay 7 ms
+KeyUp 20 1
+Delay 3 ms
+KeyDown 20 1
+Delay 7 ms
+KeyUp 20 1
+Delay 439 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

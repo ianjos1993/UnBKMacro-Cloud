@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>Hypixel skyblock</Major>
+    <Description>This macro is a updated version of 'Hypixel macro V1'. The macro is optimized for a vertical farm and the use of 180 speed. Crops I recommend using this macro for are wheat, carrot and warts.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+LeftDown 1
+Delay 23 s
+KeyUp 7 1
+KeyDown 4 1
+Delay 23 s
+KeyUp 4 1
+LeftUp 1
+GoWhile 1 1000</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

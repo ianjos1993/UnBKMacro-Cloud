@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>superglide if your crouch isn't on shift you can chance it and you have to try it out so you get use to it </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 4 ms
+KeyDown 225 1
+Delay 4 ms
+KeyUp 225 1
+Delay 4 ms
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

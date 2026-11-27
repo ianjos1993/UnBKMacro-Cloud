@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простой макрос на использование Авто +С для сампа, если тяжело самому делать +С из за трудностей в скилле, не знаю кому он понадобится, лучше научится самому ;)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 20 ms
+LeftDown 1
+Delay 20 ms
+LeftUp 1
+Delay 20 ms
+RightUp 1
+Delay 20 ms
+KeyDown 4 1
+Delay 20 ms
+KeyUp 4 1
+Delay 20 ms
+KeyDown 6 1
+Delay 20 ms
+KeyUp 6 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

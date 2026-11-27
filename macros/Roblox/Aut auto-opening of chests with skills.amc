@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>Автономное открытие кейсов в AUT</Major>
+    <Description>Биндишь на любую удобную клавишу, ставишь работать до повторного нажатия клавиши, открываешь окно с кейсами запускаешь и кайфуешь (Разрешение 1920 x1080)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1146 874
+Delay 64
+MoveTo 955 645
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+MoveTo 1146 874
+Delay 64
+MoveTo 955 645
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макросс позволяет автоматизировать фарм мобов в любом месте.
+1) Ставим скиллы для массовых атак на 1 и 2
+2) Ставим зелья на ОЗ (здоровье) и ОМ (мана)
+3) Встаем на нужное место
+4) Наслаждаемся жизнью</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+//Используем 1 скилл
+Delay 0 500 ms
+KeyUp 30 1
+Delay 0 500 ms
+KeyDown 31 1
+//Используем 2 скилл
+Delay 0 500 ms
+KeyUp 31 1
+Delay 0 500 ms
+KeyDown 37 1
+//Пополняем ОЗ
+Delay 0 300 ms
+KeyUp 37 1
+Delay 0 300 ms
+KeyDown 38 1
+//Пополняем ОМ
+Delay 0 300 ms
+KeyUp 38 1
+Delay 0 300 ms</Syntax>
+    </KeyDown>
+    <Software>Blood and soul</Software>
+  </DefaultMacro>
+</Root>

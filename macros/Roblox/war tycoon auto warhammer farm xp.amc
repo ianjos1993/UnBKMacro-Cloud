@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>*MUST HAVE ALT* Set up your alt account on your chosen device, then spawn in your alt account on a server. I would use a private server if your going to be AFK long. On the alt account turn off your base protection shield and respawn. *YOU MUST HAVE NO WALLS ON BASE* If you have walls rebirth. Then go back to your main devise on the account your getting xp on. Go to a position where your cannons can hit the player and leave your cursoe there. The script will auto bring the drifting ship down as it fires. it will stop firing when player dies after 6 sec. it will wait 22 sec after to wait out the spawn protection on the alt account and reload the cannons in the process. i added a loop to the script. be sure to have pause and resume set up.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+LeftDown 1
+Delay 6 s
+LeftUp 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 22 s
+GoWhile 1 50000</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major>macro ak47 with holo</Major>
+    <Description>this is the best macro for ak 47 with holo
+sens 0.6
+dpi 1400
+fov90
+1920 x 1080
+just try it and enjoy the best macro for ak47</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+MoveR 2 -43
+Delay 64
+MoveR 1 -37
+Delay 64
+MoveR 4 -41
+Delay 64
+MoveR 3 -41
+Delay 64
+MoveR 1 -39
+Delay 64
+MoveR 2 -43
+Delay 64
+MoveR 1 -43
+Delay 64
+MoveR 1 -39
+Delay 64
+MoveR -1 -42
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

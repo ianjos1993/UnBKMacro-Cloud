@@ -1,0 +1,86 @@
+<Root>
+  <DefaultMacro>
+    <Major>Leo Combo 1</Major>
+    <Description>Макрос позволяет выполнять комбо за Leo.
+Видео демонстрации работы макроса: https://youtu.be/Dbvr5kgaK10
+
+Лео Клисен — персонаж из серии файтингов Tekken от Namco. Лео был одним из новичков, впервые представленных в Tekken 6, и возвращался во всех последующих играх. Лео родом из Германии и использует боевой стиль Баджи Цюань. Лео родился в семье Никласа Клизена, всемирно известного спелеолога и археолога, и Эммы Клисен, генетика, работавшей сначала на Мисима Дзайбацу, а затем на G Corporation в качестве исследователя и руководителя. 
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 21.06.2024
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ.
+
+#Leotekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 7 ms
+KeyDown 4 1
+Delay 8 ms
+KeyDown 76 1
+Delay 160 ms
+KeyUp 76 1
+Delay 79 ms
+KeyUp 22 1
+Delay 15 ms
+KeyUp 4 1
+Delay 112 ms
+KeyDown 74 1
+Delay 536 ms
+KeyDown 7 1
+Delay 55 ms
+KeyUp 7 1
+Delay 79 ms
+KeyDown 7 1
+Delay 103 ms
+KeyUp 7 1
+Delay 40 ms
+KeyDown 76 1
+Delay 80 ms
+KeyUp 76 1
+Delay 47 ms
+KeyUp 74 1
+Delay 679 ms
+KeyDown 74 1
+Delay 456 ms
+KeyDown 7 1
+Delay 71 ms
+KeyUp 7 1
+Delay 95 ms
+KeyDown 7 1
+Delay 104 ms
+KeyUp 7 1
+Delay 71 ms
+KeyDown 89 1
+Delay 80 ms
+KeyUp 89 1
+Delay 455 ms
+KeyUp 74 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

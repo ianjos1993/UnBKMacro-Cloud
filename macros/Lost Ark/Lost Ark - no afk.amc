@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>No AFK</Major>
+    <Description>The macro will repeteadly move you (barely) every 5 minutes so you can dodge the afk timer. It might seem like you don't move at all but in reality it makes you start moving in a direction and then back to the initial spot very fast so you dont start running in a wall endlessly (which might look suspicious and get you reported by other players).</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1194 524
+RightDown 1
+RightUp 1
+MoveTo 953 536
+RightDown 1
+RightUp 1
+Delay 300000 ms
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Lost Ark</Software>
+  </DefaultMacro>
+</Root>

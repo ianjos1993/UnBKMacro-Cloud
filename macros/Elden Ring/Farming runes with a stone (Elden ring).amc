@@ -1,0 +1,93 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для авто фарма рун в начале игры.
+Для работы макроса требуется поставить 2 к разрешение в игре.
+Макрос использует только клавиатуру поэтому во время его работы не следует трогать мышь.
+Перед запуском макроса нужно телепортироваться на костер "Башня Ленне"
+Этот способ фарма рун приносит около 200000-250000 рун в час. Для лучшего заработка желательно наличие золотого скарабея.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 8 s
+KeyDown 21 1
+Delay 105 ms
+KeyUp 21 1
+Delay 1061 ms
+KeyDown 7 1
+Delay 1582 ms
+KeyDown 225 1
+Delay 591 ms
+KeyDown 26 1
+Delay 511 ms
+KeyUp 7 1
+Delay 121 ms
+KeyDown 4 1
+Delay 192 ms
+KeyUp 4 1
+Delay 530 ms
+KeyDown 4 1
+Delay 134 ms
+KeyUp 4 1
+Delay 2296 ms
+KeyDown 4 1
+Delay 10 ms
+KeyUp 4 1
+Delay 540 ms
+KeyDown 4 1
+Delay 117 ms
+KeyUp 4 1
+Delay 1506 ms
+KeyDown 7 1
+Delay 97 ms
+KeyUp 7 1
+Delay 3101 ms
+KeyDown 7 1
+Delay 318 ms
+KeyUp 7 1
+Delay 235 ms
+KeyDown 7 1
+Delay 148 ms
+KeyUp 26 1
+Delay 753 ms
+KeyDown 26 1
+Delay 116 ms
+KeyUp 7 1
+Delay 409 ms
+KeyDown 7 1
+Delay 1782 ms
+KeyUp 7 1
+Delay 531 ms
+KeyUp 225 1
+Delay 165 ms
+KeyUp 26 1
+Delay 1458 ms
+KeyDown 10 1
+Delay 180 ms
+KeyUp 10 1
+Delay 512 ms
+KeyDown 7 1
+Delay 119 ms
+KeyUp 7 1
+Delay 2091 ms
+RightDown 1
+Delay 101 ms
+RightUp 1
+Delay 840 ms
+KeyDown 8 1
+Delay 90 ms
+KeyUp 8 1
+Delay 570 ms
+KeyDown 8 1
+Delay 59 ms
+KeyUp 8 1
+GoWhile 1 9999999</Syntax>
+    </KeyDown>
+    <Software>Elden Ring</Software>
+  </DefaultMacro>
+</Root>

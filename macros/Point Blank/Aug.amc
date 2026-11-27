@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на отдачу в игре Point Blank. Если есть возможность ставить перку "скорострел +4". Макрос ставится на ЛКМ. Если есть вопросы, сюда - vk.com/r_mikailov
+
+P.S сделал тут видосик как пользоваться чекни - https://clck.ru/UCdrK</Description>
+    <Comment>h</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 22 ms
+LeftUp 1
+Delay 2 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

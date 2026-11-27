@@ -1,0 +1,124 @@
+<Root>
+  <DefaultMacro>
+    <Major>Gloria Buff Automation</Major>
+    <Description>Macro Name: Eternal Blessing – Gloria Buff Automation
+
+
+
+Purpose:
+The Gloria skill is a game-changer in Ragnarok Online, providing a massive boost of +30 LUK to the caster and all party members. LUK is a crucial stat that enhances various aspects of gameplay, including:
+
+
+Critical Rate: Increases the chance to land critical hits.
+
+Accuracy: Improves the ability to hit targets.
+
+Physical and Magical Attack: Boosts overall damage output.
+
+Dodge: Increases the chance to evade attacks.
+
+Success Rates: Enhances probabilities for potion creation, item crafting, and other skills reliant on LUK.
+
+
+However, the short duration of 30 seconds, even at Level 5, makes manual reapplication tedious during intense gameplay. This macro automates the process, ensuring Gloria is active consistently, with an interval of 20 seconds when set to Level 3. 
+
+Adjust the interval based on your preferred skill level.
+
+
+
+Supported Job Classes:
+Acolyte
+Priest
+High Priest
+Arch Bishop
+Cardinal
+
+
+Skill Details:
+Skill Name: Gloria
+
+Key Assignment: S
+
+
+Level 3 Interval: 20 seconds (Recommended
+)
+Duration at Level 5: 30 seconds
+
+
+Effect: Boosts LUK by 30 for all party members within range.
+
+
+Optimal Gameplay Scenarios:
+
+Party Buffing: Essential for parties relying on critical hits, high accuracy, and crafting-related success rates.
+
+PvP and Guild Wars: Critical for burst damage setups, ensuring consistent critical hits and dodge capabilities.
+
+Boss Hunts and Raids: Enhances the effectiveness of DPS and support roles alike, maximizing critical damage potential.
+
+Crafting Sessions: Perfect for Alchemists, Blacksmiths, and others who need a LUK boost for item creation.
+
+
+Technical Settings:
+Screen Resolution:
+
+Set the resolution to 1600 x 900 for precise macro alignment.
+
+Game Window Placement:
+
+Position the Ragnarok Online game window at the top-left corner of your screen for proper detection of skill bars and party visuals.
+
+Skill Assignment:
+
+Assign the Gloria skill to the S key in your shortcut bar.
+
+Macro Setup in Keyran:
+
+Load the macro into Keyran.
+Assign the hotkey for the macro.
+
+Set the Operating Mode to "Run indefinitely" with a skill interval of 20 seconds for Level 3. 
+Adjust the interval to match the duration of your Gloria skill if using other levels.
+
+Macro Behavior:
+Once activated, the macro will:
+
+
+Recast Gloria every 20 seconds (or your preferred interval) to maintain continuous uptime.
+
+Automatically monitor and reapply the skill, ensuring no lapse in LUK buffing for you and your party.
+
+Operate seamlessly in the background, allowing you to focus on healing, attacking, or managing other tasks.
+
+
+Advanced Features:
+Interval Adjustment: Customize the recast interval based on your Gloria skill level (e.g., 15 seconds for Level 2, 25 seconds for Level 4).
+
+Party Range Detection: Automatically ensures all party members are within range before casting.
+
+Cooldown Awareness: Prevents the macro from recasting too early, preserving SP efficiency.
+
+
+Future Updates:
+Multi-Buff Integration: Combine Gloria with other support buffs like Blessing and Increase Agility for full-party optimization.
+Dynamic Party Synergy: Prioritize LUK boosts for crafting-centric or critical hit-heavy setups.
+
+Acknowledgments:
+
+Thank you, Keyran, for revolutionizing the way we play Ragnarok Online! With this macro, tedious tasks like reapplying Gloria become a breeze, giving players more time to focus on the joy of the game.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 114 ms
+KeyUp 22 1
+Delay 19338 ms</Syntax>
+    </KeyDown>
+    <Software>ragnarok online</Software>
+  </DefaultMacro>
+</Root>

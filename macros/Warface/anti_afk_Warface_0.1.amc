@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Это самый обычный анти афк для игры warface, с нима можно отходя куда либо не беспокоиться о возможном исключении за афк.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 4022 ms
+KeyDown 26 1
+Delay 91 ms
+KeyUp 26 1
+Delay 255 ms
+KeyDown 25 1
+Delay 96 ms
+KeyUp 25 1
+Delay 1120 ms
+KeyDown 44 1
+Delay 63 ms
+KeyUp 44 1
+Delay 705 ms
+KeyDown 26 1
+Delay 126 ms
+KeyUp 26 1
+Delay 352 ms
+KeyDown 25 1
+Delay 87 ms
+KeyUp 25 1
+Delay 391 ms
+KeyDown 44 1
+Delay 88 ms
+KeyUp 44 1
+Delay 865 ms
+LeftDown 1
+Delay 84 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Warface</Software>
+  </DefaultMacro>
+</Root>

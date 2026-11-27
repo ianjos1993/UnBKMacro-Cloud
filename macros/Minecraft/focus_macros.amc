@@ -1,0 +1,57 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для omega 1.7.10 , RpgWorld (исключительно для него писал там) попробовал новый формат макроса . и получилось что получилось убиваю пб в халке в яме и норм , 18 кпс ударов и 7-8 хила , впринципе норма , пробуйте)
+1 - меч
+3 - фрост</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 1 ms
+LeftUp 1
+KeyDown 30 1
+KeyUp 30 1
+RightDown 1
+Delay 8 ms
+LeftDown 1
+LeftUp 1
+Delay 3 ms
+LeftDown 1
+LeftUp 1
+RightDown 1
+Delay 13 ms
+Delay 19 ms
+RightUp 1
+Delay 9 ms
+LeftDown 1
+Delay 6 ms
+LeftUp 1
+Delay 6 ms
+Delay 8 ms
+LeftDown 1
+Delay 8 ms
+LeftUp 1
+RightDown 1
+LeftUp 1
+KeyDown 32 1
+Delay 1 ms
+KeyUp 32 1
+Delay 1 ms
+RightDown 1
+Delay 8 ms
+Delay 7 ms
+LeftDown 1
+Delay 17 ms
+Delay 14 ms
+SayString 
+SayString </Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

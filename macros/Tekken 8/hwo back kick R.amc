@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major>Jin Kazama combo 2</Major>
+    <Description>A wall carry kick for howarang after launching an opponet 
+
+Square = u 
+triangle = i 
+x = j 
+circle = k
+w = Up
+s = down
+d = forward
+a = backwards 
+N = heat 
+O = u and i Together
+L = X and circle together</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 16 ms
+KeyDown 7 1
+Delay 16 ms
+KeyDown 15 1
+Delay 16 ms
+KeyUp 7 1
+KeyUp 26 1
+KeyUp 15 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,57 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Pupkin/melon farm 5 plot in the garden. You have to start the macro on the left side. You have to set your speed on 157.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+KeyDown 7 1
+Delay 70800 ms
+KeyUp 7 1
+Delay 64
+KeyDown 20 1
+Delay 70800 ms
+KeyUp 20 1
+Delay 64
+KeyDown 7 1
+Delay 70800 ms
+KeyUp 7 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 29 1
+Delay 1700 ms
+KeyUp 29 1
+Delay 64
+LeftDown 1
+Delay 64
+KeyDown 20 1
+Delay 70800 ms
+KeyUp 20 1
+Delay 64
+KeyDown 7 1
+Delay 70800 ms
+KeyUp 7 1
+Delay 64
+KeyDown 20 1
+Delay 70800 ms
+KeyUp 20 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 29 1
+Delay 1500 ms
+KeyUp 29 1
+Delay 64
+GoWhile 1 7</Syntax>
+    </KeyDown>
+    <Software>Skyblock Hypixel</Software>
+  </DefaultMacro>
+</Root>

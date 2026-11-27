@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для пвп,подходит для hcs 
+В 1 слот нужно положить меч
+В 3 слот нужно фрост,масик
+Играем,получаем удовольствие!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 1
+KeyUp 30 1
+Delay 1
+LeftDown 1
+Delay 9
+LeftUp 1
+Delay 9
+LeftDown 1
+Delay 7
+LeftUp 1
+Delay 7
+LeftDown 1
+Delay 5
+LeftUp 1
+Delay 5
+LeftDown 1
+Delay 3
+LeftUp 1
+Delay 3
+KeyDown 32 1
+Delay 1
+KeyUp 32 1
+Delay 1
+RightDown 1
+Delay 14
+RightUp 1
+Delay 14
+RightDown 1
+Delay 15
+RightUp 1
+Delay 15</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

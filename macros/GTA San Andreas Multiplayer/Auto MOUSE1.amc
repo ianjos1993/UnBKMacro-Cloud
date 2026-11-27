@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный скрипт поможет вам пройти последний квест на Arizona, а именно квест с ловиной
+Он сам кликает на левую кнопку мыши, вам больше не надо ломать мышку и покупать новую.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 100 ms
+GoWhile 1 9900000</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

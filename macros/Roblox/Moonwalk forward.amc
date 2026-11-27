@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major>Violence District</Major>
+    <Description>Forward Moonwalk Macro for Violence District.
+
+This macro is designed to perform a smooth forward moonwalk movement by automating precise key timings and directional inputs. It helps create consistent movement patterns that are difficult to replicate manually, allowing for cleaner loops, smoother jukes, and more controlled movement around killers. Works best when combined with good positioning and game sense. Adjust delays if needed to match your FPS, keyboard response, or personal preference. Use responsibly and at your own discretion.
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 67 ms
+KeyUp 4 1
+Delay 2 ms
+KeyDown 7 1
+Delay 67 ms
+KeyUp 7 1
+Delay 2 ms
+KeyDown 26 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос поможет совершить рывок с копьём в версии Minecraft 1.21.11.
+
+Для его работы необходимо выполнить следующие условия:
+
+1)Во втором слоте должна находиться рука или предмет, не имеющий большой перезарядки.
+
+2)Копьё должно быть в седьмом слоте.
+
+3)Перед нажатием кнопки макроса нужно переключиться на второй слот.
+
+4)На копье обязательно должно быть зачарование «Рывок».</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyDown 36 1
+Delay 1 ms
+KeyUp 36 1
+Delay 64 ms
+KeyDown 31 1
+Delay 64 ms
+KeyUp 31 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

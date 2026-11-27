@@ -1,0 +1,180 @@
+<Root>
+  <DefaultMacro>
+    <Major>DPI 2400, верт.синхр OFF</Major>
+    <Description>Макрос для Glock 17 без автоматического огня( можно получить из оружейных контейнеров).
+
+Для того чтобы макрос функционировал корректно, выполните следующие условия:
+- Отключите вертикальную синхронизацию.
+- Установите разрешение игры на 1920 x 1080.
+- Параметр чувствительности в игре должен быть установлен на 50.0.
+
+Также обязательно активируйте у оперативника Вагабонд навык «чувствительный спусковой крючок» для достижения наилучших результатов.
+
+Предназначен ТОЛЬКО для Glock 17, при нажатии на ЛКМ пистолет начнет стрелять в "автоматическом" режиме, после повторого нажатия на ЛКМ пистолет перестанет стрелять. Корректно только от первого лица. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 6 ms
+LeftUp 1
+Delay 6 ms
+LeftDown 1
+Delay 6 ms
+LeftUp 1
+Delay 6 ms
+LeftDown 1
+Delay 6 ms
+LeftUp 1
+Delay 6 ms
+LeftDown 1
+Delay 6 ms
+MoveR 2 0
+Delay 6 ms
+LeftUp 1
+Delay 6 ms
+MoveR 2 1
+Delay 6 ms
+MoveR 3 2
+Delay 6 ms
+MoveR 1 1
+Delay 6 ms
+MoveR 1 1
+Delay 6 ms
+LeftDown 1
+Delay 6 ms
+MoveR 0 2
+Delay 6 ms
+LeftUp 1
+Delay 6 ms
+MoveR 0 2
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 2
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+LeftDown 1
+Delay 6 ms
+MoveR 0 2
+Delay 6 ms
+MoveR 1 1
+Delay 6 ms
+MoveR 1 1
+Delay 6 ms
+LeftUp 1
+Delay 6 ms
+MoveR 1 1
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 1
+Delay 6 ms
+MoveR 0 2
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+LeftDown 1
+Delay 6 ms
+MoveR 0 2
+Delay 6 ms
+LeftUp 1
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 2
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 2
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 2
+Delay 6 ms
+LeftDown 1
+Delay 6 ms
+MoveR 1 1
+Delay 6 ms
+LeftUp 1
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 2
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 2
+Delay 6 ms
+MoveR 0 2
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 2
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR -1 2
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+LeftDown 1
+Delay 6 ms
+LeftUp 1
+Delay 6 ms
+MoveR -1 1
+Delay 6 ms
+MoveR -2 2
+Delay 6 ms
+LeftDown 1
+Delay 6 ms
+LeftUp 1
+Delay 6 ms
+LeftDown 1
+Delay 6 ms
+LeftUp 1
+Delay 6 ms
+LeftDown 1
+Delay 6 ms
+LeftUp 1
+Delay 6 ms
+LeftDown 1
+Delay 6 ms
+LeftUp 1
+Delay 6 ms
+LeftDown 1
+Delay 6 ms
+LeftUp 1
+Delay 6 ms
+LeftDown 1
+Delay 6 ms
+LeftUp 1
+Delay 6 ms
+LeftDown 1
+Delay 6 ms
+LeftUp 1
+Delay 6 ms
+LeftDown 1
+Delay 6 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Caliber</Software>
+  </DefaultMacro>
+</Root>

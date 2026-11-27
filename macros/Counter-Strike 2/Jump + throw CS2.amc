@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>first of all bind ur jump key to scroll wheel down or u can use spacebar with this macro
+just bind this key to spacebar
+important notes :
+if you usually bind jump to scroll wheel down, dont use the macro to spacebar key, it cause ur gameplay try to bind to another key
+
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 20
+KeyUp 44 1
+Delay 20
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 4 ms</Syntax>
+    </KeyDown>
+    <Software>Counter-Strike 2</Software>
+  </DefaultMacro>
+</Root>

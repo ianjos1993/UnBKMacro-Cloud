@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос создан для облегчения прокачки в игре Dragon Ball Evolution на платформе Roblox.
+Cуть данного макроса заключается в том что он использует атаку( рекомендую kienzan ) и после восстанавливает энергию.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 2 s
+KeyDown 27 1
+Delay 10 s
+KeyUp 27 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

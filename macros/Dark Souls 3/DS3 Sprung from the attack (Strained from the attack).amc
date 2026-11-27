@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос выполняет прыжковую атаку (SHIFT+W+ЛКМ)
+Очень полезен в пвп особенно когда спарировал и нанёс рипост
+Лучший бинд на боковую клавишу мышки, желательно на верхнюю.
+English
+This macro performs a jumping attack(SHIFT+W+LEFT MOUSE BUTTON)
+Very useful in pvp especially when parried and reposted
+
+The best bind is on the side mouse button, preferably on the top.
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+KeyDown 26 1
+LeftDown 1
+Delay 61 ms
+Delay 62 ms
+Delay 63 ms
+KeyUp 225 1
+KeyUp 26 1
+LeftUp 1
+Delay 71 ms
+Delay 72 ms
+Delay 73 ms</Syntax>
+    </KeyDown>
+    <Software>Dark Souls 3</Software>
+  </DefaultMacro>
+</Root>

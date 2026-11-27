@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всем привет!
+На связи Uninon, Выкатил обновление для Kar98, 
+Список изменений:
+Поменял тайминги.
+Улучшил цикл
+Улучшил скорость стрельбы
+УЛучшил скорость открытия прицела и нажатия 3-1.
+by uniOn scripts</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 22 ms
+LeftUp 1
+KeyDown 32 1
+Delay 22 ms
+KeyUp 32 1
+KeyDown 30 1
+Delay 22 ms
+KeyUp 30 1
+Delay 114 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

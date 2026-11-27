@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Стандартная чувствительность, макрос для контроля ищейки при стрельбе очередью в Apex Legends_____________</Description>
+    <Comment>www.goodman.expert
+</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>
+LeftDown 1	
+Delay 90 ms
+LeftUp 1
+Delay 90 ms
+MoveR 0 20
+LeftDown 1	
+Delay 90 ms
+LeftUp 1
+Delay 90 ms
+MoveR 0 10
+LeftDown 1	
+Delay 90 ms
+LeftUp 1
+Delay 90 ms
+MoveR 0 5
+LeftDown 1	
+Delay 90 ms
+LeftUp 1
+Delay 90 ms
+MoveR 0 0
+
+</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

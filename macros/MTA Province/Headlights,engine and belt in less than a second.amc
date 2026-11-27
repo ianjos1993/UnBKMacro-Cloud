@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>Ivanushka001</Major>
+    <Description>Устали от постоянных нажатий на клавишы для застёгивания ремня, заведения двигателя и включения фар? 
+Представляю Вам специальный макрос делающий все это менее чем за секунду!
+
+При посадке в авто вам нужно будет просто нажать комбинацию клавиш для активации макроса!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 10 ms
+KeyDown 29 1
+Delay 20 ms
+KeyUp 29 1
+Delay 20 ms
+KeyDown 5 1
+Delay 20 ms
+KeyUp 5 1
+Delay 20 ms
+KeyDown 15 1
+Delay 20 ms
+KeyUp 15 1
+Delay 20 ms
+KeyDown 15 1
+Delay 20 ms
+KeyUp 15 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

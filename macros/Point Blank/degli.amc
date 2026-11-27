@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Дуалі тащат, розорви пукан врагам с правой и лефой кнопки міши одновременно х2 дуалы в теме ФЦавФА       </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 24 ms
+LeftUp 1
+KeyDown 32 1
+Delay 24 ms
+KeyUp 32 1
+KeyDown 31 1
+Delay 24 ms
+KeyUp 31 1
+Delay 30 ms
+Delay 395 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

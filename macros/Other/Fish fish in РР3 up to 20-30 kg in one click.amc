@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Вываживание рыбы до 30-ти кг. одним нажатием клавиши. Подойдет идеально для фарма БОЛЬШОГО ЖИВЦА и много другого. Не нужно тыка поочередно G и H. Также хорошо себя показывает для квестов классических,где нужно быстро доставать рыбу,больше шансов достать нужный вес.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+Delay 64
+KeyUp 10 1
+Delay 64
+KeyDown 11 1
+Delay 64
+KeyUp 11 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Другие</Software>
+  </DefaultMacro>
+</Root>

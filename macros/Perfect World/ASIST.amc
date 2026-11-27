@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Вспомогательная атака.
+Бытрый Доступ к Пункту 7 Меняем на Q
+Бытрый Доступ к Пункту 8 Меняем на E
+Бытрый Доступ к Пункту 9 Меняем на F8
+Панель быстрого доступа (1) Меняем на =
+И все должно заработать!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 67 1
+KeyUp 67 1
+KeyDown 65 1
+KeyUp 65 1</Syntax>
+    </KeyDown>
+    <Software>Perfect World</Software>
+  </DefaultMacro>
+</Root>

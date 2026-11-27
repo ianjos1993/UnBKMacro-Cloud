@@ -1,0 +1,53 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This marco is made for hypixel skyblock farming sugar cane.
+You need to:
+1. full squash armour
+2. god potion
+3. set your look at 135 yaw
+4. set your garden warp to C button</Description>
+    <Comment>https://keyran.net - Free macros download</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 22 1
+Delay 41500 ms
+KeyUp 22 1
+KeyDown 7 1
+Delay 41500 ms
+KeyUp 7 1
+KeyDown 22 1
+Delay 41500 ms
+KeyUp 22 1
+KeyDown 7 1
+Delay 41500 ms
+KeyUp 7 1
+KeyDown 22 1
+Delay 41500 ms
+KeyUp 22 1
+KeyDown 7 1
+Delay 41500 ms
+KeyUp 7 1
+KeyDown 22 1
+Delay 41500 ms
+KeyUp 22 1
+KeyDown 7 1
+Delay 41500 ms
+KeyUp 7 1
+KeyDown 22 1
+Delay 41500 ms
+KeyUp 22 1
+KeyDown 6 1
+Delay 1000 ms
+KeyUp 6 1
+GoWhile 1 999</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Сильный макрос на дойку коров на гта5рп, определяет сам настроение коровы, идеально и быстро доет
+Играем в  разрешении 1920x1080, ставим оконные режим, (alt + enter) 
+
+1) Берем ведро, подходим к корове.
+2) Запускаем макрос, нажимаем е.
+3) Потвторяем до бесконечности, останавливать не нужно.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 11 2 255,105,85 255,218,85 1 1217 625
+GoColor 7 0 255,255,255 255,255,255 1 1023 848
+KeyDown 7 1
+Delay 2 ms
+KeyUp 7 1
+Delay 250 ms
+GoColor 11 0 255,255,255 255,255,255 1 902 859
+KeyDown 4 1
+Delay 2 ms
+KeyUp 4 1
+Delay 250 ms</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

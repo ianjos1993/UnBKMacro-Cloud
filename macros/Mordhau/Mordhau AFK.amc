@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>AFK</Major>
+    <Description>Для работы макроса вы должны зайти в режим Invaison/frontline
+После загрузки в матч активируйте макрос.
+Готово! Получайте и фармите деньги за нахождение в матче.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Mordhau</Software>
+  </DefaultMacro>
+</Root>

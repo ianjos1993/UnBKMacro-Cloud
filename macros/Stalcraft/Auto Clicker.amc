@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major>Авто кликер</Major>
+    <Description>Обычный автокликер, для виполнения любих функция на ваше усмотрение. Подходит для одиночного режима стрельбы. И также для закупки множества предметов у торговца одним нажатием.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 0 0
+Delay 5 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Stalcraft</Software>
+  </DefaultMacro>
+</Root>

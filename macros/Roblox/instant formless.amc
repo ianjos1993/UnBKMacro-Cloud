@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>The macro for the game on Roblox called Locked perfoms a instant 180 and does formless.  I use 1980x1080 0.10 sensitivity and 900 dpi but you can reduce the rotate amount in the macro for your settings</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR -15800 -3200
+Delay 20 ms
+KeyDown 21 1
+Delay 15 ms
+RightDown 1
+Delay 15 ms
+KeyUp 21 1
+Delay 15 ms
+RightUp 1
+MoveR 0 1300
+MoveR 1050 0 2100 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

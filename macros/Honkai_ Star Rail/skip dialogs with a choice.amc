@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос предназначен для автоматического пропуска диалогов в игре. Он позволяет быстро пролистывать текстовое сообщение или диалоговые окна, чтобы существенно ускорить процесс игры и перейти к следующему действию.
+
+С использованием этого макроса вы сможете быстро скипать диалоги в игре, что позволит вам не утруждаться чтением воды сюжета, а сосредоточиться на геймплее и прогрессировать в игровом процессе более эффективно.
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 10
+KeyUp 44 1
+Delay 10
+LeftDown 1
+Delay 10
+LeftUp 1
+Delay 10
+GoWhile 1 99999</Syntax>
+    </KeyDown>
+    <Software>Honkai: Star Rail</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>автоматически продает предметы из слота если был продан другой предмет работает при разрешении монитора 1920:1080 и необходимо настроить продажу предмета на клавишу =(подхожит мод commandmacro)
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 2 1 0,212,251 255,255,255 1 8 929 991 152 1 0
+KeyDown 46 1
+Delay 64
+KeyUp 46 1
+Delay 64
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>LeeSin fast R + E</Major>
+    <Description>LeeSin league of legend use fast R + E combo
+This is a quick combo for Leesin by using R and E at the same time to optimize damage, quickly combo and destroy the opponent.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 64 ms
+KeyUp 21 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>League of legend</Software>
+  </DefaultMacro>
+</Root>

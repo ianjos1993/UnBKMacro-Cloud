@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>АвтоХил
+Работает на серверах с командой /heal
+Юзабельная штука
+Советую использовать при ливе от типов</Description>
+    <Comment>доброго времини суток</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 22
+KeyUp 23 1
+Delay 44 ms
+KeyDown 56 1
+Delay 22
+KeyUp 56 1
+Delay 22
+KeyDown 11 1
+Delay 22
+KeyUp 11 1
+Delay 22
+KeyDown 8 1
+Delay 22
+KeyUp 8 1
+Delay 22
+KeyDown 4 1
+Delay 22
+KeyUp 4 1
+Delay 22
+KeyDown 15 1
+Delay 22
+KeyUp 15 1
+Delay 22</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

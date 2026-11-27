@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major>laba</Major>
+    <Description>бинд 1 2 на тп по лабам с задежкой на респ мобов в игре пишем /1 /(команда тп в лабу) ентер
+/2 /команда тп в лабу)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 226 1
+Delay 64 ms
+Delay 64
+KeyDown 30 1
+Delay 64 ms
+Delay 64
+KeyUp 30 1
+Delay 64 ms
+Delay 64
+KeyUp 226 1
+Delay 4500 ms
+KeyDown 226 1
+Delay 64 ms
+Delay 64 ms
+KeyDown 31 1
+Delay 64
+Delay 64 ms
+KeyUp 31 1
+Delay 64
+Delay 64 ms
+KeyUp 226 1
+Delay 4500 ms</Syntax>
+    </KeyDown>
+    <Software>MU Online</Software>
+  </DefaultMacro>
+</Root>

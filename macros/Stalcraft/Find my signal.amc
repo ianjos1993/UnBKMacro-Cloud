@@ -1,0 +1,65 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос позволит быстрее находить маячки, тк срабатывает как только заметит сигнал.
+1920x1080 без панели
+ 
+И так для того что бы вам начать собирать маячки вам нужно сделать следующие
+1. Зайти в игру
+2. Зайти в настройки и выставить "Вспомогательный инструмент" на "Right Alt"
+3. Нажать F11 чтобы был оконный режим
+10. Ну и Включить его!
+11. Выключить когда нашли сигнал</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//кнопка на саке (RIGHT ALT)
+KeyDown 230 1
+Delay 64
+KeyUp 230 1
+Delay 120 ms
+//курсор находится на кнопке средняя на самом саке
+MoveTo 1079 838
+Delay 80 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//выставить цвет и координаты не мигающей зелёной лампочки!!!
+GoColor 38 1 63,84,59 255,255,255 1 690 418 70 663 1 0
+GoColor 17 0 79,98,75 255,255,255 1 690 418 910 663 1 0
+//курсор на ВКЛ сканирование
+MoveTo 1348 826
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+//подождать 11 сек и 2 миллисек
+Delay 11200 ms
+//курсор на в ВЫКЛ сканирование
+MoveTo 1348 827
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//курсор на кнопке поиск
+MoveTo 629 617
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 230 1
+Delay 64
+KeyUp 230 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

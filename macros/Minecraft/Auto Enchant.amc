@@ -1,0 +1,76 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всем привет,Перед праздником решил написать макрос на авто зачарование.Данный макрос позволяет зачаровать любой предмет в вашей руке на остроту 4.Для этого макрос пишет команду /enchant 16 4.Правда вам необходимо написать свой ник после слова Enchant.Число 16 является айдишником  чара острота,число 4-уровень зачарования.Данный макрос будет полезен,для тех,кто хочет быстро зачаровать оружие
+
+Инструкция по настройке:
+1)Скачиваете макрос.
+2)Открываете панель клавиатуры Keyran.
+3)Выбираете удобную для вас клавишу и назначаете макрос.
+4)Сохраняете и используете.
+
+Так же хочу поздравить всех пользователей Keyran c наступающим новым годом.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 36 ms
+KeyUp 56 1
+Delay 36 ms
+KeyDown 8 1
+Delay 36 ms
+KeyUp 8 1
+Delay 36 ms
+KeyDown 17 1
+Delay 36 ms
+KeyUp 17 1
+Delay 36 ms
+KeyDown 6 1
+Delay 36 ms
+KeyUp 6 1
+Delay 36 ms
+KeyDown 11 1
+Delay 36 ms
+KeyUp 11 1
+Delay 36 ms
+KeyDown 4 1
+Delay 36 ms
+KeyUp 4 1
+Delay 36 ms
+KeyDown 17 1
+Delay 36 ms
+KeyUp 17 1
+Delay 36 ms
+KeyDown 23 1
+Delay 4 ms
+KeyUp 23 1
+Delay 4 ms
+KeyDown 44 1
+Delay 36 ms
+KeyUp 44 1
+Delay 36 ms
+KeyDown 30 1
+Delay 36 ms
+KeyUp 30 1
+Delay 36 ms
+KeyDown 35 1
+Delay 36 ms
+KeyUp 35 1
+Delay 36 ms
+KeyDown 44 1
+Delay 36 ms
+KeyUp 44 1
+Delay 36 ms
+KeyDown 33 1
+Delay 36 ms
+KeyUp 33 1
+Delay 36 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

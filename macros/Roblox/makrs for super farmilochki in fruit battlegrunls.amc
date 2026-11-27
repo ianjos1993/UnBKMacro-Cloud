@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>данный макрос позволит автофармит ьваш фрукт, просто нажмите забинженную кнопку и ждите пока макрос сделает всё за вас
+лучше всего юзать на горо горо но ми(lighting)</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

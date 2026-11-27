@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major>(1) + (2) 10000ms</Major>
+    <Description>F1 - некст таргет 2
+F2 - атака(пет)
+F3 - манор
+F4 - атака
+F5 - серп
+
+Игровой макрос (1):
+F1
+F2
+F3
+/delay 1
+F4
+
+Игровой макрос (2):
+F5</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 75 ms
+KeyUp 30 1
+Delay 8925 ms
+KeyDown 31 1
+Delay 75 ms
+KeyUp 31 1
+Delay 925 ms</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

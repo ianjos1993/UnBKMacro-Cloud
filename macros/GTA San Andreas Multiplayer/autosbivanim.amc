@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простой макрос на использование Авто сбива анимации для сампа, если тяжело самому делать сбив анимации на дигл из за трудностей в скилле. ИНСТРУКЦИЯ: чтобы использовать, назначить на любую клавишу(рекомендую боковые кнопки мыши). Чтобы стрелять вам необхотимо просто нажать ПКМ(прицелится), затем просто зажимаем назначенную клавишу. ВАЖНО: Малое количество фпс могут повлиять на работу макроса.
+Макрос является автоматическим, можно просто зажать и вы будете безпрерывно стрелять.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+Можно 7 дней?)</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 60 ms
+LeftUp 1
+Delay 30 ms
+KeyDown 6 1
+Delay 40 ms
+KeyUp 6 1
+Delay 500 ms</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

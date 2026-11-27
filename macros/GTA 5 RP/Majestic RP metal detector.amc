@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос поможет вам быстро доставать Металоискатель.
+Все максимально просто, макрос  настроен на быстрое открытие инвентаря на букву "I"
+затем нажатие левой кнопки и в появившемся окне выбора он нажимает "Использовать" и далее закрывает инвентарь.
+Все происходит за пару секунд.
+
+ТОЧНО РАБОТАЕТ НА MAJESTIC RP. Металоискатель необходимо разместить во 2 и 3 линии сверху инвентаря
+
+РАЗРЕШЕНИЕ: 1920 на 1080
+
+в случае неисправности пишите vk: kot9iro</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 152 ms
+KeyDown 12 1
+Delay 21 ms
+KeyUp 12 1
+Delay 100 ms
+MoveTo 1011 187
+Delay 70 ms
+RightDown 1
+Delay 79 ms
+RightUp 1
+Delay 152 ms
+Delay 21 ms
+MoveTo 1038 200
+Delay 37 ms
+MoveTo 1039 201
+Delay 120 ms
+LeftDown 1
+Delay 70 ms
+LeftUp 1
+KeyDown 12 1
+Delay 50 ms
+KeyUp 12 1
+Delay 21 ms</Syntax>
+    </KeyDown>
+    <Software>Gta 5 rp | Majestic RP | GTA V | GTA 5</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос жима , очень жестко выхиливает на рассвапе дропает любого , с кач мечём убивал любую з4 и не выдержала не 1 , советую всем !
+1 меч
+3 фрост 
+Очень жесткий!</Description>
+    <Comment>Самый крутой макрос , переписанный лучше !</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 1 ms
+LeftUp 1
+KeyDown 30 1
+KeyUp 30 1
+RightDown 1
+Delay 2 ms
+Delay 8 ms
+LeftDown 1
+Delay 3 ms
+Delay 5 ms
+LeftUp 1
+Delay 3 ms
+Delay 2 ms
+LeftUp 1
+Delay 5 ms
+Delay 19 ms
+RightUp 1
+Delay 11 ms
+LeftDown 1
+Delay 7 ms
+LeftUp 1
+Delay 6 ms
+RightDown 1
+LeftUp 1
+KeyDown 32 1
+KeyUp 32 1
+RightDown 1
+Delay 7 ms
+Delay 6 ms
+LeftDown 1
+Delay 13 ms
+Delay 12 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

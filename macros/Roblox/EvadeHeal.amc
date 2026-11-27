@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос поможет вам быстро возвраждать человека багом при помощи этом макросе, от вас
+просто требуется чтобы вы крутились возле человека который в ноке, а дальше макрос сделает все 
+за вас.</Description>
+    <Comment>by Larry (Tik Tok xevade_larry)</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 45 ms
+KeyDown 20 1
+Delay 5 ms
+KeyUp 20 1
+KeyDown 20 1
+Delay 5 ms
+KeyUp 20 1
+KeyUp 8 1
+Delay 3 s
+KeyDown 8 1
+Delay 30 ms
+KeyUp 8 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

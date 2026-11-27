@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>Decaying Winter Auto Picker</Major>
+    <Description>Decaying Winter is a survival FPS inside of Roblox where you and a team of four other individuals have to survive for 10 nights, each night getting more difficult to battle your way through. Inside of Decaying Winter (DW), you can pick up an iten using E and drop it using X. This macro automatically drops and picks up items. This is useful if you want to clear out a space that has loot all over the floor or if you just want to AFK without being kicked. It's extremely versatile! My personal favorite way to use this macro is to spam pick up/drop the Famas F1, as it plays a funny meme sound when picked.
+
+Instructions:
+ - Look at the item you want to pick up and then use the macro.
+
+Notes:
+ - Don't move your screen when you use the macro, or it will stop picking up the item.
+ - Use this macro on a hotkey or on a delayd start or it'll start bugging.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 1000 ms
+KeyDown 27 1
+Delay 64
+KeyUp 27 1
+Delay 64
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

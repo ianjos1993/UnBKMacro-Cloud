@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Периодически исцеляет всех волшебников и увеличивает скорость регенерации фокуса. Через несколько секунд она также может вернуть к жизни одного погибшего члена группы.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Magicka 2</Software>
+  </DefaultMacro>
+</Root>

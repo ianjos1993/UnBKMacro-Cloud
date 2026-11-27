@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос на афро деш в гпо (на данный момент он не работает из-за патча) решил залить может кому-то пригодится </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 1 ms
+LeftUp 1
+KeyDown 20 1
+Delay 1 ms
+KeyUp 20 1
+KeyDown 20 1
+Delay 1 ms
+KeyUp 20 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

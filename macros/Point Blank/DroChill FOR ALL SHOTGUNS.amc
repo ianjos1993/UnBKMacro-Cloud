@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major>By xTarantula</Major>
+    <Description>Топ макрос для любого дробовика. пкм и погнал!  в стаке с купонами на быструю смену и круглым прицелом.. 10007-0 100%</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 20
+LeftUp 1
+Delay 20
+KeyDown 20 1
+Delay 20
+KeyUp 20 1
+Delay 20
+KeyDown 20 1
+Delay 20
+KeyUp 20 1</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

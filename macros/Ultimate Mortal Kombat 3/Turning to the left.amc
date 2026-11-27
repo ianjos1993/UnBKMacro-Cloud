@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major>Кунг-Лао</Major>
+    <Description>"Кунг-Лао"
+Данная комбинация собрана в одну кнопку для Вашего удобства
+
+
+Для настройки данного макроса используется такая расскладка в игре :
+
+Нижний удар рукой - E
+Верхний удар рукой - W
+Нижнй удар ногой - S
+Верхний удар ногой - D
+Бег - Q</Description>
+    <Comment>для тех кто играет на эмуляторе SEGA или MAME+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 80 1
+Delay 15 ms
+KeyUp 80 1
+Delay 15 ms
+KeyDown 81 1
+Delay 15 ms
+KeyUp 81 1
+Delay 15 ms
+KeyDown 80 1
+Delay 15 ms
+KeyUp 80 1
+Delay 15 ms
+KeyDown 20 1
+Delay 15 ms
+KeyUp 20 1
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>Mortal kombat 3 ultimatum</Software>
+  </DefaultMacro>
+</Root>

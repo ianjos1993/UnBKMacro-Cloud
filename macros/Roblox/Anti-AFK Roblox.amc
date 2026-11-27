@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major>ebycobak</Major>
+    <Description>Анти-Кик в роблоксе этот софт очень полезен, с помощью его вас не будут кикать за афк фарм и тд. Навеорное каждый сталкивался с проблемой что хочешь подкопить денег в своейм любимом режиме но сервера роблокса не дают этого сделать и выдают ошибку что вы 20 минут неподвижно стояли.
+Отключается и включается спомощь забинженной кнопки.
+
+Если будут баги пишет мне я все попробую исправить
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 140 ms
+KeyUp 26 1
+Delay 140 ms
+KeyDown 22 1
+Delay 140 ms
+KeyDown 7 1
+Delay 140 ms
+KeyUp 7 1
+Delay 140 ms
+KeyUp 22 1
+Delay 140 ms
+KeyDown 4 1
+Delay 140 ms
+KeyUp 4 1
+Delay 140 ms
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

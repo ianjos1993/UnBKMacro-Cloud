@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>данный макрос сам пишет gg  в чат вам надо нажать на букву т это поможет если вы играете в разных мини играх и вам лень писать gg-хорошая игра</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+KeyDown 10 1
+Delay 64
+KeyUp 10 1
+Delay 64
+Delay 64
+KeyUp 10 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

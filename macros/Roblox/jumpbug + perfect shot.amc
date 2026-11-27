@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>в игре basketball legends, есть возможность когда тебе дают пас, ты можешь прыгнуть в тайминг и кинуть с 0% защиты, очень сильный баг, но за него не банят, этот макрос делает все так чтобы вы подпрыгнули и отошли назад в полете.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 44 1
+Delay 2 ms
+KeyUp 44 1
+Delay 64
+KeyDown 22 1
+Delay 1 s
+KeyUp 22 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

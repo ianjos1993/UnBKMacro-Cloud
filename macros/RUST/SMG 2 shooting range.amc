@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>делаем всю чувствительность на 0.9, dpi 4000, разрешение 2080*1440, зажимать лучше сидя, жмет в точку, работает на любой мышке</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 0 2
+MoveR -1 2
+MoveR 0 2
+MoveR 2 0
+MoveR 0 3
+MoveR 0 1
+MoveR 0 1
+MoveR -2 1
+MoveR -2 1
+MoveR 0 3
+MoveR 0 1
+MoveR -1 1
+MoveR 0 2
+MoveR 0 1
+MoveR -2 0
+MoveR -2 2
+MoveR 1 1
+MoveR -1 1
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

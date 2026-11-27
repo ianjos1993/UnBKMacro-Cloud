@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простой макрос для режима Basketball Legends чтобы в любом случаи сделать 360.
+
+Использовать можно везде без исключений, также когда вы делаете 360 вы толкаете оппонента.
+
+Не зависит от частоты кадров или стабильности интернет соединения.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 10 ms
+KeyUp 29 1
+KeyDown 29 1
+Delay 1 ms
+KeyDown 42 1
+KeyUp 42 1
+Delay 10 ms
+KeyUp 29 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

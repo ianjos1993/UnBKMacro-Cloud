@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на ОББУ в игре apb reloaded, макрос предназнацен для дального огня, кучность стрельбы + уменьшение отдачи.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+LeftUp 1
+MoveR 0 2
+LeftDown 1
+LeftUp 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>APB Reloaded</Software>
+  </DefaultMacro>
+</Root>

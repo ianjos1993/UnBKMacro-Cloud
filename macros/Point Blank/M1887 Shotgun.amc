@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>this script more efficient and more faster to quick draw your M1887 shotgun
+this script generaly use in shotgun community in indonesia
+usually this key binded to right click mouse
+enjoy</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 1 ms
+Delay 2 ms
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+Delay 2 ms
+Delay 1 ms
+LeftDown 1
+Delay 3 ms
+Delay 4 ms
+Delay 3 ms
+Delay 15 ms
+WheelDown 1
+Delay 24 ms
+WheelUp 1
+Delay 4 ms
+Delay 4 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

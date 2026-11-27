@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>as your request i made the no recoil weapond for those weapon
+APC9,Pindad,SC,MP7 No Recoil weapon
+bind it to left mouse button
+enjoy</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 20
+LeftUp 1
+Delay 20
+LeftDown 1
+Delay 20
+LeftUp 1
+Delay 20
+LeftDown 1
+Delay 20
+LeftUp 1
+Delay 20
+GoWhile 1 12</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

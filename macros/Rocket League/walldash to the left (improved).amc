@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>apologizes for the previous file.. i didnt double check to make sure it works 
+
+set your air roll LEFT to = a 
+set your jump to = right mouse button RMB</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 10 ms
+RightUp 1
+Delay 10 ms
+KeyDown 20 1
+Delay 10 ms
+GoWhile 1 50</Syntax>
+    </KeyDown>
+    <Software>Rocket League</Software>
+  </DefaultMacro>
+</Root>

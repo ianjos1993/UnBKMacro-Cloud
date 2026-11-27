@@ -1,0 +1,59 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>!!!!!!!ВНИМАНИЕ МАКРОС НАПИСАН ДЛЯ ВИДЕОКАРТ ОТ АМД С НАСЫЩЕННОСТЬЮ 200%(AMD Catalyst Control Center) В ИНОМ СЛУЧАЕ МАКРОС РАБОТАТЬ НЕ БУДЕТ!!!!!!
+Макрос для поиска сигналов, для его работы требуедтся нескалько пунктов:
+1. Оконый реим в игре
+2. САК-1 Назначен на клавищу ALT.R
+3.Разрешение экрана 1440 на 1080
+4. Режим работы (До повторного нажатия)</Description>
+    <Comment>!!!!ВНИМАНИЕ!!!!
+Я не несу отвецтвености за блокировку вашего аккаунта, используйте макрос на свой страx и риск.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 230 1
+Delay 200 ms
+KeyUp 230 1
+Delay 120 ms
+MoveTo 840 792
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+GoColor 34 1 97,116,93 255,255,255 1 450 392 965 689 1 0
+GoColor 13 0 97,116,93 255,255,255 1 450 392 999 689 1 0
+MoveTo 1111 783
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 12200 ms
+//подождать 11 сек и 2 миллисек
+//курсор на в ВЫКЛ сканирование
+MoveTo 1113 782
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64 ms
+//курсор на кнопке поиск
+MoveTo 390 563
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 230 1
+Delay 200 ms
+KeyUp 230 1
+Delay 120 ms</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

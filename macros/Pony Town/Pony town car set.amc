@@ -1,0 +1,254 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Это макрос для авто-набора по "Пони Таун". Такие есть, но я создавал его для того, чтобы научиться пользоваться программой. Изначально я не понимал суть тех макросов, а также коды не подходили под моё разрешение монитора. У меня всё работает, но у каждого разрешение может быть разным, мое разрешение:
+1920x1080
+
+Макрос работает следуйщим образом, во весь экран:
+
+1. Перемещает мышку на иконку чата и активирует её.
+2.Перемещает мышку на строку и тоже активирует.
+3. Нажимает сочетание клавиш Win + V, после чего из буфера обмена выбирает ваши сохранённые отзывы, поэтому желательно заранее сохранить 5 отзывов и закрепить их.
+4. Мышка перемещается на кнопку ввода и активирует её.
+5. Если у вас есть панель, поставьте на цифру 1 — "Boop"; а на цифру 2 — "Double nod".
+6. Далее идёт повторение из пяти раз, и цикл на 200, который можно изменить по желанию.
+
+В случае необходимости, держите мой Telegram: @Silffan.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 30 1012
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 99 1015
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 227 1
+KeyDown 25 1
+Delay 64
+KeyUp 25 1
+KeyUp 227 1
+Delay 64
+MoveTo 159 678
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 486 1012
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 s
+MoveTo 1897 362
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1899 406
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 s
+MoveTo 1892 360
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 4 s
+MoveTo 31 1018
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 108 1015
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 227 1
+KeyDown 25 1
+Delay 64
+KeyUp 227 1
+KeyUp 25 1
+Delay 64
+MoveTo 144 762
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 487 1013
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 3 s
+MoveTo 1894 365
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 s
+MoveTo 1898 365
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1901 405
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 4 s
+MoveTo 30 1014
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 109 1013
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 227 1
+KeyDown 25 1
+Delay 64
+KeyUp 227 1
+KeyUp 25 1
+Delay 64
+MoveTo 138 849
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 486 1004
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 s
+MoveTo 1902 405
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1898 406
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1 s
+MoveTo 1899 366
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 4 s
+MoveTo 31 1016
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 110 1015
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 227 1
+KeyDown 25 1
+Delay 64
+KeyUp 227 1
+KeyUp 25 1
+Delay 64
+MoveTo 131 913
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 486 1014
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 s
+MoveTo 1901 362
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1898 411
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 s
+MoveTo 1901 369
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 4 s
+MoveTo 31 1014
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 109 1018
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 227 1
+KeyDown 25 1
+Delay 64
+KeyUp 227 1
+KeyUp 25 1
+Delay 64
+MoveTo 141 979
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 487 1013
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 8 s
+GoWhile 1 200</Syntax>
+    </KeyDown>
+    <Software>Pony Town</Software>
+  </DefaultMacro>
+</Root>

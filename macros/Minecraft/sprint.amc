@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос был создан по мативом разных читов для майнкрафта. Теперь вам не придётся зажимать Ctrl и W одновременно!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+KeyDown 228 1
+Delay 1 ms
+KeyUp 26 1
+Delay 1 ms
+KeyUp 228 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

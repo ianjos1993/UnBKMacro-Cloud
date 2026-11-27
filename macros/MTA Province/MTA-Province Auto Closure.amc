@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Етот скрипт зделан чтобы Закрывать-Открывать авто в мта провинция 
+                                                                        Надеюсь он вам поможет!
+                                                                                </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 60 1
+Delay 5 ms
+KeyUp 60 1
+MoveTo 891 544
+Delay 30 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 30 ms
+MoveTo 1126 611
+Delay 30 ms
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 5 ms
+KeyDown 60 1
+Delay 5 ms
+KeyUp 60 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

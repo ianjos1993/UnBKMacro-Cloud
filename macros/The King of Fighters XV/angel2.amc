@@ -1,0 +1,108 @@
+<Root>
+  <DefaultMacro>
+    <Major>Angel combo2</Major>
+    <Description>Видео демонстрации работы макроса: https://youtu.be/NEp-6FrIer8
+
+Тестирование макроса проводились на последнем патче игры на 18.12.2022 (1.53 патч)
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер"  (при необходимости установить драйвер)
+
+Ангел (произносится как Анхель) — персонаж видеоигр в выпусках 2001 и 2002 годов серии The King of Fighters. За нее также можно играть в качестве секретного бойца в японском порте игры The King of Fighters Neowave для PlayStation 2. Она изображена как сексуальная седовласая мексиканка, которая работает в организации, известной как NESTS.
+
+  Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ Light Punch - Insert
+ Light Kick - End
+ Heavy Punch - Home
+ Heavy Kick - Delete
+ Max - TAB
+ 1+2 - Page UP
+ 3+4 Page Down
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#angelkofxv #kofxv #kingoffightersxv</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 80 ms
+KeyUp 22 1
+Delay 67 ms
+KeyDown 7 1
+Delay 23 ms
+KeyDown 26 1
+Delay 83 ms
+KeyUp 26 1
+Delay 23 ms
+KeyUp 7 1
+Delay 68 ms
+KeyDown 77 1
+Delay 58 ms
+KeyUp 77 1
+Delay 38 ms
+KeyDown 7 1
+Delay 64 ms
+KeyDown 73 1
+Delay 45 ms
+KeyUp 73 1
+Delay 24 ms
+KeyUp 7 1
+Delay 32 ms
+KeyDown 7 1
+Delay 56 ms
+KeyUp 7 1
+Delay 42 ms
+KeyDown 22 1
+Delay 47 ms
+KeyDown 7 1
+Delay 72 ms
+KeyUp 22 1
+Delay 64 ms
+KeyUp 7 1
+Delay 74 ms
+KeyDown 74 1
+Delay 56 ms
+KeyUp 74 1
+Delay 42 ms
+KeyDown 4 1
+Delay 65 ms
+KeyDown 76 1
+Delay 53 ms
+KeyUp 76 1
+Delay 64 ms
+KeyUp 4 1
+Delay 67 ms
+KeyDown 22 1
+Delay 55 ms
+KeyDown 7 1
+Delay 65 ms
+KeyUp 22 1
+Delay 47 ms
+KeyUp 7 1
+Delay 56 ms
+KeyDown 22 1
+Delay 48 ms
+KeyDown 7 1
+Delay 88 ms
+KeyUp 22 1
+Delay 47 ms
+KeyUp 7 1
+Delay 15 ms
+KeyDown 78 1
+Delay 32 ms
+KeyUp 78 1</Syntax>
+    </KeyDown>
+    <Software>The King of Fighters XV</Software>
+  </DefaultMacro>
+</Root>

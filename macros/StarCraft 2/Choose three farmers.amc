@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major>Choose three farmers</Major>
+    <Description>The screen resolution is set to 1920x1080.When assigning farmers to gas mines, select the farmer and click on the gas mine, then run this shortcut key, then click on another gas mine, repeat the process, and finally use the remaining farmer instructions to collect minerals.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 8 ms
+MoveTo 689 916
+Delay 8 ms
+LeftDown 1
+Delay 8 ms
+LeftUp 1
+Delay 8 ms
+LeftDown 1
+Delay 8 ms
+LeftUp 1
+Delay 8 ms
+LeftDown 1
+Delay 8 ms
+LeftUp 1
+Delay 8 ms
+KeyUp 225 1
+Delay 8 ms
+MoveTo 943 528
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>StarCraft 2</Software>
+  </DefaultMacro>
+</Root>

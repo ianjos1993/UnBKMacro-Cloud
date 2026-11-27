@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на убирание отдачи на любом оружии. Чем сильнее дпи - быстрее прокрутка и лучше эффект. Для использования: нажмите левую кнопку мыши. 
+
+Работает на разрешениях:
+1920х1080
+1760х990
+На последующих работа не гарантированна, но возможна!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//Не ставьте рандомную задержку, или задержку меньше 15, иначе можете словить бан (уже был печальный опыт с другим макросом)
+LeftDown 1
+MoveR 2 2
+Delay 15 20 ms
+MoveR 2 -2
+Delay 15 20 ms
+MoveR -2 -2
+Delay 15 20 ms
+MoveR -2 2
+Delay 15 20 ms</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

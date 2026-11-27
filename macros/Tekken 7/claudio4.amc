@@ -1,0 +1,80 @@
+<Root>
+  <DefaultMacro>
+    <Major>Claudio hopkick combo</Major>
+    <Description>Макрос позволяет выполнять hopkick combo за Клаудио Серафино.
+Видео демонстрации работы макроса: https://youtu.be/5Rsxwbl9_z4
+
+Клаудио Серафино (Claudio Serafino) —  новичок в Tekken 7, и у него самый маленький список мувов в игре. Хотя некоторые могут рассматривать это как ограничение, но это позволяет легко брать его и играть, а также является персонажем "мечты минималиста". В некотором смысле ему «не нужно» больше ходов, чем у него уже есть, чтобы выиграть. Но с одной стороны его набор движений, в целом, эффективен, но ограничен. Несмотря на это, он выделяется как довольно хороший, солидный персонаж, которого относительно легко подобрать и использовать без особых проблем.
+
+
+Тестирование макроса проводились на последнем патче игры на 04.06.2023 (5.01 патч)
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#claudiotekken7 #tekken7 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 0 ms
+KeyDown 7 1
+Delay 39 ms
+KeyDown 77 1
+Delay 219 ms
+KeyUp 26 1
+Delay 60 ms
+KeyUp 77 1
+Delay 179 ms
+KeyDown 76 1
+Delay 100 ms
+KeyUp 76 1
+Delay 80 ms
+KeyDown 76 1
+Delay 79 ms
+KeyUp 76 1
+Delay 60 ms
+KeyDown 76 1
+Delay 209 ms
+KeyUp 76 1
+Delay 170 ms
+KeyUp 7 1
+Delay 369 ms
+KeyDown 7 1
+Delay 70 ms
+KeyUp 7 1
+Delay 59 ms
+KeyDown 7 1
+Delay 60 ms
+KeyUp 7 1
+Delay 39 ms
+KeyDown 7 1
+Delay 59 ms
+KeyDown 74 1
+Delay 149 ms
+KeyUp 74 1
+Delay 100 ms
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 7</Software>
+  </DefaultMacro>
+</Root>

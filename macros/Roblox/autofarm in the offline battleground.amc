@@ -1,0 +1,66 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Авто фарм  в FruitBattleground. Комбинация способностей 1,3,4. Макрос для того кому лень качаться
+макрос полностью автономный</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 1064 ms
+KeyDown 33 1
+Delay 64 ms
+LeftDown 1
+Delay 164 ms
+LeftUp 1
+Delay 10 s
+KeyDown 8 1
+Delay 960 ms
+KeyUp 8 1
+Delay 64
+KeyDown 225 1
+Delay 64
+KeyUp 225 1
+Delay 64
+KeyDown 15 1
+Delay 64
+KeyUp 15 1
+Delay 64
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 64
+KeyDown 19 1
+Delay 64
+KeyUp 19 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 64
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64
+KeyDown 11 1
+Delay 64
+KeyUp 11 1
+Delay 64
+GoWhile 1 9999999</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

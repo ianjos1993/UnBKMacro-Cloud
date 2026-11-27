@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major>Dropshot on all your enemies</Major>
+    <Description>quick macro i made to automate dropshotting to get an edge on your opponents, dropshotting is the action of going prone, aiming down sight and shooting all in one action. using this to your advantage, you can change your center of mass immediately when engaging in close range combat, making it harder for enemies to shoot you</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+RightDown 1
+LeftDown 1
+Delay 120 ms
+LeftUp 1
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Call Of Duty: Warzone 2</Software>
+  </DefaultMacro>
+</Root>

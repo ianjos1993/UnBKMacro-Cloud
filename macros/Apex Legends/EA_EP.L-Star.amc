@@ -1,0 +1,146 @@
+<Root>
+  <DefaultMacro>
+    <Major>L-Star</Major>
+    <Description>Этот макрос предназначен для L-Star. Это полная модель отдачи. Чувствительность мыши и клавиатуры ~2,5. Он работает очень хорошо; с произвольной задержкой для предотвращения обнаружения.</Description>
+    <Comment>Qoov</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax>Qoov</Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 23
+MoveR 5 4
+Delay 23
+MoveR 5 4
+Delay 32
+MoveR 6 6
+Delay 32
+MoveR 0 4
+Delay 32
+MoveR 0 4
+Delay 32
+MoveR 8 5
+Delay 32
+MoveR 0 4
+Delay 32
+MoveR 0 4
+Delay 32
+MoveR 0 5
+Delay 32
+MoveR -3 5
+Delay 32
+MoveR -3 4
+Delay 32
+MoveR -3 4
+Delay 32
+MoveR -3 4
+Delay 32
+MoveR -3 5
+Delay 32
+MoveR -3 4
+Delay 32
+MoveR -4 4
+Delay 32
+MoveR -3 4
+Delay 32
+MoveR -3 4
+Delay 32
+MoveR 0 3
+Delay 32
+MoveR 0 3
+Delay 32
+MoveR 0 3
+Delay 32
+MoveR 1 3
+Delay 32
+MoveR 2 2
+Delay 32
+MoveR 2 3
+Delay 32
+MoveR 2 3
+Delay 32
+MoveR 2 3
+Delay 32
+MoveR 1 2
+Delay 32
+MoveR 0 3
+Delay 32
+MoveR 0 3
+Delay 32
+MoveR 0 2
+Delay 32
+MoveR 0 3
+Delay 32
+MoveR 0 2
+Delay 32
+MoveR 0 3
+Delay 32
+MoveR 0 2
+Delay 32
+MoveR 0 3
+Delay 32
+MoveR 0 2
+Delay 32
+MoveR 0 3
+Delay 32
+MoveR 0 2
+Delay 32
+MoveR 0 2
+Delay 32
+MoveR 0 3
+Delay 32
+MoveR 0 2
+Delay 32
+MoveR 0 3
+Delay 32
+MoveR 0 2
+Delay 32
+MoveR 0 3
+Delay 32
+MoveR 0 2
+Delay 32
+MoveR 0 3
+Delay 32
+MoveR 0 2
+Delay 32
+MoveR 0 2
+Delay 32
+MoveR 0 3
+Delay 32
+MoveR 0 2
+Delay 32
+MoveR 0 3
+Delay 32
+MoveR 0 2
+Delay 32
+MoveR 0 3
+Delay 32
+MoveR 0 2
+Delay 32
+MoveR 0 3
+Delay 32
+MoveR 0 2
+Delay 32
+MoveR 0 2
+Delay 32
+MoveR 0 3
+Delay 32
+MoveR 0 2
+Delay 32
+MoveR 0 3
+Delay 32
+MoveR 0 2
+Delay 32
+MoveR 0 3
+Delay 32
+LeftUp 1
+DelayS 1
+DelayS 1
+Delay 440</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro guarantees a perfect green shot for a player with a 60 overall rating, both inside the paint and just outside it.
+
+It is recommended to use the mouse on the button, like all other macros for shooting, but if this does not suit you or you do not have a mouse with side buttons, use anything.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 2 ms
+KeyDown 8 1
+Delay 444 ms
+KeyUp 8 1
+Delay 2 ms
+KeyUp 4 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

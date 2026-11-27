@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major>Rock washing</Major>
+    <Description>Easy to use macro, washes every 11 secs (time it takes to mine a rock), because of the animation bug you walk back after every wash so this macro also walks forward a bit after 3 washes,</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 12 s
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 12 s
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 12 s
+KeyDown 26 1
+Delay 64 ms
+KeyUp 26 1
+Delay 64 ms
+KeyDown 26 1
+Delay 1 ms
+KeyUp 26 1
+Delay 64 ms
+GoWhile 1 47</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

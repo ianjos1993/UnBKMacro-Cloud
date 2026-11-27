@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Кликер для фарма пыльцы в Bee Swarm Simulator! Просто встаньте на поле, поставьте Sprinkler и запустите макрос, после чего можете cпокойно идти куда-либо, макрос всё за вас соберёт. Только не выключайте пк, а то не сработает!
+Разрешение экрана: 1920x1080</Description>
+    <Comment>Ну типо вот, я пытался</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 1000 ms
+LeftUp 1
+Delay 1000 ms
+MoveR 20 20
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64
+LeftDown 1
+Delay 1000 ms
+LeftUp 1
+Delay 1000 ms
+MoveR -20 -20
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+GoWhile 1 100000
+GoWhile 1 5
+GoWhile 1 9999999
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

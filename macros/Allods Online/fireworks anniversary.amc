@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Афк на корабле, фарм юбилейных монет........ Включаете и идете пить чаек или еще чего...... Можно так же бегать и собирать мешки при активации макроса</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 64
+KeyUp 29 1
+Delay 22 s</Syntax>
+    </KeyDown>
+    <Software>Аллоды онлайн</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,72 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос предназначен для автоматического выполнения классической и максимально эффективной PvP-связки на основе боевого стиля Godhuman и меча Spikey Trident в режиме Blox Fruits (Roblox). Алгоритм идеально синхронизирует притягивание противника трезубцем с мгновенным продолжением через сокрушительные приёмы Godhuman
+
+Особенности и преимущества:
+ 
+Идеальные тайминги: задержки между навыками настроены так, чтобы комбо проходило плавно и без разрывов даже при среднем пинге.
+
+Максимальный урон: связка автоматически использует ключевые скиллы Spikey Trident (X/Z) для контроля и притяжки цели прямо под удары Godhuman (Z, C, X).
+
+Простота в бою: от вас требуется только вовремя поймать врага в прицел и нажать одну кнопку — всю сложную комбинацию клавиш выполнит макрос.
+
+1. Расставьте снаряжение в инвентаре строго в следующем порядке:
+	
+1 слот: Godhuman (Боевой стиль)
+	
+2 слот: Любой Блокс Фрукт (рекомендуются Portal, Rumble или Dough для инициации)
+	
+3 слот: Spikey Trident (Меч)
+ 
+
+2. В настройках Roblox обязательно включите Shift Lock (Блокировку Shift) для точного наведения притяжки трезубца на противника.
+
+3. В Keyran назначьте макрос на свободную клавишу или боковую кнопку мыши.
+
+4. Выберите режим запуска: «Выполнить один раз» (однократное нажатие).
+
+5. Сблизьтесь с противником, наведите на него курсор и активируйте макрос.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 6 1
+Delay 550 ms
+KeyUp 6 1
+Delay 1300 ms
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 27 1
+Delay 20 ms
+KeyUp 27 1
+Delay 450 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 140 ms
+KeyDown 27 1
+Delay 45 ms
+KeyUp 27 1
+Delay 240 ms
+MoveR 0 -200
+Delay 25 ms
+KeyDown 29 1
+Delay 65 ms
+KeyUp 29 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Blox Fruits / combo</Software>
+  </DefaultMacro>
+</Root>

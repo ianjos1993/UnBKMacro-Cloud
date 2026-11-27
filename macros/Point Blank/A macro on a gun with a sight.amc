@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос может быть использован ТОЛЬКО для пистолета,так что не нужно бытаться использовать его на основных оружия,его суть проста нажимает на ПКМ т.е зумимся,нажимаем ЛКМ т.е стреляем.Он сам сделает смену,</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 24 ms
+LeftUp 1
+KeyDown 32 1
+Delay 24 ms
+KeyUp 32 1
+KeyDown 31 1
+Delay 24 ms
+KeyUp 31 1
+Delay 30 ms
+Delay 395 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

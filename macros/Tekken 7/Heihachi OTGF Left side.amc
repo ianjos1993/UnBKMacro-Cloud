@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>The Overpower move With High damage and less Penalty frame (-10f Punisheble), you can do death combo with this move
+
+Key mapping ;
+W = UP
+A = BACK
+S = DUCK
+D = FORWARD
+
+NUM4 = 1
+NUM8 = 2
+NUM6 = 3
+NUM5 = 4</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 17
+KeyUp 7 1
+Delay 17
+KeyDown 7 1
+KeyDown 22 1
+KeyDown 92 1
+Delay 17
+KeyUp 7 1
+KeyUp 22 1
+KeyUp 92 1
+Delay 300 ms</Syntax>
+    </KeyDown>
+    <Software>Tekken 7</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,128 @@
+<Root>
+  <DefaultMacro>
+    <Major>Kazuya wall combo 4</Major>
+    <Description>Макрос позволяет выполнять wall combo за Kazuya.
+Видео демонстрации работы макроса: https://youtu.be/liFeW3Ed0NY
+
+В какой-то момент Казуя встретил Джуна Казаму, который был в Токио, чтобы остановить незаконную торговлю животными Мисима Дзайбацу. За это время Джун забеременела от Казуи. Когда Джун участвовала в турнире, она знала о зле внутри Казуи, от которого она хотела его освободить. Замешательство внутри Казуи, возникшее после встречи с Джун, заставило его потерять концентрацию в последнем бою с Хейхачи Когда Хейхачи добрался до финального раунда, чтобы встретиться с Казуей, он начал одерживать верх над ним. В крайнем случае, Казуя трансформировался в форму дьявола и продолжил бой, но Хейхачи все равно вышел победителем. В отместку Хейхачи бросил тело Казуи в жерло вулкана и сбежал на вертолете, когда вулкан извергся, в результате чего Казуя считался мертвым.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+
+Тестирование макроса проводились на последнем патче игры на 23.03.2024
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#kazuyatekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 9 ms
+KeyDown 7 1
+Delay 50 ms
+KeyDown 73 1
+Delay 120 ms
+KeyDown 77 1
+Delay 30 ms
+KeyUp 73 1
+Delay 30 ms
+KeyUp 77 1
+Delay 100 ms
+KeyDown 77 1
+Delay 89 ms
+KeyUp 77 1
+Delay 30 ms
+KeyUp 22 1
+Delay 119 ms
+KeyUp 7 1
+Delay 330 ms
+KeyDown 7 1
+Delay 19 ms
+KeyDown 22 1
+Delay 70 ms
+KeyDown 73 1
+Delay 180 ms
+KeyDown 74 1
+Delay 30 ms
+KeyUp 73 1
+Delay 69 ms
+KeyUp 74 1
+Delay 60 ms
+KeyDown 74 1
+Delay 109 ms
+KeyUp 74 1
+Delay 70 ms
+KeyUp 22 1
+Delay 80 ms
+KeyUp 7 1
+Delay 680 ms
+KeyDown 7 1
+Delay 10 ms
+KeyDown 22 1
+Delay 10 ms
+KeyDown 76 1
+Delay 10 ms
+KeyDown 77 1
+Delay 109 ms
+KeyUp 76 1
+Delay 9 ms
+KeyUp 77 1
+Delay 70 ms
+KeyUp 22 1
+Delay 9 ms
+KeyUp 7 1
+Delay 19 ms
+KeyDown 74 1
+Delay 0 ms
+KeyDown 73 1
+Delay 79 ms
+KeyUp 74 1
+Delay 9 ms
+KeyUp 73 1
+Delay 70 ms
+KeyDown 74 1
+Delay 30 ms
+KeyDown 73 1
+Delay 39 ms
+KeyUp 73 1
+Delay 10 ms
+KeyUp 74 1
+Delay 80 ms
+KeyDown 74 1
+Delay 9 ms
+KeyDown 73 1
+Delay 60 ms
+KeyUp 74 1
+Delay 9 ms
+KeyUp 73 1
+Delay 70 ms
+KeyDown 74 1
+Delay 9 ms
+KeyDown 73 1
+Delay 50 ms
+KeyUp 74 1
+Delay 9 ms
+KeyUp 73 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

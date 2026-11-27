@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>вы будете кружится по кругу со скоростью 60 в евайд, тем самым сможете кружится во круг агресивного манчи. Обязательно поставьте макрос на повторение и ином случае макрос не будет работать.
+Рекомендуемое разрешение экрана 1920 на 1080.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 8 ms
+MoveR 20 0
+Delay 7 ms
+MoveR 21 0
+Delay 8 ms
+MoveR 21 0
+Delay 7 ms
+MoveR 20 0</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

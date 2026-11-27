@@ -1,0 +1,82 @@
+<Root>
+  <DefaultMacro>
+    <Major>Clive Combo 7</Major>
+    <Description>Макрос позволяет выполнять сокрушительное комбо за Клайва.
+Видео демонстрации работы макроса: https://youtu.be/nCQoSos5FdA
+
+Клайв — благородный воин, чья жизнь стала не просто полем битвы, но и сложной дорогой поиска себя. Он носит в себе силу Эйкона Феникса, могущественного существа, символизирующего возрождение и надежду. Однако его путь далёк от света, который ассоциируется с этой силой. Тяжёлые утраты, утраченные идеалы и постоянная борьба за справедливость в мире, погружённом в хаос войны, превратили его в человека, закалённого болью и сомнениями.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 13.01.2025
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ.
+
+#clivetekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 16 ms
+KeyDown 22 1
+Delay 0 ms
+KeyDown 74 1
+Delay 120 ms
+KeyUp 74 1
+Delay 46 ms
+KeyDown 74 1
+Delay 316 ms
+KeyUp 74 1
+Delay 52 ms
+KeyDown 74 1
+Delay 227 ms
+KeyDown 76 1
+Delay 67 ms
+KeyUp 7 1
+Delay 17 ms
+KeyUp 22 1
+Delay 30 ms
+KeyUp 76 1
+Delay 46 ms
+KeyDown 76 1
+Delay 109 ms
+KeyUp 76 1
+Delay 63 ms
+KeyDown 76 1
+Delay 86 ms
+KeyUp 76 1
+Delay 64 ms
+KeyUp 76 1
+Delay 98 ms
+KeyDown 76 1
+Delay 52 ms
+KeyDown 76 1
+Delay 133 ms
+KeyUp 76 1
+Delay 73 ms
+KeyUp 74 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

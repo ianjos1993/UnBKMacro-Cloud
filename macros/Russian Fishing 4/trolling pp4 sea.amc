@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>тролинг на море в русской рыбалке 4 , зажимает кнопку A и   делает сильный пилкинг, долго промучался с ним , учился, сделал его сам т.к. не было такого</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+RightDown 1
+Delay 2000
+RightUp 1
+Delay 2000
+GoWhile 1 10000</Syntax>
+    </KeyDown>
+    <Software>Русская Рыбалка 4</Software>
+  </DefaultMacro>
+</Root>

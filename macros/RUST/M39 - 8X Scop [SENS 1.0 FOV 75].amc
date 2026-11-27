@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Доброго времени суток! Представляю вашему вниманию Лицензионные макросы от проекта DEADXMACRO,  Макросы написаны под оружия без дополнительных модификаций</Description>
+    <Comment>DEADXMACRO.STORE
+</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+MoveR 0 15
+Delay 15 ms
+MoveR 0 15
+Delay 15 ms
+MoveR 0 15
+Delay 15 ms
+MoveR 0 15
+Delay 15 ms
+MoveR 0 15
+Delay 15 ms
+MoveR 0 15
+Delay 15 ms
+MoveR 0 10
+Delay 15 ms
+MoveR 0 10
+Delay 15 ms
+LeftUp 1
+Delay 15 ms
+GoWhile 1 20
+DelayS 2 s</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

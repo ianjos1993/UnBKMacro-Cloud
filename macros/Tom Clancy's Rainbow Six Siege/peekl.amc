@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>this macro does a quick peek to the left
+it will peek left and shoot a single shot
+to use it you must be already leaning left prepare your aim and click the asigned button
+after the button is pressed you will quick peek and shoot a single shot works best with 2/3 speed as it sometimes fails with 1 speed characters</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 50 ms
+KeyUp 4 1
+Delay 50 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 1
+KeyDown 8 1
+Delay 5 ms
+KeyUp 8 1
+Delay 5 ms
+KeyDown 7 1
+Delay 55 ms
+KeyUp 7 1
+Delay 1
+KeyDown 20 1
+Delay 5 ms
+KeyUp 20 1
+Delay 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

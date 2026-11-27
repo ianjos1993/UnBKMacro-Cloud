@@ -1,0 +1,126 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Auto reset macro for mu online.
+
+Steps:
+
+1. Three clients in win mode.
+2. A ingame macro, use in chat "/reset" then enter after the reset it automatically Press "Home" if your server have MU helper NOTE: You can delete the Home Button if your server doesn't have MU Helper
+3. Enjoy.
+
+Game Settings
+
+Window mode = 1
+Resolution 800x600
+Mouse Sensitivity 3
+
+You can use C# or Python for Level detector it will automatically Launch the macro once it was detected level 400 
+
+Macro Timings
+Delays 100ms
+
+Home Button = 11 minutes you can change it depends on where you level fast 
+</Description>
+    <Comment>https://keyran.net - Free macros download |</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 2670 432
+Delay 100 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 100 ms
+KeyDown 88 1
+Delay 100 ms
+KeyUp 88 1
+Delay 100 ms
+KeyDown 56 1
+Delay 100 ms
+KeyUp 56 1
+Delay 1000 100 ms
+KeyDown 21 1
+Delay 100 ms
+KeyUp 21 1
+Delay 100 ms
+KeyDown 8 1
+Delay 100 ms
+KeyUp 8 1
+Delay 100 ms
+KeyDown 22 1
+Delay 100 ms
+KeyUp 22 1
+Delay 100 ms
+KeyDown 8 1
+Delay 100 ms
+KeyUp 8 1
+Delay 100 ms
+KeyDown 23 1
+Delay 100 ms
+KeyUp 23 1
+Delay 100 ms
+KeyDown 88 1
+Delay 100 ms
+KeyUp 88 1
+Delay 100 ms
+KeyDown 74 1
+Delay 3 s
+KeyUp 74 1
+Delay 500 ms
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+KeyDown 56 1
+Delay 64
+KeyUp 56 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 64
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+KeyDown 69 1
+Delay 11 min
+KeyUp 69 1
+GoWhile 1 26</Syntax>
+    </KeyDown>
+    <Software>MU Online</Software>
+  </DefaultMacro>
+</Root>

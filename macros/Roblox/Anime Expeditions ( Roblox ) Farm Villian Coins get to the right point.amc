@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>
+Версия: 1.0
+
+Игра: Anime Expeditions (Roblox)
+
+Событие: Villain Invasion, Акт 1 (Crow Hideout – Act 1)
+
+Цель макроса:
+Этот макрос предназначен для автоматического запуска и прохождения первого акта (Act 1) лимитированного события Villain Invasion. Его главная задача — стабильно добивать точку, после которой можно безопасно включить второй макрос для автоматизации боевых действий (фарма Villain Coins и дополнительных предметов, таких как Dark Scepter).
+
+Важно: Этот макрос является первой частью двухэтапной системы фарма. Он не включает в себя сложные боевые сценарии, а лишь обеспечивает стабильный вход в матч и его начало.
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 121 ms
+KeyUp 68 1
+Delay 94 ms
+KeyUp 225 1
+Delay 441 ms
+KeyDown 26 1
+Delay 61 ms
+KeyDown 7 1
+Delay 1054 ms
+KeyUp 7 1
+Delay 312 ms
+KeyDown 7 1
+Delay 1375 ms
+KeyUp 7 1
+Delay 1583 ms
+KeyUp 26 1
+Delay 1677 ms
+KeyDown 26 1
+Delay 241 ms
+KeyUp 26 1
+Delay 1826 ms
+KeyDown 225 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

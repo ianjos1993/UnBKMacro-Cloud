@@ -1,0 +1,132 @@
+<Root>
+  <DefaultMacro>
+    <Major>Yoshimitsu CMB02</Major>
+    <Description>Комбо макрос для персонажа Yoshimitsu в игре Tekken 8
+
+Yoshimitsu не требует его присутствие в бою, не подчиняется линейной логике. Он не вступает в конфликт как часть системы, а скорее как внешняя переменная, которая ломает структуру взаимодействий между бойцами. Любая попытка зафиксировать его стиль приводит к ошибке восприятия: атаки идут под нестандартными углами, ритм постоянно смещается, дистанция теряет стабильность. На фоне противостояния Мишима он выглядит не как участник, а как фактор искажения. Его действия не поддерживают ни одну сторону, но влияют на исход столкновений через хаотичное перераспределение темпа и пространства боя.
+
+Видео демонстрация макроса - https://youtu.be/P-V65oC77o8
+Тестировалось на последней версии игры.
+
+Настройки в программе для корректного выполнения макроса:
+1. Использовать драйвер.
+2. Отключить использование минимальной задержки.
+
+
+Настройки управления в игре:
+1 - Num 4
+2 - Num 5
+3 - Num 1
+4 - Num 2
+Up - W
+Down - S
+Left - A
+Right - D
+
+Если макрос не работает обращаться - https://keyran.net/discord
+Либо к автору макроса, также по вопросам написания макросов - hersonaep (discord)
+
+#tekken #tekken8 #yoshi #keyran</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 47 ms
+KeyDown 97 1
+Delay 621 ms
+KeyUp 97 1
+Delay 30 ms
+KeyUp 7 1
+Delay 535 ms
+KeyDown 7 1
+Delay 414 ms
+KeyUp 7 1
+Delay 117 ms
+KeyDown 93 1
+Delay 92 ms
+KeyUp 93 1
+Delay 106 ms
+KeyDown 93 1
+Delay 72 ms
+KeyUp 93 1
+Delay 107 ms
+KeyDown 93 1
+Delay 75 ms
+KeyUp 93 1
+Delay 960 ms
+KeyDown 93 1
+Delay 129 ms
+KeyUp 93 1
+Delay 410 ms
+KeyDown 7 1
+Delay 14 ms
+KeyDown 22 1
+Delay 52 ms
+KeyDown 93 1
+Delay 158 ms
+KeyUp 7 1
+Delay 2 ms
+KeyUp 93 1
+Delay 0 ms
+KeyUp 22 1
+Delay 683 ms
+KeyDown 4 1
+Delay 22 ms
+KeyDown 89 1
+Delay 94 ms
+KeyUp 89 1
+Delay 86 ms
+KeyDown 90 1
+Delay 136 ms
+KeyUp 90 1
+Delay 62 ms
+KeyDown 92 1
+Delay 85 ms
+KeyUp 92 1
+Delay 113 ms
+KeyDown 93 1
+Delay 146 ms
+KeyUp 93 1
+Delay 201 ms
+KeyUp 4 1
+Delay 474 ms
+KeyDown 89 1
+Delay 3 ms
+KeyDown 22 1
+Delay 108 ms
+KeyUp 89 1
+Delay 13 ms
+KeyDown 7 1
+Delay 55 ms
+KeyDown 93 1
+Delay 80 ms
+KeyUp 22 1
+Delay 67 ms
+KeyUp 93 1
+Delay 73 ms
+KeyDown 92 1
+Delay 92 ms
+KeyUp 92 1
+Delay 85 ms
+KeyUp 7 1
+Delay 1404 ms
+KeyDown 93 1
+Delay 100 ms
+KeyUp 93 1
+Delay 66 ms
+KeyDown 93 1
+Delay 88 ms
+KeyUp 93 1
+Delay 56 ms
+KeyDown 93 1
+Delay 59 ms
+KeyUp 93 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

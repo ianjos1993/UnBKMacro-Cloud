@@ -1,0 +1,76 @@
+<Root>
+  <DefaultMacro>
+    <Major>Randomdubs</Major>
+    <Description>1-start buff
+2-automatic attack
+3-good damage control
+ no need to stand still combo works right good in movement
+ works in loop press again to stop
+ (Only initial buff needs to be activated manually over time)
+ (I recommend disabling it to use dodge skills)
+ (simple mode on)
+Note:
+works only with default game settings or you will need to edit it manually
+
+.good game.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+KeyDown 8 1
+Delay 64
+Delay 64 ms
+KeyUp 225 1
+KeyUp 8 1
+Delay 64
+Delay 64 ms
+KeyDown 43 1
+Delay 64
+Delay 64 ms
+KeyUp 43 1
+Delay 64
+Delay 64 ms
+KeyDown 25 1
+Delay 64
+Delay 64 ms
+KeyUp 25 1
+Delay 64 ms
+Delay 64 ms
+KeyDown 31 1
+KeyUp 31 1
+Delay 30 ms
+KeyDown 32 1
+Delay 30 ms
+KeyUp 32 1
+Delay 64
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 30 ms
+KeyDown 31 1
+Delay 64
+Delay 30 ms
+KeyUp 31 1
+Delay 30 ms
+KeyDown 29 1
+Delay 30 ms
+KeyUp 29 1
+Delay 30 ms
+RightDown 1
+Delay 30 ms
+RightUp 1
+Delay 30 ms
+RightDown 1
+Delay 30 ms
+RightUp 1
+Delay 30 ms
+Goto 21</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

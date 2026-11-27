@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Summon Jetpack in Helldiver 2. Please note keybind for strategem input must be set to the arrow keys on your keyboard</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 40 ms
+KeyUp 224 1
+Delay 40 ms
+KeyDown 81 1
+Delay 40 ms
+KeyUp 81 1
+Delay 40 ms
+KeyDown 82 1
+Delay 40 ms
+KeyUp 82 1
+Delay 40 ms
+KeyDown 82 1
+Delay 40 ms
+KeyUp 82 1
+Delay 40 ms
+KeyDown 81 1
+Delay 40 ms
+KeyUp 81 1
+Delay 40 ms
+KeyDown 82 1
+Delay 40 ms
+KeyUp 82 1</Syntax>
+    </KeyDown>
+    <Software>Helldivers 2</Software>
+  </DefaultMacro>
+</Root>

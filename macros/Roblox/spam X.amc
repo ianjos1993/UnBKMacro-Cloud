@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>в Roblox режиме Jujutsu Zero может понадобиться авто нажатие X для использования навыка на X
+сам им пользуюсь для автоматизации фарма боссов</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 27 1
+Delay 78 ms
+KeyUp 27 1</Syntax>
+    </KeyDown>
+    <Software>roblox jjz skill x</Software>
+  </DefaultMacro>
+</Root>

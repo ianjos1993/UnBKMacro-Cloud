@@ -1,0 +1,72 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос позволяет быстро обновить скин если вы его сменили и он остался прежним) условия на сервере должна быть команда /skin reload . команда хорошо сочетается с моим же макросом auto skin delete. биндите на нужную кнопку и после смены скина жмите и он автоматически обновится. удачной игры</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 64
+KeyDown 56 1
+Delay 64
+KeyUp 56 1
+Delay 64
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 14 1
+Delay 64
+KeyUp 14 1
+Delay 64
+KeyDown 12 1
+Delay 64
+KeyUp 12 1
+Delay 64
+KeyDown 17 1
+Delay 64
+KeyUp 17 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 15 1
+Delay 64
+KeyUp 15 1
+Delay 64
+KeyDown 18 1
+Delay 64
+KeyUp 18 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

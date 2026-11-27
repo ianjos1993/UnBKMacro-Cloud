@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major>Fejume</Major>
+    <Description>Авто альт для работника на СТО РК. Очень удобен и быстрый. Не нужно постоянно тыкать на Альт что бы заменить масло или поставить AutoLock. Рекомендую биндить на любую клавищу NumPad и использовать режим работы самого скрипта. Всем хорошего заработка!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы 
+@pr.kntp Инстаграмм создателя.</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 226 1
+Delay 32
+KeyUp 226 1
+Delay 32</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

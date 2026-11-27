@@ -1,0 +1,72 @@
+<Root>
+  <DefaultMacro>
+    <Major>Grand RP – Plate Dealer Quick Sell Assistant (10,000)</Major>
+    <Description>This macro is a Quality-of-Life assistant made specifically for the License Plate Dealer in Grand RP and can be used directly at the dealer.
+It speeds up the repetitive selling workflow by automatically handling the input sequence (opening the interaction/chat step, entering the sell format, and pre-filling the price to 10,000), so you can complete sales faster and more consistently.
+
+The macro is designed for active, in-front-of-the-dealer use and focuses on comfort + consistency: stable delays to reduce misinputs, and a panic stop for instant interruption at any time.
+For Resolution use 1920x1080 than its working fine for you.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1 s
+KeyDown 8 1
+Delay 50 ms
+KeyUp 8 1
+Delay 500 ms
+MoveTo 1261 985
+Delay 500 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 500 ms
+MoveTo 1133 642
+Delay 500 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 500 ms
+MoveTo 504 1032
+Delay 500 ms
+KeyDown 30 1
+Delay 100 ms
+KeyUp 30 1
+Delay 100 ms
+KeyDown 39 1
+Delay 100 ms
+KeyUp 39 1
+Delay 100 ms
+KeyDown 39 1
+Delay 100 ms
+KeyUp 39 1
+Delay 100 ms
+KeyDown 39 1
+Delay 100 ms
+KeyUp 39 1
+Delay 100 ms
+KeyDown 39 1
+Delay 100 ms
+KeyUp 39 1
+Delay 500 ms
+MoveTo 1049 772
+Delay 500 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 500 ms
+MoveTo 1047 694
+Delay 500 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 64
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Использование: 
+1. Запускаете миссию Симона "Конфискация - Автодомоугон"
+2. В MODEST MENU открываете вкладку "TUNABLES"  листаете вниз и на праметре "Min Mission Payout"  указываете максимальное значение.
+3. На главной странице MODEST MENU ищите пункт "WORLD" наводитесь на "Kill all Mission Vehicles" 
+4. Запускайте макрос и идите гулять)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 93 1
+Delay 64
+KeyUp 93 1
+Delay 64
+KeyDown 75 1
+Delay 64
+KeyUp 75 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>гта Онлайн/Фарм денег</Software>
+  </DefaultMacro>
+</Root>

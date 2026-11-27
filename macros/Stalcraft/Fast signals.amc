@@ -1,0 +1,77 @@
+<Root>
+  <DefaultMacro>
+    <Major>FlazyFad</Major>
+    <Description>Вспомогательный макрос для бустрого поиска сигнала в "Stalcraft". 
+При помощи данного макроса вы будете забирать наибольшее колличество сигналов.
+Вам больше не понадобится нажимать кнопки на САК-1.
+
+Для работы макроса нужно выполнить следующие действия: 
+В настройках игры установыть открытие САК-1 на клавишу "RAlt"
+(Настройки =&gt; Управление =&gt; Взаимодействие =&gt; Вспомогательный инструмент)
+После чего выбрать данный макрос в программе (Keyran) и установить горячую клавишу.
+
+Разработа для данных настроек: 
+1. Разрешения экрана 1920x1080
+2. FOV 103
+3. Режим «В окне»
+
+Преднозначен для работы с Детектор широкого диапазона САК-1.
+
+В случает изменения настроек разрешения или же изображения монитора. Следует изменить координаты (X , Y) и Цвет (RGB) в "Редакторе макросов".</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 230 1
+Delay 64 ms
+KeyUp 230 1
+Delay 64 ms
+MoveTo 1076 794
+MoveTo 1081 805
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+GoColor 36 1 42,65,38 24,39,21 1 691 399 709 682 1 0
+GoColor 14 0 42,65,38 24,39,21 1 691 399 638 682 1 0
+Delay 64 ms
+MoveTo 1351 786
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+GoColor 20 1 65,38,38 255,255,255 1 1120 741 245 340 1 0
+GoColor 23 0 65,38,38 255,255,255 1 1120 741 245 340 1 0
+MoveTo 1350 790
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+MoveTo 627 577
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+Goto 45
+KeyDown 230 1
+Delay 64 ms
+KeyUp 230 1
+Delay 64 ms
+KeyDown 230 1
+Delay 64 ms
+KeyUp 230 1
+Delay 64 ms
+Goto 4
+Delay 64 ms</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

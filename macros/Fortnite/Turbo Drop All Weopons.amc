@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>THis macro will drop all wepons in under 15 seconds.
+
+Instructions:
+1.  Bring up your backpack/inventory screen
+2.  Select the "Guns" or "Melee" weapons tab
+3.  Run this macro.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 27 1
+Delay 64
+KeyUp 27 1
+Delay 64
+GoWhile 1 220
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

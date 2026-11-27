@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Quick Switch to AR For Fortnite 
+
+Pickaxe Is Scroll Wheel Down
+
+AR Slot Keybind is 1
+Or you can use it for Pump or Shotgun or what ever gun you use in slot one 
+can be used for most games but created for fortnite Quick Switch Guns
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>WheelDown 1
+Delay 15 ms
+KeyDown 30 1
+Delay 15 ms
+KeyUp 30 1
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

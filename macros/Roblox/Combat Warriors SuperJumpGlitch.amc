@@ -1,0 +1,58 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос способен автоматизировать процесс выполнения трюка, при котором нужно сделать кувырок, быстро крутить камеру в одну сторону и прыгнуть; но вручную не всегда получается просчитать, какой высоты вы достигните.
+Высота прыжка после выполнения трюка автоматизированного более стабильна, но важно учитывать данные требования: задержка кувырка, прыжка, стамина (нужно около половины), наличие функции вида от третьего лица, Shift lock (по умолчанию Ctrl) в игре. 
+Если трюк не срабатывает несколько раз подряд, попробуйте поставить чувствительность мыши в игре на 1.
+Если в игре делаются скриншоты при запуске макроса, то попробуйте проверить целостность драйвера и/или включите его.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+KeyDown 26 1
+Delay 200 ms
+KeyDown 8 1
+Delay 70 ms
+MoveR -450 0
+Delay 15 ms
+MoveR -450 0
+Delay 15 ms
+MoveR -450 0
+Delay 15 ms
+MoveR -450 0
+Delay 15 ms
+MoveR -450 0
+Delay 15 ms
+MoveR -450 0
+Delay 15 ms
+MoveR -450 0
+Delay 15 ms
+MoveR -450 0
+Delay 15 ms
+MoveR -450 0
+Delay 15 ms
+KeyUp 8 1
+KeyDown 44 1
+MoveR -450 0
+Delay 15 ms
+MoveR -450 0
+Delay 15 ms
+MoveR -450 0
+Delay 15 ms
+MoveR -450 0
+Delay 15 ms
+MoveR -450 0
+Delay 15 ms
+KeyUp 44 1
+KeyUp 26 1
+KeyUp 225 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

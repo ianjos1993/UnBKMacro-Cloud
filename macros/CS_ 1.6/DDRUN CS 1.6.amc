@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Такая замечательная штучка DDRUN,с помощью того,вы можете сделать свои шаги чуть тише,тем самым вы немного подпрыгиваете.
+И так начнем.
+
+1) Открываем консоль.
+2) пишем: bind mwheeldown +duck
+3) Проверяем,крутим колесико мыши вниз.
+4) Наслаждайтесь игрой!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 1 ms
+KeyUp 224 1
+Delay 100 ms</Syntax>
+    </KeyDown>
+    <Software>CS 1.6</Software>
+  </DefaultMacro>
+</Root>

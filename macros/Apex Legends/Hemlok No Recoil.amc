@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>Hemlok No Recoil</Major>
+    <Description>This is a macro for the Hemlok burst. it works best with DPI 800 and in game sensitivity of 1.5. Recommend 2x or 3x optics. Have fun</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 40 ms
+MoveR -4 17
+Delay 40 ms
+MoveR 3 12
+Delay 40 ms
+MoveR 0 16
+Delay 40 ms
+MoveR -1 11
+Delay 40 ms
+MoveR 4 11
+Delay 40 ms
+MoveR -5 15
+Delay 40 ms
+MoveR 4 11
+Delay 40 ms
+MoveR 2 13
+Delay 40 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

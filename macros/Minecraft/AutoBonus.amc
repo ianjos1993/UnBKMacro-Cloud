@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматически забирает бонус на сервере RPM Minecraft
+
+Работает, когда телефон в 7 слоте.
+Разрешение экрана: 1680x1050
+Необходим драйвер.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1000 ms
+GoColor 1 0 100,74,23 255,255,255 1 923 989 697 92 1 0
+KeyDown 36 1
+Delay 64 ms
+KeyUp 36 1
+Delay 200 ms
+RightDown 1
+Delay 64 ms
+RightUp 1
+Delay 64 ms
+MoveTo 1135 640
+Delay 200 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 200 ms
+KeyDown 41 1
+Delay 64 ms
+KeyUp 41 1
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

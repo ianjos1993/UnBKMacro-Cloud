@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос сам много раз нажимает стрелочку вверх. 
+ОСТОРОЖНО: На втором сервере за это банят.
+На остальных не знаю, так что будьте осторожны.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 82 1
+Delay 65 ms
+KeyUp 82 1
+Delay 65 ms</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

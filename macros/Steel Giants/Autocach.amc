@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос используется для автоматического выбора цели и ее атаки, позволяя избавиться от постоянного нажатия одних и тех же кнопок.
+Наиболее полезно на механических клавиатурах, т.к. убирает не нужный шум)</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64 ms
+KeyDown 30 1
+Delay 64 ms
+KeyUp 30 1
+Delay 84 ms
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+GoWhile 1 100</Syntax>
+    </KeyDown>
+    <Software>SteelGiants</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос (баг урон) , для омеги 1.7.10 это уже всем понятно , свапает 1-4 , кликает на 30-32 кпс , берёт в комбу идиально если пвп в з5 с крита можно шотнуть !
+1 - меч
+4 - меч (35 урон)
+Удачи</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 15 ms
+LeftDown 1
+Delay 7 ms
+LeftUp 1
+Delay 7 ms
+KeyDown 33 1
+Delay 1 ms
+KeyUp 33 1
+LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 15 ms
+LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 6 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

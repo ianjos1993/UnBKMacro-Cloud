@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Just as you are about to hit the ground, press the macro key around 10 units above the ground to perform a "crouchbug".
+
+Crouchbugging saves you from losing hp when falling and stamina, the landing also doesn't make any sound.
+
+Same as a jumpbug without the jump.</Description>
+    <Comment>The timing will require some trial and error to master, but the macro is working perfectly.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 15 ms
+KeyUp 224 1
+Delay 7 ms</Syntax>
+    </KeyDown>
+    <Software>CS: GO</Software>
+  </DefaultMacro>
+</Root>

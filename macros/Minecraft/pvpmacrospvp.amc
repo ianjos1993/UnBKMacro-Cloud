@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>ПВП</Major>
+    <Description>Спасибо за выбор данного макроса! В данном макросе сочитаются простота использования и эффективность, а благодаря оптимальной задержке шансы получить бан сводятся к нулю. Макрос предназначен для повышения вашего кпс. Лучше устанавливать его на ЛКМ (левая кнопка мыши).</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+LeftUp 1
+Delay 15 65 ms
+LeftDown 1
+Delay 15 65 ms
+LeftDown 1
+LeftUp 1
+Delay 15 65 ms
+LeftDown 1
+Delay 15 65 ms
+LeftDown 1
+LeftUp 1
+Delay 15 65 ms
+LeftDown 1
+Delay 15 65 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

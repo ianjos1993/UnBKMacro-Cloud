@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос предназначен для режима Hospital tycoon. Он позволяет использовать "станок", пока вы афк. Чтобы его использовать необходимо: подойдти к "станку", чтобы отобразилась буква "E", а затем активировать макрос.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1247 ms
+KeyDown 8 1
+Delay 678 ms
+KeyUp 8 1
+Delay 496 ms
+KeyDown 8 1
+Delay 591 ms
+KeyUp 8 1
+Delay 431 ms
+KeyDown 8 1
+Delay 576 ms
+KeyUp 8 1
+Delay 559 ms
+KeyDown 8 1
+Delay 567 ms
+KeyUp 8 1
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

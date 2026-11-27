@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Вобан для индекса,с привитой подпиткой на 1 скилл,переодически активация 2 скила,выход в оператора (с зенуриком),+ выход из афк,сборка вобана и макроса расчитана как для игры в соло так и для совместной игры</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 1000 ms
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 1000 ms
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 1000 ms
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 1000 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 1000 ms
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 1000 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 1000 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 3000 ms
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 50000 ms</Syntax>
+    </KeyDown>
+    <Software>Warframe</Software>
+  </DefaultMacro>
+</Root>

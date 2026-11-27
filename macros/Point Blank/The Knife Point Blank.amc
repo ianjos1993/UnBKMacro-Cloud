@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description> Макрос для игры с ножиком в Point Blank.
+
+Если ты ножер,то данный макрос поможет тебе.
+
+Очень простой и легкий.
+
+Делает удар нодиком и быстрою смену,
+
+
+Всем приятной игры.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 18 ms
+LeftUp 1
+Delay 18 ms
+KeyDown 32 1
+Delay 10 ms
+KeyUp 32 1
+Delay 10 ms
+KeyDown 31 1
+Delay 10 ms
+KeyUp 31 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major>Jujutsu Shenanigans World Slash</Major>
+    <Description>This is the fastest way to do a World Slash in Jujutsu Shenanigans on Roblox.
+
+Warning! You must have activated your awakening. The moves below shouldn't be on cooldown. If they are on cooldown the macro won't work because the World Slash and the moves are only in the awakened state of the Vessel character.
+
+1 is for Dismantle.
+3 is for Rush.
+2 is for Open.
+R is for the Special move.
+
+You can bind this macro anywhere you want. Something like E would be useful because of how close it is to W.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 85 ms
+KeyUp 30 1
+Delay 250 ms
+KeyDown 32 1
+Delay 90 ms
+KeyUp 32 1
+Delay 275 ms
+KeyDown 31 1
+Delay 85 ms
+KeyUp 31 1
+Delay 300 ms
+KeyDown 21 1
+Delay 50 ms
+KeyUp 21 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

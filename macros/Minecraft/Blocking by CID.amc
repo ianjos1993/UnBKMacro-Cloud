@@ -1,0 +1,54 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос автоматически вводит команду /bancid в Minecraft Bedrock Edition, позволяя мгновенно забанить игрока по его уникальному CID (Client ID). Это особенно полезно для серверных администраторов, поскольку CID-бан блокирует игрока даже при смене никнейма, что делает его более надежным, чем обычный бан по имени. После активации макроса вам нужно вписать никнейм нарушителя. 
+
+Инструкция по установке:
+1. Скачать файл макроса.
+2. Назначьте его на любую клавишу, с которой вам будет удобнее всего активировать макрос.
+3. Пользуйтесь. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>SetLang en-US
+KeyDown 56 1
+Delay 10
+KeyUp 56 1
+Delay 10
+KeyDown 5 1
+Delay 10
+KeyUp 5 1
+Delay 10
+KeyDown 4 1
+Delay 10
+KeyUp 4 1
+Delay 10
+KeyDown 17 1
+Delay 10
+KeyUp 17 1
+Delay 10
+KeyDown 6 1
+Delay 10
+KeyUp 6 1
+Delay 10
+KeyDown 12 1
+Delay 10
+KeyUp 12 1
+Delay 10
+KeyDown 7 1
+Delay 10
+KeyUp 7 1
+Delay 10
+KeyDown 44 1
+Delay 10
+KeyUp 44 1
+Delay 10</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

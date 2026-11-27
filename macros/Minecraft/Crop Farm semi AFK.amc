@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>Hypixel Skyblck Farm Semi AFK</Major>
+    <Description>A marco for a Crop (every Single Crop in the game) Farmdisign is 50 * 20 for Hypixel Skyblock. Works pretty awsom on my farm design</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 25 s
+KeyUp 4 1
+Delay 64
+KeyDown 26 1
+Delay 2 s
+KeyUp 26 1
+Delay 64
+KeyDown 7 1
+Delay 25 s
+KeyUp 7 1
+Delay 64
+KeyDown 26 1
+Delay 2 s
+KeyUp 26 1
+Delay 64
+GoWhile 1 20</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

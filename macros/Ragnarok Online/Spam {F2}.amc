@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major>rneves</Major>
+    <Description>Espamar so o F2, bom usar com impcto explosivo em mapa especias ou qualquer abilidade.
+exemplo de magia  Encantar Lâmina,Lâmina de Aura, Rapidez com Duas Mãos e Dedicação.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 59 1
+Delay 64 120 ms
+KeyUp 59 1
+Delay 60 150 ms</Syntax>
+    </KeyDown>
+    <Software>Ragnarok</Software>
+  </DefaultMacro>
+</Root>

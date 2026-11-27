@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>FC Online Full-Power ZQW Cross Macro
+
+This macro performs a full-power ZQW cross in the crossing zone using the default in-game key settings. In most situations, ZQW crosses are not intended for nearby teammates, so even with a full power gauge, the game provides a certain amount of positional correction. To ensure the input is recognized as a cross rather than a through pass, it should be used from the crossing zone. No additional gauge timing is required.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+
+Uses default in-game key settings.
+
+Performs a full-power ZQW cross. Use in the crossing zone to ensure it registers as a cross instead of a through pass. No manual gauge timing is required.
+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+KeyDown 20 1
+KeyDown 26 1
+Delay 400 ms
+KeyUp 29 1
+KeyUp 20 1
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>FIFA 4 Online</Software>
+  </DefaultMacro>
+</Root>

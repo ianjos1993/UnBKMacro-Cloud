@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major>KAT Fast Gun</Major>
+    <Description>Knife Ability Test (KAT)  is a Roblox shooter game with an active player base ranging from 400 to 700 active players a day. There are two weapons avalible for players to use; a knife and a gun. Those who play it know just how competitive and sweaty players get inside of such game. If you enjoy using gun inside of KAT, this is the macro for you. Created with maticulous testing and exact delays, this macro allows you to pull your gun out, shoot, and holster it faster than any human hand ever could, and all in a sigle button press!
+
+Instructions:
+ - Put your gun tool inside your second slot
+
+Notes:
+ - Don't use the Left Mouse Button as a hotkey for this macro, as it breaks it.
+ - Some guns inside of KAT may have differet times it takes them to fire, but the most common is 450 ms. Refer to the KAT Wiki for more information if this macro doesn't work.
+ - If you want to add a loop at the end of this macro, it may not work, as the time it takes to shoot a shot is different from the first shot and the later shots. You may have to play around with this macro a bit if you want to make your specific gun have a burst feature. If anyone spends the time to find out each delay amount, please contact the developer (me) of this macro so I can improve it in the future.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 450 ms
+//This delay is the minimum, reducing it will break the macro
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+//For user: you can add a loop here if you want, but I didn't include it </Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

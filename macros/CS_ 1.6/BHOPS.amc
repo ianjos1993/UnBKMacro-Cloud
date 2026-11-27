@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Авто-распрыжка, для запуска:
+1. Поставьте макрос на любую удобную вам кнопку в BotMek
+2. зайдите в настройки игры и забиндите"Прыжок" на Space
+3. зайдите на сервер,в матч и зажмите кнопку которую вы ставили под макрос(не забудьте нажать "запустить")
+Bunny Hop Авто распрыжка просто забиндите на удобную клавишу и прыгайте!!! Это облегчает процес прохождение карт и сокращение путей!!!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 15
+KeyUp 44 1
+Delay 15
+KeyDown 44 1
+Delay 15
+KeyUp 44 1
+Delay 15
+KeyDown 44 1
+Delay 15
+KeyUp 44 1
+Delay 15</Syntax>
+    </KeyDown>
+    <Software>CS 1.6</Software>
+  </DefaultMacro>
+</Root>

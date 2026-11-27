@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всем привет сделал свой макрос на берданку хочу с вами поделиться очень хороший!
+
+Настройки в программе:
+1. Раздел "Окно"
+  1.1. Работать без привязки к окну
+  1.2. Использовать драйвер
+2. Раздел настроек программы
+  2.1. Запустить слежение за клавишами "ВКЛ"
+  2.2. Запустить режим инкогнито "ВКЛ" (ОБЯЗАТЕЛЬНО!)
+  2.3. Использовать минимальную задержку "ВЫКЛ"
+  2.4. Забиндить на любую кнопку (Рекомендую ЛКМ или КОЛЁСИКО)
+  2.5. Выбрать режим работы "Пока зажата клавиша"
+
+Настройки в игре:
+input.sensitivity 1.0 - сенса
+fov 81 - поле зрение</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+MoveR 0 16
+LeftUp 1
+MoveR 0 0
+Delay 45 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

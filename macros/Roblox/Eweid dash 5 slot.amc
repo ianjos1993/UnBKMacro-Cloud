@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>хороший макрос на емот даш в евейд с ним вы сможете спокойно дешить вы можете забиндить го на любую кнопку (желательно на колесо мыши)</Description>
+    <Comment>это эмот даш на 5 слот в роблоск евейд
+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+Delay 64
+KeyUp 10 1
+Delay 64
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

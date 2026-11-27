@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major>editing</Major>
+    <Description>first u have to do thing and know things d is the edit key bind and l is the select edit building u can do the same for yours auto conferm choes edit and your ping should be less than 40 to have this ctrl is for shotgun or picaxe </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 5 ms
+KeyUp 7 1
+Delay 10 ms
+KeyDown 15 1
+Delay 60 ms
+KeyUp 15 1
+Delay 0 ms
+KeyDown 224 1
+Delay 5 ms
+KeyUp 224 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

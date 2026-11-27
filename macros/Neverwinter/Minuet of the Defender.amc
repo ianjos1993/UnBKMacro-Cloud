@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Совет. Ставить на F2
+Я например поставил все песни кроме тех что в ячейке на F1-F6
+Песн Менуэт Защитника моментально без нажатия. Зашли в режим исполеения ТАБ нажали F2
+Путь идеала Менестрель (Хил)
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+KeyDown 35 1
+Delay 64
+KeyUp 35 1
+Delay 64
+KeyDown 35 1
+Delay 64
+KeyUp 35 1
+Delay 64
+KeyDown 36 1
+Delay 64
+KeyUp 36 1
+Delay 64
+KeyDown 36 1
+Delay 64
+KeyUp 36 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Neverwinter</Software>
+  </DefaultMacro>
+</Root>

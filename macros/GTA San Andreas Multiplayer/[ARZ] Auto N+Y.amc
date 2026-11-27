@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Здраствуйте пользователи Keyran это макрос для сервера Arizona RP. Автоматически нажимает N+Y. Можно исползовать для СТК и другого. Использовать пока нажата клавиша.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 17 1
+Delay 5 ms
+KeyUp 17 1
+KeyDown 28 1
+Delay 5 ms
+KeyUp 28 1
+KeyDown 17 1
+Delay 5 ms
+KeyUp 17 1
+KeyDown 28 1
+Delay 5 ms
+KeyUp 28 1
+KeyDown 17 1
+Delay 5
+KeyUp 17 1
+KeyDown 28 1
+Delay 5
+KeyUp 28 1</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

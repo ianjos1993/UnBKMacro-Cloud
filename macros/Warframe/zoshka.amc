@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для моментального метания ЗО, обязательно с заражением эксодии, ожидания настроены на средние ПК, но желательно перенастраивать под свой ПК, иначе может ломаться</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 20 ms
+KeyUp 44 1
+Delay 20 ms
+KeyDown 44 1
+Delay 20 ms
+KeyUp 44 1
+Delay 20 ms
+RightDown 1
+Delay 20 ms
+KeyDown 8 1
+Delay 20 ms
+KeyUp 8 1</Syntax>
+    </KeyDown>
+    <Software>Warframe</Software>
+  </DefaultMacro>
+</Root>

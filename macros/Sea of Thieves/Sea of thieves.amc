@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос позволяет быстро переносить сундуки на воде
+Макрос быстро выкладывает сундуки берет обратно в руки
+ВАЖНО!
+В настройках поставить функцию, чтобы не зажимать кнопку, пока берешь вещи
+В настройках выкинуть предмет должен быть забинжен на X, а подобрать вещь на кнопку F
+Удачи.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 27 1
+KeyUp 27 1
+KeyDown 9 1
+KeyUp 9 1
+Delay 64
+KeyDown 225 1
+Delay 64
+KeyUp 225 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Sea of Thieves</Software>
+  </DefaultMacro>
+</Root>

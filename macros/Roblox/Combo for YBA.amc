@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для воспроизведения комбо в YBA на стар платинум.
+Биндов на боксе нету.
+Объясняю притягиваете человека на g и используете макрос</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyDown 44 1
+Delay 100 ms
+KeyDown 25 1
+KeyDown 6 1
+KeyUp 30 1</Syntax>
+    </KeyDown>
+    <Software>Roblox (Your Bizarre Adventure)</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major>Jitter Aim with a slight pull down for better control</Major>
+    <Description>Does not work with mouse binding, Bind to a keyboard button you can press easily like X, C or V.
+
+400 DPI - 4.8 Sens  /  800 DPI  -  2.4 Sens  / 1600 DPI - 1.2 Sens
+
+Resolution 1920x1080
+Tested with 1680x1050 ( Worked Fine too )
+Same with 1280x720</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR -4 4
+MoveR 0 1
+Delay 16 ms
+MoveR 4 -4
+Delay 13 ms
+MoveR -4 4
+Delay 16 ms
+MoveR 4 -4
+MoveR 0 1
+Delay 13 ms
+MoveR -4 4
+Delay 16 ms
+MoveR 4 -4
+Delay 13 ms
+MoveR -4 4
+MoveR 0 1
+Delay 16 ms
+MoveR 4 -4
+Delay 13 ms</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

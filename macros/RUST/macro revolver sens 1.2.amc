@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>macro revolver 1.2</Major>
+    <Description>this is the best macro for revolver, with sensitivity 1.2, you will be the best in pvp
+1920 x 1080
+dpi 1350
+fov 90
+sens 1.2
+
+enjoy the best macro on the server!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 50 ms
+MoveR 0 -33
+Delay 50 ms
+MoveR 0 -30
+Delay 50 ms
+MoveR 0 -31
+Delay 50 ms
+MoveR 0 -29
+Delay 50 ms
+MoveR 0 -31
+Delay 50 ms
+LeftUp 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

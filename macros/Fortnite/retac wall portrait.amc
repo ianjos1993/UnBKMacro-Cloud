@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>отбирание стенки вы должны забиндить стенку на букву с P.S что бы отобрать стенку ударте а потом нажмитн на кнопку на которую вы забиндили макрос
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 175 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 2 ms
+KeyDown 6 1
+Delay 1 ms
+LeftDown 1
+Delay 2 ms
+LeftUp 1
+Delay 2 ms
+KeyUp 6 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

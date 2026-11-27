@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простейший, но удобный макрос на маг класс, поставьте на 1 атакующий навык, на 8 навык на ману, Достаем котика и вуаля. Удобно на классике. При желании можно подогнать еще под себя</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 37 1
+Delay 64
+KeyUp 37 1
+Delay 64
+KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 250 ms
+GoWhile 13 13
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Karos Online</Software>
+  </DefaultMacro>
+</Root>

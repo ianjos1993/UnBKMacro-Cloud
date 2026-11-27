@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>Caps Lock Edit Button</Major>
+    <Description>This is a macro where you edit with the caps lock but in fortnite its the edit key that you use to edit every build you have  built in the game. Enjoy the  Caps Lock Edit Macroo!!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 57 1
+Delay 1 ms
+KeyUp 57 1
+Delay 1 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

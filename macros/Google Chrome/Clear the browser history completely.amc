@@ -1,0 +1,86 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос предназначен для очистки истории браузера. Этот макрос работает на разрешении 1366x768.
+
+В основном удаляется история браузера. Если вы задумаетесь над вопросом, почему всё так медленно, я могу ответить! Не у каждого хороший компьютер, и не у каждого хороший интернет. Здесь установлены задержки, чтобы всё успевало прогружаться, потому что, если что-то не успеет прогрузиться, то этот макрос уже не будет работать правильно.
+Спасибо за понимание!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 423 ms
+KeyDown 11 1
+Delay 112 ms
+KeyUp 11 1
+Delay 120 ms
+KeyUp 224 1
+Delay 120 ms
+MoveTo 114 274
+Delay 404 ms
+LeftDown 1
+Delay 404 ms
+LeftUp 1
+Delay 404 ms
+Delay 1000 ms
+MoveTo 799 203
+Delay 404 ms
+LeftDown 1
+Delay 404 ms
+LeftUp 1
+Delay 404 ms
+MoveTo 452 350
+Delay 404 ms
+LeftDown 1
+Delay 404 ms
+LeftUp 1
+Delay 404 ms
+MoveTo 451 399
+Delay 404 ms
+LeftDown 1
+Delay 404 ms
+LeftUp 1
+Delay 404 ms
+MoveTo 451 449
+Delay 404 ms
+LeftDown 1
+Delay 404 ms
+LeftUp 1
+Delay 404 ms
+WheelDown 1
+Delay 404 ms
+WheelDown 1
+Delay 404 ms
+MoveTo 453 421
+Delay 404 ms
+LeftDown 1
+Delay 404 ms
+LeftUp 1
+Delay 404 ms
+MoveTo 450 469
+Delay 404 ms
+LeftDown 1
+Delay 404 ms
+LeftUp 1
+Delay 404 ms
+MoveTo 450 519
+Delay 404
+LeftDown 1
+Delay 404
+LeftUp 1
+Delay 404
+MoveTo 832 570
+Delay 404
+LeftDown 1
+Delay 414 ms
+LeftUp 1
+Delay 414 ms</Syntax>
+    </KeyDown>
+    <Software>Google Chrome</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматически скрывает фонарик (H) и приседает (Ctrl), что помогает экономить время при встрече с ксеноморфом</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 500 ms
+KeyDown 11 1
+Delay 600 ms</Syntax>
+    </KeyDown>
+    <Software>Alien:Isolation</Software>
+  </DefaultMacro>
+</Root>

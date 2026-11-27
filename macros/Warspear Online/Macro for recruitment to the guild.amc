@@ -1,0 +1,234 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос позволяет писать в мир чат текст по набору следующего формата:
+(последний использованный смайл) НАБОР АКТИВОВ В ГИЛЬДИЮ (название гильдии на английском, для введения своего меняем строчки 95-122 под название своей гильдии) НА СОБЫ И ГВГ (последний использованный смайлик)
+Сообщение отправляется сразу 2 раза, затем снова отсылается 2 раза снова через 30 секунд.
+Просто раскрываем игру на весь экран, включаем макрос и обрабатываем сообщения в лс)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 26 751
+Delay 15 ms
+LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 15 ms
+MoveTo 561 233
+Delay 15 ms
+LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 15 ms
+MoveTo 610 814
+Delay 15 ms
+LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 15 ms
+KeyDown 44 1
+Delay 5 ms
+KeyUp 44 1
+Delay 5 ms
+KeyDown 28 1
+Delay 5 ms
+KeyUp 28 1
+Delay 5 ms
+KeyDown 9 1
+Delay 5 ms
+KeyUp 9 1
+Delay 5 ms
+KeyDown 54 1
+Delay 5 ms
+KeyUp 54 1
+Delay 5 ms
+KeyDown 13 1
+Delay 5 ms
+KeyUp 13 1
+Delay 5 ms
+KeyDown 11 1
+Delay 5 ms
+KeyUp 11 1
+Delay 5 ms
+KeyDown 44 1
+Delay 5 ms
+KeyUp 44 1
+Delay 5 ms
+KeyDown 9 1
+Delay 5 ms
+KeyUp 9 1
+Delay 5 ms
+KeyDown 21 1
+Delay 5 ms
+KeyUp 21 1
+Delay 5 ms
+KeyDown 17 1
+Delay 5 ms
+KeyUp 17 1
+Delay 5 ms
+KeyDown 5 1
+Delay 5 ms
+KeyUp 5 1
+Delay 5 ms
+KeyDown 7 1
+Delay 5 ms
+KeyUp 7 1
+Delay 5 ms
+KeyDown 13 1
+Delay 5 ms
+KeyUp 13 1
+Delay 5 ms
+KeyDown 7 1
+Delay 5 ms
+KeyUp 7 1
+Delay 5 ms
+KeyDown 44 1
+Delay 5 ms
+KeyUp 44 1
+Delay 5 ms
+KeyDown 7 1
+Delay 5 ms
+KeyUp 7 1
+Delay 5 ms
+KeyDown 44 1
+Delay 5 ms
+KeyUp 44 1
+Delay 5 ms
+KeyDown 225 1
+Delay 5 ms
+KeyDown 226 1
+Delay 5 ms
+KeyUp 225 1
+Delay 5 ms
+KeyUp 226 1
+Delay 5 ms
+KeyDown 14 1
+Delay 5 ms
+KeyUp 14 1
+Delay 5 ms
+KeyDown 12 1
+Delay 5 ms
+KeyUp 12 1
+Delay 5 ms
+KeyDown 15 1
+Delay 5 ms
+KeyUp 15 1
+Delay 5 ms
+KeyDown 15 1
+Delay 5 ms
+KeyUp 15 1
+Delay 5 ms
+KeyDown 8 1
+Delay 5 ms
+KeyUp 8 1
+Delay 5 ms
+KeyDown 21 1
+Delay 5 ms
+KeyUp 21 1
+Delay 5 ms
+KeyDown 22 1
+Delay 5 ms
+KeyUp 22 1
+Delay 5 ms
+KeyDown 44 1
+Delay 5 ms
+KeyUp 44 1
+Delay 5 ms
+KeyDown 225 1
+Delay 5 ms
+KeyDown 226 1
+Delay 5 ms
+KeyUp 225 1
+Delay 5 ms
+KeyUp 226 1
+Delay 5 ms
+KeyDown 28 1
+Delay 5 ms
+KeyUp 28 1
+Delay 5 ms
+KeyDown 9 1
+Delay 5 ms
+KeyUp 9 1
+Delay 5 ms
+KeyDown 44 1
+Delay 5 ms
+KeyUp 44 1
+Delay 5 ms
+KeyDown 6 1
+Delay 5 ms
+KeyUp 6 1
+Delay 5 ms
+KeyDown 13 1
+Delay 5 ms
+KeyUp 13 1
+Delay 5 ms
+KeyDown 54 1
+Delay 5 ms
+KeyUp 54 1
+Delay 5 ms
+KeyDown 22 1
+Delay 5 ms
+KeyUp 22 1
+Delay 5 ms
+KeyDown 44 1
+Delay 5 ms
+KeyUp 44 1
+Delay 5 ms
+KeyDown 5 1
+Delay 5 ms
+KeyUp 5 1
+Delay 5 ms
+KeyDown 44 1
+Delay 5 ms
+KeyUp 44 1
+Delay 5 ms
+KeyDown 24 1
+Delay 5 ms
+KeyUp 24 1
+Delay 5 ms
+KeyDown 7 1
+Delay 5 ms
+KeyUp 7 1
+Delay 5 ms
+KeyDown 24 1
+Delay 5 ms
+KeyUp 24 1
+Delay 5 ms
+KeyDown 44 1
+Delay 5 ms
+KeyUp 44 1
+Delay 5 ms
+MoveTo 33 744
+Delay 5 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+MoveTo 573 229
+Delay 5 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+MoveTo 672 806
+Delay 5 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+KeyDown 88 1
+Delay 5 ms
+KeyUp 88 1
+Delay 100 ms
+GoWhile 1 2
+Delay 30000 ms
+GoWhile 1 100</Syntax>
+    </KeyDown>
+    <Software>Warspear Online</Software>
+  </DefaultMacro>
+</Root>

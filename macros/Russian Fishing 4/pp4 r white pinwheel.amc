@@ -1,0 +1,54 @@
+<Root>
+  <DefaultMacro>
+    <Major>рр4</Major>
+    <Description>макрос на ловлю спинингом вертушкой
+разрешение экрана 1920 1080
+для данного макроса использовалась сборка
+катушка сибирия голд 30
+удилище linear s68ml 3-15g
+леска флюра 6.4кг
+вертушки 2-5гр
+ 
+параметры
+1 скорость проводки 25
+2 клипса 27метров
+
+ВАЖНО УБРАТЬ ПОДСАК С ПРОБЕЛА!!!!!</Description>
+    <Comment>ПРИЯТНОЙ РЫБАЛКИ
+ДАННЫЙ МАКРОС ИСПОЛЬЗУЮ ЛИЧНО НА РЕКЕ БЕЛОЙ НА ХАРИУСА И ФОРЕЛЬ
+ПОСТАВИЛ И ЗАНИМАЮСЬ ДЕЛАМИ ПО РАБОТЕ)</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 461 ms
+KeyUp 225 1
+Delay 1059 ms
+KeyDown 225 1
+Delay 444 ms
+LeftDown 1
+Delay 520 ms
+LeftUp 1
+Delay 2289 ms
+KeyUp 225 1
+Delay 1469 ms
+LeftDown 1
+Delay 46928 ms
+RightDown 1
+Delay 3366 ms
+RightUp 1
+Delay 278 ms
+KeyDown 44 1
+Delay 17 ms
+LeftUp 1
+Delay 147 ms
+KeyUp 44 1
+Delay 2060 ms
+GoWhile 1 500</Syntax>
+    </KeyDown>
+    <Software>Русская Рыбалка 4</Software>
+  </DefaultMacro>
+</Root>

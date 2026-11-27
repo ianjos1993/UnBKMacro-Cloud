@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major>Automatically pick fruits from tree</Major>
+    <Description>Macro automatically choose fruits and pick fruits for u on fivem servers, which allows you to farm without being caught or afk, literally handmade from me and just super useful, you can change the coords of the mouse for more use and change the keybinds too
+Works for full screen 1080p,4k,1920x1080 and less</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR 0 0
+Delay 64
+KeyDown 226 1
+Delay 64
+Delay 64
+RightDown 1
+Delay 64 ms
+RightUp 1
+MoveR 40 0
+LeftDown 1
+LeftUp 1
+Delay 90 ms
+MoveR 0 0
+Delay 64 ms
+LeftDown 1
+Delay 20 ms
+LeftUp 1
+Delay 20 ms
+MoveR 110 -87
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 11 s
+GoWhile 3 86400000</Syntax>
+    </KeyDown>
+    <Software>GTA V</Software>
+  </DefaultMacro>
+</Root>

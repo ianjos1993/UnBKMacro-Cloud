@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major>Insta anchor</Major>
+    <Description>Моментальный якорь в майнкрафт.
+
+Для использования нужно, на Q поставить якорь а на боковую кнопку мыши глоустоун.
+Если эти кнопки вам не удобны,можно просто заменить их своими в редакторе.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 1 ms
+KeyUp 20 1
+Delay 1 ms
+RightDown 1
+Delay 1
+RightUp 1
+Delay 50 ms
+Button4down 1
+Delay 1
+Button4Up 1
+Delay 1
+RightDown 1
+Delay 1 ms
+RightUp 1
+Delay 1
+RightDown 1
+Delay 1
+RightUp 1
+Delay 1
+RightDown 1
+Delay 1
+RightUp 1
+Delay 1
+RightDown 1
+Delay 1
+RightUp 1
+Delay 1
+RightDown 1
+Delay 1
+RightUp 1
+Delay 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

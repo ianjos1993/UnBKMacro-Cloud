@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major>Cristalix Симулятор взрыва Cristalix</Major>
+    <Description>Cristalix Симулятор взрыва афк фарм
+Бесконечный фарм, взривов и блоков
+В первых 4 слота ложете любые бомбы, но не одинаковые, а запускаеться афк фарм гарантирован</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+GoWhile 1 99999
+GoWhile 1 9999999
+GoWhile 1 86400000
+GoWhile 1 86400000
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>minecraft</Software>
+  </DefaultMacro>
+</Root>

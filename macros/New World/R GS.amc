@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>Relentless Rush Auto Heavy Atk 3x</Major>
+    <Description>Just set Relentless Rush to "R" and this script will automatically do heavy attack 3x
+
+Set Button to "R"
+
+Thank you </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 159 ms
+KeyUp 21 1
+Delay 928 ms
+LeftDown 1
+Delay 1200 ms
+LeftUp 1
+Delay 200 ms
+LeftDown 1
+Delay 944 ms
+LeftUp 1
+Delay 119 ms
+LeftDown 1
+Delay 904 ms
+LeftUp 1
+Delay 399 ms</Syntax>
+    </KeyDown>
+    <Software>NEW WORLD</Software>
+  </DefaultMacro>
+</Root>

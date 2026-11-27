@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major>Hypixel Skyblock</Major>
+    <Description>Macro used for floor farms, Potatoes, Carrots, Wheat and Nether wart from hypixel . The time is adapted to 2 plots,</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 7 1
+Delay 50 s
+KeyUp 7 1
+Delay 1 s
+KeyDown 4 1
+Delay 50 s
+KeyUp 4 1
+Delay 1 s
+LeftUp 1
+GoWhile 1 10</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

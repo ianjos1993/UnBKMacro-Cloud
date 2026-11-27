@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Добивание от Бриггс (средняя дистанция)
+
+Управление:
+1-J
+2-K
+3-L
+4-:
+Захват - U
+AMP - SHIFT
+WASD (Вверх, влево, вниз, вправо)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64
+KeyDown 15 1
+Delay 64
+KeyUp 15 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Mortal Kombat 11</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простенькая авторыбалка поможет вам быстро и без морок прокачать профессию рыбака c любой удочкой в archeage. Все очень просто и понятно, нужно просто запустить макрос вблизи водоема или моря и просто ждать. Так же нужно проверить хватает ли дистанции леске или нет. В противном случае макрос не будет работать</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 104 ms
+KeyUp 21 1
+Delay 105 ms
+LeftDown 1
+Delay 91 ms
+LeftUp 1
+Delay 79 ms
+Delay 5890 ms</Syntax>
+    </KeyDown>
+    <Software>Archeage</Software>
+  </DefaultMacro>
+</Root>

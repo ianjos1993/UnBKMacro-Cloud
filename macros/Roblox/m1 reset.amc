@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос выполняет очень трудный теч в игре TSB, для его использования вам нужно расширение экрана-1920x1080, фпс не важно главное вам нужно поймать противника в комбо, нанести ему 1 удар, а затем включить макрос</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+LeftDown 1
+MoveR 300 -200
+Delay 1 s
+KeyDown 7 1
+Delay 1 ms
+KeyDown 20 1
+MoveR -1000 -200</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

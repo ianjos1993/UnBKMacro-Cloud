@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос сделан специально для серверов майнкрафт больше под мод Lotr. Макрос идеально высчитан до милисекунд. точечно и уверенно пробивает человека. Ставя блокхит весь урон проходимый по вам будет уходить в блокхит меча, так же и удары. Достаточно зайти в игру забиндить макрос на любую клавишу и когда будет момент в жимкой просто нажимаете на клавишу и макрос будет работать за вас, ничего сложного в этом нет. Удачи в использовании!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+RightDown 1
+Delay 500 ms
+RightUp 1
+Delay 100 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft/Лучший макрос для жимки под мод lotr</Software>
+  </DefaultMacro>
+</Root>

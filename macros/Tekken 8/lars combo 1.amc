@@ -1,0 +1,119 @@
+<Root>
+  <DefaultMacro>
+    <Major>Lars combo 1</Major>
+    <Description>Макрос позволяет выполнять staple комбо за Lars.
+Видео демонстрации работы макроса: https://youtu.be/l8b2QDORSMU
+
+Ларс — лидер повстанческой армии Иггдрасиль и внебрачный сын Хейхачи Мишимы; хотя Ларс уже некоторое время знал о личности своего отца, Хейхачи не знал о связи Ларса с ним в течение многих лет. Ларс в молодом возрасте стал высокопоставленным офицером Tekken Force, специального военного подразделения Мишима Дзайбацу. Несмотря на свое высокое звание, Ларс регулярно сражался на передовой вместе со своими подчинёнными, чем заслужил их уважение.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 1.04.2024
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#larstekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 59 ms
+KeyDown 73 1
+KeyDown 74 1
+Delay 160 ms
+KeyUp 7 1
+Delay 19 ms
+KeyUp 73 1
+KeyUp 74 1
+Delay 130 ms
+KeyDown 4 1
+Delay 90 ms
+KeyDown 74 1
+Delay 80 ms
+KeyUp 74 1
+Delay 60 ms
+KeyDown 74 1
+Delay 89 ms
+KeyUp 74 1
+Delay 70 ms
+KeyDown 74 1
+Delay 129 ms
+KeyDown 76 1
+Delay 80 ms
+KeyUp 74 1
+Delay 30 ms
+KeyUp 76 1
+Delay 58 ms
+KeyDown 76 1
+Delay 80 ms
+KeyUp 76 1
+Delay 50 ms
+KeyDown 76 1
+Delay 100 ms
+KeyUp 76 1
+Delay 100 ms
+KeyUp 4 1
+Delay 90 ms
+KeyDown 7 1
+Delay 170 ms
+KeyDown 76 1
+Delay 70 ms
+KeyUp 76 1
+Delay 100 ms
+KeyDown 76 1
+Delay 60 ms
+KeyUp 76 1
+Delay 99 ms
+KeyDown 76 1
+Delay 109 ms
+KeyUp 76 1
+Delay 90 ms
+KeyDown 73 1
+Delay 70 ms
+KeyUp 73 1
+Delay 89 ms
+KeyUp 7 1
+Delay 20 ms
+KeyDown 74 1
+Delay 0 ms
+KeyDown 73 1
+Delay 39 ms
+KeyUp 73 1
+Delay 20 ms
+KeyUp 74 1
+Delay 19 ms
+KeyDown 74 1
+Delay 110 ms
+KeyUp 74 1
+Delay 59 ms
+KeyDown 74 1
+Delay 110 ms
+KeyUp 74 1
+Delay 80 ms
+KeyDown 74 1
+Delay 80 ms
+KeyUp 74 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

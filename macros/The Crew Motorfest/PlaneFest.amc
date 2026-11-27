@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>Plane AFK Farm</Major>
+    <Description>Speedtrap AFK Farm for Crew Motorfest After Patch Method. Plane required for optimal results - better parts will increase the desired effects.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 64 ms
+KeyDown 225 1
+Delay 2500 ms
+KeyDown 17 1
+Delay 64 ms
+KeyUp 17 1
+Delay 64 ms
+KeyUp 225 1
+Delay 64 ms
+KeyUp 26 1
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>The Crew Motorfest</Software>
+  </DefaultMacro>
+</Root>

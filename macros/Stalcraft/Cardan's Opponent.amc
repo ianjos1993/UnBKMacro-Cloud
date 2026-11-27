@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>sc0r1</Major>
+    <Description>1920 на 1080!!!
+Для начала покупаем 1000 водки и начинаем перекладывать все на перс склад 
+Ложим строго в одну ячейку и обязательно первую!!!!
+Открываем перс склад с водкой и включаем бинд 
+Ждем чуть больше 4 часов и готово
+
+</Description>
+    <Comment>Приятной игры!</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 384 256
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 487 352
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 15 s
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

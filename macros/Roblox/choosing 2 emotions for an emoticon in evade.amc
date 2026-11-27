@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>С помощью этого макроса вы сможете быстро нажимать пробел в месте со вторым слотом эмоций. Пригодиться если любите делать эмот дешь на разных эмоциях в одном раунде без переключения.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+Delay 5 ms
+KeyDown 31 1
+Delay 5 ms
+KeyUp 31 1
+Delay 5 ms
+KeyUp 10 1
+Delay 5 ms
+KeyDown 44 1
+Delay 10 ms
+KeyUp 44 1
+Delay 13 ms</Syntax>
+    </KeyDown>
+    <Software>roblox </Software>
+  </DefaultMacro>
+</Root>

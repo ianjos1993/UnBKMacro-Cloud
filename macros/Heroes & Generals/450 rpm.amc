@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major>делает цифру в 450 темпа не цифрой , а явью</Major>
+    <Description>самый легчайший макрос , расклик на 450 выстрелов в минуту. Раскликивает вашу пушку на 450 темпа , если она позволяет . подходит для стоковых винтовок м1 \ м1а1 .</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 68 ms
+LeftUp 1
+Delay 68 ms</Syntax>
+    </KeyDown>
+    <Software>Heroes And Generals</Software>
+  </DefaultMacro>
+</Root>

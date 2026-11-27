@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro was specially designed to help players in Dead by Daylight, making it easier and more effective to trick the killer. When you activate this macro, your character will perform two full 360-degree spins, with the camera moving in the opposite direction. This creates an unpredictable movement pattern that will confuse your pursuer and give you a better chance of escaping.
+
+Using the macro is incredibly simple: just assign it to a convenient key and activate it at the right moment while playing as a survivor. To execute this maneuver while running, hold down the Shift key, press the assigned activation key for the macro, and then release the W key to continue moving. Thanks to this macro, your fingers won’t get tired from constantly spinning the mouse, allowing you to focus on strategy and tactics.
+
+Enjoy the tactical advantage this macro provides and have fun outsmarting even the craftiest killer in the game!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 80 1
+KeyDown 26 1
+Delay 100 ms
+KeyUp 26 1
+Delay 1 ms
+KeyDown 7 1
+Delay 100 ms
+KeyUp 7 1
+Delay 1 ms
+KeyDown 22 1
+Delay 100 ms
+KeyUp 22 1
+Delay 1 ms
+KeyDown 4 1
+Delay 100 ms
+KeyUp 4 1
+Delay 1 ms
+KeyDown 26 1
+Delay 100 ms
+KeyUp 26 1
+KeyUp 80 1
+GoWhile 1 2</Syntax>
+    </KeyDown>
+    <Software>Dead by daylight</Software>
+  </DefaultMacro>
+</Root>

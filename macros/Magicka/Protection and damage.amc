@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>При наложении на себя наносит ближайшим противникам урон (до 1150). Позволяет сваливать противников при прохождении через них, защищает от возможности быть съеденным, при попытке напрыгнуть на мага, противники разбиваются об сосульки(наносится около 2К урона), броня полностью поглощает урон небольших мобов, сильный урон броня берёт на себя, но имеет большую уязвимость к огню и замедляет мага.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Magicka 1</Software>
+  </DefaultMacro>
+</Root>

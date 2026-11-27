@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This is forntite H and J Very fast editing 
+H is to open edit 
+and J is to select edit 
+you should also have edit on release turned on so then it will work even faster </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoWhile 1 100
+KeyDown 11 1
+Delay 5 ms
+KeyDown 13 1
+Delay 5 ms
+KeyUp 11 1
+Delay 5 ms
+KeyUp 13 1
+Delay 5 ms
+KeyDown 11 1
+Delay 5 ms
+KeyDown 13 1
+Delay 5 ms
+KeyUp 11 1
+Delay 5 ms
+KeyUp 13 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

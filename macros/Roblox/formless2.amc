@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>locked2</Major>
+    <Description>идеальный разворот для удара биг бенг драйва (должен стоять на T) сенса в роблоксе 0.36 400dpi
+советую лично для меня под ходит если что могу сделать макрос под вас в локеде) 1920x1080</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 64
+MoveR 1000 -87
+Delay 64
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

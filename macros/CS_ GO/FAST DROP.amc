@@ -1,0 +1,70 @@
+<Root>
+  <DefaultMacro>
+    <Major>FAST DROP\ ФАСТ ДРОП ВСЕГО ИНВЕНТАРЯ</Major>
+    <Description>Русский\Russian
+Интерестный макрос которые выкидывает абсолютно все оружия и гранаты из вашего инвентаря. От главного до второстепенных оружий. Работает за 2 команды. НЕ выкидывает нож и вещи которые невозможно выкинуть по правилам игры. Макрос предназначен чтобы моментально выкинуть все предметы из инвентаря. Работает при том если у вас дефолтные настройки выбора оружия и выкидывания оружия.
+Спасибо за установку! Удачной игры!
+
+Английский\English
+An interesting macro that throws out absolutely all weapons and grenades from your inventory. From primary to secondary weapons. Works for 2 teams. DOES NOT throw away the knife and things that cannot be thrown away according to the rules of the game. The macro is designed to instantly throw out all items from the inventory. Works even if you have default weapon selection and weapon drop settings.
+Thanks for the install! Good game!</Description>
+    <Comment>https://keyran.net - Лучший макрос в твоей жизни! The best macros in your life!</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 6 ms
+KeyUp 30 1
+Delay 6 ms
+KeyDown 10 1
+Delay 6 ms
+KeyUp 10 1
+Delay 6 ms
+KeyDown 31 1
+Delay 6 ms
+KeyUp 31 1
+Delay 6 ms
+KeyDown 10 1
+Delay 6 ms
+KeyUp 10 1
+Delay 6 ms
+KeyDown 33 1
+Delay 6 ms
+KeyUp 33 1
+Delay 6 ms
+KeyDown 10 1
+Delay 6 ms
+KeyUp 10 1
+Delay 6 ms
+KeyDown 33 1
+Delay 6 ms
+KeyUp 33 1
+Delay 6 ms
+KeyDown 10 1
+Delay 64
+KeyUp 10 1
+Delay 6 ms
+KeyDown 33 1
+Delay 6 ms
+KeyUp 33 1
+Delay 6 ms
+KeyDown 10 1
+Delay 6 ms
+KeyUp 10 1
+Delay 6 ms
+KeyDown 33 1
+Delay 6 ms
+KeyUp 33 1
+Delay 6 ms
+KeyDown 10 1
+Delay 6 ms
+KeyUp 10 1
+Delay 6 ms</Syntax>
+    </KeyDown>
+    <Software>CS: GO</Software>
+  </DefaultMacro>
+</Root>

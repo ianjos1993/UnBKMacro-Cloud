@@ -1,0 +1,57 @@
+<Root>
+  <DefaultMacro>
+    <Major>Marico</Major>
+    <Description>Отличный макрос на M4A1, оружие само по себе точное, поэтому с макросом оно стреляет еще лучше. В игре стоит ставить от 2.5 до 2.7 чувствительность мыши и всё будет лететь в точку.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 96 ms
+MoveR 0 4
+Delay 96 ms
+MoveR 0 5
+Delay 96 ms
+MoveR -2 12
+Delay 96 ms
+MoveR 2 16
+Delay 96 ms
+MoveR -6 16
+Delay 96 ms
+MoveR 0 16
+Delay 96 ms
+MoveR 12 16
+Delay 96 ms
+MoveR 12 12
+Delay 96 ms
+MoveR 12 4
+Delay 96 ms
+MoveR -8 4
+Delay 96 ms
+MoveR -16 4
+Delay 96 ms
+MoveR -18 -2
+Delay 96 ms
+MoveR -18 -2
+Delay 96 ms
+MoveR -16 -2
+Delay 96 ms
+MoveR 2 4
+Delay 96 ms
+MoveR 2 4
+Delay 96 ms
+MoveR -6 -3
+Delay 96 ms
+MoveR -6 3
+Delay 96 ms
+MoveR 0 3
+Delay 960 ms
+Delay 960 ms</Syntax>
+    </KeyDown>
+    <Software>CS: GO</Software>
+  </DefaultMacro>
+</Root>

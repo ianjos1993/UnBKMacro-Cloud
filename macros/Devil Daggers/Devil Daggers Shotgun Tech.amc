@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major>Devil Daggers Shotgun Tech</Major>
+    <Description>Macro for fastest possible shotgun blasts. Timings have been tuned for maximum speed and reliability. Includes looping of Mouse 1 hold to maximise recharge. No need to initiate tech, just hold macro key and it starts the cycle for you.
+
+NOTE: Does not work if started during dagger upgrade "slo-mo", as timings become different. Will fire short spurts of single daggers. If this occurs, release macro key, wait 0.4 seconds, and press macro again.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 96 ms
+LeftDown 1
+Delay 310 ms
+LeftUp 1
+Delay 32 ms
+GoWhile 5 1000</Syntax>
+    </KeyDown>
+    <Software>Devil Daggers</Software>
+  </DefaultMacro>
+</Root>

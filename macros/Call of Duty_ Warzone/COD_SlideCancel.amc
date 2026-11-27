@@ -1,0 +1,34 @@
+<Root>
+  <!-- by Britan -->
+  <DefaultMacro>
+    <Major></Major>
+    <Description>НАЗВАНИЕ: COD Warzone Slide Cancel. ОПИСАНИЕ: Отмена слайда для быстрого перемещения: бег (W+Shift) -&gt; присесть (Ctrl) -&gt; прыжок (Space) -&gt; присесть (Ctrl). Позволяет быстро перемещаться с оружием наготове. РЕКОМЕНДУЕМАЯ КЛАВИША: Mouse 5 (Side). КАК ИСПОЛЬЗОВАТЬ: Привяжи макрос на кнопку Mouse 5. Начни бежать и нажми Mouse 5 - макрос сделает слайд-отмену. Повторяй для быстрого перемещения. Пока зажата клавиша - цикл повторяется. НАСТРОЙКА: Если отмена не работает - увеличь Delay между нажатиями. АВТОР: by Britan. ЗАПРЕЩЕНО копировать без указания автора.</Description>
+    <Comment>Привязка: Mouse 5 (Side). Режим: повторяется пока зажата. Инструкция: беги и зажми - слайд-отмена для быстрого перемещения.</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+KeyDown 16 1
+Delay 150 ms
+KeyUp 16 1
+KeyUp 26 1
+Delay 20 ms
+KeyDown 17 1
+Delay 100 ms
+KeyUp 17 1
+Delay 20 ms
+KeyDown 32 1
+Delay 50 ms
+KeyUp 32 1
+Delay 20 ms
+KeyDown 17 1
+Delay 100 ms
+KeyUp 17 1</Syntax>
+    </KeyDown>
+    <Software>Call of Duty: War Zone</Software>
+  </DefaultMacro>
+</Root>

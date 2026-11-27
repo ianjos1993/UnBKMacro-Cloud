@@ -1,0 +1,65 @@
+<Root>
+  <DefaultMacro>
+    <Major>Макрос для 2,3,4-ёх корво/первая ПАРА корво на ЛКМ , третий на ПКМ</Major>
+    <Description>       Благодаря данному макросу вы сможете стрелять из 4, 3 и 2-ух непрерывно и максимально точно. Я постарался сделать макрос максимально беспаливным. ВАЖНО, если вы играете на двух корво, то тут всё просто: первый корво ЛКМ, второй ПКМ; если на трёх корво, то первые два корво на ЛКМ, третий на ПКМ; если же вы играете на четырёх корво, то первая ПАРА корво на ЛКМ, а вторая ПАРА на ПКМ.
+       Чтобы воспользоваться макросом, просто назначьте его на ту кнопку, которую вам покажется наиболее удобной для активации макроса (тавтологичная тавтология, уж извините).
+       Удачных боёв!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 66 73 ms
+LeftUp 1
+Delay 89 101 ms
+RightDown 1
+Delay 67 78 ms
+RightUp 1
+Delay 89 101 ms
+LeftDown 1
+Delay 66 73 ms
+LeftUp 1
+Delay 89 101 ms
+RightDown 1
+Delay 67 78 ms
+RightUp 1
+Delay 89 101 ms
+LeftDown 1
+Delay 66 73 ms
+LeftUp 1
+Delay 89 101 ms
+RightDown 1
+Delay 67 78 ms
+RightUp 1
+Delay 89 101 ms
+LeftDown 1
+Delay 66 73 ms
+LeftUp 1
+Delay 89 101 ms
+RightDown 1
+Delay 67 78 ms
+RightUp 1
+Delay 89 101 ms
+LeftDown 1
+Delay 67 78 ms
+LeftUp 1
+Delay 89 101 ms
+RightDown 1
+Delay 67 78 ms
+RightUp 1
+Delay 89 101 ms
+LeftDown 1
+Delay 67 78 ms
+LeftUp 1
+Delay 89 101 ms
+RightDown 1
+Delay 67 78 ms
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Crossout</Software>
+  </DefaultMacro>
+</Root>

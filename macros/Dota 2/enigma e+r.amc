@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>данный макрос нажмет прокаст героя enigma за вас, он моментально применит 3 скилл и после этого нажмет ульту</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 0 ms
+KeyUp 8 1
+Delay 1 ms
+LeftDown 1
+Delay 0 ms
+LeftUp 1
+Delay 1 ms
+KeyDown 21 1
+Delay 0 ms
+KeyUp 21 1
+Delay 1 ms
+LeftDown 1
+Delay 0 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

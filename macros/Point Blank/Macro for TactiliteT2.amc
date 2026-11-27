@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всем доброго дня!Решил переделать свой макрос  для снайперской винтовки Tactilite T2.
+Принцип работы макроса тот же(немного переделал тайминги задержки) :Макрос делает за вас смену(3-1) и выстрел.
+Вам остается только нажать на кнопку прицела.
+Так же данный макрос можно использовать как фастзум(Кнопка макроса+ПКМ)
+Я ставлю на клавишу E либо на боковые кнопки мыши.
+Всем добра!!!
+Так же если вас крашит с игры то напишите мне в ЛС(Будем разбираться)
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 25 ms
+LeftUp 1
+KeyDown 32 1
+Delay 25 ms
+KeyUp 32 1
+KeyDown 30 1
+Delay 25 ms
+KeyUp 30 1
+Delay 100 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

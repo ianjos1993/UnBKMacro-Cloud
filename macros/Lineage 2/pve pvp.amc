@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>данный макрос больше подойдет для старых хроник.
+
+создан для удобства в смене брони между пве/пвп.
+
+переносите нужную броню в свободные ячейки,создаете игровой макрос,добавляет в пустые строчки ячейки с броней,сохраняете,переносите максрос в ячейку F1,во время битвы есть возможность быстро сменить тип снаряжения</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 58 1
+Delay 64
+KeyUp 58 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

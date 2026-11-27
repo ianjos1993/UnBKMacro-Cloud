@@ -1,0 +1,49 @@
+<Root>
+  <DefaultMacro>
+    <Major>Wave dash macro</Major>
+    <Description>This macro helps Rocket League players execute advanced movement more consistently, without needing precise manual timing.
+
+By automating a sequence that blends wavedash, powerslide, and boost, it allows smoother recoveries and better control during fast transitions.
+
+Great for practice sessions in Free Play or for developing more reliable movement habits in the air and on the ground.
+
+It runs continuously on its own and only requires a keyboard and mouse, with no extra configuration needed.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 233 ms
+KeyDown 26 1
+Delay 188 ms
+KeyUp 26 1
+Delay 28 ms
+KeyDown 44 1
+Delay 47 ms
+KeyDown 26 1
+Delay 46 ms
+KeyUp 44 1
+Delay 66 ms
+KeyUp 26 1
+Delay 212 ms
+LeftDown 1
+Delay 118 ms
+RightUp 1
+Delay 129 ms
+LeftUp 1
+Delay 369 ms
+KeyDown 26 1
+Delay 35 ms
+KeyDown 44 1
+Delay 207 ms
+KeyUp 44 1
+Delay 123 ms
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>Rocket League</Software>
+  </DefaultMacro>
+</Root>

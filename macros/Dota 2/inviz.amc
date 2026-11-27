@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный скрипт используется при случаях, если: за вами бегут, а вы на лоу хп. если надо из инвиза дать прокаст по типу, который не знает, что вы рядом.
+Invoke-а на кнопку Space(пробел).
+(скрипт не палится. На патруле).</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

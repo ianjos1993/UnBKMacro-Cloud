@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>put Q:wall V:stair F:floor
+jump and press button macro, jump again and macro do second floor 
+Enjoy</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 25 1
+Delay 20 ms
+KeyUp 25 1
+Delay 50 ms
+LeftDown 1
+Delay 20 ms
+LeftUp 1
+Delay 50 ms
+KeyDown 9 1
+Delay 20 ms
+KeyUp 9 1
+Delay 50 ms
+LeftDown 1
+Delay 20 ms
+LeftUp 1
+Delay 50 ms
+KeyDown 20 1
+Delay 20 ms
+KeyUp 20 1
+Delay 50 ms
+LeftDown 1
+Delay 20 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

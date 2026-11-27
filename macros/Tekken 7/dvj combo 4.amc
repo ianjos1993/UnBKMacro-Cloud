@@ -1,0 +1,188 @@
+<Root>
+  <DefaultMacro>
+    <Major>Devil Jin combo #4 to wall</Major>
+    <Description>Макрос позволяет выполнять wall travel комбо за Дьявол Джина.
+Видео демонстрации работы макроса: https://youtu.be/lfNaG30Dq4A
+
+Боевой стиль Дьявола Джина представляет собой обновленную версию стиля Джина из Tekken 3 и Tekken Tag Tournament, что позволяет вернуться к игровому процессу в стиле Мишимы и сохранить многие из их характерных приемов, таких как Кулак Бога электрического ветра и Комбо Flash Punch. В отличие от большинства Мишим, Дьявол Джин хорошо разносторонний и разнообразный: в то время как Хейхачи преуспевает в оказании давления на противника, а Кадзуя в нанесении тяжелых карателей, Дьявол Джин хорош в обоих случаях, что делает его мощной силой. Это не означает, что любой, кто выбирает Дьявола Джина, сразу же становится хорошим: Дьявол Джин требует определенного количества навыков и практики, потому что большинство его хороших приемов и пусковых установок легко увидеть и строго наказуемы, поэтому неправильное наказание противника может оставьте игрока открытым для огромного урона. Чтобы эффективно использовать его, нужно дождаться, пока противник совершит ошибку, или использовать его великолепные инструменты давления и заставить его совершить ошибку.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+
+Тестирование макроса проводились на последнем патче игры на 25.10.2023 (5.01 патч)
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#deviljintekken7 #tekken7 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 31 ms
+KeyDown 77 1
+Delay 271 ms
+KeyUp 77 1
+Delay 96 ms
+KeyUp 4 1
+Delay 7 ms
+KeyDown 22 1
+Delay 8 ms
+KeyDown 7 1
+Delay 55 ms
+KeyDown 74 1
+Delay 95 ms
+KeyUp 74 1
+Delay 80 ms
+KeyDown 74 1
+Delay 87 ms
+KeyUp 74 1
+Delay 72 ms
+KeyDown 74 1
+Delay 56 ms
+KeyUp 74 1
+Delay 64 ms
+KeyDown 74 1
+Delay 111 ms
+KeyUp 74 1
+Delay 15 ms
+KeyUp 22 1
+Delay 31 ms
+KeyUp 7 1
+Delay 79 ms
+KeyDown 7 1
+Delay 192 ms
+KeyUp 7 1
+Delay 120 ms
+KeyDown 74 1
+Delay 119 ms
+KeyUp 74 1
+Delay 7 ms
+KeyDown 4 1
+Delay 88 ms
+KeyUp 4 1
+Delay 48 ms
+KeyDown 4 1
+Delay 128 ms
+KeyDown 74 1
+Delay 96 ms
+KeyUp 74 1
+Delay 80 ms
+KeyDown 74 1
+Delay 167 ms
+KeyDown 76 1
+Delay 55 ms
+KeyUp 74 1
+Delay 40 ms
+KeyUp 76 1
+Delay 47 ms
+KeyDown 76 1
+Delay 80 ms
+KeyDown 7 1
+Delay 15 ms
+KeyUp 76 1
+Delay 15 ms
+KeyUp 4 1
+Delay 80 ms
+KeyUp 7 1
+Delay 71 ms
+KeyDown 7 1
+Delay 95 ms
+KeyUp 7 1
+Delay 72 ms
+KeyDown 7 1
+Delay 87 ms
+KeyUp 7 1
+Delay 87 ms
+KeyDown 7 1
+Delay 64 ms
+KeyUp 7 1
+Delay 103 ms
+KeyDown 7 1
+Delay 63 ms
+KeyUp 7 1
+Delay 87 ms
+KeyDown 7 1
+Delay 63 ms
+KeyUp 7 1
+Delay 80 ms
+KeyDown 7 1
+Delay 55 ms
+KeyUp 7 1
+Delay 72 ms
+KeyDown 7 1
+Delay 72 ms
+KeyDown 22 1
+Delay 7 ms
+KeyDown 76 1
+Delay 80 ms
+KeyDown 74 1
+Delay 23 ms
+KeyUp 76 1
+Delay 71 ms
+KeyUp 74 1
+Delay 79 ms
+KeyDown 77 1
+Delay 87 ms
+KeyUp 77 1
+Delay 72 ms
+KeyDown 77 1
+Delay 87 ms
+KeyUp 77 1
+Delay 71 ms
+KeyDown 77 1
+Delay 96 ms
+KeyUp 77 1
+Delay 63 ms
+KeyDown 77 1
+Delay 95 ms
+KeyUp 77 1
+Delay 56 ms
+KeyDown 77 1
+Delay 135 ms
+KeyUp 77 1
+Delay 303 ms
+KeyUp 22 1
+Delay 176 ms
+KeyUp 7 1
+Delay 184 ms
+KeyDown 4 1
+Delay 71 ms
+KeyDown 7 1
+Delay 40 ms
+KeyUp 4 1
+Delay 55 ms
+KeyDown 74 1
+Delay 160 ms
+KeyDown 73 1
+Delay 79 ms
+KeyUp 74 1
+Delay 32 ms
+KeyUp 73 1
+Delay 672 ms
+KeyDown 74 1
+Delay 103 ms
+KeyUp 74 1
+Delay 263 ms
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 7</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Новый макрос на СНГ. Все настройки под макрос снизу 
+1920 x 1080
+DPI 500
+Fov 90
+sens 0.4
+Приятной игры!!!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 10 ms
+MoveR 0 4
+Delay 10 ms
+MoveR 0 4
+Delay 10 ms
+MoveR 0 4
+Delay 10 ms
+MoveR 0 4
+Delay 10 ms
+MoveR 0 4
+Delay 10 ms
+LeftUp 1
+Delay 13 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

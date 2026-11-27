@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>Neluaxe</Major>
+    <Description>1280x1080 res, make sure to not spam more than once. This macro makes it so you can get the purple instantly for serving.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 64
+KeyDown 11 1
+Delay 64
+KeyUp 11 1
+Delay 64
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 64
+KeyDown 26 1
+GoWhile 1 5
+Delay 64
+KeyUp 26 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,56 @@
+<Root>
+  <DefaultMacro>
+    <Major>NELUAXE</Major>
+    <Description>This macro allows players to execute a rapid and powerful purple shot in Volleyball Legends, delivering a fast, high-impact attack with minimal delay. It optimizes timing and precision to ensure a quick release, catching opponents off guard and maximizing scoring potential. Perfect for those who want to add speed and accuracy to their game with a single button press</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+Delay 123 ms
+Delay 212 ms
+KeyDown 23 1
+Delay 212
+KeyUp 23 1
+Delay 212
+KeyDown 44 1
+Delay 212
+KeyUp 44 1
+Delay 212
+KeyDown 31 1
+Delay 212
+KeyUp 31 1
+Delay 212
+KeyDown 32 1
+Delay 212
+KeyUp 32 1
+Delay 212
+KeyDown 26 1
+Delay 212
+KeyUp 26 1
+Delay 212
+KeyDown 26 1
+Delay 212
+KeyUp 26 1
+Delay 212
+KeyDown 22 1
+Delay 212
+KeyUp 22 1
+Delay 212
+KeyDown 8 1
+Delay 212
+KeyUp 8 1
+Delay 212
+GoWhile 1 5
+Goto 3</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

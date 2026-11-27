@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Rust/макрос на берданку,ПРОСТИЕ ОШИБКА SAPpistol это пешка,макрос гасит отдачу и жмет в точку,заходите в редактор A4tech ставите на любую кнопку мышки,и жмете в точку как бог.</Description>
+    <Comment>www.ml-macro.com
+</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 30 ms
+MoveR 0 12
+LeftUp 1
+MoveR 0 0
+Delay 54 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

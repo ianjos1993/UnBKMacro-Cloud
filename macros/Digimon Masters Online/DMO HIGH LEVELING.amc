@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major>iV3Xz</Major>
+    <Description>Today I bring you a bot designed to kill high hp digimons. Of course, "high hp" will depend on how much damage your digi is able to make, so for example, if your digi does 20k F2 damage, then every digi in minato city is high hp.
+
+So, you will need to have your F1 ans F2 skills in those slots, and in F6 have a CC, so you get back some HP and DS.
+
+I recommend checking that you kill the digis with one F1 and one F2 hit, so you can take approximatly 5 seconds on each kill and lvl up quickly.
+
+Good luck!</Description>
+    <Comment>https://botmek.com - Free macros download</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 2 s
+KeyUp 43 1
+Delay 2 s
+KeyDown 30 1
+Delay 1 s
+KeyUp 30 1
+Delay 1 s
+KeyDown 58 1
+Delay 1 s
+KeyUp 58 1
+Delay 1 s
+KeyDown 59 1
+Delay 1 s
+KeyUp 59 1
+Delay 1 s
+KeyDown 63 1
+Delay 64
+KeyUp 63 1
+Delay 64
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Digimon Masters Online</Software>
+  </DefaultMacro>
+</Root>

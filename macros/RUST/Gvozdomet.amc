@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Rust/макрос на гвоздемёт,обирает отдачу,жмет в точку.Заходите в редактор A4tech выбираете конопку на кторую хотите ставить макрос.и теперь у вас есть мощнейший гвоздмет</Description>
+    <Comment>www.ml-macro.com
+</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 10 ms
+MoveR 0 5
+LeftUp 1
+MoveR 0 0
+Delay 45 ms</Syntax>
+    </KeyDown>
+    <Software>www.ml-macro.com</Software>
+  </DefaultMacro>
+</Root>

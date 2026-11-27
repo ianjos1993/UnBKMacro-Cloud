@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос предназначен для быстрого ресета. Примечание: можно использовать на любом разрешении экрана. Можно перенастроить на более быстрый выход (! Если поставить значение ожидания на 0 мс, макрос может перестать работать !)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 41 1
+Delay 5 ms
+KeyUp 41 1
+Delay 5 ms
+KeyDown 21 1
+Delay 5 ms
+KeyUp 21 1
+Delay 5 ms
+KeyDown 88 1
+Delay 5 ms
+KeyUp 88 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

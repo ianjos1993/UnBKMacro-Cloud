@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>You can instant place a wall, all you have to do is:
+
+1) Download the macro
+2) Change your fortnite wall keybind to z
+3) Assign the macro to letter z
+4) enjoy macro
+
+if you have issues, contact me or another macro creator
+
+Keyran on top &lt;3</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 0 ms
+KeyUp 29 1
+Delay 0 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для игры Rust на оружие Berdanka.
+Для мониторов 1680 x 1050 !
+FOV 90
+SENS 0.82 (F1 sensivity 0.82)
+Стрелять без обвесов
+
+Тестировался на мышке Logitech
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 13 ms
+MoveR 0 7
+Delay 13 ms
+MoveR 0 7
+Delay 13 ms
+MoveR 0 7
+Delay 13 ms
+MoveR 0 7
+Delay 13 ms
+MoveR 0 7
+Delay 13 ms
+LeftUp 1
+Delay 16 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>Ipioca</Major>
+    <Description>An simple Assassin normal attacks to build poison stacks,
+
+ This macro uses only 2 skills being it Slash and Shuriken:Venom.
+
+
+Hold your choosen button to begin and release it to stop.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 34 ms
+KeyUp 21 1
+Delay 34 ms
+KeyDown 27 1
+Delay 32 ms
+KeyUp 27 1
+Delay 32 ms</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul NEO</Software>
+  </DefaultMacro>
+</Root>

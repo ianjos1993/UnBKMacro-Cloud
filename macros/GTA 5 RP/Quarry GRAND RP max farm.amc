@@ -1,0 +1,61 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Кменоломня гранд РП
+Для лучшего результата лучше иметь кирку 3-го уровня.
+Суть макроса заключается в том, что фарм происходит не на одном месте. За счет чего повышается шанс на выпадение алмазов и рубинов.
+Для корректной работы макроса лучше всего встать на ровную поверхность и не у края фарм зоны.
+
+Заметка по добыче ископаемых:
+Кирка 1-го уровня - медь
+Кирка 2-го уровня - медь, изумруд
+Кирка 3-го уровня - медь, изумруд, рубин, алмаз.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 7 s
+KeyUp 8 1
+Delay 8 s
+GoWhile 1 4
+KeyDown 7 1
+Delay 3 s
+KeyUp 7 1
+Delay 64
+KeyDown 8 1
+Delay 7 s
+KeyUp 8 1
+Delay 7 s
+GoWhile 10 5
+KeyDown 26 1
+Delay 3 s
+KeyUp 26 1
+Delay 64
+KeyDown 8 1
+Delay 7 s
+KeyUp 8 1
+Delay 6 s
+GoWhile 19 6
+KeyDown 4 1
+Delay 3 s
+KeyUp 4 1
+Delay 64
+KeyDown 8 1
+Delay 7 s
+KeyUp 8 1
+Delay 7 s
+GoWhile 28 3
+KeyDown 22 1
+Delay 4 s
+KeyUp 22 1
+Delay 64
+GoWhile 1 599999</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

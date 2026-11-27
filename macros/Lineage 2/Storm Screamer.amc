@@ -1,0 +1,56 @@
+<Root>
+  <DefaultMacro>
+    <Major>Shadow</Major>
+    <Description>Макрос для класса Storm Screamer. Автоматическое использование скилов Dark Vortex, Hurricane, 
+Shadow Flare, Surrender To Wind, Death Spike, Vampiric Claw для пвп. На пвп серверах с полным бафом можно спокойно, как и фармить мобов так и драться в пвп. Задержку лучше выбирать минимальную.
+4. Dark Vortex
+5. Hurricane
+7. Shadow Flare
+8. Surrender To Wind
+6. Vampiric Claw
+9. Death Spike
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 38 1
+Delay 1 ms
+KeyUp 38 1
+Delay 1 ms
+KeyDown 35 1
+Delay 1 ms
+KeyUp 35 1
+Delay 1 ms
+KeyDown 37 1
+Delay 1 ms
+KeyUp 37 1
+Delay 1 ms
+KeyDown 36 1
+Delay 1 ms
+KeyUp 36 1
+Delay 1 ms
+KeyDown 34 1
+Delay 1 ms
+KeyUp 34 1
+Delay 1 ms
+KeyDown 38 1
+Delay 1 ms
+KeyUp 38 1
+Delay 1 ms
+KeyDown 35 1
+Delay 1 ms
+KeyUp 35 1
+Delay 1 ms
+KeyDown 33 1
+Delay 1 ms
+KeyUp 33 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Отличный макрос для кристального пвп на серверах майнакрафта! В настройках необоходимо поставить обсидиан на 4 клавишу, а кристал на 3. Остальные настройки не важны, ставьте их под себя. Рекомендую поставить поле зрения на максимум, так будет легче использовать макрос. Для того, чтобы использовать его нужно ударить мечем(чтобы подкинуть на большую высоту), использовать макрос и взорвать поставленный на обсидиан кристал. У вас в настройках должен стоять "Использовать" на кнопку ПКМ. Удачной игры!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 33 1
+Delay 10
+KeyUp 33 1
+Delay 10
+KeyDown 33 1
+Delay 10
+KeyUp 33 1
+Delay 10
+RightDown 1
+Delay 10
+RightUp 1
+Delay 10
+RightDown 1
+Delay 10
+RightUp 1
+Delay 10
+KeyDown 32 1
+Delay 10
+KeyUp 32 1
+Delay 10
+KeyDown 32 1
+Delay 10
+KeyUp 32 1
+Delay 10
+RightDown 1
+Delay 10
+RightUp 1
+Delay 10
+RightDown 1
+Delay 10
+RightUp 1
+Delay 10</Syntax>
+    </KeyDown>
+    <Software>minecraft</Software>
+  </DefaultMacro>
+</Root>

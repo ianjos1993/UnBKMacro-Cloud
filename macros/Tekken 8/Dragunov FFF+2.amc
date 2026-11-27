@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Dragunov FFF+2 (Running 2)
+
+Dragunov running 2 with single button input.
+
+Movements are W,A ,S ,D
+
+Buttons: 1= U 2=I 3=J 4=k 
+
+Tested offline and online. Working perfectlly on 59-60 fps.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 79 1
+Delay 20 ms
+KeyUp 79 1
+Delay 20 ms
+KeyDown 79 1
+Delay 20 ms
+KeyUp 79 1
+Delay 20 ms
+KeyDown 79 1
+Delay 20 ms
+KeyDown 12 1
+Delay 20 ms
+KeyUp 79 1
+KeyUp 12 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

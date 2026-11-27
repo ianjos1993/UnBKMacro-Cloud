@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Description:
+Macro for the game Fishing Planet, With a single key you can Cast, Reel &amp; Store fish in keepnet. You will need to adjust the notch on your reel depending on your tackle weight.
+
+Screen Resolution Test:
+1920 x 1080
+2560 x 1440
+
+Use for Macro:
+Good for Predator Fishing - Straight/Straight &amp; Slow
+
+INSTRUCTIONS:
+1. Start the game
+2. Disable Space from your reel key in your keybinds
+3. Assign the macro to a key of your choice
+4. Go to lake and look out towards the middle
+5. Press the key that you assigned to the macro
+
+You will need to check in to change the day to empty your keepnet manually.
+
+Will be uploading more Macros for other fishing methods soon!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 4 s
+LeftDown 1
+Delay 1850 ms
+LeftUp 1
+Delay 2 s
+LeftDown 1
+Delay 45 s
+LeftUp 1
+Delay 5 s
+MoveTo 1462 1279
+Delay 128 ms
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Fishing Planet</Software>
+  </DefaultMacro>
+</Root>

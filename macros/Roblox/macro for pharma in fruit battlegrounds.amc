@@ -1,0 +1,66 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>очень простой, но плоезный макрос который на 5 скиллов
+нажиметете забинженную кнопку для макроса и всё, Полностью автономный</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 31 1
+LeftDown 1
+Delay 64
+LeftUp 1
+KeyDown 32 1
+LeftDown 1
+Delay 64
+LeftUp 1
+KeyDown 33 1
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 35 1
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 30 1
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 31 1
+LeftDown 1
+Delay 64
+LeftUp 1
+KeyDown 32 1
+LeftDown 1
+Delay 64
+LeftUp 1
+KeyDown 33 1
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 35 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+GoWhile 7 86400000</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

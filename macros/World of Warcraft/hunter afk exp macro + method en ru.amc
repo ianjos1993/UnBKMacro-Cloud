@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major>hunter afk exping</Major>
+    <Description>RU
+
+!Важно
+Установить клавишу поворота на "[" (обязательно для работы) в настроках игры.
+Афк прокачка хантера, легко и просто.
+Время поворота = времени каста умения "Шквал".
+Демонстрация работы: https://youtu.be/ZtbWRKGFoOI
+Метод прокачки взят тут: https://youtu.be/P1AVZZaLNws
+
+EN
+
+!Important
+Set the turn key to "[" (mandatory to work) in the game settings.
+Afk exping hunter, easy and simple.
+Turning time = casttime the "Barrage" skill.
+Work demo: https://youtu.be/ZtbWRKGFoOI
+The exping method is taken from: https://youtu.be/P1AVZZaLNws</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1999 2001 ms
+KeyDown 30 1
+Delay 69 99 ms
+KeyUp 30 1
+Delay 79 109 ms
+KeyDown 47 1
+Delay 2899 2901 ms
+//[EN] Casttime of "Barrage" skill. Depends on haste stat. [RU] Время каста "Шквал" зависит от параметра скорости.
+KeyUp 47 1
+Delay 59 89 ms
+Delay 15750 16250 ms</Syntax>
+    </KeyDown>
+    <Software>World of Warcraft</Software>
+  </DefaultMacro>
+</Root>

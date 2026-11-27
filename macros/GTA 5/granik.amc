@@ -1,0 +1,75 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>GTA Online v1.70
+Макрос полностью рабочий под версию GTAO 1.70 (после фикса работы AHK) 
+Макрос создан для быстрого пополнения количества зарядов ручного гранатомета. Для корректной работы необходимо находиться в Огранизации/Мотоклубе (CEO or MC) и держать в руках ЛЮБОЕ оружие из категории тяжелого вооружения (РПГ, Миниган, Стингер, Гранатомет).
+Работоспособность макроса может варьироваться от количества ФПС в сессии. При любых фейлах макроса необходимо вручную менять тайминги задержек.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 16 1
+Delay 22 ms
+KeyUp 16 1
+Delay 22 ms
+KeyDown 81 1
+Delay 22 ms
+KeyUp 81 1
+Delay 22 ms
+KeyDown 81 1
+Delay 22 ms
+KeyUp 81 1
+Delay 22 ms
+KeyDown 81 1
+Delay 22 ms
+KeyUp 81 1
+Delay 22 ms
+KeyDown 81 1
+Delay 22 ms
+KeyUp 81 1
+Delay 22 ms
+KeyDown 88 1
+Delay 22 ms
+KeyUp 88 1
+Delay 22 ms
+KeyDown 88 1
+Delay 22 ms
+KeyUp 88 1
+Delay 22 ms
+KeyDown 81 1
+Delay 22 ms
+KeyUp 81 1
+Delay 22 ms
+KeyDown 88 1
+Delay 22 ms
+KeyUp 88 1
+Delay 22 ms
+KeyDown 88 1
+Delay 22 ms
+KeyUp 88 1
+Delay 22 ms
+KeyDown 81 1
+Delay 22 ms
+KeyUp 81 1
+Delay 22 ms
+KeyDown 81 1
+Delay 22 ms
+KeyUp 81 1
+Delay 22 ms
+KeyDown 88 1
+Delay 22 ms
+KeyUp 88 1
+Delay 22 ms
+KeyDown 16 1
+Delay 22 ms
+KeyUp 16 1
+Delay 22 ms</Syntax>
+    </KeyDown>
+    <Software>GTA V</Software>
+  </DefaultMacro>
+</Root>

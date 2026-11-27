@@ -1,0 +1,121 @@
+<Root>
+  <DefaultMacro>
+    <Major>Dream</Major>
+    <Description>Удаление аккаунтов из собранной базы в автоматическом режиме. Понадобится если сохранено очень много аккаунтов, а удалить их нужно. Разрешение экрана 2560Х1080</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1607 232
+Delay 333 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 849 ms
+MoveTo 1872 235
+Delay 84 ms
+LeftDown 1
+Delay 127 ms
+LeftUp 1
+Delay 338 ms
+MoveTo 2105 705
+Delay 168 ms
+LeftDown 1
+Delay 117 ms
+LeftUp 1
+Delay 548 ms
+WheelDown 1
+Delay 27 ms
+WheelDown 1
+Delay 22 ms
+WheelDown 1
+Delay 23 ms
+WheelDown 1
+Delay 17 ms
+WheelDown 1
+Delay 17 ms
+WheelDown 1
+Delay 20 ms
+WheelDown 1
+Delay 2 ms
+MoveTo 2105 705
+Delay 8 ms
+MoveTo 2106 706
+Delay 25 ms
+WheelDown 1
+Delay 289 ms
+WheelDown 1
+Delay 16 ms
+WheelDown 1
+Delay 11 ms
+WheelDown 1
+Delay 16 ms
+WheelDown 1
+Delay 14 ms
+WheelDown 1
+Delay 18 ms
+WheelDown 1
+Delay 19 ms
+WheelDown 1
+Delay 146 ms
+MoveTo 2107 706
+Delay 158 ms
+WheelDown 1
+Delay 12 ms
+WheelDown 1
+Delay 16 ms
+WheelDown 1
+Delay 12 ms
+WheelDown 1
+Delay 17 ms
+WheelDown 1
+Delay 18 ms
+WheelDown 1
+Delay 29 ms
+WheelDown 1
+Delay 278 ms
+WheelDown 1
+Delay 18 ms
+WheelDown 1
+Delay 4 ms
+WheelDown 1
+Delay 24 ms
+WheelDown 1
+Delay 16 ms
+WheelDown 1
+Delay 19 ms
+WheelDown 1
+Delay 246 ms
+WheelDown 1
+Delay 20 ms
+WheelDown 1
+Delay 14 ms
+WheelDown 1
+Delay 17 ms
+WheelDown 1
+Delay 18 ms
+WheelDown 1
+Delay 16 ms
+MoveTo 2257 1020
+Delay 253 ms
+LeftDown 1
+Delay 113 ms
+LeftUp 1
+Delay 5 s
+GoWhile 1 7
+MoveTo 1925 1018
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 5 s
+GoWhile 1 2</Syntax>
+    </KeyDown>
+    <Software>LinkedIN</Software>
+  </DefaultMacro>
+</Root>

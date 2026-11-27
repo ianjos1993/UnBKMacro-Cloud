@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major>Randomdubs</Major>
+    <Description>automatic attack using the simple useful function for when you are busy or needing support does not activate the buffs look for the complementary buff file I will make available</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 20 ms
+KeyUp 32 1
+Delay 20 ms
+KeyDown 31 1
+Delay 20
+KeyUp 31 1
+Delay 20
+KeyDown 33 1
+Delay 20 ms
+KeyUp 33 1
+Delay 20 ms
+KeyDown 31 1
+Delay 20
+KeyUp 31 1
+Delay 20
+KeyDown 29 1
+Delay 20 ms
+KeyUp 29 1
+Delay 20 ms
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

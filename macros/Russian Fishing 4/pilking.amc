@@ -1,0 +1,58 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматический фарм на море, 34 банка, проводка Легкий пилкинг
+Сам забрасывает, пилкерит, достает, и все по кругу.
+
+ИНСТРУКЦИЯ ПО МАКРОСУ
+
+1. Плывем на банку
+2. Глушим мотор
+3. Встаем на ноги
+4. Подходим к борту
+5. Выставляем нужный фрикцион и скорость подмотки, у меня 29,50.
+6. Запускаем макрос и идем по делам
+
+Примечания
+Макрос сделан под 1920х1080</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 165 180 ms
+LeftUp 1
+Delay 16600 16900 ms
+LeftDown 1
+Delay 40 55 ms
+LeftUp 1
+Delay 110 150 ms
+RightDown 1
+Delay 250 300 ms
+RightUp 1
+Delay 1650 1800 ms
+GoColor 15 2 156,135,117 255,255,255 1 548 1021 973 60 1 0
+Goto 9
+LeftDown 1
+KeyDown 225 1
+RightDown 1
+Delay 2350 2500 ms
+LeftUp 1
+KeyUp 225 1
+RightUp 1
+GoColor 24 3 157,136,118 255,255,255 1 548 1021 939 60 1 0
+Goto 15
+Delay 260 290 ms
+KeyDown 44 1
+Delay 50 64 ms
+KeyUp 44 1
+Delay 500 600 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Русская Рыбалка 4</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,109 @@
+<Root>
+  <DefaultMacro>
+    <Major>Jack Combo 10</Major>
+    <Description>Макрос позволяет выполнять сокрушительное комбо за Jack-8.
+Видео демонстрации работы макроса: https://youtu.be/4LMztGWctM4
+
+Основное преимущество Джека-8 — это дальность и сила атак. Он использует свои массивные конечности, чтобы контролировать пространство и вести игру от дистанции. Вот несколько ключевых аспектов его геймплана. Он обладает длинными ударами, такими как его знаменитый "разрушительный молот", которые позволяют ему держать оппонента на расстоянии. Использование дальнобойных атак — это основа его геймплана, что делает его отличным выбором для игроков, которые предпочитают быть на дистанции.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 09.09.2024
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ.
+
+#jacktekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 16 ms
+KeyDown 7 1
+Delay 24 ms
+KeyDown 93 1
+Delay 97 ms
+KeyDown 92 1
+Delay 94 ms
+KeyUp 93 1
+Delay 39 ms
+KeyUp 92 1
+Delay 12 ms
+KeyUp 22 1
+Delay 45 ms
+KeyUp 7 1
+Delay 46 ms
+KeyDown 93 1
+Delay 129 ms
+KeyDown 89 1
+Delay 103 ms
+KeyUp 89 1
+Delay 127 ms
+KeyDown 4 1
+Delay 167 ms
+KeyDown 89 1
+Delay 97 ms
+KeyUp 4 1
+Delay 2 ms
+KeyUp 89 1
+Delay 73 ms
+KeyDown 89 1
+Delay 93 ms
+KeyUp 89 1
+Delay 62 ms
+KeyDown 89 1
+Delay 109 ms
+KeyUp 89 1
+Delay 39 ms
+KeyDown 89 1
+Delay 120 ms
+KeyUp 89 1
+Delay 242 ms
+KeyUp 93 1
+Delay 305 ms
+KeyDown 93 1
+Delay 422 ms
+KeyDown 89 1
+Delay 98 ms
+KeyUp 89 1
+Delay 63 ms
+KeyDown 89 1
+Delay 91 ms
+KeyUp 89 1
+Delay 63 ms
+KeyDown 89 1
+Delay 103 ms
+KeyUp 89 1
+Delay 368 ms
+KeyUp 93 1
+Delay 2763 ms
+KeyDown 25 1
+Delay 64 ms
+KeyDown 89 1
+Delay 110 ms
+KeyUp 89 1
+Delay 46 ms</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>FastZoom for Black Squad. Быстрый прицел для Чёрного Отряда. Предназачен для быстро и точно выстрела со снайпрскх винтовок: AXMC. BLAZER R93. DSR-1.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 4 ms
+LeftDown 1
+Delay 8 ms
+KeyDown 32 1
+Delay 20 ms
+KeyDown 30 1
+Delay 25 ms
+KeyUp 30 1
+Delay 64
+KeyUp 32 1
+Delay 64
+LeftUp 1
+Delay 64
+RightUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Black Squad</Software>
+  </DefaultMacro>
+</Root>

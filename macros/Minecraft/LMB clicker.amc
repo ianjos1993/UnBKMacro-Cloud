@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простой кликер позволяющий упросить PVP составляющаю в игре Minecraft, и с легкостью уничтожать противников. При желании в редакторе можно уменьшить/увеличить задержку между нажатиями.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 7 ms
+LeftDown 1
+Delay 7 ms
+LeftUp 1
+Delay 7 ms
+LeftDown 1
+Delay 7 ms
+LeftUp 1
+Delay 7 ms
+LeftUp 1
+Delay 7 ms
+LeftDown 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

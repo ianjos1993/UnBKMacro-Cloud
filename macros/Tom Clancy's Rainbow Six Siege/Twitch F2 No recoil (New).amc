@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>no recoil 2560 x 1440 rez 16:10 ratio
+f2 should have muzzle brake and acog scope to work
+
+F2 gun still has some recoil after spraying 10+ bullets.
+ minimal recoil
+
+dpi 800 (doesnt matter)</Description>
+    <Comment>no recoil 2560 x 1440 rez 16:10 ratio
+f2 should have muzzle brake and acog scope to work
+
+F2 gun still has some recoil after spraying 10+ bullets.
+ minimal recoil
+
+dpi 800 (doesnt matter)</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR -2 6
+Delay 7 ms
+MoveR 4 6
+Delay 6 ms
+MoveR -2 6
+Delay 7 ms
+MoveR 2 6
+Delay 6 ms
+MoveR -2 6
+Delay 7 ms
+MoveR 2 6
+Delay 6 ms
+MoveR -2 6
+Delay 3 ms</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

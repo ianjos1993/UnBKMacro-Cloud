@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос, который помогает извлечь лс из пушки.
+Координаты настроены для окна разрешения 1920х1080, окно снятия зачарования немного смещено вверх.</Description>
+    <Comment>Инструкция:
+1. Ставите макрос на удобную клавишу/кнопку
+2. Открываете окно снятия зачарования, нажимаете макрос и перемещаете окно под макрос
+3. В 1 слот инвентаря ставите пушку с лсом
+4. Теперь при нажатии будет автоматическое извлечения лса</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1549 367
+Delay 64
+LeftDown 1
+Delay 64
+MoveTo 945 199
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 895 330
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

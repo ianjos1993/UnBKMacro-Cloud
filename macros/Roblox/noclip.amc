@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Хотите Бесплатный Ноуклип Без Бана в Роблоксе? Этот Макрос Для Вас!
+Инструкция
+1.Заходите в Плейс(Игру) С Вещами(Например:Piggy)
+2.Включайем В Клавиши Макрос
+3.Берём Вещь И Нажимаем 1
+4.У Вас Должно Бесконечно Вытаскивать И Убирать Вещь
+5.Подходите К Стене И Прям В Стену Входите Вот И Всё.
+!СООБЩЕНИЕ!В Некоторых Играх Невозможно Сделать Этот Баг Так Как Стоит Защита.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 3 ms
+KeyUp 30 1
+Delay 3 ms
+KeyDown 30 1
+Delay 3 ms
+KeyUp 30 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

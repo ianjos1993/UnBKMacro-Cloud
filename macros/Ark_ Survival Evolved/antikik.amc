@@ -1,0 +1,53 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>перекачаться в еду,  встать перед краником с водой и запустить макрос. + желательно поставить кондиционеры вокруг персонажа</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 2 s
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 s
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 15 min
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>ARK: Survival Evolved</Software>
+  </DefaultMacro>
+</Root>

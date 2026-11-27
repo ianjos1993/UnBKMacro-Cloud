@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос для паркура
+ставите бинд на удобную клавишу
+после этого когда вы зашли паркур подходите к стене нажимаете на бинд и поворачиваете камеру на 80-180 градусов и вы будете делать от 80 мс до 120</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 40 ms
+KeyUp 44 1
+Delay 40 ms
+KeyDown 44 1
+Delay 40 ms
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

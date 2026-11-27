@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>a fast reloading thing in etg :) just change the gun dropping/picking key on the space and enjoy!  if used correctly, you can shoot non-stop!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 500 ms
+KeyUp 44 1
+Delay 10 ms
+KeyDown 44 1
+Delay 0 ms
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>enter the gungeon</Software>
+  </DefaultMacro>
+</Root>

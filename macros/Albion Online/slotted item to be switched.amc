@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major>slotted item to be switched from 7th slot</Major>
+    <Description>7th slotted item to be switched so fast during fights and can open space for loots to be displayed in your inventory without  any trouble. screen resolution is 1920x1080</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1368 658
+Delay 30 ms
+LeftDown 1
+Delay 30 ms
+WheelDown 1
+Delay 80 ms
+WheelDown 1
+Delay 80 ms
+WheelDown 1
+Delay 80 ms
+WheelDown 1
+Delay 80 ms
+WheelDown 1
+Delay 80 ms
+WheelDown 1
+Delay 80 ms
+WheelDown 1
+Delay 80 ms
+WheelDown 1
+Delay 80 ms
+MoveTo 1368 682
+Delay 30
+LeftUp 1
+Delay 30 ms
+WheelUp 1
+WheelUp 1
+WheelUp 1
+WheelUp 1
+WheelUp 1
+WheelUp 1
+WheelUp 1
+WheelUp 1</Syntax>
+    </KeyDown>
+    <Software>Albion Online</Software>
+  </DefaultMacro>
+</Root>

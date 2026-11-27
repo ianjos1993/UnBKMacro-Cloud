@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>С помощью данного макроса вы сможете бить с критов в игре minecraft его можно и нужно использовать на фермах мобов. Применение для данного макроса можно найти только в minecraft.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 1 s
+KeyUp 44 1
+Delay 1 s
+LeftDown 1
+Delay 120 ms
+LeftUp 1
+Delay 120 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

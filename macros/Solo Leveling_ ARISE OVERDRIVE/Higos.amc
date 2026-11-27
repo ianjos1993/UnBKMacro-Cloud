@@ -1,0 +1,315 @@
+<Root>
+  <DefaultMacro>
+    <Major>Solo Leveling: ARISE OVERDRIVE Semi-AFK Farm Macro [Offline Only]</Major>
+    <Description>Semi-AFK макрос для Solo Leveling: ARISE OVERDRIVE, предназначенный для автоматизации прохождения стадии с бесконечным циклом фарма и функцией автоматического повтора боёв.
+
+Тестирование проводилось на следующей конфигурации:
+Steam-версия игры → Настройки:
+Разрешение экрана: 1920×1080;
+Минимальные графические настройки;
+
+Локация фарма:
+Глава 11 Операция по истреблению муравьев → Хигос (Событийное подземелье) → 85 уровень / 10 прохождение.
+
+Возможности макроса:
+Автоматический запуск следующего сражения;
+Автоматическое перезапускание этапа после завершения;
+Беспрерывный цикл прохождения;
+Автоматический переход в новый матч;
+Эффективный фарм опыта и золота без постоянного участия игрока.
+
+Требуемые параметры:
+God Mode;
+Infinite Overdrive;
+Infinite Ultimate Skill Charge;
+Infinite Skill Cooldown;
+One Hit Kill;
+x10 Speed.
+
+Требования к персонажу и способности:
+Способности Сон Чину → Набор базовых способностей А → Самый первый(верхний) скил → "Точечный удар" (Иначе макрос не будет работать, так как макрос сделан под этот скил. Этот скил есть у всех так как он базовый.)
+
+Требования к использованию:
+Работает только на ПК-версии игры;
+Во время работы курсор должен оставаться на месте;
+Перед запуском необходимо один раз пройти стадию вручную;
+Активация макроса выполняется с экрана «Repeat Battle»;
+Не перемещать мышь до завершения работы макроса.
+
+ВАЖНО!
+Макрос рассчитан исключительно на использование в OFFLINE MODE.
+Применение в сетевом режиме может привести к ограничениям или блокировке игрового аккаунта.</Description>
+    <Comment>Данный макрос разработан для автоматизированного офлайн-фарма и стабильного повторного прохождения стадии без постоянного контроля со стороны пользователя.
+
+На текущий момент аналогичных решений для данной версии игры представлено немного. В некоторых ситуациях персонаж может незначительно отклоняться от заданного маршрута, поэтому рекомендуется периодически проверять процесс выполнения. Маршрут продолжает дорабатываться и оптимизироваться для повышения стабильности и уровня автоматизации.
+
+Перед запуском:
+Завершите текущее прохождение вручную;
+Вернитесь на экран «Repeat Battle»;
+Не перемещайте курсор мыши;
+Запустите макрос назначенной горячей клавишей.</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 959 543
+Delay 757 ms
+MoveTo 959 543
+Delay 8 ms
+MoveTo 959 543
+Delay 12 ms
+MoveTo 959 546
+Delay 7 ms
+MoveTo 959 549
+Delay 7 ms
+MoveTo 959 551
+Delay 8 ms
+MoveTo 959 554
+Delay 7 ms
+MoveTo 959 556
+Delay 7 ms
+MoveTo 959 559
+Delay 8 ms
+MoveTo 959 563
+Delay 7 ms
+MoveTo 958 567
+Delay 9 ms
+MoveTo 957 570
+Delay 7 ms
+MoveTo 957 573
+Delay 8 ms
+MoveTo 956 576
+Delay 6 ms
+MoveTo 956 578
+Delay 9 ms
+MoveTo 956 580
+Delay 6 ms
+MoveTo 956 582
+Delay 8 ms
+MoveTo 955 584
+Delay 7 ms
+MoveTo 955 586
+Delay 7 ms
+MoveTo 955 588
+Delay 8 ms
+MoveTo 954 591
+Delay 7 ms
+MoveTo 953 593
+Delay 9 ms
+MoveTo 953 596
+Delay 6 ms
+MoveTo 952 599
+Delay 8 ms
+MoveTo 951 603
+Delay 7 ms
+MoveTo 950 606
+Delay 8 ms
+MoveTo 949 609
+Delay 7 ms
+MoveTo 948 612
+Delay 8 ms
+MoveTo 948 615
+Delay 7 ms
+MoveTo 947 618
+Delay 7 ms
+MoveTo 947 621
+Delay 9 ms
+MoveTo 945 624
+Delay 7 ms
+MoveTo 945 627
+Delay 8 ms
+MoveTo 945 631
+Delay 7 ms
+MoveTo 944 635
+Delay 8 ms
+MoveTo 943 640
+Delay 8 ms
+MoveTo 943 646
+Delay 8 ms
+MoveTo 941 653
+Delay 7 ms
+MoveTo 940 659
+Delay 7 ms
+MoveTo 939 666
+Delay 8 ms
+MoveTo 937 674
+Delay 7 ms
+MoveTo 937 680
+Delay 8 ms
+MoveTo 935 688
+Delay 7 ms
+MoveTo 934 694
+Delay 8 ms
+MoveTo 934 700
+Delay 8 ms
+MoveTo 932 706
+Delay 7 ms
+MoveTo 932 712
+Delay 7 ms
+MoveTo 931 716
+Delay 8 ms
+MoveTo 931 723
+Delay 8 ms
+MoveTo 930 728
+Delay 7 ms
+MoveTo 930 733
+Delay 7 ms
+MoveTo 930 737
+Delay 8 ms
+MoveTo 930 741
+Delay 7 ms
+MoveTo 930 745
+Delay 7 ms
+MoveTo 930 749
+Delay 8 ms
+MoveTo 930 753
+Delay 7 ms
+MoveTo 930 757
+Delay 7 ms
+MoveTo 929 760
+Delay 8 ms
+MoveTo 929 765
+Delay 7 ms
+MoveTo 928 768
+Delay 7 ms
+MoveTo 928 772
+Delay 8 ms
+MoveTo 927 776
+Delay 7 ms
+MoveTo 927 780
+Delay 9 ms
+MoveTo 927 784
+Delay 7 ms
+MoveTo 927 788
+Delay 7 ms
+MoveTo 927 789
+Delay 8 ms
+MoveTo 926 792
+Delay 7 ms
+MoveTo 926 793
+Delay 9 ms
+MoveTo 926 795
+Delay 7 ms
+MoveTo 926 797
+Delay 7 ms
+MoveTo 926 798
+Delay 7 ms
+MoveTo 926 801
+Delay 10 ms
+MoveTo 926 804
+Delay 7 ms
+MoveTo 926 807
+Delay 6 ms
+MoveTo 926 810
+Delay 7 ms
+MoveTo 926 813
+Delay 8 ms
+MoveTo 926 816
+Delay 7 ms
+MoveTo 926 819
+Delay 9 ms
+MoveTo 926 821
+Delay 8 ms
+MoveTo 926 823
+Delay 6 ms
+MoveTo 926 824
+Delay 9 ms
+MoveTo 926 826
+Delay 7 ms
+MoveTo 926 827
+Delay 6 ms
+MoveTo 926 828
+Delay 8 ms
+MoveTo 926 829
+Delay 8 ms
+MoveTo 926 831
+Delay 10 ms
+MoveTo 927 833
+Delay 5 ms
+MoveTo 927 834
+Delay 10 ms
+MoveTo 927 835
+Delay 4 ms
+MoveTo 927 835
+Delay 8 ms
+MoveTo 927 835
+Delay 40 ms
+MoveTo 927 836
+Delay 16 ms
+MoveTo 928 838
+Delay 5 ms
+MoveTo 928 839
+Delay 12 ms
+MoveTo 929 840
+Delay 7 ms
+MoveTo 929 840
+Delay 63 ms
+MoveTo 929 841
+Delay 10 ms
+MoveTo 929 842
+Delay 5 ms
+MoveTo 929 843
+Delay 9 ms
+MoveTo 929 844
+Delay 12 ms
+MoveTo 929 846
+Delay 7 ms
+MoveTo 929 846
+Delay 6 ms
+MoveTo 929 847
+Delay 9 ms
+MoveTo 929 847
+Delay 8 ms
+MoveTo 929 848
+Delay 13 ms
+MoveTo 929 849
+Delay 14 ms
+MoveTo 929 850
+Delay 12 ms
+MoveTo 929 850
+Delay 20 ms
+MoveTo 929 852
+Delay 9 ms
+MoveTo 929 852
+Delay 8 ms
+MoveTo 929 853
+Delay 6 ms
+MoveTo 929 854
+Delay 18 ms
+MoveTo 929 854
+Delay 36 ms
+MoveTo 929 855
+Delay 130 ms
+LeftDown 1
+Delay 109 ms
+LeftUp 1
+Delay 15000 ms
+//Загрузка боя. Если у Вас бой загружается быстрее или медленее можете подправить под себя.
+KeyDown 20 1
+Delay 111 ms
+KeyUp 20 1
+Delay 1088 ms
+KeyDown 20 1
+Delay 128 ms
+KeyUp 20 1
+Delay 5912 ms
+//Пауза после победы над боссом. Нужно не много подождать, пока появиться камень телепортации. Если он у Вас появляется раньше/позже чем у меня, также можете подправить под себя.
+KeyDown 20 1
+Delay 96 ms
+KeyUp 20 1
+Delay 600 ms
+KeyDown 20 1
+Delay 87 ms
+KeyUp 20 1
+Delay 500 ms
+KeyDown 10 1
+Delay 72 ms
+KeyUp 10 1
+Delay 10000 ms</Syntax>
+    </KeyDown>
+    <Software>Solo Leveling: ARISE OVERDRIVE</Software>
+  </DefaultMacro>
+</Root>

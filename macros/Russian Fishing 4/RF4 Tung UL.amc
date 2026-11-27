@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This file contains a script designed for ultra light fishing in Russian Fishing 4.
+The script is designed to automatically fish for 200 repetitions with ultra light setup and a retrieval speed of 30.
+The script can be manipulated for heavier setups and other retrievals by changing the different delays in the script.
+
+Important notes:
+- Set the drag to max allowed by your setup.
+- All fish are kept in the keepnet.
+- Make sure the keybinds are the standard fro RF4.
+
+Enjoy</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 64 ms
+LeftDown 1
+KeyDown 225 1
+Delay 200 ms
+KeyUp 225 1
+LeftUp 1
+Delay 3000 ms
+LeftDown 1
+Delay 25000 ms
+RightDown 1
+KeyDown 225 1
+Delay 5000 ms
+KeyUp 225 1
+RightUp 1
+LeftUp 1
+Delay 500 ms
+KeyDown 44 1
+KeyUp 44 1
+Delay 500 ms
+KeyDown 44 1
+KeyUp 44 1
+Delay 64
+GoWhile 1 200</Syntax>
+    </KeyDown>
+    <Software>Russian Fishing 4</Software>
+  </DefaultMacro>
+</Root>

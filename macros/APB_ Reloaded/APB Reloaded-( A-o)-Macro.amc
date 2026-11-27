@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>macro for apb made it so ur camera doesnt lag put ur secondary shoot button to alt if u hold left mouse button it shoots with alt so no camera stutter</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 226 1
+Delay 20 ms
+KeyUp 226 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>APB Reloaded</Software>
+  </DefaultMacro>
+</Root>

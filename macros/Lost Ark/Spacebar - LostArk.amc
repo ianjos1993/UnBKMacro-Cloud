@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro allows you to complete spacebar quick time events in a short amount of time. Raids from Vykas and onwards have quick time events that require to spam spacebar and this macro makes quick work of any of them</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 1 ms
+KeyUp 44 1
+Delay 1 ms
+GoWhile 1 100</Syntax>
+    </KeyDown>
+    <Software>Lost Ark</Software>
+  </DefaultMacro>
+</Root>

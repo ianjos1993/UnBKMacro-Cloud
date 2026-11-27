@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This is to decrease Aegis Local Legend resistance by -50 and defencse by -23.
+Anemo Traveler must be in the second slot, with Klee in the third.After you press the toggle, itll go to character menu, this is intended for you to switch the travlelers artifacts from noblese to Vriridicent.
+ </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 67 ms
+KeyUp 8 1
+Delay 1050 ms
+KeyDown 31 1
+Delay 120 ms
+KeyUp 31 1
+Delay 179 ms
+KeyDown 20 1
+Delay 80 ms
+KeyUp 20 1
+Delay 1095 ms
+KeyDown 6 1
+Delay 10 ms
+KeyUp 6 1</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major>Используйте для антиэйра с левой стороны</Major>
+    <Description>V skill - Любой           V trigger - Любой
+
+Кнопки для ударов(раскладка): Легкий панч - 7 num
+Средний панч - 8 num
+Сильный панч - 9 num
+Слабая нога - 4 num
+Средняя нога - 5 num
+Сильная нога - 6 num</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 20 ms
+KeyDown 4 1
+Delay 20 ms
+KeyUp 4 1
+Delay 20 ms
+KeyDown 4 1
+Delay 20 ms
+KeyDown 96 1
+Delay 68 ms
+KeyUp 96 1
+Delay 40 ms
+KeyUp 4 1
+Delay 60 ms
+KeyUp 22 1
+Delay 30 ms</Syntax>
+    </KeyDown>
+    <Software>Street Fighter V</Software>
+  </DefaultMacro>
+</Root>

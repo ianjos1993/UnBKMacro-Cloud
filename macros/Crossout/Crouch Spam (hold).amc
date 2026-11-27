@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>All you have to do is set the script to ctrl or any other key
+
+Then hold the key and it will work
+
+Tested in: CF WEST, CF PH, CF CN</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+KeyUp 44 1
+Delay 0 ms</Syntax>
+    </KeyDown>
+    <Software>Crossout</Software>
+  </DefaultMacro>
+</Root>

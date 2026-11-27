@@ -1,0 +1,106 @@
+<Root>
+  <DefaultMacro>
+    <Major>Feng T8 Combo 5</Major>
+    <Description>Макрос позволяет выполнять комбо за Feng.
+Видео демонстрации работы макроса: https://youtu.be/_C2lj9Wblo8
+
+Внешне Фенг — мускулистый мужчина с жестким и грозным выражением лица. Он носит традиционную китайскую одежду бойца: его костюм дополняет образ могучего воина, у которого прослеживается явная уверенность в своих силах и безразличие к оппонентам. В Tekken 8 остаётся мощным мастером боевых искусств с уникальным стилем и харизмой. Он сражается в традиционном стиле кэмпо, который он освоил до совершенства, превращая каждое своё движение в разрушительный удар.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 12.10.2024
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ.
+
+#fengtekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 4 ms
+KeyDown 7 1
+Delay 19 ms
+KeyDown 76 1
+Delay 149 ms
+KeyUp 76 1
+Delay 90 ms
+KeyUp 22 1
+Delay 39 ms
+KeyUp 7 1
+Delay 443 ms
+KeyDown 7 1
+Delay 74 ms
+KeyUp 7 1
+Delay 69 ms
+KeyDown 7 1
+Delay 214 ms
+KeyDown 4 1
+Delay 57 ms
+KeyUp 7 1
+Delay 23 ms
+KeyDown 76 1
+Delay 116 ms
+KeyUp 76 1
+Delay 379 ms
+KeyUp 4 1
+Delay 277 ms
+KeyDown 74 1
+Delay 108 ms
+KeyUp 74 1
+Delay 398 ms
+KeyDown 22 1
+Delay 0 ms
+KeyDown 7 1
+Delay 58 ms
+KeyDown 77 1
+Delay 115 ms
+KeyUp 77 1
+Delay 114 ms
+KeyDown 74 1
+Delay 138 ms
+KeyUp 74 1
+Delay 5 ms
+KeyUp 22 1
+Delay 0 ms
+KeyUp 7 1
+Delay 57 ms
+KeyDown 74 1
+Delay 11 ms
+KeyDown 73 1
+Delay 98 ms
+KeyUp 73 1
+Delay 5 ms
+KeyUp 74 1
+Delay 64 ms
+KeyDown 74 1
+Delay 4 ms
+KeyDown 73 1
+Delay 80 ms
+KeyUp 73 1
+Delay 0 ms
+KeyUp 74 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

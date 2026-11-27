@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>You would build faster with this macro....Why? This macro allows you to build faster than before because it confirms the build piece for you.....COOOL. Before you run this...you first need to go to fortnite settings and then go to your binds. After that....look for "Place Building" and bind any key youre NOT using to your SECOND SLOT. For this example you see that i used "backspace"....BUT you can just edit the macro and put the key youre using. You can also mess with the delays if you want to...1ms doesnt work for everyone.
+
+YOU WOULD NOT GET BANNED WHILE USING THIS because you are technically playing it "normally"
+
+If you have any question feel free to reach out and i would be more than happy to explain.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 42 1
+Delay 1 ms
+KeyUp 42 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

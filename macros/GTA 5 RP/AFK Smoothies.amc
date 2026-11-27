@@ -1,0 +1,121 @@
+<Root>
+  <DefaultMacro>
+    <Major>1.0</Major>
+    <Description>1920x1080 
+полностью афк смузики в Gta 5 rp 
+1. берешь себе в инвентарь в самый первый слот сверху 40 овощей и просто подходишь к столу готовки
+(( Главное вы должны иметь мульти кухню за 90к или за 126к ))
+
+2. в самый первый и верхний слот холодильника ставите сколько угодно овощей у меня обычно по 400 это можно настроить в последней строке макроса
+(( Макрос берет всегда по 40 овощей и выкладывает по 40 смузиков ))
+
+Что бы понять как работает макрос протестируйте его прежде чем готовить,
+Так же напомню не оставляйте любые макросы надолго в афк.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 3 s
+MoveTo 890 597
+Delay 3 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 3 s
+MoveTo 1153 289
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 1080 288
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 810 581
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 799 673
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+GoWhile 11 40
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 3 s
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 3 s
+MoveTo 861 646
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 3 s
+MoveTo 371 167
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 792 163
+Delay 64
+KeyDown 224 1
+Delay 64
+LeftDown 1
+Delay 64
+MoveTo 282 161
+Delay 64
+LeftUp 1
+Delay 64
+KeyUp 224 1
+Delay 64
+MoveTo 794 504
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+KeyDown 39 1
+Delay 64
+KeyUp 39 1
+Delay 64
+MoveTo 851 649
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 3 s
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 3 s
+GoWhile 1 10</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

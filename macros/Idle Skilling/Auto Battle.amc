@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Если выходить с игры на афк то афк бонусы работают криво и лутше оставлять игру выбрав моба который дайт больше золота и фармить его с этим макросом .  Юзаеться урон а также переключаеться на бафы которые тоже прожимаються </Description>
+    <Comment>Нажимает 5 актививных кнопки для урона и 5 кнопок для бафов </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 64
+KeyDown 226 1
+KeyDown 20 1
+KeyUp 226 1
+KeyUp 20 1</Syntax>
+    </KeyDown>
+    <Software>Idle Skilling</Software>
+  </DefaultMacro>
+</Root>

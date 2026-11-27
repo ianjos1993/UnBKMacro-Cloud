@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major>Макрос на быстрое использование умения Berserk</Major>
+    <Description>Макрос на быстрое использование умения Berserk оружия Hatchet.Нужен для того чтобы быстро выходить из контролей одной кнопкой .Для корректной работы макроса hatchet должен быть выставлен на второй слот оружия а умение Berserk на первую кнопку скилла.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 135 ms
+KeyUp 31 1
+Delay 95 ms
+KeyDown 20 1
+Delay 143 ms
+KeyUp 20 1</Syntax>
+    </KeyDown>
+    <Software>New World</Software>
+  </DefaultMacro>
+</Root>

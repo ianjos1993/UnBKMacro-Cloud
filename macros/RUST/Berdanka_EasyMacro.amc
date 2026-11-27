@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description> 
+
+Всем привет!
+
+Сенса 1.0
+С прицелом 0.9
+FOV 81
+
+Удачи вам                                                                                                                        </Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+MoveR 0 16
+LeftUp 1
+MoveR 0 0
+Delay 45 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

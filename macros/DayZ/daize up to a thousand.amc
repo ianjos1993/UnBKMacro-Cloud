@@ -1,0 +1,3322 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Кодлокер для 4-х значного и 3-х значного замка.
+меняете взаим. с окр. средой на ЛКМ, подходите к замку и включаете макрос.</Description>
+    <Comment>меняете взаим. с окр. средой на ЛКМ, подходите к замку и включаете макрос.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//первый круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//второй круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//третий круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//четвёртый круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//пятый круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//шестой круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//седьмой круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//восьмой круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//девятый круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//десятый круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//смена сотни
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к сотне
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена сотни
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//первый круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//второй круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//третий круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//четвёртый круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//пятый круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//шестой круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//седьмой круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//восьмой круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//девятый круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//десятый круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//смена сотни
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к сотне
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена сотни
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//первый круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//второй круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//третий круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//четвёртый круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//пятый круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//шестой круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//седьмой круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//восьмой круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//девятый круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//десятый круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//смена сотни
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к сотне
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена сотни
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//первый круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//второй круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//третий круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//четвёртый круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//пятый круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//шестой круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//седьмой круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//восьмой круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//девятый круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//десятый круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//смена сотни
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к сотне
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена сотни
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//первый круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//второй круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//третий круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//четвёртый круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//пятый круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//шестой круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//седьмой круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//восьмой круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//девятый круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к десяткам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена десятки
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//десятый круг
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//смена сотни
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к сотне
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//смена сотни
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1000 ms
+//переход к единицам
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>DayZ</Software>
+  </DefaultMacro>
+</Root>

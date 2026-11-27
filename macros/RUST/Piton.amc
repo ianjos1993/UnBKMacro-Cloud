@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Rust/макрос на питон.гасит отдачу.жмет в точку.заходите в редактор A4tech выбираете любую кнопку,ваш питон заряжен к бою.</Description>
+    <Comment>www.ml-macro.com
+</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 20 ms
+MoveR 0 21
+LeftUp 1
+MoveR 0 0
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>www.ml-macro.com</Software>
+  </DefaultMacro>
+</Root>

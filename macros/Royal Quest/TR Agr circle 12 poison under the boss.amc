@@ -1,0 +1,85 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос предназначен для того что бы афкашить под босами на 48 кроме духа , тайминги подобраны идеально под агр по кд, поддерживает 4 стака кровотака, держит чуму и агрит круговым . Так же можно поменять для слабых тров чуму и любой крушащий на жатву.
+Раскладка клавиатуры в игре
+1 Крушащий
+2 Доминирование
+Alt+2 Чума
+4 уроговой
+E Агр
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//                                                                                                       Цикл 12 Начало
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 900 ms
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 900 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 900 ms
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 900 ms
+//                                                                                                       Цикл 12 конец
+//                                                                                                       Цикл Яд начало
+KeyDown 226 1
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+KeyUp 226 1
+Delay 1 s
+//                                                                                                       Цикл Яд конец
+//                                                                                                       Цикл 12 Начало
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 900 ms
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 900 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 900 ms
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 900 ms
+//                                                                                                       Цикл 12 конец
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 1 s
+//                                                                                                       Цикл 12 Начало
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 900 ms
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 900 ms
+//                                                                                                       Цикл 12 конец
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 1 s</Syntax>
+    </KeyDown>
+    <Software>Royal Quest</Software>
+  </DefaultMacro>
+</Root>

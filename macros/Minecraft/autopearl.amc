@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для игры майнкрафт.
+Если вам сложно быстро откинуть эндержемчуг, то этот макрос прийдёт вам на помощь. Что-бы он работал нужно поставить эндержемчуг в 9 слот хотбара, после откидывания жемчуга ваш персонаж возьмёт предмет из 2 слота в руку. Желательно ставить меч или эндеркристалл (смотря какое у вас пвп). 
+</Description>
+    <Comment>i love u &lt;3</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 38 1
+Delay 30 ms
+RightDown 1
+Delay 30 ms
+KeyUp 38 1
+RightUp 1
+Delay 30 ms
+Delay 30 ms
+KeyDown 31 1
+Delay 30 ms
+KeyUp 31 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

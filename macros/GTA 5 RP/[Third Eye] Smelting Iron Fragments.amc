@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Stand near the smelting spot and press your hotkey, and it should auto smelt untill pressed agian
+
+Very simple Macro, but it works.
+
+Might need to have Driver enabled otherwise it might not be able to hold ALT.
+
+So basicly the scripts holds alt, right clicks then moves mouse to the right and then left click to initiate the smelting. then it moves the mouse over the iron fragments and clicks.Then it waits, and then start over after a set amount of time (which can be changed dependant on how long the washing takes.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 226 1
+Delay 1 ms
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveR 45 -1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyUp 226 1
+Delay 50 ms
+MoveR 159 -85
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 30000 ms</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

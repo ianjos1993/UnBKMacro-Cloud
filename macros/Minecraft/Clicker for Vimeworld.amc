@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>1)Данный макрос предназначен для игры на сервере Vimeworld.
+2)Биндите макрос на удобную для вас кнопку мыши или клавишу клавиатуры и уничтожаете врагов.
+3)Лучше всего  этот макрос использовать на дуэлях.
+4)Макрос предназначен для игры на Vimeworld,но так же может быть использован на других серверах.
+5)Не рекомендуется использовать на серверах где макросы запрещены,тк вы можете получить бан.
+6)Всем приятного использования).</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 2 ms
+KeyUp 43 1
+Delay 2 ms
+LeftDown 1
+Delay 2 ms
+LeftUp 1
+Delay 2 ms
+LeftDown 1
+GoWhile 5 10000
+Delay 2 ms
+LeftUp 1
+Delay 2 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

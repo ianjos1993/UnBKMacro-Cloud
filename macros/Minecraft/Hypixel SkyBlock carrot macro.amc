@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Скрипт для горизонтальной фермы нароста (или других культур). Для макроса требуется: Rancher boots (115 speed), любая мотыга (желательно math. hoe), время. Для запуска, встаньте на ферму чтобы вы шли направо, поставьте угол взгляда на 90 / 1 (или -90 / 1), запустите макрос. Удачи.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+LeftDown 1
+Delay 32 s
+KeyUp 7 1
+KeyDown 4 1
+Delay 32 s
+KeyUp 4 1
+LeftUp 1
+GoWhile 1 10000</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

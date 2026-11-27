@@ -1,0 +1,92 @@
+<Root>
+  <DefaultMacro>
+    <Major>EHOT</Major>
+    <Description>Макрос для быстрого лутания инвентаря для 4к разрешения. Пользуйтесь на здоровье.
+A  macro for quickly looping inventory for 4k resolution. Use it for your health.
+</Description>
+    <Comment>Just fast looting for 4k monitor.
+Просто быстрый лут для 4к мониторов.
+Пользуйтесь на здоровье.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1162 614
+KeyDown 225 1
+Delay 64 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 64 ms
+KeyUp 225 1
+MoveTo 1266 609
+KeyDown 225 1
+Delay 64
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 64
+KeyUp 225 1
+MoveTo 1375 614
+KeyDown 225 1
+Delay 64
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 64
+KeyUp 225 1
+MoveTo 1155 716
+KeyDown 225 1
+Delay 64
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 64
+KeyUp 225 1
+MoveTo 1265 715
+KeyDown 225 1
+Delay 64
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 64
+KeyUp 225 1
+MoveTo 1375 717
+KeyDown 225 1
+Delay 64
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 64
+KeyUp 225 1
+MoveTo 1159 827
+KeyDown 225 1
+Delay 64
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 64 ms
+KeyUp 225 1
+MoveTo 1268 826
+KeyDown 225 1
+Delay 64
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 64 ms
+KeyUp 225 1
+MoveTo 1379 826
+KeyDown 225 1
+Delay 64
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 64
+KeyUp 225 1</Syntax>
+    </KeyDown>
+    <Software>Albion online</Software>
+  </DefaultMacro>
+</Root>

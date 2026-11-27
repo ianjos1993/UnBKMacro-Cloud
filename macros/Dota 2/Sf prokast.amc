@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>1.Макрос используется для героя из игры дота 2 Shadow Fiend.
+2. Сф очень тайминговый герой и 1 ошибка и можно проиграть,мой скрипт предназначен для МАГ СФА.
+3.По биндам  space-еул, 1-blink dagger, x-Blacking Bar, Q-Ближний Койл, W-Средний койл, E-Дальний койл.
+4. Макрос решает все проблемы с таймингами во время расскаста,юзлес на 1к до 6к.
+5Если есть вопросы пишите в вк id: 4elbob3k</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 10 ms
+KeyUp 30 1
+Delay 11 ms
+KeyDown 27 1
+Delay 50 ms
+KeyUp 27 1
+Delay 50 ms
+KeyDown 44 1
+Delay 70 ms
+KeyUp 44 1
+Delay 70 ms
+Delay 1100 ms
+KeyDown 21 1
+KeyDown 20 1
+Delay 15 ms
+KeyUp 20 1
+Delay 13 ms
+KeyDown 26 1
+Delay 11 ms
+KeyUp 26 1
+Delay 12 ms
+KeyDown 8 1
+Delay 50 ms
+KeyUp 8 1
+Delay 30 ms</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

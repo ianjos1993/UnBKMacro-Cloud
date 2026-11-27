@@ -1,0 +1,19 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Банально и просто, но зато удобно) будет водить вашего персонажа покругу за вас, тем самым отвлекая бота</Description>
+    <Comment>Главное найти место, где нету препятствий</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 80 1
+KeyDown 26 1
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

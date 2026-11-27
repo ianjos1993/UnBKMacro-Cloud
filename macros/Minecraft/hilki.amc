@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на прокрутку хилок на режимах игры gtm, настроить слоты можно под себя - в макро 3 и 4 слот хилки.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 64 ms
+KeyDown 33 1
+KeyUp 33 1
+Delay 30 ms
+RightDown 1
+RightUp 1
+Delay 30 ms
+KeyDown 34 1
+KeyUp 34 1
+Delay 30 ms
+RightUp 1
+RightDown 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

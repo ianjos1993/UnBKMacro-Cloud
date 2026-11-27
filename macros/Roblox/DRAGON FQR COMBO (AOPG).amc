@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>нужен для убийства рейдового босса на 4 гир 
+багаем между двух колон, в форме дракона отходим на расстояние когда его атаки вас не достают и включаем макрос</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 500 ms
+KeyDown 21 1
+Delay 500 ms
+KeyDown 20 1
+Delay 128 ms
+KeyUp 9 1
+Delay 128 ms
+KeyUp 21 1
+Delay 128 ms
+KeyUp 20 1
+Delay 128 ms
+GoWhile 1 1000</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

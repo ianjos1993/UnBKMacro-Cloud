@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major>parkour roblox auto fall cancel paraglider</Major>
+    <Description>auto fall cancel with magrail 
+all u need is a paraglider
+u need to go close to a wall and perss the keybind
+and it will automatically save u from fall damage</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 20 ms
+KeyDown 21 1
+Delay 20 ms
+KeyUp 8 1
+Delay 20 ms
+KeyUp 21 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

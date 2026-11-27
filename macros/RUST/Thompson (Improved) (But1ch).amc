@@ -1,0 +1,49 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Лучший макро на данный момет
+
+Разрешение 1920 x 1080
+sens 0.66
+dpi 1300
+fov 90
+
+Изменный макро на томик. +15% к точности</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 52 ms
+MoveR 1 -59
+Delay 52 ms
+MoveR 1 -59
+Delay 52 ms
+MoveR 1 -59
+Delay 52 ms
+MoveR 1 -59
+Delay 52 ms
+MoveR 1 -59
+Delay 52 ms
+MoveR 1 -59
+Delay 52 ms
+MoveR 1 -60
+Delay 52 ms
+MoveR 1 -59
+Delay 52 ms
+MoveR 1 -59
+Delay 52 ms
+MoveR 1 -62
+Delay 52 ms
+MoveR 1 -59
+Delay 52 ms
+LeftUp 1
+Delay 52 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

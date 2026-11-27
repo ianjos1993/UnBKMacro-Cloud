@@ -1,0 +1,68 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Добрый день , надеюсь этот макрос попадёт в обшую базу , я над наим програмировал много систем обошёл,и написал баг урон на все системы - здесь скорость атаки подходит от системы 4.1 до 8.9 , вы будете поднимать в воздух и держать в оздухе ваш лог вы убиваете всех при правильном стрейфе вы миожите  комбе убить сразу в секунду . Если вам нужно помощь по макросам могу помочь отпишите в лс 
+Слоты 1 - 9  свап с 5 слота
+Удачи!
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 0 ms
+KeyUp 30 1
+Delay 0 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 7 ms
+LeftDown 1
+Delay 12 ms
+LeftUp 1
+Delay 9 ms
+LeftDown 1
+Delay 7 ms
+LeftUp 1
+Delay 8 ms
+LeftDown 1
+Delay 7 ms
+LeftUp 1
+Delay 5 ms
+LeftDown 1
+Delay 7 ms
+LeftUp 1
+Delay 6 ms
+KeyDown 38 1
+Delay 0 ms
+KeyUp 38 1
+Delay 0 ms
+LeftDown 1
+Delay 8 ms
+LeftUp 1
+Delay 9 ms
+LeftDown 1
+Delay 7 ms
+LeftUp 1
+Delay 8 ms
+LeftDown 1
+Delay 9 ms
+LeftUp 1
+Delay 8 ms
+LeftDown 1
+Delay 7 ms
+LeftUp 1
+Delay 7 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 11 ms
+SayString </Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

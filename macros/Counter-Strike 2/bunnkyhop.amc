@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>Bunny hop</Major>
+    <Description>U need just to hold the macro button keybind that u set this macro to and move ur camera right and then left and here u go perfect bunny hop!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 20
+KeyUp 44 1
+Delay 20
+KeyDown 7 1
+Delay 20
+KeyUp 7 1
+Delay 20
+KeyDown 44 1
+Delay 20
+KeyUp 44 1
+Delay 20
+KeyDown 4 1
+Delay 20
+KeyUp 4 1
+Delay 20</Syntax>
+    </KeyDown>
+    <Software>Counter-Strike 2</Software>
+  </DefaultMacro>
+</Root>

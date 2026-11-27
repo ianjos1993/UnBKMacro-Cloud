@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>(v1.0) D.A.C.S. aka Disco's Automatic Crouch Spam is a macro designed for the smoothest possible crouch spam in Apex Legends! D.A.C.S. has a problem using with LMB so this macro was also designed to shoot for you! D.A.C.S. may or may not be continued in further or separate versions. For now, D.A.C.S. is setup specifically for 400 DPI with an in-game sensitivity of 5.0 (1.0 ADS w/per-optic ADS sensitivity off) at 1920x1080p, but upon request I may release additional versions covering different DPIs and resolutions. If you face any issues using it, please reach out and let me know so I can properly update and correct any bugs found while using D.A.C.S. and/or any subsequent versions!</Description>
+    <Comment>OSIRISSOFTWARE - SLSK - GSO</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 6 1
+Delay 100 ms
+KeyUp 6 1
+Delay 60 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

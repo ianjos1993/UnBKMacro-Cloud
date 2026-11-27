@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для автоматического включения телефона на сервере BladeDeMC
+Разрешение экрана 1680x1050
+Держать телефон в 5 слоте.
+Нужен драйвер.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 34 1
+Delay 64 ms
+KeyUp 34 1
+RightUp 1
+Delay 64 ms
+RightDown 1
+GoColor 1 0 169,36,13 255,255,255 1 1217 509 354 572 1 0</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

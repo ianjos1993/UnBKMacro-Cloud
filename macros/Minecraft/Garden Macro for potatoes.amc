@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос предназначен для фарма картошки на гардане на сервере ХАЙПИКСЕЛЬ скайблок для его работы нужно:
+1 Вытставить курсор на экране на 90/180 градусов
+2 использовать мотыгу предназначеную для фарма картошки
+3 использовать ранчер ботинки и выставить их на скорость 115
+4 построить плот 1 на 3 
+макрос вертикальный
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+KeyDown 7 1
+Delay 59 s
+KeyUp 7 1
+Delay 64
+KeyDown 22 1
+Delay 2500 ms
+KeyUp 22 1
+Delay 64
+KeyDown 4 1
+Delay 59 s
+KeyUp 4 1
+Delay 64
+KeyDown 22 1
+Delay 2500 ms
+KeyUp 22 1
+Delay 64
+GoWhile 3 4
+KeyDown 26 1
+Delay 17 s
+KeyUp 26 1
+Delay 64
+GoWhile 3 999
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

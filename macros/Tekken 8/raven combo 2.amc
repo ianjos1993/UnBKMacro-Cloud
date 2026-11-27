@@ -1,0 +1,92 @@
+<Root>
+  <DefaultMacro>
+    <Major>raven combo 2</Major>
+    <Description>Комбо макрос для персонажа Raven в игре Tekken 8
+
+Позже Рэйвен обнаружил, что Хейхачи пережил взрыв в Хон-Мару. Они недолго сражались, но Рейвен приказали вернуться в штаб и заставили отступить. Рейвен и Ларс отправились в храм в пустыне в поисках Джина. По пути они встретили Зафину, которая поделилась с ними информацией. Рейвен и Ларс вошли в храм, где встретили Казую Мишиму, лидера G Corporation и сводного брата Ларса. 
+
+Видео демонстрация макроса -  https://youtu.be/OFqwg8pJl88
+Тестировалось на последней версии игры.
+
+Настройки в программе для корректного выполнения макроса:
+1. Использовать драйвер.
+2. Отключить использование минимальной задержки.
+
+
+Настройки управления в игре:
+1 - Num 4
+2 - Num 5
+3 - Num 1
+4 - Num 2
+Up - W
+Down - S
+Left - A
+Right - D
+
+Если макрос не работает обращаться - https://keyran.net/discord
+Либо к автору макроса, также по вопросам написания макросов - hersonaep (discord)
+
+#tekken #tekken8 #raven #keyran</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 0 ms
+KeyDown 22 1
+Delay 39 ms
+KeyDown 93 1
+Delay 120 ms
+KeyUp 93 1
+Delay 40 ms
+KeyUp 22 1
+Delay 40 ms
+KeyUp 7 1
+Delay 519 ms
+KeyDown 4 1
+Delay 30 ms
+KeyDown 93 1
+Delay 140 ms
+KeyDown 89 1
+Delay 19 ms
+KeyUp 93 1
+Delay 10 ms
+KeyUp 4 1
+Delay 80 ms
+KeyUp 89 1
+Delay 1450 ms
+KeyDown 4 1
+Delay 29 ms
+KeyDown 93 1
+Delay 119 ms
+KeyUp 93 1
+Delay 49 ms
+KeyDown 90 1
+Delay 80 ms
+KeyUp 4 1
+Delay 49 ms
+KeyUp 90 1
+Delay 100 ms
+KeyDown 93 1
+Delay 80 ms
+KeyUp 93 1
+Delay 1480 ms
+KeyDown 7 1
+Delay 60 ms
+KeyUp 7 1
+Delay 59 ms
+KeyDown 7 1
+Delay 90 ms
+KeyDown 93 1
+Delay 299 ms
+KeyUp 93 1
+Delay 10 ms
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

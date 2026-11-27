@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Поставьте макрос в режим "Нажмите чтобы запустить, повторно нажмите чтобы остановить" и установите на любую удобную клавишу. Макрос автоматически скипает диалоги в игре Genshin Impact.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

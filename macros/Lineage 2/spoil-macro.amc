@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простенький макрос для спойла :)
+
+1.Выставляем на второую панель с 1 по 4 слот такие скиллы:
+  1 - Некст таргет
+  2 - Спойл
+  3 - автоатака
+  4 - Собрать спойл
+
+2. Запускаем макрос, спойлим:)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+KeyDown 31 1
+KeyUp 31 1
+KeyDown 32 1
+KeyUp 32 1
+KeyDown 33 1
+KeyUp 33 1</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

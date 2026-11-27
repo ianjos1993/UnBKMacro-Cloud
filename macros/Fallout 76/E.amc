@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major>Yarik.ork</Major>
+    <Description>Макрос для нажатия клавиши Е, используется для сбора ресурсов,оружия, хлама, раскопок ресурсови т.д. к примеру разберём сбор ресурсов через карты сокровищь, подходим к кучке которая относится к крте которая в инветаре нажымаем клавишу к которой привязан макрос и ждём достижения капа в инвентаре после чего нажимаем повторно, что отключет сбоорм макросом, ну и аналогично с другими ресурсами.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//Конвертированный файл макроса 11 октября 2022 23:15:03
+KeyDown 8 1
+Delay 10 ms
+KeyUp 8 1
+Delay 10 ms
+GoWhile 1 86400001</Syntax>
+    </KeyDown>
+    <Software>Fallout 76</Software>
+  </DefaultMacro>
+</Root>

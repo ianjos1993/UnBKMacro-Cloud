@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Лестница строится без подтверждения на ЛКМ. 
+Точно как на консоли, нажали кнопкулестница, построилась лестница и не нужно нажимать ЛКМ.
+Удерживая кнопку "С" лестница будет строится пока вы не отпустите кнопку.
+
+Строительство лестницы должно быть на кнопку "С"
+Если для вас это не удобно, поменяйте кнопку "С" на любую удобную для вас в редакторе макросов.
+
+Подписывайся на канала DoubleSe в YouTube</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+LeftDown 1
+Delay 1000 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>------------- Полезно в повседневе -------------
+
+Автоматический прыжок с бегом.
+
+Всегда зажаты Shift + W, перидически нажимается Space.
+
+Полезно для обычного передвижения по карте, все что Вам остается - крутить мышью в сторону куда Вам нужно.
+
+Активация/Деактивация по назначенной клавише следовательно инструкциям на сайте.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 64 ms
+KeyDown 225 1
+Delay 361 ms
+KeyDown 44 1
+Delay 119 ms
+KeyUp 44 1
+Delay 1192 ms</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

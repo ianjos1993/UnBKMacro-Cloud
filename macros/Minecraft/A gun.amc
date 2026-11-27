@@ -1,0 +1,54 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Новый топ макросик для ZonixCraft divinerpg 
+В этом макросе есть авто свап ( то есть переключает 1 и 3 автоматически ) 
+Но для того чтоб он переключал нужно зайти в A4tech и выбрать режим работы ( квадрат со стрелками ) на зажать 
+Меч и (фрост массик) нужно ставить так
+меч на 1 слот фрост или массик на 3
+Качай братва
+Тащи дружок</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+LeftDown 1
+Delay 13 ms
+LeftUp 1
+Delay 13 ms
+LeftDown 1
+Delay 4 ms
+LeftUp 1
+Delay 4 ms
+LeftDown 1
+Delay 3 ms
+LeftUp 1
+Delay 3 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyDown 32 1
+KeyUp 32 1
+RightDown 1
+Delay 10 ms
+RightUp 1
+Delay 12 ms
+RightDown 1
+Delay 12 ms
+RightUp 1
+Delay 10 ms
+RightDown 1
+Delay 6 ms
+RightUp 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

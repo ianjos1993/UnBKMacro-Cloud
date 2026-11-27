@@ -1,0 +1,170 @@
+<Root>
+  <DefaultMacro>
+    <Major>Kazama Combo 12</Major>
+    <Description>Макрос позволяет выполнять комбо за Jin Kazamai комбинацию у стены.
+Видео демонстрации работы макроса: https://youtu.be/3uZd-9Z2uL8
+
+Джин обладает структурированным мышлением. Перед выполнением действия производится оценка последствий. Приоритет отдается стратегиям, позволяющим сохранить контроль над ситуацией в долгосрочной перспективе. Импульсивные действия исключены. В бою демонстрирует комбинированный стиль. Защитные действия используются для сбора информации о противнике и создания условий для последующего перехода в атаку. Атакующие фазы резкие, кратковременные, с акцентом на уязвимые зоны. Отмечается способность быстро менять ритм боя, что дестабилизирует противника.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 24.03.2026
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ.
+
+#Kazamatekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 61 ms
+KeyDown 93 1
+Delay 11 ms
+KeyDown 89 1
+Delay 271 ms
+KeyUp 89 1
+Delay 18 ms
+KeyUp 93 1
+Delay 58 ms
+KeyUp 7 1
+Delay 1538 ms
+KeyDown 7 1
+Delay 93 ms
+KeyUp 7 1
+Delay 73 ms
+KeyDown 7 1
+Delay 153 ms
+KeyDown 90 1
+Delay 208 ms
+KeyUp 7 1
+Delay 23 ms
+KeyUp 90 1
+Delay 301 ms
+KeyDown 7 1
+Delay 103 ms
+KeyUp 7 1
+Delay 60 ms
+KeyDown 93 1
+Delay 39 ms
+KeyDown 7 1
+Delay 48 ms
+KeyUp 93 1
+Delay 45 ms
+KeyUp 7 1
+Delay 72 ms
+KeyDown 93 1
+Delay 8 ms
+KeyDown 7 1
+Delay 92 ms
+KeyUp 7 1
+Delay 49 ms
+KeyUp 93 1
+Delay 117 ms
+KeyDown 4 1
+Delay 49 ms
+KeyDown 92 1
+Delay 129 ms
+KeyUp 92 1
+Delay 6 ms
+KeyUp 4 1
+Delay 646 ms
+KeyDown 22 1
+Delay 30 ms
+KeyDown 4 1
+Delay 86 ms
+KeyUp 22 1
+Delay 34 ms
+KeyDown 92 1
+Delay 89 ms
+KeyUp 4 1
+Delay 49 ms
+KeyUp 92 1
+Delay 81 ms
+KeyDown 4 1
+Delay 100 ms
+KeyUp 4 1
+Delay 582 ms
+KeyDown 7 1
+Delay 118 ms
+KeyDown 22 1
+Delay 0 ms
+KeyUp 7 1
+Delay 73 ms
+KeyDown 7 1
+Delay 31 ms
+KeyUp 22 1
+Delay 56 ms
+KeyUp 7 1
+Delay 39 ms
+KeyDown 22 1
+Delay 33 ms
+KeyDown 7 1
+Delay 42 ms
+KeyDown 90 1
+Delay 23 ms
+KeyUp 22 1
+Delay 46 ms
+KeyUp 7 1
+Delay 17 ms
+KeyUp 90 1
+Delay 838 ms
+KeyDown 7 1
+Delay 99 ms
+KeyUp 7 1
+Delay 50 ms
+KeyDown 4 1
+Delay 191 ms
+KeyUp 4 1
+Delay 142 ms
+KeyDown 4 1
+Delay 36 ms
+KeyDown 93 1
+Delay 161 ms
+KeyUp 93 1
+Delay 81 ms
+KeyDown 92 1
+Delay 144 ms
+KeyUp 92 1
+Delay 105 ms
+KeyDown 90 1
+Delay 172 ms
+KeyUp 90 1
+Delay 120 ms
+KeyDown 89 1
+Delay 67 ms
+KeyUp 4 1
+Delay 31 ms
+KeyUp 89 1
+Delay 600 ms
+KeyDown 4 1
+Delay 142 ms
+KeyDown 89 1
+Delay 118 ms
+KeyUp 89 1
+Delay 138 ms
+KeyUp 4 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

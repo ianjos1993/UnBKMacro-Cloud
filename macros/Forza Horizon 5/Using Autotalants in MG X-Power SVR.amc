@@ -1,0 +1,245 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос за очки автоталантов покупает в машине MG X-Power SV-R 2005 WheelSpin и SuperWheelSpin и 75000кр и автоматически удаляет машину из гаража.
+за 19 очков автоталантов.
+
+1: сначала покупаем наш MG: заходим в форзу - Esk - машины - коллекция машин - ищем  MG X-Power SV-R 2005 и покупаем на клавишу Y столькоштук на сколько хватает автоталантов(всего автоталантов делим на 19 и вот столько машин берем)
+
+2: садимся в любую MG X-Power SV-R 2005  и выезжаем на ней из гаража,
+заезжаем в гараж и наводим курсор на первую MG затем жмем вниз и влево. Зафиксировали. Активируем макрос. Можно отдыхать, но иногда форза тупит, так что изредка погдядываем как там дела. 
+
+Также важно: мы либо вначале в макросе в последней строчке указываем сколько раз будет идти макрос, либо просто следим за ним, иначе он начнет удалять другие машины.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 150 ms
+KeyUp 68 1
+Delay 113 ms
+KeyUp 225 1
+Delay 1239 ms
+KeyDown 79 1
+Delay 56 ms
+KeyUp 79 1
+Delay 343 ms
+KeyDown 82 1
+Delay 103 ms
+KeyUp 82 1
+Delay 375 ms
+KeyDown 88 1
+Delay 87 ms
+KeyUp 88 1
+Delay 432 ms
+KeyDown 88 1
+Delay 71 ms
+KeyUp 88 1
+Delay 8440 ms
+KeyDown 41 1
+Delay 79 ms
+KeyUp 41 1
+Delay 1632 ms
+KeyDown 80 1
+Delay 79 ms
+KeyUp 80 1
+Delay 360 ms
+KeyDown 88 1
+Delay 71 ms
+KeyUp 88 1
+Delay 1000 ms
+KeyDown 79 1
+Delay 87 ms
+KeyUp 79 1
+Delay 216 ms
+KeyDown 79 1
+Delay 88 ms
+KeyUp 79 1
+Delay 344 ms
+KeyDown 81 1
+Delay 111 ms
+KeyUp 81 1
+Delay 288 ms
+KeyDown 88 1
+Delay 95 ms
+KeyUp 88 1
+Delay 1000 ms
+KeyDown 88 1
+Delay 87 ms
+KeyUp 88 1
+Delay 1063 ms
+KeyDown 79 1
+Delay 96 ms
+KeyUp 79 1
+Delay 416 ms
+KeyDown 88 1
+Delay 79 ms
+KeyUp 88 1
+Delay 448 ms
+KeyDown 79 1
+Delay 39 ms
+KeyUp 79 1
+Delay 456 ms
+KeyDown 88 1
+Delay 72 ms
+KeyUp 88 1
+Delay 447 ms
+KeyDown 82 1
+Delay 88 ms
+KeyUp 82 1
+Delay 328 ms
+KeyDown 88 1
+Delay 87 ms
+KeyUp 88 1
+Delay 535 ms
+KeyDown 79 1
+Delay 63 ms
+KeyUp 79 1
+Delay 383 ms
+KeyDown 88 1
+Delay 80 ms
+KeyUp 88 1
+Delay 559 ms
+KeyDown 80 1
+Delay 79 ms
+KeyUp 80 1
+Delay 359 ms
+KeyDown 82 1
+Delay 88 ms
+KeyUp 82 1
+Delay 328 ms
+KeyDown 88 1
+Delay 63 ms
+KeyUp 88 1
+Delay 632 ms
+KeyDown 80 1
+Delay 72 ms
+KeyUp 80 1
+Delay 344 ms
+KeyDown 88 1
+Delay 47 ms
+KeyUp 88 1
+Delay 848 ms
+KeyDown 41 1
+Delay 88 ms
+KeyUp 41 1
+Delay 959 ms
+KeyDown 41 1
+Delay 103 ms
+KeyUp 41 1
+Delay 1095 ms
+KeyDown 79 1
+Delay 55 ms
+KeyUp 79 1
+Delay 360 ms
+KeyDown 88 1
+Delay 63 ms
+KeyUp 88 1
+Delay 1479 ms
+KeyDown 42 1
+Delay 87 ms
+KeyUp 42 1
+Delay 855 ms
+KeyDown 81 1
+Delay 88 ms
+KeyUp 81 1
+Delay 208 ms
+KeyDown 81 1
+Delay 63 ms
+KeyUp 81 1
+Delay 175 ms
+KeyDown 81 1
+Delay 80 ms
+KeyUp 81 1
+Delay 200 ms
+KeyDown 81 1
+Delay 55 ms
+KeyUp 81 1
+Delay 239 ms
+KeyDown 81 1
+Delay 72 ms
+KeyUp 81 1
+Delay 240 ms
+KeyDown 81 1
+Delay 71 ms
+KeyUp 81 1
+Delay 239 ms
+KeyDown 81 1
+Delay 72 ms
+KeyUp 81 1
+Delay 191 ms
+KeyDown 81 1
+Delay 72 ms
+KeyUp 81 1
+Delay 208 ms
+KeyDown 81 1
+Delay 63 ms
+KeyUp 81 1
+Delay 231 ms
+KeyDown 81 1
+Delay 72 ms
+KeyUp 81 1
+Delay 215 ms
+KeyDown 81 1
+Delay 63 ms
+KeyUp 81 1
+Delay 328 ms
+KeyDown 79 1
+Delay 64 ms
+KeyUp 79 1
+Delay 248 ms
+KeyDown 79 1
+Delay 39 ms
+KeyUp 79 1
+Delay 175 ms
+KeyDown 79 1
+Delay 71 ms
+KeyUp 79 1
+Delay 600 ms
+KeyDown 88 1
+Delay 71 ms
+KeyUp 88 1
+Delay 1271 ms
+KeyDown 79 1
+Delay 64 ms
+KeyUp 79 1
+Delay 360 ms
+KeyDown 88 1
+Delay 87 ms
+KeyUp 88 1
+Delay 632 ms
+KeyDown 81 1
+Delay 79 ms
+KeyUp 81 1
+Delay 160 ms
+KeyDown 81 1
+Delay 71 ms
+KeyUp 81 1
+Delay 119 ms
+KeyDown 81 1
+Delay 80 ms
+KeyUp 81 1
+Delay 224 ms
+KeyDown 81 1
+Delay 63 ms
+KeyUp 81 1
+Delay 488 ms
+KeyDown 88 1
+Delay 87 ms
+KeyUp 88 1
+Delay 688 ms
+KeyDown 88 1
+Delay 71 ms
+KeyUp 88 1
+Delay 3408 ms
+KeyDown 225 1
+Delay 135 ms
+KeyDown 68 1
+GoWhile 1 35</Syntax>
+    </KeyDown>
+    <Software>Forza Horizon 5</Software>
+  </DefaultMacro>
+</Root>

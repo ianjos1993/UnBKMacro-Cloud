@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major>Быстрый разбор мусора из инвентаря (точечный)</Major>
+    <Description>По активацию макроса открывает контекстное меню и разбирает предмет под курсором на мусор.
+Протестировано на 1440p и на 1080p. Если не будет попадать, то подкорректируйте смещения мышки в файле.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 10 ms
+RightUp 1
+Delay 10 ms
+MoveR 30 30
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+MoveR -21 -21</Syntax>
+    </KeyDown>
+    <Software>System Shock 2023</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major>Tap strafe</Major>
+    <Description>Put the macro on spacebar, in game put the 2nd option to "move foraward" to 'i" now when you want to tap strafe just press space bar and it will tap strafe in the direction you point your mouse.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 10 ms
+KeyDown 12 1
+Delay 10 ms
+KeyUp 12 1
+Delay 10 ms
+KeyDown 12 1
+Delay 10 ms
+KeyUp 12 1
+Delay 10 ms
+KeyDown 12 1
+Delay 10 ms
+KeyUp 12 1
+Delay 10 ms
+KeyDown 12 1
+Delay 10 ms
+KeyUp 12 1
+Delay 10 ms
+KeyDown 12 1
+Delay 10 ms
+KeyUp 12 1
+Delay 10 ms
+KeyDown 12 1
+Delay 10 ms
+KeyUp 12 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

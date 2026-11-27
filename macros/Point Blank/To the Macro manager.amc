@@ -1,0 +1,57 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>makros
+
+Макрос на любое оружие, делает за вас смену.
+Макро подходит для слабых ПК.
+Также необходимо купить купон на быструю смен 50%
+Биндите на любую клавишу кроме Q</Description>
+    <Comment>2 msek
+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 34 1
+KeyDown 8 1
+Delay 2 ms
+KeyUp 8 1
+Delay 2 ms
+KeyDown 8 1
+Delay 2 ms
+KeyUp 8 1
+Delay 2 ms
+KeyDown 8 1
+Delay 2 ms
+KeyUp 8 1
+Delay 2 ms
+KeyDown 32 1
+Delay 2 ms
+KeyDown 8 1
+Delay 2 ms
+KeyUp 8 1
+Delay 2 ms
+KeyDown 6 1
+Delay 64 ms
+KeyUp 6 1
+Delay 64 ms
+KeyDown 28 1
+Delay 64 ms
+KeyUp 28 1
+Delay 64 ms
+KeyDown 14 1
+Delay 64 ms
+KeyUp 14 1
+Delay 64 ms
+KeyDown 4 1
+Delay 64 ms
+KeyUp 4 1
+Delay 64 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

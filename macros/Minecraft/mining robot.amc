@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major>Улучшенный режим копания буром в майнкрафте (1.7.10-1.19.2)</Major>
+    <Description>Обновленный макрос для бурения шахт в игре. Подходит для разных версий. Как для 1.7.10, так и для одной из самых последних - 1.19.2.
+Запустить перед походом в шахту и стоять. Цикл сделает все сам. Главное - выбрать правильное место.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+KeyDown 14 1
+Delay 64
+KeyUp 14 1
+Delay 64
+KeyDown 68 1
+Delay 64
+KeyUp 68 1
+Delay 64
+Delay 64
+KeyUp 23 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+GoWhile 1 10000</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

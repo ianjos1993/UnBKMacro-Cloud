@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>В настройках фортнайта ставьте редактирование на G.
+
+
+В BotMek ставьте куда хотите этой кнопкой вы и будете редактировать!
+Вам нужно будет нажимать эту кнопку и направлять мышкой
+убдете редачить как туз</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+Delay 30 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

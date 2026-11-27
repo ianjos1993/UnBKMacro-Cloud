@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>(Screen Resoulution 1920 x 1080)
+
+This macro is most effective if you have a Main and Alt Account on the left and right side of the screen (can be edited)
+  
+The macro can automatically use Replica's ability and makes sure that neither the Main or Alt will get kicked for inactivity.
+
+
+Note: This macro is used in the game "Slap Battles" by the Slap Battles group made by Ten @Tencell (may be different in the future)
+
+Note2: Both the Main and Alt Accounts may drift from their positions (and the replica ability slightly pushes you when used), so make sure to put them in a position where they won't fall off.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+
+</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 50 ms
+KeyUp 8 1
+Delay 50 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 433 421
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1157 486
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

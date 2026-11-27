@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Обычная автотыкалка для ножа керамбит, отлично подойдёт для фарма зомби на опасном эксперементе.
+
+Инструкция:
+Назначаете макрос на любую удобную вам кнопку.
+Ставите значение "повторять до повторного нажатия".
+Запускаетесь на миссию и просто наводите курсор на противников.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 80 ms
+GoWhile 1 50</Syntax>
+    </KeyDown>
+    <Software>Warface</Software>
+  </DefaultMacro>
+</Root>

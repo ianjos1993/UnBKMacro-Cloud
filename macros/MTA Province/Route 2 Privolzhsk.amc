@@ -1,0 +1,149 @@
+<Root>
+  <DefaultMacro>
+    <Major>2 Маршрут Г Приволжск</Major>
+    <Description>Макрос для автоматической работы на трамвае номер 2 города Приволжск.
+Макрос автономно зациклен на 10 кругов без взаимодействия игрока.
+Для работы требуется проехать 1 круг самостоятельно, а в конце круга в меню подтверждения навести курсор на кнопку "ДА" и активировать макрос. Макрос сам нажимает ЛКМ и сам едет весь маршрут, и так 10 раз.
+Только убедитесь, что перед вами никого нет, а то макрос может сбиться и придется заново начинать с момента подтверждения.
+Всем удачного и легкого фарма! &lt;3</Description>
+    <Comment>Макрос для автоматической работы на трамвае номер 2 города Приволжск.
+Макрос автономно зациклен на 10 кругов без взаимодействия игрока.
+Для работы требуется проехать 1 круг самостоятельно, а в конце круга в меню подтверждения навести курсор на кнопку "ДА" и активировать макрос. Макрос сам нажимает ЛКМ и сам едет весь маршрут, и так 10 раз.
+Только убедитесь, что перед вами никого нет, а то макрос может сбиться и придется заново начинать с момента подтверждения.
+Всем удачного и легкого фарма! &lt;3</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 119 ms
+LeftUp 1
+Delay 1200 ms
+KeyDown 26 1
+Delay 39847 ms
+KeyUp 26 1
+Delay 23 ms
+KeyDown 22 1
+Delay 4143 ms
+KeyUp 22 1
+Delay 840 ms
+KeyDown 22 1
+Delay 823 ms
+KeyUp 22 1
+Delay 928 ms
+KeyDown 31 1
+Delay 151 ms
+KeyUp 31 1
+Delay 335 ms
+KeyDown 26 1
+Delay 120 ms
+KeyUp 26 1
+Delay 5208 ms
+KeyDown 31 1
+Delay 119 ms
+KeyUp 31 1
+Delay 304 ms
+KeyDown 26 1
+Delay 31168 ms
+KeyDown 22 1
+Delay 39 ms
+KeyUp 26 1
+Delay 4992 ms
+KeyUp 22 1
+Delay 200 ms
+KeyDown 26 1
+Delay 96 ms
+KeyUp 26 1
+Delay 543 ms
+KeyDown 31 1
+Delay 104 ms
+KeyUp 31 1
+Delay 5495 ms
+KeyDown 31 1
+Delay 143 ms
+KeyUp 31 1
+Delay 336 ms
+KeyDown 26 1
+Delay 38615 ms
+KeyDown 22 1
+Delay 248 ms
+KeyUp 26 1
+Delay 2040 ms
+KeyUp 22 1
+Delay 1271 ms
+KeyDown 22 1
+Delay 2656 ms
+KeyUp 22 1
+Delay 1063 ms
+KeyDown 31 1
+Delay 112 ms
+KeyUp 31 1
+Delay 5552 ms
+KeyDown 31 1
+Delay 127 ms
+KeyUp 31 1
+Delay 1056 ms
+KeyDown 26 1
+Delay 30703 ms
+KeyDown 22 1
+Delay 47 ms
+KeyUp 26 1
+Delay 2296 ms
+KeyUp 22 1
+Delay 176 ms
+KeyDown 22 1
+Delay 143 ms
+KeyUp 22 1
+Delay 296 ms
+KeyDown 22 1
+Delay 2528 ms
+KeyUp 22 1
+Delay 167 ms
+KeyDown 26 1
+Delay 87 ms
+KeyUp 26 1
+Delay 1256 ms
+KeyDown 31 1
+Delay 119 ms
+KeyUp 31 1
+Delay 5648 ms
+KeyDown 31 1
+Delay 143 ms
+KeyUp 31 1
+Delay 911 ms
+KeyDown 26 1
+Delay 32600 ms
+KeyUp 26 1
+Delay 7 ms
+KeyDown 22 1
+Delay 3215 ms
+KeyUp 22 1
+Delay 967 ms
+KeyDown 22 1
+Delay 1720 ms
+KeyUp 22 1
+Delay 608 ms
+KeyDown 26 1
+Delay 80 ms
+KeyUp 26 1
+Delay 639 ms
+KeyDown 31 1
+Delay 167 ms
+KeyUp 31 1
+Delay 5871 ms
+KeyDown 31 1
+Delay 152 ms
+KeyUp 31 1
+Delay 1648 ms
+KeyDown 26 1
+Delay 7471 ms
+KeyUp 26 1
+Delay 5567 ms
+GoWhile 1 10</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

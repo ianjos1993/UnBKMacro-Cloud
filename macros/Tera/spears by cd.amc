@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Повторение умения до 40 раз, зацикленные копья или еще что-либо, что нужно нажимать по откату, кнопку также можно сменить.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+GoWhile 1 40</Syntax>
+    </KeyDown>
+    <Software>Tera</Software>
+  </DefaultMacro>
+</Root>

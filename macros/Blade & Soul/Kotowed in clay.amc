@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>UsagiKawaii</Major>
+    <Description>Макрос для приятной игры котоводом в земле с лег баджем и лег подвеской. В ротации прописано ЛКМ/ПКМ 2 и ф, </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 0
+RightDown 1
+Delay 0
+RightDown 1
+Delay 0
+RightUp 1
+Delay 0
+KeyDown 31 1
+Delay 0
+KeyUp 31 1
+Delay 0
+LeftDown 1
+Delay 0
+LeftUp 1
+Delay 0
+KeyDown 9 1
+Delay 0 ms
+KeyUp 9 1</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

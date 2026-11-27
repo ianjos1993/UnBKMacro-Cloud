@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос для быстрого разворота на 180 градусов, но более похожего на настоящий разворот с мышкой, биндим на любую свобоную кнопку, удобнее всего на мышке, совмещать лучше с макросом на гензи выстрел+рывок, либо если без макроса то просто вывок за противнка ии разкий разворот.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR 850 0
+Delay 15 ms
+MoveR 850 0
+Delay 15 ms
+MoveR 850 0
+Delay 15 ms
+MoveR 850 0
+Delay 15 ms
+MoveR 850 0
+Delay 15 ms
+MoveR 850 0
+Delay 15 ms
+MoveR 850 0
+Delay 15 ms
+MoveR 850 0
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>Overwatch</Software>
+  </DefaultMacro>
+</Root>

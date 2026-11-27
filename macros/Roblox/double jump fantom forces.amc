@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Требуется для так называемой лягкушки в игре farntom forces ( в течении рывка нажимается Пробел для первого прыжка После чего на клавишу Z совершается второй прыжок но в положении лёжа, полезный макрос если игроку требуется запрыгнуть на препядствие на которое в обычных условиях не попасть
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 20 ms
+KeyUp 44 1
+Delay 20 ms
+KeyDown 29 1
+Delay 20 ms
+KeyUp 29 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

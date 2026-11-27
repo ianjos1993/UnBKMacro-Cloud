@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>для фарма на quirk Electric зделайте дамаг чтобы убивал с одного q или x для полного фарма етого мокроса</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 500
+KeyUp 20 1
+Delay 500
+KeyDown 27 1
+Delay 800
+KeyUp 27 1
+Delay 800</Syntax>
+    </KeyDown>
+    <Software>Roblox Boku No Roblox</Software>
+  </DefaultMacro>
+</Root>

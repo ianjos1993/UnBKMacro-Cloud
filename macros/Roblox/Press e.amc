@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major>We jus Press E</Major>
+    <Description>There are countless of games on ROBLOX that require you to spam E for skills, achievments, what ever it is. This macro is just for anyone that is too lazy, or actually has a life and cant waste it pressing E for a hour straight. This macro allows you leave the room while still pressing e, getting that annoying achievement or item. It simply presses E continiously, up untill you deactive it.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 1 s
+KeyUp 8 1
+Delay 1 s</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

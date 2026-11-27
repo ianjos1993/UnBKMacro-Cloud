@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Класс: Destroyer | Дестр | Мастер секиры
+Облегчает жизнь любому дестру 10 \10 спасибо 
+скип анимации замаха пкм  тем самым буст дпс критов </Description>
+    <Comment>делал в первый раз не судите строго </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 13 ms
+LeftUp 1
+Delay 10 ms
+RightDown 1
+Delay 14 ms
+RightUp 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

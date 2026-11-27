@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос созданый для поливомойки в городе мирный, третий трамивай по счету с начала.
+Все что вам нужно - это сесть в тармвай, запустить макрос, и всю остальную работу он сделает за вас, желательно работать когда на сервере малый онлайн, так как как макрос не умеет останавливатсья сам на светофорах. Проезжает полный круг стабильно.
+
+
+п.с если можно проленочку)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>
+//Конвертированный файл макроса 07 октября 2021 01:25:55
+Delay 174 ms
+KeyDown 227 1
+Delay 24 ms
+KeyDown 43 1
+Delay 64 ms
+KeyUp 227 1
+Delay 16 ms
+KeyUp 43 1
+Delay 483199 ms
+KeyDown 226 1
+Delay 79 ms
+KeyDown 43 1
+Delay 43 ms
+KeyUp 226 1
+Delay 75 ms
+KeyUp 43 1
+Delay 839 ms
+LeftDown 1
+Delay 114 ms
+LeftUp 1
+GoWhile 22 7
+</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

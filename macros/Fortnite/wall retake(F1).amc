@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос позволяет отобрать стенку у противника нажатием одной клавиши. Отлично подойдёт для игроков с большим пингом(35-70). Всё что нужно - это оставить стену на один удар, а затем нажить на забинженую вами кнопку. Хорошей игры)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 45 ms
+LeftUp 1
+Delay 45 ms
+KeyDown 58 1
+Delay 4 ms
+KeyUp 58 1
+Delay 4 ms
+LeftDown 1
+Delay 4 ms
+LeftUp 1
+Delay 4 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

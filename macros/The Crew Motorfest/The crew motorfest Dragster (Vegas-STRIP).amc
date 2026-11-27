@@ -1,0 +1,163 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос позволяет автоматизировать прохождение гонки для драгстеров в настраиваемом режиме.
+В лейлисте American MUSCLE  всего одна гонка для драгстеров (Вегас Стрип);
+Таким образом можно фармить как деньги с модификациями на БОГАТСТВО, или ОПЫТ с аналогичным набором модификаций.
+Макрос актуален на момент 01.03.2025
+!!!ИНСТРУКЦИЯ!!!
+Запустив гонку ждем загрузки, после начала обратного отсчета перед прогревом колес ждем когда останется ориентировочно 3,2 секунды для разогрева и активируем макрос.
+Машина - CHEVROLET CORVETTE C7 STINGRAY
+!!!ВАЖНО!!!
+Так как в игре не много гонок для драгстеров фарм деталей сложная задача и конкретно этот макрос был записан для корвета на уровне около стокового 659/810</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+В дальнейшем будет сделан макрос для этой же трассы и автомобиля но на топовом уровне 810/810</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 3332 ms
+KeyUp 26 1
+Delay 4097 ms
+KeyDown 26 1
+Delay 1694 ms
+KeyDown 8 1
+Delay 103 ms
+KeyUp 8 1
+Delay 783 ms
+KeyDown 8 1
+Delay 84 ms
+KeyUp 8 1
+Delay 308 ms
+KeyDown 225 1
+Delay 86 ms
+KeyUp 225 1
+Delay 392 ms
+KeyDown 8 1
+Delay 95 ms
+KeyUp 8 1
+Delay 1090 ms
+KeyDown 8 1
+Delay 98 ms
+KeyUp 8 1
+Delay 5467 ms
+KeyUp 26 1
+Delay 5078 ms
+KeyDown 41 1
+Delay 881 ms
+KeyUp 41 1
+Delay 8974 ms
+KeyDown 26 1
+Delay 3917 ms
+KeyUp 26 1
+Delay 3276 ms
+KeyDown 26 1
+Delay 1682 ms
+KeyDown 8 1
+Delay 90 ms
+KeyUp 8 1
+Delay 698 ms
+KeyDown 8 1
+Delay 92 ms
+KeyUp 8 1
+Delay 1255 ms
+KeyDown 8 1
+Delay 113 ms
+KeyUp 8 1
+Delay 25 ms
+KeyDown 225 1
+Delay 78 ms
+KeyUp 225 1
+Delay 945 ms
+KeyDown 8 1
+Delay 111 ms
+KeyUp 8 1
+Delay 4947 ms
+KeyUp 26 1
+Delay 4889 ms
+KeyDown 41 1
+Delay 852 ms
+KeyUp 41 1
+Delay 8786 ms
+KeyDown 26 1
+Delay 3467 ms
+KeyUp 26 1
+Delay 3903 ms
+KeyDown 26 1
+Delay 1183 ms
+KeyDown 8 1
+Delay 99 ms
+KeyUp 8 1
+Delay 410 ms
+KeyDown 8 1
+Delay 111 ms
+KeyUp 8 1
+Delay 1051 ms
+KeyDown 8 1
+Delay 99 ms
+KeyUp 8 1
+Delay 2148 ms
+KeyDown 225 1
+Delay 123 ms
+KeyUp 225 1
+Delay 320 ms
+KeyDown 8 1
+Delay 102 ms
+KeyUp 8 1
+Delay 6024 ms
+KeyUp 26 1
+Delay 5581 ms
+KeyDown 41 1
+Delay 916 ms
+KeyUp 41 1
+Delay 3697 ms
+KeyDown 17 1
+Delay 120 ms
+KeyUp 17 1
+Delay 20087 ms
+Goto 1
+KeyDown 26 1
+Delay 3059 ms
+KeyUp 26 1
+Delay 301 ms
+KeyDown 26 1
+Delay 556 ms
+KeyUp 26 1
+Delay 83 ms
+KeyDown 26 1
+Delay 77 ms
+KeyUp 26 1
+Delay 3392 ms
+KeyDown 26 1
+Delay 1700 ms
+KeyDown 8 1
+Delay 113 ms
+KeyUp 8 1
+Delay 711 ms
+KeyDown 8 1
+Delay 117 ms
+KeyUp 8 1
+Delay 1283 ms
+KeyDown 8 1
+Delay 80 ms
+KeyDown 225 1
+Delay 27 ms
+KeyUp 8 1
+Delay 111 ms
+KeyUp 225 1
+Delay 959 ms
+KeyDown 8 1
+Delay 103 ms
+KeyUp 8 1
+Delay 4696 ms
+KeyUp 26 1
+Delay 6196 ms
+Delay 860 ms</Syntax>
+    </KeyDown>
+    <Software>The Crew Motorfest</Software>
+  </DefaultMacro>
+</Root>

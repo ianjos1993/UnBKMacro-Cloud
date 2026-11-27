@@ -1,0 +1,117 @@
+<Root>
+  <DefaultMacro>
+    <Major>Shaheen combo 2</Major>
+    <Description>Макрос позволяет выполнять комбо за Shaheen с лаунчера.
+Видео демонстрации работы макроса: https://youtu.be/RMWBuHlvHRo
+
+Шахин работает в частной военной фирме и расследует загадочную смерть своего лучшего друга. Используя свои навыки «мирных» переговоров, он узнает от руководителя ближневосточного отделения G Corp , что вдохновителем является никто иной, как Кадзуя Мисима . Колесо судьбы, должно быть, повернулось в тот день 13 лет назад, когда в тот же день Шахин потерял свою семью и спас Салима , мальчика примерно того же возраста, что и он, от убийцы. Это был первый раз, когда он использовал методы, которые вложил в него отец, предназначенные для того, чтобы побеждать врагов, а не спасать чужую жизнь.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+X - HEAT
+
+Тестирование макроса проводились на последнем патче игры на 23.04.2024
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи и помощи по макросам - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#shaheentekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 7 ms
+KeyDown 7 1
+Delay 7 ms
+KeyDown 77 1
+Delay 96 ms
+KeyUp 77 1
+Delay 87 ms
+KeyUp 7 1
+Delay 8 ms
+KeyUp 26 1
+Delay 519 ms
+KeyDown 22 1
+Delay 7 ms
+KeyDown 4 1
+Delay 48 ms
+KeyDown 76 1
+Delay 88 ms
+KeyDown 77 1
+Delay 63 ms
+KeyUp 76 1
+Delay 23 ms
+KeyUp 22 1
+Delay 47 ms
+KeyUp 77 1
+Delay 7 ms
+KeyUp 4 1
+Delay 56 ms
+KeyDown 77 1
+Delay 111 ms
+KeyUp 77 1
+Delay 344 ms
+KeyDown 76 1
+Delay 232 ms
+KeyDown 7 1
+Delay 79 ms
+KeyUp 7 1
+Delay 95 ms
+KeyDown 7 1
+Delay 56 ms
+KeyUp 7 1
+Delay 72 ms
+KeyDown 7 1
+Delay 127 ms
+KeyUp 7 1
+Delay 32 ms
+KeyDown 74 1
+Delay 120 ms
+KeyUp 74 1
+Delay 103 ms
+KeyUp 76 1
+Delay 1440 ms
+KeyDown 76 1
+Delay 15 ms
+KeyDown 74 1
+Delay 135 ms
+KeyUp 76 1
+Delay 7 ms
+KeyUp 74 1
+Delay 3783 ms
+KeyDown 7 1
+Delay 55 ms
+KeyUp 7 1
+Delay 56 ms
+KeyDown 7 1
+Delay 71 ms
+KeyUp 7 1
+Delay 15 ms
+KeyDown 7 1
+Delay 56 ms
+KeyDown 76 1
+Delay 216 ms
+KeyUp 76 1
+Delay 63 ms
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>выставляет все шмотки в вашем  инвентаре на продажу 1 копейкой ниже магазин должен быть открыт и не сдвинут не вверх, не вниз , разрешение экрана 1680х1050</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1247 382
+Delay 50 ms
+LeftDown 1
+LeftUp 1
+Delay 288 ms
+MoveTo 368 633
+Delay 74 ms
+LeftDown 1
+LeftUp 1
+Delay 293 ms
+MoveTo 741 753
+Delay 267 ms
+LeftDown 1
+LeftUp 1
+Delay 267 ms</Syntax>
+    </KeyDown>
+    <Software>Albion online</Software>
+  </DefaultMacro>
+</Root>

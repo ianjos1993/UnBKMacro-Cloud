@@ -1,0 +1,49 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>1 slot bloodstone
+and need aghanim scepter
+and G-bind "Select all your units" R-bind ultimate
+this macro allows you to spam with an ability that usually triggers after 6 ultimate hits
+(1920 x 1080)</Description>
+    <Comment>1 slot bloodstone
+and need aghanim scepter
+and G-bind "Select all your units"
+this macro allows you to spam with an ability that usually triggers after 6 ultimate hits
+(1920 x 1080)</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 1 ms
+KeyUp 21 1
+Delay 1 ms
+GoWhile 25 200
+KeyDown 10 1
+Delay 1 ms
+KeyUp 10 1
+Delay 1 ms
+KeyDown 10 1
+Delay 1 ms
+KeyUp 10 1
+Delay 1 ms
+MoveTo 1152 964
+Delay 30 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 963 534
+Delay 30 ms
+LeftUp 1
+Delay 1 ms
+RightDown 1
+Delay 1 ms
+RightUp 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>dota2 marci bug</Software>
+  </DefaultMacro>
+</Root>

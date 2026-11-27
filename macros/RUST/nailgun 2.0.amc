@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>fast nailgun</Major>
+    <Description>this macro work on nailgun with high sensibility like 1.2+
+1920x1080
+fov 90
+dpi 1200-1400
+ enjoy and support</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 40 ms
+MoveR 0 27
+Delay 40 ms
+MoveR 0 28
+Delay 40 ms
+MoveR 0 27
+Delay 40 ms
+MoveR 0 28
+Delay 40 ms
+LeftUp 1
+Delay 40 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

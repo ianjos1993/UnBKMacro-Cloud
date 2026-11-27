@@ -1,0 +1,454 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>С обновлением на Радмире КРМП, если стоять просто так, то время до PayDay обнуляется.
+Мой макрос позволяет прокачиваться. Каким образом это происходит? Все просто, он раз в 10 минут двигает персонажа, тем самым время не обнуляется.
+
+Как запустить.
+1) Заходите в игру.
+2) Встаете в любом месте(желательно не людном).
+3) Запускаете макрос.
+4) Все.
+
+Можете идти по своим делам, макрос работает на протяжение 12 часов.
+
+
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 1000
+KeyUp 26 1
+Delay 1000
+KeyDown 4 1
+Delay 1000
+KeyUp 4 1
+Delay 1000
+KeyDown 22 1
+Delay 1000
+KeyUp 22 1
+Delay 1000
+KeyDown 7 1
+Delay 1000
+KeyUp 7 1
+Delay 600000 ms
+KeyDown 26 1
+Delay 1000
+KeyUp 26 1
+Delay 1000
+KeyDown 4 1
+Delay 1000
+KeyUp 4 1
+Delay 1000
+KeyDown 22 1
+Delay 1000
+KeyUp 22 1
+Delay 1000
+KeyDown 7 1
+Delay 1000
+KeyUp 7 1
+Delay 1000
+Delay 600000 ms
+KeyDown 26 1
+Delay 1000
+KeyUp 26 1
+Delay 1000
+KeyDown 4 1
+Delay 1000
+KeyUp 4 1
+Delay 1000
+KeyDown 22 1
+Delay 1000
+KeyUp 22 1
+Delay 1000
+KeyDown 7 1
+Delay 1000
+KeyUp 7 1
+Delay 1000
+Delay 600000 ms
+KeyDown 26 1
+Delay 1000
+KeyUp 26 1
+Delay 1000
+KeyDown 4 1
+Delay 1000
+KeyUp 4 1
+Delay 1000
+KeyDown 22 1
+Delay 1000
+KeyUp 22 1
+Delay 1000
+KeyDown 7 1
+Delay 1000
+KeyUp 7 1
+Delay 1000
+Delay 600000 ms
+KeyDown 26 1
+Delay 1000
+KeyUp 26 1
+Delay 1000
+KeyDown 4 1
+Delay 1000
+KeyUp 4 1
+Delay 1000
+KeyDown 7 1
+Delay 1000
+KeyUp 7 1
+Delay 1000
+Delay 600000 ms
+KeyDown 26 1
+Delay 1000
+KeyUp 26 1
+Delay 1000
+KeyDown 4 1
+Delay 1000
+KeyUp 4 1
+Delay 1000
+KeyDown 7 1
+Delay 1000
+KeyUp 7 1
+Delay 1000
+Delay 600000 ms
+KeyDown 26 1
+Delay 1000
+KeyUp 26 1
+Delay 1000
+KeyDown 4 1
+Delay 1000
+KeyUp 4 1
+Delay 1000
+KeyDown 22 1
+Delay 1000
+KeyUp 22 1
+Delay 1000
+KeyDown 7 1
+Delay 1000
+KeyUp 7 1
+Delay 1000
+Delay 600000 ms
+KeyDown 26 1
+Delay 1000
+KeyUp 26 1
+Delay 1000
+KeyDown 4 1
+Delay 1000
+KeyUp 4 1
+Delay 1000
+KeyDown 22 1
+Delay 1000
+KeyUp 22 1
+Delay 1000
+KeyDown 7 1
+Delay 1000
+KeyUp 7 1
+Delay 1000
+Delay 600000 ms
+KeyDown 26 1
+Delay 1000
+KeyUp 26 1
+Delay 1000
+KeyDown 4 1
+Delay 1000
+KeyUp 4 1
+Delay 1000
+KeyDown 22 1
+Delay 1000
+KeyUp 22 1
+Delay 1000
+KeyDown 7 1
+Delay 1000
+KeyUp 7 1
+Delay 1000
+Delay 600000 ms
+KeyDown 26 1
+Delay 1000
+KeyUp 26 1
+Delay 1000
+KeyDown 22 1
+Delay 1000
+KeyUp 22 1
+Delay 1000
+Delay 600000 ms
+KeyDown 26 1
+Delay 1000
+KeyUp 26 1
+Delay 1000
+KeyDown 22 1
+Delay 1000
+KeyUp 22 1
+Delay 1000
+Delay 600000 ms
+KeyDown 26 1
+Delay 1000
+KeyUp 26 1
+Delay 1000
+KeyDown 4 1
+Delay 1000
+KeyUp 4 1
+Delay 1000
+Delay 600000 ms
+KeyDown 26 1
+Delay 1000
+KeyUp 26 1
+Delay 1000
+KeyDown 4 1
+Delay 1000
+KeyUp 4 1
+Delay 1000
+Delay 600000 ms
+KeyDown 22 1
+Delay 1000
+KeyUp 22 1
+Delay 1000
+KeyDown 26 1
+Delay 1000
+KeyUp 26 1
+Delay 1000
+Delay 600000 ms
+KeyDown 26 1
+Delay 1000
+KeyUp 26 1
+Delay 1000
+KeyDown 22 1
+Delay 1000
+KeyUp 22 1
+Delay 1000
+Delay 600000 ms
+KeyDown 7 1
+Delay 1000
+KeyUp 7 1
+Delay 1000
+KeyDown 4 1
+Delay 1000
+KeyUp 4 1
+Delay 1000
+Delay 600000 ms
+KeyDown 7 1
+Delay 1000
+KeyUp 7 1
+Delay 1000
+KeyDown 22 1
+Delay 1000
+KeyUp 22 1
+Delay 1000
+KeyDown 4 1
+Delay 1000
+KeyUp 4 1
+Delay 1000
+KeyDown 26 1
+Delay 1000
+KeyUp 26 1
+Delay 1000
+Delay 600000 ms
+KeyDown 26 1
+Delay 1000
+KeyUp 26 1
+Delay 1000
+KeyDown 4 1
+Delay 1000
+KeyUp 4 1
+Delay 1000
+KeyDown 22 1
+Delay 1000
+KeyUp 22 1
+Delay 1000
+KeyDown 7 1
+Delay 1000
+KeyUp 7 1
+Delay 1000
+Delay 600000 ms
+KeyDown 26 1
+Delay 1000
+KeyUp 26 1
+Delay 1000
+KeyDown 22 1
+Delay 1000
+KeyUp 22 1
+Delay 1000
+KeyDown 7 1
+Delay 1000
+KeyUp 7 1
+Delay 1000
+Delay 600000 ms
+KeyDown 7 1
+Delay 1000
+KeyUp 7 1
+Delay 1000
+KeyDown 22 1
+Delay 1000
+KeyUp 22 1
+Delay 1000
+KeyDown 26 1
+Delay 1000
+KeyUp 26 1
+Delay 1000
+Delay 600000 ms
+KeyDown 26 1
+Delay 1000
+KeyUp 26 1
+Delay 1000
+KeyDown 4 1
+Delay 1000
+KeyUp 4 1
+Delay 1000
+KeyDown 22 1
+Delay 1000
+KeyUp 22 1
+Delay 1000
+KeyDown 7 1
+Delay 1000
+KeyUp 7 1
+Delay 1000
+Delay 600000 ms
+KeyDown 22 1
+Delay 1000
+KeyUp 22 1
+Delay 1000
+KeyDown 7 1
+Delay 1000
+KeyUp 7 1
+Delay 1000
+KeyDown 22 1
+Delay 1000
+KeyUp 22 1
+Delay 1000
+KeyDown 26 1
+Delay 1000
+KeyUp 26 1
+Delay 1000
+Delay 600000 ms
+KeyDown 26 1
+Delay 1000
+KeyUp 26 1
+Delay 1000
+KeyDown 22 1
+Delay 1000
+KeyUp 22 1
+Delay 1000
+KeyDown 4 1
+Delay 1000
+KeyUp 4 1
+Delay 1000
+KeyDown 7 1
+Delay 1000
+KeyUp 7 1
+Delay 1000
+Delay 600000 ms
+KeyDown 26 1
+Delay 1000
+KeyUp 26 1
+Delay 1000
+KeyDown 7 1
+Delay 1000
+KeyUp 7 1
+Delay 1000
+KeyDown 22 1
+Delay 1000
+KeyUp 22 1
+Delay 1000
+KeyDown 4 1
+Delay 1000
+KeyUp 4 1
+Delay 1000
+Delay 600000 ms
+KeyDown 26 1
+Delay 1000
+KeyUp 26 1
+Delay 1000
+KeyDown 22 1
+Delay 1000
+KeyUp 22 1
+Delay 1000
+KeyDown 4 1
+Delay 1000
+KeyUp 4 1
+Delay 1000
+Delay 600000 ms
+KeyDown 26 1
+Delay 1000
+KeyUp 26 1
+Delay 1000
+KeyDown 22 1
+Delay 1000
+KeyUp 22 1
+Delay 1000
+KeyDown 7 1
+Delay 1000
+KeyUp 7 1
+Delay 1000
+Delay 600000 ms
+KeyDown 26 1
+Delay 1000
+KeyUp 26 1
+Delay 1000
+KeyDown 26 1
+Delay 1000
+KeyUp 26 1
+Delay 1000
+Delay 600000 ms
+KeyDown 26 1
+Delay 1000
+KeyUp 26 1
+Delay 1000
+KeyDown 4 1
+Delay 1000
+KeyUp 4 1
+Delay 1000
+KeyDown 22 1
+Delay 1000
+KeyUp 22 1
+Delay 1000
+Delay 600000 ms
+KeyDown 7 1
+Delay 1000
+KeyUp 7 1
+Delay 1000
+KeyDown 7 1
+Delay 1000
+KeyUp 7 1
+Delay 1000
+Delay 600000 ms
+KeyDown 22 1
+Delay 1000
+KeyUp 22 1
+Delay 1000
+KeyDown 26 1
+Delay 1000
+KeyUp 26 1
+Delay 1000
+KeyDown 4 1
+Delay 1000
+KeyUp 4 1
+Delay 1000
+KeyDown 7 1
+Delay 1000
+KeyUp 7 1
+Delay 1000
+Delay 600000 ms
+KeyDown 22 1
+Delay 1000
+KeyUp 22 1
+Delay 1000
+KeyDown 26 1
+Delay 1000
+KeyUp 26 1
+Delay 1000
+KeyDown 8 1
+Delay 1000
+KeyUp 8 1
+Delay 1000
+KeyDown 4 1
+Delay 1000
+KeyUp 4 1
+Delay 1000
+Delay 600000 ms</Syntax>
+    </KeyDown>
+    <Software>GTA:RADMIR RP</Software>
+  </DefaultMacro>
+</Root>

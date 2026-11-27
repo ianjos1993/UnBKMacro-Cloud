@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>если у вас z-стенка с-сестница то етот макрос для тебе он позваляет забрать стенку и моментально поставить лестицу в бокс но еслив всередини бокса нет конуса или лестници разрешения екрана 1680Х1050 16:10</Description>
+    <Comment>разрешения екрана 1680Х1050 16:10</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 21 ms
+LeftDown 1
+Delay 15 ms
+MoveTo 481 474
+Delay 291 ms
+KeyDown 6 1
+Delay 87 ms
+KeyDown 29 1
+Delay 8 ms
+KeyUp 6 1
+Delay 111 ms
+KeyUp 29 1
+Delay 428 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

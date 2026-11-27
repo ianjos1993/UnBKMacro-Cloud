@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major>Фарм аурами мечника</Major>
+    <Description>Включите святую ауру и поставьте на 1 ауру ненависти. (Важно иметь достаточное количество выживаемости для длительного фарма). Позволяет всегда оставаться в одной и той же области для фарма</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 2 s
+KeyUp 4 1
+Delay 64
+KeyDown 7 1
+Delay 4 s
+KeyUp 7 1
+Delay 64
+KeyDown 4 1
+Delay 2 s
+KeyUp 4 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64 ms
+Delay 10 s
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Rappelz</Software>
+  </DefaultMacro>
+</Root>

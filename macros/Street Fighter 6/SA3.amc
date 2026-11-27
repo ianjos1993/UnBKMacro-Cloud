@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major>sa3</Major>
+    <Description>macro for sa3.
+motion is qcf qcf into punch.
+replace 7 with ur super button if required
+can be changed to kick if needed by other characters</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 43 ms
+KeyDown 7 1
+Delay 43 ms
+KeyUp 22 1
+Delay 43 ms
+KeyUp 7 1
+Delay 43 ms
+KeyDown 22 1
+Delay 38 ms
+KeyDown 7 1
+Delay 32 ms
+KeyUp 22 1
+Delay 43 ms
+KeyUp 7 1
+Delay 20 ms
+KeyDown 95 1
+Delay 43 ms
+KeyUp 95 1</Syntax>
+    </KeyDown>
+    <Software>Street Fighter 6</Software>
+  </DefaultMacro>
+</Root>

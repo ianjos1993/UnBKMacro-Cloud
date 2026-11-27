@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на спам 16мс=8кликов.
+Спам под разные задачи если есть проблема можно переделать. Клик каждые  2мс.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 2 ms
+LeftUp 1
+Delay 2 ms
+LeftDown 1
+Delay 2 ms
+LeftUp 1
+Delay 2 ms
+LeftDown 1
+Delay 2 ms
+LeftUp 1
+Delay 2 ms
+LeftDown 1
+Delay 2 ms
+LeftUp 1
+Delay 2 ms</Syntax>
+    </KeyDown>
+    <Software>spam</Software>
+  </DefaultMacro>
+</Root>

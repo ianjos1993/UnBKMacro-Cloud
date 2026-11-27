@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос создан для режима "Duels" версия 1.8.9. Данный макрос позволяет кидать под себя пот ( предмет который вас вылечивает". Использовать - зажать. ВНИМАНИЕ поты должны быть на слотах : 1,2,3,4. иначе макрос работать не будет.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+KeyDown 31 1
+KeyUp 31 1
+Delay 10 ms
+KeyDown 33 1
+Delay 10
+KeyUp 33 1
+Delay 10
+KeyDown 34 1
+Delay 10
+KeyUp 34 1
+Delay 10
+KeyDown 32 1
+KeyUp 32 1
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

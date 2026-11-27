@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major>macro sar high sens</Major>
+    <Description>this is the best macro for sar wih sens 1.2, you will be immortal in pvp
+1920 x 1080
+fov 90
+dpi 1450
+sens 1.2
+
+enjoy the best macro on the site keyran!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 50 ms
+MoveR 0 -41
+Delay 50 ms
+MoveR 0 -38
+Delay 50 ms
+MoveR 0 -42
+Delay 50 ms
+MoveR 0 -41
+Delay 50 ms
+MoveR 0 -40
+Delay 50 ms
+MoveR 0 -39
+Delay 50 ms
+MoveR 0 -40
+Delay 50 ms
+LeftUp 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

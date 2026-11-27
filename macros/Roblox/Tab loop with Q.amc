@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>Archived Tab with perfectly timed dash</Major>
+    <Description>Quit the fullscreen mode, download and set fflag for long dashes using tab. Then just hold the button you want and this macros will dash for you. Works only for 2K monitors.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+KeyUp 20 1
+Delay 100 ms
+KeyDown 229 1
+KeyUp 229 1
+Delay 100 ms
+MoveTo 2441 12
+LeftDown 1
+Delay 100 ms
+MoveTo 1303 711
+Delay 1600 ms
+LeftUp 1
+Delay 100 ms
+KeyDown 229 1
+KeyUp 229 1
+Delay 100 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

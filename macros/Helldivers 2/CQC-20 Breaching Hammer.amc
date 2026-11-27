@@ -1,0 +1,55 @@
+<Root>
+  <DefaultMacro>
+    <Major>Call for CQC-20 Breaching Hammer</Major>
+    <Description>The CQC-20 Breaching Hammer is a Melee Support Weapon, which is capable of dealing explosive damage by striking enemies.
+
+Instructions:
+To make the macro work correctly, set the stratagem button to the «click» type. In the game settings, select the arrows for the stratagems.
+
+An example of setting macros for keys with a modifier, in my case it is Ctrl+:
+- «F1» - activate the support weapon
+- «F2» - open the backpack 
+- «F3» is the first stratagem
+- «F4» is the second stratagem.
+
+Using the modifier key lets you bring up the stratagem menu while still switching weapons freely with the buttons.
+
+
+The tactical advantage of using the arrow keys is that you can keep moving while entering a stratagem sequence.
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 80 1
+Delay 64
+KeyUp 80 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 80 1
+Delay 64
+KeyUp 80 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+Delay 64
+KeyUp 224 1</Syntax>
+    </KeyDown>
+    <Software>Helldivers 2</Software>
+  </DefaultMacro>
+</Root>

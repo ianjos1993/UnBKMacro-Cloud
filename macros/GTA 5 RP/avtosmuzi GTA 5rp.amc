@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>МАКРОС СОЗДАН ДЛЯ RAGE MP автоготовка овощного смузи в гта 5рп
+После установки файла, создайте бинд на удобную вам клавишу или кнопку мыши.
+Когда зашли в игру важно выбрать экрана разрешение экрана 1440x1080 формат: 4:3
+После того как вы откроете плиту в вашем доме или блендер (ВАЖНО: если у вас блендер вы должны стоять у воды, для того, что делать смузи нужна вода) нажимаете на заданную вами кнопку для того что бы начать макрос и он начинает работать, для того что бы его остановить повторно нажмите на кнопку бинда.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 841 277
+Delay 75 ms
+RightDown 1
+Delay 75 ms
+RightUp 1
+Delay 75 ms
+MoveTo 925 280
+Delay 75 ms
+RightDown 1
+Delay 75 ms
+RightUp 1
+Delay 75 ms
+MoveTo 632 567
+Delay 75 ms
+RightDown 1
+Delay 75 ms
+RightUp 1
+Delay 75 ms
+MoveTo 575 676
+Delay 75 ms
+LeftDown 1
+Delay 75 ms
+LeftUp 1
+Delay 5150 ms</Syntax>
+    </KeyDown>
+    <Software>GTA 5</Software>
+  </DefaultMacro>
+</Root>

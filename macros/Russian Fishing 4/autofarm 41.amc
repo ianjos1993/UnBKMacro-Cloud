@@ -1,0 +1,82 @@
+<Root>
+  <DefaultMacro>
+    <Major>автофарм норвежки  41 банки</Major>
+    <Description>Исправлена ошибка с вытаскиванием рыбы
+Скрипт настроен на разрешение экрана 1366 X 768. Если нужна будет помощь по настройке для вашего экрана пишите.
+Просто пливете на 41 банку и запускаєте скрипт</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 90 100 ms
+LeftUp 1
+Delay 21900 22000 ms
+LeftDown 1
+Delay 99 100 ms
+LeftUp 1
+Delay 99 100 ms
+RightDown 1
+KeyDown 225 1
+Delay 64 68 ms
+Delay 240 250 ms
+GoColor 19 2 160,160,160 255,255,255 1 386 712 999 369 1 0
+RightUp 1
+KeyDown 225 1
+Delay 64 67 ms
+Delay 3050 3300 ms
+Goto 9
+Delay 100 110 ms
+LeftDown 1
+Delay 64 68 ms
+RightDown 1
+Delay 100 107 ms
+KeyDown 225 1
+Delay 400 600 ms
+GoColor 31 1 64,64,64 255,255,255 2 650 560 74 10 1 0
+Delay 100 105 ms
+GoColor 55 3 160,160,160 255,255,255 1 394 712 996 369 1 0
+Delay 100 108 ms
+Goto 25
+Delay 100 110 ms
+LeftUp 1
+Delay 100 110 ms
+KeyUp 225 1
+Delay 100 110 ms
+RightUp 1
+Delay 250 255 ms
+GoColor 49 1 74,170,247 255,255,255 2 255 71 397 1 1 0
+Delay 100 110 ms
+GoColor 49 1 228,198,49 255,255,255 2 255 71 397 1 1 0
+Delay 100 108 ms
+GoColor 49 1 183,199,56 255,255,255 2 255 71 397 1 1 0
+Delay 100 107 ms
+KeyDown 42 1
+Delay 100 110 ms
+KeyUp 42 1
+Delay 100 110 ms
+Goto 53
+Delay 300 310 ms
+KeyDown 44 1
+Delay 100 110 ms
+KeyUp 44 1
+Delay 100 108 ms
+Goto 64
+Delay 100 107 ms
+LeftUp 1
+Delay 64 67 ms
+KeyUp 225 1
+Delay 100 107 ms
+RightUp 1
+Delay 100 108 ms
+GoColor 37 1 64,64,64 255,255,255 2 650 559 74 11 1 0
+Goto 9
+Delay 100 109 ms</Syntax>
+    </KeyDown>
+    <Software>Русская Рыбалка 4</Software>
+  </DefaultMacro>
+</Root>

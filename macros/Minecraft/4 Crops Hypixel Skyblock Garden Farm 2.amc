@@ -1,0 +1,99 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>
+Что вам понадобится для его использования: стабильный интернет(если хоть 1 раз подвиснет он сломается полностью)
+
+1. Поставьте сет хом в 85 блоков от края по другому сказать это на линии перехода 
+2. Камеру выровняйте ровно 90 Yaw 
+3.С помощью Rancher boots скорость поставьте 290 у меня такая и макрос построен на такой скорости
+4. Запускайте макрос только следите что бы он не сломался или что нибудь ещё 
+
+Что вам придется делать: Продавать собранный урожай, периодически смотреть на компьютер не сломалось ли чего нибудь и главное убирать вредителей они убирают фарминг фортуну если их много это сказывается на вашем урожае - деньгах.
+Макрос работает на 9/10
+2 версия</Description>
+    <Comment>более оптимизированный и сможет повысить прибыль в отличий от прошлого примерно на 5-10%</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 299 ms
+LeftDown 1
+Delay 233 ms
+KeyDown 7 1
+Delay 22700 ms
+KeyUp 7 1
+KeyDown 26 1
+Delay 1734 ms
+KeyDown 4 1
+Delay 242 ms
+KeyUp 26 1
+Delay 22496 ms
+KeyUp 4 1
+Delay 69 ms
+KeyDown 26 1
+Delay 2142 ms
+KeyUp 26 1
+GoWhile 1 40
+KeyDown 56 1
+Delay 64
+KeyUp 56 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+KeyDown 19 1
+Delay 64
+KeyUp 19 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 10 1
+Delay 64
+KeyUp 10 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 17 1
+Delay 64
+KeyUp 17 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+GoWhile 1 3
+//этот цикл отвечает сколько раз вы соберете ферму</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

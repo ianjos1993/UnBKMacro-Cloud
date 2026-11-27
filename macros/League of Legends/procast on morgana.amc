@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Прокаст на моргану, курсор должен быть наведён на врага, а вы недалеко от врага ( в зоне досягаемости ультимейта)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 750 ms
+KeyDown 20 1
+Delay 81 ms
+KeyUp 20 1
+Delay 463 ms
+KeyDown 26 1
+Delay 96 ms
+KeyUp 26 1
+Delay 1087 ms
+KeyDown 21 1
+Delay 135 ms
+KeyUp 21 1</Syntax>
+    </KeyDown>
+    <Software>League of legends</Software>
+  </DefaultMacro>
+</Root>

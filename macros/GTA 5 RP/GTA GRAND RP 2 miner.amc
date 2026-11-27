@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Бот на шахтера забиндите кнопку станьте на шахте бот будет капать сам, вам только проходить капчу в виде легких примеров раз в 5 минут</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 10 s
+KeyUp 8 1
+Delay 6 s
+KeyDown 8 1
+Delay 10 s
+KeyUp 8 1
+Delay 6 s
+KeyDown 8 1
+Delay 10 s
+KeyUp 8 1
+Delay 6 s
+KeyDown 8 1
+Delay 10 s
+KeyUp 8 1
+Delay 6 s</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,55 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Set macro on operating mode to (Run while hold the key)
+
+Key mapping ;
+W = UP
+A = BACK
+S = DUCK
+D = FORWARD
+
+NUM4 = 1
+NUM8 = 2
+NUM6 = 3
+NUM5 = 4</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 17 ms
+KeyDown 4 1
+Delay 17 ms
+KeyUp 22 1
+Delay 17 ms
+KeyUp 4 1
+Delay 17 ms
+KeyDown 26 1
+Delay 17 ms
+KeyDown 7 1
+Delay 85 ms
+KeyDown 94 1
+Delay 17 ms
+KeyUp 94 1
+Delay 17 ms
+KeyUp 7 1
+Delay 17 ms
+KeyUp 26 1
+Delay 400 ms
+KeyDown 7 1
+Delay 17 ms
+KeyUp 7 1
+Delay 17 ms
+KeyDown 7 1
+Delay 17 ms
+KeyUp 7 1
+Delay 100 ms</Syntax>
+    </KeyDown>
+    <Software>Tekken 7</Software>
+  </DefaultMacro>
+</Root>

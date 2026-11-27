@@ -1,0 +1,85 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос на ферму по майнкрафту. Размер: 168 блоков в ширину, 32 этажа, всего 3 фермы, на кнопки 2, 3, 4 ставить мотыги на хотбаре какие надо</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+LeftDown 1
+KeyDown 26 1
+Delay 63 ms
+KeyDown 7 1
+Delay 32114 ms
+KeyUp 7 1
+Delay 31 ms
+KeyUp 26 1
+Delay 383 ms
+KeyDown 26 1
+Delay 31 ms
+KeyDown 4 1
+Delay 32919 ms
+KeyUp 4 1
+Delay 31 ms
+KeyUp 26 1
+Delay 45 ms
+GoWhile 5 16
+LeftUp 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+LeftDown 1
+KeyDown 26 1
+Delay 63 ms
+KeyDown 7 1
+Delay 32114 ms
+KeyUp 7 1
+Delay 31 ms
+KeyUp 26 1
+Delay 383 ms
+KeyDown 26 1
+Delay 31 ms
+KeyDown 4 1
+Delay 32919 ms
+KeyUp 4 1
+Delay 31 ms
+KeyUp 26 1
+Delay 45 ms
+GoWhile 29 16
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+LeftDown 1
+KeyDown 26 1
+Delay 63 ms
+KeyDown 7 1
+Delay 32114 ms
+KeyUp 7 1
+Delay 31 ms
+KeyUp 26 1
+Delay 383 ms
+KeyDown 26 1
+Delay 31 ms
+KeyDown 4 1
+Delay 32919 ms
+KeyUp 4 1
+Delay 31 ms
+KeyUp 26 1
+Delay 45 ms
+GoWhile 51 16
+GoWhile 1 5</Syntax>
+    </KeyDown>
+    <Software>minecraft</Software>
+  </DefaultMacro>
+</Root>

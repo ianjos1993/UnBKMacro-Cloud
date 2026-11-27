@@ -1,0 +1,55 @@
+<Root>
+  <DefaultMacro>
+    <Major>iV3Xz</Major>
+    <Description>Hello, Macroers!
+
+Let's skip the pleasentries and get right to the macro.
+
+As always, a few things to consider:
+1) Have a magnetic ID. Please invest in one, as it will make everything easier. If you don't have it or don't want it, then please add a 4 to the macro on the first part so you can pick up the loot.
+2) Have either a strong Digi with a good F1 so you can go farm anywhere, or if you don't, go to File Island Waterfront where you will be able to kill every digi with almost any F1. I recommend either Verdandi Terminal (Have an X-digi here) for X tickets, Yin Yang and seals; or Minato City for Witchmon seals, eggs and Teras.
+3) Put DS disc on F5 and Health disc on F6
+
+Now, considering the macro:
+1) You will move. It is not for farming, it is to distract people from thinking you are macroing. The movement is subtle, just a little to the north, and then a little to the south.
+2) If you have a strong digi, you may be able to change the F1 for a 1, so you auto attack digis. If you have an X digi and you do this, please change de DS disc for X-antibody so it doesn't devolve.
+
+Good luck!</Description>
+    <Comment>https://botmek.com - Free macros download</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 1 s
+KeyUp 43 1
+Delay 64
+KeyDown 58 1
+Delay 64
+KeyUp 58 1
+Delay 64
+GoWhile 1 20
+KeyDown 26 1
+Delay 1 s
+KeyUp 26 1
+Delay 64
+KeyDown 22 1
+Delay 1 s
+KeyUp 22 1
+Delay 64
+KeyDown 62 1
+Delay 64
+KeyUp 62 1
+Delay 64
+KeyDown 63 1
+Delay 64
+KeyUp 63 1
+Delay 64
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Digimon Masters Online</Software>
+  </DefaultMacro>
+</Root>

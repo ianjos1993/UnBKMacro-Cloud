@@ -1,0 +1,94 @@
+<Root>
+  <DefaultMacro>
+    <Major>Hwoarang Combo 3</Major>
+    <Description>Макрос позволяет выполнять сокрушительное комбо за Hwoarang.
+Видео демонстрации работы макроса: https://youtu.be/aQuRSdexu5w
+
+Хвоаранг — горячий и страстный боец, который всегда стремится доказать своё превосходство в бою. Его главная мотивация — стать сильнее и победить своего давнего соперника, Джина Казаму, с которым у него сложились напряжённые, но взаимоуважительные отношения. На самом деле, Хворанг остаётся одним из самых сильных и технически сложных персонажей, подходящих как для опытных игроков, так и для тех, кто хочет овладеть динамичным боевым стилем.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 22.09.2024
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ.
+
+#hwotekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 11 ms
+KeyDown 7 1
+Delay 12 ms
+KeyDown 74 1
+Delay 197 ms
+KeyDown 76 1
+Delay 9 ms
+KeyUp 22 1
+Delay 12 ms
+KeyUp 7 1
+Delay 99 ms
+KeyUp 76 1
+Delay 85 ms
+KeyDown 76 1
+Delay 86 ms
+KeyUp 76 1
+Delay 86 ms
+KeyDown 76 1
+Delay 75 ms
+KeyUp 76 1
+Delay 62 ms
+KeyDown 76 1
+Delay 116 ms
+KeyUp 76 1
+Delay 818 ms
+KeyUp 74 1
+Delay 466 ms
+KeyDown 7 1
+Delay 63 ms
+KeyUp 7 1
+Delay 57 ms
+KeyDown 7 1
+Delay 82 ms
+KeyDown 77 1
+Delay 806 ms
+KeyUp 77 1
+Delay 32 ms
+KeyUp 7 1
+Delay 341 ms
+KeyDown 7 1
+Delay 73 ms
+KeyUp 7 1
+Delay 52 ms
+KeyDown 7 1
+Delay 81 ms
+KeyDown 77 1
+Delay 488 ms
+KeyUp 7 1
+Delay 30 ms
+KeyUp 77 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Первое стандартное комбо меча, пофиксил, потестил, протерел, возможные фиксы в будущем.
+(Рекомендется использовать стоя или не двигаться в момент использования скрипта, возможны случайные скачки в стороны и промахи)
+Не работает на Stevonnie (загружу скрипт который работает на этом персонаже скоро, но он корявый)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+LeftDown 1
+Delay 144 ms
+LeftUp 1
+Delay 86 ms
+KeyUp 22 1
+Delay 144 ms
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 29 1
+KeyDown 225 1
+Delay 56 ms
+KeyUp 29 1
+KeyUp 225 1
+Delay 98 ms
+LeftDown 1
+Delay 88 ms
+LeftUp 1
+Delay 48 ms</Syntax>
+    </KeyDown>
+    <Software>Brawlhalla</Software>
+  </DefaultMacro>
+</Root>

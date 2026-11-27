@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>G36c Recoil Aid</Major>
+    <Description>Following the nerf, the G36c has some crazy mule kick. This mostly removes side to side, and spread should hit heads only within 10 meters without micro adjustments. Would not recommend using this to hold pixel peaks, side to side is too unpredictable, and this macro is semi-random ironically for more consistency in other use cases.
+
+Loadout: Acog, Compensator, Vertical Grip
+
+Res: 16:10, 1920 x1080
+
+Sensitivity 6,6
+
+800 Dpi</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+MoveR 5 30 6 31
+Delay 15 ms
+MoveR 0 35
+Delay 15 ms
+MoveR 0 35
+Delay 15 ms
+MoveR 0 30
+Delay 15 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

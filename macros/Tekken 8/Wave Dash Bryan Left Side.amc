@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Bryans Wave dash movement for Mix Up 
+
+Key mapping ;
+W = UP
+A = BACK
+S = DUCK
+D = FORWARD
+
+NUM4 = 1
+NUM8 = 2
+NUM6 = 3
+NUM5 = 4</Description>
+    <Comment>Enjoy wavu</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+Delay 50 ms
+KeyUp 7 1
+Delay 50 ms
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

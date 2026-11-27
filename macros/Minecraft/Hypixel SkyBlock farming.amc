@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для фарма на Hypixel SkyBlockRPG. Макрос заключается в том что просто зажимается Shift, и из-за него скорость не важна (я так думаю лично, но рекомендую скорость 240-250, может больше или меньше). Макрос подойдёт для фарма любой культуры, кроме арбуза, тыквы, какао-бобов. Лучше всего отключать при контесте, чтоб не дали бан, но и простое использование может повлести за собой бан, так-что используйте на свой страх и риск. Ферма должна состоять из 93 в длинну, 5 в ширину -  блока, далее сделать такие-же, но сделать так, чтоб был проход в 7 блоков, чтоб был назад. Тем самым вам не придётся нажимать какие-либо кнопки, всё будет делатся за вас. 
+</Description>
+    <Comment>Всем удачного использывание макроса) 
+За вопросами писать в дискорд ♥マーク#2998</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 225 1
+KeyDown 4 1
+Delay 30 s
+KeyUp 225 1
+KeyUp 4 1
+KeyDown 22 1
+Delay 1 s
+KeyUp 22 1
+KeyDown 26 1
+Delay 10 ms
+KeyUp 26 1
+KeyDown 225 1
+KeyDown 7 1
+Delay 30 s
+KeyUp 225 1
+KeyUp 7 1
+KeyDown 22 1
+Delay 1 s
+KeyDown 26 1
+Delay 10 ms
+KeyUp 26 1
+GoWhile 2 8</Syntax>
+    </KeyDown>
+    <Software>minecraft</Software>
+  </DefaultMacro>
+</Root>

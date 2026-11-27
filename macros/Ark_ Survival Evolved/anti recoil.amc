@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Эффективный макрос для точечного контроля вертикальной и горизонтальной отдачи при зажиме. Скрипт имитирует плавные движения руки профессионального игрока, компенсируя увод ствола. Подходит для стрельбы на средние и дальние дистанции. Перед запуском рекомендуется выставить DPI 800 и чувствительность в игре на средние значения для идеальной точности.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveR 0 4
+Delay 64
+MoveR 1 5
+Delay 64
+MoveR -1 4
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>ARK: Survival Evolved</Software>
+  </DefaultMacro>
+</Root>

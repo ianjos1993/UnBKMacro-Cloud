@@ -1,0 +1,455 @@
+<Root>
+  <DefaultMacro>
+    <Major>Макрос на призыв и уствновку петов на атаку+лут(Круксена колдун до 49 лвл)</Major>
+    <Description>(ИГРА ТУТ http://playrequiem.com/)
+Макрос на некроманта вернее будущего некроманта до 49 лвл
+устанавливаем петов на клавиши: 
+F4-Иллюзия
+F5-Вызов Казара
+F6-вызов Ленатора
+F7-Вызов Model x(Темпириона, что дают по КВ)
+Внимание установить в настройка переход пэтов в агрессию по клавише Q
+
+Как это работает:
+Макрос вызывает петов(на один каст дается 3 секунды)
+затем выжидает секунду и переводит их в агрессию
+ после чего каждую минуту прожимает по 5 раз на автоматический подъём лута,
+через 25-26 минут отзывает темпириона model x. выжидает секунду и снова повторяет макрос.
+Советую установить на выполнение до повторного нажатия клавиши</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 61 1
+Delay 64
+KeyUp 61 1
+Delay 3000 ms
+KeyDown 62 1
+Delay 64
+KeyUp 62 1
+Delay 3000 ms
+KeyDown 63 1
+Delay 64
+KeyUp 63 1
+Delay 3000 ms
+KeyDown 64 1
+Delay 64
+KeyUp 64 1
+Delay 3000 ms
+KeyDown 20 1
+Delay 64 65 ms
+KeyUp 20 1
+Delay 100 150 ms
+KeyDown 11 1
+Delay 64 150 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 60 112 ms
+KeyUp 11 1
+Delay 60000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 60 113 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 60000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 60000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 60000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 60000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 60000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 115 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 60000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 115 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 60000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 60000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 60000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 60000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 60000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 60000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 60000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 60000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 60000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 60000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 60000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 60000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 60000 ms
+KeyDown 11 1
+Delay 60 113 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64
+KeyUp 11 1
+Delay 60000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 60000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 60000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 64 112 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 60000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 64 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 112 ms
+KeyUp 11 1
+Delay 1000 ms
+KeyDown 64 1
+Delay 64 112 ms
+KeyUp 64 1
+Delay 1000 ms
+KeyDown 11 1
+Delay 1500 ms
+KeyUp 11 1
+Delay 60000 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Requiem online</Software>
+  </DefaultMacro>
+</Root>

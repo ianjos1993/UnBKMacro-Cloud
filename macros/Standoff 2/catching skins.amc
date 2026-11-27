@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major>Ловит скины за 0.03</Major>
+    <Description>Данный макрос ставит запрос и ловит скин за 0.03
+Он создан для трейда и поднятия голды
+Удачного пользования!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 39 1
+Delay 64
+KeyUp 39 1
+Delay 64
+KeyDown 99 1
+Delay 64
+KeyUp 99 1
+Delay 64
+KeyDown 39 1
+Delay 64
+KeyUp 39 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Standoff 2</Software>
+  </DefaultMacro>
+</Root>

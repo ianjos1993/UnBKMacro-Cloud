@@ -1,0 +1,134 @@
+<Root>
+  <DefaultMacro>
+    <Major>Трамвай 2 Шлагбаум</Major>
+    <Description>Макрос на работу Водителя трамвая номер 2 . 
+Пояснение:
+1. Устраиваетесь на работу Водителем трамвая 
+2. Идете к трамваю КОТОРЫЙ НАХОДИТСЯ БЛИЖЕ К ШЛАГБАУМУ, 
+3. Cадитесь в него после чего запускайте скрпит.
+Нюансы:
+Трамвай должен находиться на месте его спавна для того чтобы точно убедиться на том ли он месте сядьте 
+и выйдите из трамвая
+Макрос может сбиться по многим разных причинам. 
+Например: Впереди вас едить трамвай и он вас затормозил из-за этого макрос по просту сбивается 
+Советую проверять каждый 5-10 минут
+Также админы могут спросить тут вы или нет если вы не отреагируете то улетите в БАН так что будете аккуратнее. Если вы нашли ошибку пожалуйста сообщите мне</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 3000 ms
+KeyDown 26 1
+Delay 26430 ms
+KeyUp 26 1
+Delay 189 ms
+KeyDown 22 1
+Delay 4134 ms
+KeyDown 26 1
+Delay 895 ms
+KeyDown 31 1
+Delay 131 ms
+KeyUp 31 1
+Delay 4858 ms
+KeyDown 31 1
+Delay 188 ms
+KeyUp 31 1
+Delay 1146 ms
+KeyUp 22 1
+Delay 32659 ms
+KeyUp 26 1
+Delay 441 ms
+KeyDown 22 1
+Delay 4284 ms
+KeyDown 26 1
+Delay 699 ms
+KeyDown 31 1
+Delay 142 ms
+KeyUp 31 1
+Delay 3787 ms
+Delay 1459 ms
+KeyDown 31 1
+Delay 175 ms
+KeyUp 31 1
+Delay 64
+KeyUp 22 1
+Delay 42255 ms
+KeyUp 26 1
+Delay 675 ms
+KeyDown 22 1
+Delay 4210 ms
+KeyDown 26 1
+Delay 745 ms
+KeyDown 31 1
+Delay 123 ms
+KeyUp 31 1
+Delay 4109 ms
+KeyDown 31 1
+Delay 156 ms
+KeyUp 31 1
+Delay 1340 ms
+KeyUp 22 1
+Delay 32546 ms
+KeyUp 26 1
+Delay 359 ms
+KeyDown 22 1
+Delay 4329 ms
+KeyDown 26 1
+Delay 673 ms
+KeyDown 31 1
+Delay 98 ms
+KeyUp 31 1
+Delay 3175 ms
+KeyDown 31 1
+Delay 199 ms
+KeyUp 31 1
+Delay 2732 ms
+KeyUp 22 1
+Delay 34765 ms
+KeyUp 26 1
+Delay 1260 ms
+KeyDown 22 1
+Delay 3420 ms
+KeyDown 26 1
+Delay 1694 ms
+KeyDown 31 1
+Delay 133 ms
+KeyUp 31 1
+Delay 2841 ms
+KeyDown 31 1
+Delay 196 ms
+KeyUp 31 1
+Delay 2379 ms
+KeyUp 22 1
+Delay 6804 ms
+KeyUp 26 1
+Delay 1624 ms
+MoveTo 955 643
+Delay 3 ms
+MoveTo 955 643
+Delay 2 ms
+MoveTo 955 644
+Delay 3 ms
+MoveTo 955 644
+Delay 5 ms
+MoveTo 955 645
+Delay 7 ms
+MoveTo 954 645
+Delay 9 ms
+MoveTo 954 645
+Delay 0 ms
+MoveTo 954 646
+Delay 11 ms
+MoveTo 954 646
+Delay 667 ms
+LeftDown 1
+Delay 118 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

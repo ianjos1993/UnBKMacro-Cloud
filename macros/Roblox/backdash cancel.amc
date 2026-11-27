@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос предназначен для использования backdash cancel в тсб на первую способность, можно перенастроить на 2,3 и 4 способность. Можно использовать на любом разрешении экрана. Игра: The Stronghest Battlegrounds</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 5 ms
+KeyDown 30 1
+Delay 5 ms
+KeyUp 30 1
+Delay 5 ms
+KeyDown 20 1
+Delay 5 ms
+KeyUp 20 1
+Delay 5 ms
+KeyUp 22 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

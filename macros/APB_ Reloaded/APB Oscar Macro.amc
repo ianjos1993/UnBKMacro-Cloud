@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>Oscar NFCP 3</Major>
+    <Description>RES: 1280X960
+DPI: 1600
+SENS: 2,1
+MM SEN: 2.5
+ Oscar macro IR3 RS 3 3P3
+Adjust y value according to ur sens / to combat recoil
+
+Delays set so gun dont jam
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 0 32
+Delay 50 ms
+MoveR 0 32
+LeftUp 1
+Delay 100 ms</Syntax>
+    </KeyDown>
+    <Software>APB Reloaded</Software>
+  </DefaultMacro>
+</Root>

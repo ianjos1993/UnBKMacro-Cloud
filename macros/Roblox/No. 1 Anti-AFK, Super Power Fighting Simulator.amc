@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Анти-афк для прокачки Psychic Power в Super Power Fighthing Simulator. Каждые 10 секунд 2 раза нажимает на кнопку "3", это нужно для того чтобы сначала выключалась а потом включалась прокачка ПП, проверено лично!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 10 s</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

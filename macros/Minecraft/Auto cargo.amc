@@ -1,0 +1,156 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Для кристаликса авто перенос груза Выживание бомжа в россии
+16.03.2024
+Запускать в плотную к верхнему первому ящику "Беленькому"
+авто носит груз сюда обратно.
+Переделал прошлый скрипт, теперь тыкает на клавишу "E", и работает без нареканий
+Заработок 45 рублей за круг, голод вообще не тратит. Можно спокойно остонавливать на ночь.
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 143 ms
+RightDown 1
+Delay 135 ms
+RightUp 1
+Delay 653 ms
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 22 1
+Delay 230 ms
+KeyUp 22 1
+Delay 1159 ms
+KeyDown 22 1
+Delay 143 ms
+KeyUp 22 1
+Delay 191 ms
+KeyDown 4 1
+Delay 3559 ms
+KeyUp 4 1
+Delay 23 ms
+KeyDown 22 1
+Delay 1583 ms
+KeyUp 22 1
+Delay 24 ms
+KeyDown 4 1
+Delay 1807 ms
+KeyUp 4 1
+Delay 95 ms
+KeyDown 22 1
+Delay 2440 ms
+KeyUp 22 1
+Delay 303 ms
+KeyDown 22 1
+Delay 815 ms
+KeyUp 22 1
+Delay 103 ms
+KeyDown 22 1
+Delay 864 ms
+KeyUp 22 1
+Delay 448 ms
+KeyDown 4 1
+Delay 375 ms
+KeyDown 26 1
+Delay 32 ms
+KeyUp 4 1
+Delay 240 ms
+KeyUp 26 1
+Delay 207 ms
+KeyDown 4 1
+Delay 615 ms
+KeyUp 4 1
+Delay 135 ms
+KeyDown 7 1
+Delay 927 ms
+KeyDown 26 1
+Delay 47 ms
+KeyUp 7 1
+Delay 767 ms
+KeyDown 7 1
+Delay 23 ms
+KeyUp 26 1
+Delay 719 ms
+KeyDown 26 1
+Delay 55 ms
+KeyUp 7 1
+Delay 1056 ms
+KeyDown 7 1
+Delay 583 ms
+KeyUp 26 1
+Delay 599 ms
+KeyDown 26 1
+Delay 624 ms
+KeyUp 26 1
+Delay 415 ms
+KeyDown 26 1
+Delay 23 ms
+KeyUp 7 1
+Delay 287 ms
+KeyDown 7 1
+Delay 56 ms
+KeyUp 26 1
+Delay 55 ms
+KeyUp 7 1
+Delay 368 ms
+KeyDown 26 1
+Delay 327 ms
+KeyUp 26 1
+Delay 10 ms
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

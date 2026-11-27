@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>лучший макрос на якори с рандомной задержкой.
+расположение предметов:
+5 слот - тотем
+6 слот - якорь
+7 слот - светокамень</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 35 1
+Delay 10 65 ms
+KeyUp 35 1
+Delay 10 64 ms
+KeyDown 35 1
+Delay 10 64 ms
+KeyUp 35 1
+Delay 10 64 ms
+RightDown 1
+Delay 10 64 ms
+RightUp 1
+Delay 10 64 ms
+KeyDown 36 1
+Delay 10 64 ms
+KeyUp 36 1
+Delay 10 64 ms
+RightDown 1
+Delay 10 64 ms
+RightUp 1
+Delay 10 64 ms
+KeyDown 34 1
+Delay 10 ms
+KeyUp 34 1
+Delay 10 ms
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

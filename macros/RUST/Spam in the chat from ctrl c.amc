@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Спамит в чат ваше сообщение из буфер обмена (ctrl + c ctrl +v), кд на сообщение в чат 20 секунд, по желанию можно поставить больше или меньше.
+Также вас не кикнет за афк сервер.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 64
+KeyDown 224 1
+Delay 64
+KeyDown 25 1
+Delay 64
+KeyUp 224 1
+Delay 64
+KeyUp 25 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 20 s
+GoWhile 1 999</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

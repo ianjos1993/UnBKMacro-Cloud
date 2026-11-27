@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос для роблокс плейса:Grand Piece Online
+у многих новых игроков появляеться проблема:воля вооружения многие оставляют ёё без вниманя но ето большая добавка к урону а так же вы можете бить игроковс типом дьявольского фрукта логия
+еслу у вас есть 1 ночь то вы можете улучшить ёё до максимального уровня!
+нужно нажать кнопку запуска макроса  настроить ёё на повторение до отключения и оставить на ночь!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 13 1
+Delay 64
+KeyUp 13 1
+Delay 5 min</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный Макрос предназначен для тех кто не силен в строительстве
+То-есть он будет за вас нажимать на ЛКМ
+
+!Обновленно! </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 8 ms
+RightDown 1
+Delay 8 ms
+RightUp 1
+Delay 8 ms
+RightDown 1
+Delay 8 ms
+RightUp 1
+Delay 8 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

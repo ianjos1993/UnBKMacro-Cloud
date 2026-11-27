@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro is for flatline, it helps a lot for the jitter aim with flatline. you can also add some little  mouse recoil with your hand, improving for sure your aim and make the precision more accurate.
+
+enjoy</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 0 0
+Delay 0 ms
+MoveR 15 0
+Delay 34 ms
+MoveR 1 15
+Delay 34 ms
+MoveR -1 -15
+Delay 34 ms
+MoveR -15 0
+Delay 34 ms
+MoveR -10 14
+Delay 34 ms
+MoveR 10 12
+Delay 34 ms
+MoveR -4 6
+Delay 34 ms
+MoveR 7 7
+Delay 34 ms
+MoveR -4 -6
+Delay 34 ms
+MoveR 6 -6
+Delay 34 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

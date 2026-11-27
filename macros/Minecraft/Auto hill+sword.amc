@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>автоматически берёт в руки хилл и кидает после чего берёт меч в руки
+условия: меч должен находиться на 1 слоту, а хилл на 6 слоту
+вы должны держать меч в руке чтоб макрос сработал!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>WheelUp 1
+Delay 20 ms
+WheelUp 1
+Delay 20 ms
+WheelUp 1
+Delay 20 ms
+WheelUp 1
+Delay 50 ms
+RightDown 1
+Delay 1 ms
+RightUp 1
+Delay 50 ms
+WheelUp 1
+Delay 20 ms
+WheelUp 1
+Delay 20 ms
+WheelUp 1
+Delay 20 ms
+WheelUp 1
+Delay 20 ms
+WheelUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>nathonks</Major>
+    <Description>Macro by nathonks
+FOV 90, Sensitivity 0.8, DPI 800
+
+This is for the Rust LR300 8x ONLY and easy to use, you just have to bind the script to a key then you are beaming everyone. Use at you're own risk it's OP
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 100 ms
+LeftUp 1
+MoveR -5 57
+Delay 180 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+MoveR -6 57
+Delay 180 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

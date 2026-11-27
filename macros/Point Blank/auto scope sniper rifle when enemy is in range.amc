@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major>iamatomiccc</Major>
+    <Description>(screen resolution 1024 x 768 windowed mode )
+
+auto scope in sniper rifle when the enemy is in range.
+
+you can bind it only in your right click or side buttons (extra mouse buttons)
+but always take note to be ready to pull the triger when the scope is triggered
+keep in mind to only click the designated mouse key "once" to not be confused</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 3 2 255,0,0 255,15,15 2 600 220 220 400 1 0
+Goto 1
+RightDown 1
+Delay 30 ms
+RightUp 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

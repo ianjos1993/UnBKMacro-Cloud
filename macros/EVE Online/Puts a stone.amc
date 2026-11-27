@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Это для бага игры! Моментально кидает вас в рандомное место карты и тем самым спасает вас! Поставь лайк :))))))))))))))))))))))))))))))))))))))))))))))))))          (Используй аккуратно!)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 33 1
+Delay 1 ms
+KeyUp 33 1
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>EVE Online</Software>
+  </DefaultMacro>
+</Root>

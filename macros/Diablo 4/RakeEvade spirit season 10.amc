@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major>RakeEvade spirit season 10</Major>
+    <Description>Макрос чередует Rake и Evade для максимизации аптайма.
+Настройка: установить на ''Выполнять пока нажата клавиша или ''Выполнять до отмены'' - для автоматизации геймплея.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Diablo IV</Software>
+  </DefaultMacro>
+</Root>

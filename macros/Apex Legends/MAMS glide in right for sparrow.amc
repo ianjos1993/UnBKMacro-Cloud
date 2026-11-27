@@ -1,0 +1,72 @@
+<Root>
+  <DefaultMacro>
+    <Major>LostTesla</Major>
+    <Description>MAMS glide in left for sparrow/МАМС глайд вправо для спарроу
+.............................................................................................................................................................................................
+Да, это версия без движений мыши, так как не всегда абсолютные движения мыши работают хорошо, плюсом нужно использовать для определенного разрешения монитора, поэтому мышкой нужно двигать самому.
+Ты можешь нажать и не отпускать W, но для большей эффективности советую отжимать его в нужный момент
+Очень важный момент, в ваших настройках должны стоять следующие бинды на дополнительные слоты кнопок в настройках:
+
+Вперёд - колесо мыши вверх
+
+Прыжок - колесо мыши вниз
+
+Советую поставить бинд на удобную кнопку, стиль нажатия - "зажатие кнопки"
+
+Тебе нужно стоять возле стены, не нужно нажимать пробел, просто подбегая к стене нажми забинженую кнопку и удерживай "W"</Description>
+    <Comment>Если увижу актив, то закину еще прыжок влево и другой скрипт/If I see the asset, then I will throw another jump to the left and another script</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 200 ms
+KeyUp 44 1
+Delay 150 ms
+KeyDown 44 1
+Delay 48 ms
+KeyUp 44 1
+KeyDown 7 1
+Delay 18 ms
+WheelUp 1
+Delay 120 ms
+WheelUp 1
+Delay 120 ms
+WheelUp 1
+KeyDown 224 1
+WheelUp 1
+Delay 3 ms
+KeyUp 26 1
+Delay 135 ms
+WheelUp 1
+WheelUp 1
+WheelUp 1
+Delay 300 ms
+KeyUp 7 1
+WheelUp 1
+WheelUp 1
+WheelUp 1
+Delay 300 ms
+WheelUp 1
+WheelUp 1
+WheelUp 1
+WheelUp 1
+Delay 350 ms
+KeyDown 44 1
+WheelUp 1
+WheelUp 1
+KeyUp 44 1
+Delay 280 ms
+WheelUp 1
+WheelUp 1
+Delay 100 ms
+WheelUp 1
+WheelUp 1
+Delay 200 ms</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

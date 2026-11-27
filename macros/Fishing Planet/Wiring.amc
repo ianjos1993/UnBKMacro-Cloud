@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description></Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 2000 ms
+KeyUp 44 1
+Delay 3000 ms
+LeftDown 1
+Delay 1 min
+LeftUp 1
+Delay 5 s
+KeyDown 44 1
+Delay 10 ms
+KeyUp 44 1
+Delay 5 s</Syntax>
+    </KeyDown>
+    <Software></Software>
+  </DefaultMacro>
+</Root>

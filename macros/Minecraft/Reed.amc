@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Скрип для горизантальной фермы размером в 1 плот. Для него нужны ранчер бутс на 355 скорости и мотыга под Тростник. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 7 1
+Delay 9500 ms
+KeyUp 7 1
+KeyDown 26 1
+Delay 650 ms
+KeyUp 26 1
+KeyDown 4 1
+Delay 500 ms
+KeyUp 4 1
+KeyDown 22 1
+Delay 9200 ms
+KeyUp 22 1
+KeyDown 4 1
+KeyDown 26 1
+Delay 650 ms
+KeyUp 4 1
+KeyUp 26 1
+GoWhile 1 9999</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

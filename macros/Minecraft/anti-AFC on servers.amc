@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>С помощью данного макроса вы сможете стоять афк на серверах где строгие анти афк системы. Например вы стоите на ферме кактусов и чтобы вас не кикнуло за афк вам надо двигаться для этого и предназначен данный макрос.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 1 s
+KeyUp 4 1
+Delay 1 s
+KeyDown 7 1
+Delay 1 s
+KeyUp 7 1
+Delay 1 ms
+KeyDown 44 1
+Delay 1 ms
+KeyUp 44 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

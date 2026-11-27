@@ -1,0 +1,64 @@
+<Root>
+  <DefaultMacro>
+    <Major>spam 2</Major>
+    <Description>this is a macro that will spam automatically your bandage on 2, (put the repeticion on press again to stop)
+if you want heal without spam your fingher.
+
+support me and enjoy!
+
+BlackMamba
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 30 ms
+LeftDown 1
+Delay 60 ms
+KeyDown 31 1
+Delay 30 ms
+LeftDown 1
+Delay 60 ms
+KeyDown 31 1
+Delay 30 ms
+LeftDown 1
+Delay 60 ms
+KeyDown 31 1
+Delay 30 ms
+LeftDown 1
+Delay 60 ms
+KeyDown 31 1
+Delay 30 ms
+LeftDown 1
+Delay 60 ms
+KeyDown 31 1
+Delay 30 ms
+LeftDown 1
+Delay 60 ms
+KeyDown 31 1
+Delay 30 ms
+LeftDown 1
+Delay 60 ms
+KeyDown 31 1
+Delay 30 ms
+LeftDown 1
+Delay 60 ms
+KeyDown 31 1
+Delay 30 ms
+LeftDown 1
+Delay 60 ms
+KeyDown 31 1
+Delay 30 ms
+LeftDown 1
+Delay 60 ms
+KeyUp 31 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

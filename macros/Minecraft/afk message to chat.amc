@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>авто-сообщение "afk" в чат майнкрафт. Режим "afk" включается при бездействии/повторении однотипных действий, таких как удар по мобу, в афк режиме в зависимости от сервера может уменьшатся количество получаемых ресурсов</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 64
+KeyDown 14 1
+Delay 64
+KeyUp 14 1
+Delay 1 min</Syntax>
+    </KeyDown>
+    <Software>Minecraft / антиафк</Software>
+  </DefaultMacro>
+</Root>

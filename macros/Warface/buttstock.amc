@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>удар прикладом (по умолчанию V) бесконечное количество раз, подойдет для восхода на втором мосту, где можно афк фармить фраги.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 25 1
+Delay 64 ms
+KeyUp 25 1
+Delay 64 ms
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Warface</Software>
+  </DefaultMacro>
+</Root>

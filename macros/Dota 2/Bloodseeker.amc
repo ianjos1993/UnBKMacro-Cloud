@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major>Блудсикер прокаст</Major>
+    <Description>Включаем быстрое применение на скиллы кроме 1
+Q - первый скилл (надо чтобы стоял применение на себя 2 нажатиями)
+TAB - второй скилл
+R - 4 скилл
+Z - Phase boots
+X - Black King Bar (BKB)
+C - Abyssal Blade
+MOUSE 4 - BLINK (любой)
+Делает фулл прокаст на блудсикера</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+KeyUp 29 1
+Delay 20 ms
+KeyDown 6 1
+KeyUp 6 1
+Delay 20 ms
+KeyDown 27 1
+KeyUp 27 1
+Delay 20 ms
+Button4down 1
+Button4Up 1
+Delay 64 128 ms
+KeyDown 20 1
+KeyUp 20 1
+KeyDown 20 1
+KeyUp 20 1
+Delay 64 ms
+KeyDown 21 1
+KeyUp 21 1
+Delay 20 ms
+KeyDown 43 1
+KeyUp 43 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

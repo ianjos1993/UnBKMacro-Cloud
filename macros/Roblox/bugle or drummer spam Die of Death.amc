@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>bugle and drummer spam</Major>
+    <Description>No more minigames for drumming or trumpetting bonuses, now you can skip all this by simply setting this command to repeat when pressed, it will automatically play the bugle or trumpet for you in Die of Death when you execute it after the ability starts its minigame.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 64
+KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>roblox</Software>
+  </DefaultMacro>
+</Root>

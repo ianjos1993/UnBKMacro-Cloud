@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Контроль отдачи на всех типах оружия, особенно хорошо на ХАОС, Флэтлайн, спитфаер.
+Зажимаете макрос и стреляете в даль.
+Сенса: 5
+Прицел и обвесы: Любые
+Если вы боитесь, что могут возникнуть проблемы с анти-читом, то поставьте время ожидания везде на 10-15 мс</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 0 ms
+MoveR -2 0
+Delay 0 ms
+MoveR -1 2
+Delay 0 ms
+MoveR 0 2
+Delay 0 ms
+MoveR 1 2
+Delay 0 ms
+MoveR 2 0
+Delay 0 ms
+MoveR 2 -1
+Delay 0 ms
+MoveR 0 -2
+Delay 0 ms
+MoveR -1 -2
+Delay 0 ms
+MoveR -2 0
+Delay 0 ms
+LeftUp 1
+Delay 0 ms</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

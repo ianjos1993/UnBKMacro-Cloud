@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major>Sosiska</Major>
+    <Description>Макрос который поможет вам прокочать скорость бега на Malinovka RolePР!
+Если ваш монитор с разрешением "1920 : 1080 (Full HD)" то ничего не трогайте.
+Если ваше разрешение вашего монитора меньше то перейдите в раздел "Изменить определение цвета" поставте раздел "Если пиксель"-"По координатам"
+и координаты "X и Y" поменяйте на нужные вам клавиши на экране.
+
+Приятного пользования Макросом  и игры на проете Malinovka RolePlay!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы на Malinovka RP</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 10 0 255,255,255 255,255,255 1 1263 930 6 151 1 0
+KeyDown 44 1
+Delay 24 ms
+KeyUp 44 1
+Delay 24 ms
+GoColor 15 0 255,255,255 255,255,255 1 1072 991 134 90 1 0
+KeyDown 26 1
+Delay 24 ms
+KeyUp 26 1
+Delay 24 ms
+GoColor 20 0 255,255,255 255,255,255 1 1138 993 783 88 1 0
+KeyDown 4 1
+Delay 24 ms
+KeyUp 4 1
+Delay 24 ms
+GoColor 25 0 255,255,255 255,255,255 1 1204 990 285 91 1 0
+KeyDown 22 1
+Delay 24 ms
+KeyUp 22 1
+Delay 24 ms
+GoColor 2 0 255,255,255 255,255,255 1 1267 993 588 88 1 0
+KeyDown 7 1
+Delay 24 ms
+KeyUp 7 1
+Delay 24 ms</Syntax>
+    </KeyDown>
+    <Software>GTA San Andreas</Software>
+  </DefaultMacro>
+</Root>

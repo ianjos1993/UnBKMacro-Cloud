@@ -1,0 +1,95 @@
+<Root>
+  <DefaultMacro>
+    <Major>Meitenkun combo 2</Major>
+    <Description>Макро комбинация для персонажа Мейтен Кун (Meitenkun)                 
+  Видео  работы макроса: https://youtu.be/YI3WvgSHamE
+
+     Если не работает макрос в игре: 
+             Отключить использование минимальной задержки.
+             Включить опцию "Использовать драйвер"
+                                            (при необходимости установить драйвер)
+
+
+                     Тестирование макроса проводились на последнем патче игры на 25.09.2022 (1.40 патч)
+
+  Настройки в игре:
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ Light Punch - Insert
+ Light Kick - End
+ Heavy Punch - Home
+ Heavy Kick - Delete
+ Max - TAB
+ 1+2 - Page UP
+ 3+4 Page Down
+
+
+ 1. При необходимости писать в поддержку -  https://keyran.net/discord
+ 1.1. Мой дискорд для связи - flkpa#4883
+
+#kofxv #meitenkunkofxv #kingoffightersxv</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 63 ms
+KeyUp 22 1
+Delay 80 ms
+KeyDown 7 1
+Delay 31 ms
+KeyDown 26 1
+Delay 65 ms
+KeyUp 26 1
+Delay 16 ms
+KeyDown 76 1
+Delay 7 ms
+KeyUp 7 1
+Delay 32 ms
+KeyDown 22 1
+Delay 23 ms
+KeyDown 4 1
+Delay 71 ms
+KeyUp 22 1
+Delay 55 ms
+KeyUp 4 1
+Delay 56 ms
+KeyDown 22 1
+Delay 39 ms
+KeyDown 7 1
+Delay 56 ms
+KeyUp 22 1
+Delay 39 ms
+KeyDown 74 1
+Delay 40 ms
+KeyUp 7 1
+Delay 71 ms
+KeyUp 74 1
+Delay 199 ms
+KeyDown 73 1
+Delay 112 ms
+KeyUp 73 1
+Delay 54 ms
+KeyDown 7 1
+Delay 71 ms
+KeyDown 22 1
+Delay 39 ms
+KeyDown 4 1
+Delay 15 ms
+KeyUp 7 1
+Delay 79 ms
+KeyUp 22 1
+Delay 39 ms
+KeyUp 4 1
+Delay 8 ms
+KeyDown 76 1</Syntax>
+    </KeyDown>
+    <Software>The King of Fighters XV</Software>
+  </DefaultMacro>
+</Root>

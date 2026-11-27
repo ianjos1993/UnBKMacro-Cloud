@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Бинды:
+1. Кирка 'F'
+2 Стена 'Z'
+3. Лестница 'С'
+Инструкиця:
+1. бинд создан чтобы ломать стену противника и ставить новую стену и если возможно лестницу ему в бокс, но вы можете использовать его и в других целях
+2.Бинд автоматически ставит лестницу и стенку, затем берёт оружие в первом слоте.
+</Description>
+    <Comment>Данный макрос 'Эксклюзивный' ведь на форуме такого НЕТ! . Буду признателен если макрос тебе понравится! По всем вопросам в тг-@ApelsinYT</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+Delay 45 ms
+KeyUp 6 1
+Delay 9 ms
+LeftDown 1
+Delay 60 ms
+LeftUp 1
+Delay 9 ms
+KeyDown 29 1
+Delay 9 ms
+KeyUp 29 1
+Delay 5 ms
+LeftDown 1
+Delay 9 ms
+LeftUp 1
+Delay 9 ms
+KeyDown 30 1
+Delay 0 ms
+KeyUp 30 1
+Delay 0 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

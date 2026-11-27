@@ -1,0 +1,128 @@
+<Root>
+  <DefaultMacro>
+    <Major>VinDicTa</Major>
+    <Description>Этот макрос немного сложнее остальных, поэтому постарайтесь уловить, как им пользоваться.
+
+
+
+Макрос использует двойной клик (в PW, если вы два раза кликнете на кого-нибудь из пати, вы будете за ним следовать). Имейте в виду, что если вы играете на версии 1.6.2 и выше, то твины за вами последуют даже в полете и будут набирать ту же высоту, на которой находится ПЛ. Но если у вас версия 1.5.5 и ниже, то он будет только следовать, без полета (это из-за различий версий, ибо в 1.6.2 более умный автопуть следования). Поэтому, если вы играете на версии 1.5.5 и ниже, сначала встаньте на полет и наберите нужную вам высоту, после чего только используйте макрос.
+
+
+
+Как зайдете в игру, выставьте на всех окнах группу так (иконки пати), чтобы они были в одном и том же месте, как и на других окнах. После чего первым игроком (ПЛом) кликните на того, кто у вас в пати на первом месте, а на твинах у вас всегда будет ПЛ на первом месте.
+
+По сути, идет двойной клик на ПЛа, после чего твины бегут к ПЛу.
+
+Когда будете биндить кнопку, выбирайте любую. У меня это кнопка V.
+
+
+
+
+VinDicTa
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//Конвертированный файл макроса 6.07.25 - VinDicTa
+Delay 31 ms
+LeftDown 1
+Delay 31 ms
+LeftUp 1
+Delay 31 ms
+KeyDown 227 1
+Delay 31 ms
+KeyDown 31 1
+Delay 31 ms
+KeyUp 227 1
+Delay 31 ms
+KeyUp 31 1
+Delay 31 ms
+LeftDown 1
+Delay 31 ms
+LeftUp 1
+Delay 31 ms
+LeftDown 1
+Delay 31 ms
+LeftUp 1
+Delay 31 ms
+KeyDown 227 1
+Delay 31 ms
+KeyDown 32 1
+Delay 31 ms
+KeyUp 227 1
+Delay 31 ms
+KeyUp 32 1
+Delay 31 ms
+LeftDown 1
+Delay 31 ms
+LeftUp 1
+Delay 31 ms
+LeftDown 1
+Delay 31 ms
+LeftUp 1
+Delay 31 ms
+KeyDown 227 1
+Delay 31 ms
+KeyDown 33 1
+Delay 31 ms
+KeyUp 33 1
+Delay 31 ms
+KeyUp 227 1
+Delay 31 ms
+LeftDown 1
+Delay 31 ms
+LeftUp 1
+Delay 31 ms
+LeftDown 1
+Delay 31 ms
+LeftUp 1
+Delay 31 ms
+KeyDown 227 1
+Delay 31 ms
+KeyDown 34 1
+Delay 31 ms
+KeyUp 34 1
+Delay 31 ms
+KeyUp 227 1
+Delay 31 ms
+LeftDown 1
+Delay 31 ms
+LeftUp 1
+Delay 31 ms
+LeftDown 1
+Delay 31 ms
+LeftUp 1
+Delay 31 ms
+KeyDown 227 1
+Delay 31 ms
+KeyDown 35 1
+Delay 31 ms
+KeyUp 35 1
+Delay 31 ms
+KeyUp 227 1
+Delay 31 ms
+LeftDown 1
+Delay 31 ms
+LeftUp 1
+Delay 31 ms
+LeftDown 1
+Delay 31 ms
+LeftUp 1
+Delay 31 ms
+KeyDown 227 1
+Delay 31 ms
+KeyDown 30 1
+Delay 31 ms
+KeyUp 227 1
+Delay 31 ms
+KeyUp 30 1</Syntax>
+    </KeyDown>
+    <Software>Perfect World</Software>
+  </DefaultMacro>
+</Root>

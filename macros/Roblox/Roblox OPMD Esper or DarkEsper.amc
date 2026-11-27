@@ -1,0 +1,53 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Преднозначено для игры Roblox
+Мини игра - One Punch Man: Destiny
+Суть макроса : когда вы заспинили у сайтамы и получыили класс с названием Esper или Dark esper с этим макросом вы не будете мучатса с нажыманием кнопок и тем самым ломать свою клавиатуру.Нужно чтобы у вас были откриты все скилы чтобы макрос нормально действовал.Забиндите макрос на удобную вам кнопку и просто оставайте своего персонажа фармить босса. Желательно подлететь чтобы босс вас не убил.
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+Delay 2
+KeyUp 8 1
+Delay 2
+KeyDown 8 1
+Delay 2
+KeyUp 8 1
+Delay 2
+KeyDown 9 1
+Delay 2
+KeyUp 9 1
+Delay 2
+KeyDown 9 1
+Delay 2
+KeyUp 9 1
+Delay 2
+KeyDown 6 1
+Delay 2
+KeyUp 6 1
+Delay 2
+KeyDown 6 1
+Delay 2
+KeyUp 6 1
+Delay 2
+MoveR 0 0
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

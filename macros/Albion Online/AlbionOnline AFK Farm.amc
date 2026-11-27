@@ -1,0 +1,104 @@
+<Root>
+  <DefaultMacro>
+    <Major>AFK Farming In Albion</Major>
+    <Description>You can set the positions manually and farm ore, hemp, trees, and stone.
+
+It's recommended to use Borderless Fullscreen mode, or set your resolution to 1366×768. Borderless Fullscreen offers the best experience.
+
+First, find a group of three or more nearby resources. Then, set a position on each resource:
+
+Click on the first resource to set a position.
+
+Click on the next one to set another position.
+
+Repeat until all desired positions are set.
+
+You can adjust the delay time based on your gathering tool’s speed. If your tool gathers faster, reduce the delay; if it gathers slower, increase the delay.
+
+To calculate the delay, check how long it takes to fully gather a resource and add 4 seconds.
+Example: If it takes 5 seconds to gather, then 5 + 4 = 9 seconds should be your delay value.
+
+If you’re gathering multiple types of resources, you can set different delay values for each one.
+To add more gathering positions, copy the first 8 lines of code.
+To remove positions, delete 8 lines from either the top or bottom.
+
+If the Cancel key in your game isn’t set to S, you can either delete or change that keybinding in the script.
+If you choose to delete it, make sure to increase the delay time by 6 seconds to maintain accuracy.
+
+Thanks for reading — I appreciate it!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 369 341
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 8 s
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+MoveTo 913 147
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 15 s
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+MoveTo 517 364
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 8 s
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+MoveTo 770 197
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 15 s
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+MoveTo 522 351
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 8 s
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+MoveTo 706 179
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 20 s
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+MoveTo 677 537
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1 s
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+MoveTo 990 585
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 15 s
+KeyDown 22 1
+Delay 64
+KeyUp 22 1</Syntax>
+    </KeyDown>
+    <Software>Albion online</Software>
+  </DefaultMacro>
+</Root>

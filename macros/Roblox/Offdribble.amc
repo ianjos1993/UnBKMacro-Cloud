@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>RH2 The Journey - BETA</Major>
+    <Description>Made for RH2 The Journey, specifically off-dribble shots in the 3 point area
+
+Requires Gold Quickdraw, able to be adjusted to Bronze, Silver or None. 
+
+I'm not providing my socials for ban reasons in-game. Youtube tutorial soon.
+
+There is no delay on the shot, once you assign it to a button that's useless on keyboard it's like a regular jumpshot
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 0 ms
+KeyDown 8 1
+Delay 426 ms
+KeyUp 4 1
+Delay 453 ms
+KeyUp 8 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

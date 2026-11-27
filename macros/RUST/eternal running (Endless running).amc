@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major>Вечный бег</Major>
+    <Description>Бежать вперед (чтоб не держать кнопку Shift+W), персонаж будет сам бежать вперед.
+Отключение - просто нажмите W и правый шифт (или левый)</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 64 ms
+KeyDown 225 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

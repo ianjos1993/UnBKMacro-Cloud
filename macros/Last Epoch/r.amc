@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major>Autocast Maelstorm 3200 ms (Lazy Shaman autocast Maelstorm+Tornado+Avalanche)</Major>
+    <Description>Простой файл, позволяющий кастовать по КД maelstorm как только набирается 3 стака Lagon's Slumber.
+Очень полезен для тех, кто не любит следить за таймингами и прожимать скиллы вручную. 
+Такой шаман это еще более ленивый билд, чем циклонщик</Description>
+    <Comment>В игре биндим скилл Maelstorm на R, потом просто бегаем с максимумом стаков.
+Автокаст Торнадо со Snap Gale биндим на нум лок в самой игре, либо добавляем в макрос с задержкой 4000 мс.
+Автокаст Avalanche с Wild Path биндим на нум лок, либо добавляем с задержкой 8000 мс</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+KeyUp 21 1
+Delay 3200 ms</Syntax>
+    </KeyDown>
+    <Software>Last Epoch</Software>
+  </DefaultMacro>
+</Root>

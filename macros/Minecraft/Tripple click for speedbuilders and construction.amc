@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Рекомендуется устанавливать на 5 кнопку мыши (верхнюю боковую) Обязательно включаем драйвер чтобы не спалится по кейстрокесу. Удачи) </Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 25 ms
+RightUp 1
+Delay 25 ms
+RightDown 1
+Delay 25 ms
+RightUp 1
+Delay 25 ms
+RightDown 1
+Delay 25 ms
+RightUp 1
+Delay 25 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

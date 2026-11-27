@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Бинд на тайм реквиема.
+space - блинк
+1 - еул
+r - ульт
+Нажимаешь и таймишь. Зачем учить 100 часов тайм если можно просто 1 кнопкой затаймить.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 1 s
+Delay 40 ms
+KeyDown 21 1
+Delay 1 s
+KeyUp 21 1
+Delay 1 s</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

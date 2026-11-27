@@ -1,0 +1,271 @@
+<Root>
+  <DefaultMacro>
+    <Major>Готовый макрос для изготовления рагу</Major>
+    <Description>Требования: формат - 5:4, разрешение - 1920 х 1080.
+ВНИМАНИЕ: не работает или работает очень плохо при высокой игровой задержке или при неправильном формате! Читайте инструкцию внимательно!
+Ставите обычный шкаф, справа от него на расстоянии полу метра и чуть выше от пола ставите плиту, становитесь в упор между ними. Попробуйте поиграться с расположением чтобы все работало хорошо. Перед началом возьмите 1 рагу в первый слот инвентаря. В шкафу овощи/мясо должно быть во втором и третьем слотах, первый слот должен быть пустой для рагу. Программа возьмет по 30 штук того и того, настроена на 30 повторений, но вы можете поменять это значение в редакторе → в самой последней строке → пкм → изменить. Удачи!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1588 480
+Delay 64
+KeyDown 8 1
+Delay 500 ms
+KeyUp 8 1
+Delay 64
+KeyDown 8 1
+Delay 500 ms
+KeyUp 8 1
+Delay 64
+MoveTo 1113 412
+Delay 64
+KeyDown 224 1
+Delay 677 ms
+LeftDown 1
+Delay 805 ms
+MoveR -177 -6
+Delay 64
+MoveR -161 -3
+Delay 64
+MoveR -161 0
+Delay 64
+LeftUp 1
+Delay 176 ms
+KeyUp 224 1
+Delay 64 ms
+MoveTo 779 546
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 42 1
+Delay 64
+KeyUp 42 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 39 1
+Delay 64
+KeyUp 39 1
+MoveTo 821 681
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1201 400
+Delay 64
+KeyDown 224 1
+Delay 805 ms
+LeftDown 1
+Delay 677 ms
+MoveR -177 -6
+Delay 64
+MoveR -161 -3
+Delay 64
+MoveR -161 0
+Delay 64
+MoveR -151 -1
+Delay 64
+MoveR -176 5
+Delay 64
+LeftUp 1
+Delay 176 ms
+KeyUp 224 1
+Delay 64 ms
+MoveTo 779 546
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 42 1
+Delay 64
+KeyUp 42 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 39 1
+Delay 64
+KeyUp 39 1
+Delay 64
+MoveTo 821 681
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 64
+MoveR 586 0
+Delay 64
+MoveR 586 0
+Delay 64
+MoveR 2 91
+Delay 64
+MoveR 2 91
+Delay 64
+MoveR 2 91
+Delay 64
+KeyDown 8 1
+Delay 500 ms
+KeyUp 8 1
+Delay 64
+KeyDown 8 1
+Delay 500 ms
+KeyUp 8 1
+Delay 64
+MoveTo 1244 286
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 1176 291
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 1095 296
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 924 578
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 675
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 5500 ms
+GoWhile 116 31
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 64
+MoveR -586 0
+Delay 64
+MoveR -2 -91
+Delay 64
+MoveR -2 -91
+Delay 64
+MoveR -2 -91
+Delay 64
+MoveR -586 0
+Delay 64
+KeyDown 8 1
+Delay 500 ms
+KeyUp 8 1
+Delay 64
+KeyDown 8 1
+Delay 500 ms
+KeyUp 8 1
+Delay 64
+MoveTo 435 395
+Delay 64
+KeyDown 224 1
+Delay 677 ms
+LeftDown 1
+Delay 300 ms
+MoveTo 1037 409
+Delay 64
+LeftUp 1
+Delay 666 ms
+KeyUp 224 1
+Delay 64 ms
+MoveTo 1094 600
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 859 681
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 532 396
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 614 395
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 398
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 865 396
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

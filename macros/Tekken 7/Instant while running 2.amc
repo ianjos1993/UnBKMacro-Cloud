@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>Instant while running 2</Major>
+    <Description>Hello, today I've made a macro that allows you to perform moves on characters which have an while running 2 move.
+This move is locked behind execution or you have to run in the game in order to perform it, but with this macro you can simply do it in mere seconds!
+
+Default keybinds,
+For better results, set the macro operation to &lt;&lt;while holding&gt;&gt;.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 17 ms
+KeyUp 7 1
+Delay 17 ms
+KeyDown 7 1
+Delay 17 ms
+KeyUp 7 1
+Delay 17 ms
+KeyDown 7 1
+Delay 17 ms
+KeyDown 12 1
+Delay 20 ms
+KeyUp 12 1
+KeyUp 7 1
+Delay 5000 ms</Syntax>
+    </KeyDown>
+    <Software>Tekken 7</Software>
+  </DefaultMacro>
+</Root>

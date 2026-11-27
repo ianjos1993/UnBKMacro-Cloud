@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Своевременно юзает блинк и стан на кентавре при необходимости можно юзать остальные скилы для нанесения урона, но главная задача это вовремя нажать стан без протупков</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 64 ms
+KeyUp 9 1
+Delay 64 ms
+KeyDown 31 1
+Delay 128 ms
+KeyUp 31 1
+Delay 64 ms</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

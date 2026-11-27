@@ -1,0 +1,78 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Хроники ХФ5
+Локация Field of Silence тп из Хейна (Качаемся и фармим  Executioner с него падают дорогие книги Аллигмент Кодексы и морай шмотки) Макрос лупит только нужных мобов, собирает лут и хербы, бафает пета, перезывает пета, перезывает кубики. так же бьет самостоятельно.
+ФС 85лвл хороший эквип нужен, оружие в руки Дино дагер желательно 
+скилы на панеле: 
+Ф1 - атака
+Ф2 - атака сумоном
+Ф3 - игровой макрос /target Executioner
+Ф4 - Pick UP (поднять лут)
+Ф5 - Final Servitor(ПОВ на пета)
+Ф7 - призвать Spectral Lord
+Ф9 - кубик на деббафы
+Ф10 - Servitor Share
+Ф11 - Spirit Sharing</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 60 1
+Delay 65 ms
+KeyUp 60 1
+Delay 64
+KeyDown 59 1
+Delay 65 ms
+KeyUp 59 1
+Delay 64
+KeyDown 58 1
+Delay 64
+KeyUp 58 1
+Delay 4 s
+KeyDown 64 1
+Delay 64
+KeyUp 64 1
+Delay 65 ms
+KeyDown 62 1
+Delay 65 ms
+KeyUp 62 1
+Delay 65 ms
+KeyDown 61 1
+Delay 65 ms
+KeyUp 61 1
+Delay 65 ms
+KeyDown 61 1
+Delay 65 ms
+KeyUp 61 1
+Delay 65 ms
+KeyDown 61 1
+Delay 65 ms
+KeyUp 61 1
+Delay 65 ms
+KeyDown 61 1
+Delay 65 ms
+KeyUp 61 1
+Delay 64 ms
+GoWhile 1 150
+KeyDown 68 1
+Delay 64
+KeyUp 68 1
+Delay 1000 ms
+KeyDown 67 1
+Delay 64
+KeyUp 67 1
+Delay 1000 ms
+KeyDown 66 1
+Delay 64
+KeyUp 66 1
+Delay 2000 ms
+GoWhile 1 999999</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

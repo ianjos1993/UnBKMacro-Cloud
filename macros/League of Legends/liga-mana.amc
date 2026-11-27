@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>Накрутка маны через печеньку</Major>
+    <Description>Продает и возвращает печеньку для накрутки маны. ВАЖНО! Для работы бага надо находиться на фонтане в момент получения печеньки(2/4/6 минуты) и иметь ранее купленный предмет, который можно вернуть. Кнопка "вернуть" в магазине должна находиться над слотами инвентаря.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1105 955
+Delay 40 ms
+RightDown 1
+Delay 40 ms
+RightUp 1
+Delay 40 ms
+MoveTo 1105 903
+Delay 40 ms
+LeftDown 1
+Delay 40 ms
+LeftUp 1
+Delay 40 ms
+GoWhile 1 250</Syntax>
+    </KeyDown>
+    <Software>League of legends</Software>
+  </DefaultMacro>
+</Root>

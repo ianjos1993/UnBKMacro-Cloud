@@ -1,0 +1,68 @@
+<Root>
+  <DefaultMacro>
+    <Major>продажа предметов</Major>
+    <Description>работает на серверах с загруженным аукционом. для начала продаете нужный предмет, например /ah sell 2000, а потом активируете скрипт. каждые 10 секунд будет перепродавать предмет(можно настроить), тем самым выставляя его на аук заново. могут быть сложности с перемещением мыши, так что если скрипт не работает, поменяйте размер окна с майнкрафтом либо поменяйте координаты мыши в самом скрипте.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+по любым вопросам MELEKDAN@YANDEX.RU</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 64
+KeyDown 56 1
+Delay 64
+KeyUp 56 1
+Delay 64
+KeyDown 4 1
+KeyUp 4 1
+Delay 64
+KeyDown 11 1
+Delay 64
+KeyUp 11 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+MoveR -125 0
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveR -20 -170
+Delay 200 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 64 ms
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 10 s</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

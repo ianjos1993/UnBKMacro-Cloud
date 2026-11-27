@@ -1,0 +1,169 @@
+<Root>
+  <DefaultMacro>
+    <Major>Rock Howard Combo 1</Major>
+    <Description>Макрос позволяет выполнять комбо за Rock Howard комбинацию с оптимальным количеством урона.
+Видео демонстрации работы макроса: https://youtu.be/97MgTvd6xCs
+
+Рок Ховард один из ключевых персонажей серии Fatal Fury. Сын преступного магната Гиса Ховарда и воспитанник Терри Богарда. Его биография построена вокруг противоречия между происхождением и тем путем, который он пытается выбрать самостоятельно. После гибели отца Рок оказался под опекой Терри. Именно он стал для него наставником и фактически заменил семью. Несмотря на это, тень наследия Гиса остается частью его личности. В характере Рока заметна постоянная внутренняя борьба между спокойствием и скрытой агрессией.
+
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — Dodge
+ Z — Feint
+ V — REV Block
+
+Тестирование макроса проводились на последнем патче игры на 11.03.2026
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ.
+
+#RockFatalFuryCotw #fatalfurycotw #fatalfury</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 366 ms
+KeyDown 93 1
+Delay 5 ms
+KeyDown 15 1
+Delay 39 ms
+KeyUp 22 1
+Delay 42 ms
+KeyUp 93 1
+Delay 0 ms
+KeyUp 15 1
+Delay 25 ms
+KeyDown 22 1
+Delay 49 ms
+KeyDown 4 1
+Delay 64 ms
+KeyDown 93 1
+Delay 0 ms
+KeyDown 15 1
+Delay 14 ms
+KeyUp 22 1
+Delay 41 ms
+KeyUp 93 1
+Delay 0 ms
+KeyUp 15 1
+Delay 7 ms
+KeyUp 4 1
+Delay 60 ms
+KeyDown 93 1
+Delay 0 ms
+KeyDown 15 1
+Delay 61 ms
+KeyUp 93 1
+Delay 0 ms
+KeyUp 15 1
+Delay 728 ms
+KeyDown 22 1
+Delay 36 ms
+KeyDown 4 1
+Delay 43 ms
+KeyUp 22 1
+Delay 3 ms
+KeyDown 97 1
+Delay 0 ms
+KeyDown 19 1
+Delay 38 ms
+KeyUp 4 1
+Delay 23 ms
+KeyUp 97 1
+Delay 0 ms
+KeyUp 19 1
+Delay 72 ms
+KeyDown 89 1
+Delay 0 ms
+KeyDown 13 1
+Delay 930 ms
+KeyUp 89 1
+Delay 0 ms
+KeyUp 13 1
+Delay 340 ms
+KeyDown 89 1
+Delay 0 ms
+KeyDown 13 1
+Delay 396 ms
+KeyUp 89 1
+Delay 1 ms
+KeyUp 13 1
+Delay 292 ms
+KeyDown 22 1
+Delay 61 ms
+KeyDown 7 1
+Delay 38 ms
+KeyUp 22 1
+Delay 79 ms
+KeyUp 7 1
+Delay 25 ms
+KeyDown 22 1
+Delay 73 ms
+KeyDown 7 1
+Delay 67 ms
+KeyDown 4 1
+Delay 31 ms
+KeyUp 7 1
+Delay 31 ms
+KeyUp 22 1
+Delay 53 ms
+KeyDown 93 1
+Delay 0 ms
+KeyDown 15 1
+Delay 38 ms
+KeyUp 4 1
+Delay 68 ms
+KeyUp 93 1
+Delay 0 ms
+KeyUp 15 1
+Delay 787 ms
+KeyDown 92 1
+Delay 0 ms
+KeyDown 18 1
+Delay 91 ms
+KeyUp 92 1
+Delay 0 ms
+KeyUp 18 1
+Delay 262 ms
+KeyDown 7 1
+Delay 67 ms
+KeyDown 22 1
+Delay 12 ms
+KeyUp 7 1
+Delay 56 ms
+KeyDown 7 1
+Delay 37 ms
+KeyUp 22 1
+Delay 9 ms
+KeyDown 93 1
+Delay 0 ms
+KeyDown 15 1
+Delay 32 ms
+KeyUp 7 1
+Delay 29 ms
+KeyUp 93 1
+Delay 0 ms
+KeyUp 15 1</Syntax>
+    </KeyDown>
+    <Software>FATAL FURY: City of the Wolves</Software>
+  </DefaultMacro>
+</Root>

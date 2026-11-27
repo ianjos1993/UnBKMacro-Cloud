@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major>1</Major>
+    <Description>Este é um teste de bot pra upar em Narrom com o Maicon Nestor Fillagranna.
+Basicamente ele vai pra frente, ataca o cara mais próximo e volta para o local original, deixando o DPS atacar o mob, espera o tempo de respawn e faz de novo.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 9 s
+KeyUp 26 1
+KeyDown 43 1
+Delay 120 ms
+KeyUp 43 1
+Delay 20 ms
+KeyDown 44 1
+Delay 98 ms
+KeyUp 44 1
+Delay 1243 ms
+KeyDown 22 1
+Delay 16 s
+KeyUp 22 1
+Delay 747 ms
+KeyDown 67 1
+Delay 115 ms
+KeyUp 67 1
+Delay 10 s
+KeyDown 27 1
+Delay 200 s
+KeyUp 27 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 2 s
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>RF-Online</Software>
+  </DefaultMacro>
+</Root>

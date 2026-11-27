@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Забиндите макрос на любую вам удобную кнопку и подойдите к дереву. После того как подошли, запускаете макрос и ждете, макрос для деревьев маленькой или средней ширины. Разрешение экрана любое</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 135 ms
+LeftDown 1
+Delay 13440 ms
+LeftUp 1
+Delay 1919 ms
+WheelUp 1
+Delay 815 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Sons Of The Forest</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для фарма зп, опта, да и в принциппе применим во многих задачах, главное ваша фантазия
+
+фпс не важно, разрешение в прицнипе тоже </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 601181 ms
+KeyDown 90 1
+Delay 600079 ms
+KeyUp 90 1
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

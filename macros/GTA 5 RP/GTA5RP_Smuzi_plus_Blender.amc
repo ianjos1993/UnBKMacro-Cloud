@@ -1,0 +1,590 @@
+<Root>
+  <DefaultMacro>
+    <Major>GTA 5 RP Автоматическое приготовление рагу с помощью блендера и холодильника.Без отходов</Major>
+    <Description>Макрос полностью автоматизирован и не требует вмешательства во время работы. ДЛЯ GTA 5 RP.
+Он последовательно:
+
+открывает холодильник
+
+берёт овощи из нужного слота
+
+готовит рагу в блендере
+
+складывает готовый продукт обратно в холодильник
+
+Все действия выполняются с увеличенными задержками, что снижает риск срыва камеры и сбоев интерфейса. При необходимости тайминги можно настроить под себя.
+ ВАЖНЫЕ НАСТРОЙКИ
+
+Клавиша открытия инвентаря: U
+(если у вас другая - измените её в настройках игры или в коде макроса)
+
+Режим экрана: оконный без рамки
+
+Соотношение сторон: 16:9
+
+Разрешение: 1920×1080
+
+ ПОДГОТОВКА ПЕРЕД ЗАПУСКОМ
+
+Подготовьте источник воды - без него не будет работать.
+
+Откройте холодильник.
+
+Разложите овощи в первые 6 слотов холодильника — по 40 единиц в каждый слот.
+
+Закройте холодильник.
+
+В первый слот инвентаря положите блендер.
+
+Закройте инвентарь.
+
+Встаньте ровно перед холодильником.
+
+Запустите макрос.
+
+ КАК РАБОТАЕТ МАКРОС
+
+Каждый слот овощей обрабатывается отдельным циклом.
+
+После завершения одного слота макрос автоматически переходит к следующему.
+
+Общий расчёт макроса - 240 единиц рагу (6 слотов × 40).
+
+ ВРЕМЯ ВЫПОЛНЕНИЯ
+
+40 рагу ≈ 5.5 минут
+
+Полный цикл (240 рагу) ≈ около 35 минут
+
+ ДОПОЛНИТЕЛЬНО
+
+При желании макрос можно адаптировать под шкаф вместо холодильника и, после небольшой доработки кода, получать значительно больше продукции.
+
+Код написан максимально понятно и подробно прокомментирован - каждая операция подписана, что облегчает настройку и редактирование.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 280 ms
+KeyUp 8 1
+Delay 280 ms
+MoveTo 1032 403
+//перемещаю 43 овощей
+Delay 280 ms
+KeyDown 225 1
+Delay 280 ms
+RightDown 1
+Delay 280 ms
+RightUp 1
+Delay 280 ms
+KeyUp 225 1
+Delay 280 ms
+KeyDown 41 1
+Delay 280 ms
+KeyUp 41 1
+//закрываю меню холодильника
+Delay 280 ms
+KeyDown 24 1
+//захожу в инвентарь
+Delay 280 ms
+KeyUp 24 1
+Delay 330 ms
+MoveTo 1494 271
+Delay 330 ms
+LeftDown 1
+Delay 400 ms
+LeftUp 1
+Delay 400 ms
+MoveTo 1494 331
+Delay 400 ms
+LeftDown 1
+Delay 400 ms
+LeftUp 1
+Delay 280 ms
+Delay 400 ms
+//Открыл блендер
+//начинаю делать рагу
+MoveTo 1075 289
+Delay 280 ms
+RightDown 1
+Delay 280 ms
+RightUp 1
+Delay 280 ms
+MoveTo 1164 291
+Delay 280 ms
+RightDown 1
+Delay 280 ms
+RightUp 1
+Delay 280 ms
+MoveTo 868 574
+Delay 280 ms
+RightDown 1
+Delay 280 ms
+RightUp 1
+Delay 280 ms
+MoveTo 827 676
+Delay 280 ms
+LeftDown 1
+Delay 280 ms
+LeftUp 1
+Delay 280 ms
+Delay 5100 ms
+//рагу готово
+GoWhile 40 2
+Delay 265 ms
+KeyDown 41 1
+//закрывает блендер
+Delay 280 ms
+KeyUp 41 1
+Delay 280 ms
+KeyDown 8 1
+//открываем холодильник
+Delay 280 ms
+KeyUp 8 1
+Delay 280 ms
+MoveTo 616 403
+//перемещаем рагу в холодильник
+Delay 280 ms
+KeyDown 225 1
+Delay 280 ms
+RightDown 1
+Delay 280 ms
+RightUp 1
+Delay 280 ms
+KeyUp 225 1
+Delay 280 ms
+//перемещаем второй слот овощей
+MoveTo 1115 408
+Delay 280 ms
+KeyDown 225 1
+Delay 280 ms
+RightDown 1
+Delay 280 ms
+RightUp 1
+Delay 280 ms
+KeyUp 225 1
+Delay 280 ms
+KeyDown 41 1
+Delay 280 ms
+KeyUp 41 1
+//закрываю меню холодильника
+Delay 280 ms
+KeyDown 24 1
+//захожу в инвентарь
+Delay 280 ms
+KeyUp 24 1
+Delay 400 ms
+MoveTo 1494 271
+Delay 400 ms
+LeftDown 1
+Delay 400 ms
+LeftUp 1
+Delay 400 ms
+MoveTo 1494 331
+Delay 400 ms
+LeftDown 1
+Delay 400 ms
+LeftUp 1
+Delay 280 ms
+Delay 400 ms
+//Открыл блендер
+//начинаю делать рагу
+MoveTo 1075 289
+Delay 280 ms
+RightDown 1
+Delay 280 ms
+RightUp 1
+Delay 280 ms
+MoveTo 1164 291
+Delay 280 ms
+RightDown 1
+Delay 280 ms
+RightUp 1
+Delay 280 ms
+MoveTo 868 574
+Delay 280 ms
+RightDown 1
+Delay 280 ms
+RightUp 1
+Delay 280 ms
+MoveTo 827 676
+Delay 280 ms
+LeftDown 1
+Delay 280 ms
+LeftUp 1
+Delay 280 ms
+Delay 5100 ms
+//рагу готово
+GoWhile 125 2
+Delay 265 ms
+KeyDown 41 1
+//закрывает блендер
+Delay 280 ms
+KeyUp 41 1
+Delay 280 ms
+KeyDown 8 1
+//открываем холодильник
+Delay 280 ms
+KeyUp 8 1
+Delay 280 ms
+MoveTo 616 403
+//перемещаем рагу в холодильник
+Delay 280 ms
+KeyDown 225 1
+Delay 280 ms
+RightDown 1
+Delay 280 ms
+RightUp 1
+Delay 280 ms
+KeyUp 225 1
+Delay 280 ms
+//перемещаем третий слот овощей
+MoveTo 1204 404
+KeyDown 225 1
+Delay 280 ms
+RightDown 1
+Delay 280 ms
+RightUp 1
+Delay 280 ms
+KeyUp 225 1
+Delay 280 ms
+KeyDown 41 1
+Delay 280 ms
+KeyUp 41 1
+//закрываю меню холодильника
+Delay 280 ms
+KeyDown 24 1
+//захожу в инвентарь
+Delay 280 ms
+KeyUp 24 1
+Delay 330 ms
+MoveTo 1494 271
+Delay 400 ms
+LeftDown 1
+Delay 400 ms
+LeftUp 1
+Delay 400 ms
+MoveTo 1494 331
+Delay 400 ms
+LeftDown 1
+Delay 400 ms
+LeftUp 1
+Delay 280 ms
+Delay 400 ms
+//Открыл блендер
+MoveTo 1075 289
+Delay 280 ms
+RightDown 1
+Delay 280 ms
+RightUp 1
+Delay 280 ms
+MoveTo 1164 291
+Delay 280 ms
+RightDown 1
+Delay 280 ms
+RightUp 1
+Delay 280 ms
+MoveTo 868 574
+Delay 280 ms
+RightDown 1
+Delay 280 ms
+RightUp 1
+Delay 280 ms
+MoveTo 827 676
+Delay 280 ms
+LeftDown 1
+Delay 280 ms
+LeftUp 1
+Delay 280 ms
+Delay 5100 ms
+//рагу готово
+GoWhile 208 2
+Delay 265 ms
+KeyDown 41 1
+//закрывает блендер
+Delay 280 ms
+KeyUp 41 1
+Delay 280 ms
+KeyDown 8 1
+//открываем холодильник
+Delay 280 ms
+KeyUp 8 1
+Delay 280 ms
+MoveTo 616 403
+//перемещаем рагу в холодильник
+Delay 280 ms
+KeyDown 225 1
+Delay 280 ms
+RightDown 1
+Delay 280 ms
+RightUp 1
+Delay 280 ms
+KeyUp 225 1
+Delay 280 ms
+Delay 280 ms
+//перемещаем 4 слот овощей
+MoveTo 1295 406
+KeyDown 225 1
+Delay 280 ms
+RightDown 1
+Delay 280 ms
+RightUp 1
+Delay 280 ms
+KeyUp 225 1
+Delay 280 ms
+KeyDown 41 1
+Delay 280 ms
+KeyUp 41 1
+//закрываю меню холодильника
+Delay 280 ms
+KeyDown 24 1
+//захожу в инвентарь
+Delay 280 ms
+KeyUp 24 1
+Delay 400 ms
+MoveTo 1494 271
+Delay 400 ms
+LeftDown 1
+Delay 400 ms
+LeftUp 1
+Delay 400 ms
+MoveTo 1494 331
+Delay 400 ms
+LeftDown 1
+Delay 400 ms
+LeftUp 1
+Delay 280 ms
+Delay 400 ms
+//Открыл блендер
+//начинаю делать рагу
+MoveTo 1075 289
+Delay 280 ms
+RightDown 1
+Delay 280 ms
+RightUp 1
+Delay 280 ms
+MoveTo 1164 291
+Delay 280 ms
+RightDown 1
+Delay 280 ms
+RightUp 1
+Delay 280 ms
+MoveTo 868 574
+Delay 280 ms
+RightDown 1
+Delay 280 ms
+RightUp 1
+Delay 280 ms
+MoveTo 827 676
+Delay 280 ms
+LeftDown 1
+Delay 280 ms
+LeftUp 1
+Delay 280 ms
+Delay 5100 ms
+//рагу готово
+GoWhile 293 40
+Delay 265 ms
+KeyDown 41 1
+//закрывает блендер
+Delay 280 ms
+KeyUp 41 1
+Delay 280 ms
+KeyDown 8 1
+//открываем холодильник
+Delay 280 ms
+KeyUp 8 1
+Delay 280 ms
+MoveTo 616 403
+//перемещаем рагу в холодильник
+Delay 280 ms
+KeyDown 225 1
+Delay 280 ms
+RightDown 1
+Delay 280 ms
+RightUp 1
+Delay 280 ms
+KeyUp 225 1
+Delay 280 ms
+//перемещаем 5 слот овощей
+MoveTo 1379 407
+Delay 280 ms
+KeyDown 225 1
+Delay 280 ms
+RightDown 1
+Delay 280 ms
+RightUp 1
+Delay 280 ms
+KeyUp 225 1
+Delay 280 ms
+KeyDown 41 1
+Delay 280 ms
+KeyUp 41 1
+//закрываю меню холодильника
+Delay 280 ms
+KeyDown 24 1
+Delay 265 ms
+//захожу в инвентарь
+Delay 280 ms
+KeyUp 24 1
+Delay 400 ms
+MoveTo 1494 271
+Delay 400 ms
+LeftDown 1
+Delay 400 ms
+LeftUp 1
+Delay 400 ms
+MoveTo 1494 331
+Delay 400 ms
+LeftDown 1
+Delay 400 ms
+LeftUp 1
+Delay 280 ms
+Delay 400 ms
+//Открыл блендер
+//начинаю делать рагу
+MoveTo 1075 289
+Delay 280 ms
+RightDown 1
+Delay 280 ms
+RightUp 1
+Delay 280 ms
+MoveTo 1164 291
+Delay 280 ms
+RightDown 1
+Delay 280 ms
+RightUp 1
+Delay 280 ms
+MoveTo 868 574
+Delay 280 ms
+RightDown 1
+Delay 280 ms
+RightUp 1
+Delay 280 ms
+MoveTo 827 676
+Delay 280 ms
+LeftDown 1
+Delay 280 ms
+LeftUp 1
+Delay 280 ms
+Delay 5100 ms
+//рагу готово
+GoWhile 379 40
+KeyDown 41 1
+//закрывает блендер
+Delay 280 ms
+KeyUp 41 1
+Delay 280 ms
+KeyDown 8 1
+//открываем холодильник
+Delay 280 ms
+KeyUp 8 1
+Delay 280 ms
+MoveTo 616 403
+//перемещаем рагу в холодильник
+Delay 280 ms
+KeyDown 225 1
+Delay 280 ms
+RightDown 1
+Delay 280 ms
+RightUp 1
+Delay 280 ms
+KeyUp 225 1
+Delay 280 ms
+//перемещаем 6 слот овощей
+MoveTo 1469 403
+Delay 280 ms
+KeyDown 225 1
+Delay 280 ms
+RightDown 1
+Delay 280 ms
+RightUp 1
+Delay 280 ms
+KeyUp 225 1
+Delay 280 ms
+KeyDown 41 1
+Delay 280 ms
+KeyUp 41 1
+//закрываю меню холодильника
+Delay 280 ms
+KeyDown 24 1
+Delay 265 ms
+//захожу в инвентарь
+Delay 280 ms
+KeyUp 24 1
+Delay 400 ms
+MoveTo 1494 271
+Delay 400 ms
+LeftDown 1
+Delay 400 ms
+LeftUp 1
+Delay 400 ms
+MoveTo 1494 331
+Delay 400 ms
+LeftDown 1
+Delay 400 ms
+LeftUp 1
+Delay 600 ms
+//Открыл блендер
+//начинаю делать рагу
+MoveTo 1075 289
+Delay 280 ms
+RightDown 1
+Delay 280 ms
+RightUp 1
+Delay 280 ms
+MoveTo 1164 291
+Delay 280 ms
+RightDown 1
+Delay 280 ms
+RightUp 1
+Delay 280 ms
+MoveTo 868 574
+Delay 280 ms
+RightDown 1
+Delay 280 ms
+RightUp 1
+Delay 280 ms
+MoveTo 827 676
+Delay 280 ms
+LeftDown 1
+Delay 280 ms
+LeftUp 1
+Delay 280 ms
+Delay 5100 ms
+//рагу готово
+GoWhile 463 40
+KeyDown 41 1
+//закрывает блендер
+Delay 280 ms
+KeyUp 41 1
+Delay 280 ms
+KeyDown 8 1
+//открываем холодильник
+Delay 280 ms
+KeyUp 8 1
+Delay 280 ms
+MoveTo 616 403
+//перемещаем рагу в холодильник
+Delay 280 ms
+KeyDown 225 1
+Delay 280 ms
+RightDown 1
+Delay 280 ms
+RightUp 1
+Delay 280 ms
+KeyUp 225 1
+Delay 280 ms
+KeyDown 41 1
+Delay 135 ms
+KeyUp 41 1
+Delay 135 ms</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

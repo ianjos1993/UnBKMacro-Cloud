@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major>New Python recoil</Major>
+    <Description>New Automatic Python with low sens, No Recoil (standing or crouch) accuracy 99-100%
+Reccomend to use it not like Rambo or someone can report you
+support me and enjoy!
+
+BlackMamba
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 20 ms
+MoveR 0 105
+LeftUp 1
+MoveR 0 0
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

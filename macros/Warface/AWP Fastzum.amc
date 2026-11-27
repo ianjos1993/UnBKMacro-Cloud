@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Авто фаст зум для снайперской винтовки AWP в варфейс с учётом скорости входа в прицел. От вас требуется только навестись на противника и нажать установленную на макрос кнопку. Далее за вас автоматически будет произведён вход в прицел и дальнейший выстрел при полной стабилизации.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 64
+RightUp 1
+Delay 285 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Warface</Software>
+  </DefaultMacro>
+</Root>

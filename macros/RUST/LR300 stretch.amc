@@ -1,0 +1,61 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос на Lr 300 для раста, сделан под зажим сидя, разрешение 2080*1440, FOV 90 и чувствительность 0.9 во всех трех пунктах</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+MoveR -2 3
+Delay 64
+MoveR -2 3
+Delay 37 ms
+MoveR -3 3
+Delay 28 ms
+MoveR -3 4
+Delay 36 ms
+MoveR -3 3
+Delay 33 ms
+MoveR -3 3
+Delay 33 ms
+MoveR -3 4
+Delay 33 ms
+MoveR 2 5
+Delay 28 ms
+MoveR 2 3
+Delay 33 ms
+MoveR 3 4
+Delay 33 ms
+MoveR 3 4
+Delay 33 ms
+MoveR 3 3
+Delay 33 ms
+MoveR 3 4
+Delay 33 ms
+MoveR 0 3
+Delay 33 ms
+MoveR -3 4
+Delay 33 ms
+MoveR -4 3
+Delay 33 ms
+MoveR -5 3
+Delay 33 ms
+MoveR 0 4
+Delay 33 ms
+MoveR 3 2
+Delay 33 ms
+MoveR 3 2
+Delay 33 ms
+MoveR -6 3
+Delay 33 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

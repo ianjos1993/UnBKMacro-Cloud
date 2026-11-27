@@ -1,0 +1,62 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для игры TSB, макрос выполняет технику kakyo tech, для его использования важно:пинг 70-90, фпс 120-240, расзрешение экрана-1980x1080, для большего удобства, желательно чтобы у противника был пинг 90 и чтобы сервер был без лагов.Все что вам надо сделать-подойти к противнику и активировать макрос, если же вы немного не успеваете-просто поменяйте задержку на первую атаку в макросе</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+MoveR 80 -15
+Delay 64
+MoveR -26 -170
+Delay 64
+MoveR -550 -80
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Короче, это макрос который позволяет бхопить с кфг для бхопа ( это не читы кто не понял ).
+Сначала пишем в консольке bind "c" toggle fps_max 0 64, и так мы меняем фпс с неограниченного на 64 и наоборот (Вместо буквы "c" можно писать "Space", но не факт что будет работать.  
+
+Ставим этот макрос на пробел (space), и теперь зажимаем пробел, и просто бхопим без остановки. 
+
+Если что, гайд на кфг для бхопа будет в браузере (Стим комьюнити), сайт будет начинаться на ГАЙД НА BHOP В КС 2.
+
+
+
+УДАЧИ!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>WheelDown 1
+Delay 2 ms</Syntax>
+    </KeyDown>
+    <Software>Counter-Strike 2</Software>
+  </DefaultMacro>
+</Root>

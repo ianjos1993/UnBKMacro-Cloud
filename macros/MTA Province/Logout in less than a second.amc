@@ -1,0 +1,54 @@
+<Root>
+  <DefaultMacro>
+    <Major>Ivanushka001</Major>
+    <Description>Устали вводить команду "/logout"?
+Представляю Вам специальный макрос, который сам введет команду менее чем за секунду!
+Если будет экстренная ситуация в которой срочно нужно будет ввести команду Вам нужно будет просто нажать комбинацию клавиш для активации макроса и он сам её введет.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1 ms
+KeyDown 23 1
+Delay 10 ms
+KeyUp 23 1
+Delay 10 ms
+KeyDown 56 1
+Delay 10 ms
+KeyUp 56 1
+Delay 10 ms
+KeyDown 15 1
+Delay 10 ms
+KeyUp 15 1
+Delay 10 ms
+KeyDown 18 1
+Delay 10 ms
+KeyUp 18 1
+Delay 10 ms
+KeyDown 10 1
+Delay 10 ms
+KeyUp 10 1
+Delay 10 ms
+KeyDown 18 1
+Delay 10 ms
+KeyUp 18 1
+Delay 10 ms
+KeyDown 24 1
+Delay 10 ms
+KeyDown 23 1
+Delay 10 ms
+KeyUp 24 1
+Delay 10 ms
+KeyUp 23 1
+Delay 10 ms
+KeyDown 88 1
+Delay 10 ms
+KeyUp 88 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

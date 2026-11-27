@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для быстрого и безконечного бега,
+использет команды скольжения прыжка и двойного нажатия шифта всего лишь на одну кнопку,
+За это не баняь сто процентов, Сам использую его уже месяц.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+Delay 72 ms
+KeyUp 6 1
+Delay 450 ms
+KeyDown 6 1
+Delay 64
+KeyUp 6 1
+Delay 64
+KeyDown 44 1
+Delay 45 ms
+KeyUp 44 1
+Delay 64
+KeyDown 225 1
+Delay 70 ms
+KeyUp 225 1
+Delay 64
+KeyDown 225 1
+Delay 64
+KeyUp 225 1
+Delay 64
+KeyDown 225 1
+Delay 64
+KeyUp 225 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Call of Duty WarZone</Software>
+  </DefaultMacro>
+</Root>

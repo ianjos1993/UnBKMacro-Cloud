@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Еще один тип стройки 
+Инструкция: 1.Встаете в край блока 2. Поворачиваете экран вниз и чуть в влево чтоб блок соприкасался с блоком 3. берете тайминг 4. и стройтесь</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 0 ms
+KeyDown 22 1
+Delay 0 ms
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 600 ms
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

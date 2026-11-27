@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>Фарм продажи и постановки башен на сервере mainmayhem.ru</Major>
+    <Description>автоматически ставит продает башни для фарма достижений на сервере тавер дефенс для работы скрипта встаньте над местом постановления башни и разрешение экрана 1920x1080</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 200 ms
+RightUp 1
+Delay 200 ms
+MoveTo 815 429
+Delay 200 ms
+RightDown 1
+Delay 200 ms
+RightUp 1
+Delay 200 ms
+RightDown 1
+Delay 200 ms
+RightUp 1
+Delay 200 ms
+MoveTo 1111 450
+RightDown 1
+Delay 200 ms
+RightUp 1
+Delay 200 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

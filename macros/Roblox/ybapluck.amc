@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major>YBA REBORN Pluck</Major>
+    <Description>Ломай блок врагов одним нажатием!
+
+Этот мощный макрос для Your Bizarre Adventure REBORN автоматизирует пробив блока у ближайшего противника. Просто ЗАЖМИТЕ Mouse4 (боковую кнопку мыши), и скрипт мгновенно активирует Z + B, ломая блок оппонента!</Description>
+    <Comment>МАКРОС ДЛЯ YBA REBORN! НЕ ДЛЯ ОРИГИНАЛЬНОЙ YBA!</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 32 ms
+KeyUp 29 1
+Delay 32 ms
+KeyDown 5 1
+Delay 32 ms
+KeyUp 5 1
+Delay 32 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

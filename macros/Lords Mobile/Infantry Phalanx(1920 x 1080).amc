@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Обычное быстрое преключение на пехотную фалангу, разрешение 1920х1080
+
+Работает и на обычной, и на стимовской версии игры в полноэкранном режиме
+
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 94 136
+LeftDown 1
+LeftUp 1
+Delay 150 ms
+MoveTo 129 934
+LeftDown 1
+LeftUp 1
+Delay 160 ms
+MoveTo 406 820
+LeftDown 1
+LeftUp 1
+Delay 85 ms
+MoveTo 1471 901
+LeftDown 1
+LeftUp 1
+Delay 900 ms
+MoveTo 1854 67
+LeftDown 1
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Lords Mobile</Software>
+  </DefaultMacro>
+</Root>

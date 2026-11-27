@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>работает со сменой 50% и берет. если нет берета, то увеличьте задержку после кнопки Q(где стоит 300) до 440мс
+и в модификаторе поставьте чтоб работало пока клавиша зажата( бегаете с зажатой клавишей и при наведении на противника, произойдет выстрел)
+разрешение экрана 1920х1080 на 200 фпс (лично у меня так)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 4 2 170,0,1 247,0,0 2 423 122 999 489 1 0
+GoColor 4 2 251,0,16 148,6,2 2 900 401 102 178 5 236
+Goto 1
+LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 15 ms
+KeyDown 20 1
+Delay 7 ms
+KeyUp 20 1
+Delay 3 ms
+KeyDown 20 1
+Delay 7 ms
+KeyUp 20 1
+Delay 300 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

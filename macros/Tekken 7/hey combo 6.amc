@@ -1,0 +1,227 @@
+<Root>
+  <DefaultMacro>
+    <Major>Heihachi Howard Estate wall combo</Major>
+    <Description>Макрос позволяет выполнять Howard Estate combo за Heihachi.
+Видео демонстрации работы макроса: https://youtu.be/5ZH0O42HCCs
+
+Хейхачи — умный, проницательный бизнесмен, харизматичный и превосходно манипулирующий другими. Его чувство юмора часто носит садистский характер, и другим иногда трудно понять, шутит ли Хейхачи или говорит серьезно. Однажды он заявил, что Кума (медведь) унаследует «Мишима Дзайбацу», а не кто-то из его родственников. Кроме этого, к примеру, он обнаружив на одном из своих кораблей молодого безбилетного пассажира Сяоюй, был настолько удивлен ее просьбой, что построил для нее тематический парк, а также взял ее под опеку Мишима Дзайбацу. Его чувство юмора также можно увидеть во многих его концовках и диалогах Сценарной кампании. У Хейхачи заметно жестокая черта: от сброса пятилетнего сына со скалы до заказа убийства своих бывших сотрудников. Он держал своего отца в тюрьме в течение многих лет, пока, наконец, тот не умер от голода, а позже практически чуть не убил свою жену (хотя и в порядке самообороны), пытался застрелить своего внука и часто прибегал к похищениям, убийствам и физическому запугиванию.
+
+Тестирование макроса проводились на последнем патче игры на 12.11.2023 (5.01 патч)
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#heihachitekken7 #tekken7 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 47 ms
+KeyDown 74 1
+Delay 127 ms
+KeyUp 74 1
+Delay 879 ms
+KeyUp 4 1
+Delay 223 ms
+KeyDown 22 1
+Delay 31 ms
+KeyDown 7 1
+Delay 48 ms
+KeyDown 74 1
+Delay 7 ms
+KeyUp 22 1
+Delay 63 ms
+KeyUp 7 1
+Delay 24 ms
+KeyUp 74 1
+Delay 72 ms
+KeyDown 7 1
+Delay 7 ms
+KeyDown 4 1
+Delay 24 ms
+KeyUp 7 1
+Delay 863 ms
+KeyUp 4 1
+Delay 152 ms
+KeyDown 22 1
+Delay 39 ms
+KeyDown 7 1
+Delay 39 ms
+KeyUp 22 1
+Delay 24 ms
+KeyDown 74 1
+Delay 63 ms
+KeyUp 7 1
+Delay 23 ms
+KeyUp 74 1
+Delay 71 ms
+KeyDown 7 1
+Delay 159 ms
+KeyDown 4 1
+Delay 64 ms
+KeyUp 7 1
+Delay 495 ms
+KeyUp 4 1
+Delay 280 ms
+KeyDown 73 1
+Delay 72 ms
+KeyUp 73 1
+Delay 87 ms
+KeyDown 4 1
+Delay 71 ms
+KeyUp 4 1
+Delay 64 ms
+KeyDown 4 1
+Delay 111 ms
+KeyDown 73 1
+Delay 56 ms
+KeyUp 73 1
+Delay 79 ms
+KeyDown 73 1
+Delay 72 ms
+KeyDown 74 1
+Delay 32 ms
+KeyUp 73 1
+Delay 31 ms
+KeyUp 4 1
+Delay 7 ms
+KeyUp 74 1
+Delay 80 ms
+KeyDown 7 1
+Delay 39 ms
+KeyDown 22 1
+Delay 592 ms
+KeyUp 22 1
+Delay 64 ms
+KeyUp 7 1
+Delay 151 ms
+KeyDown 7 1
+Delay 48 ms
+KeyUp 7 1
+Delay 55 ms
+KeyDown 7 1
+Delay 215 ms
+KeyUp 7 1
+Delay 39 ms
+KeyDown 22 1
+Delay 31 ms
+KeyDown 7 1
+Delay 24 ms
+KeyDown 77 1
+Delay 56 ms
+KeyUp 77 1
+Delay 55 ms
+KeyDown 77 1
+Delay 56 ms
+KeyDown 73 1
+Delay 32 ms
+KeyUp 77 1
+Delay 55 ms
+KeyUp 73 1
+Delay 55 ms
+KeyDown 73 1
+Delay 80 ms
+KeyUp 73 1
+Delay 56 ms
+KeyDown 73 1
+Delay 88 ms
+KeyUp 73 1
+Delay 39 ms
+KeyDown 73 1
+Delay 96 ms
+KeyUp 73 1
+Delay 56 ms
+KeyUp 22 1
+Delay 55 ms
+KeyUp 7 1
+Delay 24 ms
+KeyDown 4 1
+Delay 695 ms
+KeyUp 4 1
+Delay 104 ms
+KeyDown 22 1
+Delay 32 ms
+KeyDown 7 1
+Delay 87 ms
+KeyUp 22 1
+Delay 7 ms
+KeyDown 74 1
+Delay 88 ms
+KeyUp 7 1
+Delay 48 ms
+KeyUp 74 1
+Delay 55 ms
+KeyDown 7 1
+Delay 96 ms
+KeyDown 4 1
+Delay 31 ms
+KeyUp 7 1
+Delay 712 ms
+KeyUp 4 1
+Delay 303 ms
+KeyDown 4 1
+Delay 40 ms
+KeyDown 74 1
+Delay 167 ms
+KeyDown 73 1
+Delay 112 ms
+KeyUp 73 1
+Delay 41 ms
+KeyDown 73 1
+Delay 94 ms
+KeyUp 73 1
+Delay 48 ms
+KeyDown 73 1
+Delay 103 ms
+KeyUp 73 1
+Delay 40 ms
+KeyDown 73 1
+Delay 144 ms
+KeyUp 73 1
+Delay 79 ms
+KeyUp 74 1
+Delay 583 ms
+KeyUp 4 1
+Delay 151 ms
+KeyDown 7 1
+Delay 63 ms
+KeyUp 7 1
+Delay 88 ms
+KeyDown 7 1
+Delay 55 ms
+KeyUp 7 1
+Delay 55 ms
+KeyDown 7 1
+Delay 80 ms
+KeyUp 7 1
+Delay 55 ms
+KeyDown 22 1
+Delay 40 ms
+KeyDown 77 1
+Delay 120 ms
+KeyUp 77 1
+Delay 55 ms
+KeyUp 22 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 7</Software>
+  </DefaultMacro>
+</Root>

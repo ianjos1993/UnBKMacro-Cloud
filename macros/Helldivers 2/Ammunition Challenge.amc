@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Для правильной работы, меняем раскладку вызова стратогемов на стрелочки.
+
+Вызывает капсулу с боеприпасами, пополняет все виды боеприпасов, аптечек и гранат. Не стойте под местом сброса, опасно для жизни!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 35 ms
+KeyDown 81 1
+Delay 35 ms
+KeyUp 81 1
+Delay 35 ms
+KeyDown 81 1
+Delay 35 ms
+KeyUp 81 1
+Delay 35 ms
+KeyDown 82 1
+Delay 35 ms
+KeyUp 82 1
+Delay 35 ms
+KeyDown 79 1
+Delay 35 ms
+KeyUp 79 1
+Delay 35 ms
+KeyUp 224 1</Syntax>
+    </KeyDown>
+    <Software>Helldivers 2</Software>
+  </DefaultMacro>
+</Root>

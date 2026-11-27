@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>че тут писать хз</Major>
+    <Description>максрос нужен для лавакрафта. тут все легко авто отжим и чтобы не кикало на спавн тут мини анти афк система с ходом перед назад каждые 50 выстрелов. все легко просто мне нужны часы</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 64
+Delay 930 ms
+RightUp 1
+Delay 200 ms
+//Конвертированный файл макроса 15 июля 2023 05:23:01
+GoWhile 1 50
+KeyDown 26 1
+Delay 300 ms
+KeyUp 26 1
+Delay 64 ms
+KeyDown 22 1
+Delay 359 ms
+KeyUp 22 1
+Delay 64
+Goto 1
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>autobow/antiAFK</Software>
+  </DefaultMacro>
+</Root>

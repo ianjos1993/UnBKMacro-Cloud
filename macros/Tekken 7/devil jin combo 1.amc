@@ -1,0 +1,107 @@
+<Root>
+  <DefaultMacro>
+    <Major>Devil Jin Combo unbl</Major>
+    <Description>Макрос позволяет выполнять unblock combo за Devil Jin.
+Видео демонстрации работы макроса: https://youtu.be/EuSk1dtI77k
+
+Дьявол Джин — персонаж Tekken, который впервые появился в Tekken 3, но стал полностью игровым персонажем только в Tekken 5. Он является дьявольской формой Джина Казамы после того, как его поглотил эффект Дьявольского гена. Когда Ген Дьявола полностью захватывает разум Джина, он становится безумным, агрессивным, разрушительным и задумчивым дьяволом. Из его диалогов в Сценарной кампании также очевидно, что он не полностью разделяет те же воспоминания, что и Джин, но все же время от времени сохраняет определенные ощущения. Точнее, Дьявола Джина можно рассматривать скорее как сам Дьявольский ген в теле Джина, при этом Дьявол Джин смотрит на своего хозяина свысока как на кого-то безвольного и незначительного.
+
+Тестирование макроса проводились на последнем патче игры на 28.09.2023 (5.01 патч)
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#deviljintekken7 #tekken7 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 9 ms
+KeyDown 77 1
+Delay 50 ms
+KeyDown 73 1
+Delay 139 ms
+KeyUp 73 1
+Delay 9 ms
+KeyUp 77 1
+Delay 40 ms
+KeyUp 4 1
+Delay 1659 ms
+KeyDown 7 1
+Delay 70 ms
+KeyUp 7 1
+Delay 30 ms
+KeyDown 22 1
+Delay 29 ms
+KeyDown 7 1
+Delay 40 ms
+KeyDown 73 1
+Delay 49 ms
+KeyUp 22 1
+Delay 29 ms
+KeyUp 73 1
+Delay 40 ms
+KeyDown 26 1
+Delay 560 ms
+KeyUp 26 1
+Delay 40 ms
+KeyUp 7 1
+Delay 119 ms
+KeyDown 7 1
+Delay 120 ms
+KeyUp 7 1
+Delay 1600 ms
+KeyDown 22 1
+Delay 1080 ms
+KeyUp 22 1
+Delay 20 ms
+KeyDown 74 1
+Delay 60 ms
+KeyUp 74 1
+Delay 69 ms
+KeyDown 74 1
+Delay 90 ms
+KeyUp 74 1
+Delay 470 ms
+KeyDown 4 1
+Delay 50 ms
+KeyDown 7 1
+Delay 30 ms
+KeyUp 4 1
+Delay 49 ms
+KeyDown 74 1
+Delay 130 ms
+KeyUp 73 1
+Delay 50 ms
+KeyUp 74 1
+Delay 49 ms
+KeyDown 73 1
+Delay 700 ms
+KeyDown 74 1
+Delay 110 ms
+KeyUp 74 1
+Delay 129 ms
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 7</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Прыгает в тайминг после выстрела. Необходимо взять гранатомет, навестись мышкой и нажать на горячую клавишу. В макросе используется ПКМ как выстрел и SPACE (пробел) как прыжок. </Description>
+    <Comment>К примеру можно забиндить макрос на боковую клавишу и легко проходить такие карты как run_blue. </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 34 ms
+RightDown 1
+Delay 151 ms
+RightUp 1
+Delay 94 ms
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>DDnet</Software>
+  </DefaultMacro>
+</Root>

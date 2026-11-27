@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major>Ваш персонаж ускоряется автоматически</Major>
+    <Description>Данный макрос предназначен для автобега. достаточно нажать одну кнопку и ваш персонаж бежит самостоятельно
+Приятного использования!!!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 224 1
+Delay 64
+KeyUp 224 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 224 1
+Delay 64
+KeyUp 224 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

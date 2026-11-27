@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>this macro will help you with single floor of tower, like in title
+U NEED TO BIND:
+wall-f1
+stairs-f3
+toutorial
+hold left mouse button to place walls around you, next wait for automatic jump, and click under you for stairs</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 58 1
+Delay 20 ms
+KeyUp 58 1
+Delay 200 ms
+KeyDown 60 1
+Delay 20 ms
+KeyUp 60 1
+Delay 20 ms
+KeyDown 44 1
+Delay 70 ms
+KeyUp 44 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

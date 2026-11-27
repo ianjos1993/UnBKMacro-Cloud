@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Set edit to /.
+7ms fast edit invisible wall. ms is changable and 7 is recommended, going under wont register. Мир!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 7 ms
+KeyDown 56 1
+Delay 7
+KeyUp 56 1
+Delay 7
+LeftDown 1
+Delay 7
+LeftUp 1
+Delay 7
+KeyDown 56 1
+Delay 7
+KeyUp 56 1
+Delay 7
+LeftDown 1
+Delay 7
+LeftUp 1
+Delay 7
+GoWhile 1 500</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

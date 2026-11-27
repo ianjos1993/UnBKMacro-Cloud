@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный прокаст создан на идеальный ульт на Shadow fiend через blink+eul
+Кнопка Блинка Space(можно заменить)
+Кнопка Еула TAB (можно заменить)
+Кнопки Койлов QWE(можно заменить)
+После реквиема, задержа  примерно в 1 секунду так что койлы могут даваться чуть позже чем надо.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 799 ms
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 600 ms
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

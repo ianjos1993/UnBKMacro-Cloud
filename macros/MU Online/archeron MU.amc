@@ -1,0 +1,112 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для авторесета и подхода на спот для х5000 сервера для 2 окон, при установке следует проиасать в чате /reset, ибо скрипт берёт последнее написаное сообщение, разрешение экрана 1280х720 16х9 Winows mode</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 10 s
+KeyDown 88 1
+KeyUp 88 1
+Delay 1 s
+KeyDown 82 1
+KeyUp 82 1
+Delay 1 s
+KeyDown 88 1
+KeyUp 88 1
+Delay 3 s
+KeyDown 16 1
+Delay 100 ms
+KeyUp 16 1
+Delay 1 s
+MoveTo 276 510
+Delay 500 ms
+LeftDown 1
+LeftUp 1
+Delay 2 s
+MoveTo 858 641
+Delay 100 ms
+LeftDown 1
+Delay 1 s
+LeftUp 1
+MoveTo 1171 714
+LeftDown 1
+Delay 1 s
+LeftUp 1
+MoveTo 677 665
+LeftDown 1
+Delay 2 s
+LeftUp 1
+MoveTo 292 487
+LeftDown 1
+Delay 2 s
+LeftUp 1
+MoveTo 894 674
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+MoveTo 383 677
+Delay 1 s
+LeftDown 1
+Delay 1 s
+LeftUp 1
+Delay 1 s
+KeyDown 74 1
+Delay 100
+KeyUp 74 1
+Delay 100
+KeyDown 74 1
+Delay 100
+KeyUp 74 1
+Delay 100
+MiddleDown 1
+Delay 100
+MiddleUp 1
+Delay 1 s
+KeyDown 74 1
+Delay 100 ms
+KeyUp 74 1
+Delay 3 s
+//Смена героя
+KeyDown 226 1
+KeyDown 43 1
+Delay 300 ms
+KeyUp 226 1
+KeyUp 43 1
+Delay 1 s
+KeyDown 88 1
+KeyUp 88 1
+Delay 1 s
+Delay 100 ms
+KeyDown 82 1
+KeyUp 82 1
+Delay 1 s
+KeyDown 88 1
+KeyUp 88 1
+Delay 3 s
+MoveTo 1323 254
+Delay 1 s
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 2 s
+KeyDown 88 1
+Delay 100 ms
+KeyUp 88 1
+Delay 3 s
+KeyDown 226 1
+KeyDown 43 1
+Delay 300 ms
+KeyUp 226 1
+KeyUp 43 1
+Delay 5 min
+GoWhile 2 200</Syntax>
+    </KeyDown>
+    <Software>MU Online</Software>
+  </DefaultMacro>
+</Root>

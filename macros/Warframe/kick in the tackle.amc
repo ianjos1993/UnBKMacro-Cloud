@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на удар в подкате. Не знаю, у кого возникают проблемы с этим, но очень много народу жаловалось, что ооооооочень неудобно играть через удар в подкате. Специально для ВАС, ребята, пользуйтесь.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 400 ms
+KeyDown 224 1
+Delay 100 ms
+KeyDown 8 1
+Delay 400 ms
+KeyUp 8 1
+KeyUp 224 1
+KeyUp 26 1
+Delay 400 ms</Syntax>
+    </KeyDown>
+    <Software>Warframe</Software>
+  </DefaultMacro>
+</Root>

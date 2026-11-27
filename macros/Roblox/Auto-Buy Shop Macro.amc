@@ -1,0 +1,353 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Режим - Defense Your Castle
+
+Разрешение 1920х1080.
+
+Данный макрос при включении телепортирует вас к магазину, заходит в него и скупает все башни за исключением самых дорогих по цене 100м и 500м и первых самых дешевых (в силу того что прокачиваться засчет первых шести башен просто невыгодно) - и конечно же скупает стены ибо их нужно очень много для прокачки
+
+Макрос достаточно простой для понимания и собственного редактирования, сделан с комментариями что после чего покупается, при желании можно персонально настроить его под себя и покупать только те башни которые вам нужны.  
+
+Не рекомендую уменьшать по времени задержки в макросе, поскольку роблокс может не успеть прочитать касание или телепорт курсора в определенное место.
+
+Магазин обновляется каждые 5 минут, и макрос успевает пройтись по всему магазину 2 раза, да бы исключить возможность того, что макрос не успеет что либо купить до следующего обновления магазина.
+
+(От себя: Не ставьте авто-зачаровывание какой либо башни параллельно с включенным макросом (если например вы оставляете макрос включенным на долгое время, например на ночь), на своем опыте каждый раз наблюдал картину что по истечению какого либо времени игра открывала меню зачарований и макрос вместо скупки магазина просто зачаровывал случайные башни = тратил деньги)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1471 254
+MoveR 1 1 5 5
+//TELEPORT AND OPENING SHOP (IF RECONNECT)
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+KeyDown 8 1
+Delay 500 ms
+KeyUp 8 1
+Delay 3 s
+MoveTo 774 350
+MoveR 1 1 2 2
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+WheelUp 1
+Delay 500 ms
+WheelUp 1
+Delay 500 ms
+WheelUp 1
+Delay 500 ms
+WheelUp 1
+Delay 500 ms
+WheelUp 1
+Delay 500 ms
+WheelUp 1
+Delay 500 ms
+MoveTo 493 333
+MoveR 1 1 5 5
+//WALL
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+MoveTo 870 586
+MoveR 1 1 5 5
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+GoWhile 43 20
+MoveTo 603 537
+MoveR 1 1 5 5
+//CATAPULT
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+MoveTo 870 586
+MoveR 1 1 5 5
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+GoWhile 59 3
+MoveTo 710 542
+MoveR 1 1 5 5
+//MAGMATIC CANNON
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+MoveTo 870 586
+MoveR 1 1 5 5
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+GoWhile 75 3
+MoveTo 495 607
+MoveR 1 1 5 5
+//TESLA
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+MoveTo 870 586
+MoveR 1 1 5 5
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+GoWhile 91 3
+MoveTo 601 608
+MoveR 1 1 5 5
+//MAGMATIC DOUBLE CANNON
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+MoveTo 870 586
+MoveR 1 1 5 5
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+GoWhile 107 3
+MoveTo 706 608
+MoveR 1 1 5 5
+//BIG CROSSBOW
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+MoveTo 870 586
+MoveR 1 1 5 5
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+GoWhile 123 3
+MoveTo 774 350
+MoveR 1 1 2 2
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+WheelDown 1
+Delay 500 ms
+WheelDown 1
+Delay 500 ms
+WheelDown 1
+Delay 500 ms
+WheelDown 1
+Delay 500 ms
+WheelDown 1
+Delay 500 ms
+WheelDown 1
+Delay 500 ms
+MoveTo 494 284
+MoveR 1 1 2 2
+//FLAMETHROWER
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+MoveTo 870 586
+MoveR 1 1 5 5
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+GoWhile 158 3
+MoveTo 600 282
+MoveR 1 1 2 2
+//BIG MORTAR
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+MoveTo 870 586
+MoveR 1 1 5 5
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+GoWhile 174 3
+MoveTo 708 282
+MoveR 1 1 2 2
+//MEGA-TESLA
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+MoveTo 870 586
+MoveR 1 1 5 5
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+GoWhile 190 3
+MoveTo 497 353
+MoveR 1 1 2 2
+//MYTHIC ARTILLERY
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+MoveTo 870 586
+MoveR 1 1 5 5
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+GoWhile 206 3
+MoveTo 602 354
+MoveR 1 1 2 2
+//HELL TOWER
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+MoveTo 870 586
+MoveR 1 1 5 5
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+GoWhile 222 3
+MoveTo 710 355
+MoveR 1 1 2 2
+//HELL ARTILLERY
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+MoveTo 870 586
+MoveR 1 1 5 5
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+GoWhile 238 3
+MoveTo 494 457
+MoveR 1 1 2 2
+//CRUSHER
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+MoveTo 870 586
+MoveR 1 1 5 5
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+GoWhile 254 3
+MoveTo 598 458
+MoveR 1 1 5 5
+//SHOCK TOWER
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+MoveTo 870 586
+MoveR 1 1 5 5
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+GoWhile 270 3
+MoveTo 705 455
+MoveR 1 1 5 5
+//BOMBER TOWER
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+MoveTo 870 586
+MoveR 1 1 5 5
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+GoWhile 286 3
+MoveTo 498 562
+MoveR 1 1 5 5
+//ROCKET ARTILLERY
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+MoveTo 870 586
+MoveR 1 1 5 5
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+GoWhile 302 3
+MoveTo 774 350
+MoveR 1 1 2 2
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+WheelUp 1
+Delay 500 ms
+WheelUp 1
+Delay 500 ms
+WheelUp 1
+Delay 500 ms
+WheelUp 1
+Delay 500 ms
+WheelUp 1
+Delay 500 ms
+WheelUp 1
+GoWhile 32 907906</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

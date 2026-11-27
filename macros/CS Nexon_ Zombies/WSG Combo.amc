@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Useful auto attack macro for the melee Storm Giant Warhammer in CSN:Z.
+It will automatically do the combo attacks for you.
+Just bind a key to use.
+I recommend you to set the operating mode to "Run until pressed again".</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 0 ms
+KeyUp 20 1
+Delay 0 ms
+KeyDown 32 1
+Delay 0 ms
+KeyUp 32 1
+Delay 0 ms
+RightDown 1
+Delay 330 ms
+RightUp 1
+Delay 270 ms</Syntax>
+    </KeyDown>
+    <Software>Counter-Strike Nexon: Zombies</Software>
+  </DefaultMacro>
+</Root>

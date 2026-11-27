@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>сам покупает наживку при появлении в наличии 
+встаньте около нпс и нажмите бинд 
+ВАЖНО денег должно быть достаточно для покупки 
+любые разрешения</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 64
+KeyDown 88 1
+Delay 1 ms
+GoWhile 1 10
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+GoWhile 1 100000
+KeyUp 88 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

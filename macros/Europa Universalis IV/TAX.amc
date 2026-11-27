@@ -1,0 +1,85 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Команда: set_base_tax [ID провинции] [значение]
+
+
+
+Автоматизирует ввод консольной команды set_base_tax, позволяющей быстро изменить уровень базового налога выбранной провинции. После того как макрос вводит готовую команду в консоль
+ - указываете ID нужной провинции и необходимое значение.
+
+Полезно, когда необходимо быстро повысить налоговое развитие одной или сразу нескольких провинций без постоянного ручного набора set_base_tax.</Description>
+    <Comment>По сути: маленький QoL-инструмент для любителей читов, альтернативных сценариев и экспериментов в одиночной EU4. Не предназначен для использования в мультиплеере и не дает преимуществ над другими игроками.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 53 1
+Delay 20 ms
+KeyUp 53 1
+Delay 20 ms
+KeyDown 22 1
+Delay 20 ms
+KeyUp 22 1
+Delay 20 ms
+KeyDown 8 1
+Delay 20 ms
+KeyUp 8 1
+Delay 20 ms
+KeyDown 23 1
+Delay 20 ms
+KeyUp 23 1
+Delay 20 ms
+KeyDown 225 1
+Delay 20 ms
+KeyDown 45 1
+Delay 20 ms
+KeyUp 45 1
+Delay 20 ms
+KeyUp 225 1
+KeyDown 5 1
+Delay 20 ms
+KeyUp 5 1
+Delay 20 ms
+KeyDown 4 1
+Delay 20 ms
+KeyUp 4 1
+Delay 20 ms
+KeyDown 22 1
+Delay 20 ms
+KeyUp 22 1
+Delay 20 ms
+KeyDown 8 1
+Delay 20 ms
+KeyUp 8 1
+Delay 20 ms
+KeyDown 225 1
+Delay 20 ms
+KeyDown 45 1
+Delay 20 ms
+KeyUp 45 1
+KeyDown 23 1
+Delay 20 ms
+KeyUp 23 1
+Delay 20 ms
+KeyDown 4 1
+Delay 20 ms
+KeyUp 4 1
+Delay 20 ms
+KeyDown 27 1
+Delay 20 ms
+KeyUp 27 1
+Delay 20 ms
+KeyUp 225 1
+Delay 20 ms
+KeyDown 44 1
+Delay 7 ms
+KeyUp 44 1
+Delay 7 ms</Syntax>
+    </KeyDown>
+    <Software>Europa Universalis IV</Software>
+  </DefaultMacro>
+</Root>

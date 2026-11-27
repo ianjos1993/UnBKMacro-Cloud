@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major>revolver low dpi</Major>
+    <Description>this macro work for revolver low dpi different (press start release to stop)
+1920x 1080
+dpi 1100
+fov 90
+sens 0.5</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 19 ms
+MoveR 0 17
+Delay 19 ms
+MoveR 0 17
+Delay 19 ms
+MoveR 0 16
+Delay 19 ms
+MoveR 0 17
+Delay 19 ms
+MoveR 0 17
+Delay 19 ms
+MoveR 0 16
+Delay 19 ms
+MoveR 0 16
+Delay 19 ms
+LeftUp 1
+Delay 19 ms</Syntax>
+    </KeyDown>
+    <Software>rust</Software>
+  </DefaultMacro>
+</Root>

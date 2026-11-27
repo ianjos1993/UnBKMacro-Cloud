@@ -1,0 +1,65 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>афк фарминг валюты с босса работает так: заходите в хаб к боссу один включаете макрос и все работает под афк фарм не подойдет персонаж gemtoki и важная примечания вы должны быть одни </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 4 ms
+KeyUp 9 1
+Delay 4 ms
+KeyDown 30 1
+Delay 4 ms
+KeyUp 30 1
+Delay 4 ms
+LeftDown 1
+Delay 4 ms
+LeftUp 1
+Delay 4 ms
+KeyDown 9 1
+Delay 4 ms
+KeyUp 9 1
+Delay 4 ms
+KeyDown 31 1
+Delay 4 ms
+KeyUp 31 1
+Delay 4 ms
+LeftDown 1
+Delay 4 ms
+LeftUp 1
+Delay 4 ms
+KeyDown 9 1
+Delay 4 ms
+KeyUp 9 1
+Delay 4 ms
+KeyDown 32 1
+Delay 4 ms
+KeyUp 32 1
+Delay 4 ms
+LeftDown 1
+Delay 4 ms
+LeftUp 1
+Delay 4 ms
+KeyDown 9 1
+Delay 4 ms
+KeyUp 9 1
+Delay 4 ms
+KeyDown 33 1
+Delay 4 ms
+KeyUp 33 1
+Delay 4 ms
+LeftDown 1
+Delay 4 ms
+LeftUp 1
+Delay 4 ms
+GoWhile 1 5</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

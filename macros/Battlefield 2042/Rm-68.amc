@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на анти-отдачу для rm-68 для прицелов 1,25. Сборка оружия - патроны ближнего боя, глушитель ССN, 40-мм фугас.Идеален на расстоянии до 75м. После 75 метров лучше зажимать долгие очереди.
+Использую с разрешением 2560х1080. Для иного разрешения рекомендую лишь немного покрутить задержку(1-2 мс в ту, или иную сторону)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 11 ms
+MoveR -1 3
+Delay 11 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Battlefield 2042</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Если вы мокрый не исполизуй этот макрос
+Вылет на рабочий стол убивает без выподания предметов,убивает случайно доступно с самого начала
+если вы мокрый то A или же молния при исполизований наносит урон.</Description>
+    <Comment>Вылет на рабочий стол убивает без выподания предметов
+убивает случайно доступно с самого начала</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 100
+KeyUp 4 1
+Delay 100
+KeyDown 4 1
+Delay 100
+KeyUp 4 1
+Delay 100
+KeyDown 9 1
+Delay 100
+KeyUp 9 1
+Delay 100
+KeyDown 26 1
+Delay 100
+KeyUp 26 1
+Delay 100</Syntax>
+    </KeyDown>
+    <Software>Magicka 1</Software>
+  </DefaultMacro>
+</Root>

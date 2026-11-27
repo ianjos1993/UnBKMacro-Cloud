@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>МАКРО ТЕСТИРОВАН НА РАЗРЕШЕНИИ 1280x1024
+С помощью этого макроса вы сможете поймать самого быстрого и опасного бота (Angry Munci)
+Настройка/Как использовать?
+Привяжите этот макрос к любой кнопке.
+Установить режим работы – До повторного нажатия.
+Для лучшей работы макроса я рекомендую использовать ботинки Hermes.
+После того, как вы настроили макрос, все, что вам нужно сделать, это зажать кнопку w и нажать кнопку, которую вы забиндили.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 8 ms
+MoveR 60 0
+Delay 7 ms
+MoveR 61 0
+Delay 8 ms
+MoveR 61 0
+Delay 7 ms
+MoveR 60 0</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

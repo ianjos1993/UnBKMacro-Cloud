@@ -1,0 +1,168 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на стикеры хоней би бир в симуляторе пчёл. Чтобы макрос хорошо работал нужно как можно больше хоней пчёл чем их больше тем больше шанс на стикер. Желательно вообще без пчёл дающих скорость или макрос можеть слететь.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 5 min
+LeftUp 1
+Delay 15 min
+LeftDown 1
+Delay 10 min
+LeftUp 1
+Delay 4 min
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 6 s
+KeyDown 7 1
+Delay 10 s
+KeyUp 7 1
+Delay 64
+LeftDown 1
+KeyDown 44 1
+Delay 100 ms
+KeyUp 44 1
+Delay 64
+KeyDown 7 1
+Delay 2 s
+KeyUp 7 1
+Delay 64
+KeyDown 26 1
+Delay 1 s
+KeyUp 26 1
+Delay 64
+KeyDown 7 1
+Delay 1 s
+KeyUp 7 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 10 s
+KeyDown 26 1
+Delay 2 s
+KeyUp 26 1
+Delay 64 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 4 1
+Delay 1 s
+KeyUp 4 1
+Delay 64
+Delay 64
+KeyDown 22 1
+Delay 1 s
+KeyUp 22 1
+Delay 64
+KeyDown 7 1
+Delay 500 ms
+KeyUp 7 1
+Delay 64
+KeyDown 26 1
+Delay 1 s
+KeyUp 26 1
+Delay 64
+KeyDown 7 1
+Delay 500 ms
+KeyUp 7 1
+Delay 64
+KeyDown 22 1
+Delay 1 s
+KeyUp 22 1
+Delay 64
+KeyDown 7 1
+Delay 500 ms
+KeyUp 7 1
+Delay 64
+KeyDown 26 1
+Delay 1 s
+KeyUp 26 1
+Delay 64
+KeyDown 7 1
+Delay 500 ms
+KeyUp 7 1
+Delay 64
+KeyDown 22 1
+Delay 1 s
+KeyUp 22 1
+Delay 64
+KeyDown 4 1
+Delay 2 s
+KeyUp 4 1
+Delay 64
+KeyDown 26 1
+Delay 1 s
+KeyUp 26 1
+Delay 64
+GoWhile 37 45
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 6 s
+KeyDown 7 1
+Delay 10 s
+KeyUp 7 1
+Delay 64
+LeftDown 1
+KeyDown 44 1
+Delay 100 ms
+KeyUp 44 1
+Delay 64
+KeyDown 7 1
+Delay 2 s
+KeyUp 7 1
+Delay 64
+KeyDown 26 1
+Delay 1 s
+KeyUp 26 1
+Delay 64
+KeyDown 7 1
+Delay 1 s
+KeyUp 7 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 10 s
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+GoWhile 58 10
+KeyDown 26 1
+Delay 2 s
+KeyUp 26 1
+Delay 64
+Delay 5 s
+KeyUp 7 1
+Delay 15 min
+GoWhile 9 10</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

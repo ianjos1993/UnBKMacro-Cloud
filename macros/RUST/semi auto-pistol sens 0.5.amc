@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>new macro for semi-pistol auto</Major>
+    <Description>this is new macro for semi-pistol with sens 0.5
+Fov 90
+1920x1080
+dpi 800-1000
+dont forget to press to start, release to finish, (to all my macros)
+
+support me and enjoy
+
+BlackMamba</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 11 ms
+MoveR 0 12
+Delay 11 ms
+MoveR 0 12
+Delay 11 ms
+LeftUp 1
+Delay 12 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,58 @@
+<Root>
+  <DefaultMacro>
+    <Major>Добыча нажавки</Major>
+    <Description>Добывает наживку автоматически . Нужно держать предмет домыче в руке , лопау или черпак . 
+  нажимаем макрос и просиходит копание
+ на 5 стоит чай \кофе 
+ на 6 ставим любую еду 
+в макросе есть разброс ожиданая  чтоб сложнее было отследить    ,цикличность программы 
+  повторений ставте сколько хотите , можете изменить в цилке 
+ примерно за ночь 200 водрослей с 00 до 8 утра </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 4000 6333 ms
+KeyDown 44 1
+Delay 133 180
+KeyUp 44 1
+Delay 133 180
+KeyDown 44 1
+Delay 133 180
+KeyUp 44 1
+Delay 133 180
+KeyDown 44 1
+Delay 133 180
+KeyUp 44 1
+Delay 133 180
+Delay 1330 1800 ms
+KeyDown 34 1
+Delay 133 180
+KeyUp 34 1
+Delay 133 180
+KeyDown 35 1
+Delay 133 180
+KeyUp 35 1
+Delay 133 180
+Delay 60000 80000 ms
+GoWhile 1 5000</Syntax>
+    </KeyDown>
+    <Software>Russian Fishing 4</Software>
+  </DefaultMacro>
+</Root>

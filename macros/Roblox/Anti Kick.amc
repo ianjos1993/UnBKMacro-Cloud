@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>Anti Kick</Major>
+    <Description>Этот макрос каждые 10 минут будет делать движения например прыгнуть, вправо, влево, назад тем самым не давая кикнуть за афк.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 22 ms
+KeyUp 44 1
+Delay 10 min
+KeyDown 26 1
+Delay 22 ms
+KeyUp 26 1
+Delay 10 min
+KeyDown 4 1
+Delay 22 ms
+KeyUp 4 1
+Delay 10 min
+KeyDown 22 1
+Delay 22 ms
+KeyUp 22 1
+Delay 10 min
+KeyDown 7 1
+Delay 22 ms
+KeyUp 7 1
+Delay 10 min</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

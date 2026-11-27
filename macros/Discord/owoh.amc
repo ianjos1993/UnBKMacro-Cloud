@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>описание: макрос для автоматического заработка животных в дискорде в экономике бота "owo" позволяет просто нажав кнопку бесконечно использовать команду. рекомендуется между буквами ставить промежуток не 3-4с а 6-7 что бы бот не расспознал макрос.
+инструкция: запустить дискорд и добавить (если нету) бота "owo" на сервер, если никогда не пользовались то нужно будет согласится с правилами и т.п. 
+для использования команды нужно 5 owo cash его можно спокойно заработать, или же просто попросить в долг хотябы 100 owo cash, после заходим в чат где хотите начать фармить и выбираете макрос. после активируете его и следите что бы у вас не закончились деньги. </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyUp 18 1
+Delay 3 s
+KeyUp 26 1
+Delay 3 s
+KeyUp 18 1
+Delay 3 s
+KeyUp 11 1
+Delay 3 s
+KeyDown 88 1
+Delay 3 s
+KeyUp 88 1</Syntax>
+    </KeyDown>
+    <Software>Discord</Software>
+  </DefaultMacro>
+</Root>

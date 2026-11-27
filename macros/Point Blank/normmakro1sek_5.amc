@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на нож, для слабых пк с 50-60гц экрана
+Макрос имеет рандомную задержку, что способствует неожиданности для противнмка.
+Ставите на любую клавишу, "я ставлю на (V)", кроме Q иначе будет багаться.
+Удачи в использовании макроса</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>WheelDown 1
+KeyDown 8 1
+KeyDown 8 1
+KeyUp 8 1
+Delay 1 30 ms
+Delay 1 ms
+KeyDown 8 1
+KeyDown 8 1
+Delay 1 ms
+KeyUp 8 1
+Delay 1 15 ms
+KeyDown 8 1
+KeyDown 8 1
+Delay 1 ms
+KeyUp 8 1
+Delay 1 ms
+WheelUp 1</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

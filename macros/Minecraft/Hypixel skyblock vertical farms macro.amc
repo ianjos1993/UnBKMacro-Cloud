@@ -1,0 +1,68 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Для удобстава использования макроса следует выставить мышь на 90 градусов и поставить в начала фермы /sethome</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 1
+KeyDown 4 1
+Delay 120 s
+KeyUp 4 1
+Delay 1
+KeyDown 7 1
+Delay 120 s
+KeyUp 7 1
+Delay 1
+KeyDown 4 1
+Delay 120 s
+KeyUp 4 1
+Delay 1
+KeyDown 7 1
+Delay 120 s
+KeyUp 7 1
+LeftUp 1
+Delay 1
+KeyDown 23 1
+Delay 1
+KeyUp 23 1
+Delay 1
+KeyDown 56 1
+Delay 1
+KeyUp 56 1
+Delay 1
+KeyDown 10 1
+Delay 1
+KeyUp 10 1
+Delay 1
+KeyDown 4 1
+Delay 1
+KeyUp 4 1
+Delay 1
+KeyDown 21 1
+Delay 1
+KeyUp 21 1
+Delay 1
+KeyDown 7 1
+Delay 1
+KeyUp 7 1
+Delay 1
+KeyDown 8 1
+Delay 1
+KeyUp 8 1
+Delay 1
+KeyDown 17 1
+Delay 1
+KeyUp 17 1
+Delay 1
+GoWhile 1 100</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

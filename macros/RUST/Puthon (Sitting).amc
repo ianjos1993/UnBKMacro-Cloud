@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот скрипт преднозначен для игры Rust скрипт для Питона в сидячем положении.
+
+1. Сенса 0.8
+
+2. FOV 90
+
+3. Приятной игры!</Description>
+    <Comment>Vk.com/djdozaadrenalin
+</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 6 ms
+MoveR 0 6
+Delay 6 ms
+LeftUp 1
+Delay 6 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

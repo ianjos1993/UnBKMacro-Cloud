@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major>SomerandomMVNTguy</Major>
+    <Description>To use this tap strafe, you have to bind your scroll wheel ^ to W and when you use this macro, set it to any keybind  and when your using it, jump and look to the left or right or both</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>WheelUp 1
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+WheelUp 1
+Delay 64
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

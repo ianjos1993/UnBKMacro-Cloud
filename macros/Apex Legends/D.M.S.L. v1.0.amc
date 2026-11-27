@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>(v1.0)
+
+D.M.S.L. aka Disco's Momentum Shift (Left) is a macro to assist you in shifting your momentum to the lefthand side. To use it, bind D.M.S.L. to your prefered key, and just move your pov right when using the macro. It will automatically input the keys needed for your lefthand side momentum shift. If using another third party macro program like Razer Synapse or Logitech Ghub like me, you may bind this macro to an unused key through Keyran, and then bind that key to your mouse wheel left or right (on Logitech G502 Hero for example) or you can rebind to any extra mouse buttons not included in Keyran this way. 
+
+D.M.S.L. may or may not be continued in further or separate versions. For now, D.M.S.L. is setup specifically for 400 DPI with an in-game sensitivity of 5.0 (1.0 ADS w/per-optic ADS sensitivity off) at 1920x1080p, but upon request I may release additional versions covering different DPIs and resolutions. If you face any issues using it, please reach out and let me know so I can properly update and correct any bugs found while using D.M.S.L. and/or any subsequent versions!
+
+-Disco</Description>
+    <Comment>OSIRISSOFTWARE - SLSK - GSO</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 10 ms
+KeyDown 22 1
+Delay 10 ms
+KeyDown 7 1
+Delay 100 ms
+KeyUp 4 1
+KeyUp 22 1
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

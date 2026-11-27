@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Когда находитесь в папке, после нажатия кнопки макрос копирует её название и переходит в папку, которая расположена ниже по списку. </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 42 1
+Delay 64
+KeyUp 42 1
+Delay 64
+KeyDown 81 1
+KeyUp 81 1
+KeyDown 59 1
+KeyUp 59 1
+Delay 64
+KeyDown 224 1
+KeyDown 6 1
+KeyUp 6 1
+KeyUp 224 1
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Копирование названия папки </Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макросс на Poff для мипо. Пуфается почти моментально, но можно полностью убрать задержку и пуфф будет моментальным и самое главное будет работать корректно</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+KeyUp 26 1
+LeftDown 1
+LeftUp 1
+Delay 64 ms
+KeyDown 43 1
+KeyUp 43 1
+KeyDown 26 1
+KeyUp 26 1
+LeftDown 1
+LeftUp 1
+Delay 64 120 ms
+KeyDown 43 1
+KeyUp 43 1
+KeyDown 26 1
+KeyUp 26 1
+LeftDown 1
+LeftUp 1
+Delay 64 120 ms
+KeyDown 43 1
+KeyUp 43 1
+KeyDown 26 1
+KeyUp 26 1
+LeftDown 1
+LeftUp 1
+Delay 64 120 ms
+KeyDown 43 1
+KeyUp 43 1
+KeyDown 26 1
+KeyUp 26 1
+LeftDown 1
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

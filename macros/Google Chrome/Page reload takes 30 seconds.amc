@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос обновляет страницу веб-браузера с задержкой после выполнения в 30 секунд и позволит вам уйти в AFK с сайта, на котором нужно обновлять страницу</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+KeyDown 62 1
+Delay 64
+KeyUp 224 1
+KeyUp 62 1
+Delay 30 s</Syntax>
+    </KeyDown>
+    <Software>Google Chrome</Software>
+  </DefaultMacro>
+</Root>

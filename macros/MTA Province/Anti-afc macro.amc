@@ -1,0 +1,19 @@
+<Root>
+  <DefaultMacro>
+    <Major>Анти-Афк</Major>
+    <Description>Всем привет! Сегодня я поделюсь с вами макросом, с которым получать игровой опыт в mta province станет куда легче! Этот макрос крутит камерой и не дает вам выйти в афк, за счет чего вы остаетесь в игре! Макрос подходит под разрешение 1920 х 1080!             </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoWhile 1 86400000
+MoveR 777 0
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

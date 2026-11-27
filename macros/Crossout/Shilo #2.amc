@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Шило стреляют очень быстро и наносят неплохой урон. Но это лучше всего подходит для вблизи чтобы легко убить врага. Вы можете скачать мой макрос шило чтобы стрелять издалека и точно.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 5000 ms
+LeftUp 1
+Delay 50 ms
+KeyDown 30 1
+Delay 5000 ms
+KeyUp 30 1
+Delay 50 ms
+KeyDown 31 1
+Delay 5000 ms
+KeyUp 31 1
+Delay 50 ms
+//Вы можете скачать мой 1 макрос Шило чтобы стрелять очень точно. А это макрос подходит для того чтобы стрелять вблизи</Syntax>
+    </KeyDown>
+    <Software>Crossout</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major>Фарм</Major>
+    <Description>Простенький макрос зацикленный на нажатие одной клавиши, подойдет для любой игры, где нужно добывать ресурс. Вместо пробела можно указать любую кнопку, которая отвечает за действие, последнюю задержку можно изменить на необходимое значение, в моём случае это длительность анимации добычи ресурса</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 68 ms
+KeyUp 44 1
+Delay 68 ms
+Delay 10450 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Red Dead Redemption 2</Software>
+  </DefaultMacro>
+</Root>

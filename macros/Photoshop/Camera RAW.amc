@@ -1,0 +1,49 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Полезный макрос для удобной корректировки изображения в фотошопе
+
+При его активации открывается окно Camera RAW со всеми его функциями, а также отдаляется для комфортной работы + включается параметр ДО/ПОСЛЕ чтоб вы могли сравнить готовый вариант с изображением без наложения этого фильтра.
+
+При установке на удобную кнопку этого макроса вы значительно ускорите и повысите качество своих работ, ведь для того чтоб открыть все цветовые фильтры и настроить окно для комфортной работы понадобится всего одна кнопка!!!
+
+Макрос ТОЧНО будет работать на фотошопе + camera raw версий 2019—2024
+
+Для его работы обязательная установка плагина Camera RAW(скачивается бесплатно с оффициального сайта даже на пиратский фотошоп, но лучше напрямую с программы креатив клауд)
+
+ссылки прикрепил в комментариях</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+
+ссылка на сайт с Camera RAW: https://helpx.adobe.com/camera-raw/kb/camera-raw-plug-in-installer.html
+
+ссылка на установку Creative Cloud: https://creativecloud.adobe.com/apps/download/creative-cloud|
+
+подробный гайд по использования этого плагина: https://youtu.be/Wz4DEVSq7ew?si=bKwe1uORszo9vTbg</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+KeyUp 225 1
+Delay 30 ms
+KeyDown 224 1
+KeyUp 224 1
+Delay 30 ms
+KeyDown 4 1
+KeyUp 4 1
+Delay 222 ms
+KeyDown 224 1
+KeyUp 224 1
+Delay 30 ms
+KeyDown 39 1
+KeyUp 39 1
+Delay 64 ms
+KeyDown 20 1
+KeyUp 20 1</Syntax>
+    </KeyDown>
+    <Software>Photoshop</Software>
+  </DefaultMacro>
+</Root>

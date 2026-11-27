@@ -1,0 +1,132 @@
+<Root>
+  <DefaultMacro>
+    <Major>Paul CH combo</Major>
+    <Description>Макрос позволяет выполнять стабильно комбо с qcb4 за Пола, достаточно нажать на одну клавишу.
+Видео демонстрации работы макроса: https://youtu.be/6EwOjfyx5ls
+
+Paul Phoenix — персонаж из серии Tekken, который дебютировал в первой игре Tekken и с тех пор появлялся во всех играх. Он вспыльчив, напористый и агрессивный персонаж, более чем когда-либо настроенный на победу в турнире «Король Железного Кулака», чтобы доказать, что он лучший боец ​​во всей вселенной. В хороших отношениях с семьей Ло, также дружит с ним.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+
+Тестирование макроса проводились на последнем патче игры на 25.02.2023 (5.01 патч)
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер"  (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#paultekken7 #tekken7 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 79 ms
+KeyDown 4 1
+Delay 47 ms
+KeyUp 22 1
+Delay 48 ms
+KeyDown 77 1
+Delay 32 ms
+KeyUp 4 1
+Delay 31 ms
+KeyUp 77 1
+Delay 671 ms
+KeyDown 22 1
+Delay 71 ms
+KeyDown 7 1
+Delay 79 ms
+KeyUp 22 1
+Delay 56 ms
+KeyDown 73 1
+Delay 15 ms
+KeyUp 7 1
+Delay 56 ms
+KeyUp 73 1
+Delay 616 ms
+KeyDown 76 1
+Delay 151 ms
+KeyDown 74 1
+Delay 119 ms
+KeyUp 76 1
+Delay 32 ms
+KeyDown 4 1
+Delay 32 ms
+KeyUp 74 1
+Delay 103 ms
+KeyDown 77 1
+Delay 87 ms
+KeyUp 77 1
+Delay 80 ms
+KeyDown 77 1
+Delay 63 ms
+KeyUp 77 1
+Delay 87 ms
+KeyDown 77 1
+Delay 64 ms
+KeyUp 77 1
+Delay 79 ms
+KeyDown 77 1
+Delay 55 ms
+KeyUp 77 1
+Delay 48 ms
+KeyDown 77 1
+Delay 23 ms
+KeyUp 4 1
+Delay 31 ms
+KeyUp 77 1
+Delay 55 ms
+KeyDown 7 1
+Delay 80 ms
+KeyUp 7 1
+Delay 87 ms
+KeyDown 7 1
+Delay 64 ms
+KeyUp 7 1
+Delay 103 ms
+KeyDown 7 1
+Delay 56 ms
+KeyUp 7 1
+Delay 96 ms
+KeyDown 7 1
+Delay 72 ms
+KeyUp 7 1
+Delay 79 ms
+KeyDown 7 1
+Delay 360 ms
+KeyUp 7 1
+Delay 7 ms
+KeyDown 22 1
+Delay 64 ms
+KeyDown 77 1
+Delay 103 ms
+KeyUp 22 1
+Delay 0 ms
+KeyDown 74 1
+Delay 71 ms
+KeyUp 77 1
+Delay 71 ms
+KeyUp 74 1
+Delay 343 ms
+KeyDown 75 1
+Delay 79 ms
+KeyUp 75 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 7</Software>
+  </DefaultMacro>
+</Root>

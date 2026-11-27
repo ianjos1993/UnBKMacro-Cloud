@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Привет! Я сделал этот макрос для WallHop.
+Wallhop - Это такая функция в Roblox с которой можно прыгать по определённым стенам, поворачивая в какую-то сторону на 45 Градусов и обратно и в то же время зажимая кнопки &lt;&lt;Прыжок&gt;&gt; и &lt;&lt;W&gt;&gt;.
+
+У меня 900 DPI, скорость мыши в роблоксе 0.2 и в параметрах мыши скорость 10, и у меня выключена Повышенная Точность Установки Указателя
+
+ Разрешение монитора 1280х1024.
+
+
+Надеюсь что у всех будет работать...</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 15 0
+Delay 115 ms
+MoveTo 0 0</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

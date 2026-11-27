@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major>Баф</Major>
+    <Description>Разбаф вардена, лучше использовать для пвп для бафа персонажа и группы.  Скилы начинаются от 30 сек, 25 сек, 20 сек,16 сек, 10 сек и два скила по 6 сек. Если у вас высокий пинг  можно увеличить время задержек до 250, но не больше. Перед каждым скилом стоит 600 мс = 0.6 сек. Макрос вполне рабочий. Помогает в бою. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 110 164 ms
+KeyUp 43 1
+Delay 600 ms
+KeyDown 30 1
+Delay 110 164 ms
+KeyUp 30 1
+Delay 600 ms
+KeyDown 31 1
+Delay 110 164 ms
+KeyUp 31 1
+Delay 600 ms
+KeyDown 20 1
+Delay 110 164 ms
+KeyUp 20 1
+Delay 600 ms
+KeyDown 32 1
+Delay 110 164 ms
+KeyUp 32 1
+Delay 600 ms
+KeyDown 53 1
+Delay 110 164 ms
+KeyUp 53 1
+Delay 250 500 ms
+KeyDown 32 1
+Delay 110 164 ms
+KeyUp 32 1
+Delay 600 ms
+KeyDown 43 1
+Delay 110 164 ms
+KeyUp 43 1
+Delay 195 210 ms</Syntax>
+    </KeyDown>
+    <Software>Тесо</Software>
+  </DefaultMacro>
+</Root>

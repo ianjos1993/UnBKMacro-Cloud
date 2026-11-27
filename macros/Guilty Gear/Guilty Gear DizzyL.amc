@@ -1,0 +1,55 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос повторяет прием DF,HCF,B,F + кнопка атаки, у таких персов в файтингах, как например, прием Necro's Anger  у DIzzy в Guilty Gear Х2 Reload и Isuka.
+
+Ваш персонаж должен смотреть налево, чтобы выполнить прием:
+↘,←↙↓↘→,←,→ + клавиша ↙,→↘↓↙←,→,← + клавиша К
+
+Вы можете заменить "клавиша К" на любую удобную Вам клавишу в Редакторе. Убедитесь, что она совпадает с вашей раскладкой ударов в игре.
+
+Раскладка направления в игре должна быть WASD!!!
+
+Прием для смотрящего направо перса "↘,←↙↓↘→,←,→ + клавиша" выложено отдельно с названием "DizzyR"
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+KeyDown 22 1
+Delay 15 ms
+KeyUp 4 1
+KeyUp 22 1
+Delay 15 ms
+KeyDown 7 1
+Delay 15 ms
+KeyDown 22 1
+Delay 15 ms
+KeyUp 7 1
+Delay 15 ms
+KeyDown 4 1
+Delay 15 ms
+KeyUp 22 1
+Delay 15 ms
+KeyUp 4 1
+Delay 15 ms
+KeyDown 7 1
+Delay 15 ms
+KeyUp 7 1
+Delay 15 ms
+KeyDown 4 1
+KeyDown 14 1
+Delay 15 ms
+KeyUp 14 1
+Delay 15 ms
+KeyUp 4 1
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>Guilty Gear и другие файтинги</Software>
+  </DefaultMacro>
+</Root>

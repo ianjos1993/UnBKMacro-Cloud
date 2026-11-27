@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major>Drag Edit Macro</Major>
+    <Description>perfect delay for drag macro, gotta be a bit fast tho.
+
+Edit keybind is scrool wheel . can seet keyran keyboard to scroll wheel then can have edit bind to any 
+
+set select keybind to L!!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>WheelDown 1
+Delay 1 ms
+WheelDown 1
+Delay 1 ms
+KeyDown 15 1
+Delay 54 70 ms
+KeyUp 15 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

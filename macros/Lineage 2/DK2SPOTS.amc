@@ -1,0 +1,105 @@
+<Root>
+  <DefaultMacro>
+    <Major>ДК2СПОТА</Major>
+    <Description>Ставим по клавишам 
+F1 - Натиск судьбы
+F2 - Извержение гнева
+F3 - Таргет Дальний
+F4 - Адский огонь
+F5 - Вестник Ада
+F6 - Преследующее проклятие
+F7 - Огненное землетресение
+F8 - Брошка
+
+F10 - Макрос игровой (таргет Пет1 - адское рассечение)
+F11 -  Макрос игровой (таргет Пет2 - адское рассечение)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 67 1
+Delay 60 ms
+KeyUp 67 1
+Delay 60 ms
+Delay 1400 ms
+GoWhile 1 6
+KeyDown 58 1
+Delay 12 ms
+KeyUp 58 1
+Delay 12 ms
+KeyDown 59 1
+Delay 12 ms
+KeyUp 59 1
+Delay 12 ms
+KeyDown 60 1
+Delay 12 ms
+KeyUp 60 1
+Delay 12 ms
+KeyDown 61 1
+Delay 12 ms
+KeyUp 61 1
+Delay 12 ms
+KeyDown 62 1
+Delay 12 ms
+KeyUp 62 1
+Delay 12 ms
+KeyDown 63 1
+Delay 12 ms
+KeyUp 63 1
+Delay 12 ms
+KeyDown 64 1
+Delay 12 ms
+KeyUp 64 1
+Delay 12 ms
+KeyDown 65 1
+Delay 12 ms
+KeyUp 65 1
+Delay 12 ms
+GoWhile 7 38
+KeyDown 68 1
+Delay 10 ms
+KeyUp 68 1
+Delay 10 ms
+Delay 1400 ms
+GoWhile 40 6
+KeyDown 58 1
+Delay 12 ms
+KeyUp 58 1
+Delay 12 ms
+KeyDown 59 1
+Delay 12
+KeyUp 59 1
+Delay 12
+KeyDown 60 1
+Delay 12
+KeyUp 60 1
+Delay 12
+KeyDown 61 1
+Delay 12
+KeyUp 61 1
+Delay 12
+KeyDown 62 1
+Delay 12
+KeyUp 62 1
+Delay 12
+KeyDown 63 1
+Delay 12
+KeyUp 63 1
+Delay 12
+KeyDown 64 1
+Delay 12
+KeyUp 64 1
+Delay 12
+KeyDown 65 1
+Delay 12
+KeyUp 65 1
+Delay 12
+GoWhile 46 38</Syntax>
+    </KeyDown>
+    <Software>lineage2</Software>
+  </DefaultMacro>
+</Root>

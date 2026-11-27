@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макро для того чтобі просто крутить мышко более не требуется розрешение 1360 на 768 примерно в 30 фпс
+для мта провинции завод жбк 4 сервер</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 64 min
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64 min
+KeyUp 26 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

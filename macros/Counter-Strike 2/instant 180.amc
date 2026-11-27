@@ -1,0 +1,18 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Тактический макрос для мгновенного разворота персонажа ровно на 180 градусов по нажатию одной кнопки. Позволяет моментально среагировать на угрозу с тыла и начать стрельбу по противнику, зашедшему в спину. Скрипт осуществляет резкое и точное смещение по оси X без вертикального увода прицела. Для корректной работы подгоните значение смещения под ваш DPI и чувствительность.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR 3500 0
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Counter-Strike 2</Software>
+  </DefaultMacro>
+</Root>

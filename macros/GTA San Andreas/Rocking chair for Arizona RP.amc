@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>подходим к тренажору,Жмём N (чтобы встать на тренажор) мём Проел и он будет кликать пробел вечно. Так же для тех кто хочет поствить бота на ферму льна и хлопка вводим в ютубе "бот на ферму льна и хлопка ариззона рп" скачивае луа файл, бот есть но у меня он не соберал сам я сделал так: ставим бота меняем кнопку альт на пробел в сампе, и жмём пробел теперь бот будет соберать сам спаситбо что выслушали.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 64 ms
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>GTA San Andreas</Software>
+  </DefaultMacro>
+</Root>

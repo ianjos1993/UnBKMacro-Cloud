@@ -1,0 +1,54 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на забирание лута из сундука у противника.
+Клавишу нужно зажимать для актвации макроса. За место кнопки 1 ставите свою клавишу на которую вы подбираете оружие</Description>
+    <Comment>Клавишу нужно зажимать для актвации макроса. За место кнопки 1 ставите свою клавишу на которую вы подбираете оружие</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+Delay 1 ms
+KeyDown 30 1
+Delay 1
+KeyUp 30 1
+Delay 1
+KeyDown 30 1
+Delay 1
+KeyUp 30 1
+Delay 1
+KeyDown 30 1
+Delay 1
+KeyUp 30 1
+Delay 1
+KeyDown 30 1
+Delay 1
+KeyUp 30 1
+Delay 1
+KeyDown 30 1
+Delay 1
+KeyUp 30 1
+Delay 1
+KeyDown 30 1
+Delay 1
+KeyUp 30 1
+Delay 1
+KeyDown 30 1
+Delay 1
+KeyUp 30 1
+Delay 1
+KeyDown 30 1
+Delay 1
+KeyUp 30 1
+Delay 1
+GoWhile 1 5</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

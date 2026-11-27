@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major>Ускореное парение + штур атака ( айон класик)</Major>
+    <Description>Ускореное парение + штур атака  биндим  парение  V   штурмовой  скил  G    устанавливаем  на любую удобную клавишу  макрос</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 25 1
+Delay 15 ms
+KeyUp 25 1
+KeyDown 25 1
+Delay 15 ms
+KeyUp 25 1
+KeyDown 25 1
+Delay 15 ms
+KeyUp 25 1
+KeyDown 25 1
+Delay 15 ms
+KeyUp 25 1
+KeyDown 10 1
+Delay 20 ms
+KeyUp 10 1
+KeyDown 10 1
+Delay 20 ms
+KeyUp 10 1</Syntax>
+    </KeyDown>
+    <Software>AION</Software>
+  </DefaultMacro>
+</Root>

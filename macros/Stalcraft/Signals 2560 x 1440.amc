@@ -1,0 +1,68 @@
+<Root>
+  <DefaultMacro>
+    <Major>Xagka</Major>
+    <Description>Данный макрос был переделан из другого макроса для разрешение 2560 x 1440.
+Условия:
+1. Игра в оконном режиме
+2. Вы должны забиндить САК-1 на правивый альт (Right Alt)
+С помощью него я навфармил два бурята на двух персонажах 
+Почти всегда забирает сигналы, только в одном случае он не забирает его когда с вами фармит другой макросник.
+Так же он был переделан в чистоте открытия САК-1 да бы не было осечек.
+
+ Желаю всем удачного фарма и что бы меньше было ПКшеров</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 230 1
+Delay 80 ms
+KeyUp 230 1
+Delay 80 ms
+MoveTo 1439 1066
+Delay 80 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 80 ms
+GoColor 35 1 38,60,33 24,39,21 1 921 537 364 544 1 0
+GoColor 13 0 63,84,59 24,39,21 1 921 535 436 546 1 0
+Delay 80 ms
+MoveTo 1798 1054
+Delay 80 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 80 ms
+GoColor 19 1 70,44,44 255,255,255 1 1492 992 14 133 1 0
+GoColor 22 0 70,44,44 255,255,255 1 1555 992 6 89 1 0
+MoveTo 1797 1054
+Delay 80 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 80 ms
+MoveTo 838 784
+Delay 80 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 134 ms
+Goto 44
+KeyDown 230 1
+Delay 80 ms
+KeyUp 230 1
+Delay 80 ms
+KeyDown 230 1
+Delay 80 ms
+KeyUp 230 1
+Delay 80 ms
+Goto 4
+Delay 80 ms</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

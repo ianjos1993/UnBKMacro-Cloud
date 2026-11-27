@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>                Булава из библы / святилища эфенов
+
+Ставит себя в камень и по истечение эффекта надевает дуалы (дуал и щит)
+Необходимые бинды -
+ 0 =&gt;&gt; Булава
+ Shift + Колесико вверх =&gt;&gt; Первый дуал
+ Shift + Колесико вниз =&gt;&gt; Второй дуал</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 226 1
+Delay 35 ms
+KeyDown 39 1
+Delay 35 ms
+KeyUp 39 1
+Delay 900 ms
+KeyDown 39 1
+Delay 35 ms
+KeyUp 39 1
+Delay 35 ms
+KeyDown 39 1
+Delay 35 ms
+KeyUp 39 1
+Delay 35 ms
+KeyUp 226 1
+Delay 35 ms
+Delay 2030 ms
+KeyDown 225 1
+Delay 35 ms
+WheelUp 1
+Delay 160 ms
+WheelUp 1
+Delay 180 ms
+WheelDown 1
+Delay 160 ms
+WheelDown 1
+Delay 35 ms
+KeyUp 225 1</Syntax>
+    </KeyDown>
+    <Software>Archeage</Software>
+  </DefaultMacro>
+</Root>

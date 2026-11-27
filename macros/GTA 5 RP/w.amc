@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>Авто бег</Major>
+    <Description>Простой, но рабочий макрос на автобег
+
+
+
+Всё очень просто: биндите на одну кнопку, выбираете режим работы до повторного нажатия — и готово.
+
+
+Ваш персонаж бежит час непрерывно, зажимая W + Shift. Вам остаётся только крутить мышкой.
+
+
+
+Полезно для работ: шахта, грузчик, стройка.
+
+
+
+Если нужно резко остановиться или досрочно завершить работу макроса — просто нажмите кнопку бинда ещё раз.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+KeyDown 225 1
+Delay 60 min
+KeyUp 225 1
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

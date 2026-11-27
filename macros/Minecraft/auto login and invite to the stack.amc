@@ -1,0 +1,54 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>данная програма будет автоматически пить зелье невидимости на 8 минут на сервере в майнкрафт и будет так работать на 8 стаков работает на разрешении 1920:1080 использование просто
+возьмите в правую руку зелье и во все слоты hot bara</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1110 567
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1147 644
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 5 s
+LeftUp 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 640 ms
+MoveTo 927 449
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 640 ms
+MoveTo 1071 430
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 640 ms
+RightDown 1
+Delay 2 s
+RightUp 1
+Delay 478 s
+GoWhile 32 240
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major>mixx1dae</Major>
+    <Description>Максимально просто. Рыбачит метал и автоматическо подбирает его же. Работает на карте 1487-3213-6612. Нужно зайти в комнату "XP SHOP", подобрать удочку, настроить угол удочки и запустить
+</Description>
+    <Comment>А ещё можно включить "AFK XP BUTTON" для афк опыта. За пол часа приблизительно 75к опыта БП.</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 250 ms
+KeyDown 8 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

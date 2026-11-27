@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>Auto bullet / Авто пули</Major>
+    <Description>Биндите на любую удобную вам кнопку, и скрипт вам закупает все патроны. Главным отличием от закупки оружия, является то что патроны закупаются на всё оружие, а не только к примеру АК 47. Может пригодится при игре с ботами, или на серверах где нету авто закупа патронов. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 5 1
+Delay 10 ms
+KeyUp 5 1
+Delay 10 ms
+KeyDown 35 1
+Delay 20 ms
+KeyUp 35 1
+Delay 20 ms
+KeyDown 5 1
+Delay 10 ms
+KeyUp 5 1
+Delay 10 ms
+KeyDown 36 1
+Delay 20 ms
+KeyUp 36 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>CS 1.6</Software>
+  </DefaultMacro>
+</Root>

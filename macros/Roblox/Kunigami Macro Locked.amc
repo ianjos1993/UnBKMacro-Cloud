@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>Locked</Major>
+    <Description>Kunigami 80 degree change for instant shots into goal for the game Locked on Roblox.
+I suggest using a 0.8 sens with 1820x1900.
+thanks to this macro u can shoot the ball into the net without having to rotate on ur own and it automatically locks in the corner :D
+this was the 2nd part of the first form script btw have fun !!!
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+RightDown 1
+Delay 128 ms
+MoveTo 930 492
+Delay 64
+MoveR -21 -1
+Delay 64
+RightUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

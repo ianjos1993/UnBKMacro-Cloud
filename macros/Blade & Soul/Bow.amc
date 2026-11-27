@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Класс - Мастер лука. Связка умений на быстрые атаки в перемещениях.
+
+Описание:
+Макрос был создан для комфортной игры в Blade &amp; Soul, на персонажа "Мастер лука", одним нажатием выбранной вами клавиши выполняет серию умений категории перемещения, представленный в данном макросе благодаря лучшей найденной мной программе BotMek.
+Автор: https://vk.com/haileypw
+
+Инструкция по использованию:
+1. Запустите игру;
+2. Выберите режим работы программы с привязкой или без привязки к окну;
+3. Присвойте макрос на удобную клавишу виртуальной клавиатуры в программе;
+4. Находясь в игре нажмите клавишу к которой присвоен макрос.
+5. Наслаждайтесь :)
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+KeyUp 32 1
+LeftDown 1
+LeftUp 1
+KeyDown 9 1
+KeyUp 9 1
+KeyDown 31 1
+KeyUp 31 1
+KeyDown 9 1
+KeyUp 9 1
+KeyDown 20 1
+KeyUp 20 1
+KeyDown 9 1
+KeyUp 9 1
+KeyDown 8 1
+KeyUp 8 1
+KeyDown 9 1
+KeyUp 9 1
+KeyDown 33 1
+KeyUp 33 1
+RightDown 1
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

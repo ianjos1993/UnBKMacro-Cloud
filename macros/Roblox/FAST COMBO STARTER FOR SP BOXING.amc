@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос даёт вам превосходство в бою, ибо в деф юбе бинды такие что пальцы сломаеншь))
+Как рабоатет? - При биндах указаных ниже,  нажав на "B" сделаете абуз рывка и кмобо стартер в одно время, что даст вам превосходство при использовании против дальников/ближников.
+Удачного использования!
+{ Бинды: 
+Z - Knuckle sandwich
+X - Liver shot
+C - Jawbreaker
+V - Haymaker 
+B - Boxing Shuffle }</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 12 ms
+KeyUp 29 1
+Delay 12 ms
+KeyDown 5 1
+Delay 12 ms
+KeyUp 5 1
+Delay 12 ms
+Button5Down 1
+Delay 64
+Button5up 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox (YBA)</Software>
+  </DefaultMacro>
+</Root>

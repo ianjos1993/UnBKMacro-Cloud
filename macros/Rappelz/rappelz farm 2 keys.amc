@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>поставте персонажа в фарм зоне и перенесите автоатаку или автоатаку петов ( если вы петолов) или же совместную атаку  на  клавишу 1. Макрос сам будет выбирать цель и атаковать
+запусите и будет вам счасте :) </Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 1100 ms
+KeyUp 30 1
+Delay 64
+KeyDown 43 1
+Delay 1100 ms
+KeyUp 43 1
+Delay 64
+KeyDown 30 1
+Delay 1100 ms
+KeyUp 30 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Rappelz фарм с 1 клавишой</Software>
+  </DefaultMacro>
+</Root>

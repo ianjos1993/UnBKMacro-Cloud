@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Топ макрос чтобы вы могли на пвп заспамить врага оседающими зельями. Для использования данного макроса вам требуется положть 3 оседающих зелья в основной слот:7,8,9. Теперь вы всего 1 нажатием кнопки легко сможете закидать врага данными зельями.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 36 1
+Delay 34 ms
+KeyUp 36 1
+Delay 34 ms
+RightDown 1
+Delay 34 ms
+RightUp 1
+Delay 34 ms
+KeyDown 37 1
+Delay 34 ms
+KeyUp 37 1
+Delay 34 ms
+RightDown 1
+Delay 34 ms
+RightUp 1
+Delay 34 ms
+KeyDown 38 1
+Delay 34 ms
+KeyUp 38 1
+Delay 34 ms
+RightDown 1
+Delay 34 ms
+RightUp 1
+Delay 34 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>spase - блинк
+tab - соулринг
+x - шива
+с - хекс (можно поставить дагон)
+q - лазер
+w - ракетки 
+r - реарм 
+В настройках управления доты ставим быстрый каст способнойстей и предметов </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 64
+KeyUp 44 1
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+KeyDown 27 1
+Delay 64
+KeyUp 27 1
+KeyDown 6 1
+Delay 50 ms
+KeyUp 6 1
+KeyDown 20 1
+KeyUp 20 1
+KeyDown 26 1
+KeyUp 26 1
+KeyDown 21 1
+Delay 64
+KeyUp 21 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,69 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на автоматическую крутку спинера в Osu!, крутит стабильно от ( 470rmp до 477rmp). Нажатие мышкой уже стоит в макросе, нужно только забиндить кнопку использования.</Description>
+    <Comment>Авто-спиннер Osu!</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveTo 955 556
+Delay 1 ms
+MoveTo 952 555
+Delay 1 ms
+MoveTo 948 552
+Delay 1 ms
+MoveTo 946 550
+Delay 1 ms
+MoveTo 944 547
+Delay 1 ms
+MoveTo 943 544
+Delay 1 ms
+MoveTo 943 542
+Delay 1 ms
+MoveTo 943 541
+Delay 1 ms
+MoveTo 943 537
+Delay 1 ms
+MoveTo 944 536
+Delay 1 ms
+MoveTo 950 533
+Delay 1 ms
+MoveTo 953 533
+Delay 1 ms
+MoveTo 956 533
+Delay 1 ms
+MoveTo 958 533
+Delay 1 ms
+MoveTo 961 533
+Delay 1 ms
+MoveTo 964 533
+Delay 1 ms
+MoveTo 967 533
+Delay 1 ms
+MoveTo 972 537
+Delay 1 ms
+MoveTo 973 538
+Delay 1 ms
+MoveTo 978 544
+Delay 1 ms
+MoveTo 979 547
+Delay 1 ms
+MoveTo 979 549
+Delay 1 ms
+MoveTo 979 551
+Delay 1 ms
+MoveTo 979 554
+Delay 1 ms
+MoveTo 979 557
+Delay 1 ms
+MoveTo 977 558
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Osu!</Software>
+  </DefaultMacro>
+</Root>

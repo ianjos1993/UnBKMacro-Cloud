@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос позволит вам автоматизировать процесс хук-спама до уровня midle игрока, может помочь игрокам который хотят понять как работает хук спам в целом или же тем кто имеет хороший аим, в таком случае макрос будет очень полезен для хук спама на ближней и средней дистанции.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 200 ms
+KeyDown 8 1
+Delay 200 ms
+KeyDown 20 1
+Delay 200 ms
+KeyUp 8 1
+Delay 200 ms
+KeyDown 8 1
+Delay 200 ms
+KeyUp 8 1
+Delay 200 ms
+KeyDown 20 1
+Delay 200 ms
+KeyDown 8 1
+Delay 200 ms
+KeyUp 20 1
+Delay 200 ms
+KeyUp 8 1
+Delay 200 ms
+KeyDown 20 1
+Delay 200 ms
+KeyUp 20 1
+Delay 200 ms
+KeyUp 20 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

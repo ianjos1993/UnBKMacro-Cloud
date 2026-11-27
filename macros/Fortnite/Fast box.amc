@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>Fast box</Major>
+    <Description>Этот макрос позволяет быстро построить бокс но не автоматически камеру надо поворачивать
+Для этого макроса понадобятся бинды z - стенка x - пол потолок v - конус</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 83 ms
+KeyUp 29 1
+KeyDown 29 1
+Delay 83 ms
+KeyUp 29 1
+KeyDown 29 1
+Delay 83 ms
+KeyUp 29 1
+KeyDown 29 1
+Delay 83 ms
+KeyUp 29 1
+KeyDown 27 1
+Delay 128 ms
+KeyUp 27 1
+KeyDown 25 1
+Delay 83 ms
+KeyUp 25 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

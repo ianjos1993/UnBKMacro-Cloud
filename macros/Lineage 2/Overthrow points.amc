@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>Получение очков свержения</Major>
+    <Description>Получай очки свержения на афк каче. Достаточно открыть окно свержения и запустить макрос. Квест  "Охта на монстров" будет выполняться автоматически.
+Настройки в программе:
+1.Работать с привязкой к окну.
+2.Настройки программы
+2.1.Забиндить на любую кнопку клавиатуры или мышки.
+2.2. Выбрать режим работы "Пока клавиша зажата"
+
+Макрос тестировался на ПК с разрешением экрана 2560*1080, игра запущена в "окне".</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR 478 196
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveR 745 -189
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

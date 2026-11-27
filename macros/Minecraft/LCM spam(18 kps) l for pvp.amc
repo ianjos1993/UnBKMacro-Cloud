@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>При зажатии забинженной кнопки будеть выполняться джитерклик и в майнкрафте можно например выиграть пвп
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Пользуйтесь
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------это мой 2 макрос вот</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 25 ms
+LeftUp 1
+Delay 25 ms
+LeftDown 1
+Delay 25 ms
+LeftUp 1
+Delay 25 ms
+LeftDown 1
+Delay 25 ms
+LeftUp 1
+Delay 25 ms
+LeftDown 1
+Delay 25 ms
+LeftUp 1
+Delay 25 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

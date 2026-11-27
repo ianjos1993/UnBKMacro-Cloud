@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>анти-авк для роблокса</Major>
+    <Description>анити-афк для роблокса
+вы будете двигаться вперед и назад каждую минути роблокс будет считать,что вы находиесь в сети
+1.скачать макрос
+2.поставить на удобную клавишу
+3.запустить
+если у вас нет подписки ее можно активировать в бесплатых ключах на 2 часа в день
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+топ макросы всегда здесь</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 1 min
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

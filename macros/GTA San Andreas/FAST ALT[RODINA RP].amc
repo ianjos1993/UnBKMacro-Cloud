@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Информация:
+
+Автор: RLXS
+
+Fast ALT RODINA RP
+
+Инструкция по использованию:
+
+[1].Скачиваешь.
+
+[2].Назначаешь клавишу.
+
+[3].Зажимаешь эту клавишу
+
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 226 1
+Delay 30 ms
+KeyUp 226 1
+Delay 30 ms</Syntax>
+    </KeyDown>
+    <Software>GTA San Andreas</Software>
+  </DefaultMacro>
+</Root>

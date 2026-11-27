@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Файл помогающий щабаговать разные расходники для бесконечного использования в Critical Legends. (создам для версии игры v1.1.0d, поэтому возможны фиксы)</Description>
+    <Comment>назначаете туда, где будет находится ваше зелье (1, 2, 3), баг выражается тем, что зелье пропадет из хот бара, но будет использоваться из ивентаря.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 5 ms
+KeyUp 32 1
+Delay 5 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

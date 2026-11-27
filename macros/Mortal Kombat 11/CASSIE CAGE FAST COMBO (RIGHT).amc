@@ -1,0 +1,69 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Быстрое комбо от Кейси с хорошим стартом (111). Опять же первая атака - хай, что позволяет оппоненту подловить вас (хотя апперкот туда крайне сложно всунуть). Комба заканчивается классикой - ударом по яйкам. Так же макрос автоматом тратит метр (если он есть) на последний удар. У Кейси есть КБ на окончание данного комбо - на третий раз, можно выбить 256 урона, плюс 74 тика с дота. Если комба уходит в блок, ты мы получаем очень неприятные -22 в блок, что неменуемо карается.
+
+Урон:
+153 (без усиления)
+197 (1 метр)
+262 + 75 ДОТ (1 метр, КБ на третий раз).
+
+Пресет:
+-BLB-118: Энергетический взрыв
+-Сияющая нога в полете
+
+Старт: 7 кадров
+Восстановление: 36
+В блок: -22
+
+Управление:
+1-J
+2-K
+3-L
+4-:
+Захват - U
+AMP - SHIFT
+WASD (Вверх, влево, вниз, вправо)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//Стартер
+KeyDown 13 1
+Delay 64
+KeyUp 13 1
+Delay 64
+KeyDown 13 1
+Delay 64
+KeyUp 13 1
+Delay 64
+KeyDown 13 1
+Delay 64
+KeyUp 13 1
+Delay 64
+//Яйки
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 15 1
+Delay 64
+KeyUp 15 1
+Delay 500 ms
+//Усиление
+KeyDown 225 1
+Delay 64
+KeyUp 225 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Mortal Kombat 11</Software>
+  </DefaultMacro>
+</Root>

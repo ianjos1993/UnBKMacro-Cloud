@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос уникальный
+1.Так же подойдет для слабых ПК
+2.Можно использовать на любых ножах
+3.Макрос без багов и траблов
+4.Приятного использования!
+
+Так же в настройках игры поменяйте ПКМ и ЛКМ местами, биндим на любую клавишу кроме Q</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>WheelUp 1
+Delay 1 ms
+KeyDown 8 1
+Delay 1 ms
+KeyUp 8 1
+Delay 1 ms
+KeyDown 8 1
+Delay 1 ms
+KeyUp 8 1
+Delay 1 ms
+KeyDown 8 1
+Delay 1 ms
+KeyUp 8 1
+Delay 1 ms
+WheelDown 1
+Delay 1 ms
+KeyDown 8 1
+Delay 1 ms
+KeyUp 8 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,141 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>1. Назначаем на ЛКМ
+2. Режим работы "Пока нажата клавиша"
+3. Запускаем</Description>
+    <Comment>botmek.ru</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 68 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveR -5 4
+Delay 68 ms
+MoveR -2 4
+Delay 68 ms
+MoveR 1 9
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 68 ms
+MoveR 1 12
+Delay 68 ms
+MoveR 9 28
+Delay 68 ms
+MoveR 2 25
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 68 ms
+MoveR 0 20
+Delay 68 ms
+MoveR 3 15
+Delay 68 ms
+MoveR 17 15
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 68 ms
+MoveR 20 -3
+Delay 68 ms
+MoveR 13 -6
+Delay 68 ms
+MoveR 10 -4
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 68 ms
+MoveR 8 18
+Delay 68 ms
+MoveR -17 10
+Delay 68 ms
+MoveR -11 -3
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 68 ms
+MoveR -20 14
+Delay 68 ms
+MoveR -20 10
+Delay 68 ms
+MoveR -20 2
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 68 ms
+MoveR -25 -10
+Delay 68 ms
+MoveR 5 0
+Delay 68 ms
+MoveR 5 0
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 68 ms
+Delay 68 ms
+Delay 68 ms
+Delay 68 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 68 ms
+Delay 68 ms
+Delay 68 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 68 ms
+Delay 68 ms
+Delay 68 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 68 ms
+Delay 68 ms
+Delay 68 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 68 ms
+Delay 68 ms
+Delay 68 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 68 ms
+Delay 68 ms
+Delay 68 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 68 ms
+Delay 68 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>CS: GO</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос дял пвп маинкрафт. Версия маникрафта 1.8.9. Данный макрос даёт возможность делать удары на много дальше чем обычно. W Tap - это один из видов комбо где персонаж идёт в перёд  и на секунды останавливается и в момент остановки другой игрок не сможет докоснуться до вас.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 6 ms
+KeyUp 26 1
+Delay 4 ms
+KeyDown 26 1
+Delay 6 ms
+KeyUp 26 1
+Delay 5 ms
+KeyDown 26 1
+Delay 10 ms
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

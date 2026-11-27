@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автокаст alacrity +моментальный автоюз способности,точнее,вам не придется прожимать кнопку "D", для ее активации,данный макрос с минимальной задержкой в 10 мс ,советую биндить на Q,W,E,R,T,Y</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 10 ms
+KeyUp 26 1
+Delay 10 ms
+KeyDown 26 1
+Delay 10 ms
+KeyUp 26 1
+Delay 10 ms
+KeyDown 8 1
+Delay 10 ms
+KeyUp 8 1
+Delay 10 ms
+KeyDown 21 1
+Delay 10 ms
+KeyUp 21 1
+Delay 10 ms
+KeyDown 7 1
+Delay 10 ms
+KeyUp 7 1
+Delay 10 ms
+KeyDown 7 1
+Delay 10 ms
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

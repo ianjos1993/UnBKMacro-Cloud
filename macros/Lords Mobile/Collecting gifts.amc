@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Отличие макроса от аналогов это то что он открывает сразу 3 подарка и будет работать даже с слабым интернетом ( максимально простой)
+
+Суть: Зайти в подарки гильдии -----&gt; нажать на кнопку активации
+
+Разрешение экрана: 1920x1080  ( окно с игрой не двигать! )</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1465 481
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+MoveTo 1470 621
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+MoveTo 1458 752
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+MoveTo 1459 902
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+GoWhile 1 1000</Syntax>
+    </KeyDown>
+    <Software>Lords Mobile</Software>
+  </DefaultMacro>
+</Root>

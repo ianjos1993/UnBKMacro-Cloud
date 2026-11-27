@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Ставите на вами удобную кнопку нажимаете и вуаля вам не надо вечно жать W. Данный макрос подходит для
+Аризоны РП, Евольв РП, Самп РП, Ревент РП, Адванс РП,Тринити РП, Даймонд РП и т.д, Удачного пользования!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 0 ms
+KeyDown 26 1
+Delay 20
+KeyUp 26 1
+Delay 20
+KeyDown 26 1
+Delay 20
+KeyUp 26 1
+Delay 20
+KeyDown 26 1
+Delay 20
+KeyUp 26 1
+Delay 20
+KeyDown 26 1
+Delay 20
+KeyUp 26 1
+Delay 20
+KeyDown 26 1
+Delay 20
+KeyUp 26 1
+Delay 20</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

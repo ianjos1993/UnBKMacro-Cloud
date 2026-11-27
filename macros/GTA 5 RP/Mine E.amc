@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макос для работы на шахте
+Нажмите для запуска, и просто управляйте только движениями персонажа
+Идеально удобно, если переключить движение вперед и бег на клавиши мыши
+Нажмите еще раз, для отключения</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 1 ms
+KeyUp 8 1
+Delay 1 ms
+KeyDown 8 1
+Delay 1 ms
+KeyUp 8 1
+Delay 1 ms
+KeyDown 8 1
+Delay 1 ms
+KeyUp 8 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

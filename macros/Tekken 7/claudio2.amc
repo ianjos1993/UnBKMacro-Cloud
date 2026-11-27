@@ -1,0 +1,87 @@
+<Root>
+  <DefaultMacro>
+    <Major>Claudio 2 CH combo</Major>
+    <Description>Макрос позволяет выполнять CH combo за Claudio.
+Видео демонстрации работы макроса: https://youtu.be/O-xmzxfUqHg
+
+Клаудио Серафино — персонаж серии Tekken, который был представлен в Tekken 7  как один из новых персонажей. Клаудио является фактическим лидером Лучников Сириуса, древнего ордена экзорцистов, которые сотни лет изгоняют сверхъестественные угрозы. Клаудио использует дисциплину под названием «Колдовство очищения в стиле Сириуса»,  которая вызывает святую силу Сириуса внутри него, чтобы сокрушить его врагов в бою. Стиль включает в себя удары руками и ногами, удары локтями и коленями, а также захваты плечами, выполненные в эффектной и яркой манере.
+
+Тестирование макроса проводились на последнем патче игры на 07.05.2023 (5.01 патч)
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#claudiotekken7 #tekken7 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 7 ms
+KeyDown 22 1
+Delay 40 ms
+KeyDown 76 1
+Delay 703 ms
+KeyUp 22 1
+Delay 40 ms
+KeyUp 4 1
+Delay 32 ms
+KeyUp 76 1
+Delay 231 ms
+KeyDown 73 1
+Delay 304 ms
+KeyUp 73 1
+Delay 152 ms
+KeyDown 4 1
+Delay 120 ms
+KeyDown 76 1
+Delay 335 ms
+KeyUp 76 1
+Delay 7 ms
+KeyUp 4 1
+Delay 183 ms
+KeyDown 7 1
+Delay 80 ms
+KeyDown 74 1
+Delay 256 ms
+KeyUp 74 1
+Delay 223 ms
+KeyDown 76 1
+Delay 184 ms
+KeyUp 76 1
+Delay 47 ms
+KeyUp 7 1
+Delay 576 ms
+KeyDown 7 1
+Delay 47 ms
+KeyUp 7 1
+Delay 79 ms
+KeyDown 7 1
+Delay 208 ms
+KeyDown 74 1
+Delay 631 ms
+KeyUp 74 1
+Delay 7 ms
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 7</Software>
+  </DefaultMacro>
+</Root>

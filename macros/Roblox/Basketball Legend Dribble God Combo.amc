@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>Basketball Legends</Major>
+    <Description>In the game Basketball Legends, this macro allows you to perform a spinning move to the left or right using just a single key. However, keep in mind that the combination will only be effective if you are holding the ball in your right hand.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+Delay 15 ms
+KeyUp 6 1
+Delay 15 ms
+KeyDown 6 1
+Delay 15 ms
+KeyUp 6 1
+Delay 15 ms
+KeyDown 29 1
+Delay 15 ms
+KeyUp 29 1
+Delay 15 ms
+KeyDown 29 1
+Delay 15 ms
+KeyUp 29 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

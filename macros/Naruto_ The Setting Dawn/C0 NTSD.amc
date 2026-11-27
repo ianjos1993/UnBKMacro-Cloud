@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>С0  в NTSD
+Атака Num 4
+Прыжок Num 5
+Защита Num 6 
+Макрос использует комбинацию A+D+J на Дейдаре делая клона и взрывая себя применяя способность С0
+ (самоуничтожение, атака на большой площади, требуется =&lt;150 HP.) 250 CP 50 HP Дамаг по врагу = 135 HP*x
+ ПРИМЕЧАНИЕ: Использование A+D+ J мощностью более 150 HP приведет лишь к небольшому взрыву без самоуничтожения.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 92 1
+Delay 64
+KeyUp 92 1
+Delay 64
+KeyDown 94 1
+Delay 64
+KeyUp 94 1
+Delay 64
+KeyDown 93 1
+Delay 64
+KeyUp 93 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Naruto The Setting Dawn - NTSD</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major>fast leave (need to accept last warning)</Major>
+    <Description>exit to the main menu by pressing one button (less than a second), after pressing it is necessary to confirm the exit one last time with one button
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 41 1
+Delay 20 ms
+KeyUp 41 1
+Delay 64
+KeyDown 82 1
+Delay 20 ms
+KeyUp 82 1
+Delay 64
+KeyDown 8 1
+Delay 20 ms
+KeyUp 8 1
+Delay 64
+KeyDown 29 1
+Delay 20 ms
+KeyUp 29 1
+Delay 64
+KeyDown 8 1
+Delay 20 ms
+KeyUp 8 1
+Delay 64
+KeyDown 80 1
+Delay 20 ms
+KeyUp 80 1
+Delay 64
+KeyDown 8 1
+Delay 20 ms
+KeyUp 8 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Elden Ring</Software>
+  </DefaultMacro>
+</Root>

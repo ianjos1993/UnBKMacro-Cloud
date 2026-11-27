@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>macros на дробь и снайпу (но нужно открывать зум самому) советую скорик (50%) Если есть перочки можно и с ними </Description>
+    <Comment>macros на дробь и снайпу (но нужно открывать зум самому) советую скорик (50%)</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+GoWhile 1 2
+Delay 17 ms
+LeftUp 1
+KeyDown 32 1
+GoWhile 5 2
+Delay 17 ms
+KeyUp 32 1
+KeyDown 30 1
+GoWhile 9 2
+Delay 17 ms
+KeyUp 30 1
+Delay 430 ms
+KeyUp 264 1</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

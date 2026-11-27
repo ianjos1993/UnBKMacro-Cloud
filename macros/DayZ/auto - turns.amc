@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Рабочие автоувороты в дейз. Q E в беге. Работает только если работают увороты в беге на сервере! По желанию ms можно поставить на свое усмотрение, лично мне идеально.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 200 ms
+KeyUp 20 1
+Delay 200 ms
+KeyDown 8 1
+Delay 200 ms
+KeyUp 8 1
+Delay 200 ms</Syntax>
+    </KeyDown>
+    <Software>DayZ</Software>
+  </DefaultMacro>
+</Root>

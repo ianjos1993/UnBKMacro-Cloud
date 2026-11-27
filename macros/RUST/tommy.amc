@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major>macro tommy low sense</Major>
+    <Description>this macro work for tommy with low sens
+1920x1080
+fov90
+dpi1200-1500
+sens 0.5
+
+just try it and enjoy the macro!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 50 ms
+MoveR 0 -20
+Delay 50 ms
+MoveR 0 -20
+Delay 50 ms
+MoveR 0 -20
+Delay 50 ms
+MoveR 0 -20
+Delay 50 ms
+MoveR 0 -20
+Delay 50 ms
+MoveR 0 -20
+Delay 50 ms
+LeftUp 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>rust </Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Pulo Automatico, uso em pvp, saltos continuos, mas com delays melhorados, recomenda-se colocar na Tecla Espaço SPACE do Teclado...</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 10 ms
+KeyUp 44 1
+Delay 35 ms
+KeyDown 44 1
+Delay 22 ms
+KeyUp 44 1
+Delay 40 ms
+KeyDown 44 1
+Delay 20 ms
+KeyUp 44 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Infestation: The New Z</Software>
+  </DefaultMacro>
+</Root>

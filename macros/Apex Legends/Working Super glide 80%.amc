@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major>Movement superglide</Major>
+    <Description>This super glide has an 80% success rate (according to superglide trainer
+All you have to do is bind your second jump input to "J" or whatever other key you want
+
+That's it, working super glide or apex 6/25/25.
+
+Happy movement</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 3 ms
+KeyUp 44 1
+KeyDown 13 1
+Delay 3 ms
+KeyUp 13 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

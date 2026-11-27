@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Make 90s after making the first ramp manually and then use this macro!
+
+keys for the building is : Q E C Z </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 5 ms
+KeyDown 20 1
+Delay 400 ms
+KeyUp 20 1
+Delay 10 ms
+KeyDown 8 1
+Delay 10 ms
+KeyUp 8 1
+Delay 5 ms
+KeyDown 6 1
+Delay 10 ms
+KeyUp 6 1
+Delay 5 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

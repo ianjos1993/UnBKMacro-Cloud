@@ -1,0 +1,64 @@
+<Root>
+  <DefaultMacro>
+    <Major>farm</Major>
+    <Description>Мини бот для мили 
+ f1 - игровой макрос на таргет любого моба на поляне
+f2 - atack
+f3 - pickup
+f4 - next target
+f5 - heal(банки)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 58 1
+Delay 64
+KeyUp 58 1
+KeyDown 61 1
+Delay 64
+KeyUp 61 1
+Delay 64
+KeyDown 61 1
+Delay 64
+KeyUp 61 1
+Delay 64
+KeyDown 59 1
+Delay 64
+KeyUp 59 1
+Delay 100 ms
+KeyDown 59 1
+Delay 64
+KeyUp 59 1
+Delay 1550 ms
+KeyDown 59 1
+Delay 64
+KeyUp 59 1
+Delay 64
+KeyDown 59 1
+Delay 64
+KeyUp 59 1
+Delay 7 s
+KeyDown 60 1
+Delay 64
+KeyUp 60 1
+Delay 500 ms
+KeyDown 60 1
+Delay 300 ms
+KeyUp 60 1
+Delay 64
+KeyDown 60 1
+Delay 64
+KeyUp 60 1
+Delay 64
+KeyDown 62 1
+Delay 64
+KeyUp 62 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,19 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос, для автоматической стрельбы авангарда, сразу вход в прицел, режим ставить пока нажата клавиша ЛКМ будите довольны)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 5 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Caliber</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,59 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос автоматически вызывает окно функции propagate  программы  CVAT и назаначает двум слайдам из разметки выделенное окно.
+Для этого оператору нужно на первом снимке выделить интересуемую область, выделить ее и вызвать макрос. Выделенная область автоматически разметится на следующих двух слайдах.
+
+Разрешение экрана 1920х1080</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 500 ms
+LeftUp 1
+KeyDown 228 1
+KeyDown 5 1
+Delay 50 ms
+KeyUp 5 1
+Delay 50 ms
+KeyUp 228 1
+Delay 50 ms
+MoveTo 744 399
+Delay 50 ms
+MoveTo 1035 331
+Delay 200 ms
+LeftDown 1
+Delay 300 ms
+LeftUp 1
+Delay 300 ms
+KeyDown 42 1
+Delay 50 ms
+KeyUp 42 1
+Delay 50 ms
+KeyDown 42 1
+Delay 50 ms
+KeyUp 42 1
+Delay 50 ms
+KeyDown 42 1
+Delay 50 ms
+KeyUp 42 1
+Delay 200 ms
+KeyDown 90 1
+Delay 100 ms
+KeyUp 90 1
+Delay 100 ms
+MoveTo 1001 328
+Delay 100 ms
+MoveTo 1185 485
+LeftDown 1
+Delay 50 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>CVAT</Software>
+  </DefaultMacro>
+</Root>

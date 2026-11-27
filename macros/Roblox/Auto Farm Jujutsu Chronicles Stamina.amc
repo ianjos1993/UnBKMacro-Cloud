@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major>Macro for farming Stamina in Jujutsu Chronicles Roblox game</Major>
+    <Description>Macro for farming Stamina in Jujutsu Chronicles Roblox game, just activate the macro, it will work indefinidely until you deactivate it. The macro automatically causes the character to run forward, periodically pressing Q to pump up stamina</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+GoWhile 7 9999999</Syntax>
+    </KeyDown>
+    <Software>Roblox Jujutsu Chronicles</Software>
+  </DefaultMacro>
+</Root>

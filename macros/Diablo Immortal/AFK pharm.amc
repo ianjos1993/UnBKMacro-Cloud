@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос предназначенный для АФК фарма крипов.
+
+-Заменить в настройках умения персонажа на АОЕ.
+
+-Необходимо встать в точку спауна крипов.
+
+-Использование способностей а также отхила по кулдауну даст возможность фарма круглосуточно.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 30 1
+Delay 3000 ms
+KeyUp 30 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Diablo Immortal</Software>
+  </DefaultMacro>
+</Root>

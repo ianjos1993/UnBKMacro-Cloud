@@ -1,0 +1,61 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для Аллоды онлайн. 
+Данный макрос позволит вашему жрецу фармить мобов по кругу.
+
+Принцип работы: 
+Вы цепляетесь за танка (следовать) и ставите макрос. 
+Макрос позволит вашему персонажу нон-стопом хилить танка и кидать на него всевозможные щиты. 
+Рекомендую поставить на дополнительные кнопки аое хилы, ресы и аое стан приста - для саппорта тиме.
+
+Настройка: 
+[1] - Целительный свет
+[2] - Святое слово
+[3] - Оберег
+[4] - Защита
+
+Лично у меня 3 компа, я цепляю на макрос хила к своему вару и варом все проношу. Плюс тело подкачивается для фарма. (Очень эффективно на лоу лвл астралах для прокачки до 50 лвл и скопления символов опыта). На хай лвл нужно добавить пару кнопок.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 33 1
+Delay 64
+KeyUp 33 1
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Аллоды онлайн</Software>
+  </DefaultMacro>
+</Root>

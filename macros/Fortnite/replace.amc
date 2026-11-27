@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>Replace Wall fast</Major>
+    <Description>Replace wall with any ping:
+
+wall: mouse3 (side mouse button)
+
+edit delay time depending on your ping, default delay time works for 0-30ms ping</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 21 ms
+Button5Down 1
+Delay 21 ms
+LeftDown 1
+Delay 21 ms
+LeftUp 1
+Delay 64
+Button5up 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

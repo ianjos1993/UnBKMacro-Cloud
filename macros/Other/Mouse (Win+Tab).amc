@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Быстрый вызов режима предоставления рабочих столов или же по другому -  многозадачности для перехода и управления различными рабочими столами Windows 11 путем нажатия колесика мышки.
+Win+Tab</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MiddleDown 1
+MiddleUp 1
+Delay 5 ms
+KeyDown 227 1
+KeyDown 43 1
+Delay 30 ms
+KeyUp 43 1
+KeyUp 227 1</Syntax>
+    </KeyDown>
+    <Software>Другие</Software>
+  </DefaultMacro>
+</Root>

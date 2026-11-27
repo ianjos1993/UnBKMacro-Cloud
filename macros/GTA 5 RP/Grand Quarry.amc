@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>не пропускает время собирать камни капчу не воддит можно использовать с афк
+Под все разрешения 
+От вас требуется только встать на камень и запустить бота. Бот сам будет добывать ресурсы и оповещать вас о появлении капчи!
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 64 ms
+KeyDown 8 1
+Delay 8000 ms
+KeyUp 8 1
+Delay 6000 ms
+KeyDown 8 1
+Delay 6000 ms
+KeyDown 8 1
+Delay 6000 ms
+KeyUp 8 1
+Delay 6000 ms
+KeyDown 8 1
+Delay 6000 ms
+KeyUp 8 1
+Delay 6000 ms</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

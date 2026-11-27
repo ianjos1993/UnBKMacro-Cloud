@@ -1,0 +1,63 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description> Макрос создан для игры Blade and Soul для класса мастер клинка линов( лсм).
+Макрос включает в себя уникальную возможность прожатия лкм+ф, а так же клавиши "C" и "V".
+Как использовать:
+1)Запускаем программу)
+2)Запускаем игру
+3)Скачивем макрос устанавливаем в мышку, ставим на повтор, запускаем
+4)Заходим в ф12 и проверяем, радуемся дамагу.
+Ротация скилов просто, влетаем ручками прожимаем врыв(сближения) на врага, затем юзаем макрос.
+Он автоматическ прожимает T R (лкм и пкм), затем стакает Fки и прожимает Z X C V  Автоматически, так же вы можете юзать по кд некоторые скиллы сами, да бы не терять дпс в данже.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+KeyDown 21 1
+Delay 0 ms
+KeyUp 21 1
+Delay 0 ms
+KeyDown 9 1
+Delay 0 ms
+KeyUp 9 1
+Delay 0 ms
+KeyUp 6 1
+Delay 0 ms
+KeyDown 25 1
+Delay 0 ms
+KeyUp 25 1
+Delay 0 ms
+KeyDown 29 1
+Delay 0 ms
+KeyUp 29 1
+Delay 0 ms
+KeyDown 27 1
+Delay 0 ms
+KeyUp 27 1
+Delay 0 ms
+KeyDown 21 1
+Delay 0 ms
+KeyUp 21 1
+Delay 0 ms
+KeyDown 23 1
+Delay 0 ms
+KeyUp 23 1
+Delay 0 ms
+KeyDown 33 1
+Delay 0 ms
+KeyUp 33 1
+Delay 0 ms
+KeyDown 25 1
+Delay 0 ms
+KeyUp 25 1
+Delay 0 ms</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

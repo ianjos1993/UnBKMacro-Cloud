@@ -1,0 +1,57 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>всем привет !
+! данный макрос позваляет вам вводить команду /salary на сервере phoenix-pe и не толькою
+! этим макросом вы облегчете себе ввод команды одним нажатием кнопки.
+! в кей ране биндите удобную вам клавишу либо кнопку на мыши.
+! и в любой для вас удобный момент нажимаете забинжиную клавишу и команда автоматически ! прописывается в чате.
+! всем до новых встреч надеюсь я вам помог </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 301 ms
+KeyDown 23 1
+Delay 135 ms
+KeyUp 23 1
+Delay 264 ms
+KeyDown 56 1
+Delay 72 ms
+KeyUp 56 1
+Delay 943 ms
+KeyDown 7 1
+Delay 111 ms
+KeyUp 7 1
+Delay 455 ms
+KeyDown 4 1
+Delay 95 ms
+KeyUp 4 1
+Delay 856 ms
+KeyDown 15 1
+Delay 63 ms
+KeyUp 15 1
+Delay 168 ms
+KeyDown 4 1
+Delay 103 ms
+KeyUp 4 1
+Delay 280 ms
+KeyDown 21 1
+Delay 135 ms
+KeyUp 21 1
+Delay 280 ms
+KeyDown 28 1
+Delay 111 ms
+KeyUp 28 1
+Delay 463 ms
+KeyDown 88 1
+Delay 103 ms
+KeyUp 88 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

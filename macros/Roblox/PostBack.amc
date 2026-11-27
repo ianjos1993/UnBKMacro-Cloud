@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>В данном макросе, вы используете трюк Blant, самый эффективный трюк, вы отходите влево и постите игрока и уходите назад, кидая идеально и забиваю с 0 процентов</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+Delay 124 ms
+KeyUp 10 1
+Delay 64
+KeyDown 8 1
+Delay 344 ms
+KeyUp 8 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

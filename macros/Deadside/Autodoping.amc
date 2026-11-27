@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Скрипт для автоматического потребления воды.
+Когда на экране уровень воды становится бардовым он автоматически заставляет персонажа взять в руки бутылку с водой и выпить ее. 
+Будет повторять пока не показания не станут белыми.Экран 1920х1080 в режиме окна. вода на Num6
+Добавлена цикличность</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 1 1 252,142,0 255,255,255 1 180 1017 996 64 1 0
+Delay 20 ms
+KeyDown 94 1
+Delay 1 s
+KeyUp 94 1
+Delay 64
+LeftDown 1
+Delay 3 s
+LeftUp 1
+Delay 64
+GoColor 1 1 252,142,0 255,255,255 1 180 1017 996 64 1 0
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Deadside</Software>
+  </DefaultMacro>
+</Root>

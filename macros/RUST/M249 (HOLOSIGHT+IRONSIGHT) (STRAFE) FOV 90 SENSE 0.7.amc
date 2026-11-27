@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro is made for the M249, it will only work with HOLOSIGHT + IRONSIGHT and you can strafe. FOV 90 and SENSE 0.7. This macro is designed to look like a pro player and reduces chance of detection.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 10 ms
+MoveR 0 8
+Delay 10 ms
+MoveR 0 8
+Delay 10 ms
+MoveR 0 8
+Delay 10 ms
+MoveR 0 8
+Delay 10 ms
+MoveR 0 8
+Delay 10 ms
+LeftUp 1
+Delay 13 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

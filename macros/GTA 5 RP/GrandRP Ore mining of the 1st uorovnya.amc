@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description> Макрос позволяет работать в афк работу по добыче руды  в Grand RP, макрос будет добывать самостоятельно. Вы же должны не пропускать капчи(примерное время капчи от 5 до 10 минут)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 5500 ms
+KeyUp 8 1
+Delay 6600 ms
+GoWhile 1 10000000</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

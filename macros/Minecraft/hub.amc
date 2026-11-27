@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>при нажатии хот-кея скрипт пишет /hub очень быстро. Используется для ливания в хаб, к примеру, когда на вас бежит алмазник или незеритчик, а вы простой железник</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>SetLang en-US
+KeyDown 56 1
+Delay 25 ms
+KeyUp 56 1
+Delay 25 ms
+KeyDown 11 1
+Delay 25 ms
+KeyUp 11 1
+Delay 25 ms
+KeyDown 24 1
+Delay 25 ms
+KeyUp 24 1
+Delay 25 ms
+KeyDown 5 1
+Delay 25 ms
+KeyUp 5 1
+Delay 25 ms
+KeyDown 88 1
+Delay 25 ms
+KeyUp 88 1
+Delay 25 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

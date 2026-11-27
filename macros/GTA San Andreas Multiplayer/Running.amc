@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос был создан для прокачки фитнеса на Малиновке Рп. 
+
+Этот макрос автоматически прокачивает скорость бега, а также выносливость.
+
+Подходит под разрешение 1600x900
+
+Приятного пользования!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 17 ms
+KeyUp 44 1
+Delay 17 ms
+GoColor 9 0 242,20,61 255,255,255 1 745 698 415 269 1 0
+KeyDown 26 1
+Delay 17 ms
+KeyUp 26 1
+Delay 17 ms
+GoColor 14 0 242,20,61 255,255,255 1 794 700 548 270 1 0
+KeyDown 4 1
+Delay 17 ms
+KeyUp 4 1
+Delay 16 ms
+GoColor 19 0 242,20,61 255,255,255 1 840 698 359 272 1 0
+KeyDown 22 1
+Delay 18 ms
+KeyUp 22 1
+Delay 17 ms
+GoColor 24 0 242,20,61 255,255,255 1 884 701 378 268 1 0
+KeyDown 7 1
+Delay 18 ms
+KeyUp 7 1
+Delay 17 ms</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

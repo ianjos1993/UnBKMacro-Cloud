@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Hello,
+
+This setup works pretty well for most weapons but not all 
+
+Vert: 15
+Hor: 25
+
+ADS:15
+
+POV: 90
+
+1920x1080</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+MoveR 0 3
+Delay 15 ms
+MoveR 0 3
+Delay 15 ms
+MoveR 0 3
+Delay 15 ms
+MoveR 0 4
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

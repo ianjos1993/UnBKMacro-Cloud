@@ -1,0 +1,823 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос предназначен для проверки наличия предложений на аукционе следующих восьми машин (указываю в порядке, в котором они проверяются): Ford #25 RTR Mustang, Ford #5 Escort '77, Ford Capri FE, Hot Wheels Bone Shaker, Porsche 911 GT3 RS Preorder Car, Quartz Regalia, Toyota Celica '74. Макрос работает по кругу, нажали кнопку, на которую он назначен - и смотрите за наличием машин сколько хотите. Другие редкие машины также были найдены с помощью аналогичного макроса.
+
+Что нужно для работы макроса? Во вкладке "аукционный зал" в вашем доме или на фестивале Horizon выбираете ПОИСК МАШИН -&gt; МАРКА -&gt; FORD так, чтобы в списке марок горела красным марка FORD, но не выбираете её. Макрос начнет работу с подтверждения выбора марки FORD, потом перелистнёт до первой машины, нажмет "подтвердить"... &lt;...&gt; ...перейдет к последней, нажмет подтвердить, выйдет из аукциона, снова пойдет выбирать марку FORD, таким образом работая в кольцевом режиме. Полностью одно такое кольцо занимает 1 минуту и 10 секунд.
+
+Макрос дает 4 секунды (этот тайминг можно изменить - в коде это ровно 8 ожиданий по 4000мс. перед нажатием ESCAPE) на прогрузку аукциона - он прогружается, вы реагируете. Если заметили предложение - отключаете макрос нажатием назначенной клавиши и выкупаете автомобиль. Для повторного запуска макроса снова наведитесь на FORD. 
+
+*выбраны минимальные тайминги, при которых игра не пропускает нажатия. В макросе используются только ENTER для подтверждения действий, ECSAPE для выхода и стрелки для листания списков. Актуален на август 2023, когда машин в игре 752 и они расположены в списках аукциона в таком порядке.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 300 ms
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 4000 ms
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 1000 ms
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 300 ms
+//к FORD ESCORT #5
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 4000 ms
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 1000 ms
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 300 ms
+//к FORD CAPRI FE
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 4000 ms
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 1000 ms
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 300 ms
+//к BONE SHAKER
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 300 ms
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 300 ms
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 4000 ms
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 1000 ms
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 300 ms
+//к PORSCHE 911 PO
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 300 ms
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 300 ms
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 4000 ms
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 1000 ms
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 300 ms
+//к PORSCHE EMORY
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 4000 ms
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 1000 ms
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 300 ms
+//к QUARTZ REGALIA
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 300 ms
+KeyDown 80 1
+Delay 64
+KeyUp 80 1
+Delay 64
+KeyDown 80 1
+Delay 64
+KeyUp 80 1
+Delay 64
+KeyDown 80 1
+Delay 64
+KeyUp 80 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 300 ms
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 4000 ms
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 1000 ms
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 300 ms
+//к TOYOTA CELICA 74
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 300 ms
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 300 ms
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 4000 ms
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 1000 ms
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 300 ms
+//обратно к FORD
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 300 ms
+KeyDown 80 1
+Delay 64
+KeyUp 80 1
+Delay 64
+KeyDown 80 1
+Delay 64
+KeyUp 80 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+//пришли к FORD. кольцо</Syntax>
+    </KeyDown>
+    <Software>Forza Horizon 4</Software>
+  </DefaultMacro>
+</Root>

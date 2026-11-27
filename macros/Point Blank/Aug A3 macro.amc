@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос убирает отдачу на оружие Aug A3, в следствии чего можно ставить нериальные головы и делать божественные киллы. Макрос ставиться на левую кнопку мыши</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 32 ms
+LeftUp 1
+Delay 32 ms
+LeftDown 1
+Delay 32 ms
+LeftUp 1
+Delay 32 ms
+LeftDown 1
+Delay 32 ms
+LeftUp 1
+Delay 32 ms
+LeftDown 1
+Delay 32 ms
+LeftUp 1
+Delay 32 ms
+LeftDown 1
+Delay 32 ms
+LeftUp 1
+Delay 32 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

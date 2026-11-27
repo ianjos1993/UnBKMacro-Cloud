@@ -1,0 +1,120 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>macro for the game RUST for the SAR. This macro will shoot the SAR (Semi-Automatic Rifle) fully automatically and will slightly control the recoil for it too.
+
+In-game settings:
+(Not necessary)
+-DPI 500
+-Sens 0.4
+-FOV 90
+
+Tested and used with 2560 x 1440</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveR 1 35
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveR 1 24
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveR -4 26
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveR -4 19
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveR 3 24
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveR 0 25
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveR -1 25
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveR 2 25
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveR 1 25
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveR 2 28
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveR -2 28
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveR 2 20
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveR 3 24
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveR 2 21
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveR 0 25
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveR 1 24
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

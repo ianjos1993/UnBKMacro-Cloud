@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Кликер левой и правой кнопкой для акимбо.
+Назначить на клавишу и зажимать.
+Задержка минимальная, можно изменять, но там все просчитано для лучшего ТТК акимбо.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+RightDown 1
+LeftUp 1
+RightUp 1
+Delay 11 ms</Syntax>
+    </KeyDown>
+    <Software>Call of Duty: Modern Warfare (2019)</Software>
+  </DefaultMacro>
+</Root>

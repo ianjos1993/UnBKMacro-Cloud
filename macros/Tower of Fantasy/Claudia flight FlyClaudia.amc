@@ -1,0 +1,80 @@
+<Root>
+  <DefaultMacro>
+    <Major>Tower Of Fantasy FlyClaudia</Major>
+    <Description>ENG
+   This macro is responsible for controlling the jerk of Claudia's second attack (Bladelow weapon) in flight. If you cancel the glider attack in time, the character will keep this jerk and fly forward at a very high speed. At the moment, these are some of the most convenient and enjoyable ways to move in the game, as well as the fastest.
+
+                                                                                       !!! IMPORTANT !!!
+
+1. Before pressing the macro, you need to jump up
+
+2. Before you start working in the macro, you need to change the values for yourself, because your ping and fps directly affect its performance and my original values may not suit you. How to do it:
+
+   A. To begin with, it is necessary to bind the glider to the E(eng) button, or change this button in the macro itself for    yourself (Two squeezes at the end of the algorithm with a delay and a hold of 1ms)
+   
+B. The key here is the delay after the second pressing of the LMB, it will just be individual for everyone. The smaller    your ping and fps are, the smaller this value is. ( I have 408ms )
+
+      If you play at 120 fps, I advise you to start selecting values from 240 ms
+      
+If you have 90 fps, your value will be about 310
+      
+If you have 60 fps, select a delay value of about 380.
+   These values are only approximate and also depend on the ping, but if you could not find the value, then I will describe    in more detail how to choose it
+
+   С. As I said earlier, we will limit the leap forward during the second blow in the air, respectively, and it should be    monitored during the macro setup.
+      
+If your character does not start making a second strike and the animation breaks down - the delay should be greatly       increased ( I set it up in 10ms increments)
+      
+If your character makes two strikes and cancels the animation, but does not make a leap forward - the delay should       be gradually increased in increments of no more than 5ms
+      
+If the character makes two strikes and a jerk, but is not pushed forward after that, the delay should be reduced
+      
+At the moment when you have formed a delay that is a multiple of ( For example, 255, 270, 300, 405, and so on), and       everything +- works, the macro may not be completely stable, for this, already start sorting through values in the range       from ( Your value is -5) to (Your value is + 5) in increments of one millisecond. So you will set up the macro as       accurately as possible, and it will work stably and correctly
+
+   3. You can cancel the flight only with the help of Dodge or glider pressing. If you try to do it by jumping, nothing will    happen.
+RU
+   Данный макрос отвечает за обуз рывка второй атаки Клаудии (оружия Bladelow) в полёте. Если вовремя отменить атаку глайдером - персонаж сохранит этот рывок и вылетит вперёд с очень большой скоростью. На данный момент это одни из самых удобных и приятных способов перемещения в игре, а так же самый быстрый.
+                                                                               !!! ВАЖНО !!!
+   1. Перед тем как прожать макрос - надо подпрыгнуть
+   2. До начала работы в макросе надо изменить значения под себя, ведь ваши пинг и фпс напрямую влияют    на его работоспособность и мои исходные значения могут вам не подходить. Как это сделать:
+      А. Для начала стоит забиндить глайдер на кнопку E(eng), либо же изменить эту кнопку в самом макросе           под себя ( Два прожатия в конце алгоритма с задержкой и удержанием 1мс)
+      Б. Ключевой тут является задержка после второго нажатия ЛКМ, она как раз и будет индивудальна для            каждого. Чем меньше ваши пинг и фпс - тем меньше это значение. ( У меня стоит 408мс )
+         Если вы играете в 120 фпс - советую начать подбирать значения с 240 мс
+         Если у вас 90 фпс - ваше значение будет около 310 
+         Если у вас стоит 60 фпс - подбирайте значение задержки около 380. 
+      Эти значения лишь приблизительны и так же зависят от пинга, но если вам не удалось подобрать       значение, далее я опишу более детальнее как его выбрать
+      В. Как я уже сказал ранее мы обузим рывок вперёд во время второго удара в воздухе, соответсвенно и за       ним надо следить во время настройки макроса. 
+        Если ваш персонаж не начинает делать второй удар и анимация срывается - задержку надо сильно                    увеличить ( я это настраивал с шагом в 10мс )
+        Если ваш персонаж делает два удара и отменяет анимацию, но не делает рывка вперёд - задержку стоит          постепенно увеличивать с шагом не более 5мс
+        Если персонаж делает два удара и рывок, но не выталкивается после этого вперёд - задержку стоит                 уменьшать
+        На моменте, когда у вас сформировалась задержка, кратная числу ( Например 255, 270, 300, 405 и так             далее ), и всё +- работает, работа макроса может быть не совсем стабильной, для этого уже начинайте             перебирать значения в диапазоне от ( Ваше значение -5 ) до ( Ваше значение + 5) с шагом в одну                         милесекунду. Так вы настроите макрос максимально точно, и он будет стабильно и корректно работать
+   3. Отменить полёт вы сможете только при помощи доджа или прожатия глайдера. Если вы попытаетесь    сделать это прыжком - ничего не произойдёт
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 408 ms
+KeyDown 8 1
+Delay 1 ms
+KeyUp 8 1
+Delay 1 ms
+KeyDown 8 1
+Delay 1 ms
+KeyUp 8 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Tower Of Fantasy FlyClaudia</Software>
+  </DefaultMacro>
+</Root>

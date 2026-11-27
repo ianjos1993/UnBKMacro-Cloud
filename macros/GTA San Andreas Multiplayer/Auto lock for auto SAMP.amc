@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>С этим макросом вы сможете ПРОСТЫМ НАЖАТИЕМ КЛАВИШИ ЗАКРЫВАТЬ\ОТКРЫВАТЬ АВТО! Вместо того,ч тобы писать в чат /lock простым нажатием клавиши все будет сделано за вас!
+Оченб удобно и не надо терять драгоценные секунды на пропись очередной команды в САМП!
+Работает на ВСЕХ ПРОЕКТАХ САМП И КРМП! </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 63 1
+Delay 64
+KeyUp 63 1
+Delay 64
+KeyDown 56 1
+Delay 64
+KeyUp 56 1
+Delay 64
+KeyDown 15 1
+Delay 64
+KeyUp 15 1
+Delay 64
+KeyDown 18 1
+Delay 64
+KeyUp 18 1
+Delay 64
+KeyDown 6 1
+Delay 64
+KeyUp 6 1
+Delay 64
+KeyDown 14 1
+Delay 64
+KeyUp 14 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

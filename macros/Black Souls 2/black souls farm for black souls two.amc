@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос предназначен для фарма черных душ в игре Black Souls 2. Чтобы начать его использовать, необходимо зайти в комнату краха и встать вплотную к костру, напротив двери. После этого просто запустите макрос.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 10 ms
+KeyDown 82 1
+Delay 2 s
+KeyUp 82 1
+Delay 64
+KeyDown 81 1
+Delay 2 s
+KeyUp 81 1
+Delay 2 s
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 1 s
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Black souls 2</Software>
+  </DefaultMacro>
+</Root>

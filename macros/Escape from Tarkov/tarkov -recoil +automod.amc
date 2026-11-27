@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Делает любое оружие автоматическим, также уменьшает отдачу, можно использовать и с автоматами тоже. Советую ставить на боковуюб кнопку мыши
+При чувстительности 0.7 позволяет полностью убрат отдачу
+АК-74 и его производных - при отдаче в 80
+АКМ и его производных - при отдаче 100
+СКС - при отдаче 120
+МР155/153 - 170
+СВДС - 100
+АШ-12 - только в режиме стрельбы одиночными
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoWhile 1 15
+LeftDown 1
+Delay 10 20 ms
+LeftUp 1
+Delay 10 20 ms
+MoveR 0 2</Syntax>
+    </KeyDown>
+    <Software>Escape From Tarkov</Software>
+  </DefaultMacro>
+</Root>

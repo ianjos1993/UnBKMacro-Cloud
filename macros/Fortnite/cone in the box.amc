@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>перед использыванием убедитесь что: 
+у стенки 75 и меньше хп
+конус на v
+у соперника в боксе нет конуса или лестницы
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 70 ms
+LeftUp 1
+Delay 120 ms
+KeyDown 25 1
+Delay 30 ms
+KeyUp 25 1
+LeftDown 1
+Delay 75 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

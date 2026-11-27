@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Fortnite editing macro, currently the bind is set to X. but you can change it by editing the macro for your personal expirience.</Description>
+    <Comment>to edit the macro click on editor and select the macro, after this edit the x edit bind to your currently editing bind. (the alt in the name doesnt stand for alt as the keybind, it stands for "alternative"</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 27 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+KeyUp 27 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>3 - огненный клык
+F3 - огненная бомба
+6 - огненный шквал
+Активацичя вручную комбо что сильнее автокомбо и при этом одна кнопка</Description>
+    <Comment>Продолжаем ветки мага. Есть еще другие от меня</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 150 ms
+KeyUp 32 1
+Delay 2 s
+KeyDown 60 1
+Delay 150 ms
+KeyUp 60 1
+Delay 100 ms
+KeyDown 35 1
+Delay 500 ms
+KeyUp 35 1</Syntax>
+    </KeyDown>
+    <Software>Icarus</Software>
+  </DefaultMacro>
+</Root>

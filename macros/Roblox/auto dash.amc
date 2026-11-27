@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major>Your Bizzare Adventure auto shuffle</Major>
+    <Description>Automatically equips Boxing gloves, performs Shuffle, then unequips gloves in a loop, hellps with movement</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+KeyDown 6 1
+KeyUp 6 1
+KeyUp 30 1
+KeyDown 30 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

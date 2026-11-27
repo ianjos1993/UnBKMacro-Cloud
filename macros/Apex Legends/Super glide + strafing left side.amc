@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>so this is the left side of superglide + strafing
+bind this key to C, V or Spacebar (but if you bind this to spacebar it may cause your gameplay) then also add aditional bind W to Mouse Scroll Wheel Up
+to practice this macros make sure you are in the edge of obstacle then when you got perfect timing press this key
+
+enjoy!
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 4 ms
+KeyUp 4 1
+Delay 4 ms
+KeyDown 44 1
+Delay 4 ms
+KeyUp 44 1
+Delay 4 ms
+KeyDown 6 1
+Delay 10 ms
+KeyUp 6 1
+Delay 4 ms
+WheelUp 1
+Delay 4 ms</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

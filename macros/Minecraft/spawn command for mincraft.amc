@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Инструкция для работы с биндом:
+1. Для работы команды надо открыть чат на кнопку (T) или (Е) ,
+2. Нажать на выбранную кнопку бинда.
+Важно, чтобы был выбран англиский язык.
+И всё можно радовоться что не надо долго вводить команду :)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 84 1
+Delay 15 ms
+KeyUp 84 1
+Delay 15 ms
+SetLang en-US
+KeyDown 22 1
+Delay 15 ms
+KeyUp 22 1
+Delay 15 ms
+KeyDown 19 1
+Delay 15 ms
+KeyUp 19 1
+Delay 15 ms
+KeyDown 4 1
+Delay 15 ms
+KeyUp 4 1
+Delay 15 ms
+KeyDown 26 1
+Delay 15 ms
+KeyUp 26 1
+Delay 15 ms
+KeyDown 17 1
+Delay 15 ms
+KeyUp 17 1
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>minecraft</Software>
+  </DefaultMacro>
+</Root>

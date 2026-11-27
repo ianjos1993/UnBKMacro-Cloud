@@ -1,0 +1,87 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>При быстрой смене шотгана на любое другое оружие и обратно и своевременном нажатии кнопки стрельбы скорострельность дробовика значительно повышается. Для использования нужно назначить дробовик на 9 и любое другое оружие на 8. Так же удобнее всего данный макрос будет использовать при режиме работы по зажатию клавиши.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 37 1
+Delay 87 ms
+KeyDown 38 1
+Delay 71 ms
+KeyUp 37 1
+Delay 4 ms
+KeyUp 38 1
+Delay 232 ms
+KeyDown 37 1
+Delay 80 ms
+KeyDown 38 1
+Delay 75 ms
+KeyUp 37 1
+Delay 24 ms
+KeyUp 38 1
+Delay 212 ms
+KeyDown 37 1
+Delay 66 ms
+KeyDown 38 1
+Delay 78 ms
+KeyUp 37 1
+Delay 36 ms
+KeyUp 38 1
+Delay 206 ms
+KeyDown 37 1
+Delay 65 ms
+KeyDown 38 1
+Delay 76 ms
+KeyUp 37 1
+Delay 26 ms
+KeyUp 38 1
+Delay 215 ms
+KeyDown 37 1
+Delay 73 ms
+KeyDown 38 1
+Delay 71 ms
+KeyUp 37 1
+Delay 32 ms
+KeyUp 38 1
+Delay 208 ms
+KeyDown 37 1
+Delay 78 ms
+KeyDown 38 1
+Delay 66 ms
+KeyUp 37 1
+Delay 27 ms
+KeyUp 38 1
+Delay 192 ms
+KeyDown 37 1
+Delay 78 ms
+KeyDown 38 1
+Delay 76 ms
+KeyUp 37 1
+Delay 20 ms
+KeyUp 38 1
+Delay 185 ms
+KeyDown 37 1
+Delay 65 ms
+KeyDown 38 1
+Delay 78 ms
+KeyUp 37 1
+Delay 33 ms
+KeyUp 38 1
+Delay 186 ms
+KeyDown 37 1
+Delay 66 ms
+KeyDown 38 1
+Delay 84 ms
+KeyUp 37 1
+Delay 21 ms
+KeyUp 38 1</Syntax>
+    </KeyDown>
+    <Software>Warhammer 40,000: Boltgun Shotgun Switch</Software>
+  </DefaultMacro>
+</Root>

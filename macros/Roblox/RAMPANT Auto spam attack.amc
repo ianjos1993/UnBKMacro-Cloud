@@ -1,0 +1,54 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro is for RAMPANT game, in this macro you can autospam all the abilitys
+Q for ability 1
+E for ability 2
+X for ability 3
+C for ability 4
+and MB1 for attack
+
+Intructions. 
+1. Put  the operation mode, unitl pressed again.
+2. Start the macro when you get close to an enemy
+3. stop the macro when you kill the enemy</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 34 ms
+LeftUp 1
+Delay 34 ms
+LeftDown 1
+Delay 34 ms
+LeftUp 1
+Delay 34 ms
+KeyDown 20 1
+Delay 34 ms
+KeyUp 20 1
+Delay 34 ms
+KeyDown 8 1
+Delay 34 ms
+KeyUp 8 1
+Delay 34 ms
+KeyDown 27 1
+Delay 34 ms
+KeyUp 27 1
+Delay 34 ms
+KeyDown 6 1
+Delay 34 ms
+KeyUp 6 1
+Delay 34 ms
+LeftDown 1
+Delay 34 ms
+LeftUp 1
+Delay 34 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Pointblank Macro
+</Description>
+    <Comment>Quick Change
+</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 30 ms
+KeyDown 32 1
+Delay 28 ms
+KeyUp 32 1
+Delay 28 ms
+KeyDown 30 1
+Delay 28 ms
+KeyUp 30 1
+Delay 28 ms</Syntax>
+    </KeyDown>
+    <Software>Shotgun Script (PB)
+</Software>
+  </DefaultMacro>
+</Root>

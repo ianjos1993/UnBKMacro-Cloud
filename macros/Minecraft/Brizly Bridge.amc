@@ -1,0 +1,58 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>1.Поставьте макрос на любую клавишу.
+2.Выберите режим пока нажата клавиша/до повторного нажатия.
+3.Наведите прицел на черную грань блока (между верхней и боковой стороной).
+4.Активируйте макрос. Всё делается автоматически.
+Продолжительность строительства зависит от наводки прицела.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 5 ms
+RightUp 1
+Delay 5 ms
+KeyDown 22 1
+RightDown 1
+Delay 5 ms
+RightUp 1
+Delay 5 ms
+KeyDown 4 1
+RightDown 1
+Delay 5 ms
+RightUp 1
+Delay 55 ms
+RightDown 1
+Delay 5 ms
+RightUp 1
+Delay 5 ms
+KeyUp 4 1
+Delay 5 ms
+RightDown 1
+Delay 5 ms
+RightUp 1
+Delay 5 ms
+KeyDown 7 1
+RightDown 1
+Delay 5 ms
+RightUp 1
+Delay 61 ms
+RightDown 1
+Delay 5 ms
+RightUp 1
+Delay 5 ms
+KeyUp 7 1
+Delay 5 ms
+RightDown 1
+Delay 5 ms
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

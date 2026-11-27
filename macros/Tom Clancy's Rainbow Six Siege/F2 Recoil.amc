@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro will control the F2 recoil in Tom Clancy's Rainbow Six Siege.
+
+Game settings:
+800 dpi
+12 horizontal sensitivity
+12 verticle sensitive 
+1920x1080
+16:10 aspect ratio
+84 FOV
+50 ads
+
+Bind this macro to Left Mouse Button.
+Message with any questions.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+MoveR 2 11
+Delay 15 ms
+MoveR 2 12
+Delay 15 ms
+MoveR 1 11
+Delay 15 ms
+MoveR 1 10
+Delay 15 ms
+MoveR 1 10
+Delay 15 ms
+MoveR -1 10
+Delay 15 ms
+MoveR -1 12
+Delay 15 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

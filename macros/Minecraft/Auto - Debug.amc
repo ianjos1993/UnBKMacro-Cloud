@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос автоматически вводит команду /debug в Minecraft Bedrock Edition, позволяя включить или отключить режим отладки. Он полезен для администраторов, разработчиков и технических специалистов, которым нужно отслеживать производительность, выявлять ошибки и анализировать работу сервера.
+
+Инструкция по установке макроса:
+1. Скачайте файл макроса.
+2. Назначьте его на удобную для вас клавишу.
+3. Готово!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>SetLang en-US
+KeyDown 56 1
+Delay 15
+KeyUp 56 1
+Delay 15
+KeyDown 7 1
+Delay 15
+KeyUp 7 1
+Delay 15
+KeyDown 8 1
+Delay 15
+KeyUp 8 1
+Delay 15
+KeyDown 5 1
+Delay 15
+KeyUp 5 1
+Delay 15
+KeyDown 24 1
+Delay 15
+KeyUp 24 1
+Delay 15
+KeyDown 10 1
+Delay 15
+KeyUp 10 1
+Delay 15
+KeyDown 88 1
+Delay 15
+KeyUp 88 1
+Delay 15
+SetLang ru-RU</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>triple edit</Major>
+    <Description>This macro can help u to do triple edit. U need this controls: Q - wall, Z - cone, X - floor, F - ramp. Enjoy!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 40
+KeyUp 9 1
+Delay 40
+KeyDown 27 1
+Delay 40
+KeyUp 27 1
+Delay 40
+KeyDown 29 1
+Delay 40
+KeyUp 29 1
+Delay 40
+KeyDown 20 1
+Delay 40
+KeyUp 20 1
+Delay 40</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

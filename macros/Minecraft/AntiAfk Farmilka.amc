@@ -1,0 +1,57 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Антиафк макрос, выполняет функции атаки, приседания, автоматической попытки покушать, затестил, работает.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 64
+KeyUp 225 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1 s
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

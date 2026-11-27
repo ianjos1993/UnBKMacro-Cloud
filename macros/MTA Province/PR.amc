@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос-пиарщик, благодаря которому можно рекламировать свои внутриигровые фракции/организации и тому подобное. Перед использованием данного макроса требуется назначить игровые БИНДЫ через консоль на клавиши "1" "2" и "=", без этого макрос работать не будет!
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1000 ms
+KeyDown 30 1
+Delay 131 ms
+KeyUp 30 1
+Delay 2000 ms
+KeyDown 31 1
+Delay 131 ms
+KeyUp 31 1
+Delay 2000 ms
+KeyDown 46 1
+Delay 64
+KeyUp 46 1
+Delay 30000 ms
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

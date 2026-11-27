@@ -1,0 +1,57 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Для всех мышек
+Настройки игры
+Чувствительность мыши: 0.8
+с самодельным прицелом: 0.7
+с голографическим прицелом: 0.9
+Поле зрения игрока: 90
+
+
+
+By But1ch</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 5 ms
+MoveR 0 3
+Delay 20 ms
+MoveR 0 3
+Delay 20 ms
+MoveR 0 2
+Delay 20 ms
+MoveR 0 2
+Delay 20 ms
+MoveR 0 2
+Delay 20 ms
+MoveR 0 2
+Delay 5 ms
+LeftUp 1
+Delay 20 ms
+LeftDown 1
+Delay 5 ms
+MoveR 0 2
+Delay 20 ms
+MoveR 0 2
+Delay 20 ms
+MoveR 0 2
+Delay 20 ms
+MoveR 0 2
+Delay 20 ms
+MoveR 0 3
+Delay 20 ms
+MoveR 0 3
+Delay 5 ms
+LeftUp 1
+Delay 61 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

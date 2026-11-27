@@ -1,0 +1,65 @@
+<Root>
+  <DefaultMacro>
+    <Major>КАДЕТ</Major>
+    <Description>Быстрые логи урона в консоли. Теперь не нужно в ручную выполнять данные действия.
+
+
+Инструкция:
+1. Выставить на нужную клавишу и пользоваться )</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>SetLang en-US
+KeyDown 58 1
+Delay 64
+KeyUp 58 1
+Delay 64
+KeyDown 6 1
+Delay 64
+KeyUp 6 1
+Delay 64
+KeyDown 18 1
+Delay 64
+KeyUp 18 1
+Delay 64
+KeyDown 16 1
+Delay 64
+KeyUp 16 1
+Delay 64
+KeyDown 5 1
+Delay 64
+KeyUp 5 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 64
+KeyDown 15 1
+Delay 64
+KeyUp 15 1
+Delay 64
+KeyDown 18 1
+Delay 64
+KeyUp 18 1
+Delay 64
+KeyDown 10 1
+Delay 64
+KeyUp 10 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

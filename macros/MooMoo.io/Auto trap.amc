@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Быстро ставит ловушки, очень может понадобиться когда сражаешься или убегаешь от кого-то.
+Макрос быстро нажимает клавишу F и SPASE, таким образом ставится ловушка, но F можно поменять на что угодно!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 1 ms
+KeyUp 9 1
+Delay 1 ms
+KeyDown 44 1
+Delay 1 ms
+KeyUp 44 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Sploop.io / Moomoo.io</Software>
+  </DefaultMacro>
+</Root>

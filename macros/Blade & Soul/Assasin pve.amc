@@ -1,0 +1,62 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос сделан для игры Blade and Soul на класс Assasin Ядовитая тень
+Введение　читаем　внимательно!
+Как　использовать:
+1)Установить　в　мышку　на　удобную　для　вас　клавишу
+2)Включить　и　пользоваться　с　радостью!
+Введение:
+ПВЕ　билд　в　ядовитой　тени,　если　рассматривать　по　строчкам　и　трём　вариантам　выбора　наборов　способностей　в　каждой　из　них,　выглядит　следующим　образом　-　1 2 2 1 1,　где,　соответственно,　в　первой　строке　будет　вариант　Тёмное　усиление,　во　второй　Улучшенной　отступление　1　(можно　и　Улучшенный　манёвр　поставить,　однако　тогда　в　пве　билде　син　лишается　двух　дополнительных　контролей　-　оглушения　на　С　(Клинок　лотоса)　и　опрокидывания　в　невидимости　на　1　(Торнадо),　в　третьей　Боевая　ярость,　в　четвёртой　Мина,　и　в　пятой　Отравленный　разум　(для　изменения　способности　Дымовая　завеса　на　Ядовитый　взрыв,　повышать　характеристики　пассивной　способности　с　300　дополнительного　урона　от　силы　атаки　до　500　смысла　нет,　так　как　этот　урон　не　идёт　в　учёт　урона　умений,　и　соответственно　не　даёт　значительного　прироста　в　дпс).
+Макрос　самостоятельно　крутит　ротацию　скиллов
+
+Автор Katsumi 
+Обращаться в лс</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 1 ms
+KeyUp 43 1
+Delay 1 ms
+KeyDown 23 1
+Delay 1 ms
+KeyUp 23 1
+Delay 1 ms
+KeyDown 9 1
+Delay 1 ms
+KeyUp 9 1
+Delay 1 ms
+KeyDown 33 1
+Delay 1 ms
+KeyUp 33 1
+Delay 1 ms
+KeyDown 25 1
+Delay 1 ms
+KeyUp 25 1
+Delay 1 ms
+KeyDown 27 1
+Delay 1 ms
+KeyUp 27 1
+Delay 1 ms
+KeyDown 21 1
+Delay 1 ms
+KeyUp 21 1
+Delay 1 ms
+KeyDown 23 1
+Delay 1 ms
+KeyUp 23 1
+Delay 1 ms
+KeyDown 9 1
+Delay 1 ms
+KeyUp 9 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

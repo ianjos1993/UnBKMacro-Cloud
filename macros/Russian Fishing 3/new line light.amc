@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>Прямая проводка</Major>
+    <Description>Прямая проводка с максимальной силой заброса. Авто подкручивание, автовываживание, автоподъем. Встаем на точку включаем макрос и идем гулять, а макрос сам за вас ловит. Проверено. На Тунгуске очень хорошо работает. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 226 ms
+LeftDown 1
+Delay 1214 ms
+LeftUp 1
+Delay 213 ms
+KeyUp 225 1
+Delay 2791 ms
+LeftDown 1
+Delay 20974 ms
+RightDown 1
+Delay 6502 ms
+RightUp 1
+Delay 120 ms
+LeftUp 1
+Delay 798 ms
+KeyDown 44 1
+Delay 135 ms
+KeyUp 44 1
+Delay 2032 ms</Syntax>
+    </KeyDown>
+    <Software>Russian Fishing 3</Software>
+  </DefaultMacro>
+</Root>

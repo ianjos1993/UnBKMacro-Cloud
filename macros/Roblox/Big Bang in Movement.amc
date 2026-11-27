@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Hellous rage user, this time I bring you a fairly simple-to-use macro for executing the Big Bang attack while you move. All you have to do is follow these straightforward instructions!
+
+Instructions:
+
+Equip "Big Bang" on key 8 and "Grand Slam" on key 9.
+Equip "Tp," whether it's long or short, on key 1.
+To use it, all you have to do is assign the macro to the key that is most comfortable for you (I recommend using the side buttons on your mouse if you have them) and click. Once you click, you need to hold the left mouse button and start moving!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 37 1
+Delay 2
+KeyUp 37 1
+Delay 2
+LeftDown 1
+Delay 2
+LeftUp 1
+Delay 2
+KeyDown 38 1
+Delay 2
+KeyUp 38 1
+Delay 2
+LeftDown 1
+Delay 2
+LeftUp 1
+Delay 2
+KeyDown 30 1
+Delay 2
+KeyUp 30 1
+Delay 2
+LeftDown 1
+Delay 2
+LeftUp 1
+Delay 2</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

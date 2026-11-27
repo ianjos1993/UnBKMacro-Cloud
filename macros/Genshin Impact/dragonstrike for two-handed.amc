@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Довольно мощная механика для двурука под названием драгонстрайк.
+Если у вас что-то не работает (из-за фпс или пинга) нужно будет менять либо верхние два числа либо два нижних (эксперементируйте). P.S. У меня было 100 пинг и 60 фпс.
+О драгонстрайке:
+Работает если точно попадает в цель первой атакой!!! Нажимаете кнопку, идет анимации атаки, после скипается прыжком и шифтом и автоматически нажимается кнопка атаки и мы видим циферки урона:з</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 350 ms
+KeyDown 225 1
+Delay 75 ms
+KeyDown 44 1
+Delay 75 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 200 ms</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

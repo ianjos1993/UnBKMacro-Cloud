@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Редакт на g очень хорошо подходит для дабл эдитов 
+Редакт - F
+Кирка - G
+кому не удобно измените клавиши,если боитесь получить бан выставляйте минимум на 15
+Удачно игры!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 5 ms
+KeyUp 9 1
+Delay 5 ms
+KeyDown 10 1
+Delay 5 ms
+LeftDown 1
+Delay 5 ms
+KeyUp 10 1
+Delay 5 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

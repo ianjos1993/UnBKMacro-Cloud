@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>z-блинк
+R-ульта
+q-1 скилл
+w-2скилл
+Прокаст на шейкера из ульты 1 и 2 скила используйте.Имба макрос ползуюсь уже 2 дня прикольно можно шотнуть 1 или 2 двух врагов</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 1 ms
+KeyUp 29 1
+Delay 1 ms
+KeyDown 21 1
+Delay 1 ms
+KeyUp 21 1
+Delay 1 ms
+KeyDown 20 1
+Delay 1 ms
+KeyUp 20 1
+Delay 2 ms
+KeyDown 26 1
+Delay 1 ms
+KeyUp 26 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

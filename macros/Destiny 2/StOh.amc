@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Дэш с помощью резвого клинка и стазисного охотника. Встаешь на край, достаешь меч и прожимаешь макрос</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 108 ms
+RightUp 1
+Delay 40 ms
+KeyDown 44 1
+Delay 8 ms
+KeyDown 27 1
+Delay 11 ms
+KeyUp 44 1
+Delay 5 ms
+KeyUp 27 1
+Delay 3438 ms</Syntax>
+    </KeyDown>
+    <Software>Destiny 2</Software>
+  </DefaultMacro>
+</Root>

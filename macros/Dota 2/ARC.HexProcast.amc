@@ -1,0 +1,69 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>прокаст на арк вардена, который предназначен для того, чтобы не выпустить жертву с хекса. (если не нажимаются некоторые предметы/способности, настройте задержку. также помните что курсор должен всегда быть на враге, ибо скрипт не сможет корректно работать)
+
+как использовать:
+1. навести курсор на врага
+2. нажать кнопку активации скрипта
+
+Требования к биндам и слотам:
+1. «Хекс» - привязан к клавише Z
+2. «Глейпнир» - пробел
+3. «Поле (второй скилл)» - клавиша W
+4. «Ульта» - клавиша R (а сама копия на цифру 4)
+p.s. по желанию во время выполнения скрипта можно нажимать свои предметы
+
+Для корректной работы убедитесь, что:
+1. Драйвер активирован в настройках Keyran.
+2. Вы используете английскую раскладку клавиатуры.
+3. Не используйте модификаторы бинда (Shift/Ctrl/Alt), это нарушит работу скрипта.
+4. Режим работы советую ставить «Выполнять один раз при нажатии».</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 64 ms
+KeyUp 29 1
+Delay 100 ms
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 26 1
+Delay 110 ms
+KeyUp 26 1
+Delay 110 ms
+KeyDown 226 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+KeyUp 226 1
+Delay 64
+KeyDown 33 1
+Delay 64 ms
+KeyUp 33 1
+Delay 530 ms
+KeyDown 26 1
+Delay 110 ms
+KeyUp 26 1
+Delay 540 ms
+KeyDown 29 1
+Delay 74 ms
+KeyUp 29 1
+Delay 74 ms
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

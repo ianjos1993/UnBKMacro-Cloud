@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Кач анимуса Ианны (восстановителя здоровья) после 20 уровня. Используется после получения второй профы на 40 ровне. На панели быстрого доступа разместь иконки: ф8 - вызов анимуса, ф9 - проф умение пастора 1, ф10 - проф умениепастора 2. Запустить макрос когда анимус вызван. После чего анимус отзовется, умение 1 восстановит энергию анимуса, умение 2 уберет откат на новый вызов анимуса, ф8 вызовет анимуса повторно. Через 200 секунд цикл повторяется.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 65 1
+Delay 64
+KeyUp 65 1
+Delay 1 s
+KeyDown 66 1
+Delay 64
+KeyUp 66 1
+Delay 1 s
+KeyDown 67 1
+Delay 64
+KeyUp 67 1
+Delay 3 s
+KeyDown 65 1
+Delay 64
+KeyUp 65 1
+Delay 200 s
+GoWhile 1 9999</Syntax>
+    </KeyDown>
+    <Software>RF Online</Software>
+  </DefaultMacro>
+</Root>

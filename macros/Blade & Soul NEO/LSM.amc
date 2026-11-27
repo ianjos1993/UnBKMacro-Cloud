@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>LSM</Major>
+    <Description>Для ЛСМ через молнию, ротация ЛКМ - F, снижение времени перезарядки + грозовой удар, без других кнопок. Для пинга примерно 15мс</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 0 ms
+KeyUp 9 1
+Delay 0 ms
+Delay 260 ms
+KeyDown 9 1
+Delay 0 ms
+KeyUp 9 1
+Delay 0 ms
+KeyDown 21 1
+Delay 0 ms
+KeyUp 21 1
+Delay 0 ms
+KeyDown 9 1
+Delay 0 ms
+KeyUp 9 1
+Delay 0 ms</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul NEO</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>этот макрос поможет вам очень быстро возвращяться в лоби на различных серварах minecraft
+. ( работает на любом разширении екрана )
+
+
+
+
+
+
+
+</Description>
+    <Comment> </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 1 ms
+KeyUp 56 1
+Delay 1 ms
+KeyDown 11 1
+Delay 1 ms
+KeyUp 11 1
+Delay 1 ms
+KeyDown 24 1
+Delay 1 ms
+KeyUp 24 1
+Delay 1 ms
+KeyDown 5 1
+Delay 1 ms
+KeyUp 5 1
+Delay 1 ms
+KeyDown 88 1
+Delay 1 ms
+KeyUp 88 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>minecfatf</Software>
+  </DefaultMacro>
+</Root>

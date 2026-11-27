@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major>Tower Defense Simulator/TDS auto chain commander!</Major>
+    <Description>Товер дефенс симулятор авто чеин для коммандира! если вы не успеваете чейнить командира или все время забываете чейнить в игре то этот макрос для вас 
+в этом макросе нету ошибок так как ограничение в 10003 мс и буст активируется и будет работать
+Пользуйтесь!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+KeyUp 9 1
+Delay 10003 ms
+GoWhile 1 10000</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

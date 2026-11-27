@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на осу, засчет коротко времненных кучность осы стала более комфортной, вставив в осу сверло 3, она станет хорошим оружием на средние дистанции </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+LeftUp 1
+Delay 20
+LeftDown 1
+LeftUp 1
+Delay 20
+LeftDown 1
+LeftUp 1
+Delay 20</Syntax>
+    </KeyDown>
+    <Software>APB Reloaded</Software>
+  </DefaultMacro>
+</Root>

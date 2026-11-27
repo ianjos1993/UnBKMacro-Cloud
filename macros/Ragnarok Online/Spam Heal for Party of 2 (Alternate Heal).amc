@@ -1,0 +1,279 @@
+<Root>
+  <DefaultMacro>
+    <Major>Acolyte Heal Skill Spam for Party of 2 Members</Major>
+    <Description>
+Macro Name: Divine Healer’s Harmony – 2-Party Member Edition
+
+__________________________________________________________________________
+
+Description:
+
+This macro is tailored for Acolytes, Priests, High Priests, Arch Bishops, and Cardinals who seek to master the art of healing in Ragnarok Online. Designed for party configurations with 2 members, this setup ensures uninterrupted healing efficiency, allowing players to focus on strategy and support without the stress of manual spamming.
+
+Whether you're holding the frontline or aiding an ally in a heated battle, this macro is your ultimate healing companion, maximizing both gameplay efficiency and enjoyment.
+
+________________________________________________________________________
+
+Supported Job Classes:
+     + Acolyte / Priest / High Priest / Arch Bishop / Cardinal
+
+
+Skill Focus:
+     +Heal (Levels 1 to 10)
+
+Conditions:
+     + Party configuration: 2 members
+___________________________________________________________________________
+
+
+Step-by-Step Tutorial for Macro Setup:
+1. Assign Heal Skill to "F":
+     + Set your Heal skill (at any level from 1 to 10) to the "F" key on your keyboard.
+     + For optimal visual alignment, adjust your game’s Graphic Resolution Setting to 1600 x 900.
+
+2. Position the Ragnarok Game Window:
+     + Ensure your Ragnarok Online game window is positioned at the top-left corner of your screen. 
+     + This placement is critical for the macro to function smoothly and accurately.
+
+3. Party Setup:
+     + Create a party by pressing Alt + Z to open the Party Member List window.
+     + Add your second party member to ensure they receive consistent heals during gameplay.
+
+4. Window Arrangement:
+     + Keep the Party Member List window open and place it below your fully expanded shortcut keys window (1, 2, 3, 4 lanes visible). 
+     + This arrangement allows the macro to detect the correct targets and ensure efficient healing.
+
+5. Activate the Macro:
+     + Assign this macro to your preferred key within Keyran.
+     + Set the Operating Mode to "Run until pressed again."
+
+6. Ready to Heal:
+     + With everything in place, you’re all set to spam Heal continuously on yourself and your party member without lifting a finger! Watch as your team’s health stays at peak levels, even during the most intense battles.
+
+_____________________________________________________________________________
+
+Upcoming Version Announcement:
+
+Stay tuned for the Spam Heal for Party of 3 edition! Perfect for larger group support scenarios, ensuring every party member receives divine care!
+
+____________________________________________________________________________
+
+Special Thanks to Keyran:
+
+Your innovative platform has truly revolutionized the gaming experience. 
+With Keyran, tedious tasks become seamless, stress-free, and incredibly enjoyable. 
+
+Thank you for empowering us with tools that make every adventure a joy!
+
+____________________________________________________________________________
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 122 ms
+KeyUp 9 1
+Delay 286 ms
+MoveTo 357 184
+Delay 10 ms
+MoveTo 357 189
+Delay 7 ms
+MoveTo 357 196
+Delay 8 ms
+MoveTo 357 200
+Delay 7 ms
+MoveTo 357 203
+Delay 7 ms
+MoveTo 357 205
+Delay 8 ms
+MoveTo 357 206
+Delay 7 ms
+MoveTo 357 207
+Delay 233 ms
+LeftDown 1
+Delay 118 ms
+LeftUp 1
+Delay 291 ms
+MoveTo 357 207
+Delay 7 ms
+MoveTo 357 209
+Delay 8 ms
+MoveTo 357 209
+Delay 16 ms
+MoveTo 357 210
+Delay 7 ms
+MoveTo 357 212
+Delay 6 ms
+MoveTo 357 213
+Delay 7 ms
+MoveTo 358 215
+Delay 8 ms
+MoveTo 358 217
+Delay 8 ms
+MoveTo 358 219
+Delay 7 ms
+MoveTo 358 221
+Delay 8 ms
+MoveTo 359 222
+Delay 7 ms
+MoveTo 359 223
+Delay 15 ms
+MoveTo 359 223
+Delay 40 ms
+MoveTo 359 224
+Delay 7 ms
+MoveTo 359 225
+Delay 8 ms
+MoveTo 359 226
+Delay 7 ms
+MoveTo 359 226
+Delay 8 ms
+MoveTo 359 227
+Delay 7 ms
+MoveTo 359 227
+Delay 6 ms
+MoveTo 359 228
+Delay 55 ms
+MoveTo 359 228
+Delay 60 ms
+KeyDown 9 1
+Delay 95 ms
+KeyUp 9 1
+Delay 523 ms
+LeftDown 1
+Delay 85 ms
+LeftUp 1
+Delay 459 ms
+MoveTo 359 228
+Delay 13 ms
+MoveTo 359 225
+Delay 8 ms
+MoveTo 359 225
+Delay 8 ms
+MoveTo 359 224
+Delay 7 ms
+MoveTo 359 223
+Delay 8 ms
+MoveTo 360 222
+Delay 7 ms
+MoveTo 360 221
+Delay 7 ms
+MoveTo 360 221
+Delay 8 ms
+MoveTo 360 219
+Delay 7 ms
+MoveTo 360 218
+Delay 8 ms
+MoveTo 360 217
+Delay 8 ms
+MoveTo 360 216
+Delay 15 ms
+MoveTo 360 215
+Delay 46 ms
+MoveTo 360 214
+Delay 7 ms
+MoveTo 360 214
+Delay 16 ms
+MoveTo 360 213
+Delay 7 ms
+MoveTo 360 213
+Delay 23 ms
+MoveTo 360 212
+Delay 8 ms
+MoveTo 360 212
+Delay 7 ms
+MoveTo 360 210
+Delay 8 ms
+MoveTo 360 210
+Delay 8 ms
+MoveTo 361 209
+Delay 7 ms
+MoveTo 361 208
+Delay 45 ms
+KeyDown 9 1
+Delay 40 ms
+MoveTo 361 208
+Delay 8 ms
+MoveTo 361 207
+Delay 15 ms
+MoveTo 361 206
+Delay 15 ms
+MoveTo 361 206
+Delay 33 ms
+KeyUp 9 1
+Delay 497 ms
+LeftDown 1
+Delay 101 ms
+LeftUp 1
+Delay 338 ms
+MoveTo 361 206
+Delay 7 ms
+MoveTo 361 206
+Delay 16 ms
+MoveTo 361 207
+Delay 16 ms
+MoveTo 361 207
+Delay 7 ms
+MoveTo 361 208
+Delay 8 ms
+MoveTo 361 208
+Delay 7 ms
+MoveTo 361 209
+Delay 8 ms
+MoveTo 361 210
+Delay 7 ms
+MoveTo 361 211
+Delay 8 ms
+MoveTo 361 212
+Delay 7 ms
+MoveTo 361 213
+Delay 7 ms
+MoveTo 361 214
+Delay 8 ms
+MoveTo 361 214
+Delay 8 ms
+MoveTo 361 215
+Delay 7 ms
+MoveTo 361 215
+Delay 8 ms
+MoveTo 361 216
+Delay 14 ms
+MoveTo 361 216
+Delay 7 ms
+MoveTo 361 218
+Delay 16 ms
+MoveTo 361 218
+Delay 7 ms
+MoveTo 361 219
+Delay 8 ms
+MoveTo 362 219
+Delay 48 ms
+MoveTo 362 220
+Delay 7 ms
+MoveTo 362 221
+Delay 7 ms
+MoveTo 362 221
+Delay 8 ms
+MoveTo 362 222
+Delay 8 ms
+MoveTo 362 222
+Delay 7 ms
+MoveTo 362 223
+Delay 127 ms
+KeyDown 9 1
+Delay 95 ms
+KeyUp 9 1
+Delay 675 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 766 ms</Syntax>
+    </KeyDown>
+    <Software>Ragnarok</Software>
+  </DefaultMacro>
+</Root>

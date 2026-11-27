@@ -1,0 +1,122 @@
+<Root>
+  <DefaultMacro>
+    <Major>Dragunov Combo 5</Major>
+    <Description>Макрос позволяет выполнять сокрушительное комбо за Драгунова.
+Видео демонстрации работы макроса: https://youtu.be/N2fujz6KMH0
+
+Сергей Драгунов — один из персонажей серии Tekken. Он впервые появился в Tekken 5: Dark Resurrection и завоевал популярность благодаря своему молчаливому, загадочному характеру и смертоносному боевому стилю. Драгунов — русский спецназовец, обладающий невероятной выносливостью, хладнокровием и профессионализмом. Его действия на поле боя точны и расчетливы, и он редко проявляет какие-либо эмоции, что делает его более таинственным и пугающим персонажем.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 11.11.2024
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ.
+
+#dragunovtekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 9 ms
+KeyDown 26 1
+Delay 42 ms
+KeyDown 77 1
+Delay 97 ms
+KeyUp 77 1
+Delay 68 ms
+KeyUp 26 1
+Delay 17 ms
+KeyUp 7 1
+Delay 69 ms
+KeyDown 22 1
+Delay 6 ms
+KeyDown 77 1
+Delay 87 ms
+KeyUp 77 1
+Delay 69 ms
+KeyDown 77 1
+Delay 80 ms
+KeyUp 77 1
+Delay 57 ms
+KeyDown 77 1
+Delay 87 ms
+KeyUp 77 1
+Delay 63 ms
+KeyDown 77 1
+Delay 98 ms
+KeyUp 77 1
+Delay 79 ms
+KeyDown 73 1
+Delay 6 ms
+KeyDown 93 1
+Delay 45 ms
+KeyUp 22 1
+Delay 23 ms
+KeyUp 73 1
+Delay 28 ms
+KeyDown 74 1
+Delay 40 ms
+KeyUp 74 1
+Delay 5 ms
+KeyDown 73 1
+Delay 80 ms
+KeyUp 73 1
+Delay 23 ms
+KeyUp 74 1
+Delay 52 ms
+KeyDown 76 1
+Delay 0 ms
+KeyDown 77 1
+Delay 86 ms
+KeyUp 76 1
+Delay 0 ms
+KeyUp 77 1
+Delay 68 ms
+KeyDown 76 1
+Delay 0 ms
+KeyDown 77 1
+Delay 57 ms
+KeyUp 77 1
+Delay 5 ms
+KeyUp 76 1
+Delay 69 ms
+KeyDown 76 1
+Delay 0 ms
+KeyDown 77 1
+Delay 62 ms
+KeyUp 76 1
+Delay 0 ms
+KeyUp 77 1
+Delay 63 ms
+KeyDown 76 1
+Delay 0 ms
+KeyDown 77 1
+Delay 80 ms
+KeyUp 76 1
+Delay 5 ms
+KeyUp 76 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

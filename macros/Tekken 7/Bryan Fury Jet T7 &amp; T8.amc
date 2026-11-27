@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Bryan Fury (Left Side) Taunt Jet
+
+This macro is designed to perform combos in a game called Tekken 7 and Tekken 8 with a single button.
+
+To do this technique, you need to be to the left of your opponent and the control should be set by default with the shift settings like mine:
+
+Movements are W,A ,S ,D
+
+1=J 2=I 3=K 4=L
+
+The macro has been tested in numerous online battles. Problems can only be due to your unstable Internet connection with the enemy, as well as this macro works only at a stable frame rate of 59-60 fps.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 51 1
+KeyDown 14 1
+KeyDown 15 1
+KeyDown 13 1
+Delay 30 ms
+KeyUp 51 1
+KeyUp 14 1
+KeyUp 15 1
+KeyUp 13 1
+Delay 421 ms
+KeyDown 79 1
+Delay 18 ms
+KeyUp 79 1
+Delay 18 ms
+KeyDown 80 1
+KeyDown 12 1
+Delay 18 ms
+KeyUp 80 1
+Delay 18 ms
+KeyUp 12 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 7</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,62 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Авто фарм Rappelz для класса Void Mage&lt;br&gt;
+Инструкция : &lt;br&gt;
+1. Ставим на клавишу "1" огненный скилл&lt;br&gt;
+2. Ставим на клавишу "2" аттаку питомцем&lt;br&gt;
+3. Ставим на клавишу "3" воздушный скилл&lt;br&gt;
+5. PROFIT!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 64
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 31 1
+Delay 120
+KeyUp 31 1
+Delay 120
+KeyDown 30 1
+Delay 120
+KeyUp 30 1
+Delay 120
+KeyDown 32 1
+Delay 120
+KeyUp 32 1
+Delay 120
+KeyDown 30 1
+Delay 120
+KeyUp 30 1
+Delay 120
+KeyDown 32 1
+Delay 120
+KeyUp 32 1
+Delay 120
+KeyDown 30 1
+Delay 120
+KeyUp 30 1
+Delay 120
+KeyDown 32 1
+Delay 120
+KeyUp 32 1
+Delay 120
+KeyDown 37 1
+Delay 64
+KeyUp 37 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Rappelz</Software>
+  </DefaultMacro>
+</Root>

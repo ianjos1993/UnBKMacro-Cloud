@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос позволяет вам выполнить стрельбу и одновременно выполняет приседания, когда зажимается кнопка стрельбы (левая кнопка мыши).
+
+Главное условие, чтобы приседание было на кнопку CTRL!!!
+
+Удачи, используйте</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 224 1
+Delay 500 ms
+KeyUp 224 1</Syntax>
+    </KeyDown>
+    <Software>Counter-Strike 2</Software>
+  </DefaultMacro>
+</Root>

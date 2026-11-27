@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос предназначен для автоматических стрейфов в evade  на клавишу D. 
+Поставьте макрос на клавишу D и в режим работы "пока нажата клавиша"
+Далее настройте чувствительность под его работу чтоб он работал без проблем. 
+Рекомендуемая чувствительность - 1ед.
+Рекомендуемое разрешение экрана 1920 на 1080</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR 8 0
+Delay 8 ms
+MoveR 8 0
+Delay 8 ms
+MoveR 8 0
+Delay 8 ms
+MoveR 8 0
+Delay 8 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

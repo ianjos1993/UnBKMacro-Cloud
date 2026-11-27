@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Быстрое переключение на глобальную карту или в замок, Для разрешения экрана 1024х768.
+Работает в полноэкранном режиме.
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 64 721
+LeftDown 1
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Lords Mobile</Software>
+  </DefaultMacro>
+</Root>

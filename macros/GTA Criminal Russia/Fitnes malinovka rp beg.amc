@@ -1,0 +1,57 @@
+<Root>
+  <DefaultMacro>
+    <Major>Малиновка. Прокачка бега и выносливости</Major>
+    <Description>Макрос для малиновки, сделанный под квадратные мониторы(1280x1024).Не видел еще не одного макроса под данный проект с таким разрешением. Качает только беговую дорожку и велосипед, остальное качать не будет. Для тех, кто не знает как забиндить, говорю, ставьте макрос на кнопки: w, a, s, d, space. Когда встаете на тренажер активируйте программу и нажимайте space, и все будет у вас работать!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 21 0 255,255,255 255,255,255 1 800 873 675 208 1 0
+KeyDown 44 1
+Delay 75 ms
+KeyUp 44 1
+Delay 75 ms
+KeyDown 44 1
+Delay 75 ms
+KeyUp 44 1
+Delay 75 ms
+KeyDown 44 1
+Delay 75 ms
+KeyUp 44 1
+Delay 75 ms
+KeyDown 44 1
+Delay 75 ms
+KeyUp 44 1
+Delay 75 ms
+KeyDown 44 1
+Delay 75 ms
+KeyUp 44 1
+Delay 75 ms
+GoColor 26 0 255,255,255 255,255,255 1 715 930 967 151 1 0
+KeyDown 26 1
+Delay 64 ms
+KeyUp 26 1
+Delay 64 ms
+GoColor 31 0 255,255,255 255,255,255 1 774 932 999 149 1 0
+KeyDown 4 1
+Delay 64 ms
+KeyUp 4 1
+Delay 64 ms
+GoColor 36 0 255,255,255 255,255,255 1 838 927 839 154 1 0
+KeyDown 22 1
+Delay 64 ms
+KeyUp 22 1
+Delay 64 ms
+GoColor 41 0 255,255,255 255,255,255 1 900 932 838 149 1 0
+KeyDown 7 1
+Delay 64 ms
+KeyUp 7 1
+Delay 64 ms</Syntax>
+    </KeyDown>
+    <Software>GTA: Criminal Russia (CRMP)</Software>
+  </DefaultMacro>
+</Root>

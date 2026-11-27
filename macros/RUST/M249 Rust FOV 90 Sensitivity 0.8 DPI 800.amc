@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major>nathonks</Major>
+    <Description>Macro by nathonks
+FOV 90, Sensitivity 0.8, DPI 800
+
+This is for the Rust M249 ONLY and easy to use, you just have to bind the script to a key then you are beaming everyone. Use at you're own risk it's OP
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 11 ms
+MoveR 0 3
+Delay 11 ms
+MoveR 0 2
+Delay 11 ms
+MoveR 0 2
+Delay 11 ms
+MoveR 0 2
+Delay 11 ms
+MoveR 0 2
+Delay 11 ms
+MoveR 0 2
+Delay 11 ms
+MoveR 0 2
+Delay 11 ms
+MoveR 0 2
+Delay 11 ms
+MoveR 0 2
+Delay 10 ms
+MoveR 0 2
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major>GTA 5</Major>
+    <Description>A small and ezzy Macro for Automate Farmin in GTA 5 Roleplay Server. Press only the Key u selected on Keyran and it starts automatic for 16 min.
+
+Have fun!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 5 s
+KeyUp 8 1
+Delay 5 s
+GoWhile 1 50000</Syntax>
+    </KeyDown>
+    <Software>GTA 5</Software>
+  </DefaultMacro>
+</Root>

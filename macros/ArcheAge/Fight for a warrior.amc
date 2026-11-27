@@ -1,0 +1,49 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Перебор клавиш от 4 до 1.
+Автоподбор лута.
+Нажимаем мышкой на нужного моба, ждем.
+Нажимаем на следующего, снова ждем.
+Повтор на 1000 циклов.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 33 1
+Delay 200
+KeyUp 33 1
+Delay 200
+KeyDown 32 1
+Delay 200
+KeyUp 32 1
+Delay 200
+KeyDown 31 1
+Delay 200
+KeyUp 31 1
+Delay 200
+KeyDown 30 1
+Delay 200
+KeyUp 30 1
+Delay 200
+KeyDown 9 1
+Delay 200
+KeyUp 9 1
+Delay 200
+KeyDown 9 1
+Delay 200
+KeyUp 9 1
+Delay 200
+KeyDown 9 1
+Delay 200
+KeyUp 9 1
+Delay 200
+GoWhile 1 1000</Syntax>
+    </KeyDown>
+    <Software>Archeage</Software>
+  </DefaultMacro>
+</Root>

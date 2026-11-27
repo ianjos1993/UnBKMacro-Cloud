@@ -1,0 +1,58 @@
+<Root>
+  <DefaultMacro>
+    <Major>Weapons (Recoil Control)</Major>
+    <Description>Jitter Aim Pro - Strong is a high-performance aiming profile designed for players seeking improved target tracking and weapon control.
+
+Features:
+• Enhanced micro-adjustments
+• Smooth target tracking
+• Optimized recoil stabilization
+• Adjustable strength settings
+• Low-latency response
+• Compatible with most mouse and keyboard setups
+• screen resolution 1920x1080 Full screen
+
+Recommended for players who prefer aggressive gameplay and close to mid-range engagements.
+
+Version: v1.0
+Release Status: Stable</Description>
+    <Comment>Built for competitive Blood Strike gameplay.
+
+This profile focuses on delivering smooth aiming performance, consistent tracking, and reliable recoil control while remaining fully customizable for individual preferences.
+
+Please test and adjust settings based on your DPI, sensitivity, and hardware configuration.
+
+---- NOTE -----
+IF SCREEN  SHAKES TO MUCH TURN UP THE DELAY!
+
+
+Thank you for using Jitter Aim Pro.</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR -6 8
+Delay 3 ms
+MoveR 6 -8
+Delay 3 ms
+MoveR 6 8
+Delay 3 ms
+MoveR -6 -8
+Delay 3 ms
+MoveR -8 10
+Delay 2 ms
+MoveR 8 -10
+Delay 2 ms
+MoveR 8 10
+Delay 2 ms
+MoveR -8 -10
+Delay 2 ms
+Goto 2</Syntax>
+    </KeyDown>
+    <Software>Blood Strike</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major>macros</Major>
+    <Description>Macro to have easy SGS in counter strike 1.6 (put it in execution until pressed again) (key)--------&gt; operating mode---------&gt; run until pressed again you have to put the fps around 300 fps or 600 fps </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>WheelDown 1
+Delay 4 ms
+WheelDown 1
+Delay 4 ms</Syntax>
+    </KeyDown>
+    <Software>CS 1.6</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>всем привет !
+данный макрос позволит вам в 1 клик прописывать команду /rtp полезно для игроков анархий 
+как работает макрос ! 
+биндите нужную вам кнопку например f 
+после нажатие на эту кнопку команда автоматически введется в чат !
+всем спасибо !
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 33 ms
+KeyDown 23 1
+Delay 36 ms
+KeyUp 23 1
+Delay 36 ms
+KeyDown 56 1
+Delay 36 ms
+KeyUp 56 1
+Delay 36 ms
+KeyDown 21 1
+Delay 36 ms
+KeyUp 21 1
+Delay 36 ms
+KeyDown 23 1
+Delay 36 ms
+KeyUp 23 1
+Delay 36 ms
+KeyDown 19 1
+Delay 36 ms
+KeyUp 19 1
+Delay 36 ms
+KeyDown 88 1
+Delay 36 ms
+KeyUp 88 1
+Delay 36 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

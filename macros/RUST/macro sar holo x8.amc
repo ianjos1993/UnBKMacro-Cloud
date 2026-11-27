@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major>macro sar holo x8</Major>
+    <Description>this macro is the best for sar with holo x8, press to start release to stop
+
+1920 x 1080
+fov 90
+sensitivity 1.3
+dpi 1500
+
+you will be the best in pvp, enjoy the best macros on keyran</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 50 ms
+MoveR 0 -41
+Delay 50 ms
+MoveR 0 -42
+Delay 50 ms
+MoveR 0 -38
+Delay 50 ms
+MoveR 0 -39
+Delay 50 ms
+MoveR 0 -41
+Delay 50 ms
+MoveR 0 -42
+Delay 50 ms
+MoveR 0 -42
+Delay 50 ms
+LeftUp 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>rust</Software>
+  </DefaultMacro>
+</Root>

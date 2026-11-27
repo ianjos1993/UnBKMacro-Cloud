@@ -1,0 +1,63 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Подлетел на очереде баг макрос , на 2 меча макрос с хилом , ударов 24-27 , и 9-10 хилла , свапаться надо секунды 3-4 , и на свапе в яме за секу убивает (Создавал на RpgWorld)
+1 - меч
+3 - фрост
+9 - меч
+Удачи!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+RightDown 1
+Delay 0 ms
+Delay 2 ms
+Delay 0 ms
+Delay 5 ms
+LeftDown 1
+Delay 4 ms
+Delay 2 ms
+LeftUp 1
+Delay 4 ms
+Delay 2 ms
+LeftUp 1
+Delay 4 ms
+RightUp 1
+Delay 4 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 4 ms
+RightDown 1
+LeftUp 1
+KeyDown 32 1
+Delay 1 ms
+KeyUp 32 1
+RightDown 1
+Delay 12 ms
+Delay 10 ms
+LeftDown 1
+Delay 14 ms
+Delay 12 ms
+RightDown 1
+KeyDown 38 1
+Delay 1 ms
+KeyUp 38 1
+LeftDown 1
+Delay 6 ms
+LeftUp 1
+Delay 4 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

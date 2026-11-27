@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Для Мастера Клинка в игре Blade and Soul, выполняет специальную ротацию атак 4 v t F.
+-------------------------------------------------------------------------------------------------------------------------------------
+Описание:
+Макрос сделан для такого класса как Мастер Клинка в Игре Blade and Soul, для упрощения ротации макрос делает всё за вас собственно!
+Автор: Katsumi
+------------------------------------------------------------------
+Инстуркция:
+1)Запустите программу, установите макрос!
+2)Запустите игру
+3)Выберите режим работы программы с привязкой или без привязки к окну как вам удобно
+3)Присвойте макрос на удобную клавишу клавиатуры или мыши в программе
+4)Нажмите на клавишу на которую присвоили макрос в игре
+5)Радуйтесь жизни, ведь я упростила вам её :)
+
+Всем добра и хорошей жизни!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 0 ms
+KeyUp 23 1
+Delay 0 ms
+KeyDown 23 1
+Delay 0 ms
+KeyUp 23 1
+Delay 0 ms
+KeyDown 33 1
+Delay 0 ms
+KeyUp 33 1
+Delay 0 ms
+KeyDown 25 1
+Delay 0 ms
+KeyUp 25 1
+Delay 0 ms
+KeyDown 43 1
+Delay 0 ms
+KeyUp 43 1
+Delay 0 ms</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

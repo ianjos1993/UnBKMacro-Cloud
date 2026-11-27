@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Принцип действия прост: нажал на кнопку и держать не надо,курсор сам переместится на кнопку "Roll"l! Камеру поворачивать с помощью "shiftlock switch"(можно включить в настройках игры).При тестировании разрешение экрана было 1900x1080 но можно и меньше(Не проверял,скажите о глюках если что-то пойдет не так).                                                                                                                                                                                       ВНИМАНИЕ БЕРЕГИТЕ УШИ!!! ЗАРАНЕЕ ОТКЛЮЧИТЕ ЗВУК ИНТЕРФЕЙСА!!!!ИНАЧЕ ИЗ-ЗА ЗВУКОВ НАЖАТИЙ НА КНОПКУ БУДЕТ ОЧЕНЬ ГРОМКО(и больно)!!!!!!!!!!</Description>
+    <Comment>V0.0.2 - обновлено описание.</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 3 0 255,255,255 255,255,255 0 1920 1080 1 1 1 0
+Delay 1 ms
+MoveTo 920 1023
+Delay 1 ms
+GoColor 7 0 255,255,255 255,255,255 0 1920 1080 1 1 1 0
+Delay 1 ms
+RightUp 1
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

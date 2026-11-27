@@ -1,0 +1,765 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для автопродажи 60 предметов из первых ячеек инвентаря (убедитесь что ничего ценного не лежит в первых трех сумках) Макрос работает дял расширения экрана 1366x706 (fullcreeen для lenovo ideapad 320) .
+ Если у вас экран большего разрешения, то для корректной работы макроса нужно выставить разрешение окна как указано, после чего скорректировать координаты установки указателя мыши в настройках макроса ( нужно отнять вашу ширину (x) и высоту (y) поделить на 2 и прибавить эти значения с помощью опции "сместить все координаты".
+ Выставите билет торговца или билет фракции Элки Аскадии/Стражи песков на первый хотбар в 7 ячейку</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+ Last chaps aftosell</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//Расширение окна должно быть 800-600
+//нажать на свиток продажи (ячейка№7)
+MoveTo 1155 708
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 450 ms
+//Нажать кнопку "Продать"
+MoveTo 566 462
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№1
+MoveTo 603 332
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№2
+MoveTo 633 329
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№3
+MoveTo 673 330
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№4
+MoveTo 707 329
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№5
+MoveTo 739 328
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№6
+MoveTo 598 363
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№7
+MoveTo 632 364
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№8
+MoveTo 670 363
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№9
+MoveTo 702 368
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№10
+MoveTo 738 364
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№11
+MoveTo 598 400
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№12
+MoveTo 636 400
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№13
+MoveTo 666 400
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№14
+MoveTo 696 400
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№15
+MoveTo 730 400
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№16
+MoveTo 597 432
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№17
+MoveTo 634 434
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№18
+MoveTo 670 435
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№19
+MoveTo 702 435
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№20
+MoveTo 741 435
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//продажа
+MoveTo 701 472
+Delay 450 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 140 ms
+//Расширение окна должно быть 800-600
+//нажать на свиток продажи (ячейка№7)
+MoveTo 1155 708
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 450 ms
+//Нажать кнопку "Продать"
+MoveTo 566 462
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+MoveTo 772 334
+Delay 140 ms
+WheelDown 1
+Delay 140 ms
+WheelDown 1
+Delay 140 ms
+WheelDown 1
+Delay 140 ms
+WheelDown 1
+Delay 140 ms
+//ячейка№1
+MoveTo 603 332
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№2
+MoveTo 633 329
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№3
+MoveTo 673 330
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№4
+MoveTo 707 329
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№5
+MoveTo 739 328
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№6
+MoveTo 598 363
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№7
+MoveTo 632 364
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№8
+MoveTo 670 363
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№9
+MoveTo 702 368
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№10
+MoveTo 738 364
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№11
+MoveTo 598 400
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№12
+MoveTo 636 400
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№13
+MoveTo 666 400
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№14
+MoveTo 696 400
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№15
+MoveTo 730 400
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№16
+MoveTo 597 432
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№17
+MoveTo 634 434
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№18
+MoveTo 670 435
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№19
+MoveTo 702 435
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№20
+MoveTo 741 435
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//продажа
+MoveTo 701 472
+Delay 450 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+//нажать на свиток продажи (ячейка№7)
+MoveTo 1155 708
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 450 ms
+//Нажать кнопку "Продать"
+MoveTo 566 462
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+MoveTo 772 334
+Delay 140 ms
+WheelDown 1
+Delay 140 ms
+WheelDown 1
+Delay 140 ms
+WheelDown 1
+Delay 140 ms
+WheelDown 1
+Delay 140 ms
+WheelDown 1
+Delay 140 ms
+WheelDown 1
+Delay 140 ms
+WheelDown 1
+Delay 140 ms
+WheelDown 1
+Delay 140 ms
+//ячейка№1
+MoveTo 603 332
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№2
+MoveTo 633 329
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№3
+MoveTo 673 330
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№4
+MoveTo 707 329
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№5
+MoveTo 739 328
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№6
+MoveTo 598 363
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№7
+MoveTo 632 364
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№8
+MoveTo 670 363
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№9
+MoveTo 702 368
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№10
+MoveTo 738 364
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№11
+MoveTo 598 400
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№12
+MoveTo 636 400
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№13
+MoveTo 666 400
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№14
+MoveTo 696 400
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№15
+MoveTo 730 400
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№16
+MoveTo 597 432
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№17
+MoveTo 634 434
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№18
+MoveTo 670 435
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№19
+MoveTo 702 435
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//ячейка№20
+MoveTo 741 435
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+//продажа
+MoveTo 701 472
+Delay 450 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Last chaos</Software>
+  </DefaultMacro>
+</Root>

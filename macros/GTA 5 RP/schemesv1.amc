@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простейший макрос на контракт грандиозная сделка (схемы).
+Разрешение 1920x1080, работает как в окне, так и в полный экран.
+
+1) Встаем к трансформатору, запускаем макрос, отдыхаем.
+2) Как только инвентарь заполнится, останавливаем макрос.
+3) Кайфуем</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 2 ms
+KeyUp 8 1
+Delay 1000 2000 ms
+GoColor 1 2 0,178,85 134,178,85 1 411 904</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

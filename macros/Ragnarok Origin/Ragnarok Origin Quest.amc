@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major>Quest Tap/Click</Major>
+    <Description>Setup macro to your keyboard and script make tap quest from keyboard.
+need full screen, and my resolution is 1360x768</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 192 320
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Ragnarok Origin</Software>
+  </DefaultMacro>
+</Root>

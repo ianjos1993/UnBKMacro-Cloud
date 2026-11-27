@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Любое разрешение, встаёте на турник и запускаете сам макрос.
+Капчи на прокачку силы на Grand Rp еще нету, поэтому можете просто уходить и ждать, когда прокачается 100% силы на вашем персонаже</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 64 ms
+KeyDown 8 1
+Delay 64 ms
+KeyUp 8 1
+Delay 64 ms</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

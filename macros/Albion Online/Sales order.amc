@@ -1,0 +1,16 @@
+Left(1281, 426,200);
+left(cursorX,cursorY);
+Sleep(500);
+//Выбор первого лота
+Left(565, 484,200);
+left(cursorX,cursorY);
+Sleep(500);
+//Выбрать кнопку Заказ на продажу
+Left(566, 635,200);
+left(cursorX,cursorY);
+Sleep(500);
+//Уменьшение прошлой цены на 1 монету
+Left(890, 734,200);
+left(cursorX,cursorY);
+Sleep(500);
+//Подтвердить продажу

@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Быстрый разбор вещей, ничего необычного но экономит кучу времени.
+
+Работает у кузнеца на все вещи. Единственное легендарные вещи придется прокликивать в ручную. </Description>
+    <Comment>https://www.twitch.tv/kirstrimit - фармим ARPG, диаблоиды и прочие игры где есть элементы добычи гира или прочих вещей для персонажа и аккаунта :) Если что заходи
+
+
+https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+KeyDown 88 1
+Delay 10
+KeyUp 88 1
+Delay 10
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+KeyDown 88 1
+Delay 10
+KeyUp 88 1
+Delay 10</Syntax>
+    </KeyDown>
+    <Software>Diablo 3</Software>
+  </DefaultMacro>
+</Root>

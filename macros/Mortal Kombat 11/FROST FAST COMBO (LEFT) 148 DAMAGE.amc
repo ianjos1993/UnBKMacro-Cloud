@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Быстрая комба на Фрост ~148 Урона (без усилений)
+Пресет:
+-Выпад с бурами
+-Микровсплеск
+
+Старт: 13 кадров
+Восстановление: 23
+В блок: -5
+
+Управление:
+1-J
+2-K
+3-L
+4-:
+Захват - U
+AMP - SHIFT
+WASD (Вверх, влево, вниз, вправо)</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 13 1
+Delay 120 ms
+KeyUp 13 1
+Delay 24 ms
+KeyDown 15 1
+Delay 111 ms
+KeyUp 15 1
+Delay 88 ms
+KeyDown 22 1
+Delay 96 ms
+KeyDown 4 1
+Delay 32 ms
+KeyUp 22 1
+Delay 12 ms
+KeyDown 15 1
+Delay 35 ms
+KeyUp 4 1
+Delay 47 ms
+KeyUp 15 1</Syntax>
+    </KeyDown>
+    <Software>Mortal Kombat 11</Software>
+  </DefaultMacro>
+</Root>

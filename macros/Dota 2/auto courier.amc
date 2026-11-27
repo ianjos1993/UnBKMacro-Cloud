@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автовыбор курьера и отправка предметов, Не нужно отвлекаться и искать курьера на карте, Подходит для всех геров и подгоняется под свои бинды</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+KeyDown 30 1
+Delay 100 ms
+KeyUp 224 1
+KeyUp 30 1
+Delay 100
+KeyDown 224 1
+KeyDown 7 1
+Delay 100 ms
+KeyUp 224 1
+KeyUp 7 1
+Delay 100</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

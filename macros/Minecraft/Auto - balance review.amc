@@ -1,0 +1,62 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос автоматически вводит команду /seemoney в Minecraft Bedrock Edition, позволяя мгновенно узнать баланс игрока в игровой валюте. Он удобен для серверов с экономической системой, где важно быстро проверять количество средств у других игроков. После активации макроса введите ник игрока, чьё количество игровой валюты вы хотите узнать.
+
+Инструкция по установке:
+1. Скачайте файл макроса.
+2. Назначьте на удобную для Вас клавишу.
+3. Все готово! Пользуйтесь.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>SetLang en-US
+KeyDown 56 1
+Delay 10
+KeyUp 56 1
+Delay 10
+KeyDown 22 1
+Delay 10
+KeyUp 22 1
+Delay 10
+KeyDown 8 1
+Delay 10
+KeyUp 8 1
+Delay 10
+KeyDown 8 1
+Delay 10
+KeyUp 8 1
+Delay 10
+KeyDown 16 1
+Delay 10
+KeyUp 16 1
+Delay 10
+KeyDown 18 1
+Delay 10
+KeyUp 18 1
+Delay 10
+KeyDown 17 1
+Delay 10
+KeyUp 17 1
+Delay 10
+KeyDown 8 1
+Delay 10
+KeyUp 8 1
+Delay 10
+KeyDown 28 1
+Delay 10
+KeyUp 28 1
+Delay 10
+KeyDown 44 1
+Delay 10
+KeyUp 44 1
+Delay 10</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

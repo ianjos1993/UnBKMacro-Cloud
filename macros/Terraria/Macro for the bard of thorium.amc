@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Gомогает поподать в ноты на оружие на барда под названием - РОЯЛЬ. Настраивал все 2 бесплатных часа возможно просчеты в милисекунлах, при лагах игры тоже может сбиться с ритма</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 60 ms
+LeftUp 1
+Delay 200 ms
+LeftDown 1
+Delay 60 ms
+LeftUp 1
+Delay 200 ms
+LeftDown 1
+Delay 60 ms
+LeftUp 1
+Delay 400 ms</Syntax>
+    </KeyDown>
+    <Software>Terraria</Software>
+  </DefaultMacro>
+</Root>

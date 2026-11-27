@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>csgo</Major>
+    <Description>its for buying fastly deagle.
+When you start this its auto buying deagle. And you can set delays whatever you want.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 5 1
+Delay 130 ms
+KeyUp 5 1
+Delay 624 ms
+KeyDown 30 1
+Delay 134 ms
+KeyUp 30 1
+Delay 513 ms
+KeyDown 34 1
+Delay 93 ms
+KeyUp 34 1
+Delay 813 ms
+KeyDown 41 1
+Delay 138 ms
+KeyUp 41 1</Syntax>
+    </KeyDown>
+    <Software>CS:GO</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>在MC中，疾跑经常需要快速按两下w来疾跑，这个简单的宏可以实现按一下W完成疾跑，减少了少点一下或点的速度不够的情况，将宏给下载下来，然后分配给键盘上的W键就可以按一次W实现疾跑，但可能难以停下，不建议用其玩PVP，可能冲过头。作者技术原因只能编个这样简单的宏。</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 20
+KeyUp 26 1
+Delay 20
+KeyDown 26 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на игру поинт бланк 
+автоматы
+м4а1 с прицелем можете теперь зажимать и не волноваться по поводу очередных выстрелов
+кроме этого полностью убран макрос так что с этим макросом вы будете богом на земле</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+//http://vk.com/ultracore3 Скрипты и макросы!
+Delay 17 ms
+LeftUp 1
+MoveR 0 0
+MoveR -2 0
+MoveR 2 0</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

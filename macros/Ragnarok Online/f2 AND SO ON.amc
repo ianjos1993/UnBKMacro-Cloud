@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>F2+TP</Major>
+    <Description>Макрос для прокачки в М2 данже. Делался под гиля. Телепорт, потом трижды удар газовой атакой, потом снова телепорт. Отлично подходит для качественного фарма. Все тайминги подобраны.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 59 1
+Delay 564 ms
+KeyUp 59 1
+Delay 564 ms
+KeyDown 59 1
+Delay 564 ms
+KeyUp 59 1
+Delay 564 ms
+KeyDown 59 1
+Delay 564 ms
+KeyUp 59 1
+Delay 564 ms
+KeyDown 61 1
+Delay 564 ms
+KeyUp 61 1
+Delay 564 ms</Syntax>
+    </KeyDown>
+    <Software>Ragnarok</Software>
+  </DefaultMacro>
+</Root>

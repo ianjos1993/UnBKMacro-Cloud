@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major>AlEl</Major>
+    <Description>Макрос по добыче камня с заточкой инструмента:
+
+50 секунд бьет камень киркой которую держите в руках.
+
+Точит инструмент точилкой, которая лежит у вас под ногами.
+
+В конце макрос проверяет состояние инструмента. 
+Если инструмент не заточился (из-за каких-либо проблем или отсутствия точилок), макрос останавливается.
+
+Координаты рассчитаны на разрешение Full HD. Последний пункт был скорректирован с учетом моей цветокоррекции. Возможно, вам потребуется настроить цвет под свои параметры.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 50 s
+LeftUp 1
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 700 ms
+MoveTo 136 177
+Delay 64
+LeftDown 1
+Delay 64
+MoveTo 846 836
+Delay 64
+LeftUp 1
+Delay 500 ms
+LeftDown 1
+Delay 7000 ms
+LeftUp 1
+Delay 64
+GoColor 1 2 130,255,120 105,230,100 2 124 998 4 5 1 0</Syntax>
+    </KeyDown>
+    <Software>DayZ</Software>
+  </DefaultMacro>
+</Root>

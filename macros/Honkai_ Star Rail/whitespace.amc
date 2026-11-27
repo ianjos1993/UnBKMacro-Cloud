@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простенький макрос для нажатия пробела.
+Нужен для того чтобы скипать диалоги в игре Honkai: Star Rail.</Description>
+    <Comment>Понимаю что он никому не нужен, но я пробую все, чтобы получить бесплатную лицензию, так как мне более ничего не нужно, а диалоги в игре уже достали))</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Honkai: Star Rail</Software>
+  </DefaultMacro>
+</Root>

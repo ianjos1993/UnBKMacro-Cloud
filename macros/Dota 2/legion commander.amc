@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>быстрая дуель на легу
+z- blink
+x- blade mail
+r- duel
+автокасты включены 
+мышку навести на врага</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 0 ms
+KeyDown 27 1
+Delay 74 ms
+KeyUp 29 1
+Delay 4 ms
+KeyUp 27 1
+Delay 86 ms
+KeyDown 21 1
+Delay 68 ms
+KeyUp 21 1
+Delay 149 ms
+KeyDown 20 1
+Delay 105 ms
+KeyUp 20 1
+Delay 592 ms
+KeyDown 20 1
+Delay 52 ms
+KeyUp 20 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

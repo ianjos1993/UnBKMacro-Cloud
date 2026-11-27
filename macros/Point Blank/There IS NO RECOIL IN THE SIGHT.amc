@@ -1,0 +1,61 @@
+<Root>
+  <DefaultMacro>
+    <Major>ОТДАЧИ 0</Major>
+    <Description>СТАВИМ НА ЛКМ ЦЕЛИМСЯ И ДЕЛАЕМ ВЕЩИ БЕЗ ОТДАЧИ(ПОЧЕМУ ИМЕННО В ПРИЦЕЛЕ ЧТО БЫ СИЛЬНО НЕ ПАЛИТЬСЯ) ОТЛИЧНЫЙ МАКРОСИК (делаем +4 скорик и прокид)  заходим и нагибаем весь сервер 
+делимся с друзьями</Description>
+    <Comment>
+СТАВИМ НА ЛКМ ЦЕЛИМСЯ И ДЕЛАЕМ ВЕЩИ БЕЗ ОТДАЧИ(ПОЧЕМУ ИМЕННО В ПРИЦЕЛЕ ЧТО БЫ СИЛЬНО НЕ ПАЛИТЬСЯ)ПОДХОДИТ НА ВСЕ ВИДЫ ОРУЖИЯ (СКОРОСТРЕЛЬНЫХ)
+Делаем +4 скорострел и прокид 
+Оюязательно поделись с друзьями)</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+MoveR 0 1
+Delay 15 ms
+MoveR 0 1
+Delay 15 ms
+MoveR 0 1
+Delay 15 ms
+MoveR 0 1
+Delay 15 ms
+MoveR 0 1
+LeftUp 1
+Delay 15 ms
+GoWhile 1 10
+LeftDown 1
+Delay 15 ms
+MoveR 0 1
+Delay 15 ms
+MoveR 0 0
+Delay 15 ms
+MoveR 0 0
+Delay 15 ms
+MoveR 0 1
+Delay 15 ms
+LeftUp 1
+Delay 15 ms
+GoWhile 15 5
+LeftDown 1
+Delay 15 ms
+MoveR 0 0
+Delay 15 ms
+MoveR 0 0
+Delay 15 ms
+MoveR 0 0
+Delay 15 ms
+MoveR 0 0
+Delay 15 ms
+LeftUp 1
+Delay 15 ms
+GoWhile 28 40
+DelayS 2 s</Syntax>
+    </KeyDown>
+    <Software>Point Blank</Software>
+  </DefaultMacro>
+</Root>

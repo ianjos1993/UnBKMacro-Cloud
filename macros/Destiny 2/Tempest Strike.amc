@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Tempest Strike on ARC hunter with 1 button. Will move forward, sprint, crouch slide into melee.
+Must have tempest strike equipped. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 20 ms
+KeyDown 225 1
+Delay 75 ms
+KeyUp 225 1
+Delay 50 ms
+KeyDown 224 1
+Delay 5 ms
+KeyUp 224 1
+Delay 5 ms
+KeyDown 6 1
+Delay 5 ms
+KeyUp 6 1
+Delay 5 ms
+KeyUp 26 1
+KeyDown 224 1
+Delay 10 ms
+KeyUp 224 1</Syntax>
+    </KeyDown>
+    <Software>Destiny 2</Software>
+  </DefaultMacro>
+</Root>

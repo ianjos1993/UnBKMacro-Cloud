@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This profile does make super boost flight by ultimate and packet
+Raze profile keybinds: Attack (it may be second attack keybind) (I)
+Bomb packet (U)
+If it doesnt work try to change delay between keys (from 10  to 150 ms. possibly)</Description>
+    <Comment>You should use ultimate and place packet before using it. </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 24 1
+KeyUp 24 1
+Delay 100 ms
+KeyDown 12 1
+KeyUp 12 1</Syntax>
+    </KeyDown>
+    <Software>Valorant</Software>
+  </DefaultMacro>
+</Root>

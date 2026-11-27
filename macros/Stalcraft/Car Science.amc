@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Загружаешь продаваемые предметы, выставляешь цены, запускаешь, макрос сам каждые 5 сеукнд будет нажимать на кнопку "Отправить"
+ 
+Res : 1920;1080</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 869 891
+Delay 64
+LeftDown 1
+LeftUp 1
+Delay 128 ms
+MoveTo 919 574
+Delay 128 ms
+LeftDown 1
+LeftUp 1
+Delay 128 ms
+Delay 5010 ms
+MoveTo 832 889
+LeftDown 1
+LeftUp 1
+Delay 128 ms
+Delay 64
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простой и надёжный макрос для фарма и кача  в любимой игре. Макрос поочередно и быстро использует заклинания расположеные на панели быстрого доступа от 1 до 4. Просто раставьте нужные вам скиллы и наслаждайтесь своими делами пока ваш персонаж качается или зарабатывает вам капитал.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 75 ms
+KeyDown 30 1
+Delay 75 ms
+KeyUp 30 1
+Delay 75 ms
+KeyDown 31 1
+Delay 75 ms
+KeyUp 31 1
+Delay 75 ms
+KeyDown 32 1
+Delay 75 ms
+KeyUp 32 1
+Delay 75 ms
+KeyDown 33 1
+Delay 75 ms
+KeyUp 33 1</Syntax>
+    </KeyDown>
+    <Software>Rappelz</Software>
+  </DefaultMacro>
+</Root>

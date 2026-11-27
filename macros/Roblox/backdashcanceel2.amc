@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>данный макрос предназначен для игры в роблоксе  The Strongest Battlegrounds
+что делает макрос? нажимает скил и после использует задний рывок тем самым обрывая его после 1 кувырка</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 5 ms
+KeyDown 31 1
+KeyUp 31 1
+Delay 5 ms
+KeyDown 20 1
+KeyUp 20 1
+KeyUp 22 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

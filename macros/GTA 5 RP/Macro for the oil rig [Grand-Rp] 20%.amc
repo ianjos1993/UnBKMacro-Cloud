@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Oil Rig with 20% Buff for Grand-rp. Resolution: 1920x1080
+Release: 14.08.2022
+===================================
+This Macro works in 1920x1080 on any Oil Rig with the 20% Buff for beeing online for 4 Hours</Description>
+    <Comment>It has different Times so it wont be detected to be an AFKer, you still need to do the Captcha</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 288 761
+LeftDown 1
+Delay 3400 ms
+LeftUp 1
+MoveTo 392 757
+LeftDown 1
+Delay 3500 ms
+LeftUp 1
+MoveTo 498 755
+LeftDown 1
+Delay 3450 ms
+LeftUp 1
+MoveTo 601 757
+LeftDown 1
+Delay 3600 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

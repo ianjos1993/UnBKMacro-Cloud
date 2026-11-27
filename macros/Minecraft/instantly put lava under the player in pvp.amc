@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот полезный макрос позволяет моментально ставить лаву под игрока при пвп 1.8-1.19. Ведро с лавой должно расположенно на 8 клетке в инвентаре. Тестировался на мониторе 1920 1080. всем удачи поджарить противника!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR 10 613
+Delay 64
+KeyDown 37 1
+Delay 64
+KeyUp 37 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Очень простенький, однако полезный макрос для русской рыбалки 4. Макрос нацелен на автоматизацию твичинга на спиннингах. Для использования забиндите на любую удобную клавишу и в режиме работы поставьте "Выполнять до повторного нажатия". Приятного пользования и хорошего клёва! :)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 1000 ms
+LeftUp 1
+Delay 2000 ms</Syntax>
+    </KeyDown>
+    <Software>Russian Fishing 4</Software>
+  </DefaultMacro>
+</Root>

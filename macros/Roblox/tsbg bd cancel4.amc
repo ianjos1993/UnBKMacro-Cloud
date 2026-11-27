@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>tsbg bd cancel4</Major>
+    <Description>The Strongest Battlegrounds. Backdash cancel for fourth skill.
+Usage: after doing a hook dash u hold S and press button u binded the macro and u will be able to combo extend/end based on skill u use ( fourth skill backdash cancel is mostly useless can be used on martial artist and the strongest hero but chance of getting punished is high)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 33 1
+Delay 1 ms
+KeyUp 33 1
+Delay 64
+KeyDown 20 1
+Delay 1 ms
+KeyUp 20 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,169 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос отправляющий клонов мипо фармить леса через шифт. Макрос можно стакать чтобы после первой зачистки леса клоны мипо отправились зачищать те же леса второй раз. 
+Бинды на мипарей: 
+Второй мипо - 2
+Третий мипо - X
+Четвертый мипо - Z
+Макрос предназначен чтобы не теряя время ставить мипо в лес на фарм. 
+Данный макрос подстроен под леса сил тьмы
+Разрешение экрана: 1366x768
+Миникарта должна быть слева
+Аспект на мипо любой.
+Благополучный фарм осуществляется после приобритения ПТ и части дифуз блейд</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 225 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+MoveTo 113 600
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+MoveTo 90 606
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+MoveTo 72 601
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+MoveTo 53 598
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+MoveTo 44 609
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyUp 225 1
+Delay 100 ms
+KeyDown 27 1
+Delay 64
+KeyUp 27 1
+KeyDown 225 1
+Delay 64
+Delay 64
+MoveTo 100 640
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 88 653
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 62 644
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 73 632
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyUp 225 1
+Delay 64 ms
+KeyDown 29 1
+Delay 64
+KeyUp 29 1
+Delay 64
+KeyDown 225 1
+Delay 64
+MoveTo 129 681
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 119 693
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 167 691
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyUp 225 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

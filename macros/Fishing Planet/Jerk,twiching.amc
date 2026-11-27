@@ -1,0 +1,497 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Описание:
+Макрос для игры Fishing Planet,одним нажатием клавиши выполняет комбинацию заброс,проводка,забор рыбы,проводка примерно 50сек.Вайт Мус,снасти на 8кг
+
+ИНСТРУКЦИЯ:
+1.Запустите игру
+2.Выберите режим работы программы с привязкой или без привязки к окну
+3.Присвойте макрос на удобную клавишу клавиатуры в программе
+4.Нажмите клавишу на которую присвоили макрос
+5.Ловим,прятной игры</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 959 539
+Delay 8 ms
+MoveTo 960 540
+Delay 56 ms
+MoveTo 960 539
+Delay 32 ms
+MoveTo 960 540
+Delay 8 ms
+MoveTo 960 539
+Delay 24 ms
+MoveTo 960 540
+Delay 7 ms
+MoveTo 960 539
+Delay 8 ms
+MoveTo 960 540
+Delay 10 ms
+MoveTo 960 539
+Delay 38 ms
+MoveTo 960 540
+Delay 10 ms
+MoveTo 960 539
+Delay 10 ms
+MoveTo 960 540
+Delay 531 ms
+LeftDown 1
+Delay 1736 ms
+LeftUp 1
+Delay 5552 ms
+LeftDown 1
+Delay 553 ms
+RightDown 1
+Delay 199 ms
+RightUp 1
+Delay 872 ms
+RightDown 1
+Delay 152 ms
+RightUp 1
+Delay 840 ms
+RightDown 1
+Delay 200 ms
+RightUp 1
+Delay 880 ms
+RightDown 1
+Delay 208 ms
+RightUp 1
+Delay 800 ms
+RightDown 1
+Delay 192 ms
+RightUp 1
+Delay 831 ms
+RightDown 1
+Delay 176 ms
+RightUp 1
+Delay 840 ms
+RightDown 1
+Delay 160 ms
+RightUp 1
+Delay 775 ms
+RightDown 1
+Delay 200 ms
+RightUp 1
+Delay 816 ms
+RightDown 1
+Delay 193 ms
+RightUp 1
+Delay 872 ms
+RightDown 1
+Delay 192 ms
+RightUp 1
+Delay 848 ms
+RightDown 1
+Delay 217 ms
+RightUp 1
+Delay 824 ms
+RightDown 1
+Delay 216 ms
+RightUp 1
+Delay 856 ms
+RightDown 1
+Delay 167 ms
+RightUp 1
+Delay 856 ms
+RightDown 1
+Delay 208 ms
+RightUp 1
+Delay 896 ms
+RightDown 1
+Delay 239 ms
+RightUp 1
+Delay 864 ms
+RightDown 1
+Delay 192 ms
+RightUp 1
+Delay 800 ms
+RightDown 1
+Delay 201 ms
+RightUp 1
+Delay 840 ms
+RightDown 1
+Delay 200 ms
+RightUp 1
+Delay 864 ms
+RightDown 1
+Delay 184 ms
+RightUp 1
+Delay 832 ms
+RightDown 1
+Delay 168 ms
+RightUp 1
+Delay 807 ms
+RightDown 1
+Delay 209 ms
+RightUp 1
+Delay 840 ms
+RightDown 1
+Delay 184 ms
+RightUp 1
+Delay 863 ms
+RightDown 1
+Delay 168 ms
+RightUp 1
+Delay 58784 ms
+LeftUp 1
+Delay 551 ms
+MoveTo 960 539
+Delay 11 ms
+MoveTo 961 540
+Delay 11 ms
+MoveTo 965 543
+Delay 11 ms
+MoveTo 968 547
+Delay 8 ms
+MoveTo 972 553
+Delay 12 ms
+MoveTo 975 559
+Delay 7 ms
+MoveTo 979 564
+Delay 18 ms
+MoveTo 986 575
+Delay 12 ms
+MoveTo 989 580
+Delay 12 ms
+MoveTo 992 589
+Delay 12 ms
+MoveTo 994 593
+Delay 8 ms
+MoveTo 997 602
+Delay 9 ms
+MoveTo 998 606
+Delay 10 ms
+MoveTo 1000 610
+Delay 11 ms
+MoveTo 1002 614
+Delay 12 ms
+MoveTo 1006 623
+Delay 8 ms
+MoveTo 1007 628
+Delay 12 ms
+MoveTo 1010 637
+Delay 12 ms
+MoveTo 1011 642
+Delay 11 ms
+MoveTo 1012 647
+Delay 10 ms
+MoveTo 1015 657
+Delay 15 ms
+MoveTo 1016 663
+Delay 11 ms
+MoveTo 1019 675
+Delay 10 ms
+MoveTo 1021 681
+Delay 12 ms
+MoveTo 1022 687
+Delay 9 ms
+MoveTo 1025 703
+Delay 8 ms
+MoveTo 1027 710
+Delay 10 ms
+MoveTo 1028 718
+Delay 12 ms
+MoveTo 1030 725
+Delay 12 ms
+MoveTo 1032 739
+Delay 8 ms
+MoveTo 1033 745
+Delay 10 ms
+MoveTo 1036 756
+Delay 12 ms
+MoveTo 1037 762
+Delay 11 ms
+MoveTo 1038 767
+Delay 11 ms
+MoveTo 1038 771
+Delay 7 ms
+MoveTo 1040 781
+Delay 10 ms
+MoveTo 1041 786
+Delay 11 ms
+MoveTo 1042 790
+Delay 9 ms
+MoveTo 1043 794
+Delay 12 ms
+MoveTo 1045 803
+Delay 12 ms
+MoveTo 1046 806
+Delay 8 ms
+MoveTo 1046 809
+Delay 9 ms
+MoveTo 1047 815
+Delay 10 ms
+MoveTo 1048 819
+Delay 11 ms
+MoveTo 1049 822
+Delay 12 ms
+MoveTo 1050 825
+Delay 8 ms
+MoveTo 1050 830
+Delay 9 ms
+MoveTo 1051 834
+Delay 10 ms
+MoveTo 1051 837
+Delay 11 ms
+MoveTo 1051 841
+Delay 12 ms
+MoveTo 1052 847
+Delay 9 ms
+MoveTo 1053 851
+Delay 8 ms
+MoveTo 1053 854
+Delay 10 ms
+MoveTo 1054 858
+Delay 10 ms
+MoveTo 1055 865
+Delay 13 ms
+MoveTo 1055 870
+Delay 18 ms
+MoveTo 1057 874
+Delay 12 ms
+MoveTo 1059 882
+Delay 11 ms
+MoveTo 1059 885
+Delay 12 ms
+MoveTo 1061 891
+Delay 8 ms
+MoveTo 1062 894
+Delay 10 ms
+MoveTo 1062 896
+Delay 12 ms
+MoveTo 1062 899
+Delay 23 ms
+MoveTo 1064 906
+Delay 7 ms
+MoveTo 1065 912
+Delay 11 ms
+MoveTo 1065 914
+Delay 11 ms
+MoveTo 1066 917
+Delay 12 ms
+MoveTo 1067 919
+Delay 9 ms
+MoveTo 1067 921
+Delay 9 ms
+MoveTo 1067 922
+Delay 17 ms
+MoveTo 1068 925
+Delay 11 ms
+MoveTo 1068 927
+Delay 18 ms
+MoveTo 1068 928
+Delay 11 ms
+MoveTo 1069 929
+Delay 1637 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 72 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 48 ms
+LeftDown 1
+Delay 89 ms
+LeftUp 1
+Delay 72 ms
+LeftDown 1
+Delay 48 ms
+LeftUp 1
+Delay 376 ms
+MoveTo 959 539
+Delay 10 ms
+MoveTo 960 539
+Delay 17 ms
+MoveTo 960 539
+Delay 11 ms
+MoveTo 960 540
+Delay 11 ms
+MoveTo 960 539
+Delay 11 ms
+MoveTo 960 540
+Delay 5 ms
+MoveTo 960 539
+Delay 13 ms
+MoveTo 960 540
+Delay 10 ms
+MoveTo 960 539
+Delay 9 ms
+MoveTo 960 540
+Delay 8 ms
+MoveTo 960 539
+Delay 14 ms
+MoveTo 960 540
+Delay 11 ms
+MoveTo 960 539
+Delay 13 ms
+MoveTo 960 539
+Delay 10 ms
+MoveTo 960 539
+Delay 14 ms
+MoveTo 960 539
+Delay 10 ms
+MoveTo 960 540
+Delay 8 ms
+MoveTo 960 539
+Delay 10 ms
+MoveTo 960 539
+Delay 12 ms
+MoveTo 960 539
+Delay 10 ms
+MoveTo 960 540
+Delay 11 ms
+MoveTo 960 539
+Delay 11 ms
+MoveTo 960 540
+Delay 10 ms
+MoveTo 960 539
+Delay 15 ms
+MoveTo 960 539
+Delay 5 ms
+MoveTo 960 540
+Delay 9 ms
+MoveTo 960 539
+Delay 9 ms
+MoveTo 960 540
+Delay 10 ms
+MoveTo 960 539
+Delay 13 ms
+MoveTo 960 539
+Delay 10 ms
+MoveTo 960 540
+Delay 11 ms
+MoveTo 960 539
+Delay 12 ms
+MoveTo 960 539
+Delay 7 ms
+MoveTo 960 540
+Delay 10 ms
+MoveTo 960 539
+Delay 11 ms
+MoveTo 960 540
+Delay 12 ms
+MoveTo 960 539
+Delay 11 ms
+MoveTo 960 539
+Delay 8 ms
+MoveTo 960 540
+Delay 9 ms
+MoveTo 960 539
+Delay 11 ms
+MoveTo 960 540
+Delay 96 ms
+MoveTo 960 539
+Delay 16 ms
+MoveTo 960 540
+Delay 10 ms
+MoveTo 960 539
+Delay 54 ms
+MoveTo 960 540
+Delay 32 ms
+MoveTo 960 539
+Delay 12 ms
+MoveTo 960 540
+Delay 7 ms
+MoveTo 960 539
+Delay 8 ms
+MoveTo 960 540
+Delay 10 ms
+MoveTo 960 539
+Delay 26 ms
+MoveTo 960 540
+Delay 41 ms
+MoveTo 960 539
+Delay 10 ms
+MoveTo 960 540
+Delay 13 ms
+MoveTo 960 539
+Delay 12 ms
+MoveTo 960 540
+Delay 6 ms
+MoveTo 960 539
+Delay 9 ms
+MoveTo 960 540
+Delay 10 ms
+MoveTo 960 539
+Delay 12 ms
+MoveTo 960 540
+Delay 11 ms
+MoveTo 960 539
+Delay 11 ms
+MoveTo 960 540
+Delay 19 ms
+MoveTo 960 539
+Delay 175 ms
+MoveTo 960 539
+Delay 8 ms
+MoveTo 959 540
+Delay 10 ms
+MoveTo 959 539
+Delay 14 ms
+MoveTo 959 540
+Delay 15 ms
+MoveTo 959 539
+Delay 11 ms
+MoveTo 959 540
+Delay 19 ms
+MoveTo 959 539
+Delay 10 ms
+MoveTo 959 540
+Delay 8 ms
+MoveTo 959 539
+Delay 9 ms
+MoveTo 959 540
+Delay 12 ms
+MoveTo 959 539
+Delay 12 ms
+MoveTo 959 540
+Delay 21 ms
+MoveTo 959 539
+Delay 7 ms
+MoveTo 959 540
+Delay 8 ms
+MoveTo 959 539
+Delay 11 ms
+MoveTo 959 540
+Delay 11 ms
+MoveTo 959 539
+Delay 12 ms
+MoveTo 959 540
+Delay 11 ms
+MoveTo 959 539
+Delay 13 ms
+MoveTo 959 540
+Delay 11 ms
+MoveTo 959 539
+Delay 9 ms
+MoveTo 959 540
+Delay 7 ms
+MoveTo 959 539
+Delay 5 ms
+MoveTo 959 540
+Delay 12 ms
+MoveTo 959 539
+Delay 10 ms
+MoveTo 959 540
+Delay 11 ms
+MoveTo 959 539
+Delay 12 ms
+MoveTo 959 540
+Delay 11 ms
+MoveTo 959 539
+Delay 184 ms
+MoveTo 959 539
+Delay 12 ms
+MoveTo 959 540</Syntax>
+    </KeyDown>
+    <Software>Fishing Planet</Software>
+  </DefaultMacro>
+</Root>

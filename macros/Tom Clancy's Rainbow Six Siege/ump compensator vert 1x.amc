@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Removes/Minimizes the recoil on ump (castle/pulse)
+
+gamesettings:
+fov 84
+1920x1080
+sens 6
+dpi 800
+1x 40
+
+gunsettings:
+compensator
+vertical grip
+1x  scope
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+MoveR 0 10
+Delay 15 ms
+MoveR 0 10
+Delay 15 ms
+MoveR 0 10
+Delay 15 ms
+MoveR 0 10
+Delay 15 ms
+MoveR 0 10
+Delay 15 ms
+MoveR 0 10
+Delay 15 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

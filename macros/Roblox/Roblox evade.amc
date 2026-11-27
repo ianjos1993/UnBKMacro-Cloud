@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major>EmoteHop Macro for Enhanced Movement</Major>
+    <Description>This macro is designed to simplify the execution of EmoteHop in the game Evade on the Roblox platform. EmoteHop is a technique that allows players to effectively navigate the map by using emotes to evade enemy pursuit.
+
+With this macro, you will be able to:
+
+Automate the execution of a sequence of emotes, significantly increasing your movement speed.
+Easily customize parameters to optimize performance based on the situation in the game.
+Enhance your survivability by avoiding enemy attacks through more agile movement.
+This tool is perfect for both beginners and experienced players looking to improve their skills in Evade. Install the macro and feel the difference in your gameplay!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 36 ms
+KeyDown 10 1
+KeyUp 10 1
+KeyDown 30 1
+KeyUp 30 1
+KeyDown 44 1
+GoWhile 7 8
+Delay 30 ms
+KeyUp 44 1
+Delay 30 ms
+KeyDown 44 1
+Delay 30 ms
+KeyUp 44 1
+Delay 30 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

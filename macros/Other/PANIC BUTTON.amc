@@ -1,0 +1,116 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Для Windows 10(Скорее всего пойдёт и для других версий)
+Быстрое выключение компьютера по нажатию 1 кнопки! Очень удобно когда хочешь отдохнуть и лень вырубать комп(или когда нужно срочно вырубить комп чтоб никто не спалил вас за игрой)) )
+Назначаете макрос на любую кнопку и радуетесь!
+
+Настраивайте время задержки зависимо от мощности вашего ПК
+
+В конце макроса можете наблюдать что вводится цифра 0, её можете заменить на любую!!! Это количество секунд через которые вырубится комп(допустим, если поставить 600, т.е. 600 секунд, то комп вырубится через 10 минут). Пользуйтесь!
+
+Не рекомендую использовать на постоянной основе!!! Для слабых пк может вызывать проблемы и сбои в работе с вашим ПК!!!
+
+По вопросам пишите под постом ниже! Всех благ!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 227 1
+Delay 10 ms
+KeyDown 21 1
+Delay 10 ms
+KeyUp 227 1
+Delay 10 ms
+KeyUp 21 1
+Delay 10 ms
+SetLang en-US
+Delay 10 ms
+KeyDown 22 1
+Delay 10 ms
+KeyUp 22 1
+Delay 10 ms
+KeyDown 11 1
+Delay 10 ms
+KeyUp 11 1
+Delay 10 ms
+KeyDown 24 1
+Delay 10 ms
+KeyUp 24 1
+Delay 10 ms
+KeyDown 23 1
+Delay 10 ms
+KeyUp 23 1
+Delay 10 ms
+KeyDown 7 1
+Delay 10 ms
+KeyUp 7 1
+Delay 10 ms
+KeyDown 18 1
+Delay 10 ms
+KeyUp 18 1
+Delay 10 ms
+KeyDown 26 1
+Delay 10 ms
+KeyUp 26 1
+Delay 10 ms
+KeyDown 17 1
+Delay 10 ms
+KeyUp 17 1
+Delay 10 ms
+KeyDown 44 1
+Delay 10 ms
+KeyUp 44 1
+Delay 10 ms
+KeyDown 45 1
+Delay 10 ms
+KeyUp 45 1
+Delay 10 ms
+KeyDown 22 1
+Delay 10 ms
+KeyUp 22 1
+Delay 10 ms
+KeyDown 44 1
+Delay 10 ms
+KeyUp 44 1
+Delay 10 ms
+KeyDown 45 1
+Delay 10 ms
+KeyUp 45 1
+Delay 10 ms
+KeyDown 9 1
+Delay 10 ms
+KeyUp 9 1
+Delay 10 ms
+KeyDown 44 1
+Delay 10 ms
+KeyUp 44 1
+Delay 10 ms
+KeyDown 45 1
+Delay 10 ms
+KeyUp 45 1
+Delay 10 ms
+KeyDown 23 1
+Delay 10 ms
+KeyUp 23 1
+Delay 10 ms
+KeyDown 44 1
+Delay 10 ms
+KeyUp 44 1
+Delay 10 ms
+KeyDown 39 1
+Delay 10 ms
+KeyUp 39 1
+Delay 10 ms
+KeyDown 88 1
+Delay 10 ms
+KeyUp 88 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Windows</Software>
+  </DefaultMacro>
+</Root>

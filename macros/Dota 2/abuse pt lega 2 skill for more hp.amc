@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>изначально ПТ на силу. Меняем на интеллект нажатием Z, используем второй скилл через alt+w, через 5 секунд переключаем ПТ в силу двойным нажатием Z.Тем самым прибавляя на 50 хп больше, с экономией 20 маны.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 10 20 ms
+KeyUp 29 1
+Delay 60 90 ms
+KeyDown 226 1
+KeyDown 26 1
+Delay 10 20 ms
+KeyUp 226 1
+KeyUp 26 1
+Delay 5 s
+KeyDown 29 1
+Delay 10 20 ms
+KeyUp 29 1
+Delay 60 90 ms
+KeyDown 29 1
+Delay 10 20 ms
+KeyUp 29 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

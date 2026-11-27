@@ -1,0 +1,19 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Move Mouse right on keyboard. Useful when you haven't mouse.
+Переместить Мышь вправо на клавиатуре. Полезно при отсутствии мыши.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR 5 0
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Mouse On Keyboard</Software>
+  </DefaultMacro>
+</Root>

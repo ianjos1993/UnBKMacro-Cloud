@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматически пьёт воду на сервере RPM roleplay, нужна вода в девятом слоте хотбара
+Разрешение: 1920x1080, 2560x1080</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 100 ms
+GoColor 2 0 0,0,0 255,255,255 1 1561 859 100 221 1 0
+KeyDown 38 1
+Delay 64 ms
+KeyUp 38 1
+Delay 100
+RightDown 1
+Delay 64 ms
+GoColor 8 1 0,0,0 255,255,255 1 1561 859 100 221 1 0
+RightUp 1
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

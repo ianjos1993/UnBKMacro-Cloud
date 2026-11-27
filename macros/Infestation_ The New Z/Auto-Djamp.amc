@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Авто-прыжок!
+
+Биндим макрос на клавишу пробел она же "SPACE" прыжок работает постоянно! 
+При использование другого макроса на стрельбу, приыжок автоматом перестает прыгать(работать)!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 15
+KeyUp 44 1
+Delay 15 ms
+KeyDown 44 1
+Delay 15
+KeyUp 44 1
+Delay 15
+KeyDown 44 1
+Delay 15
+KeyUp 44 1
+Delay 15</Syntax>
+    </KeyDown>
+    <Software>Infestation: The New Z</Software>
+  </DefaultMacro>
+</Root>

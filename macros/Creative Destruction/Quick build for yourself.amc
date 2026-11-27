@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для стандартной расскладки.
+---------------------------
+Принцип работы:Зажимается забинженая кнопка, под персонажа используется функция быстрой постройки, курсор переводится вниз, ставит платформу, после повторяет процедуру. Затем человек поднимает курсор и в безопасной постройке начинает файт. 
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR -24 479
+Delay 30
+KeyDown 60 1
+Delay 30
+KeyUp 60 1
+Delay 30
+KeyDown 44 1
+KeyUp 44 1
+KeyDown 58 1
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+KeyDown 60 1
+Delay 30
+KeyUp 60 1</Syntax>
+    </KeyDown>
+    <Software>Creative Destruction</Software>
+  </DefaultMacro>
+</Root>

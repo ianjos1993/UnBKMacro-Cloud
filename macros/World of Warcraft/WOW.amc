@@ -1,0 +1,76 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>ОСНОВНЫЕ АТАКУЮЩИЕ МАКРОСЫ ДЛЯ БМА
+Для того, чтобы эффективно управлять свои питомцем, добавьте эти макросы во все основные DPS способности. Из-за того, что в игре система «Основных атак» чуть медленнее, чем она может быть (питомец использует с маленькой задержкой «Цапнуть», «Укус», «Хлопок»), вы можете помогать ему, добавив их в свои основных абилки.
+
+#showtooltip
+/cast Команда "Взять!" 
+/cast Цапнуть 
+/cast Укус 
+/cast Хлопок
+
+#showtooltip
+/startattack
+/petattack
+/targetenemy [noharm][noexists]
+/cast Залп
+/cast Цапнуть
+/cast Укус
+/cast Хлопок
+
+#showtooltip
+/petattack
+/cast Выстрел кобры
+/cast Цапнуть
+/cast Укус
+/cast Хлопок
+
+#showtooltip
+/petattack
+/cast Выстрел химеры
+/cast Цапнуть
+/cast Укус
+/cast Хлопок
+
+#showtooltip
+/petattack
+/cast Разрывающий выстрел
+/cast Цапнуть
+/cast Укус
+/cast Хлопок
+
+#showtooltip
+/petattack
+/cast Стая воронов
+/cast Цапнуть
+/cast Укус
+/cast Хлопок</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>World of Warcraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Привет , это макрос на новогодний фамас г2, обязательно юзать с колиматором или 1.2x прицелом. на другие прицелы не подойдет.
+Чтобы использовать макрос - просто зажмите клавишу бинда 
+разрешение - 1280x1024
+Чувствительность в игре - 7.39
+
+важно : при любом действии , закрытии инвентаря , открытия пда , карты , желательно выключить макрос , иначе может доставить не приятности</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 0 9
+Delay 64
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоклик Y и N, подходит для Аризона РП.
+Чаще используется для кладов. Может слетать макрос из-за самой игры, т.к. Аризона иногда сбивает быстрые клики.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 28 1
+KeyUp 28 1
+Delay 70 ms
+KeyDown 17 1
+KeyUp 17 1</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

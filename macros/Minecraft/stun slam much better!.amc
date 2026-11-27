@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>Stun Slam! Axe - Mace Combo!</Major>
+    <Description>This is a much better improved stun slam! it is actually perfectly synchronized with minecraft's timing of item switch and weapon hits! ( BASICALLY 1 WHOLE TICK A PART) The instruction for this macro is simply equip your mace in slot number 1 and your axe in slot number 3! you must start by equiping your axe first as the macro will start to attack first depends on the item in your hand but it will automatically switch to axe at the last loop! I prefer to put this in left click mouse button but hey its yours to decide where to put it on your keybinds</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+KeyDown 30 1
+Delay 10 ms
+KeyUp 30 1
+Delay 50 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+KeyDown 32 1
+Delay 10 ms
+KeyUp 32 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

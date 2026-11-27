@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос очень хороший, комбо от миппо - ставьте на вашу клавишу и готово!
+Ну макрос очень хороший, пользовался я много, если что-то не работает, ставьте задержку в 10-20 мл. сек</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 3 ms
+KeyUp 20 1
+Delay 3 ms
+LeftDown 1
+Delay 11 ms
+LeftUp 1
+Delay 3 ms
+KeyDown 26 1
+Delay 3 ms
+KeyUp 26 1
+Delay 20 ms
+LeftDown 1
+Delay 3 ms
+LeftUp 1
+Delay 22 ms
+KeyDown 8 1
+Delay 3 ms
+KeyUp 8 1
+Delay 3 ms
+LeftDown 1
+Delay 18 ms
+LeftUp 1
+Delay 3 ms</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

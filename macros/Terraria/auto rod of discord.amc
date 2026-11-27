@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос позволяет автоматически использовать Жезл раздора по нажатию клавиши F.
+!!!ВАЖНОЕ УСЛОВИЕ!!!
+Нужно, чтобы Жезл раздора лежал в 8-м слоте хотбара</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 37 1
+Delay 10 ms
+KeyUp 37 1
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+KeyDown 30 1
+Delay 10 ms
+KeyUp 30 1</Syntax>
+    </KeyDown>
+    <Software>Terraria</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>macro HMLMG</Major>
+    <Description>this macro is the best for HMLMG with sens 0.5 and full screen mode
+ris: 1920 x 1080
+DPI 3200
+sens 0.5
+
+support me and enjoy!
+
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 6 ms
+MoveR 1 3
+Delay 6 ms
+MoveR 2 3
+Delay 6 ms
+MoveR 1 3
+Delay 6 ms
+MoveR 2 3
+Delay 6 ms
+MoveR 1 3
+Delay 6 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

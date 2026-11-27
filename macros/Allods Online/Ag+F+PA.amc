@@ -1,0 +1,89 @@
+<Root>
+  <DefaultMacro>
+    <Major>Мистик Нападение</Major>
+    <Description>Сначала кидает Агонию на R, потом в течении 12 секунд кидает ПА(ПТ) на кнопку E по гкд+ спамит постоянно фантомов на букву Q. 
+</Description>
+    <Comment>Для работы в билде обязательно должны быть вехи Садизм, Полтргейст, и Пробой.</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+KeyDown 20 1
+Delay 5 15 ms
+KeyUp 21 1
+KeyUp 20 1
+Delay 105 125 ms
+KeyDown 8 1
+KeyDown 20 1
+Delay 5 15 ms
+KeyUp 8 1
+KeyUp 20 1
+Delay 105 125 ms
+KeyDown 8 1
+KeyDown 20 1
+Delay 5 15 ms
+KeyUp 8 1
+KeyUp 20 1
+Delay 105 125 ms
+KeyDown 8 1
+KeyDown 20 1
+Delay 5 15 ms
+KeyUp 8 1
+KeyUp 20 1
+Delay 105 125 ms
+KeyDown 8 1
+KeyDown 20 1
+Delay 5 15 ms
+KeyUp 8 1
+KeyUp 20 1
+Delay 105 125 ms
+KeyDown 8 1
+KeyDown 20 1
+Delay 5 15 ms
+KeyUp 8 1
+KeyUp 20 1
+Delay 105 125 ms
+KeyDown 8 1
+KeyDown 20 1
+Delay 5 15 ms
+KeyUp 8 1
+KeyUp 20 1
+Delay 105 125 ms
+KeyDown 8 1
+KeyDown 20 1
+Delay 5 15 ms
+KeyUp 8 1
+KeyUp 20 1
+Delay 105 125 ms
+KeyDown 8 1
+KeyDown 20 1
+Delay 5 15 ms
+KeyUp 8 1
+KeyUp 20 1
+Delay 105 125 ms
+KeyDown 8 1
+KeyDown 20 1
+Delay 5 15 ms
+KeyUp 8 1
+KeyUp 20 1
+Delay 105 125 ms
+KeyDown 8 1
+KeyDown 20 1
+Delay 5 15 ms
+KeyUp 8 1
+KeyUp 20 1
+Delay 105 125 ms
+KeyDown 8 1
+KeyDown 20 1
+Delay 5 15 ms
+KeyUp 8 1
+KeyUp 20 1
+Delay 105 125 ms</Syntax>
+    </KeyDown>
+    <Software>Аллоды онлайн</Software>
+  </DefaultMacro>
+</Root>

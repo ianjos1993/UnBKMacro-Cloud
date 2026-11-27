@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major>Sageer</Major>
+    <Description>Works for me, and i can do something else instead of fishing my entire life wasting time and patience...
+
+Set Nostale Window to Minimum size, place top left of screen, if resolution is 1440p no changes needed, if 1080p you'll need to change the area of detection on line 8. Have fun!
+
+!!!IMPORTANT!!!
+
+You need to take off your armor otherwise it would interfere with the macro's detection pixels because of your armor's upgrade effects!
+This macro is made for 1440p Resolution screen, if you're using another type of screen resolution, you can tweak thepixel dectection at line 8 to right below your character's feet.
+
+https://www.youtube.com/watch?v=Lofy03tsuV4</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 350 ms
+KeyDown 30 1
+Delay 5 ms
+KeyUp 30 1
+Delay 2000 ms
+Goto 9
+Delay 10 ms
+GoColor 10 2 44,44,45 94,83,138 2 507 482 13 27 1 0
+GoWhile 7 100000
+KeyDown 31 1
+Delay 14 ms
+KeyUp 31 1
+Delay 5500 ms
+Goto 1
+//Set Nostale Window to Minimum size, place nostlae window to the very top left of your screen, if resolution is 1440p no changes needed, if 1080p you'll need to change the area of detection on line 8. Have fun!
+//Remember to take your armor off, otherwise it will affect the macro and wold reel too soon!!</Syntax>
+    </KeyDown>
+    <Software>NosTale</Software>
+  </DefaultMacro>
+</Root>

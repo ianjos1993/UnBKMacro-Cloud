@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для серверов Battlefield 2042 с фармом XP и Battlepass на получении опыта с снабжения команды патронами. Становитесь в кучку, включаете макрос и можете идти пить кофе.
+Работает везде без нареканий.
+Удачного использования.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 95 ms
+KeyUp 32 1
+Delay 526 ms
+LeftDown 1
+Delay 114 ms
+LeftUp 1
+Delay 3170 ms
+LeftDown 1
+Delay 450 ms
+LeftUp 1
+Delay 1767 ms
+KeyDown 32 1
+Delay 75 ms
+KeyUp 32 1
+Delay 461 ms
+LeftDown 1
+Delay 121 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Battlefield 2042</Software>
+  </DefaultMacro>
+</Root>

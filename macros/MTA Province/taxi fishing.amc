@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>бот для ловли клиентов такси, есть небольшие минусы в том что когда ты нажимаешь на кнопку к которой привязана менюшка такси, бывает что первым клиентом будет комфорт или бизнес, когда ты ездишь на экономе, в этом случае бот не поможет  если нужный клиент на втором месте, суть работы в том, что бы вы нажали на кнопку открывающую менюшку и нажали кнопку к которой привязан макрос, мышка автоматически выберет первого клиента из списка и примет его заказ за считанные милисекунды. +</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 510 250
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 146 ms
+MoveTo 522 538
+Delay 18 ms
+LeftDown 1
+Delay 110 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

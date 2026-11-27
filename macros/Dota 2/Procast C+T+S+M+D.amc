@@ -1,0 +1,131 @@
+<Root>
+  <DefaultMacro>
+    <Major>Procast with Cold snap,Tornado,Sun strike,Chaos Meteor and Deafening blast.</Major>
+    <Description>Для правильной работы макроса переназначьте кнопки сфер на Z-Quas X-Wex C-Exort. Четвертый и пятый слот способностей инвокера назначить на Q и E соответственно, книжку назначить на R. Кнопки можно изменить в редакторе Keyran при желании чтобы пользоватся так как вам удобно. Для правильной работы прокаста нужно забиндить его на любую клавишу в Keyran и во время выполнения макроса в самой игре держать курсор на цели. Временные задержки для всех способностей уже установлены но вы можете изменить их если хотите более быстрый или наоборот медленный каст.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//Cold snap
+KeyDown 29 1
+Delay 25 30 ms
+KeyUp 29 1
+Delay 25 30 ms
+KeyDown 29 1
+Delay 25 30 ms
+KeyUp 29 1
+Delay 25 30 ms
+KeyDown 29 1
+Delay 25 30 ms
+KeyUp 29 1
+Delay 25 30 ms
+KeyDown 21 1
+Delay 25 30 ms
+KeyUp 21 1
+Delay 50 ms
+Delay 50 ms
+KeyDown 20 1
+Delay 25 30 ms
+KeyUp 20 1
+Delay 25 30 ms
+//Tornado
+KeyDown 27 1
+Delay 50 64 ms
+KeyUp 27 1
+Delay 50 64 ms
+KeyDown 27 1
+Delay 50 64 ms
+KeyUp 27 1
+Delay 50 64 ms
+KeyDown 29 1
+Delay 50 64 ms
+KeyUp 29 1
+Delay 50 64 ms
+KeyDown 21 1
+Delay 50 64 ms
+KeyUp 21 1
+Delay 50 55 ms
+Delay 50 55 ms
+KeyDown 20 1
+Delay 50 64 ms
+KeyUp 20 1
+//Задержка перед санстрайком
+Delay 530 ms
+Delay 495 ms
+//Sun strike
+KeyDown 6 1
+Delay 25 30 ms
+KeyUp 6 1
+Delay 25 30 ms
+KeyDown 6 1
+Delay 25 30 ms
+KeyUp 6 1
+Delay 25 30 ms
+KeyDown 6 1
+Delay 25 30 ms
+KeyUp 6 1
+Delay 25 30 ms
+KeyDown 21 1
+Delay 25 30 ms
+KeyUp 21 1
+Delay 50 ms
+Delay 50 ms
+KeyDown 20 1
+Delay 25 30 ms
+KeyUp 20 1
+Delay 25 30 ms
+//Ожидание перед метеором
+Delay 550 ms
+Delay 500 ms
+//Chaos Meteor
+KeyDown 6 1
+Delay 25 30 ms
+KeyUp 6 1
+Delay 25 30 ms
+KeyDown 6 1
+Delay 25 30 ms
+KeyUp 6 1
+Delay 25 30 ms
+KeyDown 27 1
+Delay 25 30 ms
+KeyUp 27 1
+Delay 25 30 ms
+KeyDown 21 1
+Delay 25 30 ms
+KeyUp 21 1
+Delay 50 ms
+Delay 50 ms
+KeyDown 20 1
+Delay 25 30 ms
+KeyUp 20 1
+Delay 25 30 ms
+//Deafening blast
+Delay 450 ms
+KeyDown 29 1
+Delay 25 30 ms
+KeyUp 29 1
+Delay 25 30 ms
+KeyDown 27 1
+Delay 25 30 ms
+KeyUp 27 1
+Delay 25 30 ms
+KeyDown 6 1
+Delay 25 30 ms
+KeyUp 6 1
+Delay 25 30 ms
+KeyDown 21 1
+Delay 25 30 ms
+KeyUp 21 1
+Delay 50 ms
+Delay 50 ms
+KeyDown 20 1
+Delay 25 30 ms
+KeyUp 20 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

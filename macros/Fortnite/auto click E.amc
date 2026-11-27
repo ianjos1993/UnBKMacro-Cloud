@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автокликер для фарма опыта что бы не кликать самому оставляем и ваш опыт фармится САМ!!!! 
+впринципе очень лёгкий макрос но тот кто не разобрался как сделать всегда рад помоч)</Description>
+    <Comment>Спасибо что испульзуете </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 60 ms
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

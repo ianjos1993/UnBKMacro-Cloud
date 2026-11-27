@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major>29/01/2023</Major>
+    <Description>Fast Skil HolyCross
+...............................................
+Well tested, really fast skill, perfect for beginners. It's super easy to use, just put the skill in the F3 slot and select the button to install it.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 60 1
+Delay 12 ms
+LeftDown 1
+Delay 12 ms
+LeftUp 1
+Delay 12 ms
+KeyDown 60 1
+Delay 12 ms</Syntax>
+    </KeyDown>
+    <Software>Ragnarok</Software>
+  </DefaultMacro>
+</Root>

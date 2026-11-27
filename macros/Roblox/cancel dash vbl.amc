@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос подходит для игры в volleyball legends за персонажа akari 
+позволяет автоматически использовать R, Space клавиши
+чувствительность не важна
+нужна только ваша реакция и направление камеры, остальное необязательно</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1 ms
+KeyUp 225 1
+Delay 1 ms
+KeyDown 21 1
+Delay 1 ms
+KeyUp 21 1
+Delay 1 ms
+KeyDown 44 1
+Delay 1 ms
+KeyUp 44 1
+KeyDown 225 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

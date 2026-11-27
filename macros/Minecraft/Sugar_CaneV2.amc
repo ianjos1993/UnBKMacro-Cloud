@@ -1,0 +1,90 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Macro for farming sugar cane on Hypixel Skyblock at 260 speed. 
+This macro was made for 27 rows of 163 by 2 blocks with a drop down to the second layer which continues on for 10 more rows of 163 by 2 blocks.
+For this macro to work you must look a 157.1 degress
+(to find what degree you're facing, press f3, look at the top left where it says facing, the first number in that line is what degree you're facing)
+The code may have to be edited if any of the above variables are changed.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы 
+Thanks to the Russian Nerds who made this app.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 189 ms
+KeyUp 68 1
+Delay 487 ms
+KeyUp 225 1
+Delay 3394 ms
+LeftDown 1
+Delay 21 ms
+KeyDown 7 1
+Delay 24 ms
+KeyDown 225 1
+Delay 15 ms
+KeyDown 26 1
+Delay 15127 ms
+KeyUp 225 1
+Delay 272 ms
+KeyDown 4 1
+Delay 24 ms
+KeyUp 7 1
+Delay 63 ms
+KeyUp 26 1
+Delay 231 ms
+KeyDown 22 1
+Delay 120 ms
+KeyUp 4 1
+Delay 15750 ms
+KeyDown 4 1
+Delay 130 ms
+KeyUp 22 1
+Delay 136 ms
+KeyDown 26 1
+Delay 144 ms
+KeyUp 4 1
+Delay 23 ms
+KeyDown 7 1
+Delay 96 ms
+KeyUp 26 1
+GoWhile 10 27
+KeyDown 225 1
+Delay 15 ms
+KeyDown 26 1
+Delay 15500 ms
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+KeyUp 7 1
+KeyUp 26 1
+KeyDown 22 1
+Delay 600 ms
+Delay 0 ms
+KeyDown 22 1
+Delay 16010 ms
+KeyDown 7 1
+Delay 47 ms
+KeyUp 22 1
+Delay 111 ms
+KeyDown 26 1
+Delay 96 ms
+KeyDown 225 1
+Delay 15350 ms
+KeyUp 26 1
+Delay 23 ms
+KeyUp 225 1
+Delay 100 ms
+KeyDown 22 1
+Delay 63 ms
+KeyUp 22 1
+Delay 143 ms
+KeyUp 7 1
+GoWhile 49 10</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

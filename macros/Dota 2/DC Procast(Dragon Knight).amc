@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Прокаст на ДК, актуален в патче 7.32е
+Для акдекватной работы запускать скрипт нужно  в рендже стана, а так же !!!ОБЬЯЗАТЕЛЬНО!!! включите квиккасты, иначе будет ай-яй-яй.
+Необходимые айтемы: - Shard, Meteor hammer, Ethereal blade. Та кже прокаст можно усилить Kaya and Sange и Aether lens(позволит давать прокаст с большей дистанции)
+Горячие клавиши:
+Q-первый скил
+W- второй скил(он же стан)
+D-Скил с шарда
+С-Ethereal blade
+V-Meteor hammer</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 96 ms
+KeyUp 26 1
+Delay 335 ms
+KeyDown 7 1
+Delay 111 ms
+KeyUp 7 1
+Delay 239 ms
+KeyDown 6 1
+Delay 79 ms
+KeyUp 6 1
+Delay 184 ms
+KeyDown 25 1
+Delay 127 ms
+KeyUp 25 1
+Delay 2239 ms
+KeyDown 20 1
+Delay 96 ms
+KeyUp 20 1
+Delay 95 ms
+KeyDown 20 1
+Delay 64 ms
+KeyUp 20 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

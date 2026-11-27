@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>Быстрая покупка автомобиля Peel Trident для получения Super wheelspins</Major>
+    <Description>В настройках цикла в макросе прописываешь, соклько автомобилей нужно, нажимаешь на кнопку, и игра сама покупает нужное количество автомобилей</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1735 ms
+KeyDown 28 1
+Delay 96 ms
+KeyUp 28 1
+Delay 3983 ms
+KeyDown 28 1
+Delay 98 ms
+KeyUp 28 1
+Delay 1582 ms
+KeyDown 88 1
+Delay 100 ms
+KeyUp 88 1
+GoWhile 1 95</Syntax>
+    </KeyDown>
+    <Software>Forza Horizon 5</Software>
+  </DefaultMacro>
+</Root>

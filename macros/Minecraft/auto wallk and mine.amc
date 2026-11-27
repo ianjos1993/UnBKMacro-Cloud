@@ -1,0 +1,19 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос заставляет вашего персонажа ходить и ломать блоки посредством зажатия w и лкм в течении 7200 секунд</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 26 1
+Delay 7200 s</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

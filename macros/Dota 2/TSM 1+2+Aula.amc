@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Просто жмём все кнопки на цм и успешно сваливаем на блинке в куст, после чего используем ульту и просто ждйм пока враги сами подохнут</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+Delay 64 ms
+KeyDown 31 1
+KeyUp 31 1
+Delay 64 ms
+KeyDown 21 1
+Delay 2048 ms
+KeyUp 21 1
+KeyDown 9 1
+KeyUp 9 1
+Delay 64 ms
+KeyDown 8 1
+KeyUp 8 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

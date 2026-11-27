@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>AlEl</Major>
+    <Description>Макрос для автоматической рыбалки предназначен для хорошей удочки и блесны.
+Более сложная версия макроса с проверкой состояния удочки. 
+Заброс занимает 4,5 секунды.
+Программа рассчитана под полностью нетронутую удочку, доводит ее до состояния поношено и после делает еще 45 забросов.
+Для работы нужно встать на месте, где можно рыбачить, взять удочку и повесить на нее блесну. 
+Макрос рассчитан под Full HD и мою цветокоррекцию.</Description>
+    <Comment>По просьбам тех у кого корректно работает проверка цвета. 
+Если делает мало забросов, проверяйте 9 строчку, и как программа проверяет состояние удочки.
+https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 4500 ms
+LeftUp 1
+Delay 500 ms
+RightDown 1
+Delay 64
+RightUp 1
+Delay 800 ms
+GoColor 1 2 40,160,0 98,194,70 2 118 967 4 6 1 0
+GoWhile 1 45</Syntax>
+    </KeyDown>
+    <Software>DayZ</Software>
+  </DefaultMacro>
+</Root>

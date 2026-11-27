@@ -1,0 +1,92 @@
+<Root>
+  <DefaultMacro>
+    <Major>Взлом четырех значного велозамка</Major>
+    <Description>Сперва наперво назначим клавишу "Взаимодействие с окружающей средой" с буквы F на ЛКМ
+После успешного рейда нажмите в настройках клавиш "сбросить" и продолжайте вести обычный образ жизни =)
+
+- перед началом рейда должна быть выбрана последняя цифра код лока (4я, самя правая ) 
+- все цифры код лока после первой должны быть на нуле!... Первая  -  это тысячи, там можете выбрать любую цифру которая возможно окажется ,,счастливой,, ( 3000, 4000, 1000 и т д и т п ) 
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 90 1
+Delay 64
+KeyUp 90 1
+Delay 64
+Delay 6400 ms
+LeftUp 1
+Delay 500 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 300 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 300 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 300 ms
+LeftDown 1
+Delay 1600 ms
+LeftUp 1
+Delay 500 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 300 ms
+GoWhile 1 10
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 300 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 300 ms
+LeftDown 1
+Delay 1600 ms
+LeftUp 1
+Delay 500 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 300 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 300 ms
+GoWhile 1 10
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 300 ms
+LeftDown 1
+Delay 1600 ms
+LeftUp 1
+Delay 500 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 300 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 300 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 300 ms
+GoWhile 1 10</Syntax>
+    </KeyDown>
+    <Software>DayZ</Software>
+  </DefaultMacro>
+</Root>

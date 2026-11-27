@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major>Very big slide on "F" skill on takizawa/Naru</Major>
+    <Description>Данный макрос при правильной настройки задержки позволяет делать так называемый слайд (использования скилла персонажа в движении) на очень большое расстояние, задержка должна зависеть от вашего пинга на сервере. Например, пинг-100 мс, ставите задержку нажатия клавиш на 8-10, чем выше пинг тем больше задержка, чем меньше пинг, тем меньше задержка, используется данный скрипт только для веселья в игре, и например для того чтобы догнать опонента, или наоборот отбежать.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 8 ms
+KeyUp 9 1
+Delay 8 ms
+KeyDown 26 1
+Delay 8 ms
+KeyUp 26 1
+Delay 8 ms
+KeyDown 26 1
+Delay 8 ms
+KeyUp 26 1
+Delay 8 ms
+KeyDown 44 1
+Delay 8 ms
+KeyUp 44 1
+Delay 8 ms
+KeyDown 44 1
+Delay 8 ms
+KeyUp 44 1
+Delay 8 ms
+KeyDown 44 1
+Delay 8 ms
+KeyUp 44 1
+Delay 8 ms
+KeyDown 44 1
+Delay 8 ms
+KeyUp 44 1
+Delay 8 ms
+KeyDown 44 1
+Delay 8 ms
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

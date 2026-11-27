@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Ахтуба, легкий фарм хищной рыбы на точке 145:67 ставить воблер с углублением 3 метра, бинд на чай или кофе на 1</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+KeyDown 225 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 41 s
+LeftUp 1
+Delay 64
+KeyDown 44 1
+Delay 1 s
+KeyUp 44 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 30 1
+KeyDown 29 1
+Delay 64
+KeyUp 29 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Russian Fishing 4</Software>
+  </DefaultMacro>
+</Root>

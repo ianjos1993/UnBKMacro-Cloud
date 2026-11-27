@@ -1,0 +1,103 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Необходимо прилететь в систему HIP 12099 на планету 1 b, по координатам:
+-54,3760
+-50,3540
+На данных координатах вам необходимо встать с задней стороны кобры чётко перед небольшим выступом так, чтобы прямо по центру прицела ТРП с видом от первого лица был предмет под названием "Управление связью". Далее необходимо выйти в главное меню, после чего убедиться чтобы выбран был пункт под названием "Продолжить". Отведите курсор подальше от пунктов главного меню, чтобы случайно не сломать макрос. После выполнения всех вышеперечисленных действий запускаем макрос и наблюдаем, как за нас автоматически фармятся зашифрованные данные.
+
+ВАЖНО:
+Разрешение экрана должно быть 1920 х 1080.
+Макрос я настраивал под свой компьютер.
+В случае, если у вас макрос работает некоректно - пробуйте следующие действия:
+1. Если у вас игра после выбора макросом пункта "Игра соло" запускается дольше чем за 22 секунды - измените тайминг ожидания на то время, которое необходимо вашему компьютеру для запуска игры. Так же если у вас игра запускается быстрее чем за 22 секунды - поменяйте значение на меньшие числа.
+2. Так же если у вас турель ТРП не доворачивает до следующих объектов под названием "Управление связью" - попробуйте временно поменять чувствительность мыши.
+
+О7 Командор!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 200 ms
+KeyUp 44 1
+Delay 200 ms
+KeyDown 7 1
+Delay 200 ms
+KeyUp 7 1
+Delay 200 ms
+KeyDown 7 1
+Delay 200 ms
+KeyUp 7 1
+Delay 200 ms
+KeyDown 44 1
+Delay 200 ms
+KeyUp 44 1
+Delay 22500 ms
+KeyDown 24 1
+Delay 200 ms
+KeyUp 24 1
+Delay 2600 ms
+RightDown 1
+Delay 6650 ms
+RightUp 1
+MoveR 350 0
+Delay 300 ms
+MoveR 350 0
+Delay 300 ms
+MoveR 60 0
+Delay 300 ms
+MoveR -100 0
+MoveR -80 0
+RightDown 1
+Delay 6650 ms
+RightUp 1
+MoveR 350 15
+Delay 300 ms
+MoveR 350 15
+Delay 300 ms
+MoveR 350 15
+Delay 300 ms
+MoveR 350 15
+Delay 200 ms
+MoveR 100 15
+Delay 300 ms
+MoveR -100 0
+MoveR -80 0
+RightDown 1
+Delay 6650 ms
+RightUp 1
+MoveR 350 -45
+Delay 200 ms
+MoveR 350 -45
+Delay 200 ms
+MoveR -100 15
+MoveR -80 15
+MoveR -50 15
+RightDown 1
+Delay 6650 ms
+RightUp 1
+KeyDown 41 1
+Delay 200 ms
+KeyUp 41 1
+Delay 200 ms
+KeyDown 26 1
+Delay 200 ms
+KeyUp 26 1
+Delay 200 ms
+KeyDown 44 1
+Delay 200 ms
+KeyUp 44 1
+Delay 200 ms
+KeyDown 44 1
+Delay 200 ms
+KeyUp 44 1
+Delay 6000 ms</Syntax>
+    </KeyDown>
+    <Software>Elite Dangerous</Software>
+  </DefaultMacro>
+</Root>

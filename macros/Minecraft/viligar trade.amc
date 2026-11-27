@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro lets you easily trade with villagers.
+
+-Breaks the lectern and replace is it
+-You can check easy get mending book villager just sit back and relax-
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 64
+RightUp 1
+Delay 3 s
+LeftDown 1
+Delay 1 s
+LeftUp 1
+Delay 2 s
+KeyDown 31 1
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+GoWhile 1 500</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

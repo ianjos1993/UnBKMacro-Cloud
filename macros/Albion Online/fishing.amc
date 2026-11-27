@@ -1,0 +1,58 @@
+<Root>
+  <DefaultMacro>
+    <Major>Авто рыбалка Albion</Major>
+    <Description>Авто рыбалка в MMO Albion Online
+Инструкция:
+Зайти на клановый остов, подойти к задней его часте( к воде) и запустить макрос
+Важно: макрос ловит рыбу не постоянно а лишь с каким то шансом, что бы увеличить шанс и настроить его под вашего персонажа нужно поиграть с первой задержкой( та что на 950мс)
+PS: не забудьте поставить режим работы *до следующего нажати*</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 16 ms
+KeyUp 225 1
+Delay 850 ms
+LeftDown 1
+Delay 521 ms
+LeftUp 1
+Delay 9371 ms
+LeftDown 1
+Delay 1211 ms
+LeftUp 1
+Delay 651 ms
+LeftDown 1
+Delay 1189 ms
+LeftUp 1
+Delay 1212 ms
+LeftDown 1
+Delay 1338 ms
+LeftUp 1
+Delay 823 ms
+LeftDown 1
+Delay 1424 ms
+LeftUp 1
+Delay 454 ms
+LeftDown 1
+Delay 1050 ms
+LeftUp 1
+Delay 475 ms
+LeftDown 1
+Delay 1070 ms
+LeftUp 1
+Delay 449 ms
+LeftDown 1
+Delay 1520 ms
+LeftUp 1
+Delay 967 ms
+KeyDown 225 1
+Delay 369 ms
+KeyDown 68 1</Syntax>
+    </KeyDown>
+    <Software>Albion Online </Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,59 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всем привет.
+Создал автомайнинг баллов в Боослайк через подписки ВК.
+Разрешение экрана: 1680х1050.
+Ставите макрос на любую кнопку
+Макрос сама тыкает и подписывается и набирает баллы</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 62 1
+Delay 64
+KeyUp 62 1
+Delay 64
+MoveR -878 -479
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveR -1183 -156
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveR -1219 -282
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveR 409 -476
+Delay 64
+MoveR 0 0
+Delay 2 s
+GoColor 31 2 225,227,230 225,227,230 2 1183 566 134 80 1 0
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1 s
+MoveR 474 -576
+Delay 64
+MoveR 416 -477
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Другие</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всем привет.Решыл модернизировать вашу рыбалку до 2 кнопок (теперь не надо будет тыкать N и другие кнопки просто 2 на ваш выбор).Значение задерки можно редактировать в стоке задерка установлена для 60 пинга +- эти значеня если у вас пинг по больше побавляем задерку не больше 5 строк.Рекомендация скачиваем мой макрос на спам кнопки N и этот макрос теперь биндим их на кнопки Ins (0) этот скрипт (Enter+Click)(Режым роботы Выполнять один раз при нажатии)  а на Del (.) прикрепляем spam N (Режым роботы ыполнять пока зажата кнопка)(ОБРАТИТЕ ВНИМАНИЕ: эти кнопки находятся на  NUM PAD).Принчиц роботы такой по эхолоту найши место рыбы стали на лодке поцепили нажыву и наживаем кнопку Ins(0) рыба клюнула когда зажываем кнопку Del(.).  Всем удачи и побольше АЗ)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 64
+Delay 64
+Delay 64
+Delay 64
+Delay 64
+Delay 64
+Delay 64
+Delay 64
+Delay 64
+Delay 64
+Delay 64
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

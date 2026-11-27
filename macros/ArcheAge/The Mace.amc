@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>ставите на F6 свой таргет, на ctrl+q ставите булаву. ставите макрос на F6 и вуаля, у вас макрос на булаву.Надеюсь,кому-то пригодится.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 2198 ms
+KeyDown 63 1
+Delay 87 ms
+KeyUp 63 1
+Delay 319 ms
+KeyDown 224 1
+Delay 104 ms
+KeyDown 20 1
+Delay 127 ms
+KeyUp 20 1
+Delay 871 ms
+KeyDown 20 1
+Delay 127 ms
+KeyUp 20 1
+Delay 392 ms
+KeyUp 224 1
+Delay 2000 ms
+KeyDown 224 1
+KeyDown 35 1
+Delay 64
+KeyUp 224 1
+KeyUp 35 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Archeage</Software>
+  </DefaultMacro>
+</Root>

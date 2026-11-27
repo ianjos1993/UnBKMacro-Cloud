@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматическое нажатие английской буквы "E" . 
+Нажатия происходят каждые 50мс. Желательно поставить чтобы оно повторялось и останавливалось только по вашему нажатию клавиши на которой настроен этот макросс.
+ И помните , не везде можно использовать макросы,даже самые безобидные!!!
+Удачи в использовании!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 50 ms
+KeyUp 8 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>Другие</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Позволяет слепить снежок через Tab с помощью назначенной вами клавиши. Позволяет сильно ускорить процесс сбития сосулек. 1920x1080</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 150 ms
+MoveTo 1098 686
+LeftDown 1
+Delay 64
+LeftUp 1
+KeyUp 43 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

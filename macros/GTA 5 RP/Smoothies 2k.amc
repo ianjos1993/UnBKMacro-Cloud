@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос предназначен для приготовления смузи в gta 5 rp при открытом меню готовки.
+Используйте разрешение экрана 2560 x 1440 и формат 16:9
+Инструкция: 
+1. положите овощи в инвентарь
+2. откройте меню готовки
+3. запустите макрос</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1492 464
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 120 ms
+MoveTo 1398 450
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 120 ms
+MoveTo 1146 732
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 120 ms
+MoveTo 1138 853
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major>Проводка для спининга без перерыва, с автопоедание еды</Major>
+    <Description>Скорость подмотки на 27, фрикцион катушки на 29,  в 4 слот ставите еду.
+Отходите на часик, несколько десятков халявных рыб в садке))
+
+P.S: Точку и место заброса вы выбирате сами, оставляеть там курсор и идёт рыбалка, но стоит проверять переодически, ведь может попасться большая рыба, для которой не предназначем этот макрос</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 128 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+KeyUp 225 1
+Delay 4 s
+LeftDown 1
+Delay 45 s
+LeftUp 1
+Delay 64
+RightDown 1
+Delay 5 s
+KeyDown 44 1
+Delay 64 ms
+KeyUp 44 1
+Delay 3 s
+RightUp 1
+Delay 3 s
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Russian Fishing 4</Software>
+  </DefaultMacro>
+</Root>

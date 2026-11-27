@@ -1,0 +1,893 @@
+<Root>
+  <DefaultMacro>
+    <Major>Николай</Major>
+    <Description>Макрос на ловлю спинингом
+Данный макрос расчитан на ловлю спинингом со средним забросом на 3-5гр блесну.
+Ставим фрикцион 29
+Скорость подмотки 25-35
+</Description>
+    <Comment>Макрос проверен мною, на пару часов смело можно идти по своим делам, только спининг и катушку по крепче а то кто знает что там клюнет, у меня все работало прекрасно лома нет глюков тоже.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 300 ms
+KeyUp 225 1
+Delay 1709 ms
+LeftDown 1
+Delay 3154 ms
+LeftUp 1
+Delay 2737 ms
+MoveTo 683 383
+Delay 3 ms
+LeftDown 1
+Delay 76 ms
+MoveTo 683 384
+Delay 248 ms
+MoveTo 682 383
+Delay 30414 ms
+RightDown 1
+Delay 11953 ms
+RightUp 1
+Delay 171 ms
+LeftUp 1
+Delay 51 ms
+MoveTo 683 384
+Delay 2 ms
+MoveTo 682 383
+Delay 2 ms
+MoveTo 683 384
+Delay 15 ms
+MoveTo 683 383
+Delay 8 ms
+MoveTo 683 384
+Delay 11 ms
+MoveTo 682 383
+Delay 11 ms
+MoveTo 683 384
+Delay 180 ms
+MoveTo 682 384
+Delay 16 ms
+MoveTo 683 383
+Delay 1313 ms
+KeyDown 44 1
+Delay 104 ms
+KeyUp 44 1
+Delay 3545 ms
+KeyDown 225 1
+Delay 192 ms
+KeyDown 68 1
+Delay 300 ms
+KeyUp 225 1
+Delay 1709 ms
+LeftDown 1
+Delay 3154 ms
+LeftUp 1
+Delay 2737 ms
+MoveTo 683 383
+Delay 3 ms
+LeftDown 1
+Delay 76 ms
+MoveTo 683 384
+Delay 248 ms
+MoveTo 682 383
+Delay 30414 ms
+RightDown 1
+Delay 11953 ms
+RightUp 1
+Delay 171 ms
+LeftUp 1
+Delay 51 ms
+MoveTo 683 384
+Delay 2 ms
+MoveTo 682 383
+Delay 2 ms
+MoveTo 683 384
+Delay 15 ms
+MoveTo 683 383
+Delay 8 ms
+MoveTo 683 384
+Delay 11 ms
+MoveTo 682 383
+Delay 11 ms
+MoveTo 683 384
+Delay 180 ms
+MoveTo 682 384
+Delay 16 ms
+MoveTo 683 383
+Delay 1313 ms
+KeyDown 44 1
+Delay 104 ms
+KeyUp 44 1
+Delay 3545 ms
+KeyDown 225 1
+Delay 192 ms
+KeyDown 68 1
+Delay 300 ms
+KeyUp 225 1
+Delay 1709 ms
+LeftDown 1
+Delay 3154 ms
+LeftUp 1
+Delay 2737 ms
+MoveTo 683 383
+Delay 3 ms
+LeftDown 1
+Delay 76 ms
+MoveTo 683 384
+Delay 248 ms
+MoveTo 682 383
+Delay 30414 ms
+RightDown 1
+Delay 11953 ms
+RightUp 1
+Delay 171 ms
+LeftUp 1
+Delay 51 ms
+MoveTo 683 384
+Delay 2 ms
+MoveTo 682 383
+Delay 2 ms
+MoveTo 683 384
+Delay 15 ms
+MoveTo 683 383
+Delay 8 ms
+MoveTo 683 384
+Delay 11 ms
+MoveTo 682 383
+Delay 11 ms
+MoveTo 683 384
+Delay 180 ms
+MoveTo 682 384
+Delay 16 ms
+MoveTo 683 383
+Delay 1313 ms
+KeyDown 44 1
+Delay 104 ms
+KeyUp 44 1
+Delay 3545 ms
+KeyDown 225 1
+Delay 192 ms
+KeyDown 68 1
+Delay 300 ms
+KeyUp 225 1
+Delay 1709 ms
+LeftDown 1
+Delay 3154 ms
+LeftUp 1
+Delay 2737 ms
+MoveTo 683 383
+Delay 3 ms
+LeftDown 1
+Delay 76 ms
+MoveTo 683 384
+Delay 248 ms
+MoveTo 682 383
+Delay 30414 ms
+RightDown 1
+Delay 11953 ms
+RightUp 1
+Delay 171 ms
+LeftUp 1
+Delay 51 ms
+MoveTo 683 384
+Delay 2 ms
+MoveTo 682 383
+Delay 2 ms
+MoveTo 683 384
+Delay 15 ms
+MoveTo 683 383
+Delay 8 ms
+MoveTo 683 384
+Delay 11 ms
+MoveTo 682 383
+Delay 11 ms
+MoveTo 683 384
+Delay 180 ms
+MoveTo 682 384
+Delay 16 ms
+MoveTo 683 383
+Delay 1313 ms
+KeyDown 44 1
+Delay 104 ms
+KeyUp 44 1
+Delay 3545 ms
+KeyDown 225 1
+Delay 192 ms
+KeyDown 68 1
+Delay 300 ms
+KeyUp 225 1
+Delay 1709 ms
+LeftDown 1
+Delay 3154 ms
+LeftUp 1
+Delay 2737 ms
+MoveTo 683 383
+Delay 3 ms
+LeftDown 1
+Delay 76 ms
+MoveTo 683 384
+Delay 248 ms
+MoveTo 682 383
+Delay 30414 ms
+RightDown 1
+Delay 11953 ms
+RightUp 1
+Delay 171 ms
+LeftUp 1
+Delay 51 ms
+MoveTo 683 384
+Delay 2 ms
+MoveTo 682 383
+Delay 2 ms
+MoveTo 683 384
+Delay 15 ms
+MoveTo 683 383
+Delay 8 ms
+MoveTo 683 384
+Delay 11 ms
+MoveTo 682 383
+Delay 11 ms
+MoveTo 683 384
+Delay 180 ms
+MoveTo 682 384
+Delay 16 ms
+MoveTo 683 383
+Delay 1313 ms
+KeyDown 44 1
+Delay 104 ms
+KeyUp 44 1
+Delay 3545 ms
+KeyDown 225 1
+Delay 192 ms
+KeyDown 68 1
+Delay 300 ms
+KeyUp 225 1
+Delay 1709 ms
+LeftDown 1
+Delay 3154 ms
+LeftUp 1
+Delay 2737 ms
+MoveTo 683 383
+Delay 3 ms
+LeftDown 1
+Delay 76 ms
+MoveTo 683 384
+Delay 248 ms
+MoveTo 682 383
+Delay 30414 ms
+RightDown 1
+Delay 11953 ms
+RightUp 1
+Delay 171 ms
+LeftUp 1
+Delay 51 ms
+MoveTo 683 384
+Delay 2 ms
+MoveTo 682 383
+Delay 2 ms
+MoveTo 683 384
+Delay 15 ms
+MoveTo 683 383
+Delay 8 ms
+MoveTo 683 384
+Delay 11 ms
+MoveTo 682 383
+Delay 11 ms
+MoveTo 683 384
+Delay 180 ms
+MoveTo 682 384
+Delay 16 ms
+MoveTo 683 383
+Delay 1313 ms
+KeyDown 44 1
+Delay 104 ms
+KeyUp 44 1
+Delay 3545 ms
+KeyDown 225 1
+Delay 192 ms
+KeyDown 68 1
+Delay 300 ms
+KeyUp 225 1
+Delay 1709 ms
+LeftDown 1
+Delay 3154 ms
+LeftUp 1
+Delay 2737 ms
+MoveTo 683 383
+Delay 3 ms
+LeftDown 1
+Delay 76 ms
+MoveTo 683 384
+Delay 248 ms
+MoveTo 682 383
+Delay 30414 ms
+RightDown 1
+Delay 11953 ms
+RightUp 1
+Delay 171 ms
+LeftUp 1
+Delay 51 ms
+MoveTo 683 384
+Delay 2 ms
+MoveTo 682 383
+Delay 2 ms
+MoveTo 683 384
+Delay 15 ms
+MoveTo 683 383
+Delay 8 ms
+MoveTo 683 384
+Delay 11 ms
+MoveTo 682 383
+Delay 11 ms
+MoveTo 683 384
+Delay 180 ms
+MoveTo 682 384
+Delay 16 ms
+MoveTo 683 383
+Delay 1313 ms
+KeyDown 44 1
+Delay 104 ms
+KeyUp 44 1
+Delay 3545 ms
+KeyDown 225 1
+Delay 192 ms
+KeyDown 68 1
+Delay 300 ms
+KeyUp 225 1
+Delay 1709 ms
+LeftDown 1
+Delay 3154 ms
+LeftUp 1
+Delay 2737 ms
+MoveTo 683 383
+Delay 3 ms
+LeftDown 1
+Delay 76 ms
+MoveTo 683 384
+Delay 248 ms
+MoveTo 682 383
+Delay 30414 ms
+RightDown 1
+Delay 11953 ms
+RightUp 1
+Delay 171 ms
+LeftUp 1
+Delay 51 ms
+MoveTo 683 384
+Delay 2 ms
+MoveTo 682 383
+Delay 2 ms
+MoveTo 683 384
+Delay 15 ms
+MoveTo 683 383
+Delay 8 ms
+MoveTo 683 384
+Delay 11 ms
+MoveTo 682 383
+Delay 11 ms
+MoveTo 683 384
+Delay 180 ms
+MoveTo 682 384
+Delay 16 ms
+MoveTo 683 383
+Delay 1313 ms
+KeyDown 44 1
+Delay 104 ms
+KeyUp 44 1
+Delay 3545 ms
+KeyDown 225 1
+Delay 192 ms
+KeyDown 68 1
+Delay 300 ms
+KeyUp 225 1
+Delay 1709 ms
+LeftDown 1
+Delay 3154 ms
+LeftUp 1
+Delay 2737 ms
+MoveTo 683 383
+Delay 3 ms
+LeftDown 1
+Delay 76 ms
+MoveTo 683 384
+Delay 248 ms
+MoveTo 682 383
+Delay 30414 ms
+RightDown 1
+Delay 11953 ms
+RightUp 1
+Delay 171 ms
+LeftUp 1
+Delay 51 ms
+MoveTo 683 384
+Delay 2 ms
+MoveTo 682 383
+Delay 2 ms
+MoveTo 683 384
+Delay 15 ms
+MoveTo 683 383
+Delay 8 ms
+MoveTo 683 384
+Delay 11 ms
+MoveTo 682 383
+Delay 11 ms
+MoveTo 683 384
+Delay 180 ms
+MoveTo 682 384
+Delay 16 ms
+MoveTo 683 383
+Delay 1313 ms
+KeyDown 44 1
+Delay 104 ms
+KeyUp 44 1
+Delay 3545 ms
+KeyDown 225 1
+Delay 192 ms
+KeyDown 68 1
+Delay 300 ms
+KeyUp 225 1
+Delay 1709 ms
+LeftDown 1
+Delay 3154 ms
+LeftUp 1
+Delay 2737 ms
+MoveTo 683 383
+Delay 3 ms
+LeftDown 1
+Delay 76 ms
+MoveTo 683 384
+Delay 248 ms
+MoveTo 682 383
+Delay 30414 ms
+RightDown 1
+Delay 11953 ms
+RightUp 1
+Delay 171 ms
+LeftUp 1
+Delay 51 ms
+MoveTo 683 384
+Delay 2 ms
+MoveTo 682 383
+Delay 2 ms
+MoveTo 683 384
+Delay 15 ms
+MoveTo 683 383
+Delay 8 ms
+MoveTo 683 384
+Delay 11 ms
+MoveTo 682 383
+Delay 11 ms
+MoveTo 683 384
+Delay 180 ms
+MoveTo 682 384
+Delay 16 ms
+MoveTo 683 383
+Delay 1313 ms
+KeyDown 44 1
+Delay 104 ms
+KeyUp 44 1
+Delay 3545 ms
+KeyDown 225 1
+Delay 192 ms
+KeyDown 68 1
+Delay 300 ms
+KeyUp 225 1
+Delay 1709 ms
+LeftDown 1
+Delay 3154 ms
+LeftUp 1
+Delay 2737 ms
+MoveTo 683 383
+Delay 3 ms
+LeftDown 1
+Delay 76 ms
+MoveTo 683 384
+Delay 248 ms
+MoveTo 682 383
+Delay 30414 ms
+RightDown 1
+Delay 11953 ms
+RightUp 1
+Delay 171 ms
+LeftUp 1
+Delay 51 ms
+MoveTo 683 384
+Delay 2 ms
+MoveTo 682 383
+Delay 2 ms
+MoveTo 683 384
+Delay 15 ms
+MoveTo 683 383
+Delay 8 ms
+MoveTo 683 384
+Delay 11 ms
+MoveTo 682 383
+Delay 11 ms
+MoveTo 683 384
+Delay 180 ms
+MoveTo 682 384
+Delay 16 ms
+MoveTo 683 383
+Delay 1313 ms
+KeyDown 44 1
+Delay 104 ms
+KeyUp 44 1
+Delay 3545 ms
+KeyDown 225 1
+Delay 192 ms
+KeyDown 68 1
+Delay 300 ms
+KeyUp 225 1
+Delay 1709 ms
+LeftDown 1
+Delay 3154 ms
+LeftUp 1
+Delay 2737 ms
+MoveTo 683 383
+Delay 3 ms
+LeftDown 1
+Delay 76 ms
+MoveTo 683 384
+Delay 248 ms
+MoveTo 682 383
+Delay 30414 ms
+RightDown 1
+Delay 11953 ms
+RightUp 1
+Delay 171 ms
+LeftUp 1
+Delay 51 ms
+MoveTo 683 384
+Delay 2 ms
+MoveTo 682 383
+Delay 2 ms
+MoveTo 683 384
+Delay 15 ms
+MoveTo 683 383
+Delay 8 ms
+MoveTo 683 384
+Delay 11 ms
+MoveTo 682 383
+Delay 11 ms
+MoveTo 683 384
+Delay 180 ms
+MoveTo 682 384
+Delay 16 ms
+MoveTo 683 383
+Delay 1313 ms
+KeyDown 44 1
+Delay 104 ms
+KeyUp 44 1
+Delay 3545 ms
+KeyDown 225 1
+Delay 192 ms
+KeyDown 68 1
+Delay 300 ms
+KeyUp 225 1
+Delay 1709 ms
+LeftDown 1
+Delay 3154 ms
+LeftUp 1
+Delay 2737 ms
+MoveTo 683 383
+Delay 3 ms
+LeftDown 1
+Delay 76 ms
+MoveTo 683 384
+Delay 248 ms
+MoveTo 682 383
+Delay 30414 ms
+RightDown 1
+Delay 11953 ms
+RightUp 1
+Delay 171 ms
+LeftUp 1
+Delay 51 ms
+MoveTo 683 384
+Delay 2 ms
+MoveTo 682 383
+Delay 2 ms
+MoveTo 683 384
+Delay 15 ms
+MoveTo 683 383
+Delay 8 ms
+MoveTo 683 384
+Delay 11 ms
+MoveTo 682 383
+Delay 11 ms
+MoveTo 683 384
+Delay 180 ms
+MoveTo 682 384
+Delay 16 ms
+MoveTo 683 383
+Delay 1313 ms
+KeyDown 44 1
+Delay 104 ms
+KeyUp 44 1
+Delay 3545 ms
+KeyDown 225 1
+Delay 192 ms
+KeyDown 68 1
+Delay 300 ms
+KeyUp 225 1
+Delay 1709 ms
+LeftDown 1
+Delay 3154 ms
+LeftUp 1
+Delay 2737 ms
+MoveTo 683 383
+Delay 3 ms
+LeftDown 1
+Delay 76 ms
+MoveTo 683 384
+Delay 248 ms
+MoveTo 682 383
+Delay 30414 ms
+RightDown 1
+Delay 11953 ms
+RightUp 1
+Delay 171 ms
+LeftUp 1
+Delay 51 ms
+MoveTo 683 384
+Delay 2 ms
+MoveTo 682 383
+Delay 2 ms
+MoveTo 683 384
+Delay 15 ms
+MoveTo 683 383
+Delay 8 ms
+MoveTo 683 384
+Delay 11 ms
+MoveTo 682 383
+Delay 11 ms
+MoveTo 683 384
+Delay 180 ms
+MoveTo 682 384
+Delay 16 ms
+MoveTo 683 383
+Delay 1313 ms
+KeyDown 44 1
+Delay 104 ms
+KeyUp 44 1
+Delay 3545 ms
+KeyDown 225 1
+Delay 192 ms
+KeyDown 68 1
+Delay 300 ms
+KeyUp 225 1
+Delay 1709 ms
+LeftDown 1
+Delay 3154 ms
+LeftUp 1
+Delay 2737 ms
+MoveTo 683 383
+Delay 3 ms
+LeftDown 1
+Delay 76 ms
+MoveTo 683 384
+Delay 248 ms
+MoveTo 682 383
+Delay 30414 ms
+RightDown 1
+Delay 11953 ms
+RightUp 1
+Delay 171 ms
+LeftUp 1
+Delay 51 ms
+MoveTo 683 384
+Delay 2 ms
+MoveTo 682 383
+Delay 2 ms
+MoveTo 683 384
+Delay 15 ms
+MoveTo 683 383
+Delay 8 ms
+MoveTo 683 384
+Delay 11 ms
+MoveTo 682 383
+Delay 11 ms
+MoveTo 683 384
+Delay 180 ms
+MoveTo 682 384
+Delay 16 ms
+MoveTo 683 383
+Delay 1313 ms
+KeyDown 44 1
+Delay 104 ms
+KeyUp 44 1
+Delay 3545 ms
+KeyDown 225 1
+Delay 192 ms
+KeyDown 68 1
+Delay 300 ms
+KeyUp 225 1
+Delay 1709 ms
+LeftDown 1
+Delay 3154 ms
+LeftUp 1
+Delay 2737 ms
+MoveTo 683 383
+Delay 3 ms
+LeftDown 1
+Delay 76 ms
+MoveTo 683 384
+Delay 248 ms
+MoveTo 682 383
+Delay 30414 ms
+RightDown 1
+Delay 11953 ms
+RightUp 1
+Delay 171 ms
+LeftUp 1
+Delay 51 ms
+MoveTo 683 384
+Delay 2 ms
+MoveTo 682 383
+Delay 2 ms
+MoveTo 683 384
+Delay 15 ms
+MoveTo 683 383
+Delay 8 ms
+MoveTo 683 384
+Delay 11 ms
+MoveTo 682 383
+Delay 11 ms
+MoveTo 683 384
+Delay 180 ms
+MoveTo 682 384
+Delay 16 ms
+MoveTo 683 383
+Delay 1313 ms
+KeyDown 44 1
+Delay 104 ms
+KeyUp 44 1
+Delay 3545 ms
+KeyDown 225 1
+Delay 192 ms
+KeyDown 68 1
+Delay 300 ms
+KeyUp 225 1
+Delay 1709 ms
+LeftDown 1
+Delay 3154 ms
+LeftUp 1
+Delay 2737 ms
+MoveTo 683 383
+Delay 3 ms
+LeftDown 1
+Delay 76 ms
+MoveTo 683 384
+Delay 248 ms
+MoveTo 682 383
+Delay 30414 ms
+RightDown 1
+Delay 11953 ms
+RightUp 1
+Delay 171 ms
+LeftUp 1
+Delay 51 ms
+MoveTo 683 384
+Delay 2 ms
+MoveTo 682 383
+Delay 2 ms
+MoveTo 683 384
+Delay 15 ms
+MoveTo 683 383
+Delay 8 ms
+MoveTo 683 384
+Delay 11 ms
+MoveTo 682 383
+Delay 11 ms
+MoveTo 683 384
+Delay 180 ms
+MoveTo 682 384
+Delay 16 ms
+MoveTo 683 383
+Delay 1313 ms
+KeyDown 44 1
+Delay 104 ms
+KeyUp 44 1
+Delay 3545 ms
+KeyDown 225 1
+Delay 192 ms
+KeyDown 68 1
+Delay 300 ms
+KeyUp 225 1
+Delay 1709 ms
+LeftDown 1
+Delay 3154 ms
+LeftUp 1
+Delay 2737 ms
+MoveTo 683 383
+Delay 3 ms
+LeftDown 1
+Delay 76 ms
+MoveTo 683 384
+Delay 248 ms
+MoveTo 682 383
+Delay 30414 ms
+RightDown 1
+Delay 11953 ms
+RightUp 1
+Delay 171 ms
+LeftUp 1
+Delay 51 ms
+MoveTo 683 384
+Delay 2 ms
+MoveTo 682 383
+Delay 2 ms
+MoveTo 683 384
+Delay 15 ms
+MoveTo 683 383
+Delay 8 ms
+MoveTo 683 384
+Delay 11 ms
+MoveTo 682 383
+Delay 11 ms
+MoveTo 683 384
+Delay 180 ms
+MoveTo 682 384
+Delay 16 ms
+MoveTo 683 383
+Delay 1313 ms
+KeyDown 44 1
+Delay 104 ms
+KeyUp 44 1
+Delay 3545 ms
+KeyDown 225 1
+Delay 192 ms
+KeyDown 68 1
+Delay 300 ms
+KeyUp 225 1
+Delay 1709 ms
+LeftDown 1
+Delay 3154 ms
+LeftUp 1
+Delay 2737 ms
+MoveTo 683 383
+Delay 3 ms
+LeftDown 1
+Delay 76 ms
+MoveTo 683 384
+Delay 248 ms
+MoveTo 682 383
+Delay 30414 ms
+RightDown 1
+Delay 11953 ms
+RightUp 1
+Delay 171 ms
+LeftUp 1
+Delay 51 ms
+MoveTo 683 384
+Delay 2 ms
+MoveTo 682 383
+Delay 2 ms
+MoveTo 683 384
+Delay 15 ms
+MoveTo 683 383
+Delay 8 ms
+MoveTo 683 384
+Delay 11 ms
+MoveTo 682 383
+Delay 11 ms
+MoveTo 683 384
+Delay 180 ms
+MoveTo 682 384
+Delay 16 ms
+MoveTo 683 383
+Delay 1313 ms
+KeyDown 44 1
+Delay 104 ms
+KeyUp 44 1
+Delay 3545 ms
+KeyDown 225 1
+Delay 192 ms</Syntax>
+    </KeyDown>
+    <Software>Русская Рыбалка 4</Software>
+  </DefaultMacro>
+</Root>

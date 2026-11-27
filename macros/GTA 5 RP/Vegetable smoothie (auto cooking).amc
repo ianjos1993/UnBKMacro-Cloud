@@ -1,0 +1,118 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос нужен для авто приготовления овощного смузи.
+Для того чтобы скрипт работал нужно:
+1. У вас должны быть в инвентаре ингридиенты, такие как: овощи  и вода.
+2. Для правильной работы скрипта вам нужно, чтобы вода стояла  в 1 слоте,  овощи стояли во 2 слоте во время готовки.
+3. Если у вас возникли проблемы с расположением ингридиентов, вам нужно просто выложить не нужные блюда или же ингридиенты.
+
+Удачной игры)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 540 ms
+MoveTo 469 645
+Delay 8 ms
+MoveTo 835 256
+MoveTo 837 252
+Delay 48 ms
+RightDown 1
+Delay 7 ms
+MoveTo 836 252
+Delay 56 ms
+RightUp 1
+MoveTo 836 252
+Delay 8 ms
+MoveTo 769 265
+Delay 104 ms
+RightDown 1
+Delay 40 ms
+RightUp 1
+Delay 87 ms
+MoveTo 769 268
+Delay 7 ms
+MoveTo 485 520
+Delay 7 ms
+MoveTo 483 523
+RightDown 1
+Delay 16 ms
+MoveTo 481 523
+Delay 47 ms
+RightUp 1
+Delay 10 ms
+MoveTo 481 519
+Delay 85 ms
+MoveTo 481 519
+Delay 8 ms
+MoveTo 481 522
+Delay 7 ms
+MoveTo 482 525
+Delay 8 ms
+MoveTo 482 528
+Delay 8 ms
+MoveTo 482 532
+Delay 7 ms
+MoveTo 482 537
+Delay 7 ms
+MoveTo 482 537
+Delay 8 ms
+MoveTo 482 545
+Delay 7 ms
+MoveTo 482 550
+Delay 8 ms
+MoveTo 481 557
+Delay 8 ms
+MoveTo 481 562
+Delay 7 ms
+MoveTo 480 567
+Delay 7 ms
+MoveTo 478 574
+Delay 8 ms
+MoveTo 478 580
+Delay 8 ms
+MoveTo 478 580
+Delay 7 ms
+MoveTo 475 597
+Delay 7 ms
+MoveTo 474 605
+Delay 8 ms
+MoveTo 473 613
+Delay 8 ms
+MoveTo 469 622
+Delay 7 ms
+MoveTo 468 629
+Delay 7 ms
+MoveTo 467 636
+Delay 8 ms
+MoveTo 467 642
+Delay 7 ms
+MoveTo 466 646
+Delay 7 ms
+MoveTo 466 648
+Delay 8 ms
+MoveTo 466 652
+Delay 7 ms
+MoveTo 466 653
+Delay 8 ms
+MoveTo 466 653
+Delay 32 ms
+MoveTo 466 656
+Delay 175 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+MoveTo 466 656
+MoveTo 458 655
+Delay 16 ms
+MoveTo 457 655
+Delay 4500 ms</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

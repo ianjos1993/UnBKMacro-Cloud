@@ -1,0 +1,63 @@
+<Root>
+  <DefaultMacro>
+    <Major>iV3Xz</Major>
+    <Description>Hello, botters! This time around, I bring you a bot for MASSIVE MC farming. I recommend using MC6, 7 or HMC 1 and 2.
+
+In order for this bot to be great, here are a few things you will need:
+
+1) Go to the top right corner of the MC hunting grounds
+2) Have a strong digi with a strong area attack. Good examples would be KaiserGreymon, Susanoomon, or Apocalymon (psychic). You should also be lvl 100-110 and have either good Block or Avoid (or both).
+3) Have a Magnetic ID to collect everything without moving.
+
+So, you have to put the MC in F4 and the area attack in F3. Also, put some DS discs on F6 so you don't end up with no DS and you can't kill the digis.
+
+Once you have killed every digi, return to the top right corner to repeat the process. The bot has a 10 second delay before it resets, so you don't have to stop it and start it again.
+
+Good luck with the drops!
+</Description>
+    <Comment>https://botmek.com - Free macros download</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 61 1
+Delay 3 s
+KeyUp 61 1
+Delay 64
+GoWhile 5 100
+MoveTo 648 486
+Delay 500 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 290 304
+Delay 500 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 778 200
+Delay 500 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 60 1
+Delay 64
+KeyUp 60 1
+Delay 64
+KeyDown 63 1
+Delay 64
+KeyUp 63 1
+Delay 64
+GoWhile 24 50
+Delay 10 s
+GoWhile 1 100</Syntax>
+    </KeyDown>
+    <Software>Digimon Masters Online</Software>
+  </DefaultMacro>
+</Root>

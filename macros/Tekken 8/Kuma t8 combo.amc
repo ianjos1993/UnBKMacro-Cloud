@@ -1,0 +1,131 @@
+<Root>
+  <DefaultMacro>
+    <Major>Kuma Combo 1</Major>
+    <Description>Макрос позволяет выполнять комбо за Kuma комбинацию возле стены с heat системой.
+Видео демонстрации работы макроса: https://youtu.be/YJLJ8_kgBj4
+
+Хищник, воспитанный воинами. Кума прошёл путь от дикого медведя до обученного бойца под началом Хэйхачи. Его стиль хаотичен и тяжел, но за звериной яростью скрывается точность и опыт, приобретённые в боях против лучших бойцов мира. Он не подчиняется инстинктам. Он использует их, превращая каждое движение в смертоносный удар. Кума сражается не только когтями, но и волей. Волей доказать, что зверь может быть равным человеку на поле боя.
+
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 28.06.2025
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ.
+
+#kumatekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 6 ms
+KeyDown 7 1
+Delay 46 ms
+KeyDown 77 1
+Delay 334 ms
+KeyUp 26 1
+Delay 24 ms
+KeyUp 7 1
+Delay 52 ms
+KeyUp 77 1
+Delay 1992 ms
+KeyDown 4 1
+Delay 62 ms
+KeyUp 4 1
+Delay 64 ms
+KeyDown 4 1
+Delay 59 ms
+KeyDown 73 1
+Delay 22 ms
+KeyUp 4 1
+Delay 46 ms
+KeyUp 73 1
+Delay 232 ms
+KeyDown 4 1
+Delay 69 ms
+KeyUp 4 1
+Delay 63 ms
+KeyDown 4 1
+Delay 81 ms
+KeyUp 4 1
+Delay 29 ms
+KeyDown 73 1
+Delay 68 ms
+KeyUp 73 1
+Delay 215 ms
+KeyDown 4 1
+Delay 69 ms
+KeyUp 4 1
+Delay 74 ms
+KeyDown 4 1
+Delay 122 ms
+KeyUp 4 1
+Delay 23 ms
+KeyDown 73 1
+Delay 63 ms
+KeyUp 73 1
+Delay 249 ms
+KeyDown 4 1
+Delay 81 ms
+KeyUp 4 1
+Delay 57 ms
+KeyDown 4 1
+Delay 99 ms
+KeyUp 4 1
+Delay 17 ms
+KeyDown 73 1
+Delay 52 ms
+KeyUp 73 1
+Delay 244 ms
+KeyDown 4 1
+Delay 115 ms
+KeyUp 4 1
+Delay 88 ms
+KeyDown 76 1
+Delay 4 ms
+KeyDown 74 1
+Delay 87 ms
+KeyUp 74 1
+Delay 0 ms
+KeyUp 76 1
+Delay 1249 ms
+KeyDown 4 1
+Delay 86 ms
+KeyUp 4 1
+Delay 87 ms
+KeyDown 4 1
+Delay 156 ms
+KeyUp 4 1
+Delay 34 ms
+KeyDown 74 1
+Delay 7 ms
+KeyDown 76 1
+Delay 62 ms
+KeyUp 74 1
+Delay 0 ms
+KeyUp 76 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

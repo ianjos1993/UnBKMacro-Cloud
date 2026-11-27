@@ -1,0 +1,64 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макросе представлен авто АФК фермы на разных серверах в маинкрафте. (Funtime, spookytime, spacetime, skytime) в макросе представлена 303 анархия, но вы всегда сможете изменить ее на любую другую анархию</Description>
+    <Comment>Макрос предназначен для АФК фермы на сервере маинкрафт. Игрок быстро прописывает /hub, а потом быстро прописывает определенную анархию. Быстро, что бы мобы/предметы не исчезли. Самый новый, небагающийся скрипт</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 64
+KeyUp 56 1
+Delay 64
+KeyDown 11 1
+Delay 64
+KeyUp 11 1
+Delay 64
+KeyDown 24 1
+Delay 64
+KeyUp 24 1
+Delay 64
+KeyDown 5 1
+Delay 64
+KeyUp 5 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 5 s
+KeyDown 56 1
+Delay 64
+KeyUp 56 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 17 1
+Delay 64
+KeyUp 17 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 39 1
+Delay 64
+KeyUp 39 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 10 min</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

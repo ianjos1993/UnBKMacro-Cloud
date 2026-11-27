@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>?</Major>
+    <Description>Фаерболлы ставьте на 2, а грозоввые молнии нужно на колёсико мыши(нажим) Так же вы всегда можете настроить под себя:)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 10
+KeyUp 31 1
+Delay 10
+MiddleDown 1
+Delay 10
+MiddleUp 1
+Delay 10</Syntax>
+    </KeyDown>
+    <Software>Archeage</Software>
+  </DefaultMacro>
+</Root>

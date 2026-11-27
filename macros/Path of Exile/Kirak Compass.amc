@@ -1,0 +1,100 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для покупки "Компас топографа" в количестве 100шт. Обязательно наличие свободного места в инвенторе в последних 2-х столбцах. Назначте кнопку и запускайте. После использования переносите компасы в хранилище и повторяете. Если используете макросы из Awakened PoE Trade, лучше выключать на время использования APT. Проверено на экране 1920*1080 . Режим окна: Windowed Fullscreen/В окне без рамок. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 64
+MoveTo 271 272
+Delay 64
+LeftDown 1
+Delay 64
+MoveTo 1502 492
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 271 272
+Delay 64
+LeftDown 1
+Delay 64
+MoveTo 1502 534
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 271 272
+Delay 64
+LeftDown 1
+Delay 64
+MoveTo 1502 576
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 271 272
+Delay 64
+LeftDown 1
+Delay 64
+MoveTo 1502 619
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 271 272
+Delay 64
+LeftDown 1
+Delay 64
+MoveTo 1503 659
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 271 272
+Delay 64
+LeftDown 1
+Delay 64
+MoveTo 1462 491
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 271 272
+Delay 64
+LeftDown 1
+Delay 64
+MoveTo 1459 534
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 271 272
+Delay 64
+LeftDown 1
+Delay 64
+MoveTo 1458 574
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 271 272
+Delay 64
+LeftDown 1
+Delay 64
+MoveTo 1459 617
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 271 272
+Delay 64
+LeftDown 1
+Delay 64
+MoveTo 1460 659
+Delay 64
+LeftUp 1
+Delay 64
+KeyUp 225 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Path of Exile</Software>
+  </DefaultMacro>
+</Root>

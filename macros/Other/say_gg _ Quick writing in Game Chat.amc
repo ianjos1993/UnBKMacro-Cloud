@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Особо много объяснений для данного макроса думаю не требуется, используется в любой игре, перед активацией макроса следует для начала запустить чат, а уже потом использовать ( т.к. в играх на чат разные бинды клавиш) Используется для всех игр</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 8 ms
+KeyDown 10 1
+Delay 8 ms
+KeyUp 10 1
+Delay 8 ms
+KeyDown 10 1
+Delay 8 ms
+KeyUp 10 1
+Delay 8 ms
+KeyDown 52 1
+Delay 8 ms
+KeyUp 52 1
+Delay 8 ms
+KeyDown 22 1
+Delay 8 ms
+KeyUp 22 1
+Delay 8 ms
+KeyDown 40 1
+Delay 8 ms
+KeyUp 40 1
+Delay 8 ms</Syntax>
+    </KeyDown>
+    <Software>Быстрое написание в Игровой чат</Software>
+  </DefaultMacro>
+</Root>

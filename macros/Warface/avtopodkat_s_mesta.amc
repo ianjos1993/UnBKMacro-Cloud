@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на Варфейс для автоподката с места. Сливаю вам, бесплтано. Всем удачи. Сенсу ставить на 25!! В винде сенса на 6(стандарт).</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 265 1
+KeyDown 26 1
+KeyDown 9 1
+Delay 100 ms
+KeyUp 26 1
+KeyUp 265 1
+KeyUp 9 1</Syntax>
+    </KeyDown>
+    <Software>Warface</Software>
+  </DefaultMacro>
+</Root>

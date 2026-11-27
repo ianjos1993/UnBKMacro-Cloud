@@ -1,0 +1,19 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Используется для настройки карбюратора сатсумы на 22 скрола вниз, перед ним необходимо использовать другой макрос на 44 скролла вверх</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>WheelDown 1
+Delay 500 ms
+GoWhile 1 22</Syntax>
+    </KeyDown>
+    <Software>My summer cra</Software>
+  </DefaultMacro>
+</Root>

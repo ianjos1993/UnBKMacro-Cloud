@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major>Faker</Major>
+    <Description>Макрос для того чтоб отойти сварить чаёк пока убиваешь босса на дистанции.Макрос использует дальнии способности на q и на e.Я сам его использую чтобы выбить канистру</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+KeyUp 20 1
+Delay 10 ms
+KeyDown 8 1
+KeyUp 8 1
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

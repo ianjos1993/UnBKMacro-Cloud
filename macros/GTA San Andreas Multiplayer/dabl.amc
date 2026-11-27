@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>Дабл хит</Major>
+    <Description>Ставим на колесико мыши макрос,заходим в самп берем дигл и в движении нажимаем на колесико,макрос делает 2 выстрела и затем сам уходит обратно в слайд</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+Лучшие макросы только здесь!</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 150 ms
+LeftUp 1
+Delay 75 ms
+RightDown 1
+Delay 37 ms
+KeyDown 6 1
+Delay 26 ms
+LeftDown 1
+Delay 180 ms
+KeyUp 6 1
+Delay 49 ms
+LeftUp 1
+Delay 39 ms
+RightUp 1
+KeyDown 6 1
+Delay 35 ms
+KeyUp 6 1
+Delay 35 ms</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

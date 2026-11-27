@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>Point Blank - Shotgun Macro</Major>
+    <Description>This macro is for you to use on your snipers. You no longer have to aim, shoot, switch to a knife and then back to the sniper in order to shoot again. Now you can simply press the mouse trigger and the macro will open the sights for you, shoot, change weapons and go back to sniper, then you can click again to shoot and repeat the process. Configure on the mouse trigger button. </Description>
+    <Comment>If necessary, you can change the keys or the timing of the weapon change if you're having trouble shooting. Peace.</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 40 ms
+RightUp 1
+Delay 7 ms
+LeftDown 1
+Delay 7 ms
+LeftUp 1
+Delay 7 ms
+KeyDown 32 1
+Delay 7 ms
+KeyUp 32 1
+KeyDown 20 1
+Delay 7 ms
+KeyUp 20 1
+Delay 380 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот скрип позволяет ловить красители на 2 задании на Аризоне от пасхального обновления
+В котором вам понадобится ловить красители на ферме
+Он кликает на ALT после этого 2 раза на ENTER 
+Из иза этого ловить красители можно очень легко
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 226 1
+Delay 1 ms
+KeyUp 226 1
+Delay 1 ms
+KeyDown 88 1
+Delay 1 ms
+KeyUp 88 1
+Delay 1 ms
+KeyDown 88 1
+Delay 1 ms
+KeyUp 88 1
+Delay 1 ms
+GoWhile 1 200000</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

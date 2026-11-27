@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major>А-545 -отдача леопольд</Major>
+    <Description>Данный макрос хорошо подходит для игры с А-545, который практически уберает вертикальную отдачу. 
+Подходит толька для прицела "Leopold". (После 50-го патрона наченает уже подбрасывать немного выше центра)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 0 5
+Delay 16 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

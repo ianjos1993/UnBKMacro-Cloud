@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Зажимной макрос на дробь в pointblanke
+ставите на ЛКМ и идете тушить
+Так же советую ставить перк на увеличение дальности урона
+by uniOn scripts
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 17 ms
+LeftUp 1
+Delay 17 ms
+KeyDown 32 1
+Delay 17 ms
+KeyUp 32 1
+Delay 17 ms
+KeyDown 30 1
+Delay 17 ms
+KeyUp 30 1
+Delay 17 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

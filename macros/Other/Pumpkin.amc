@@ -1,0 +1,204 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос автоматически собирает тыковки на сайте Keyran.
+
+Назначте макрос на любую удобную вам кнопку.
+Откройте свой браузер и разверните на полный экран.
+Перейдите на сайт Keyran и откройте форум.
+Используйте макрос каждые 5 минут ( 5 раз в день)
+Макрос работает только во время ивента "Хэллоуин".
+Лично я использую макрос с разрешением экрана 1920x1080. Но и с другим разрешением экрана макрос вроде исполняет свои функции.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 1 1 254,214,34 255,255,255 2 335 284 75 74 1 0
+MoveTo 369 318
+LeftDown 1
+LeftUp 1
+Delay 1 ms
+GoColor 6 1 254,214,34 255,255,255 2 413 285 77 73 1 0
+MoveTo 450 329
+LeftDown 1
+LeftUp 1
+Delay 1 ms
+GoColor 11 1 254,214,34 255,255,255 2 495 284 64 74 1 0
+MoveTo 524 321
+LeftDown 1
+LeftUp 1
+Delay 1 ms
+GoColor 16 1 254,214,34 255,255,255 2 562 284 80 73 1 0
+MoveTo 600 327
+LeftDown 1
+LeftUp 1
+Delay 1 ms
+GoColor 21 1 254,214,34 255,255,255 2 647 285 72 71 1 0
+MoveTo 679 322
+LeftDown 1
+LeftUp 1
+Delay 1 ms
+GoColor 26 1 254,214,34 255,255,255 2 724 284 72 72 1 0
+MoveTo 753 321
+LeftDown 1
+LeftUp 1
+Delay 1 ms
+GoColor 31 1 254,214,34 255,255,255 2 800 284 88 71 1 0
+MoveTo 839 320
+LeftDown 1
+LeftUp 1
+Delay 1 ms
+GoColor 36 1 254,214,34 255,255,255 2 891 284 74 72 1 0
+MoveTo 927 326
+LeftDown 1
+LeftUp 1
+Delay 1 ms
+GoColor 41 1 254,214,34 255,255,255 2 968 284 78 72 1 0
+MoveTo 1006 318
+LeftDown 1
+LeftUp 1
+Delay 1 ms
+GoColor 46 1 254,214,34 255,255,255 2 1048 284 78 71 1 0
+MoveTo 1082 316
+LeftDown 1
+LeftUp 1
+Delay 1 ms
+GoColor 51 1 254,215,34 255,255,255 2 1129 284 73 71 1 0
+MoveTo 1156 318
+LeftDown 1
+LeftUp 1
+Delay 1 ms
+GoColor 56 1 254,214,34 255,255,255 2 1204 285 83 72 1 0
+MoveTo 1243 315
+LeftDown 1
+LeftUp 1
+Delay 1 ms
+GoColor 61 1 254,214,34 255,255,255 2 335 361 73 79 1 0
+MoveTo 367 402
+LeftDown 1
+LeftUp 1
+Delay 1 ms
+GoColor 66 1 254,214,34 255,255,255 2 412 360 78 81 1 0
+MoveTo 449 401
+LeftDown 1
+LeftUp 1
+Delay 1 ms
+GoColor 71 1 254,214,34 255,255,255 2 493 360 67 81 1 0
+MoveTo 525 399
+LeftDown 1
+LeftUp 1
+Delay 1 ms
+GoColor 76 1 254,214,34 255,255,255 2 562 360 78 76 1 0
+MoveTo 600 406
+LeftDown 1
+LeftUp 1
+Delay 1 ms
+GoColor 81 1 254,214,34 255,255,255 2 645 359 73 80 1 0
+MoveTo 687 406
+LeftDown 1
+LeftUp 1
+Delay 1 ms
+GoColor 86 1 254,214,34 255,255,255 2 724 361 71 75 1 0
+MoveTo 758 404
+LeftDown 1
+LeftUp 1
+Delay 1 ms
+GoColor 91 1 254,214,34 255,255,255 2 801 361 82 74 1 0
+MoveTo 840 403
+LeftDown 1
+LeftUp 1
+Delay 1 ms
+GoColor 96 1 254,214,34 255,255,255 2 889 361 76 73 1 0
+MoveTo 922 399
+LeftDown 1
+LeftUp 1
+Delay 1 ms
+GoColor 101 1 254,214,34 255,255,255 2 968 359 79 75 1 0
+MoveTo 1004 402
+LeftDown 1
+LeftUp 1
+Delay 1 ms
+GoColor 106 1 254,214,34 255,255,255 2 1049 359 79 74 1 0
+MoveTo 1089 398
+LeftDown 1
+LeftUp 1
+Delay 1 ms
+GoColor 111 1 254,214,34 255,255,255 2 1129 358 75 73 1 0
+MoveTo 1167 395
+LeftDown 1
+LeftUp 1
+Delay 1 ms
+GoColor 116 1 254,214,34 255,255,255 2 1206 358 76 73 1 0
+MoveTo 1246 399
+LeftDown 1
+LeftUp 1
+Delay 1 ms
+GoColor 121 1 254,214,34 255,255,255 2 335 445 70 74 1 0
+MoveTo 367 481
+LeftDown 1
+LeftUp 1
+Delay 1 ms
+GoColor 126 1 254,214,34 255,255,255 2 411 444 74 73 1 0
+MoveTo 457 489
+LeftDown 1
+LeftUp 1
+Delay 1 ms
+GoColor 131 1 254,214,34 255,255,255 2 492 442 65 76 1 0
+MoveTo 521 482
+LeftDown 1
+LeftUp 1
+Delay 1 ms
+GoColor 136 1 254,214,34 255,255,255 2 561 443 80 77 1 0
+MoveTo 606 483
+LeftDown 1
+LeftUp 1
+Delay 1 ms
+GoColor 141 1 254,214,34 255,255,255 2 643 441 76 78 1 0
+MoveTo 682 476
+LeftDown 1
+LeftUp 1
+Delay 1 ms
+GoColor 146 1 254,214,34 255,255,255 2 722 441 72 77 1 0
+MoveTo 757 480
+LeftDown 1
+LeftUp 1
+Delay 1 ms
+GoColor 151 1 254,214,34 255,255,255 2 799 441 83 76 1 0
+MoveTo 837 474
+LeftDown 1
+LeftUp 1
+Delay 1 ms
+GoColor 156 1 254,214,34 255,255,255 2 886 440 81 77 1 0
+MoveTo 925 474
+LeftDown 1
+LeftUp 1
+Delay 1 ms
+GoColor 161 1 254,214,34 255,255,255 2 970 438 77 79 1 0
+MoveTo 1007 475
+LeftDown 1
+LeftUp 1
+Delay 1 ms
+GoColor 166 1 254,214,34 255,255,255 2 1050 438 78 78 1 0
+MoveTo 1091 471
+LeftDown 1
+LeftUp 1
+Delay 1 ms
+GoColor 171 1 254,214,34 255,255,255 2 1132 437 72 79 1 0
+MoveTo 1163 473
+LeftDown 1
+LeftUp 1
+Delay 1 ms
+GoColor 176 1 254,214,34 255,255,255 2 1209 436 73 82 1 0
+MoveTo 1246 473
+LeftDown 1
+LeftUp 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Сайт Keyran</Software>
+  </DefaultMacro>
+</Root>

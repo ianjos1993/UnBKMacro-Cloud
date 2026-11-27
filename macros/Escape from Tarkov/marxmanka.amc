@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Доработанный режим автоматической стрельбы. Без залипаний. М1А-700-750 выстрелов ср25/свд-500 выстрелов в минуту</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Escape From Tarkov</Software>
+  </DefaultMacro>
+</Root>

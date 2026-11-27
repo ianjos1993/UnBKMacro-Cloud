@@ -1,0 +1,127 @@
+<Root>
+  <DefaultMacro>
+    <Major>Hwoarang df2 combo</Major>
+    <Description>Макрос позволяет выполнять df2 combo за Hwoarang.
+Видео демонстрации работы макроса: https://youtu.be/e3gPElX6u5Y
+
+Хвоаранг — персонаж серии Tekken, который был впервые представлен в Tekken 3 и появлявшийся во всех последующих играх. Он ученик тхэквондо Пэк Ду Сана и соперник Джина Казамы. Хвоаранг вспыльчив, высокомерен и импульсивен. Он ценит свое боевое мастерство и любит хвастаться тем, как легко он может победить своих противников. Он бунтарь и не любит подчиняться приказам авторитетных лиц; однако он уважает своего мастера Пэк Ду Сана. Несмотря на яркий и ловкий набор движений, скорость Хвоаранга довольно средняя. Он компенсирует это мощным арсеналом ударов ногами, и с точки зрения урона и дальности его соперника может соперничать только Бэк. Его удары ногами также относительно безопасны для наказания, их единственным серьезным недостатком является их уязвимость к контратакам.
+
+Тестирование макроса проводились на последнем патче игры на 01.07.2023 (5.01 патч)
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#hwoarangtekken7 #tekken7 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 7 ms
+KeyDown 22 1
+Delay 72 ms
+KeyDown 74 1
+Delay 263 ms
+KeyUp 74 1
+Delay 7 ms
+KeyUp 22 1
+Delay 17 ms
+KeyUp 7 1
+Delay 302 ms
+KeyDown 7 1
+Delay 56 ms
+KeyUp 7 1
+Delay 47 ms
+KeyDown 7 1
+Delay 64 ms
+KeyDown 77 1
+Delay 560 ms
+KeyUp 77 1
+Delay 7 ms
+KeyUp 7 1
+Delay 448 ms
+KeyDown 76 1
+Delay 160 ms
+KeyDown 77 1
+Delay 79 ms
+KeyUp 76 1
+Delay 456 ms
+KeyUp 77 1
+Delay 79 ms
+KeyDown 4 1
+Delay 95 ms
+KeyDown 77 1
+Delay 96 ms
+KeyUp 77 1
+Delay 79 ms
+KeyDown 77 1
+Delay 56 ms
+KeyUp 77 1
+Delay 79 ms
+KeyUp 4 1
+Delay 120 ms
+KeyDown 7 1
+Delay 63 ms
+KeyUp 7 1
+Delay 112 ms
+KeyDown 7 1
+Delay 64 ms
+KeyUp 7 1
+Delay 95 ms
+KeyDown 7 1
+Delay 56 ms
+KeyUp 7 1
+Delay 79 ms
+KeyDown 7 1
+Delay 71 ms
+KeyDown 26 1
+Delay 24 ms
+KeyDown 76 1
+Delay 72 ms
+KeyDown 77 1
+Delay 95 ms
+KeyUp 76 1
+Delay 31 ms
+KeyUp 77 1
+Delay 64 ms
+KeyDown 77 1
+Delay 47 ms
+KeyDown 76 1
+Delay 23 ms
+KeyUp 26 1
+Delay 24 ms
+KeyUp 77 1
+Delay 7 ms
+KeyUp 7 1
+Delay 40 ms
+KeyUp 76 1
+Delay 39 ms
+KeyDown 77 1
+Delay 56 ms
+KeyDown 76 1
+Delay 55 ms
+KeyUp 77 1
+Delay 64 ms
+KeyUp 76 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 7</Software>
+  </DefaultMacro>
+</Root>

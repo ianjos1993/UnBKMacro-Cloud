@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major>Movement Optimization</Major>
+    <Description>Movement Slide - Beta is a customizable movement macro designed for Blood Strike players looking to improve consistency during slide-based movement techniques.
+
+Features:
+• Adjustable slide timing
+• Lightweight and responsive
+• Easy to customize
+• Compatible with most mice and keyboards
+• Designed for smooth movement execution
+
+Version: Beta v1.0
+
+Note: Test and adjust settings based on your personal sensitivity, hardware, and gameplay preferences.</Description>
+    <Comment>Created by [SnowX420]
+
+Movement Slide - Beta v1.0
+Optimized for smooth and consistent movement execution.
+
+Feedback and suggestions are welcome.
+Please report any bugs or compatibility issues.
+
+Version: Beta Release</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+Delay 85 ms
+KeyUp 6 1
+Delay 85 ms
+KeyDown 225 1
+Delay 50 ms
+KeyUp 225 1
+Delay 50 ms
+KeyDown 6 1
+Delay 85 ms
+KeyUp 6 1
+Delay 85 ms</Syntax>
+    </KeyDown>
+    <Software>Blood Strike</Software>
+  </DefaultMacro>
+</Root>

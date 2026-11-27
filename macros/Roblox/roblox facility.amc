@@ -1,0 +1,59 @@
+<Root>
+  <DefaultMacro>
+    <Major>Roblox FAcility RP xp glitch macro</Major>
+    <Description>Подойдите в спорт зале к любому тренажеру кроме штанги и включите макрос. Всем приятного пользования, если хотите что бы я его доработал - пишите.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1 ms
+GoWhile 1 27
+KeyDown 8 1
+Delay 2 ms
+KeyDown 20 1
+Delay 2 ms
+KeyUp 20 1
+Delay 2 ms
+KeyUp 8 1
+Delay 2 ms
+KeyDown 20 1
+Delay 2 ms
+KeyDown 8 1
+Delay 2 ms
+KeyUp 20 1
+Delay 2 ms
+KeyUp 8 1
+Delay 2 ms
+KeyDown 20 1
+Delay 2 ms
+KeyDown 8 1
+Delay 2 ms
+KeyUp 20 1
+Delay 2 ms
+KeyUp 8 1
+Delay 2 ms
+KeyDown 20 1
+Delay 2 ms
+KeyDown 8 1
+Delay 2 ms
+KeyUp 20 1
+Delay 2 ms
+KeyUp 8 1
+Delay 2 ms
+KeyDown 20 1
+Delay 2 ms
+KeyUp 20 1
+Delay 2 ms
+KeyDown 8 1
+Delay 2 ms
+KeyDown 20 1
+Delay 2 ms
+KeyUp 8 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

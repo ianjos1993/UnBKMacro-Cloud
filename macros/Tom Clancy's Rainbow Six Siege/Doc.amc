@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major>Gets rid of recoil for Doc MP5</Major>
+    <Description>Bind to left mouse button (shoot button)
+1920x1080
+800 dpi on mouse 
+20-24 horizontal
+20-24 verticle
+65 ads 
+16:10 i dont think it matters tho
+
+Works best with the Doc but also does work with lower recoil guns like ace and ying
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 15 ms
+MoveR -1 12
+Delay 15 ms
+MoveR 0 11
+Delay 15 ms
+MoveR 0 11
+Delay 15 ms
+MoveR 0 11
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,84 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Исходное разрешение 1280 х 1024
+Макрос самостоятельно вводит значения для создания пачки кубов 5-15
+Задержка ожидания минимальна, на 100к стали уйдет пару минут
+Для правильной работы:
+-  нажимаем галочку комибирование пробелом
+-  размешаем в инвентаре слева части кубов карбункла защиты, справа сталь, в одной горизонтали 
+-  наводим мышку на части кубов
+-  запускаем макрос</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 64 ms
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 64 ms
+KeyDown 36 1
+Delay 64
+KeyUp 36 1
+Delay 64
+KeyDown 39 1
+Delay 64
+KeyUp 39 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+MoveR 22 0
+Delay 64
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 30 ms
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 30 ms
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 37 1
+Delay 64
+KeyUp 37 1
+Delay 64
+KeyDown 39 1
+Delay 64
+KeyUp 39 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 150 ms
+MoveR 0 22
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 1 s
+MoveR 0 -22
+Delay 64
+MoveR -22 0
+Delay 64
+GoWhile 1 5000</Syntax>
+    </KeyDown>
+    <Software>Rappelz</Software>
+  </DefaultMacro>
+</Root>

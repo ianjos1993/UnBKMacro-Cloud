@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>macro revolver</Major>
+    <Description>this macro is for revolver and work with 0.3 sens
+1920 x 1080
+fov 90
+sens 0.3
+dpi 1400
+support me and enjoy the macro</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 50 ms
+MoveR 0 -5
+Delay 50 ms
+MoveR 0 -5
+Delay 50 ms
+MoveR 0 -5
+Delay 50 ms
+MoveR 0 -5
+Delay 50 ms
+LeftUp 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>rust</Software>
+  </DefaultMacro>
+</Root>

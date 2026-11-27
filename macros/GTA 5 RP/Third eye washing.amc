@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>This is for washing stone [Third eye)</Major>
+    <Description>Stand near the water and point to the water so that the script can activate thirdeye and start washing. After the washing it it will then rince and repeat until you click the toggle button to stop it.
+
+Very simple Macro, but it works.
+
+Might need to have Driver enabled otherwise it might not be able to hold ALT.
+
+So basicly the scripts holds alt, right clicks then moves mouse to the right and then left click to initiate the washing. Then it waits, and then start over after a set amount of time (which can be changed dependant on how long the washing takes.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 226 1
+Delay 1 ms
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveR 45 -1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyUp 226 1
+Delay 16000 ms</Syntax>
+    </KeyDown>
+    <Software>Fivem</Software>
+  </DefaultMacro>
+</Root>

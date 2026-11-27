@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Скачиваешь,заходишь в KeyRan ставишь на боковую кнопки(или на правую) режим работы выполнять пока нажаша клавиша</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 51 ms
+RightDown 1
+Delay 51 ms
+RightDown 1
+Delay 51 ms
+RightDown 1
+Delay 51 ms
+RightDown 1
+Delay 51 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,174 @@
+<Root>
+  <DefaultMacro>
+    <Major>Law df2 combo</Major>
+    <Description>Макрос позволяет выполнять комбо за Law с лаунчера df2.
+Видео демонстрации работы макроса: https://youtu.be/RTAGsaI9nUM
+
+Маршалл Лоу — талантливый мастер боевых искусств, давний друг и спарринг-партнер Пола Феникса. . До первого турнира «Король Железного Кулака» Ло работал в ресторане китайского квартала в Сан-Франциско, чтобы прокормить себя и свою семью. Он мечтал открыть собственное додзё и принял участие в турнире с целью выиграть призовые деньги и осуществить свою мечту. Хотя Маршалл не выиграл турнир, в какой-то момент в последующие два года он смог открыть собственное додзё. К сожалению, когда Маршалла однажды не было дома, Пэк Ду Сан напал на его додзё, разрушив его и ранив своих учеников. Маршалл узнал, что виноват в этом Пэк, и принял участие во втором турнире Короля Железного Кулака, чтобы отомстить за своих учеников.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+
+Тестирование макроса проводились на последнем патче игры на 05.02.2024
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#lawtekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 9 ms
+KeyDown 7 1
+Delay 59 ms
+KeyDown 74 1
+Delay 99 ms
+KeyUp 74 1
+Delay 60 ms
+KeyDown 74 1
+Delay 80 ms
+KeyUp 22 1
+Delay 10 ms
+KeyUp 74 1
+Delay 179 ms
+KeyDown 26 1
+Delay 19 ms
+KeyDown 77 1
+Delay 70 ms
+KeyUp 77 1
+Delay 89 ms
+KeyDown 77 1
+Delay 70 ms
+KeyUp 77 1
+Delay 90 ms
+KeyDown 77 1
+Delay 70 ms
+KeyDown 76 1
+Delay 50 ms
+KeyUp 77 1
+Delay 19 ms
+KeyUp 76 1
+Delay 60 ms
+KeyDown 77 1
+Delay 29 ms
+KeyDown 76 1
+Delay 69 ms
+KeyUp 77 1
+Delay 10 ms
+KeyUp 76 1
+Delay 60 ms
+KeyDown 77 1
+Delay 20 ms
+KeyDown 76 1
+Delay 70 ms
+KeyUp 76 1
+Delay 9 ms
+KeyUp 77 1
+Delay 70 ms
+KeyDown 77 1
+Delay 10 ms
+KeyDown 76 1
+Delay 69 ms
+KeyUp 77 1
+Delay 10 ms
+KeyUp 76 1
+Delay 60 ms
+KeyDown 77 1
+Delay 19 ms
+KeyDown 76 1
+Delay 79 ms
+KeyUp 76 1
+Delay 11 ms
+KeyUp 77 1
+Delay 39 ms
+KeyDown 77 1
+Delay 10 ms
+KeyDown 76 1
+Delay 50 ms
+KeyUp 77 1
+Delay 9 ms
+KeyUp 26 1
+Delay 10 ms
+KeyUp 76 1
+Delay 50 ms
+KeyUp 7 1
+Delay 349 ms
+KeyDown 7 1
+Delay 70 ms
+KeyUp 7 1
+Delay 69 ms
+KeyDown 7 1
+Delay 70 ms
+KeyUp 7 1
+Delay 49 ms
+KeyDown 74 1
+KeyDown 76 1
+Delay 100 ms
+KeyUp 74 1
+KeyUp 76 1
+Delay 979 ms
+KeyDown 7 1
+Delay 19 ms
+KeyDown 26 1
+Delay 50 ms
+KeyDown 76 1
+Delay 89 ms
+KeyUp 76 1
+Delay 80 ms
+KeyDown 76 1
+Delay 79 ms
+KeyUp 76 1
+Delay 80 ms
+KeyDown 76 1
+Delay 59 ms
+KeyUp 76 1
+Delay 60 ms
+KeyDown 76 1
+Delay 70 ms
+KeyUp 76 1
+Delay 9 ms
+KeyUp 26 1
+Delay 900 ms
+KeyUp 7 1
+Delay 89 ms
+KeyDown 7 1
+Delay 80 ms
+KeyUp 7 1
+Delay 79 ms
+KeyDown 7 1
+Delay 50 ms
+KeyUp 7 1
+Delay 80 ms
+KeyDown 7 1
+Delay 80 ms
+KeyDown 26 1
+Delay 19 ms
+KeyDown 77 1
+Delay 79 ms
+KeyUp 77 1
+Delay 49 ms
+KeyUp 7 1
+Delay 10 ms
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

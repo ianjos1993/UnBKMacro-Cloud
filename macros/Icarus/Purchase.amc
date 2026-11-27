@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Покупка покупка ресов, наживок. зелок, иных предметов. Когда вам надо тех же наживок за пару тысяч. Подвел курсор мышки нажал кнопку - покупаешь. 
+Покупаешь сразу по 2.500. Правда вручную можно остановить. 
+Я поставил на одинарное нажатие чтобы покупать 2500 и не переживать что купит больше</Description>
+    <Comment>Изменил на большее число покупок, увеличив до среднего 2500
+Не слишком много не слишком мало </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+GoWhile 1 2500
+Delay 5 s</Syntax>
+    </KeyDown>
+    <Software>Icarus</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>0 recoil for most weapons
+settings used : Fov= 90
+                        x= 9
+                       y= 9 
+                       res = 5:4</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 7 ms
+MoveR 2 11
+Delay 7 ms
+MoveR -2 10
+Delay 7 ms
+MoveR 2 11
+Delay 7 ms
+MoveR -2 10
+Delay 7 ms
+MoveR 2 11
+Delay 7 ms
+MoveR -2 10
+Delay 4 ms
+MoveR -3 10
+Delay 7 ms
+MoveR 2 10
+Delay 4 ms
+MoveR 3 11
+Delay 7 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

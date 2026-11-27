@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на дриблинг, чтобы было удобно его использовать советую ставить на на Y или на R. Если использовать этот прием в хорошей ситуации к  примеру с 2 очковой линии или когда ты уже близко к 3 очковой линии, он очень сложно защищается поэтому будет очень легко забивать (0ОВР)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 127 ms
+KeyUp 26 1
+KeyDown 27 1
+Delay 64
+KeyDown 29 1
+Delay 64
+KeyDown 27 1
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+KeyDown 8 1
+Delay 344 ms
+KeyUp 43 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

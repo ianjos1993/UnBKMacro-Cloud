@@ -1,0 +1,70 @@
+<Root>
+  <DefaultMacro>
+    <Major>Hypixel Skyblock</Major>
+    <Description>Макрос для автономной добычи всех выше перечисленных ресурсов,Для полной работы макроса нужно становить персонажа под углом 3.0/90.00(180), а также скорость 93% и написать /sethome в нужном положении. (Ферма как у /visit MelonKingDe)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 7 1
+Delay 120 s
+KeyUp 7 1
+Delay 1 s
+KeyDown 4 1
+Delay 120 s
+KeyUp 4 1
+Delay 1 s
+KeyDown 7 1
+Delay 120 s
+KeyUp 7 1
+Delay 1 s
+KeyDown 4 1
+Delay 120 s
+KeyUp 4 1
+Delay 1 ms
+KeyDown 7 1
+Delay 120 s
+KeyUp 7 1
+Delay 1 s
+KeyDown 56 1
+Delay 64
+KeyUp 56 1
+Delay 64
+KeyDown 10 1
+Delay 64
+KeyUp 10 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 17 1
+Delay 64
+KeyUp 17 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+GoWhile 1 10</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

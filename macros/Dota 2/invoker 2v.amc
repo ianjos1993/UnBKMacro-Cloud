@@ -1,0 +1,169 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос 2 версии на инвокера 
+скилы которые используются-
+1. qqq - «Cold Snap». Это умение заставляет противника медленно двигаться, нанося ему урон за некоторое время.
+2. Scythe of Vyse (ставим на кнопку B) - это предмет, который превращает противника в свинку на несколько секунд, лишая его возможности использовать умения.
+3. eeq - «Chaos meteor» это умение вызывает метеор (при прокачке 3), который наносит огромный урон, особенно эффективен, когда противник упал и не может уклониться от него.
+4.wwq - «Tornado». Это умение вызывает сильный вихрь, подбрасывающий противников в воздух и наносящий им урон.
+5. «Sunstrike». Это умение вызывает луч солнца, который наносит урон всем противникам на заданной области.
+6. Refresher Orb (ставим на кнопку N) - это предмет, позволяющий перезарядить все умения и предметы.
+7. eee - «Sunstrike». Повторяющийся луч для дополнительного урона.
+8. Scythe of Vyse (ставим на кнопку B) - повторное использование для того что бы противник не убежал
+9. qqq - «Cold Snap». повторное использование что бы не убежал
+10. eew - «Chaos Meteor». повторное использование для нанесения урона
+111 qwe - «Deafening blast». Юльта инвокера для добивания противника либо же накладывание на него бессилие что бы его кто то добил
+видео с использованием и обьясннием - https://youtu.be/BmmYEzx7tno</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 400 ms
+KeyDown 5 1
+Delay 64
+KeyUp 5 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 1000 ms
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 1000 ms
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 1000 ms
+KeyDown 17 1
+Delay 64
+KeyUp 17 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 200 ms
+KeyDown 5 1
+Delay 64
+KeyUp 5 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 1000 ms
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 1000 ms
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 1000 ms</Syntax>
+    </KeyDown>
+    <Software>dota 2</Software>
+  </DefaultMacro>
+</Root>

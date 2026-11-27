@@ -1,0 +1,53 @@
+<Root>
+  <DefaultMacro>
+    <Major>Macro for farming parts with a Plane on the Kunia Fields Escape</Major>
+    <Description>It takes only approx. 13 seconds for one iteration. Almost 10k EXP a minute. Just spawn the plane in front of the start of the escape and let it run</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 303 ms
+KeyDown 225 1
+Delay 2954 ms
+KeyUp 225 1
+Delay 2 ms
+KeyDown 229 1
+Delay 450 ms
+KeyUp 229 1
+Delay 419 ms
+KeyUp 229 1
+Delay 1259 ms
+KeyDown 225 1
+Delay 2300 ms
+KeyDown 228 1
+Delay 150 ms
+KeyUp 228 1
+Delay 1020 ms
+KeyUp 225 1
+Delay 590 ms
+KeyDown 21 1
+Delay 28 ms
+KeyUp 26 1
+Delay 2325 ms
+KeyUp 21 1
+Delay 1 ms
+KeyDown 17 1
+Delay 88 ms
+KeyUp 17 1
+KeyDown 17 1
+Delay 88 ms
+KeyUp 17 1
+KeyDown 17 1
+Delay 88 ms
+KeyUp 17 1
+Delay 500 ms
+GoWhile 1 10000</Syntax>
+    </KeyDown>
+    <Software>The Crew Motorfest</Software>
+  </DefaultMacro>
+</Root>

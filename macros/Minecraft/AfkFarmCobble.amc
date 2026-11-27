@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>АФК ферма для добычи ресурсов в шахте
+Есть возможность установить время Афк фермы
+вам нужно лишь изменить строку между "нажать левуюю кнопку мыши"
+и "отпустить левую кнопку мыши"</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 718 ms
+LeftDown 1
+Delay 1080000 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

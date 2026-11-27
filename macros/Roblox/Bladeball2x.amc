@@ -1,0 +1,54 @@
+<Root>
+  <DefaultMacro>
+    <Major>Roblox Bladeball afk with 2 accounts (Ability and block)</Major>
+    <Description>For this to work properly you'd want a 1920x1080 resolution, snap the 2 accounts on your screen with then split in the middle.
+If you've done those steps correctly and start the macro by pressing F8, you should now automatically start blocking and using your abilities on both accounts at once, leave it running for however long wou want and press F8 to stop it again.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 226 775
+Delay 80 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 80 ms
+MoveTo 526 880
+Delay 80 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 80 ms
+MoveTo 810 727
+Delay 80 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 80 ms
+MoveTo 1200 775
+Delay 80 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 80 ms
+MoveTo 1492 883
+Delay 80 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 80 ms
+MoveTo 1706 723
+Delay 80 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 80 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

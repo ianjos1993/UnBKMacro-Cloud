@@ -1,0 +1,94 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос ROK для разведки тумана. Используется в разрешении игры 1366x768. Выставляйте лагерь развидчиков строго по координатам! Смещайте окно игры примерно по центру вашего экрана</Description>
+    <Comment>Бесплатный макрос для разведки тумана ROK</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 0 ms
+MoveTo 630 530
+MoveTo 1078 640
+Delay 61 ms
+LeftDown 1
+Delay 89 ms
+LeftUp 1
+Delay 2000 3000 ms
+MoveTo 1078 642
+MoveTo 1154 733
+Delay 187 ms
+LeftDown 1
+Delay 89 ms
+LeftUp 1
+Delay 2000 3000 ms
+MoveTo 1156 733
+MoveTo 1226 594
+Delay 616 ms
+LeftDown 1
+Delay 77 ms
+LeftUp 1
+Delay 2000 3000 ms
+MoveTo 1226 594
+MoveTo 1146 672
+Delay 214 ms
+LeftDown 1
+Delay 98 ms
+LeftUp 1
+Delay 2000 3000 ms
+MoveTo 1146 672
+MoveTo 1446 456
+Delay 569 ms
+LeftDown 1
+Delay 115 ms
+LeftUp 1
+Delay 2000 3000 ms
+KeyDown 44 1
+Delay 72 ms
+KeyUp 44 1
+Delay 1064 ms
+MoveTo 1078 640
+LeftDown 1
+Delay 97 ms
+LeftUp 1
+Delay 2000 3000 ms
+MoveTo 1062 631
+MoveTo 1193 744
+Delay 192 ms
+LeftDown 1
+Delay 119 ms
+LeftUp 1
+Delay 2000 3000 ms
+MoveTo 1193 743
+MoveTo 1221 685
+Delay 59 ms
+LeftDown 1
+Delay 106 ms
+LeftUp 1
+Delay 2000 3000 ms
+MoveTo 1221 685
+MoveTo 1115 676
+Delay 143 ms
+LeftDown 1
+Delay 122 ms
+LeftUp 1
+Delay 2000 3000 ms
+MoveTo 1115 676
+MoveTo 1453 558
+Delay 309 ms
+LeftDown 1
+Delay 99 ms
+LeftUp 1
+Delay 2000 3000 ms
+KeyDown 44 1
+Delay 88 ms
+KeyUp 44 1
+Delay 2 4 min
+GoWhile 1 999</Syntax>
+    </KeyDown>
+    <Software>Rise of Kingdoms</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Ночью под пиво было созданно сие творенье ада. будьте аккуратны во избежания бана за такие вещи. 
+Используйте макрос только в оконном режиме игры. Пример:1280 x1024.
+Макрос автоматически стреляет во врага при его появлении в зоне прицела.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 6 2 170,0,1 247,0,0 2 957 404 5 127 5 635
+GoColor 6 2 251,0,16 148,6,2 2 960 401 2 118 5 236
+GoColor 6 2 190,23,5 150,12,0 2 958 395 5 130 5 650
+GoColor 6 2 188,0,6 90,0,0 2 960 362 6 168 5 1000
+Goto 1
+LeftDown 1
+Delay 12 23 ms
+LeftUp 1
+Delay 11 24 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

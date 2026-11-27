@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major>макрос</Major>
+    <Description>Очень удобный макрос на лук в игре Takemine.io авто стрельба на лук за 1к золота, если вам лень стрелять и нажимать клавиши, вы можете скачать этот макрос и забиндтить на любую клавишу и стрелять без проблем с очень большой скоростью.</Description>
+    <Comment>Очень удобное приложение. Спасибо что его создали.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 33 1
+KeyUp 33 1
+KeyDown 44 1
+Delay 15 ms
+KeyUp 44 1
+KeyDown 20 1
+KeyUp 20 1</Syntax>
+    </KeyDown>
+    <Software>Takemine.io</Software>
+  </DefaultMacro>
+</Root>

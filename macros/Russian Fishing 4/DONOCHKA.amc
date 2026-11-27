@@ -1,0 +1,144 @@
+<Root>
+  <DefaultMacro>
+    <Major>spinogrizstar</Major>
+    <Description>Скрипт на 3 рядомстоящих донки. Сам закидывает, сам вытаскивает. Клипса как удобно, закидка стоит на 50% мощности. Использовал на карпов (причал с лодеой на комарином) 40-50 серебра в час с прикормкой на карася и плотву. Фрикцион 25-27, подмотка на 49. Вытащил троф карася без помощи. Время от времени можно закидывать прикорм. Время между поодсеканием оптимальное. Можно изменять скрипт под ваши нужды.
+Просто закиньте рядом три донки, бот продолжит за вас. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 50 ms
+KeyUp 30 1
+Delay 50 ms
+RightDown 1
+Delay 21 ms
+LeftDown 1
+Delay 10 s
+Delay 10 s
+RightDown 1
+Delay 4 s
+LeftUp 1
+Delay 13 ms
+RightUp 1
+Delay 50 ms
+KeyDown 44 1
+Delay 50 ms
+KeyUp 44 1
+Delay 50 ms
+KeyDown 44 1
+Delay 50 ms
+KeyUp 44 1
+Delay 50 ms
+KeyDown 44 1
+Delay 50 ms
+KeyUp 44 1
+Delay 50 ms
+KeyDown 44 1
+Delay 50 ms
+KeyUp 44 1
+Delay 50 ms
+LeftDown 1
+Delay 900 ms
+LeftUp 1
+Delay 2000 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 50 ms
+KeyDown 39 1
+Delay 103 ms
+KeyUp 39 1
+Delay 3 s
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+RightDown 1
+Delay 21 ms
+LeftDown 1
+Delay 20 s
+RightDown 1
+Delay 4 s
+LeftUp 1
+Delay 13 ms
+RightUp 1
+Delay 50 ms
+KeyDown 44 1
+Delay 50 ms
+KeyUp 44 1
+Delay 50 ms
+KeyDown 44 1
+Delay 50 ms
+KeyUp 44 1
+Delay 50 ms
+KeyDown 44 1
+Delay 50 ms
+KeyUp 44 1
+Delay 50 ms
+KeyDown 44 1
+Delay 50 ms
+KeyUp 44 1
+Delay 50 ms
+LeftDown 1
+Delay 900 ms
+LeftUp 1
+Delay 2000 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 50 ms
+KeyDown 39 1
+Delay 103 ms
+KeyUp 39 1
+Delay 3 s
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+RightDown 1
+Delay 21 ms
+LeftDown 1
+Delay 20 s
+RightDown 1
+Delay 4 s
+LeftUp 1
+Delay 13 ms
+RightUp 1
+Delay 50 ms
+KeyDown 44 1
+Delay 50 ms
+KeyUp 44 1
+Delay 50 ms
+KeyDown 44 1
+Delay 50 ms
+KeyUp 44 1
+Delay 50 ms
+KeyDown 44 1
+Delay 50 ms
+KeyUp 44 1
+Delay 50 ms
+KeyDown 44 1
+Delay 50 ms
+KeyUp 44 1
+Delay 50 ms
+LeftDown 1
+Delay 900 ms
+LeftUp 1
+Delay 2000 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 50 ms
+KeyDown 39 1
+Delay 103 ms
+KeyUp 39 1
+Delay 3 s</Syntax>
+    </KeyDown>
+    <Software>Russian Fishing 4</Software>
+  </DefaultMacro>
+</Root>

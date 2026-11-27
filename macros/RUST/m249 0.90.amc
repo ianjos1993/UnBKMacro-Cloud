@@ -1,0 +1,70 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос  на оружие M249 в положении стоя.
+Макрос будет работать точно если его хорошо настроить.
+И следовать инструкции.
+
+Настройки в игре:
+  - FOV 90 - Чувствительность 0.90
+DPI 800
+Разрешение 1920 x 1080
+
+Макрос тестировался на:
+  - Игровая мышка  Logitech G305</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 11 ms
+MoveR 1 2
+Delay 11 ms
+MoveR 0 2
+Delay 11 ms
+MoveR 0 2
+Delay 11 ms
+MoveR 0 2
+Delay 11 ms
+MoveR 0 3
+Delay 11 ms
+MoveR 0 2
+Delay 11 ms
+MoveR 1 2
+Delay 11 ms
+MoveR 1 2
+Delay 11 ms
+MoveR 0 3
+Delay 9 ms
+MoveR 1 2
+LeftUp 1
+LeftDown 1
+Delay 11 ms
+MoveR 1 2
+Delay 11 ms
+MoveR 0 2
+Delay 11 ms
+MoveR 0 2
+Delay 11 ms
+MoveR 0 2
+Delay 11 ms
+MoveR 0 3
+Delay 11 ms
+MoveR 0 2
+Delay 11 ms
+MoveR 1 2
+Delay 11 ms
+MoveR 1 2
+Delay 11 ms
+MoveR 0 3
+Delay 9 ms
+MoveR 1 2
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

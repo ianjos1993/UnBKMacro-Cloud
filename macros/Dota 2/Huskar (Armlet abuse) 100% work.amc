@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>Huskar (Armlet abuse) 100% work</Major>
+    <Description>Абуз армлета для всех персонажей на кототорых собирается армлет 
+Основная кнопка настроенная в макросе под цифрой 2 </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

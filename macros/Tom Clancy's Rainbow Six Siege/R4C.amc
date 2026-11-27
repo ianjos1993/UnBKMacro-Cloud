@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major>Realistic High level Recoil for R4C</Major>
+    <Description>R4C recoil consistent with Pro level control. Partially randomized for realistic looking spread, but very little variance in left/right
+
+Loadout: Acog, Vert, Compensator
+
+Res: 16:10, 1920 x1080
+
+Sensitivity 6,6
+
+800 Dpi</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 0 7 1 9
+Delay 10 ms
+MoveR 0 35
+Delay 10 ms
+MoveR 1 25
+Delay 10 ms
+MoveR -5 20
+Delay 10 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

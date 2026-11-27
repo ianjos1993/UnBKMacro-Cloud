@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Coloque na tecla ou qualquer botão do mouse, onde estiver acostumado, Ao clicar ela coloca Barricada rápido e aplica a cura e volta na arma primaria em seguida</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 33 1
+Delay 30 ms
+KeyUp 33 1
+Delay 30 ms
+KeyDown 33 1
+Delay 30 ms
+KeyUp 33 1
+Delay 30 ms
+KeyDown 33 1
+Delay 30 ms
+KeyUp 33 1
+Delay 110 ms
+KeyDown 32 1
+Delay 30 ms
+KeyUp 32 1
+Delay 212 ms
+KeyDown 32 1
+Delay 30 ms
+KeyUp 32 1
+KeyDown 30 1
+Delay 30 ms
+KeyUp 30 1</Syntax>
+    </KeyDown>
+    <Software>Infestation: The New Z</Software>
+  </DefaultMacro>
+</Root>

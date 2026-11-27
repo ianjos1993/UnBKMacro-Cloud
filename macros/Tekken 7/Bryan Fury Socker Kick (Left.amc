@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Bryan Fury Socker Kick (Left Side) QCB+3
+
+This macro is designed to perform combos in a game called Tekken 7 and Tekken 8 with a single button.
+
+To do this technique, you need to be to the left.
+
+Movements are W,A ,S ,D
+Key mapping;  1=J  2=I 3=K  4=L
+
+The macro has been tested in numerous online battles. Problems can only be due to your unstable Internet connection with the enemy, as well as this macro works only at a stable frame rate of 59-60 fps.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 15 ms
+KeyDown 4 1
+Delay 15 ms
+KeyUp 22 1
+Delay 15 ms
+KeyUp 4 1
+KeyDown 14 1
+Delay 15 ms
+KeyUp 14 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 7</Software>
+  </DefaultMacro>
+</Root>

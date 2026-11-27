@@ -1,0 +1,49 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Выполняет функцию *реверса* необходимого для гонок, чтобы быстро набирать скорость. Работает на всех машинах. Нажатием одной кнопки выполняет все за считанные секунды а именно большую прибавку к скорости. Обязательно нужно полностью прокаченный автомобиль для более эффектного использования.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 17 1
+Delay 0 ms
+KeyUp 17 1
+Delay 0 ms
+KeyDown 21 1
+Delay 5 ms
+KeyUp 21 1
+Delay 5 ms
+GoWhile 5 13
+KeyDown 9 1
+Delay 5 ms
+KeyUp 9 1
+Delay 5 ms
+GoWhile 10 13
+KeyDown 229 1
+Delay 5 ms
+KeyDown 44 1
+Delay 5 ms
+KeyDown 21 1
+Delay 5 ms
+KeyUp 21 1
+Delay 5 ms
+GoWhile 19 13
+Delay 6 s
+KeyUp 44 1
+Delay 0 ms
+KeyUp 229 1
+Delay 0 ms
+KeyDown 17 1
+Delay 0 ms
+KeyUp 17 1
+Delay 0 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

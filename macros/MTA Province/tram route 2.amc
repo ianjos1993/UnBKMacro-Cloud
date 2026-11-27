@@ -1,0 +1,105 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Бот трамвая дефолтная версия, после начала работы на втором маршруте  трамвая в Приволжске сделайте один круг(доедьте до красной метки), а затем активируйте бота. Удачного фарма!)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 10 ms
+KeyUp 68 1
+Delay 230 ms
+KeyUp 225 1
+Delay 1120 ms
+LeftDown 1
+Delay 191 ms
+LeftUp 1
+Delay 680 ms
+KeyDown 26 1
+Delay 39943 ms
+KeyDown 22 1
+Delay 8455 ms
+KeyDown 31 1
+Delay 168 ms
+KeyUp 31 1
+Delay 3399 ms
+KeyDown 31 1
+Delay 88 ms
+KeyUp 31 1
+Delay 2256 ms
+KeyUp 22 1
+Delay 29255 ms
+KeyDown 22 1
+Delay 8559 ms
+KeyDown 31 1
+Delay 160 ms
+KeyUp 31 1
+Delay 2903 ms
+KeyDown 31 1
+Delay 191 ms
+KeyUp 31 1
+Delay 2552 ms
+KeyUp 22 1
+Delay 38671 ms
+KeyDown 22 1
+Delay 7967 ms
+KeyDown 31 1
+Delay 176 ms
+KeyUp 31 1
+Delay 2463 ms
+KeyDown 31 1
+Delay 215 ms
+KeyUp 31 1
+Delay 2880 ms
+KeyUp 22 1
+Delay 29223 ms
+KeyDown 22 1
+Delay 7735 ms
+KeyDown 31 1
+Delay 120 ms
+KeyUp 31 1
+Delay 3391 ms
+KeyDown 31 1
+Delay 160 ms
+KeyUp 31 1
+Delay 3168 ms
+KeyUp 22 1
+Delay 31823 ms
+KeyDown 22 1
+Delay 55 ms
+KeyUp 22 1
+Delay 567 ms
+KeyDown 22 1
+Delay 7959 ms
+KeyDown 31 1
+Delay 176 ms
+KeyUp 31 1
+Delay 3063 ms
+KeyDown 31 1
+Delay 168 ms
+KeyUp 31 1
+Delay 2671 ms
+KeyUp 22 1
+Delay 2648 ms
+KeyUp 26 1
+Delay 415 ms
+KeyDown 26 1
+Delay 704 ms
+KeyUp 26 1
+Delay 1288 ms
+KeyDown 22 1
+Delay 184 ms
+KeyUp 22 1
+Delay 5559 ms
+KeyDown 225 1
+Delay 375 ms
+KeyDown 68 1
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

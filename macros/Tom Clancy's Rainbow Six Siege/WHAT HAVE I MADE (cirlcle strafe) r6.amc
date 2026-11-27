@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>(cirlcle strafe) r6 </Major>
+    <Description>hold down your choice of button and it will in fact work, no modifactions needed, this will make you wildly hard to hit for r6 and this is as far as you can get to movment imo, this macro will make you strafe in a circle starting you left then down then right then up then left again so on so fourth and it looks insane to play against, use this on ash or smg12 and you will be havin a good time, id recomend having recoil macros and aimbot to make this as insane as you can but it works fine without either of them. try this out and just watch what your character does from anther persons perspective, this took a long time to make work good so i felt like i should share it with you all! 
+</Description>
+    <Comment>Good luck operator!</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 55 ms
+KeyUp 8 1
+Delay 55 ms
+KeyDown 224 1
+Delay 145 ms
+KeyUp 224 1
+Delay 111 ms
+KeyDown 20 1
+Delay 111 ms
+KeyUp 20 1
+Delay 111 ms
+KeyDown 224 1
+Delay 145 ms
+KeyUp 224 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

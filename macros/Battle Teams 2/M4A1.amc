@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Setting ingame
+special ammunition  lv3 - special gun barrel lv3 - Red Dot lv1 - laser raid lv2 - light handle lv2 - assault rifle butt lv2
+DPI : 800
+Overall Sensitivity : 1.0
+Total aiming : 1.33
+Collimator : 1.0
+FOV : 120
+1920x1080</Description>
+    <Comment>The macro was tested on logitech G102
+Windows 10</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 5 ms
+MoveR 0 1
+Delay 5 ms
+MoveR 0 1
+Delay 5 ms
+MoveR 0 1
+Delay 5 ms
+MoveR -1 1
+Delay 5 ms
+MoveR -1 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Battle Teams 2</Software>
+  </DefaultMacro>
+</Root>

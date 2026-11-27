@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>macro auto sar 3.0</Major>
+    <Description>this macro work for sar with only high sens like 1.3 +
+dpi 1300/1500
+fov 90
+1920x1080
+sens 1.3 / 1.5
+
+enjoy and support</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 50 ms
+MoveR 0 23
+Delay 50 ms
+MoveR 0 23
+Delay 50 ms
+MoveR 0 23
+Delay 50 ms
+MoveR 0 23
+Delay 50 ms
+MoveR 0 23
+Delay 50 ms
+LeftUp 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

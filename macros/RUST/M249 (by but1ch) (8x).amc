@@ -1,0 +1,54 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос под отдачу в игре RUST на оружие M249 с 8x прицелом.
+
+Настройки в программе:
+Разрешение 1920х1080
+
+Сидя FOV 90 - Сенса - 0.79
+
+Стоя FOV 90 - Нет, невозможно
+
+Для корректной работы макроса в программе Keyran установите следующие параметры:
+1. Включите драйвер.
+2. Отключите минимальную задержку.
+ 
+#rust #раст #Macros</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+MoveR 0 7
+Delay 15 ms
+MoveR 0 7
+Delay 15 ms
+MoveR 0 7
+Delay 15 ms
+MoveR 0 7
+Delay 15 ms
+MoveR 0 6
+Delay 15 ms
+MoveR 0 6
+Delay 15 ms
+MoveR 0 6
+Delay 15 ms
+MoveR 0 6
+Delay 15 ms
+MoveR 0 6
+Delay 15 ms
+MoveR 0 6
+Delay 15 ms
+MoveR 0 6
+Delay 55 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

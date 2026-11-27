@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Fast revive для Evade в роблокс 
+Как работает;нужно подойти к человеку активировать макрос и после пары секунд нажать на Q.
+После этого нужно подойти еще раз нажать на E и убежать и человек поднимится.
+Если вы не смогли с первого то пробуйте еще раз и у вас получится. 
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 10 ms
+KeyUp 8 1
+Delay 10 ms
+KeyDown 20 1</Syntax>
+    </KeyDown>
+    <Software>Roblox </Software>
+  </DefaultMacro>
+</Root>

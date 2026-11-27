@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Нужен для того чтоб отлично выполнять лифт и даблшот, а также быстрые клики которые помогают быстро сделать повершот или фейк </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 11 1
+Delay 30 ms
+KeyUp 11 1
+Delay 30 ms</Syntax>
+    </KeyDown>
+    <Software>HaxBall</Software>
+  </DefaultMacro>
+</Root>

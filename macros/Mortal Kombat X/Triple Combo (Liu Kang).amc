@@ -1,0 +1,61 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Тройное комбо: Удар(враг в воздухе) Огненый кулак(Добивание врага в воздухе) Кулаки Инь 
+Комбо для стиля Дуэлист
+(Лучше изменить раскалдку для макроса) GL HF</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 20
+KeyUp 4 1
+Delay 20
+KeyDown 7 1
+Delay 20
+KeyUp 7 1
+Delay 20
+KeyDown 13 1
+Delay 20
+KeyUp 13 1
+Delay 20
+KeyDown 14 1
+Delay 20
+KeyUp 14 1
+Delay 20
+KeyDown 15 1
+Delay 20
+KeyUp 15 1
+Delay 120 ms
+KeyDown 7 1
+Delay 20
+KeyUp 7 1
+Delay 20
+KeyDown 4 1
+Delay 20
+KeyUp 4 1
+Delay 20
+KeyDown 24 1
+Delay 20
+KeyUp 24 1
+Delay 120 ms
+KeyDown 22 1
+Delay 20
+KeyUp 22 1
+Delay 20
+KeyDown 4 1
+Delay 20
+KeyUp 4 1
+Delay 20
+KeyDown 14 1
+Delay 20
+KeyUp 14 1</Syntax>
+    </KeyDown>
+    <Software>Mortal Kombat X</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>R</Major>
+    <Description>Bug for stacking buffs at 4.1 version
+
+1. hold alt and move your mouse to the icon of the char
+2. open chat on a hot key (~) and char profile
+3. move your mouse for a char preview and thats all</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 957 ms
+KeyDown 53 1
+Delay 10 ms
+LeftUp 1
+Delay 16 ms
+KeyUp 53 1
+Delay 1950 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

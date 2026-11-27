@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>Criminal_Man</Major>
+    <Description>Чувствительность мыши  0.4 (DPI 400) Поле зрения Fow 90 Разрешение экрана   1920 -1080  Приятного пользоввания )</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 10 ms
+MoveR -1 2
+Delay 10 ms
+MoveR -1 2
+Delay 10 ms
+MoveR -1 2
+Delay 10 ms
+MoveR -1 2
+Delay 10 ms
+MoveR -1 2
+Delay 10 ms
+LeftUp 1
+Delay 13 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

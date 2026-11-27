@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всем доброго вечера! После долгого отсутствия я рад вновь порадовать вас новым макросом. Сразу скажу, он в чём-то похож на мой “Auto Accept”. Ведь команда /accept позволяет быстро принять телепорт от другого игрока, что значительно упрощает перемещение по миру.
+
+Но команда /tpyes – это совсем другой уровень! С ней открываются новые возможности, а именно – принятие телепортов даже во время PVP. Представьте: на вас нападает целая толпа игроков, а вы в мгновение ока можете позвать на помощь сокланов, чтобы дать достойный отпор! Надеюсь, вам понравится это решение для молниеносной переброски подкреплений.
+
+Инструкция по настройке:
+
+Скачайте и установите файл макроса.
+Запустите панель управления Keyran.
+Выберите удобную клавишу на клавиатуре или кнопку на мыши.
+Назначьте на неё скачанный макрос.
+Сохраните настройки и наслаждайтесь! Теперь вы всегда сможете оперативно принять помощь в бою.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 32 ms
+KeyUp 56 1
+Delay 32 ms
+KeyDown 23 1
+Delay 32 ms
+KeyUp 23 1
+Delay 32 ms
+KeyDown 19 1
+Delay 32 ms
+KeyUp 19 1
+Delay 32 ms
+KeyDown 28 1
+Delay 32 ms
+KeyUp 28 1
+Delay 32 ms
+KeyDown 8 1
+Delay 32 ms
+KeyUp 8 1
+Delay 32 ms
+KeyDown 22 1
+Delay 32 ms
+KeyUp 22 1
+Delay 32 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

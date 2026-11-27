@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Быстрый редакт для Fortnite.
+
+Макрос ускоряет редактирование построек (стены, рампы, этажи).  
+Позволяет быстро редактировать и сразу строить.
+
+Как использовать:
+1. Запусти макрос перед игрой.
+2. Назначь нужную клавишу (по умолчанию — та, что стоит в настройках).
+3. В игре просто нажимай</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+KeyDown 10 1
+Delay 64
+KeyUp 10 1
+Delay 5 ms
+Delay 5 ms
+KeyUp 9 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

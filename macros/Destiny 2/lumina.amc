@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>При помощи этого макроса можно летать на люмине при помощи крюка
+Сенса в игре 6   0.8
+DPI мышки 800
+Разрешение 1920 1080
+для полёта необходимо посмотреть немного вверх (примерно градусов на 30) и взять люмину в руки</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 27 ms
+MoveTo 169 98
+Delay 35 ms
+MoveTo 169 95
+Delay 2 ms
+MoveTo 169 94
+Delay 2 ms
+MoveTo 169 93
+Delay 1 ms
+MoveTo 169 92
+Delay 2 ms
+MoveTo 169 90
+Delay 0 ms
+KeyDown 20 1</Syntax>
+    </KeyDown>
+    <Software>Destiny 2</Software>
+  </DefaultMacro>
+</Root>

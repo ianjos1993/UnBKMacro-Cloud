@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major>ATOMIC</Major>
+    <Description>This is a macro to obtain free coins on the mu online server.
+
+When you move from one map to another, 
+You earn totally free coins.
+
+Every 5 seconds
+Which is how long it takes, you earn coins Free.
+
+Time may vary depending on the server. 
+
+
+let them enjoy it</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 88 1
+Delay 200 ms
+KeyUp 88 1
+Delay 200 ms
+KeyDown 82 1
+Delay 200 ms
+KeyUp 82 1
+Delay 200 ms
+KeyDown 82 1
+Delay 200 ms
+KeyUp 82 1
+Delay 200 ms
+KeyDown 88 1
+Delay 200 ms
+KeyUp 88 1
+Delay 200 ms
+Delay 3 s</Syntax>
+    </KeyDown>
+    <Software>MU Online</Software>
+  </DefaultMacro>
+</Root>

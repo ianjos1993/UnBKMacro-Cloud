@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Скрипт  простой. Нужен для активации Phaze Run'a по нажатию на ртутную фласку. Удобно для фарма шахты </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 64 ms
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Path of Exile</Software>
+  </DefaultMacro>
+</Root>

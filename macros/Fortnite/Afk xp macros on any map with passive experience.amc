@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>Universal afk xp on any map with passive exp</Major>
+    <Description>This macro is universal, and fits almost any map where there is passive experience. Go to a map with passive experience and run the macro on repeat. The game will think that we are in the game, and will not send us to sleep mode, so we can go about our business and get experience. Or do a window capture, minimize the application and do things on the pc.
+Enjoy using it :)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 50 65 ms
+KeyUp 26 1
+Delay 37 65 ms
+KeyDown 7 1
+Delay 31 63 ms
+KeyUp 7 1
+Delay 20 65 ms
+KeyDown 22 1
+Delay 33 45 ms
+KeyUp 22 1
+Delay 44 65 ms
+KeyDown 4 1
+Delay 32 64 ms
+KeyUp 4 1
+Delay 33 50 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

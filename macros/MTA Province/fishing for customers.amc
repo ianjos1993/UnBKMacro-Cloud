@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>ловля клиентов на такси, использовать на скрипте 4tech крч старые скрипты нихрена не работают решил добавить свой, рабочий нормально. суть заключается в том что вы бы сначала прикрепили мой скрипт к кнопке посредством нажатия на клавиши-и на нужную кнопку, после назначить 4tech скрипт. после нажать запустить, зайти в игру и устроиться на работу таксиста, сесть в машину, нажать на клавишу "2" что бы открыть менюшку заказов и после когда появляется клиент нажать на кнопку к которой приклеплен скрипт, мышка автоматически нажмет на первого клиента в списке и примет его заказ, после закрывайте менюшку и спокойне едте. очень облегчает игру</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 514 255
+LeftDown 1
+Delay 70 ms
+LeftUp 1
+Delay 70 ms
+MoveTo 526 545
+Delay 10 ms
+LeftDown 1
+Delay 127 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

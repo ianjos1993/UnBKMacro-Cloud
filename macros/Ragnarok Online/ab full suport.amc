@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major>Para BRo</Major>
+    <Description>Macro para party autobuff com ab. Deve ser usado combo gelinho + capa mistica para autocast de Clementia. Use a seguinte ordem para melhor funcionamento:
+&gt;Lauda Ramus on 2
+&gt;Lauda Agnus on 3
+&gt;Praefation on 4
+&gt;Impositio Manus on 5
+&gt;Magnificat on 6
+&gt;Canto Candidus on 7</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 2 s
+KeyDown 35 1
+Delay 2 s
+KeyUp 35 1
+Delay 2 s
+KeyDown 36 1
+Delay 64
+KeyUp 36 1
+Delay 1 min</Syntax>
+    </KeyDown>
+    <Software>Ragnarok</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,92 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>бот на посадку криптомерий. Сажает 50 криптомерий в ряд, отходит вправо и сажает еще 50 и так до бесконечости</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 75 87 ms
+KeyDown 27 1
+Delay 87 120 ms
+KeyUp 27 1
+Delay 649 750 ms
+LeftDown 1
+Delay 87 120 ms
+LeftUp 1
+Delay 387 450 ms
+LeftDown 1
+Delay 83 140 ms
+LeftUp 1
+Delay 296 320 ms
+LeftDown 1
+Delay 96 150 ms
+LeftUp 1
+Delay 553 600 ms
+RightDown 1
+Delay 85 120 ms
+RightUp 1
+Delay 113 150 ms
+KeyDown 22 1
+Delay 899 950 ms
+KeyUp 22 1
+GoWhile 2 50
+KeyDown 8 1
+Delay 619 ms
+KeyUp 8 1
+KeyDown 27 1
+Delay 87 120 ms
+KeyUp 27 1
+Delay 649 750 ms
+LeftDown 1
+Delay 87 120 ms
+LeftUp 1
+Delay 387 450 ms
+LeftDown 1
+Delay 83 140 ms
+LeftUp 1
+Delay 296 320 ms
+LeftDown 1
+Delay 96 150 ms
+LeftUp 1
+Delay 553 600 ms
+RightDown 1
+Delay 85 120 ms
+RightUp 1
+Delay 113 150 ms
+KeyDown 26 1
+Delay 899 950 ms
+KeyUp 26 1
+Delay 255 270 ms
+KeyDown 27 1
+Delay 87 120 ms
+KeyUp 27 1
+Delay 649 750 ms
+LeftDown 1
+Delay 87 120 ms
+LeftUp 1
+Delay 387 450 ms
+LeftDown 1
+Delay 83 140 ms
+LeftUp 1
+Delay 296 320 ms
+LeftDown 1
+Delay 96 150 ms
+LeftUp 1
+Delay 553 600 ms
+RightDown 1
+Delay 85 120 ms
+RightUp 1
+Delay 113 150 ms
+KeyDown 26 1
+Delay 590 630 ms
+KeyUp 26 1
+GoWhile 29 50</Syntax>
+    </KeyDown>
+    <Software>Archeage</Software>
+  </DefaultMacro>
+</Root>

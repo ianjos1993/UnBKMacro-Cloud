@@ -1,0 +1,63 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Сам ищет сигналы и при их появлении нажимает на поиск сигнала, адаптирован под разрешение 1280 x 1024 (фулл экран).
+Инструкция:
+1) Встаёте на центр локации
+2) Нажимаете кнопку, за которую отвечает данный макрос
+3)Ждёте звука поиска сигнала
+4) После того, как макрос сработал нажимаете на клавишу на котором стоит макрос, дабы он вам не помешал.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//кнопка на саке (RIGHT ALT)
+KeyDown 230 1
+Delay 64
+KeyUp 230 1
+Delay 120 ms
+//курсор находится на кнопке средняя на самом саке
+MoveTo 762 782
+Delay 80 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//выставить цвет и координаты не мигающей зелёной лампочки!!!
+GoColor 17 0 42,65,38 30,150,38 1 371 371 208 253 1 0
+GoColor 38 1 42,65,38 38,60,33 1 371 371 334 423 1 0
+//курсор на ВКЛ сканирование
+MoveTo 1029 770
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+//подождать 11 сек и 2 миллисек
+Delay 11150 ms
+//курсор на в ВЫКЛ сканирование
+MoveTo 1029 770
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//курсор на кнопке поиск
+MoveTo 305 571
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 230 1
+Delay 64
+KeyUp 230 1
+Delay 64
+Goto 2</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

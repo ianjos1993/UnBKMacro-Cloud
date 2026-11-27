@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для упрощения 4-х кнопочного конбо
+Для удобности советую перед конбо сделать 4 клик ( или оно не будет работать) и проверить 
+Тайминги нажатий клавиш.
+P.S. надеюсь оно кому-то понадобится.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+KeyUp 31 1
+Delay 3 s
+Delay  25 ms
+KeyDown 30 1
+KeyUp 30 1
+Delay 3 s
+Delay  5 ms
+KeyDown 8 1
+KeyUp 8 1
+Delay 10 ms
+KeyDown 31 1
+KeyUp 31 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

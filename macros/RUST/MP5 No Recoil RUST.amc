@@ -1,0 +1,968 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Обычный макрос на девблоге 196-198 - ( с 203 начинается отдача , которая почти не подходит под сам макрос)
+
+Тестировал на model/модель SVEN RX-G750 sens 0.7 , в расте стоит ровно 1
+RUST - Девблоги
+Windows 11 20H2
+
+Тестить нужно на зажигах</Description>
+    <Comment>Класс?</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 32 ms
+LeftUp 1
+Delay 16 ms
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+Delay 16 ms
+LeftDown 1
+Delay 6 ms
+LeftUp 1
+Delay 16 ms
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+Delay 16 ms
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+Delay 64 ms
+LeftDown 1
+Delay 32 ms
+LeftUp 1
+Delay 32 ms
+LeftDown 1
+Delay 32 ms
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 32 ms
+LeftUp 1
+Delay 16 ms
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+Delay 16 ms
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+Delay 24 ms
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+Delay 6 ms
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+Delay 16 ms
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+Delay 32 ms
+Delay 2080 ms
+LeftDown 1
+Delay 71 ms
+LeftUp 1
+Delay 799 ms
+WheelUp 1
+Delay 23 ms
+WheelUp 1
+Delay 25 ms
+WheelUp 1
+Delay 46 ms
+WheelUp 1
+Delay 208 ms
+WheelUp 1
+Delay 11 ms
+WheelUp 1
+Delay 12 ms
+WheelUp 1
+Delay 21 ms
+WheelUp 1
+Delay 178 ms
+WheelUp 1
+Delay 16 ms
+WheelUp 1
+Delay 22 ms
+WheelUp 1
+Delay 11 ms
+WheelUp 1
+Delay 10 ms
+WheelUp 1
+Delay 179 ms
+WheelUp 1
+Delay 15 ms
+WheelUp 1
+Delay 16 ms
+WheelUp 1
+Delay 7 ms
+WheelUp 1
+Delay 24 ms
+WheelUp 1
+Delay 3488 ms
+LeftDown 1
+Delay 215 ms
+LeftUp 1
+Delay 327 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 64 ms
+LeftDown 1
+Delay 72 ms
+LeftUp 1
+Delay 855 ms
+LeftDown 1
+Delay 176 ms
+LeftUp 1
+Delay 90 ms
+KeyDown 35 1
+Delay 150 ms
+KeyUp 35 1
+Delay 328 ms
+KeyDown 224 1
+Delay 128 ms
+KeyDown 4 1
+Delay 96 ms
+KeyUp 4 1
+Delay 39 ms
+KeyUp 224 1
+Delay 472 ms
+KeyDown 32 1
+Delay 159 ms
+KeyUp 32 1
+Delay 280 ms
+KeyDown 31 1
+Delay 112 ms
+KeyUp 31 1
+Delay 214 ms
+LeftDown 1
+Delay 72 ms
+LeftUp 1
+Delay 592 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 72 ms
+LeftUp 1
+Delay 688 ms
+LeftDown 1
+Delay 159 ms
+LeftUp 1
+Delay 351 ms
+LeftDown 1
+Delay 159 ms
+LeftUp 1
+Delay 97 ms
+KeyDown 30 1
+Delay 79 ms
+KeyUp 30 1
+Delay 112 ms
+KeyDown 35 1
+Delay 104 ms
+KeyUp 35 1
+Delay 135 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 495 ms
+LeftDown 1
+Delay 56 ms
+LeftUp 1
+Delay 231 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 106 ms
+LeftDown 1
+Delay 14 ms
+LeftUp 1
+Delay 430 ms
+LeftDown 1
+Delay 159 ms
+LeftUp 1
+Delay 25 ms
+KeyDown 30 1
+Delay 103 ms
+KeyUp 30 1
+Delay 111 ms
+KeyDown 35 1
+Delay 80 ms
+KeyUp 35 1
+Delay 183 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 495 ms
+LeftDown 1
+Delay 71 ms
+LeftUp 1
+Delay 567 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 271 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 96 ms
+LeftDown 1
+Delay 41 ms
+LeftUp 1
+Delay 517 ms
+LeftDown 1
+Delay 223 ms
+LeftUp 1
+Delay 185 ms
+KeyDown 30 1
+Delay 103 ms
+KeyUp 30 1
+Delay 144 ms
+KeyDown 35 1
+Delay 87 ms
+KeyUp 35 1
+Delay 159 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 504 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 487 ms
+LeftDown 1
+Delay 153 ms
+KeyDown 30 1
+Delay 22 ms
+LeftUp 1
+Delay 56 ms
+KeyUp 30 1
+Delay 128 ms
+KeyDown 35 1
+Delay 87 ms
+KeyUp 35 1
+Delay 159 ms
+LeftDown 1
+Delay 88 ms
+LeftUp 1
+Delay 919 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+Delay 296 ms
+LeftDown 1
+Delay 56 ms
+LeftUp 1
+Delay 319 ms
+LeftDown 1
+Delay 88 ms
+LeftUp 1
+Delay 56 ms
+LeftDown 1
+Delay 72 ms
+LeftUp 1
+Delay 591 ms
+LeftDown 1
+Delay 136 ms
+LeftUp 1
+Delay 17 ms
+KeyDown 30 1
+Delay 71 ms
+KeyUp 30 1
+Delay 112 ms
+KeyDown 35 1
+Delay 103 ms
+KeyUp 35 1
+Delay 183 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 879 ms
+LeftDown 1
+Delay 71 ms
+LeftUp 1
+Delay 72 ms
+LeftDown 1
+Delay 63 ms
+LeftUp 1
+Delay 431 ms
+LeftDown 1
+Delay 151 ms
+LeftUp 1
+Delay 25 ms
+KeyDown 30 1
+Delay 103 ms
+KeyUp 30 1
+Delay 279 ms
+KeyDown 224 1
+Delay 80 ms
+KeyDown 4 1
+Delay 87 ms
+KeyUp 224 1
+Delay 32 ms
+KeyUp 4 1
+Delay 119 ms
+KeyDown 30 1
+Delay 96 ms
+KeyUp 30 1
+Delay 383 ms
+KeyDown 35 1
+Delay 112 ms
+KeyUp 35 1
+Delay 223 ms
+LeftDown 1
+Delay 71 ms
+LeftUp 1
+Delay 512 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 296 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 56 ms
+LeftUp 1
+Delay 591 ms
+LeftDown 1
+Delay 143 ms
+LeftUp 1
+Delay 113 ms
+KeyDown 30 1
+Delay 71 ms
+KeyUp 30 1
+Delay 328 ms
+KeyDown 35 1
+Delay 296 ms
+KeyUp 35 1
+Delay 174 ms
+LeftDown 1
+Delay 129 ms
+LeftUp 1
+Delay 198 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 720 ms
+LeftDown 1
+Delay 63 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 63 ms
+LeftUp 1
+Delay 879 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 25 ms
+KeyDown 30 1
+Delay 79 ms
+KeyUp 30 1
+Delay 127 ms
+KeyDown 35 1
+Delay 120 ms
+KeyUp 35 1
+Delay 47 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 486 ms
+WheelDown 1
+Delay 78 ms
+WheelDown 1
+Delay 554 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+Delay 64 ms
+LeftDown 1
+Delay 63 ms
+LeftUp 1
+Delay 624 ms
+LeftDown 1
+Delay 168 ms
+LeftUp 1
+Delay 58 ms
+KeyDown 35 1
+Delay 85 ms
+KeyUp 35 1
+Delay 280 ms
+KeyDown 33 1
+Delay 112 ms
+KeyUp 33 1
+Delay 46 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+Delay 503 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 87 ms
+LeftDown 1
+Delay 56 ms
+LeftUp 1
+Delay 487 ms
+LeftDown 1
+Delay 151 ms
+LeftUp 1
+Delay 90 ms
+KeyDown 32 1
+Delay 62 ms
+KeyDown 31 1
+Delay 56 ms
+KeyUp 32 1
+Delay 47 ms
+KeyUp 31 1
+Delay 103 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 487 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 296 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 80 ms
+LeftDown 1
+Delay 63 ms
+LeftUp 1
+Delay 647 ms
+LeftDown 1
+Delay 103 ms
+LeftUp 1
+Delay 177 ms
+KeyDown 32 1
+Delay 55 ms
+KeyDown 31 1
+Delay 72 ms
+KeyUp 32 1
+Delay 40 ms
+KeyUp 31 1
+Delay 63 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 304 ms
+WheelDown 1
+Delay 642 ms
+WheelDown 1
+Delay 652 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 80 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 520 ms
+LeftDown 1
+Delay 135 ms
+LeftUp 1
+Delay 65 ms
+KeyDown 32 1
+Delay 55 ms
+KeyDown 31 1
+Delay 58 ms
+KeyUp 32 1
+Delay 85 ms
+KeyUp 31 1
+Delay 214 ms
+LeftDown 1
+Delay 63 ms
+LeftUp 1
+Delay 200 ms
+WheelDown 1
+Delay 31 ms
+WheelDown 1
+Delay 31 ms
+WheelDown 1
+Delay 323 ms
+WheelDown 1
+Delay 44 ms
+WheelDown 1
+Delay 40 ms
+WheelDown 1
+Delay 343 ms
+WheelDown 1
+Delay 361 ms
+WheelDown 1
+Delay 175 ms
+WheelDown 1
+Delay 63 ms
+WheelDown 1
+Delay 415 ms
+WheelDown 1
+Delay 40 ms
+WheelDown 1
+Delay 151 ms
+WheelDown 1
+Delay 575 ms
+LeftDown 1
+Delay 56 ms
+LeftUp 1
+Delay 231 ms
+LeftDown 1
+Delay 63 ms
+LeftUp 1
+Delay 687 ms
+LeftDown 1
+Delay 160 ms
+LeftUp 1
+Delay 407 ms
+LeftDown 1
+Delay 120 ms
+LeftUp 1
+Delay 43 ms
+KeyDown 32 1
+Delay 61 ms
+KeyDown 31 1
+Delay 47 ms
+KeyUp 32 1
+Delay 80 ms
+KeyUp 31 1
+Delay 158 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 736 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 64 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 591 ms
+LeftDown 1
+Delay 519 ms
+LeftDown 1
+Delay 152 ms
+LeftUp 1
+Delay 9 ms
+KeyDown 30 1
+Delay 79 ms
+KeyUp 30 1
+Delay 111 ms
+KeyDown 35 1
+Delay 96 ms
+KeyUp 35 1
+Delay 151 ms
+LeftDown 1
+Delay 63 ms
+LeftUp 1
+Delay 504 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 56 ms
+LeftUp 1
+Delay 543 ms
+LeftDown 1
+Delay 143 ms
+LeftUp 1
+Delay 17 ms
+KeyDown 30 1
+Delay 63 ms
+KeyUp 30 1
+Delay 104 ms
+KeyDown 35 1
+Delay 103 ms
+KeyUp 35 1
+Delay 174 ms
+LeftDown 1
+Delay 72 ms
+LeftUp 1
+Delay 391 ms
+LeftDown 1
+Delay 72 ms
+LeftUp 1
+Delay 71 ms
+LeftDown 1
+Delay 63 ms
+LeftUp 1
+Delay 535 ms
+LeftDown 1
+Delay 137 ms
+KeyDown 30 1
+Delay 79 ms
+KeyUp 30 1
+Delay 350 ms
+LeftDown 1
+Delay 153 ms
+KeyDown 30 1
+Delay 14 ms
+LeftUp 1
+Delay 57 ms
+KeyUp 30 1
+Delay 95 ms
+KeyDown 35 1
+Delay 87 ms
+KeyUp 35 1
+Delay 240 ms
+KeyDown 224 1
+Delay 104 ms
+KeyDown 4 1
+Delay 63 ms
+KeyUp 224 1
+Delay 31 ms
+KeyUp 4 1
+Delay 104 ms
+KeyDown 30 1
+Delay 103 ms
+KeyUp 30 1
+Delay 72 ms
+KeyDown 35 1
+Delay 111 ms
+KeyUp 35 1
+Delay 30 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 743 ms
+LeftDown 1
+Delay 72 ms
+LeftUp 1
+Delay 71 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 535 ms
+LeftDown 1
+Delay 137 ms
+KeyDown 30 1
+Delay 6 ms
+LeftUp 1
+Delay 56 ms
+KeyUp 30 1
+Delay 87 ms
+KeyDown 35 1
+Delay 112 ms
+KeyUp 35 1
+Delay 183 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 512 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 48 ms
+LeftUp 1
+Delay 447 ms
+LeftDown 1
+Delay 135 ms
+LeftUp 1
+Delay 201 ms
+KeyDown 35 1
+Delay 111 ms
+KeyUp 35 1
+Delay 110 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+Delay 583 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 72 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 567 ms
+LeftDown 1
+Delay 127 ms
+LeftUp 1
+Delay 9 ms
+KeyDown 30 1
+Delay 79 ms
+KeyUp 30 1
+Delay 137 ms
+KeyDown 35 1
+Delay 105 ms
+KeyUp 35 1
+Delay 99 ms
+LeftDown 1
+Delay 88 ms
+LeftUp 1
+Delay 440 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+Delay 56 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+Delay 559 ms
+LeftDown 1
+Delay 168 ms
+LeftUp 1
+Delay 225 ms
+KeyDown 31 1
+Delay 119 ms
+KeyDown 33 1
+Delay 23 ms
+KeyUp 31 1
+Delay 64 ms
+KeyUp 33 1
+Delay 135 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 656 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 63 ms
+LeftDown 1
+Delay 88 ms
+LeftUp 1
+Delay 767 ms
+LeftDown 1
+Delay 160 ms
+LeftUp 1
+Delay 9 ms
+KeyDown 30 1
+Delay 87 ms
+KeyUp 30 1
+Delay 159 ms
+KeyDown 35 1
+Delay 112 ms
+KeyUp 35 1
+Delay 167 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 264 ms
+WheelUp 1
+Delay 1320 ms
+WheelUp 1
+Delay 879 ms
+LeftDown 1
+Delay 120 ms
+LeftUp 1
+Delay 240 ms
+LeftDown 1
+Delay 71 ms
+LeftUp 1
+Delay 744 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 17 ms
+KeyDown 30 1
+Delay 63 ms
+KeyUp 30 1
+Delay 96 ms
+KeyDown 35 1
+Delay 64 ms
+KeyUp 35 1
+Delay 238 ms
+LeftDown 1
+Delay 63 ms
+LeftUp 1
+Delay 193 ms
+WheelUp 1
+Delay 109 ms
+WheelUp 1
+Delay 337 ms
+WheelUp 1
+Delay 327 ms
+WheelUp 1
+Delay 904 ms
+WheelUp 1
+Delay 56 ms
+WheelUp 1
+Delay 1583 ms
+WheelUp 1
+Delay 1071 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 64 ms
+LeftDown 1
+Delay 63 ms
+LeftUp 1
+Delay 503 ms
+LeftDown 1
+Delay 119 ms
+LeftUp 1
+Delay 50 ms
+KeyDown 32 1
+Delay 47 ms
+KeyDown 31 1
+Delay 79 ms
+KeyUp 32 1
+Delay 48 ms
+KeyUp 31 1
+Delay 142 ms
+LeftDown 1
+Delay 63 ms
+LeftUp 1
+Delay 400 ms
+LeftDown 1
+Delay 63 ms
+LeftUp 1
+Delay 72 ms
+LeftDown 1
+Delay 56 ms
+LeftUp 1
+Delay 591 ms
+LeftDown 1
+Delay 120 ms
+LeftUp 1
+Delay 177 ms
+KeyDown 30 1
+Delay 103 ms
+KeyUp 30 1
+Delay 71 ms
+KeyDown 35 1
+Delay 120 ms
+KeyUp 35 1
+Delay 62 ms
+LeftDown 1
+Delay 63 ms
+LeftUp 1
+Delay 488 ms
+LeftDown 1
+Delay 103 ms
+LeftUp 1
+Delay 55 ms
+LeftDown 1
+Delay 72 ms
+LeftUp 1
+Delay 407 ms
+LeftDown 1
+Delay 135 ms
+LeftUp 1
+Delay 200 ms
+LeftDown 1
+Delay 128 ms
+LeftUp 1
+Delay 1 ms
+KeyDown 30 1
+Delay 79 ms
+KeyUp 30 1
+Delay 119 ms
+KeyDown 35 1
+Delay 95 ms
+KeyUp 35 1
+Delay 102 ms
+LeftDown 1
+Delay 63 ms
+LeftUp 1
+Delay 543 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 1215 ms
+WheelDown 1
+Delay 424 ms
+WheelDown 1
+Delay 591 ms
+WheelDown 1
+Delay 367 ms
+WheelDown 1
+Delay 23 ms
+WheelDown 1
+Delay 11 ms
+WheelDown 1
+Delay 20 ms
+WheelDown 1
+Delay 19 ms
+WheelDown 1
+Delay 221 ms
+WheelDown 1
+Delay 8 ms
+WheelDown 1
+Delay 8 ms
+WheelDown 1
+Delay 15 ms
+WheelDown 1
+Delay 7 ms
+WheelDown 1
+Delay 3392 ms
+LeftDown 1
+Delay 72 ms
+LeftUp 1
+Delay 95 ms
+LeftUp 1
+Delay 72 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 183 ms
+LeftDown 1
+Delay 71 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 71 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 95 ms
+LeftDown 1
+Delay 103 ms
+LeftUp 1
+Delay 112 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 239 ms
+LeftDown 1
+Delay 103 ms
+LeftUp 1
+Delay 120 ms
+LeftDown 1
+Delay 119 ms
+LeftUp 1
+Delay 223 ms
+LeftDown 1
+Delay 136 ms
+LeftUp 1
+Delay 280 ms
+LeftDown 1
+Delay 127 ms
+LeftUp 1
+Delay 239 ms
+LeftDown 1
+Delay 88 ms
+LeftUp 1
+Delay 2816 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 1087 ms
+LeftDown 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

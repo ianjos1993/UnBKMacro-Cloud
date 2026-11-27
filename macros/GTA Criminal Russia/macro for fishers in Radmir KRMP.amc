@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макросс для авто рыбалки на радмир крмп,который автоматически вылавлиет и берет рыбу,очень удобно для любого уровня развития</Description>
+    <Comment>почти со сто процентной вероятностью вытягивает рыбу и сам ее забирает,все полносью автоматически,сам пользуюсь,</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 226 1
+Delay 8500 ms
+KeyUp 226 1
+KeyDown 44 1
+Delay 300 ms
+KeyUp 44 1
+KeyDown 88 1
+Delay 3700 ms
+KeyUp 88 1
+GoWhile 1 999</Syntax>
+    </KeyDown>
+    <Software>GTA: Criminal Russia (CRMP)</Software>
+  </DefaultMacro>
+</Root>

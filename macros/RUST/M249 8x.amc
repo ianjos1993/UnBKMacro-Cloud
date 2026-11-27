@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major>Gre1eM</Major>
+    <Description>Макрос создан на M249 на 8x Сенса 0.6 DPI 400 FOV 90. На холике сенса 1.2 . Без модов 1.1 . 
+By Gre1eM</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 8 ms
+MoveR 0 27
+Delay 8 ms
+GoWhile 2 100</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

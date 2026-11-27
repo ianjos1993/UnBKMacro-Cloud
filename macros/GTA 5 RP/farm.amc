@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос который нажимает A и D в нужном порядке, ошибается редко. делал на разрешении 1920х1080 
+4 на 3</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 3 1 226,226,226 255,255,255 1 894 851 768 230 1 0
+GoColor 12 1 226,226,226 255,255,255 1 1052 854 584 227 1 0
+KeyDown 4 1
+Delay 150 250 ms
+KeyUp 4 1
+Delay 150 250 ms
+KeyDown 7 1
+Delay 150 250 ms
+KeyUp 7 1
+Delay 150 250 ms
+GoWhile 3 21
+KeyDown 7 1
+Delay 150 250 ms
+KeyUp 7 1
+Delay 150 250 ms
+KeyDown 4 1
+Delay 150 250 ms
+KeyUp 4 1
+Delay 150 250 ms
+GoWhile 12 21</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

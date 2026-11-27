@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>sf eul + ult</Major>
+    <Description>Моментальный реквием под еул за СФ 
+Ульта на R еул на С кнопки в макросе можете поменять по желанию
+применение ульта 710мс при 700 и ниже ульта может использоваться не вовремя
+При использовании макроса не забудьте поставить быстрое применение на предметы в настройках
+Можете ознакомиться с видео материалом ниже для более полного ознакомления с макросом
+
+https://youtu.be/oxpcEHA1F_s</Description>
+    <Comment>приятной игры и хороших тимейтов </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+Delay 20
+KeyUp 6 1
+Delay 710 ms
+KeyDown 21 1
+Delay 71 ms
+KeyUp 21 1</Syntax>
+    </KeyDown>
+    <Software>dota 2</Software>
+  </DefaultMacro>
+</Root>

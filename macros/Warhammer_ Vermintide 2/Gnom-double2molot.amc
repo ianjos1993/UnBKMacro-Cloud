@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>Гном (третий) с двумя молотками в обоих слотах оружия.</Major>
+    <Description>Данный макрос подходит для игры через третьего гнома в списке персонажей с двумя молотками дробящими в каждой руке в обоих слотах оружия. В особенности полезно для прохождения пустощей хаоса.
+Смысл макроса - заряженный тяжелый удар молотами в голову и сменить оружие на другие молоты для повторного удара. удары происходят на порядок быстрее чем с использованием молотов в одном слоте оружия.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 309 ms
+LeftUp 1
+Delay 136 ms
+KeyDown 20 1
+KeyUp 20 1
+Delay 150 250 ms</Syntax>
+    </KeyDown>
+    <Software>Warhammer: vermintide 2</Software>
+  </DefaultMacro>
+</Root>

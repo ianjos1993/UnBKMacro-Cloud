@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>тап стрей перенапровление стороны полета обычного прыжка и или прыжка с батута октейна \
+обезательно поставте в игре бинд------ Идти вперед=колесико в верх
+Сам макрос забиндить можно на любую удобную для вас кнопку </Description>
+    <Comment>Рабочий</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 1 ms
+KeyUp 44 1
+Delay 1 ms
+KeyDown 4 1
+Delay 1 ms
+WheelUp 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Зажим с зумом для Benelli_M4 при нажатии кнопки ЛКМ  входит в прицел и стреляет работает на все патроны все работает коректно и без нареканий отличный макрос можно раздавать против современного дона но нужно привыкнуть)</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 20 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Warface</Software>
+  </DefaultMacro>
+</Root>

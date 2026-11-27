@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Заброс и равномерная проводка в PF. Для работы нажмите на назначенную кнопку и ждите свою рыбу. Как вы забрали свою рыбу нажимете еще раз на кнопу и снова ждете.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 1950 ms
+LeftUp 1
+Delay 5 s
+LeftDown 1
+Delay 65 s
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Fishing Planet</Software>
+  </DefaultMacro>
+</Root>

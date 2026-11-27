@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>this bunnyhop will more accurate in 128thick
+all things you need to do is bind your jump key to scroll up and down first at the console command
+then bind this macro key to spacebar</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>WheelDown 1
+Delay 10
+WheelUp 1
+Delay 10
+WheelDown 1
+Delay 10
+WheelUp 1
+Delay 10
+WheelDown 1
+Delay 10
+WheelUp 1
+Delay 10
+WheelDown 1
+Delay 10
+WheelUp 1
+Delay 10
+GoWhile 1 15</Syntax>
+    </KeyDown>
+    <Software>Counter-Strike 2</Software>
+  </DefaultMacro>
+</Root>

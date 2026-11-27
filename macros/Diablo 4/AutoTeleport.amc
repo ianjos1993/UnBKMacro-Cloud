@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major>AutoTeleport</Major>
+    <Description>Макрос для чар телепорта волшебницы. 
+Настройка: Привяжите макрос к пробелу. Установите режим ''Выполнять до остановки'' или ''Выполнять пока зажата клавиша''
+Автоматически использует телепорт(чар телепорта волшебницы), после активации просто водим мышкой по экрану, задавая направление прыжка</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 50 ms
+KeyUp 44 1
+Delay 50 ms
+KeyDown 44 1
+Delay 50 ms
+KeyUp 44 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>Diablo IV</Software>
+  </DefaultMacro>
+</Root>

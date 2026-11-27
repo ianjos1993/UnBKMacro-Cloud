@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Ловит бизнес автоматически как только он слетает. Для этого встаем на причал в волчанске и запускаем скрипт. Дальше ждем пока бизнес не окажется вашим
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 10 ms
+MoveTo 822 599
+Delay 10 ms
+MoveTo 820 599
+Delay 10 ms
+MoveTo 819 599
+Delay 10 ms
+MoveTo 742 599
+Delay 10 ms
+MoveTo 740 599
+Delay 10 ms
+MoveTo 739 599
+Delay 10 ms
+LeftUp 1
+KeyDown 224 1
+Delay 10 ms
+KeyDown 25 1
+Delay 10 ms
+KeyUp 224 1
+KeyUp 25 1
+MoveTo 1146 602
+LeftDown 1
+Delay 25 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

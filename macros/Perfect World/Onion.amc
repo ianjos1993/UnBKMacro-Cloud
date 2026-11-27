@@ -1,0 +1,95 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Клавиши от 1 до 8 могут быть назначены на различные навыки или заклинания вашего персонажа, позволяя вам быстро активировать их во время боевых сражений или других ситуаций.А клавиши такие как:
+F1: Открывает окно помощи или интерфейс персонажа.
+F2: Открывает окно заданий или квестов.
+F3: Позволяет открыть окно сообщений или чата.
+F4: Открывает окно инвентаря или экипировки.
+F5: Используется для быстрого доступа к окну карты мира.
+E-может подойти для авто-хилла</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 58 1
+GoWhile 1 5
+KeyDown 61 1
+Delay 64
+KeyUp 61 1
+Delay 64
+KeyDown 61 1
+Delay 64
+KeyUp 61 1
+Delay 64
+Delay 64
+KeyUp 58 1
+Delay 64
+KeyDown 59 1
+Delay 64
+KeyUp 59 1
+Delay 64
+KeyDown 60 1
+Delay 64
+KeyUp 60 1
+Delay 64
+KeyDown 61 1
+Delay 64
+KeyUp 61 1
+Delay 64
+KeyDown 62 1
+Delay 64
+KeyUp 62 1
+Delay 64
+KeyDown 63 1
+Delay 64
+KeyUp 63 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 64
+KeyDown 35 1
+Delay 64
+KeyUp 35 1
+Delay 64
+KeyDown 36 1
+Delay 64
+KeyUp 36 1
+Delay 64
+KeyDown 37 1
+Delay 64
+KeyUp 37 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Perfect World</Software>
+  </DefaultMacro>
+</Root>

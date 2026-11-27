@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Привет в этом macro курсор сам наводится в нужно нам место и нажимает на диалоговое окно в Genshin
+1.Скачать этот макрос
+2.начать диалоговое окно с nps
+3. нажмите на горячую клавишу
+Я не знаю, работает ли он на чем-то другом, кроме 1920p.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 567 1064
+Delay 40 70 ms
+LeftDown 1
+Delay 20 70 ms
+LeftUp 1
+MoveTo 1562 732
+Delay 20 70 ms
+LeftDown 1
+Delay 20 70 ms
+LeftUp 1
+MoveTo 1562 786
+Delay 20 70 ms
+LeftDown 1
+Delay 20 70 ms
+LeftUp 1
+Delay 20 70 ms
+KeyDown 9 1
+Delay 20 70 ms
+KeyUp 9 1
+Delay 20 70 ms</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

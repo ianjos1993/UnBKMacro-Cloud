@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос создан для,более легитной игры.И при этом на большинстве серверов lock 20 кпс.
+Инструкция:
+1) Качаешь макрос.
+2)Заходишь в программу KeyRan,на появившийся  экранной клавиатуре,нажимаем на боковую кнопку(аерхняя  или нижняя,выбирайте сами).Когда выбрали кнопку,выбираем макрос.
+3)Ставим режим работы выполнять пока нажата клавиша.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 51 ms
+LeftDown 1
+Delay 51 ms
+LeftDown 1
+Delay 51 ms
+LeftDown 1
+Delay 51 ms
+LeftDown 1
+Delay 51 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major>Куча мала за человека</Major>
+    <Description>Макрос для 1 фазы пока вы человек, позволяет делать комбо из 4 ударов по 2 раза, и убить с 1 кнопки врагов в начале  раунда.</Description>
+    <Comment>Для мутантов этот макрос не подходит, использовать только в начале раунда.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 20 ms
+KeyUp 8 1
+Delay 30 ms
+KeyDown 21 1
+Delay 30 ms
+KeyUp 21 1
+Delay 30 ms
+KeyDown 20 1
+Delay 30 ms
+KeyUp 20 1
+Delay 30 ms
+KeyDown 29 1
+Delay 30 ms
+KeyUp 29 1
+Delay 30 ms
+KeyDown 8 1
+Delay 30 ms
+KeyUp 8 1
+Delay 30 ms
+KeyDown 20 1
+Delay 30 ms
+KeyUp 20 1
+Delay 30 ms
+KeyDown 21 1
+Delay 30 ms
+KeyUp 21 1
+Delay 30 ms
+KeyDown 29 1
+Delay 30 ms
+KeyUp 29 1
+Delay 30 ms</Syntax>
+    </KeyDown>
+    <Software>Stay Out</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,53 @@
+<Root>
+  <DefaultMacro>
+    <Major>Орбитальная стратогема - Артудар 380 мм - Используются стандартные W-A-S-D</Major>
+    <Description>Внимание в Helldivers 2 макросы не работают без включения драйвера Keyran.
+
+Фактически ускоряет использование стратогемы в бою.
+Не требует смещения кнопок активации в настройках игры - Используются стандартные W-A-S-D.
+
+Использование:
+Установите кнопку активации макроса.
+В игре (при активном Keyran) После нажатия Ctrl вместо введения кода стратогемы используйте кнопку активации.
+
+Даже на видеозаписи или стриме будет похоже на просто очень быстрое введение кода стратогемы.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 35
+KeyUp 7 1
+Delay 35
+KeyDown 22 1
+Delay 35
+KeyUp 22 1
+Delay 35
+KeyDown 26 1
+Delay 35
+KeyUp 26 1
+Delay 35
+KeyDown 26 1
+Delay 35
+KeyUp 26 1
+Delay 35
+KeyDown 4 1
+Delay 35
+KeyUp 4 1
+Delay 35
+KeyDown 22 1
+Delay 35
+KeyUp 22 1
+Delay 35
+KeyDown 22 1
+Delay 35
+KeyUp 22 1
+Delay 35</Syntax>
+    </KeyDown>
+    <Software>Helldivers 2</Software>
+  </DefaultMacro>
+</Root>

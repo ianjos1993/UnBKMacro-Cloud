@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос автоматически вводит команду /cps в Minecraft Bedrock Edition, позволяя мгновенно узнать количество кликов в секунду (CPS) у игрока. Это полезный инструмент для PvP-игроков, серверных администраторов и античит-систем, так как высокий CPS может указывать на использование автокликеров или других запрещённых программ. Кпс включаеться для показа только у вас, и работает данная команда не на всех серверах. 
+
+Инструкция по установке:
+1. Скачать файл макроса.
+2. Назначьте его на удобную клавишу.
+3. Готово!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>SetLang en-US
+KeyDown 56 1
+Delay 10
+KeyUp 56 1
+Delay 10
+KeyDown 6 1
+Delay 10
+KeyUp 6 1
+Delay 10
+KeyDown 19 1
+Delay 10
+KeyUp 19 1
+Delay 10
+KeyDown 22 1
+Delay 10
+KeyUp 22 1
+Delay 10
+KeyDown 88 1
+Delay 10
+KeyUp 88 1
+Delay 10
+SetLang ru-RU</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major>Sending kumkvat to the NPC on the spawn</Major>
+    <Description>Come to npc, take the wireless terminal in the hands and start the macros, It will automatically do all job. Speed around 10k kumkvat per minute</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 64 ms
+RightDown 1
+Delay 20 ms
+RightUp 1
+KeyUp 225 1
+Delay 1000 ms
+KeyDown 21 1
+Delay 20 ms
+KeyUp 21 1
+KeyDown 8 1
+Delay 20 ms
+KeyUp 8 1
+KeyDown 25 1
+Delay 20 ms
+KeyUp 25 1
+KeyDown 21 1
+Delay 20 ms
+KeyUp 21 1
+Delay 1000 ms
+MoveTo 796 101
+KeyDown 229 1
+Delay 500 ms
+LeftDown 1
+Delay 20 ms
+LeftUp 1
+GoWhile 24 35
+KeyUp 229 1
+KeyDown 41 1
+KeyUp 41 1
+Delay 500 ms
+RightDown 1
+RightUp 1
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft SimpleMinecraft</Software>
+  </DefaultMacro>
+</Root>

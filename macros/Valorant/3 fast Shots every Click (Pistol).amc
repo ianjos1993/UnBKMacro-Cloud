@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>xRealEnemy</Major>
+    <Description>This macro helps you take out enemies quickly with your pistol by firing 3 quick, accurate shots with each click
+
+It's best to use an easily accessible button on your mouse</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 80 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 80 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 80 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 80 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Valorant</Software>
+  </DefaultMacro>
+</Root>

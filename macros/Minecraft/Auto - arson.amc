@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос автоматически вводит команду /fuck на сервере Minecraft Bedrock, вызывая анимацию или эффект "поджога" выбранного игрока. Используется на серверах с кастомными плагинами или модами для развлечения, троллинга друзей или проведения весёлых мероприятий. После активации макроса нужно вписать никнейм игрока.
+
+Инструкция по установке макроса:
+1. Скачайте файл макроса.
+2. Назначьте его на удобную для вас клавишу.
+3. Пользуйтесь.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>SetLang en-US
+KeyDown 56 1
+Delay 15
+KeyUp 56 1
+Delay 15
+KeyDown 9 1
+Delay 15
+KeyUp 9 1
+Delay 15
+KeyDown 24 1
+Delay 15
+KeyUp 24 1
+Delay 15
+KeyDown 6 1
+Delay 15
+KeyUp 6 1
+Delay 15
+KeyDown 14 1
+Delay 15
+KeyUp 14 1
+Delay 15
+KeyDown 44 1
+Delay 15
+KeyUp 44 1
+Delay 15</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>\\\Надоела постоянно долбить кнопку Shift что-бы поздароватся с другом или приятелем?
+---Воспользуйся этим макросом пускай он будет за тебя долбить Shift ;)
+\\\Хотите уйти в AFK но скачивать и ставить бинд на еще одну кнопку лень или нет места на клавиатуре???
+---Воспользуйся этим макросом уж он точно не даст вам уйти в афк с такими усердными приседаниями
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы 
+ВК тэг: dambler</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 15 ms
+KeyUp 225 1
+Delay 15 ms
+KeyDown 225 1
+Delay 15 ms
+KeyUp 225 1
+Delay 15 ms
+KeyDown 225 1
+Delay 15 ms
+KeyUp 225 1
+GoWhile 1 10000</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>get the wall 1 hit with a pickaxe, hold pickaxe out, then use macro. can take players with 0-50 pings walls.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 70 ms
+LeftUp 1
+Delay 120 ms
+KeyDown 29 1
+Delay 30 ms
+KeyUp 29 1
+Delay 15 ms
+LeftDown 1
+Delay 75 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

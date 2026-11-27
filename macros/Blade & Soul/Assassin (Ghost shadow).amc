@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>--------------------------------ОПИСАНИЕ-----------------------------------------------
+Когда Вы вошли в тень, данный макрос поможет Вам быстро прожать нужные Вам клавиши из ротации.
+В настройках - клавиши -&gt; Боевые приемы, добавьте бинд (правая ячейка 2)  на Английскую букву " T ". 
+Укол в сердце + Всполох молнии + Рассечение молнии. Достаточно быстрое прожатие скиллов. </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 64
+KeyDown 9 1
+Delay 4 ms
+KeyUp 9 1
+Delay 4 ms
+KeyDown 33 1
+Delay 20 ms
+KeyUp 33 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

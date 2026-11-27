@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major>Automatic Fishing from level 1 to level 10</Major>
+    <Description>Normally, we need to fish one by one. But through Keyran, I created a way more effective and without using our own hands. Since when we fishing, we need to press F to fish and F again to pull. After we start to pull, we need to press A and D to make it stable. But there is a bug, which is Press L after we pull. This may be a bug or something, we can press L get in to the team management page. When press L, the fishing still going on, but we can free our hands, So after that, we can just press Esc x2  and repeat it again. This is how it works, and how I combined it into a macro. (Most important thing, dont forget to buy the cheapest baits as more as you can)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 100 ms
+KeyUp 9 1
+Delay 8 s
+KeyDown 9 1
+Delay 100 ms
+KeyUp 9 1
+Delay 250 ms
+KeyDown 15 1
+Delay 150 ms
+KeyUp 15 1
+Delay 15 s
+KeyDown 41 1
+Delay 100 ms
+KeyUp 41 1
+Delay 200 ms
+KeyDown 41 1
+Delay 100 ms
+KeyUp 41 1
+Delay 1200 ms
+GoWhile 1 999</Syntax>
+    </KeyDown>
+    <Software>Neveness to Everness</Software>
+  </DefaultMacro>
+</Root>

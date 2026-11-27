@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>В режиме Animal Simulator, на чучеле его использовать, подходя к ниму запустите макрос и нажмите Q для отмены повторное нажатия (у кого как)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Роблокс</Software>
+  </DefaultMacro>
+</Root>

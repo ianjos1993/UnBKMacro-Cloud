@@ -1,0 +1,81 @@
+<Root>
+  <DefaultMacro>
+    <Major>Hwoarang combo WS</Major>
+    <Description>Макрос позволяет выполнять комбо за Hwoarang с лаунчера WS.
+Видео демонстрации работы макроса: https://youtu.be/UBcaGIrD7Dc
+
+Хвоаранг вспыльчив, высокомерен и импульсивен. Он ценит свое боевое мастерство и любит хвастаться тем, как легко он может победить своих противников. Он мятежный и не любит подчиняться приказам авторитетных лиц; однако он уважает своего хозяина, Пэк Ду Сана. В Tekken 8 Хвоаранг демонстрирует готовность сотрудничать и сражаться бок о бок с другими ради великой цели, хотя его внешне хвастливое и пренебрежительное отношение в основном остается неизменным в его личном общении.
+
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 03.06.2024
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+Помимо этого записываю макросы под ваше пожелания.
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#hwoarangtekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 299 ms
+KeyUp 22 1
+Delay 10 ms
+KeyDown 74 1
+Delay 130 ms
+KeyDown 76 1
+Delay 39 ms
+KeyUp 74 1
+Delay 50 ms
+KeyUp 76 1
+Delay 79 ms
+KeyDown 76 1
+Delay 100 ms
+KeyUp 76 1
+Delay 50 ms
+KeyDown 76 1
+Delay 100 ms
+KeyUp 76 1
+Delay 689 ms
+KeyDown 22 1
+Delay 0 ms
+KeyDown 7 1
+Delay 49 ms
+KeyDown 76 1
+Delay 170 ms
+KeyDown 77 1
+Delay 29 ms
+KeyUp 76 1
+Delay 90 ms
+KeyUp 77 1
+Delay 139 ms
+KeyDown 77 1
+Delay 80 ms
+KeyUp 22 1
+Delay 20 ms
+KeyUp 77 1
+Delay 9 ms
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

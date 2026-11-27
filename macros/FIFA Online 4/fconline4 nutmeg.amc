@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>FIFA Online 4 / FC Online Nutmeg Macro
+
+This macro performs the Nutmeg skill using the default in-game key settings. The required key combination is executed with a single key press, making the skill easier and more consistent to perform during matches. Designed for players who want a simple and reliable way to use the Nutmeg skill move.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы
+
+Uses default in-game key settings.
+
+Performs the Nutmeg skill with a single key press. The timing and execution are handled automatically for more consistent results.
+ </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+KeyDown 20 1
+KeyDown 29 1
+Delay 200 ms
+KeyUp 225 1
+KeyUp 20 1
+KeyUp 29 1</Syntax>
+    </KeyDown>
+    <Software>FIFA 4 Online</Software>
+  </DefaultMacro>
+</Root>

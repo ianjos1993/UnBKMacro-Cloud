@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description></Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 30 ms
+MoveR 0 6
+MoveR -1 0
+Delay 30 ms
+Goto 3</Syntax>
+    </KeyDown>
+    <Software></Software>
+  </DefaultMacro>
+</Root>

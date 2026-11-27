@@ -1,0 +1,270 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>	
+  #1
+Опубликовано 20 августа, 2018
+Акция
+
+Загрузи макрос или скрипт в общую базу, после его одобрения модератором за каждый загруженный файл ты получаешь от +1 до +7 дней к длительности премиума. К участию принимаются макросы и скрипты с подробным и понятным описанием. Нет ограничений по количеству загружаемых файлов. То есть вы можете загрузить хоть 100 макросов/скриптов и за каждый получите +1 день к премиуму.
+
+Как принять участие
+
+share.jpg
+
+Action Upload a macro or script to the General database, after its approval by the moderator for each uploaded file you get from +1 to +7 days to the duration of the bonus. Macros and scripts with a detailed and clear description are accepted for participation. There are no restrictions on the number of uploaded files. In other words, you can upload at least 100 macros/scripts and get +1 day to the premium for each one.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+Delay 100 ms
+KeyUp 10 1
+Delay 65 ms
+KeyDown 11 1
+Delay 14 ms
+KeyDown 13 1
+Delay 29 ms
+KeyUp 13 1
+Delay 20 ms
+KeyUp 11 1
+Delay 121 ms
+KeyDown 5 1
+Delay 75 ms
+KeyUp 5 1
+Delay 23 ms
+KeyDown 7 1
+Delay 108 ms
+KeyUp 7 1
+Delay 16 ms
+KeyDown 18 1
+Delay 29 ms
+KeyDown 12 1
+Delay 22 ms
+KeyDown 22 1
+Delay 7 ms
+KeyUp 12 1
+Delay 14 ms
+KeyUp 18 1
+Delay 16 ms
+KeyUp 22 1
+Delay 70 ms
+KeyDown 13 1
+Delay 55 ms
+KeyUp 13 1
+Delay 4 ms
+KeyDown 12 1
+Delay 24 ms
+KeyUp 12 1
+Delay 33 ms
+KeyDown 22 1
+Delay 46 ms
+KeyUp 22 1
+Delay 21 ms
+KeyDown 13 1
+Delay 36 ms
+KeyUp 13 1
+Delay 110 ms
+KeyDown 22 1
+Delay 18 ms
+KeyDown 51 1
+Delay 77 ms
+KeyUp 22 1
+Delay 8 ms
+KeyUp 51 1
+Delay 91 ms
+KeyDown 22 1
+Delay 32 ms
+KeyUp 22 1
+Delay 955 ms
+MoveTo 688 607
+Delay 7 ms
+MoveTo 689 607
+Delay 3 ms
+MoveTo 689 607
+Delay 6 ms
+MoveTo 692 608
+Delay 3 ms
+MoveTo 692 608
+Delay 6 ms
+MoveTo 694 608
+Delay 2 ms
+MoveTo 694 609
+Delay 3 ms
+MoveTo 695 610
+Delay 3 ms
+MoveTo 697 611
+Delay 2 ms
+MoveTo 697 611
+Delay 7 ms
+MoveTo 698 611
+Delay 2 ms
+MoveTo 698 612
+Delay 3 ms
+MoveTo 699 613
+Delay 3 ms
+MoveTo 700 614
+Delay 7 ms
+MoveTo 700 614
+Delay 7 ms
+MoveTo 701 615
+Delay 3 ms
+MoveTo 701 616
+Delay 5 ms
+MoveTo 702 617
+Delay 3 ms
+MoveTo 703 618
+Delay 7 ms
+MoveTo 703 619
+Delay 7 ms
+MoveTo 704 619
+Delay 3 ms
+MoveTo 705 619
+Delay 2 ms
+MoveTo 707 620
+Delay 7 ms
+MoveTo 707 621
+Delay 3 ms
+MoveTo 709 621
+Delay 4 ms
+MoveTo 710 622
+Delay 3 ms
+MoveTo 712 623
+Delay 2 ms
+MoveTo 713 623
+Delay 3 ms
+MoveTo 714 623
+Delay 7 ms
+MoveTo 714 623
+Delay 6 ms
+MoveTo 715 624
+Delay 3 ms
+MoveTo 718 624
+Delay 3 ms
+MoveTo 719 625
+Delay 3 ms
+MoveTo 720 625
+Delay 3 ms
+MoveTo 721 625
+Delay 6 ms
+MoveTo 722 626
+Delay 3 ms
+MoveTo 722 626
+Delay 6 ms
+MoveTo 723 626
+Delay 113 ms
+MoveTo 723 627
+Delay 14 ms
+MoveTo 723 627
+Delay 6 ms
+MoveTo 723 627
+Delay 6 ms
+MoveTo 723 626
+Delay 3 ms
+MoveTo 723 626
+Delay 8 ms
+MoveTo 723 625
+Delay 2 ms
+MoveTo 723 624
+Delay 3 ms
+MoveTo 723 622
+Delay 3 ms
+MoveTo 723 621
+Delay 2 ms
+MoveTo 723 621
+Delay 6 ms
+MoveTo 723 620
+Delay 2 ms
+MoveTo 722 620
+Delay 3 ms
+MoveTo 721 618
+Delay 2 ms
+MoveTo 721 617
+Delay 3 ms
+MoveTo 720 617
+Delay 2 ms
+MoveTo 720 616
+Delay 7 ms
+MoveTo 719 615
+Delay 2 ms
+MoveTo 719 615
+Delay 7 ms
+MoveTo 717 612
+Delay 2 ms
+MoveTo 716 612
+Delay 7 ms
+MoveTo 714 609
+Delay 3 ms
+MoveTo 713 608
+Delay 2 ms
+MoveTo 711 607
+Delay 3 ms
+MoveTo 710 605
+Delay 7 ms
+MoveTo 710 605
+Delay 6 ms
+MoveTo 708 604
+Delay 2 ms
+MoveTo 706 601
+Delay 3 ms
+MoveTo 704 599
+Delay 3 ms
+MoveTo 704 599
+Delay 7 ms
+MoveTo 703 598
+Delay 3 ms
+MoveTo 703 597
+Delay 2 ms
+MoveTo 702 596
+Delay 3 ms
+MoveTo 702 596
+Delay 7 ms
+MoveTo 701 596
+Delay 2 ms
+MoveTo 701 595
+Delay 7 ms
+MoveTo 700 595
+Delay 3 ms
+MoveTo 700 594
+Delay 9 ms
+MoveTo 700 594
+Delay 198 ms
+MoveTo 700 593
+Delay 6 ms
+MoveTo 700 593
+Delay 7 ms
+MoveTo 699 593
+Delay 6 ms
+MoveTo 699 594
+Delay 7 ms
+MoveTo 699 594
+Delay 6 ms
+MoveTo 699 595
+Delay 3 ms
+MoveTo 698 595
+Delay 6 ms
+MoveTo 697 596
+Delay 7 ms
+MoveTo 696 596
+Delay 2 ms
+MoveTo 695 597
+Delay 3 ms
+MoveTo 694 598
+Delay 6 ms
+MoveTo 693 598
+Delay 3 ms
+MoveTo 692 598
+Delay 3 ms
+MoveTo 690 599
+Delay 2 ms
+MoveTo 689 599
+Delay 3 ms
+MoveTo 689 599</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

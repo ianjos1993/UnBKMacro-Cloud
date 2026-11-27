@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>Fejume</Major>
+    <Description>Помощник для автоловли Arizona RP. Используйте настройки макроса. Сам нажимает Shift и флубит Enter. Очень помогает и не палится на опре.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 64
+KeyUp 225 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос автоматически взрывает кристалы энда тем самым снимая большое количество жизней у противника. Верися игры 1.16.5. Как использовать? 1. Ударить игрока что-бы он подлетел на вестись под себя и активировать макрос. Разрешение 1920 на 1080. Этот уникальный макрос обеспечит вам преимущество в бою и поможет достичь победы. Он настроен для достижения оптимальной эффективности в игре Minecraft.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 37 1
+Delay 5 ms
+KeyUp 37 1
+Delay 5 ms
+MoveR 0 -49
+Delay 5 ms
+RightDown 1
+Delay 5 ms
+RightUp 1
+Delay 5 ms
+MoveR -1 -6
+Delay 5 ms
+KeyDown 38 1
+Delay 5 ms
+KeyUp 38 1
+Delay 5 ms
+RightDown 1
+Delay 5 ms
+RightUp 1
+Delay 5 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

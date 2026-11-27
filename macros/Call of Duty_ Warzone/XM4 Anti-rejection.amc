@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major>антиотдача XM4</Major>
+    <Description>Подогнаная под XM4
+Чувствительность мыши: 3.75.
+Чувствительность мыши при прицеливании: Относительная.
+Ускорение мыши: 0.00.
+Угол обзора (FOV): 120.
+Разрешение экрана: 3840х2160
+DPI мыши: 2600
+
+Вертикальной отдачи нет вообще, остался горизонтальный увод уже не в право, а в лево. Но раз в 10 слабее чем без макроса.
+
+Демонстрация работы макроса https://youtu.be/Jl0uqqjt53U
+
+Для корректной работы макроса драйвер не нужен.
+
+Если у вас возникают проблемы с работой макроса, обращайтесь за помощью на https://keyran.net/discord или к автору макроса — inashapotyane_sham (discord) по вопросам создания макросов.
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+MoveR -1 1 1 2
+MoveR 0 1
+Delay 15 ms
+MoveR -1 1 0 2
+MoveR 0 0 1 1
+Delay 15 ms
+MoveR -1 2 0 3
+Delay 15 ms
+MoveR -1 1 0 2
+MoveR 1 0
+Delay 15 ms
+MoveR -1 0 0 1
+MoveR -1 1 0 2
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Call of Duty: War Zone</Software>
+  </DefaultMacro>
+</Root>

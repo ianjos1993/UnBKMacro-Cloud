@@ -1,0 +1,62 @@
+<Root>
+  <DefaultMacro>
+    <Major>Slap Battles</Major>
+    <Description>Читайте описание перед использованием!
+Фарм полностью автоматический, но всё ровно надо соблюдать правила.
+1 - камера должна быть в режиме shiftlock
+2 - нацельтесь камерой так, что бы середина сверху была нацелена на чёрный потолок.
+3 - перед тем как запускать, ресетнитесь.
+Макрос не всегда будет правильно делать действие, но при этом чаще всего всё будет нормально работать.
+Макрос используйте на приватке с минимумм 2 людьми включая вас!
+При моём тесте макроса 2 из 10 попыток были неверны.
+Расширение экрана 1366 x 768</Description>
+    <Comment>Читайте описание перед использованием!
+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 20 3 0,0,0 201,201,198 1 679 0 833 999 1 0
+KeyDown 7 1
+Delay 350 ms
+KeyUp 7 1
+Delay 100 ms
+KeyDown 22 1
+Delay 2 s
+KeyUp 22 1
+Delay 100 ms
+KeyDown 8 1
+Delay 1 s
+KeyDown 41 1
+Delay 100 ms
+KeyDown 21 1
+Delay 100 ms
+KeyDown 88 1
+KeyUp 88 1
+Delay 5 s
+Goto 1
+KeyDown 22 1
+Delay 350 ms
+KeyUp 22 1
+Delay 100 ms
+KeyDown 4 1
+Delay 2 s
+KeyUp 4 1
+Delay 100 ms
+KeyDown 8 1
+Delay 1 s
+KeyDown 41 1
+Delay 100 ms
+KeyDown 21 1
+Delay 100 ms
+KeyDown 88 1
+KeyUp 88 1
+Delay 5 s
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,62 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>при начале игры вы должны были выбрать приключенца (adventurer), в комманде у вас должны быть:
+дон краснодревый (dawn the redwood)
+фарук предсказатель (farouk the Oracle),
+
+у Вас должен быть уровень, дающий навык взрыва (combustion bomb)
+у Фарука должен быть 10 уровень, дающий навык - мудрость мага (sage's wisdom)
+у Дона должен быть уровень, дающий навык яростного взмаха (vicious sweep).
+
+место для фарма находится в локации под названием воющая долина (groaning valley), если от костра у входа в долину дойти до башни и идти по первому уступу вы встретите цепь, которая идёт вниз, вам в неё и в дверь слева, идёте дальше пока не выйдете на висельника - вы на месте. можно запускать скрипт и идти по своим делам. (для успешности скрипта, стоит войти в дверь к висельнику, и отпустить управление, чтобы не двинуться больше нужного)
+
+p.s. Оракул будет постепенно получать накапливающийся урон, одна полная обработка скрипта берёт в учёт это, так что если скрипт завершился - похильте команду </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 2000 ms
+KeyDown 79 1
+Delay 1350 ms
+KeyDown 82 1
+Delay 500 ms
+KeyUp 79 1
+KeyUp 82 1
+KeyDown 88 1
+Delay 20000 ms
+KeyUp 88 1
+Delay 5 ms
+KeyDown 82 1
+Delay 400 ms
+KeyUp 82 1
+Delay 5 ms
+KeyDown 79 1
+Delay 1500 ms
+KeyUp 79 1
+Delay 5 ms
+KeyDown 88 1
+Delay 20000 ms
+KeyUp 88 1
+Delay 5 ms
+KeyDown 80 1
+Delay 1500 ms
+KeyUp 80 1
+Delay 5 ms
+KeyDown 81 1
+Delay 500 ms
+KeyUp 81 1
+Delay 5 ms
+KeyDown 80 1
+Delay 500 ms
+KeyUp 80 1
+Delay 5 ms
+GoWhile 1 20</Syntax>
+    </KeyDown>
+    <Software>The Heart of Darkness</Software>
+  </DefaultMacro>
+</Root>

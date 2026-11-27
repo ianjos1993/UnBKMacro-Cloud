@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Убирает отдачу на ВСЁМ автоматическом оружии
+
+В Apex Legends существует такая механика стрельбы, суть которой заключается в том, что отдача оружия пропадает, если во время стрельбы ОЧЕНЬ-ОЧЕНЬ быстро крутить прицел по очень маленькому кругу.
+Этот макрос выполняет именно эту функцию! Таким образом пропадает отдача на всём автоматическом оружии (Скорострельность и обвесы не важны). Чем выше сенса в игре, тем лучше будет результат!
+Очень комфортно играть с 4х и 3х прицелами.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 1 1
+Delay 10 ms
+MoveR 1 -1
+Delay 10 ms
+MoveR -1 -1
+Delay 10 ms
+MoveR -1 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

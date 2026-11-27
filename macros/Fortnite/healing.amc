@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>удобный макрос для быстрого использования хилок, макрос жмет на кнопку 5 начинает хил и после отхила возвращает прежнее оружие на место</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

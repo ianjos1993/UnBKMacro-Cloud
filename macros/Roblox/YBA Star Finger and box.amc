@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>Сп Мини комбо с боксом</Major>
+    <Description>Этот макрос делает мини комбо в режиме YBA, он используется со спеком бокс. Комбо должно использовоться с перчатками во 2 слоту.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 10 ms
+KeyUp 31 1
+Delay 10 ms
+KeyDown 6 1
+Delay 10
+KeyUp 6 1
+Delay 10
+KeyDown 23 1
+Delay 10
+KeyUp 23 1
+Delay 1050 ms
+KeyDown 28 1
+Delay 10 ms
+KeyUp 28 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

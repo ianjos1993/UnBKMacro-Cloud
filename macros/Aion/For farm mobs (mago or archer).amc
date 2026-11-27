@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простой макрос для комфортного фарма
+
+Всё просто, биндим на клавишу и нажимаем на клавишу и всё готово!
+
+P.S Если не работает,  делаем настройки клавишь как прописаны или же поставить можно свои.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 6 ms
+KeyUp 21 1
+Delay 4
+KeyDown 24 1
+Delay 4
+KeyUp 24 1
+Delay 4
+KeyDown 11 1
+Delay 4
+KeyUp 11 1
+Delay 4
+KeyDown 32 1
+Delay 4
+KeyUp 32 1
+Delay 2 ms
+KeyDown 36 1
+Delay 4
+KeyUp 36 1
+Delay 6 ms
+KeyDown 24 1
+Delay 4
+KeyUp 24 1
+Delay 2 ms</Syntax>
+    </KeyDown>
+    <Software>AION</Software>
+  </DefaultMacro>
+</Root>

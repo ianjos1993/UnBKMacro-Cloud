@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>C - хекс
+X - апнутый гост
+Z - дагон
+Q - 1 скилл
+W - 2 скилл 
+
+
+максимально оптимальное комбо 
+Описание: для игры в доту 2 на герои NIX ASSASSIN 
+если у вас не получаеться 5милионами ударов сосисками по клаве нажимать по 6 кнопок</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+Delay 1 ms
+KeyDown 27 1
+Delay 1 s
+KeyDown 29 1
+Delay 1 ms
+KeyDown 20 1
+KeyDown 26 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

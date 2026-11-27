@@ -1,0 +1,98 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос предназначен для автофарма валюты, разрешение 1920х1080, перед началом окрыть окно с с событием. Макрос сам запустит игру и выйдет, если багается запустить от имени администратора keyran</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 200 ms
+MoveTo 290 734
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+MoveTo 290 734
+Delay 64 ms
+MoveTo 290 734
+Delay 500 ms
+MoveTo 642 880
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+MoveTo 642 880
+Delay 80 ms
+MoveTo 882 800
+Delay 200 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+MoveTo 882 800
+Delay 800 ms
+MoveTo 171 1047
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+MoveTo 171 1047
+Delay 500 ms
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+MoveTo 171 1047
+Delay 500 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+MoveTo 171 1047
+Delay 64 ms
+Delay 500 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+MoveTo 171 1047
+Delay 64 ms
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Warface</Software>
+  </DefaultMacro>
+</Root>

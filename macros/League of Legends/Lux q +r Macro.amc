@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This high-precision macro allows Lux players to execute the deadly "Root &amp; Laser" combo instantly. It triggers the Binding (Q) followed by Final Spark (R) with optimized delays to ensure the ultimate animation starts while the Q projectile is still in flight. This minimizes the opponent's reaction time and maximizes burst efficiency.
+
+Technical Details:
+
+Optimized Delays: 30ms internal delay to ensure the game registers both inputs without animation canceling issues.
+
+Compatibility: Designed for high-speed gameplay and prevents input ghosting.
+
+Instructions:
+
+Set Q and R to Quick Cast (Smart Cast) in LoL settings.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 31 ms
+KeyDown 20 1
+Delay 117 ms
+KeyDown 21 1
+Delay 9 ms
+KeyUp 20 1
+Delay 70 ms
+KeyUp 21 1
+Delay 88 ms
+KeyDown 21 1
+Delay 67 ms
+KeyUp 21 1</Syntax>
+    </KeyDown>
+    <Software>League of legends</Software>
+  </DefaultMacro>
+</Root>

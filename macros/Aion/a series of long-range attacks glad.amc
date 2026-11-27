@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Серия дальних атак для гладиатора на одно кнопку три дальника из 3 скиллов: блистательный удар и его серия, провоцирующий удар. Все дальние атаки расместить на кнопки Z  X  C</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+KeyDown 226 1
+KeyUp 226 1
+KeyUp 29 1
+Delay 15 ms
+KeyDown 27 1
+KeyDown 226 1
+KeyUp 226 1
+KeyUp 27 1
+Delay 15 ms
+KeyDown 6 1
+KeyUp 6 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>AION</Software>
+  </DefaultMacro>
+</Root>

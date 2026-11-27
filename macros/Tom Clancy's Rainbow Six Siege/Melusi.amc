@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major>Lowers recoil</Major>
+    <Description>Настройки:
+1900 dpi mouse 
+6 sens
+1920x1080
+4:3
+
+Описание:
+Макрос для компенсации отдачи на персонажа.
+
+Рекомендую выставить настройки как указано выше, для получения лучшей компенсации.
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+MoveR 2 6
+Delay 15 ms
+MoveR 2 6
+Delay 15 ms
+MoveR -1 4
+Delay 15 ms
+MoveR 1 6
+Delay 15 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

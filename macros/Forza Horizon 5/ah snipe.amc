@@ -1,0 +1,89 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This is a macro which snipes the first two cars with kinimum buyout of 20 million from the auction house
+It is on a loop of 5 times so the total number of cars sniped = 10
+
+To use thi you need to have 200 million in credits in forza horizion</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1514 ms
+KeyDown 88 1
+Delay 9 ms
+KeyUp 88 1
+Delay 710 ms
+KeyDown 27 1
+Delay 85 ms
+KeyUp 27 1
+Delay 646 ms
+KeyDown 88 1
+Delay 100 ms
+KeyUp 88 1
+Delay 8755 ms
+KeyDown 28 1
+Delay 46 ms
+KeyUp 28 1
+Delay 810 ms
+KeyDown 81 1
+Delay 84 ms
+KeyUp 81 1
+Delay 143 ms
+KeyDown 88 1
+Delay 65 ms
+KeyUp 88 1
+Delay 708 ms
+KeyDown 88 1
+Delay 84 ms
+KeyUp 88 1
+Delay 5056 ms
+KeyDown 88 1
+Delay 91 ms
+KeyUp 88 1
+Delay 2169 ms
+KeyDown 41 1
+Delay 135 ms
+KeyUp 41 1
+Delay 1542 ms
+KeyDown 81 1
+Delay 88 ms
+KeyUp 81 1
+Delay 558 ms
+KeyDown 28 1
+Delay 91 ms
+KeyUp 28 1
+Delay 717 ms
+KeyDown 81 1
+Delay 87 ms
+KeyUp 81 1
+Delay 132 ms
+KeyDown 88 1
+Delay 66 ms
+KeyUp 88 1
+Delay 499 ms
+KeyDown 88 1
+Delay 73 ms
+KeyUp 88 1
+Delay 11933 ms
+KeyDown 88 1
+Delay 15 ms
+KeyUp 88 1
+Delay 1066 ms
+KeyDown 41 1
+Delay 115 ms
+KeyUp 41 1
+Delay 377 ms
+KeyDown 41 1
+Delay 111 ms
+KeyUp 41 1
+Delay 1804 ms
+GoWhile 1 5</Syntax>
+    </KeyDown>
+    <Software>Forza Horizon 5</Software>
+  </DefaultMacro>
+</Root>

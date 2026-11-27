@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major>Castle Crashers Lightweight Juggle</Major>
+    <Description>Simply jump and hold down your perfered keybind with the default controls in Castle Crashers and your character will automatically start lightweight juggling for you.
+
+(does not work on green knight since the timing for green knight juggle is different than all the other characters)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 116 ms
+KeyUp 4 1
+Delay 99 ms
+KeyDown 4 1
+Delay 152 ms
+KeyUp 4 1
+Delay 116 ms
+KeyDown 26 1
+Delay 163 ms
+KeyUp 26 1
+Delay 72 ms
+KeyDown 26 1
+Delay 196 ms
+KeyUp 26 1
+Delay 110 ms</Syntax>
+    </KeyDown>
+    <Software>Castle Crashers</Software>
+  </DefaultMacro>
+</Root>

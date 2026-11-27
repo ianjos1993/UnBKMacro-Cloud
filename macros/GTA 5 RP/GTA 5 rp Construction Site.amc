@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Экономит время нажатия кнопок, сохраняет целостность клавиатуры.
+
+Важно для RP-этикета
+Не нарушайте immersion — используйте только для рутины (поворот объектов, массовая установка окон).
+
+Избегайте банов — настройте задержки Random(500, 1200) для серверов с strict античитами.
+
+Тестируйте в одиночном режиме перед использованием на RP-сервере!
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 28 1
+Delay 64
+KeyUp 28 1
+Delay 64
+KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

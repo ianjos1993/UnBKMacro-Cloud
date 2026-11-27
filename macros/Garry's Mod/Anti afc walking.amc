@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос для ходьбы в гаррсе чтобы на многих серверах тебя не кикнуло. вы делаете примерно вот такое движение U
+сам поьзуюсь очень нравится.
+Инструкция: 
+1.назначили клавишу (любую)
+2. нажал клавишу 
+3. и все каждые 5-7 минут движения повторяются </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 500 ms
+KeyDown 7 1
+Delay 500 ms
+KeyUp 22 1
+Delay 500 ms
+KeyDown 26 1
+Delay 500 ms
+KeyUp 7 1
+Delay 500 ms
+KeyUp 26 1
+Delay 500 ms
+KeyDown 22 1
+Delay 500 ms
+KeyDown 4 1
+Delay 500 ms
+KeyUp 22 1
+Delay 500 ms
+KeyDown 26 1
+Delay 500 ms
+KeyUp 4 1
+Delay 500 ms
+KeyUp 26 1
+Delay 5 7 min</Syntax>
+    </KeyDown>
+    <Software>Garry´s Mod</Software>
+  </DefaultMacro>
+</Root>

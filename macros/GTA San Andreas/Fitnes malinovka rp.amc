@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major>Жим и сила для малиновки</Major>
+    <Description>Этот макрос предназначен для использования в игре Malinovka rp и позволяет выполнить упражнения на тренажере во время игры без проблем. Для использования макроса, вам необходимо подойти к тренажеру, такому как гантели или жим, и активировать макрос. После этого вы можете начать заниматься, а макрос будет автоматически выполнять нужные действия в игре.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 5 0 255,255,255 255,255,255 1 1025 927 896 154 1 0
+KeyDown 20 1
+Delay 64 ms
+KeyUp 20 1
+Delay 64 ms
+GoColor 10 0 255,255,255 255,255,255 1 1139 927 782 154 1 0
+KeyDown 26 1
+Delay 64 ms
+KeyUp 26 1
+Delay 64 ms
+GoColor 15 0 255,255,255 255,255,255 1 1205 931 716 150 1 0
+KeyDown 8 1
+Delay 64 ms
+KeyUp 8 1
+Delay 64 ms
+GoColor 20 0 255,255,255 255,255,255 1 1103 993 818 88 1 0
+KeyDown 4 1
+Delay 64 ms
+KeyUp 4 1
+Delay 64 ms
+GoColor 25 0 255,255,255 255,255,255 1 1140 991 781 90 1 0
+KeyDown 22 1
+Delay 64 ms
+KeyUp 22 1
+Delay 64 ms
+GoColor 30 0 255,255,255 255,255,255 1 1205 993 716 88 1 0
+KeyDown 7 1
+Delay 64 ms
+KeyUp 7 1
+Delay 64 ms</Syntax>
+    </KeyDown>
+    <Software>GTA San Andreas</Software>
+  </DefaultMacro>
+</Root>

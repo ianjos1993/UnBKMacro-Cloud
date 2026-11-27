@@ -1,0 +1,60 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для оперативника поддержки Алмаз с навыком от ФАРО "тяжелый ствол", минимизирует разброс короткими очередями,
+Уменьшает отдачу в прицеле, Без прицеливания-снижен разброс.
+Навык от Фаро ставить обязательно 
+Вертикальную синхронизацию отключить
+Мышь на 50.0
+Экран 1980*1090
+Назначаете на ЛКМ  на активацию и в бой.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 2 3
+Delay 19 ms
+MoveR 1 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 1 3
+Delay 19 ms
+MoveR 2 3
+Delay 19 ms
+MoveR 2 3
+Delay 19 ms
+MoveR 1 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 1 3
+Delay 19 ms
+MoveR 2 3
+Delay 19 ms
+MoveR 1 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 1 3
+Delay 19 ms
+MoveR 2 3
+Delay 19 ms
+MoveR 2 3
+Delay 19 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Caliber</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Никогда не занимался подобным, но решил, и сделал вполне хороший скрипт на такси, без бесконечных перемещений курсора, без долгих задержек на каждом действий - всё работает быстро и эффективно.
+Скрипт для ловли клиентов в такси на замечательном проекте MTA Province. Суть скрипта - ловить заказ в такси быстрее всех.
+Скрипт делал _BbezNikaa_
+Инструкция по эксплуатации:
+1)Разрешение - 1920x1080
+2)Выставляем скрипт на любую кнопку(можно даже на цифру 2, проблем не будет)
+3)Устраиваемся в такси в мта и садимся в машинку
+4)Видим прилетает заказ, нажимаем на установленную ранее кнопку и скрипт все за вас сделает(не трогаем мышку)
+Всё легко и просто, все заказы ваши :)
+Мой промокод на 5 сервере: Podolsky1
+Мой промокод на 7 сервере: beznika
+Удачного использования!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 50 ms
+KeyUp 31 1
+Delay 140 ms
+MoveTo 791 408
+LeftDown 1
+Delay 45 ms
+LeftUp 1
+Delay 50 ms
+MoveTo 773 694
+LeftDown 1
+Delay 45 ms
+LeftUp 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,77 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Здравствуйте! Этот макрос предназначен для автоматического использования яиц/снежков в pvp. Чтобы использовать его, возьмите во 2-ой слот меч или любое другое оружие, а в 3-ий слот яйца либо же снежки, Теперь при испольовании макроса, вы будете кидать снежки и атаковать без особых усилий. Достаточно лишь наводиться на противника. Но для удобства советую назначить макрос на правую кнопку мыши. Прошу заметить, чтобы использовать макрос, нажмите на поставленную кнопку, чтобы остановить его - нажмите еще раз.
+
+Чтобы установить макрос, выполните следующие шаги:
+1. Скачайте файл макроса.
+2. Назначьте его на любую удобную клавишу. Желательно ПКМ.
+3. Все, теперь вы можете использовать макрос в игре.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 30
+KeyUp 32 1
+Delay 30
+RightDown 1
+Delay 30
+RightUp 1
+Delay 30
+KeyDown 31 1
+Delay 30
+KeyUp 31 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+KeyDown 32 1
+Delay 30
+KeyUp 32 1
+Delay 30
+RightDown 1
+Delay 30
+RightUp 1
+Delay 30
+KeyDown 31 1
+Delay 30
+KeyUp 31 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+KeyDown 32 1
+Delay 30
+KeyUp 32 1
+Delay 30
+RightDown 1
+Delay 30
+RightUp 1
+Delay 30
+KeyDown 31 1
+Delay 30
+KeyUp 31 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

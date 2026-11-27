@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот Макрос позволяет прожимать 
+Ульт затем скорп блинкуется в место где находиться курсор дает деил дискорд затем стан и после второй скил, очень удобно для инициации что бы дать все по таймингу
+Ульт на букве (R)
+Блинк на (space)
+Веил Дискорд на (X)
+Стан на букве (Q)
+Писок на (W)
+
+
+
+
+Макрос работает только со влюченной функцией "Быстрое применение способностей и предметов"</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+KeyUp 21 1
+Delay 2300 ms
+KeyDown 44 1
+KeyUp 44 1
+Delay 64 ms
+KeyDown 27 1
+Delay 64
+KeyUp 27 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

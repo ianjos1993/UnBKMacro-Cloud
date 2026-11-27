@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major>данилка</Major>
+    <Description>Этот макрос моментально кастует SunStrike и отправляетс его в место где стоит курсор,
+1 скилл - q
+2 скилл - w
+3 скилл - e
+4 скилл - d
+5 скилл - f
+Ульт - r
+Удачи в игре!</Description>
+    <Comment>в файл внесены изменения</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+KeyUp 8 1
+KeyDown 8 1
+KeyUp 8 1
+KeyDown 8 1
+KeyUp 8 1
+KeyDown 21 1
+Delay 133 ms
+KeyUp 21 1
+KeyDown 7 1
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

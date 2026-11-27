@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для улучшения навыков приготовления наживки, прикормки и приманок с автоматическим выбросом. Подходит для разрешения экрана1920x1080. </Description>
+    <Comment>Опробовал лично, всё делается автоматически! </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 870 994
+Delay 163 ms
+LeftDown 1
+Delay 128 ms
+LeftUp 1
+Delay 4296 ms
+KeyDown 42 1
+Delay 95 ms
+KeyUp 42 1
+Delay 340 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Russian Fishing 4</Software>
+  </DefaultMacro>
+</Root>

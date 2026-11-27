@@ -1,0 +1,28 @@
+<Root>
+  <!-- by Britan -->
+  <DefaultMacro>
+    <Major></Major>
+    <Description>НАЗВАНИЕ: Overwatch 2 Ability Combo. ОПИСАНИЕ: Быстрая комбинация способностей: Shift (main ability) -&gt; E (secondary) -&gt; Left Click (атака). Идеально для дуэлянтов (Tracer, Genji, Reaper). РЕКОМЕНДУЕМАЯ КЛАВИША: Mouse 4 (Side). КАК ИСПОЛЬЗОВАТЬ: Привяжи макрос на кнопку Mouse 4. Перед атакой нажми Mouse 4 - макрос активирует Shift, E и кликнет для выстрела. Однократное выполнение. НАСТРОЙКА: Если у героя другие клавиши - замени KeyDown 16 (Shift) и KeyDown 69 (E). АВТОР: by Britan. ЗАПРЕЩЕНО копировать без указания автора.</Description>
+    <Comment>Привязка: Mouse 4 (Side). Режим: однократное. Инструкция: перед атакой нажми - Shift -&gt; E -&gt; клик.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 16 1
+Delay 30 ms
+KeyUp 16 1
+Delay 60 ms
+KeyDown 69 1
+Delay 30 ms
+KeyUp 69 1
+Delay 40 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Overwatch</Software>
+  </DefaultMacro>
+</Root>

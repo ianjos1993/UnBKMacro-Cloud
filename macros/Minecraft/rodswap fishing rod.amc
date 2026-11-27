@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос создан исключительно для родсвапа и автоматической установки лавы под игроком.
+Инструкция по использованию макроса:
+1.Скачиваем макрос.
+2.Биндим на удобную вами клавишу. советую CTRL или F
+3.Ставим на одноразовое исользование при одноразовом нажатий.
+4.Заходим в игру.
+5 ВНИМАНИЕ расположение слотов должно быть такое 1 слот меч 4 слот лава и 9 слот удочка.
+Итак после того как вы попали удочкой в противника направьте мышь ему под ноги макрос поставит и уберет лаву автоматически что даст вам некое преимущество.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 38 1
+Delay 5 ms
+KeyUp 38 1
+Delay 20 ms
+RightDown 1
+Delay 20 ms
+RightUp 1
+Delay 120 ms
+KeyDown 30 1
+Delay 5 ms
+KeyUp 30 1
+Delay 5 ms
+KeyDown 33 1
+Delay 20 ms
+KeyUp 33 1
+Delay 20 ms
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

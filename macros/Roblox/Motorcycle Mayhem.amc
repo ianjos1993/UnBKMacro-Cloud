@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro is for Motorcycle Mayhem game, in this macro you can auto wheelie, put in the operation mode, unitl pressed again, and if you want to put more time in the wheelie you can change it too 
+
+Controls
+
+WASD for drive
+M for Manual gears
+CRTL for Wheelie
+V switch cam
+E and Q switch gears down and up  
+
+Instructions:
+1. Get in the game and spawn a bike
+2. drive the bike, activate the macro, control the bike direction with A and D, the macro will do W to accelerate
+3. With the macro the bike will do a wheelie so be ready to control it, if u want to stop, turn off the macro, and PRESS S for break</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 7 s
+KeyUp 26 1
+Delay 10 ms
+KeyDown 224 1
+Delay 1 min
+KeyUp 224 1
+Delay 10 ms
+KeyDown 26 1
+Delay 1 min
+KeyUp 26 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

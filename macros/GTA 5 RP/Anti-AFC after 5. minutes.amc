@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Начинает макрос после 5.минут ожидания.
+Прозволяет афкашить на любом сервере GTA 5 RP влючая саму GTA 5 OnLine
+Удачного пользования </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 2 s
+KeyUp 26 1
+Delay 64 ms
+KeyDown 22 1
+Delay 1 s
+KeyUp 22 1
+Delay 64 ms
+Delay 5 min</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

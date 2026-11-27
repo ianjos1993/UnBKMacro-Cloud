@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major>anti recoill</Major>
+    <Description>anti recoill очень хорошая анти отдача для фортнайта рекомндую 
+используйте аккуратно . просто зажимаете указаную вами кнопку и мышку тянет в низ на всех оружиех в фортнайт работает отлично . </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR 0 1
+Delay 10 ms
+KeyDown 46 1
+Delay 0 ms
+KeyUp 46 1
+Delay 0 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Macro на оружие - Berdanka( Semi Automatic Rifle )
+
+Игра - сенса - 0.86 (FOV - 85)
+
+/////// Как поставить? \\\\\\\
+
+F1 -&gt; sensitivity 0.86
+
+P.S. Писал с другом, в игре работает отлично.
+
+Удачной игры с KeyRan!
+
+                                                   .But1ch</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 12 ms
+MoveR 0 3
+Delay 12 ms
+MoveR 0 3
+Delay 12 ms
+MoveR 0 4
+Delay 12 ms
+MoveR 0 3
+Delay 12 ms
+MoveR 0 3
+Delay 12 ms
+LeftUp 1
+Delay 24 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

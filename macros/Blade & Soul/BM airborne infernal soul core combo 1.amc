@@ -1,0 +1,103 @@
+<Root>
+  <DefaultMacro>
+    <Major>Blade Master PvP</Major>
+    <Description>Rush opponents stun them deal massive damage then lift them up and use soul core in the air combo.
+
+Skill Requirements: 
+(Rush: Stun(2)), 
+(Lightning Draw(4)),
+(Infernal Lord's Soul Core(")),
+(Flash Step: Additional Damage Effects(F))
+
+Note: If u haven't any of these skills except soul core, edit macro and add "Shoulder Charge(C)" after "Rush(2)" you can use it like this.
+
+Enjoy!
+</Description>
+    <Comment>https://keyran.net - Free macros download</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 150
+KeyUp 31 1
+Delay 150
+KeyDown 21 1
+Delay 150
+KeyUp 21 1
+Delay 200 ms
+KeyDown 33 1
+Delay 150
+KeyUp 33 1
+Delay 100 ms
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 100 ms
+KeyDown 9 1
+Delay 100
+KeyUp 9 1
+Delay 100
+KeyDown 8 1
+Delay 200
+KeyUp 8 1
+Delay 200
+KeyDown 9 1
+Delay 150
+KeyUp 9 1
+Delay 100 ms
+KeyDown 9 1
+Delay 150
+KeyUp 9 1
+Delay 100 ms
+KeyDown 53 1
+Delay 150
+KeyUp 53 1
+Delay 100 ms
+KeyDown 53 1
+Delay 64
+KeyUp 53 1
+Delay 420 ms
+KeyDown 21 1
+Delay 150
+KeyUp 21 1
+Delay 150
+KeyDown 21 1
+Delay 150
+KeyUp 21 1
+Delay 150
+KeyDown 21 1
+Delay 150
+KeyUp 21 1
+Delay 300 ms
+KeyDown 21 1
+Delay 150
+KeyUp 21 1
+Delay 150
+KeyDown 21 1
+Delay 150
+KeyUp 21 1
+Delay 150
+KeyDown 21 1
+Delay 150
+KeyUp 21 1
+Delay 150
+KeyDown 21 1
+Delay 150
+KeyUp 21 1
+Delay 300 ms
+KeyDown 21 1
+Delay 150
+KeyUp 21 1
+Delay 150
+KeyDown 21 1
+Delay 150
+KeyUp 21 1
+Delay 150</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

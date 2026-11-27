@@ -1,0 +1,345 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Étape 1 – Préparation 
+
+
+Mettre Rappelz en résolution 1024×768
+
+
+Positionner la fenêtre de Rappelz tout en haut à gauche de l’écran (coin supérieur gauche, sans marge)
+
+
+Ouvrir l’inventaire et vérifier qu’il est lui aussi tout en haut à gauche, sans déplacement manuel ensuite
+
+
+Ouvrir l’outil de démantèlement
+
+
+Se placer dans l’onglet Équipement
+Étape 2 – Fonctionnement de la macro
+
+
+A) Démantèlement automatique
+
+
+La macro démantèle automatiquement l’équipement en acier
+
+
+Zone de travail :
+
+
+À partir de la 4ᵉ ligne
+
+
+À partir de la 3ᵉ case
+
+
+Les zones suivantes sont ignorées :
+
+
+Lignes 1 à 3
+
+
+Colonnes 1 et 2 de la ligne 4
+
+
+La macro parcourt ensuite la grille normalement (ligne par ligne).
+
+
+
+B) Tri automatique de l’équipement
+
+
+La macro effectue un tri régulier pour que :
+
+
+L’équipement reste toujours en haut
+
+
+Les objets ne changent pas de position après chaque démantèlement
+
+
+Cela garantit la stabilité des coordonnées et évite les erreurs de clic.
+
+Step 1 – Mandatory setup
+Set Rappelz to 1024×768 resolution
+Position the Rappelz window at the top-left corner of the screen (upper-left, no offset)
+Open the inventory and make sure it is also positioned at the top-left, without moving it afterward
+Open the dismantling tool
+Switch to the Equipment tab
+
+Step 2 – Macro behavior
+
+A) Automatic dismantling
+The macro automatically dismantles steel equipment
+Working area:
+Starting from the 4th row
+Starting from the 3rd slot (column 3)
+The following areas are ignored:
+Rows 1 to 3
+Columns 1 and 2 of row 4
+The macro then continues slot by slot across the equipment grid.
+
+B) Automatic equipment sorting
+The macro performs regular sorting so that
+Equipment always stays at the top
+Item positions remain stable after each dismantle
+This prevents item shifting and guarantees reliable slot targeting.
+
+
+
+
+
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 440 200
+MoveTo 637 59
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 554 447
+Delay 64
+LeftDown 1
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 64 ms
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 s
+MoveTo 440 200
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 476 201
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 513 203
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 543 201
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+MoveTo 649 234
+MoveTo 581 198
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 608 201
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 648 205
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 370 233
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 399 235
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 442 237
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 475 242
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 505 234
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 510 237
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 546 238
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 577 231
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 613 235
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 369 270
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 404 270
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 441 269
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 172 486
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Rappelz</Software>
+  </DefaultMacro>
+</Root>

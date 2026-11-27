@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>фастзум св-98</Major>
+    <Description>Фастузм + автошот на св-98
+При наведении прицела на цель, вы нажимаете бинд на клавишу, после чего происходит мгновенный выстрел.
+Удачных игр!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 170 ms
+RightUp 1
+Delay 295 ms
+LeftDown 1
+Delay 105 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Warface</Software>
+  </DefaultMacro>
+</Root>

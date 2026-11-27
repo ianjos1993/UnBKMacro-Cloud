@@ -1,0 +1,54 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматечески убирает мусор из инвентаря
+Работает только елси вам доступна эта команда
+Помогает при комании ценных руд,незерита или каких небудь структур</Description>
+    <Comment>тут был зак</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 64
+KeyDown 56 1
+Delay 64
+KeyUp 56 1
+Delay 64
+KeyDown 10 1
+Delay 22
+KeyUp 10 1
+Delay 22
+KeyDown 4 1
+Delay 22
+KeyUp 4 1
+Delay 22
+KeyDown 21 1
+Delay 22
+KeyUp 21 1
+Delay 22
+KeyDown 5 1
+Delay 22
+KeyUp 5 1
+Delay 22
+KeyDown 4 1
+Delay 22
+KeyUp 4 1
+Delay 22
+KeyDown 10 1
+Delay 22
+KeyUp 10 1
+Delay 22
+KeyDown 8 1
+Delay 22
+KeyUp 8 1
+Delay 22</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>Skyblock Garden carrot farming</Major>
+    <Description>Not fully efficient but if you adjuct 90 degrees to the crops it will autofarm 1 plot using rows of 5 crops. Can be used to farm carrots, potatoes, or other crops that work in this layout. You will need to reset to the start each time, and crops won't be grown by the time you get back to the start, but it works.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64 152 ms
+KeyDown 7 1
+Delay 23 24 s
+KeyUp 7 1
+Delay 64 120 ms
+KeyDown 26 1
+Delay 1752 1858 ms
+KeyUp 26 1
+Delay 64 120 ms
+KeyDown 4 1
+Delay 23 24 s
+KeyUp 4 1
+Delay 64 120
+KeyDown 26 1
+Delay 1752 1858 ms
+KeyUp 26 1
+Delay 64 120 ms
+GoWhile 2 8</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

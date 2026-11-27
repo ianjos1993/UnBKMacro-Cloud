@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всем привет, на связи популярный СНГ Скриптер Uninon INC.
+В пб добавили новую снайперку за дейлики, Bora12-SL
+Многим она зашла, и я решил написать на неё макрос с лучшими таймингами.
+Перки:Ув.точности первого выстрела +4
+Скорость, ловкость.
+Так же маска на урон и броню, макрос ставим на ЛКМ или любую другую удобную клавишу.
+Мне больше всего удобнее Доп.Кнопка.Мыши №3
+Дерзайте^^</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 15 ms
+LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 15 ms
+KeyDown 32 1
+Delay 15 ms
+KeyUp 32 1
+Delay 15 ms
+KeyDown 30 1
+Delay 15 ms
+KeyUp 30 1
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>PointBlank</Software>
+  </DefaultMacro>
+</Root>

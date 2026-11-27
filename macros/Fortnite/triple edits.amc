@@ -1,0 +1,57 @@
+<Root>
+  <DefaultMacro>
+    <Major>forrtnite</Major>
+    <Description>Fortnite triple edits with keybinds e for edit. q for ramp o for roof l for floor and lmb for confirm/edit. look straight forwards with your pickaxe out, then hold W or your move forwards keybind and it will automatically triple edit for you. resolution 1920x1080 1600dpi 4.5% x and y sensitivity.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveR 0 -700
+KeyDown 54 1
+Delay 64
+KeyUp 54 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 18 1
+Delay 64
+KeyUp 18 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

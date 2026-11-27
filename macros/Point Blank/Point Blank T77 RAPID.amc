@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This is the first script for the weapon T77, I've made this script for those who love using the T77 smg weapon. This is what they called "RAPID", because as you hold the toggle click i will fire at a rapid speed with horizontal recoil. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 10
+LeftUp 1
+Delay 11 ms
+LeftDown 1
+Delay 10
+LeftUp 1
+Delay 11 ms
+LeftDown 1
+Delay 10
+LeftUp 1
+Delay 11 ms
+LeftDown 1
+Delay 10
+LeftUp 1
+Delay 11 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

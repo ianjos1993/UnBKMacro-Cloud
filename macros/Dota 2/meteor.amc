@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major>meteor + daefening blade</Major>
+    <Description>this macro allows you to have meteor and daefenig blade. if your level is low, press R one more time to get the DB</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 30
+KeyUp 26 1
+Delay 30
+KeyDown 8 1
+Delay 30
+KeyUp 8 1
+Delay 30
+KeyDown 8 1
+Delay 30
+KeyUp 8 1
+Delay 30
+KeyDown 21 1
+Delay 30
+KeyUp 21 1
+Delay 1000 ms
+KeyDown 20 1
+Delay 30
+KeyUp 20 1
+Delay 30
+KeyDown 26 1
+Delay 30
+KeyUp 26 1
+Delay 30
+KeyDown 8 1
+Delay 30
+KeyUp 8 1
+Delay 30
+KeyDown 21 1
+Delay 30
+KeyUp 21 1
+Delay 30</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

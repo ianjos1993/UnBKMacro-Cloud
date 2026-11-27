@@ -1,0 +1,56 @@
+<Root>
+  <DefaultMacro>
+    <Major>automatic use of skills</Major>
+    <Description>Макрос для класса Archmage. Автоматическое использование скилов Surrender To Fire, Prominence, Fire Vortex и Inferno для пвп. На пвп серверах с полным бафом можно спокойно, как и фармить мобов так и драться в пвп. Задержку лучше выбирать минимальную.
+1 Surrender To Fire
+2  Prominence
+3 Fire Vortex
+4 Inferno</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+Delay 1 ms
+KeyDown 31 1
+Delay 1 ms
+KeyUp 31 1
+Delay 1 ms
+KeyDown 31 1
+Delay 1 ms
+KeyUp 31 1
+Delay 1 ms
+KeyDown 32 1
+Delay 1 ms
+KeyUp 32 1
+Delay 1 ms
+KeyDown 31 1
+Delay 1 ms
+KeyUp 31 1
+Delay 1 ms
+KeyDown 31 1
+Delay 1 ms
+KeyUp 31 1
+Delay 1 ms
+KeyDown 33 1
+Delay 1 ms
+KeyUp 33 1
+Delay 1 ms
+KeyDown 31 1
+Delay 1 ms
+KeyUp 31 1
+Delay 1 ms
+KeyDown 31 1
+Delay 1 ms
+KeyUp 31 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

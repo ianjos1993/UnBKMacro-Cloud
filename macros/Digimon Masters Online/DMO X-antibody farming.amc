@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Good morning, everyone! I'm back with some macros for farming X-Antibody for sustaining the X evolution.
+
+First, make sure you have an X-evolution with strong attack damage. Craniumon X is a good example, Examon X is another. You will most likely need a Critical Damage (100%) plugin card so you can fast kill any digi. If you are not strong enough, feel free to edit this macro and change the "1" with skill "F1".
+
+Also, don't forget to put the X-Antibody on F5 so it will keep the X bar going.
+
+So, in order to get the best from this macro, I recommend going to Versandi Terminal, Nanomon place, and go to the back, where you will have 4/5 Nanomons respawning constantly. You wont get exhaustion points, so you won't be reported!
+
+Any doubts, feel free to contact me! Have a good farming!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 150 ms
+KeyUp 43 1
+Delay 150 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64 ms
+GoWhile 1 200
+KeyDown 62 1
+Delay 64
+KeyUp 62 1
+Delay 64
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Digimon Masters Online</Software>
+  </DefaultMacro>
+</Root>

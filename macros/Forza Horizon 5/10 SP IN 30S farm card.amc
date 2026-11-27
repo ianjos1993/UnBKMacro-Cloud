@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>1. Выбираем карту 10 SP IN 30S
+2. Проезжаем полностью гонку и ждем пока появятся результаты
+3. Далее просто запускаем макрос
+
+Машина сама будет проезжать эту гонку н-ое количество раз и фармить тем самым автоталанты.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 27 1
+Delay 85 ms
+KeyUp 27 1
+Delay 3019 ms
+KeyDown 88 1
+Delay 89 ms
+KeyUp 88 1
+Delay 11159 ms
+KeyDown 88 1
+Delay 112 ms
+KeyUp 88 1
+Delay 4021 ms
+KeyDown 26 1
+Delay 34227 ms
+KeyUp 26 1
+Delay 10 s
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Forza Horizon 5</Software>
+  </DefaultMacro>
+</Root>

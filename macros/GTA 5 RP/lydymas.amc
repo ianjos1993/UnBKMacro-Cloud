@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major>Rock melting</Major>
+    <Description>Easy to use macro,  melts rock every 9 secs (time it takes to mine a rock), repeats 47 times (full inventory). </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 9 s
+GoWhile 1 47</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

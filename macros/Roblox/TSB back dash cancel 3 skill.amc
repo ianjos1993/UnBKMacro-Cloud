@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major>TSB backdash cancel 3 skill</Major>
+    <Description>Макрос позволяющий совершить backdash cancel и мгновенно использовать 3 скилл(чаще всего на сайтаме) в игре the strongest battlegrounds
+более правильный чем другие выложенные,работает на любом пинге,
+</Description>
+    <Comment>backdash cancel  не работает сразу после side dash(так задуманно игрой)</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 10 ms
+KeyDown 32 1
+KeyUp 32 1
+Delay 10 ms
+KeyDown 20 1
+KeyUp 20 1
+KeyUp 22 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

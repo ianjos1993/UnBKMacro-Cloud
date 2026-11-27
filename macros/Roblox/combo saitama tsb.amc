@@ -1,0 +1,71 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для игры TSB, макрос был создан для использования лёгкого, но хорошего комбо для новичков в этой игре, из него выбраться будет трудно, желательно чтобы у противника не было деша(эвейда), так как он с лёгкостью может выбраться из комбо.Инструкция по использованию макроса-подойдите к противнику и быстро используйте макрос, если хотите исправить начало комбо на другую комбинацию уберите первый клик в редакторе или же прибавьте его, выполнять макрос на пинге 75 либо же 90, Разрешение экрана на котором выполнялся макрос-1920x1080, фпс-240,если хотите понять как используется начало комбо, посмотрите видеоурок по этой фишке, если же хотите, могу показать наглядно на самой платформе, ник в игре-UnluckyElitex.Использовать на персонаже-сайтама(1 в списке выбора персонажей) Удачи в использовании!</Description>
+    <Comment>макрос для комбо на сайтаме, желательно для новичков, фпс-240, пинг около 100, желательно 75.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 300 ms
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 32 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 100 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 100 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 100 ms
+KeyDown 30 1
+KeyUp 30 1
+Delay 95 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

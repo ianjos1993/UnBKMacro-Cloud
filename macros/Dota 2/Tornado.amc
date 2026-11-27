@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>Instant Tornado для Invoker</Major>
+    <Description>Мнгновенно кастует торнадо и применяет. Торнадо летит вперед от героя и поднмает в воздух всех вражеских юнитов на пути. Удобно использовать при самостоятельном прокасте, а так же при сейве себя и своих союзников. Для првильной работы макроса нужно переназначить клавиши сфер на Z X C и первый слот способности на Q. Макрос работает с рандомными задержками что даст защиту от античита.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 27 1
+Delay 25 30 ms
+KeyUp 27 1
+Delay 25 30 ms
+KeyDown 27 1
+Delay 25 30 ms
+KeyUp 27 1
+Delay 25 30 ms
+KeyDown 29 1
+Delay 25 30 ms
+KeyUp 29 1
+Delay 25 30 ms
+KeyDown 21 1
+Delay 25 30 ms
+KeyUp 21 1
+Delay 50 ms
+Delay 50 ms
+KeyDown 20 1
+Delay 25 30 ms
+KeyUp 20 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

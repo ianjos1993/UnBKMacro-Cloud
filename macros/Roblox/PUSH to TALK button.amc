@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major>(QOL) macro</Major>
+    <Description>In the game roblox, there is always a problem for many with the fact that there is no click button to speak. it was necessary to always hover the cursor and turn it on. I made a good solution to this!
+
+This macro allows you to bind your button at will, which will turn on and off the voice chat in roblox.
+ I hope this QOL macro will help you play more comfortably!
+
+-- for the macro to work well, it must have a resolution of 1920 by 1080 in a full-screen roblox.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1 ms
+MoveTo 187 49
+Delay 1 ms
+MoveTo 187 49
+Delay 1 ms
+MoveTo 186 49
+Delay 1 ms
+MoveTo 181 34
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 186 49
+Delay 3 ms
+MoveTo 186 49
+Delay 1 ms
+MoveTo 186 49
+Delay 1 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

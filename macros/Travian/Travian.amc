@@ -1,0 +1,453 @@
+<Root>
+  <DefaultMacro>
+    <Major>Травиан фарм-лист</Major>
+    <Description>Отправка фарма по листам голд клуба, заказ войск, нпс кропа, отправка реса из стола в оффку. Работает при условии наличия голд клуба и травиан+, деревни должны быть расположены в порядке 1 оффка, 2 столица, фармлист первой ссылкой голд клуба. Сделано на войсках Галлов, строятся мечи и громы. Так же для корректной работы требуется разрешение экрана 1920х1080</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 500 1000 ms
+MoveTo 726 91 776 139
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 275 438 404 461
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 1126 359 1226 380
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 10 15 min
+MoveTo 726 91 776 139
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 275 438 404 461
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 1126 359 1226 380
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 10 15 min
+MoveTo 726 91 776 139
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 275 438 404 461
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 1126 359 1226 380
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 10 15 min
+MoveTo 726 91 776 139
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 275 438 404 461
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 1126 359 1226 380
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+//Отправка кропа в старт
+Delay 1 60 s
+MoveTo 1394 462 1553 482
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 1000 2000 ms
+MoveTo 1475 213 1502 241
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 681 390 794 419
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 728 255 880 279
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 2000 3000 ms
+MoveTo 725 288 1193 316
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 1041 515 1069 540
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 1080 635 1198 666
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+//Закончено отправка кропа
+//Заказ Громов
+Delay 420 510 s
+MoveTo 1394 444 1557 462
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 2000 3000 ms
+MoveTo 1565 213 1591 239
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 1073 956 1215 980
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 1058 639 1202 664
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 1058 639 1202 664
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 977 962 988 973
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 1905 1025 1917 1040
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 678 998 763 1019
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+//Закончен заказ громов
+Delay 1 30 s
+MoveTo 726 91 776 139
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 275 438 404 461
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 1126 359 1226 380
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 10 15 min
+MoveTo 726 91 776 139
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 275 438 404 461
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 1126 359 1226 380
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 10 15 min
+MoveTo 726 91 776 139
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 275 438 404 461
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 1126 359 1226 380
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 10 15 min
+MoveTo 726 91 776 139
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 275 438 404 461
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 1126 359 1226 380
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+//Отправка кропа в старт
+Delay 1 60 s
+MoveTo 1394 462 1553 482
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 1000 2000 ms
+MoveTo 1475 213 1502 241
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 681 390 794 419
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 728 255 880 279
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 2000 3000 ms
+MoveTo 725 288 1193 316
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 1041 515 1069 540
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 1080 635 1198 666
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+//Закончено отправка кропа
+Delay 420 510 s
+//Заказ Мечей
+MoveTo 1394 444 1557 462
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 2000 3000 ms
+MoveTo 1521 213 1547 237
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 1073 956 1215 980
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 1058 639 1202 664
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 1058 639 1202 664
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 977 962 988 973
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 1905 1025 1917 1040
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 678 998 763 1019
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+//Закончен заказ мечей
+Delay 1 30 s
+MoveTo 726 91 776 139
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 275 438 404 461
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 1126 359 1226 380
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 10 15 min
+MoveTo 726 91 776 139
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 275 438 404 461
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 1126 359 1226 380
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 10 15 min
+MoveTo 726 91 776 139
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 275 438 404 461
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 1126 359 1226 380
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 10 15 min
+MoveTo 726 91 776 139
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 275 438 404 461
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 1126 359 1226 380
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+//НПЦ кропа 15ха
+Delay 1 60 s
+MoveTo 1394 462 1553 482
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 892 383 1023 492
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 1072 632 1217 658
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 1059 640 1200 664
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+Delay 500 1000 ms
+MoveTo 1053 639 1202 663
+Delay 500 1000 ms
+LeftDown 1
+Delay 132 180 ms
+LeftUp 1
+//Закончено НПЦ 15хи
+Delay 10 15 min</Syntax>
+    </KeyDown>
+    <Software>Другие</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major>Automating the Bloodlust Skill in Rise Online</Major>
+    <Description>Purpose of a Bloodlust Automation Macro
+
+The primary objective of a Bloodlust macro is to:
+
+Ensure Bloodlust is activated immediately after its cooldown ends
+
+Prevent downtime where the buff is inactive
+
+Reduce the need for constant manual monitoring during combat
+
+From a gameplay perspective, this leads to more stable damage output and smoother combat flow, especially during long grinding or PvE sessions.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 61 1
+Delay 15 ms
+KeyUp 61 1
+Delay 15 ms
+KeyDown 34 1
+Delay 15 ms
+KeyUp 34 1
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>Rise Online</Software>
+  </DefaultMacro>
+</Root>

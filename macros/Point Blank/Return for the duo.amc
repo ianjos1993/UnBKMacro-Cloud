@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для контроля отдачи в Point Blank.
+Полностью убирает горизонтальную отдачу, но остается немного вертикальной, которую уже можно нормально контролировать.
+Сам ставлю на ЛКМ, и в BotMek'е ставлю хоткей на активацию/деактивацию.
+P.S.
+Проверте стоит ли в настройках цикл по удержанию клавиши
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 2 ms
+MoveTo 960 540
+Delay 15 ms
+LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 2 ms
+MoveTo 960 540
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

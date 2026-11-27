@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>Прокаст на никса</Major>
+    <Description>space - dagon
+c - этериал либо орчид
+q - 1 скилл
+w - 2 скилл
+Юзаем вендету и после удара нажимаем наш макрос, отрабатывает на ура, по таймингу как раз так, чтобы на нанести макс урон. МОЖЕТЕ ДОБАВИТЬ ЕЩЕ КНОПОК, главное поставьте рандомную задержку</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+Delay 2 30 ms
+KeyUp 6 1
+Delay 1 20 ms
+KeyDown 20 1
+Delay 2 30 ms
+KeyUp 20 1
+Delay 1 20 ms
+KeyDown 44 1
+Delay 1 30 ms
+KeyUp 44 1
+Delay 1 20 ms
+KeyDown 26 1
+Delay 2 30 ms
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

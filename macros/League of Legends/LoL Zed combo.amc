@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major>LoL Zed combo</Major>
+    <Description>LoL zed R-E-Q-aa combo
+Works only at lvl 6 or higher
+fast burst dmg, good vs low hp targets or mages
+90% chance to kill</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 10 ms
+KeyUp 21 1
+Delay 128 ms
+KeyDown 8 1
+Delay 10 ms
+KeyUp 8 1
+Delay 10 ms
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 10 ms
+KeyDown 4 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+KeyUp 4 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>League of legends</Software>
+  </DefaultMacro>
+</Root>

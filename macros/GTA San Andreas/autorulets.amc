@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всех приветствую, макрос создан для открытия рулеток автоматически, включаете игру, открываете меню открытия рулеток и включаете данный макрос, и рулетки будут открываться самостоятельно. 
+В чём + моего макроса, он сделан до мельчайших деталей и без лишних нажатий клавишь, Включили макрос, и ждете пока закончаться рулетки, когда рулетки закончились нажимаете обратно на данную горячую клавишу которая у вас забиндена и все.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 88 1
+Delay 50 ms
+KeyUp 88 1
+Delay 18000 ms
+KeyDown 28 1
+Delay 100 ms
+KeyUp 28 1
+Delay 10 ms
+KeyDown 88 1
+Delay 100 ms
+KeyUp 88 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>GTA San Andreas</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major>AlEl</Major>
+    <Description>Макрос для автоматической рыбалки предназначен для хорошей удочки и блесны. Заброс занимает 4,5 секунды. Программа рассчитана на 70 повторений. Для работы нужно встать на месте, где можно рыбачить, взять удочку и повесить на нее блесну.</Description>
+    <Comment>Время заброса и количество повторений можете редактировать под ваши нужны.
+Привет с хищного сервера.
+https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 4500 ms
+LeftUp 1
+Delay 500 ms
+RightDown 1
+Delay 64
+RightUp 1
+Delay 500 ms
+GoWhile 1 70</Syntax>
+    </KeyDown>
+    <Software>DayZ</Software>
+  </DefaultMacro>
+</Root>

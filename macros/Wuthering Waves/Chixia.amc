@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>* Macro for Chixia - Infinite Shooting *
+
+*--------------------------------------------------------------*
+| NOTEs:                                                       |
+|  1. You can set the operaing mode whatever you want.         |
+|     I suggest using the 'run until pressed again' mode.      |
+|  2. If macro gets bugged,change delays by youself.           |
+|     Because it depends on your fps and latency.              |
+|     You can also use some tools to unlock your fps limit.    |
+|     Macro will work better when you have 200+ fps.           |
+|  3. You should have the character before using the macro.    |
+*--------------------------------------------------------------*</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+Delay 1 ms
+KeyUp 10 1
+Delay 30 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 30 ms</Syntax>
+    </KeyDown>
+    <Software>Wuthering Waves</Software>
+  </DefaultMacro>
+</Root>

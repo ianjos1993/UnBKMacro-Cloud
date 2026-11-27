@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Активация на "ctrl - g"
+
+
+Для комфортной игры с этим макросом рекомендуется отключить функцию "Блокировать нажатие клавиш модификатора"  в настройках!
+
+Этот макрос был создан для мониторов 1920x1080 не в полноэкраннов режиме!
+
+
+Этот макрос позволяет очень быстро смываться в мусорку что может помочь для побега от Службы Безопасности!
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 963 533
+Delay 100 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 100 ms
+MoveTo 1339 577
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1534 579
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Space Station 14</Software>
+  </DefaultMacro>
+</Root>

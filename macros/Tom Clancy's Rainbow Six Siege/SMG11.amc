@@ -1,0 +1,57 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Anti-bounce for players who use low sensitivity
+
+WARNING: As SMG11 is highly unpredictable, this macro is only about 80% accurate so it is only recommended to be used at short-medium ranges
+
+Settings:
+
+DPI = 2000
+
+Sensitivity:
+Horizontal = 9
+Vertical = 5
+
+Resoloution = 2560 x 1440
+
+Aspect Ratio = 16:10
+
+FOV = 90
+
+Attachments:
+Sight = Any 1x
+Barrel = Flash Hider 
+Grip = Vertical Grip
+Underbarrel = Does not matter</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+MoveR 1 48
+Delay 15 ms
+MoveR 2 48
+Delay 15 ms
+MoveR 2 48
+Delay 15 ms
+MoveR 0 48
+Delay 15 ms
+MoveR 1 48
+Delay 15 ms
+MoveR 2 48
+Delay 15 ms
+MoveR 2 48
+Delay 15 ms
+MoveR 0 48
+Delay 30 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

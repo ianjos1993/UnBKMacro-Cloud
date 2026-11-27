@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>Roblox</Major>
+    <Description>This macro can help u to do 180 degrees rotation and score in games, so probably it is for game "Locked" but u can try it in other places. Enjoy! Also u must use 1920x1080 display. 
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR -500 0
+Delay 20 ms
+MoveR -300 0
+Delay 20 ms
+MoveR -798 0
+Delay 20 ms
+MoveR -200 0</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

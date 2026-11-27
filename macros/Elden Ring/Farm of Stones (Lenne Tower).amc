@@ -1,0 +1,114 @@
+<Root>
+  <DefaultMacro>
+    <Major>volmax</Major>
+    <Description>Фарм камней на башне ленне
+=========================
+1. Тпнитесь на Башню Ленне
+2. Во время надписи "Драконий курган Грейолл" запустите скрипт
+========================
+- Свисток коня должен быть выбран в hot-bar'e 
+- Разрешение экрана 1920x1080
+- Карта должна быть без зума
+
+Задержку между выполнениями можно менять на строке 1 или на строке 88</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 400 ms
+KeyDown 21 1
+Delay 152 ms
+KeyUp 21 1
+Delay 488 ms
+KeyDown 21 1
+Delay 143 ms
+KeyUp 21 1
+Delay 1960 ms
+KeyDown 7 1
+Delay 335 ms
+KeyDown 22 1
+Delay 207 ms
+KeyUp 7 1
+Delay 272 ms
+KeyDown 225 1
+Delay 79 ms
+KeyDown 7 1
+Delay 119 ms
+KeyUp 7 1
+Delay 216 ms
+KeyDown 7 1
+Delay 3503 ms
+KeyUp 7 1
+Delay 199 ms
+KeyDown 7 1
+Delay 464 ms
+KeyUp 7 1
+Delay 679 ms
+KeyDown 7 1
+Delay 2044 ms
+KeyUp 7 1
+Delay 279 ms
+KeyDown 7 1
+Delay 1384 ms
+KeyUp 7 1
+Delay 335 ms
+KeyDown 7 1
+Delay 1175 ms
+KeyDown 4 1
+Delay 8 ms
+KeyUp 7 1
+Delay 184 ms
+KeyUp 22 1
+Delay 119 ms
+KeyDown 26 1
+Delay 256 ms
+KeyUp 26 1
+Delay 231 ms
+KeyDown 26 1
+Delay 176 ms
+KeyUp 26 1
+Delay 55 ms
+KeyUp 225 1
+Delay 160 ms
+KeyDown 225 1
+Delay 124 ms
+KeyUp 225 1
+Delay 39 ms
+KeyDown 225 1
+Delay 31 ms
+KeyDown 26 1
+Delay 351 ms
+KeyUp 4 1
+Delay 672 ms
+KeyDown 4 1
+Delay 504 ms
+KeyUp 4 1
+KeyUp 26 1
+Delay 7 ms
+KeyUp 225 1
+Delay 1250 ms
+KeyDown 16 1
+Delay 183 ms
+KeyUp 16 1
+Delay 576 ms
+KeyDown 7 1
+Delay 80 ms
+KeyUp 7 1
+Delay 327 ms
+KeyDown 88 1
+Delay 136 ms
+KeyUp 88 1
+Delay 208 ms
+KeyDown 88 1
+Delay 144 ms
+KeyUp 88 1
+Delay 7200 ms
+GoWhile 1 420</Syntax>
+    </KeyDown>
+    <Software>Elden Ring</Software>
+  </DefaultMacro>
+</Root>

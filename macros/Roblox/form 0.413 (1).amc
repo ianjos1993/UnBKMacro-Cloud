@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This is a macro to preform a 180 degree turn instant formless in the game LOCKED on Roblox, the best settings is 700 DPI, 1920 x 1080 resolution and 0.413 Roblox sensitivityAto get an almost perfect formless each time, shooting wherever you aim each time.</Description>
+    <Comment>This is a macro to preform a 180 degree turn instant formless in the game LOCKED on Roblox, the best settings is 700 DPI, 1920 x 1080 resolution and 0.413 Roblox sensitivityAto get an almost perfect formless each time, shooting wherever you aim each time.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR -870 0
+Button4down 1
+Delay 64
+Button4Up 1
+Delay 64
+Button4down 1
+Delay 64
+Button4Up 1
+Delay 64
+MoveR 0 -360
+Delay 30 ms
+KeyDown 21 1
+Delay 15 ms
+RightDown 1
+Delay 15 ms
+KeyUp 21 1
+Delay 15 ms
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

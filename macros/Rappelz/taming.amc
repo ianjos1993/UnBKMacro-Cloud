@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>efficient taming , this script was fine tuned specifically for taming in a populated area with full buffs from hidden village and lvl 5 spell potion (casting speed reduced by 54%) it assumes a kill speed of more or less a second (i use it to tame rare soul pets in crystal valley and i'm able to kill those pretty quick)  on buttone number 1 u add taming and on 2 your method of attack (you can use lune chips obviously but will would have to add another action if u wish to make pets attack)
+
+i used this one to get a pet to s4 and it works just as i wanted it to that being said u may need to change numbers a bit to get it working as effeciently</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 3750 ms
+//the long delay makes it so it keeps pressing tame to ensure it gets it done
+KeyUp 30 1
+Delay 64 ms
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 18750 ms
+//this is the time frame for the cooldown it depends on your kill speed and is the reason why u want populated areas
+GoWhile 1 999999</Syntax>
+    </KeyDown>
+    <Software>rappelz/taming</Software>
+  </DefaultMacro>
+</Root>

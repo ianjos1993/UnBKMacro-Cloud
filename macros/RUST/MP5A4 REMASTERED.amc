@@ -1,0 +1,263 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>CUSTOMIZE MACROS from Josh
+
+
+
+For the correct settings
+:
+Controls "Mouse sensitivity" - 1.0, Options "Field of view" / FOV - 75
+
+FOV 75 - Sensetivity 1.0
+FOV 80 - Sensetivity 0.94
+FOV 85 - Sensetivity 0.88
+FOV 90 - Sensetivity 0.82
+
+Crouch for semi/automatic and m249
+
+Command console F1 - "input.sensitivity 0.8"
+Setting sights - for example handmade scope to resize sensitivity lower
+Installation of modules influencing the recoil, adjust the Sens
+the change
+of the recoil - pulls down lower the Sensitivity, or pulls up raise Sensitivity
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 23 ms
+MoveR 0 5
+Delay 24 ms
+MoveR 0 5
+Delay 24 ms
+MoveR 0 4
+Delay 24 ms
+MoveR 0 4
+Delay 24 ms
+MoveR 0 5
+Delay 24 ms
+MoveR 0 5
+Delay 24 ms
+MoveR 0 4
+Delay 24 ms
+MoveR 0 4
+Delay 24 ms
+MoveR 1 4
+Delay 24 ms
+MoveR 1 4
+Delay 24 ms
+MoveR 1 5
+Delay 24 ms
+MoveR 3 5
+Delay 24 ms
+MoveR 4 5
+Delay 24 ms
+MoveR 4 4
+Delay 24 ms
+MoveR 4 4
+Delay 24 ms
+MoveR 3 4
+Delay 24 ms
+MoveR 4 4
+Delay 24 ms
+MoveR 4 3
+Delay 24 ms
+MoveR 4 3
+Delay 24 ms
+MoveR 4 4
+Delay 24 ms
+MoveR 4 3
+Delay 24 ms
+MoveR 4 3
+Delay 24 ms
+MoveR 3 3
+Delay 24 ms
+MoveR 3 3
+Delay 24 ms
+MoveR 3 3
+Delay 24 ms
+MoveR 2 2
+Delay 24 ms
+MoveR 2 2
+Delay 24 ms
+MoveR -1 2
+Delay 24 ms
+MoveR -1 2
+Delay 24 ms
+MoveR -2 1
+Delay 24 ms
+MoveR -2 1
+Delay 24 ms
+MoveR -3 2
+Delay 24 ms
+MoveR -3 1
+Delay 24 ms
+MoveR -3 1
+Delay 24 ms
+MoveR -2 1
+Delay 24 ms
+MoveR -3 1
+Delay 24 ms
+MoveR -3 1
+Delay 24 ms
+MoveR -3 2
+Delay 24 ms
+MoveR -2 2
+Delay 24 ms
+MoveR -2 2
+Delay 24 ms
+MoveR -1 2
+Delay 24 ms
+MoveR -1 1
+Delay 24 ms
+MoveR -1 1
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 2 1
+Delay 24 ms
+MoveR 2 1
+Delay 24 ms
+MoveR 2 1
+Delay 24 ms
+MoveR 2 1
+Delay 24 ms
+MoveR 2 0
+Delay 24 ms
+MoveR 2 1
+Delay 24 ms
+MoveR 3 0
+Delay 24 ms
+MoveR 3 1
+Delay 24 ms
+MoveR 3 0
+Delay 24 ms
+MoveR 3 1
+Delay 24 ms
+MoveR 2 0
+Delay 24 ms
+MoveR 2 1
+Delay 24 ms
+MoveR 2 0
+Delay 24 ms
+MoveR 2 0
+Delay 24 ms
+MoveR 2 0
+Delay 24 ms
+MoveR 2 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 23 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

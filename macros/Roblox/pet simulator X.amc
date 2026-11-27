@@ -1,0 +1,68 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Заходим в игру Pet Simulator X, в Dog World (и хардкор мод и обычный) доходим до финального сундука и фармим много carton coins. Главное что бы было не меньше 40 фпс, а то не сработает.</Description>
+    <Comment>Надеюсь на лицензю, я старался сделать что б работало:)</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 500
+KeyUp 20 1
+Delay 500
+KeyDown 21 1
+Delay 3
+KeyUp 21 1
+Delay 3
+KeyDown 21 1
+Delay 3
+KeyUp 21 1
+Delay 3
+KeyDown 21 1
+Delay 3
+KeyUp 21 1
+Delay 3
+KeyDown 26 1
+Delay 1
+KeyUp 26 1
+Delay 1
+KeyDown 26 1
+Delay 1
+KeyUp 26 1
+Delay 1
+KeyDown 26 1
+Delay 1
+KeyUp 26 1
+Delay 1
+KeyDown 4 1
+Delay 1
+KeyUp 4 1
+Delay 1
+KeyDown 4 1
+Delay 1
+KeyUp 4 1
+Delay 1
+KeyDown 4 1
+Delay 1
+KeyUp 4 1
+Delay 1
+KeyDown 22 1
+Delay 1
+KeyUp 22 1
+Delay 1
+KeyDown 7 1
+Delay 1
+KeyUp 7 1
+Delay 1
+KeyDown 7 1
+Delay 1
+KeyUp 7 1
+Delay 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

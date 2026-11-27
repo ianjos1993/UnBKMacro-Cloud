@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос ТОЛЬКО для вертикальной фермы, но не только для наростов как и в названии. Он почти все делает сам кроме одного. Курсор правильно придеться ставить вам самим(в следующих версиях исправлю). Так же время поставленно для скорости 115 если она ниже добавьте 1 или 2 секунды а если выши уберите ( в строке Нажать D). Но есть одно но ферма 84 этажа и после телепортации на верх сам телепорт ведет сначала на базу после чего сразу возвращается в портал и идет дальше добывать выбранные вами культуры.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 7 1
+Delay 35 s
+KeyUp 7 1
+Delay 64
+KeyDown 4 1
+Delay 35 s
+KeyUp 4 1
+Delay 64
+GoWhile 2 42
+KeyDown 7 1
+Delay 2 s
+KeyUp 7 1
+Delay 64
+KeyDown 4 1
+Delay 2 s
+KeyUp 4 1
+Delay 64
+GoWhile 1 99999</Syntax>
+    </KeyDown>
+    <Software>Minecraft(сервер Hypixel)</Software>
+  </DefaultMacro>
+</Root>

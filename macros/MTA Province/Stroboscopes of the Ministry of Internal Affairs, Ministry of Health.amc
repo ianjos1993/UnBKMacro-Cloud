@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Стробоскопы для МВД и МЗ предназначнные для совместной работы с СГУ. Придаёт больше внимания на дороге. В настройках игры нужно добавить 2 доп.клавиши на включение фар, это колесо мыши вниз и вверх.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 18 1
+WheelUp 1
+Delay 125 ms
+KeyUp 18 1
+WheelUp 1
+Delay 125 ms
+KeyDown 18 1
+WheelDown 1
+Delay 125 ms
+KeyUp 18 1
+WheelDown 1
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

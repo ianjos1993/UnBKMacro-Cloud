@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Русский:
+
+Данный макрос позволяет строится лесеннкой вверх в майнкрафте. Для использование: ставим режим работы во время нажатия клавиши и биндим макрос на любую кнопку (желательно на клавиатуре) после уже в игре становимся на край блока с шифтом наводимся на верхнюю грань отпускаем шифт и начинаем строится ,также нужно постоянно нажимать кнопку w чтобы не падать. Удачи в использовании!
+
+Український
+
+Даний макрос дозволяє будуватися драбинкою вгору в майнкрафті. Для використання: ставимо режим роботи під час натискання клавіші і біндім макрос на будь-яку кнопку (бажано на клавіатурі) після вже в грі стаємо на край блоку з шифтом наводимося на верхню грань відпускаємо шифт і починаємо будуватися
+також потрібно постійно натискати кнопку w, щоб не падати. Удачі у використанні!
+
+Deutsch:
+
+Mit diesem Makro kannst du in Minecraft eine Leiter bauen. Zur Verwendung: Stellen Sie den Betriebsmodus ein, während Sie die Taste drücken, und binden Sie das Makro an eine beliebige Taste (vorzugsweise auf der Tastatur), nachdem wir bereits im Spiel mit einer Verschiebung am Rand des Blocks stehen, auf die obere Fläche zeigen, die Verschiebung loslassen und fang an zu bauen,
+Sie müssen auch ständig die w-Taste drücken, um nicht zu fallen. Viel Glück beim Verwenden
+
+English:
+
+This macro allows you to build a ladder up in minecraft. To use: set the operating mode while pressing the key and bind the macro to any button (preferably on the keyboard) after already in the game we stand on the edge of the block with a shift, point to the upper face, release the shift and start building,
+you also need to constantly press the w button so as not to fall. Good luck with your use!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+KeyDown 22 1
+KeyDown 4 1
+RightDown 1
+Delay 20 ms
+RightUp 1
+Delay 20 ms
+RightDown 1
+Delay 20 ms
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

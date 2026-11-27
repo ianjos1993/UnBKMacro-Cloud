@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>GRANDRP</Major>
+    <Description>Простой макрос зажатия и отпускания кнопки"E" на бесконечное количество циклов, не забывайте вводить капчу, сделано чтобы не насиловать клавиатуру. Пользуйтесь на здоровье, и не забываем находиться рядом, администрация не дремлет и регулярно поверяет Вас. С уважением.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 5442 ms
+KeyUp 8 1
+Delay 7128 ms
+KeyDown 8 1
+Delay 5560 ms
+KeyUp 8 1
+Delay 7128 ms</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

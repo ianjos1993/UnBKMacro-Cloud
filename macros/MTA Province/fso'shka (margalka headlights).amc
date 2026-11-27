@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Наипростейший скрипт, но доставляет столько удовольствия и кинематаграфичного эффекта
+Подойдет любителям наводить суету на дорогах Провинции)
+Работает в любом разрешении и с любым фпс (но чем больше фпс - тем лучше)
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 15 1
+Delay 20 ms
+KeyUp 15 1
+Delay 20 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

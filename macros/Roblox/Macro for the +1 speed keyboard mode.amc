@@ -1,0 +1,67 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Назначение: Ускоренный проход первого этажа второго мира.
+Механика: Эмуляция нажатия клавиши для активации бонуса «+1 ключ» с последующей фиксацией скорости на отметке 100.
+Назначение:Фарм кубков (250к за круг, длительность круга 5-7 секунд)
+
+Условия работы:
+
+Мир: 2.
+Этап: 1 (стартовая зона).
+
+Как использовать:
+
+1)Выставьте пользовательскую скорость на 100.
+2)Запустите скрипт.
+3)Наслаждайтесь легким фармом кубков
+
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 55 ms
+KeyUp 225 1
+Delay 129 ms
+KeyDown 26 1
+Delay 2263 ms
+KeyDown 44 1
+Delay 194 ms
+KeyUp 44 1
+Delay 650 ms
+KeyDown 44 1
+Delay 218 ms
+KeyUp 44 1
+Delay 461 ms
+KeyDown 44 1
+Delay 145 ms
+KeyUp 44 1
+Delay 152 ms
+KeyUp 26 1
+Delay 443 ms
+KeyDown 7 1
+Delay 252 ms
+KeyUp 7 1
+Delay 433 ms
+KeyDown 4 1
+Delay 68 ms
+KeyUp 4 1
+Delay 414 ms
+KeyDown 4 1
+Delay 92 ms
+KeyUp 4 1
+Delay 701 ms
+KeyDown 26 1
+Delay 140 ms
+KeyUp 26 1
+Delay 2623 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>Basketball legends auto dunk</Major>
+    <Description>Этот макрос автоматически при нажимании делает данк! получая 2 очка.Это супер полезный макрос как по мне</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 2 s
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyUp 26 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

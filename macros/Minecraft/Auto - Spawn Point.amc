@@ -1,0 +1,71 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос за считаные секунды прописывает команду, которая задает ваше появление в мире там - где вы находитесь. Макрос будет полезен так же для пользователей старых версий издания Minecraft Pocket Edition, тем что выдает координаты того места, где вы находитесь. 
+
+Инструкция по установке макроса:
+1. Скачайте файл макроса.
+2. Установите его на любую клавишу.
+3. Все готово. Теперь вы можете использовать.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>SetLang en-US
+KeyDown 56 1
+Delay 15
+KeyUp 56 1
+Delay 15
+KeyDown 22 1
+Delay 15
+KeyUp 22 1
+Delay 15
+KeyDown 19 1
+Delay 15
+KeyUp 19 1
+Delay 15
+KeyDown 4 1
+Delay 15
+KeyUp 4 1
+Delay 15
+KeyDown 26 1
+Delay 15
+KeyUp 26 1
+Delay 15
+KeyDown 17 1
+Delay 15
+KeyUp 17 1
+Delay 15
+KeyDown 19 1
+Delay 15
+KeyUp 19 1
+Delay 15
+KeyDown 18 1
+Delay 15
+KeyUp 18 1
+Delay 15
+KeyDown 12 1
+Delay 15
+KeyUp 12 1
+Delay 15
+KeyDown 17 1
+Delay 15
+KeyUp 17 1
+Delay 15
+KeyDown 23 1
+Delay 15
+KeyUp 23 1
+Delay 15
+SetLang ru-RU
+KeyDown 88 1
+Delay 15
+KeyUp 88 1
+Delay 15</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

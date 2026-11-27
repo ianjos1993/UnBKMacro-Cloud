@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major>Cerisierr_</Major>
+    <Description>Free macro for spamming level 30 enchanting book
+
+Resolution: 2560x1440
+GUI scale: 2
+
+You want more macro ask me to discord
+cerisierr_</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 64 ms
+KeyDown 225 1
+Delay 64
+MoveTo 1135 730
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1335 671
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1151 653
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+GoWhile 3 15
+KeyUp 225 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

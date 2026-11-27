@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос позволяет нажатием одной кнопки выбрать стратагему на вызов мертвого союзника.
+
+Важно: 1) в настройках выбрать открытие списка стратагем на кнопку "Ctrl" в режиме "нажать"
+             2) набор комбинаций стратагем установить на стрелочки
+
+При использовании макроса не нажимать кнопку "Ctrl", а сразу нажимать кнопку макроса
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 30 ms
+KeyUp 224 1
+Delay 30 ms
+KeyDown 82 1
+Delay 30 ms
+KeyUp 82 1
+Delay 30 ms
+KeyDown 81 1
+Delay 30 ms
+KeyUp 81 1
+Delay 30 ms
+KeyDown 79 1
+Delay 30 ms
+KeyUp 79 1
+Delay 30 ms
+KeyDown 80 1
+Delay 30 ms
+KeyUp 80 1
+Delay 30 ms
+KeyDown 82 1
+Delay 30 ms
+KeyUp 82 1</Syntax>
+    </KeyDown>
+    <Software>Helldivers 2</Software>
+  </DefaultMacro>
+</Root>

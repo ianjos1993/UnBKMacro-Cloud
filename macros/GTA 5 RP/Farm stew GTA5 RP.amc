@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Фарм рагу для разрешения 1280х1024 (зациклено для производства 33 рагу т.к максимальная вместимость пустого инвентаря для 33 ед)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1398 289
+RightDown 1
+RightUp 1
+Delay 150 ms
+MoveTo 1480 288
+RightDown 1
+RightUp 1
+Delay 150 ms
+MoveTo 1567 288
+RightDown 1
+RightUp 1
+Delay 150 ms
+MoveTo 1239 581
+RightDown 1
+RightUp 1
+Delay 150 ms
+MoveTo 1240 573
+LeftDown 1
+LeftUp 1
+Delay 6000 ms
+GoWhile 1 33</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

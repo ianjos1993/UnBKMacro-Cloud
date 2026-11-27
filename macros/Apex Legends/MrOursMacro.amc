@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>Apex ReduceRecoil </Major>
+    <Description>Reduce Recoil for Apex legends you need just control a little bit the recoil 
+
+I Have test with r-301 , Flatline , SpitFire , Volt , Re45 , Alternator and more !
+
+DPI 800 , Screen Resolution 1920 x 1080 and sensibility 4.00 
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+Delay 0 ms
+MoveR -7 7
+Delay 6 ms
+MoveR 7 -7
+Delay 6 ms
+GoWhile 3 100</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

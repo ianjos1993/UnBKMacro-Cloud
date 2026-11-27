@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для серверов Divine rpg 1.4.7
+Макрос работает так:     1)Ставим до повторного нажатия.
+2)В 1 слот ставим меч которым бьём игрока
+3)В 3 слот Ставим хил которым хилим себе хп.
+Макрос можете забиндить на любую удобную вам клавишу</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+LeftDown 1
+Delay 19 ms
+LeftUp 1
+Delay 19 ms
+LeftDown 1
+Delay 25 ms
+LeftUp 1
+Delay 25 ms
+KeyDown 32 1
+KeyUp 32 1
+RightDown 1
+Delay 14 ms
+RightUp 1
+Delay 14 ms
+RightDown 1
+Delay 22 ms
+RightUp 1
+Delay 22 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

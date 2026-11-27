@@ -1,0 +1,69 @@
+<Root>
+  <DefaultMacro>
+    <Major>данилка</Major>
+    <Description>Простой прокаст на инвоера с прокачкой - E Q E Q E Q E Q W. до  9 лвл.
+1 скилл - Q
+2 скилл  - W
+3 скилл - E
+4 скилл - D
+5 скилл - F
+Ульт - R
+Удачной игры!</Description>
+    <Comment>Изменил описание</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 65 ms
+KeyUp 9 1
+Delay 65 ms
+KeyDown 7 1
+Delay 65 ms
+KeyUp 7 1
+Delay 65 ms
+KeyDown 8 1
+Delay 65 ms
+KeyUp 8 1
+Delay 69 ms
+KeyDown 8 1
+Delay 81 ms
+KeyUp 8 1
+Delay 78 ms
+KeyDown 8 1
+Delay 71 ms
+KeyUp 8 1
+Delay 55 ms
+KeyDown 21 1
+Delay 65 ms
+KeyUp 21 1
+KeyDown 7 1
+Delay 94 ms
+KeyUp 7 1
+Delay 65 ms
+KeyDown 8 1
+Delay 65 ms
+KeyUp 8 1
+Delay 65 ms
+KeyDown 8 1
+Delay 65 ms
+KeyUp 8 1
+Delay 65 ms
+KeyDown 20 1
+Delay 105 ms
+KeyUp 20 1
+Delay 4 s
+KeyDown 21 1
+Delay 100 ms
+KeyUp 21 1
+Delay 65 ms
+KeyDown 7 1
+Delay 65 ms
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Dota2</Software>
+  </DefaultMacro>
+</Root>

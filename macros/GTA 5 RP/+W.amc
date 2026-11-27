@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос не палится
++ разная задержка
++ есть очень краткое движение вправо и в лево (чтобы не спалили)
++ W зажимается от 5-7 минут (чтобы не спалили)
++ SHIFT зажимается так же как и W что позволяет бегать
+разрешение: 1920:1080
+Надеюсь на то что вам этот макрос пригодится)))))
+данный макрос поможет быстро добраться до куда надо, или же работаь на работах на которых нужен бег</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+KeyDown 225 1
+Delay 5 7 ms
+KeyUp 26 1
+Delay 136 ms
+KeyDown 7 1
+Delay 40 ms
+KeyUp 7 1
+Delay 30 ms
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyUp 225 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,98 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Очень удобный макрос для кача на столбе. Биндим столба на cntrl+1, далеем запускаем макрос и спокойно качаемся. Очень прост и удобен для кача. Так же выставляем скилы на панель F1-F7, с F1-F6, выставляем точечные массы, F7, выставляем бафы( которые нужны для бафа). Подходит для магов. </Description>
+    <Comment>Очень прост и удобен для ипользования, ничего лишнего, персонаж не убегает. </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 58 1
+Delay 64
+KeyUp 58 1
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64 ms
+KeyDown 59 1
+Delay 64 ms
+KeyUp 59 1
+Delay 64 ms
+KeyDown 60 1
+Delay 64 ms
+KeyUp 60 1
+Delay 64 ms
+KeyDown 61 1
+Delay 64 ms
+KeyUp 61 1
+Delay 64 ms
+KeyDown 62 1
+Delay 64 ms
+KeyUp 62 1
+KeyDown 63 1
+Delay 64 ms
+KeyUp 63 1
+Delay 64 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 58 1
+Delay 64 ms
+KeyUp 58 1
+Delay 64 ms
+KeyDown 59 1
+Delay 64 ms
+KeyUp 59 1
+Delay 64 ms
+KeyDown 60 1
+Delay 64 ms
+KeyUp 60 1
+Delay 64 ms
+KeyDown 61 1
+Delay 64 ms
+KeyUp 61 1
+Delay 64 ms
+KeyDown 62 1
+Delay 64 ms
+KeyUp 62 1
+Delay 64 ms
+KeyDown 63 1
+Delay 64 ms
+KeyUp 63 1
+Delay 64 ms
+KeyDown 58 1
+Delay 64 ms
+KeyUp 58 1
+Delay 64 ms
+KeyDown 59 1
+Delay 64 ms
+KeyUp 59 1
+Delay 64 ms
+KeyDown 60 1
+Delay 64 ms
+KeyUp 60 1
+Delay 64 ms
+KeyDown 61 1
+Delay 64 ms
+KeyUp 61 1
+Delay 64 ms
+KeyDown 62 1
+Delay 64 ms
+KeyUp 62 1
+Delay 64 ms
+KeyDown 63 1
+Delay 64 ms
+KeyUp 63 1
+Delay 64 ms
+KeyDown 64 1
+Delay 64 ms
+KeyUp 64 1
+Delay 64 ms</Syntax>
+    </KeyDown>
+    <Software>RF-Online</Software>
+  </DefaultMacro>
+</Root>

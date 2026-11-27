@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Сценарий спасение ангелочка. Нажми и радуйся :)
+Z - Ethereal blade
+2 - Тп домой
+R - перезарядка
+
+В данном сценарии, я решил поделиться своим огромным опытом в игре, связанной с боевыми навыками и тактикой. Один из ключевых моментов в этой игре - спасение ангелочка.
+
+Если вы желаете, вы можете адаптировать этот сценарий под свои предпочтения. Можете выбрать другие способности или действия, которые считаете эффективными. Главное, чтобы они помогали вам сохранять ангелочка в безопасности и достигать успеха в игре.
+
+Сценарий проверен на разрешении экрана 1920x1080. На других разрешениях следует подкорректировать перемещение курсора.
+
+ Удачи пупсики:)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 226 1
+Delay 64 ms
+KeyDown 29 1
+Delay 64 ms
+KeyUp 29 1
+Delay 64 ms
+KeyUp 226 1
+Delay 64 ms
+MoveTo 25 1051
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1067 641
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для авто фарма фрукта "CHOP"
+Нажимает 1 скилл 
+Нажимает 2 скилл 
+Нажимает 3 скилл 
+Нажимает 4 скилл 
+я не стал добавлять зажимание 3 скилла
+т.к. из за этого зажатия вы можете вылететь из место где вы стояли</Description>
+    <Comment>Макрос для авто фарма фрукта "CHOP"
+Нажимает 1 скилл 
+Нажимает 2 скилл 
+Нажимает 3 скилл 
+Нажимает 4 скилл 
+я не стал добавлять зажимание 3 скилла
+т.к. из за этого зажатия вы можете вылететь из место где вы стояли</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

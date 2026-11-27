@@ -1,0 +1,112 @@
+<Root>
+  <DefaultMacro>
+    <Major>Kyo Combo1</Major>
+    <Description>Макро комбинация для персонажа Ке (Kyo)                 
+  Видео  работы макроса: https://youtu.be/WCqGmA2JKd0
+
+     Если не работает макрос в игре: 
+             Отключить использование минимальной задержки.
+             Включить опцию "Использовать драйвер"
+                                            (при необходимости установить драйвер)
+
+
+                     Тестирование макроса проводились на последнем патче игры на 02.08.2021 (1.34 патч)
+
+  Настройки в игре:
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ Light Punch - Insert
+ Light Kick - End
+ Heavy Punch - Home
+ Heavy Kick - Delete
+ Max - TAB
+ 1+2 - Page UP
+ 3+4 Page Down
+
+
+ 1. При необходимости писать в поддержку -  https://keyran.net/discord
+ 1.1. Мой дискорд для связи - flkpa#4883
+
+#kofxv #kyokofxv #kingoffightersxv</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 25 ms
+KeyDown 43 1
+Delay 39 ms
+KeyUp 43 1
+Delay 25 ms
+KeyDown 22 1
+Delay 39 ms
+KeyDown 4 1
+Delay 63 ms
+KeyUp 22 1
+Delay 39 ms
+KeyUp 4 1
+Delay 48 ms
+KeyDown 22 1
+Delay 32 ms
+KeyDown 7 1
+Delay 63 ms
+KeyUp 22 1
+Delay 40 ms
+KeyDown 74 1
+Delay 15 ms
+KeyUp 7 1
+Delay 72 ms
+KeyUp 74 1
+Delay 150 ms
+KeyDown 22 1
+Delay 48 ms
+KeyDown 7 1
+Delay 39 ms
+KeyUp 22 1
+Delay 71 ms
+KeyUp 7 1
+Delay 15 ms
+KeyDown 22 1
+Delay 64 ms
+KeyDown 7 1
+Delay 88 ms
+KeyDown 75 1
+Delay 7 ms
+KeyUp 22 1
+Delay 40 ms
+KeyUp 7 1
+Delay 55 ms
+KeyUp 75 1
+Delay 400 ms
+KeyDown 22 1
+Delay 39 ms
+KeyDown 4 1
+Delay 56 ms
+KeyUp 22 1
+Delay 55 ms
+KeyUp 4 1
+Delay 23 ms
+KeyDown 22 1
+Delay 40 ms
+KeyDown 7 1
+Delay 64 ms
+KeyDown 76 1
+Delay 7 ms
+KeyDown 74 1
+Delay 8 ms
+KeyUp 22 1
+Delay 40 ms
+KeyUp 7 1
+Delay 55 ms
+KeyUp 76 1
+Delay 15 ms
+KeyUp 74 1</Syntax>
+    </KeyDown>
+    <Software>The King of Fighters XV</Software>
+  </DefaultMacro>
+</Root>

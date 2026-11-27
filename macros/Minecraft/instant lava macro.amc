@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>this requieres that you have lava on 4. uppon pressing 4 it will select lava place it quickly and go back to 1. asuming ur sword is placed on slot one. the macro requieres however that you look at the ground when you press 4. (also bind this to 4)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 33 1
+Delay 0 ms
+KeyUp 33 1
+Delay 1 ms
+RightDown 1
+Delay 50 ms
+RightUp 1
+Delay 30 ms
+KeyDown 30 1
+Delay 20 ms
+KeyUp 30 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

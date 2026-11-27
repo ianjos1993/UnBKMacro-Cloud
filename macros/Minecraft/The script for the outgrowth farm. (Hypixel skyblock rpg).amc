@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Скрип для горизантальной фермы размером 5 на 1 плот. Для него нужны ранчер бутс на 115 скорости и мотыга под нарост. Этот скрипт можно использовать и для других ферм. </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 100 ms
+KeyDown 7 1
+Delay 96 s
+KeyUp 7 1
+Delay 64 ms
+KeyDown 26 1
+Delay 2 s
+KeyUp 26 1
+Delay 64
+KeyDown 4 1
+Delay 96 s
+KeyUp 4 1
+Delay 64
+KeyDown 26 1
+Delay 2 s
+KeyUp 26 1
+Delay 64
+GoWhile 3 8
+KeyDown 22 1
+Delay 17 s
+KeyUp 22 1
+Delay 64
+GoWhile 3 100
+LeftUp 1
+KeyDown 41 1</Syntax>
+    </KeyDown>
+    <Software>minecraft</Software>
+  </DefaultMacro>
+</Root>

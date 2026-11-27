@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This is an easy to use and simple reset macro, bind  reset building to ''8'' and you're done, you higher/lower delay depending on how fast you want the building to reset. Lower = Faster Higher = Slower</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 20 ms
+KeyDown 225 1
+Delay 20 ms
+KeyUp 225 1
+Delay 20 ms
+KeyDown 37 1
+Delay 20 ms
+KeyUp 37 1
+Delay 20 ms
+KeyDown 225 1
+Delay 20 ms
+KeyUp 225 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

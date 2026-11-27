@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major>灵巫无限闪避按键宏</Major>
+    <Description>如题，这是一个使用闪避速杀按键宏。无限闪。全部只需单手操作即可，非常无脑休闲，深坑105层基本很难超过1分半，幽暗城全程领跑，罗盘不能无脑挂机，单手围着地图绕圈圈即可，当然，你非要罗盘挂机就对着一个墙一直翻滚也可以打。</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 5
+KeyDown 44 1
+Delay 5
+KeyUp 44 1
+Delay 5
+GoWhile 3 100
+KeyUp 30 1
+Delay 5
+KeyDown 31 1
+Delay 5
+KeyUp 31 1
+Delay 5
+KeyDown 32 1
+Delay 5
+KeyUp 32 1
+Delay 5
+KeyDown 33 1
+Delay 5
+KeyUp 33 1
+Delay 5
+RightDown 1
+Delay 5
+RightUp 1
+Delay 5</Syntax>
+    </KeyDown>
+    <Software>Diablo IV</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Just a simple guren blade glide macro for tower of fantasy and this macro wont be affected by game updates.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 300 ms
+LeftUp 1
+Delay 270 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 190 ms
+KeyDown 31 1
+Delay 10 ms
+KeyUp 31 1
+Delay 10 ms
+KeyDown 31 1
+Delay 10 ms
+KeyUp 31 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Tower of Fantasy</Software>
+  </DefaultMacro>
+</Root>

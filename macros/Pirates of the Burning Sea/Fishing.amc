@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Авто-рыбалка
+Чтобы включить авто-рыбалку, поставьте приманку или наживку с помощью колесика мыши.
+Подойдите к месту ловли и наведите курсор мыши, пока не появится значок шестерёнки.
+Когда шестерёнка появится запустите макрос, больше ничего делать не нужно — персонаж будет сам ловить рыбу и автоматически менять приманку или наживку.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+LeftUp 1
+Delay 11 s
+MiddleDown 1
+Delay 64
+MiddleUp 1
+Delay 64
+GoWhile 1 1000</Syntax>
+    </KeyDown>
+    <Software>pirates of the burning sea</Software>
+  </DefaultMacro>
+</Root>

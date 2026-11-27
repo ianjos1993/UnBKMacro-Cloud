@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major>Using E button </Major>
+    <Description>This is a macro thats mining automaticly for you at the querry on Grand RP (any grand rp server)
+
+Instructions:
+
+1. Go to querry,
+2. Go near or climb on top of the rocks.
+3. When you see E button showing but start the macro.
+4. Do the Captcha every 5-7 minutes.
+
+Enjoy your easy money and ores :) </Description>
+    <Comment>This macro will NOT solve the Captcha automaticly, you need to solve it manually ever 5-7 minutes.</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 5346 ms
+KeyUp 8 1
+Delay 8 s
+KeyDown 8 1
+Delay 5346 ms
+KeyUp 8 1
+Delay 8 s
+KeyDown 8 1
+Delay 5346 ms
+KeyUp 8 1
+Delay 8 s
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

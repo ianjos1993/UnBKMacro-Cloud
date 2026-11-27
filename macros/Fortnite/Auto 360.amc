@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>Auto flip on motorcycle </Major>
+    <Description>С помощью этого макроса можно без проблем сделать на мотоцикле сальто (это в многих случаях может пригодится для клипов и т.д.)
+Макрос сделан просто из за его прикольности</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 2 s
+KeyDown 26 1
+Delay 2 s
+KeyUp 44 1
+KeyDown 26 1
+Delay 2 s</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

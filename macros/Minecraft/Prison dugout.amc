@@ -1,0 +1,125 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для копания землянки / 17 шахты на призоне VimeWorld, копает плавно, работает на разрешении экрана в 1600х900, но также может работать на подобных ему</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveTo 0 450
+MoveR 2 0
+Delay 1 ms
+GoWhile 3 1600
+MoveR 0 1
+Delay 1 ms
+GoWhile 6 230
+MoveR -2 0
+Delay 1 ms
+GoWhile 9 1600
+MoveR 0 2
+Delay 1 ms
+GoWhile 12 500
+MoveR 0 -10
+Delay 1 ms
+GoWhile 15 50
+GoWhile 1 16
+Delay 63 ms
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+LeftUp 1
+Delay 64
+RightDown 1
+Delay 3000 ms
+Delay 64
+KeyDown 38 1
+Delay 64
+KeyUp 38 1
+Delay 64
+RightUp 1
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+GoWhile 1 3
+KeyDown 26 1
+Delay 1000 ms
+KeyUp 26 1
+Delay 1 ms
+MoveTo 1450 450
+Delay 64
+KeyDown 26 1
+Delay 5000 ms
+KeyDown 7 1
+Delay 1000 ms
+KeyUp 7 1
+Delay 64
+MoveTo 580 450
+Delay 64
+KeyDown 26 1
+Delay 10500 ms
+KeyUp 26 1
+Delay 64
+GoWhile 1 2
+KeyDown 41 1
+Delay 1
+KeyUp 41 1
+Delay 50 ms
+LeftDown 1
+Delay 1
+LeftUp 1
+Delay 1
+MoveTo 803 171
+Delay 2500 ms
+LeftDown 1
+Delay 1
+LeftUp 1
+Delay 1
+LeftDown 1
+Delay 1
+LeftUp 1
+Delay 5000 ms
+RightDown 1
+Delay 1
+RightUp 1
+Delay 500 ms
+MoveTo 659 372
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 649 303
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+GoColor 103 1 113,79,52 255,255,255 0 1920 1080 1 1 1 0
+GoColor 103 1 140,99,65 255,255,255 0 1920 1080 1 1 1 0
+GoColor 103 1 182,133,99 255,255,255 0 1920 1080 1 1 1 0
+GoColor 103 1 157,112,73 255,255,255 0 1920 1080 1 1 1 0
+GoColor 103 1 74,49,33 255,255,255 0 1920 1080 1 1 1 0
+GoColor 103 1 103,69,46 255,255,255 0 1920 1080 1 1 1 0
+Delay 64 ms
+GoColor 103 1 153,118,90 255,255,255 0 1920 1080 1 1 1 0
+GoColor 103 1 135,100,76 255,255,255 0 1920 1080 1 1 1 0
+GoColor 103 1 124,90,68 255,255,255 0 1920 1080 1 1 1 0
+GoColor 103 1 147,112,79 255,255,255 0 1920 1080 1 1 1 0
+LeftUp 1
+KeyDown 22 1
+Delay 2000 ms
+KeyUp 22 1
+Delay 64
+Goto 1
+GoWhile 1 9999999</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

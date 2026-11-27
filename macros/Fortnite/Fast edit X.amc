@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Быстрый редакт на кнопку X. Задержка 5 ms. Что бы этот макрос работал, нужно забиндить кнопку редакта на X. С помощью этого макроса можно забагать постройку, что бы она стала невидимой. </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 27 1
+Delay 5 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

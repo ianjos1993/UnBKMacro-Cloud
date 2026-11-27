@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>С помощью данного макроса вы сможете стоять афк в режимах больше 20 минут. Макрос преднозначен только для Roblox в других играх он может не работать.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 1 s
+KeyUp 4 1
+Delay 1 s
+KeyDown 22 1
+Delay 1 s
+KeyUp 22 1
+Delay 1 s
+KeyDown 7 1
+Delay 1 s
+KeyUp 7 1
+Delay 1 s
+KeyDown 26 1
+Delay 1 s
+KeyUp 26 1
+Delay 1 s
+KeyDown 44 1
+Delay 1 s
+KeyUp 44 1
+Delay 1 s</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

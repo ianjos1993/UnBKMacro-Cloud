@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major>RButton&gt;The use of hidden abilities</Major>
+    <Description>Игрок впадает в ритм боевой симфонии, где парные клинки становятся его голосом. Ловкость и стратегия соединяются, создавая непредсказуемость на каждом шагу. С этим классом можно не только уничтожать врагов, но и вдохновлять союзников, становясь символом мощи и решимости.
+
+1.Нажатием правой кнопки мыши задействуется ряд комбинаций для комфортного убийства врага.
+2.Макрос заточен под способности: Маскировка &gt; Оглушающая бомба &gt; Мертвая хватка &gt; Двойной выпад. Стиль игры скрытный. Задействовать макрос желательно с спины противника.</Description>
+    <Comment>ПРИМЕЧЕНИЕ: Блокирующий приём на правой кнопке мыши убран.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoWhile 1 1
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Conqueror's Blade</Software>
+  </DefaultMacro>
+</Root>

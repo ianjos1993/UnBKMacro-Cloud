@@ -1,0 +1,95 @@
+SendDOWN(Win);
+Send (2, 50);
+SendUP(Win);
+SendDOWN(W);
+Sleep(50);
+SendUP(W);
+SendDOWN(Shift);
+Send (1, 50);
+SendUP(Shift);
+
+SendDOWN(Win);
+Send (3, 50);
+SendUP(Win);
+SendDOWN(W);
+Sleep(50);
+SendUP(W);
+SendDOWN(Shift);
+Send (1, 50);
+SendUP(Shift);
+
+
+SendDOWN(Win);
+Send (4, 50);
+SendUP(Win);
+SendDOWN(W);
+Sleep(50);
+SendUP(W);
+SendDOWN(Shift);
+Send (1, 50);
+SendUP(Shift);
+
+
+SendDOWN(Win);
+Send (5, 50);
+SendUP(Win);
+SendDOWN(W);
+Sleep(50);
+SendUP(W);
+SendDOWN(Shift);
+Send (1, 50);
+SendUP(Shift);
+
+
+/////////////////////////////////////////
+
+
+SendDOWN(Win);
+Send (2, 50);
+SendUP(Win);
+sleep (50);
+right (420,580);
+left (485,603);
+Sleep (50);
+SendDOWN(Ctrl);
+Send (q, 10);
+SendUP(Ctrl);
+
+SendDOWN(Win);
+Send (3, 50);
+SendUP(Win);
+sleep (50);
+right (420,90);
+left (485,113);
+Sleep (50);
+SendDOWN(Ctrl);
+Send (q, 10);
+SendUP(Ctrl);
+
+SendDOWN(Win);
+Send (4, 50);
+SendUP(Win);
+Sleep (50);
+right (1300,90);
+left (1365,113);
+SendDOWN(Ctrl);
+Sleep (50);
+Send (q, 10);
+SendUP(Ctrl);
+
+SendDOWN(Win);
+Send (5, 50);
+SendUP(Win);
+Sleep (50);
+right (1300,580);
+left (1365,603);
+SendDOWN(Ctrl);
+Sleep (50);
+Send (q, 10);
+SendUP(Ctrl);
+
+Sleep(100);
+SendDOWN(Win);
+Send (1, 50);
+SendUP(Win);
+right (960,540);

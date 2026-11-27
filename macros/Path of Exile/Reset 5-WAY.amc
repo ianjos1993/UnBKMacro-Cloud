@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>R 5 W </Major>
+    <Description>Game : Path of Exile
+Macros : для (Legion) 5-Way механики фарма с товарищем проводящих сервисы.
+Style : Resseter подходит для ребят играющих на сапортах  (Aurabot)  желающих заработать на прогресс гира.
+Тайминги адаптированны под 9600 - 10.000 avg kills ( из максимальных 10500 - 12.000 на данный момент )
+ на 5-Way для лучшего показателя нужны будут иные всё 
+зависит от вашего напарника и ваших прогресси в гире и качестве билдов.
+В работу макроса лучше не лезть но если у вас хороши уровень панимания работы макросов вы ничего сломаете , как говорится пользуйтесь на здоровье :)</Description>
+    <Comment>Коментарии для модераторов...</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+KeyDown 20 1
+Delay 1 ms
+KeyUp 20 1
+Delay 1040 ms
+KeyDown 26 1
+KeyUp 26 1
+KeyUp 225 1
+Delay 10 ms
+GoWhile 1 3000</Syntax>
+    </KeyDown>
+    <Software>Path of Exile / 5-Way Resset</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Cкрипт на прокачку фитнеса (Груша) 
+(ЛКМ)
+К/Д Минимальное. 
+Рассчитано под антикраш, можете спокойно оставлять и не беспокоиться о том, что вас крашнит. 
+Активируется на ctrl/Деактив также. </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+KeyUp 224 1
+Delay 2000 ms
+KeyDown 224 1
+KeyUp 224 1
+Delay 2000 ms</Syntax>
+    </KeyDown>
+    <Software>Malinovka RP</Software>
+  </DefaultMacro>
+</Root>

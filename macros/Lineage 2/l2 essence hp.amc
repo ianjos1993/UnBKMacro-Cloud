@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Юз банок хп или мелисы боковой кнопкой мышки 1 нажатием( авто) банки должны стоять на кнопке =. с очередью 1с. удобно во время пвп, олимпа или бигвара на эпике.</Description>
+    <Comment>Юз банок хп или мелисы боковой кнопкой мышки 1 нажатием( авто) банки должны стоять на кнопке =.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 46 1
+Delay 1 ms
+KeyUp 46 1
+Delay 1 ms
+Button4down 1
+Delay 1 ms
+Button4Up 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>lineage 2 Essence</Software>
+  </DefaultMacro>
+</Root>

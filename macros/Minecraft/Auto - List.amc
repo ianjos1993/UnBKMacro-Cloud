@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос автоматически вводит команду /list в консоль Minecraft Bedrock Edition, позволяя мгновенно узнать, какие игроки в данный момент находятся на сервере. Он избавляет от необходимости вручную печатать команду, что особенно удобно во время активного игрового процесса, PvP-сражений или командных мероприятий.
+
+Инструкция по установке макроса:
+1. Скачайте файл макроса.
+2. Назначьте его на удобную для вас клавишу.
+3. Все готово! </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>SetLang en-US
+KeyDown 56 1
+Delay 10
+KeyUp 56 1
+Delay 10
+KeyDown 15 1
+Delay 10
+KeyUp 15 1
+Delay 10
+KeyDown 12 1
+Delay 10
+KeyUp 12 1
+Delay 10
+KeyDown 22 1
+Delay 10
+KeyUp 22 1
+Delay 10
+KeyDown 23 1
+Delay 10
+KeyUp 23 1
+Delay 10
+KeyDown 88 1
+Delay 10
+KeyUp 88 1
+Delay 10
+SetLang ru-RU</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

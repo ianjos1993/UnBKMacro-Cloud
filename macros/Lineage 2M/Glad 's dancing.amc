@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Позволяет играя на любом персонаже с сабклассов глада (кроме пики, потому что необходимо переключать режим оружия) менять оружие, накладывая на себя танцы и песни. После баффа, идет смена на основное оружие. Все тайминги ребафа настроены на рандомное время, что позволяет максимально имитировать действия человека.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 37 1
+Delay 30 39 ms
+KeyUp 37 1
+Delay 3 6 s
+KeyDown 36 1
+Delay 28 37 ms
+KeyUp 36 1
+Delay 3 6 s
+Delay 205 305 s
+GoWhile 1 5000</Syntax>
+    </KeyDown>
+    <Software>Lineage 2 Mobile</Software>
+  </DefaultMacro>
+</Root>

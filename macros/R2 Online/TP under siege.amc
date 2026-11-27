@@ -1,0 +1,53 @@
+<Root>
+  <DefaultMacro>
+    <Major>dyha256</Major>
+    <Description>Макрос создал для тех то неуспевает нажать тп на осаде,фарме ну и т,д 
+
+Макрос так же заточен на  то вдруг вы забыли хилиться
+
+работает просто и понятно после тп в город отключается автоматом(если конечно у вас прога установлена на остановку на кнопу ( Ё ) 
+
+
+
+
+КИДАЙЕМ НА   Q-хилки  НА  F8-тп  остановка проги на кнопку ( Ё ) 
+
+Если вдруг кому интересно дайте знать, есть готовый макрос на легкий фарм 
+
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 9 0 179,0,0 255,255,255 1 634 857
+GoColor 4 0 179,0,0 255,255,255 1 723 851
+GoWhile 1 86400000
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+GoWhile 1 86400000
+KeyDown 65 1
+Delay 64
+KeyUp 65 1
+Delay 64
+KeyDown 65 1
+Delay 64
+KeyUp 65 1
+Delay 64
+KeyDown 65 1
+Delay 64
+KeyUp 65 1
+Delay 64
+KeyDown 53 1
+Delay 64
+KeyUp 53 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>R2 online</Software>
+  </DefaultMacro>
+</Root>

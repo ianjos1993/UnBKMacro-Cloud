@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>ANTI-AFK для проекта Amazing RP. Каждые 10 минут персонаж делает шаг вперед, шаг назад, шаг вперед.                                    </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 400 ms
+KeyUp 26 1
+Delay 400 ms
+KeyDown 22 1
+Delay 400 ms
+KeyUp 22 1
+Delay 400 ms
+KeyDown 26 1
+Delay 400 ms
+KeyUp 26 1
+Delay 400 ms
+Delay 10 min</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

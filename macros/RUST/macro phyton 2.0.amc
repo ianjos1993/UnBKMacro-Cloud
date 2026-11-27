@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>macro for phyton</Major>
+    <Description>this macro work for phyton with 1920x 1080 just to put it automatically with 0 recoil
+dpi 1300
+fov 90
+sens 0.5
+
+try it and support me!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+MoveR 2 20
+Delay 64
+MoveR -3 20
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

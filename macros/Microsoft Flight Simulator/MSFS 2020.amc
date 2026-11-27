@@ -1,0 +1,102 @@
+<Root>
+  <DefaultMacro>
+    <Major>Кинематографическая камера для MSFS 2020</Major>
+    <Description>Кинематографическая камера похожая на ChasePlane.
+Для работы камеры необходимо назначить обзор по зажатию на среднюю кнопку мыши
+#####################################################################
+Кнопки камер использовались с цифровой клавиатуры (нампад) 
+
+5 - место КВС
+
+8 - камера за сидениями КВС и второго пилота (обзор кокпита)
+
+0 - вид на левое крыло в салоне самолёта
+
+1 - вид снаружи под фюзеляжем
+
+HOME - переключение на внешнюю камеру</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 96 1
+Delay 64
+KeyUp 96 1
+Delay 64
+MiddleDown 1
+MoveR 1 0
+Delay 5 ms
+GoWhile 6 6000
+MiddleUp 1
+Delay 64
+KeyDown 74 1
+Delay 64
+KeyUp 74 1
+Delay 64
+MiddleDown 1
+MoveR 1 0
+Delay 5 ms
+GoWhile 16 12000
+MiddleUp 1
+KeyDown 93 1
+Delay 64
+KeyUp 93 1
+Delay 64 ms
+MiddleDown 1
+Delay 64
+MoveR 1 0
+Delay 5 ms
+GoWhile 26 6000
+MiddleUp 1
+Delay 64
+KeyDown 74 1
+Delay 64
+KeyUp 74 1
+Delay 64
+MiddleDown 1
+Delay 64
+Delay 64
+MoveR 1 0
+Delay 5 ms
+GoWhile 38 12000
+MiddleUp 1
+Delay 64
+KeyDown 98 1
+Delay 64
+KeyUp 98 1
+Delay 64
+Delay 20 s
+Delay 64
+KeyDown 89 1
+Delay 64
+KeyUp 89 1
+Delay 64
+MiddleDown 1
+Delay 64
+MoveR 1 0
+Delay 5 ms
+GoWhile 55 2000
+MoveR -1 0
+Delay 5 ms
+GoWhile 58 4000
+MiddleUp 1
+Delay 64
+KeyDown 95 1
+Delay 64
+KeyUp 95 1
+Delay 64
+Delay 20 s
+Delay 64
+KeyDown 97 1
+Delay 64
+KeyUp 97 1
+Delay 64
+Delay 20 s</Syntax>
+    </KeyDown>
+    <Software>Microsoft Flight Simulator</Software>
+  </DefaultMacro>
+</Root>

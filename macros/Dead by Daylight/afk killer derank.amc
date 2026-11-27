@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Simple script for afk killer deranking
+
+1. Bind script to key
+2. Press icon "Starts as killer"
+3. Press key to start key
+4. Go make a tea:)
+
+To turn off press key again </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+LeftUp 1
+Delay 3 min
+LeftDown 1
+LeftUp 1
+Delay 3 min
+LeftDown 1
+LeftUp 1
+Delay 3 min</Syntax>
+    </KeyDown>
+    <Software>Dead by daylight</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,131 @@
+<Root>
+  <DefaultMacro>
+    <Major>King Combo 15</Major>
+    <Description>Макрос позволяет выполнять комбо за King комбинацию с HEAT.
+Видео демонстрации работы макроса: https://youtu.be/U-6ltGrh9ig
+
+Кинг — псевдоним, используемый бойцом, скрывающим лицо под маской ягуара. Личность и биографические данные не разглашаются. Известно, что он является последователем оригинального Кинга и продолжает его дело после гибели предшественника. Маска используется как символ преемственности и как средство сокрытия личности. Тактическая модель боя строится на доминировании в ближней дистанции и последовательном изматывании оппонента. Кинг использует тело как основной инструмент давления, полагаясь на силу, массу и точность исполнения приемов. Поведение в бою стабильно, лишено импульсивности и подчинено строгой внутренней дисциплине.
+
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 17.12.2025
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ.
+
+#Kingtekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 0 ms
+KeyDown 7 1
+Delay 15 ms
+KeyDown 92 1
+Delay 0 ms
+KeyDown 93 1
+Delay 254 ms
+KeyUp 93 1
+Delay 8 ms
+KeyUp 26 1
+Delay 21 ms
+KeyUp 92 1
+Delay 2 ms
+KeyUp 7 1
+Delay 906 ms
+KeyDown 7 1
+Delay 54 ms
+KeyDown 93 1
+Delay 78 ms
+KeyDown 92 1
+Delay 105 ms
+KeyUp 93 1
+Delay 26 ms
+KeyUp 7 1
+Delay 23 ms
+KeyUp 92 1
+Delay 769 ms
+KeyDown 92 1
+Delay 124 ms
+KeyUp 92 1
+Delay 477 ms
+KeyDown 4 1
+Delay 229 ms
+KeyUp 4 1
+Delay 129 ms
+KeyDown 92 1
+Delay 160 ms
+KeyUp 92 1
+Delay 263 ms
+KeyDown 4 1
+Delay 164 ms
+KeyUp 4 1
+Delay 50 ms
+KeyDown 92 1
+Delay 124 ms
+KeyUp 92 1
+Delay 218 ms
+KeyDown 4 1
+Delay 115 ms
+KeyDown 92 1
+Delay 1 ms
+KeyUp 4 1
+Delay 91 ms
+KeyUp 92 1
+Delay 273 ms
+KeyDown 4 1
+Delay 98 ms
+KeyDown 92 1
+Delay 22 ms
+KeyUp 4 1
+Delay 83 ms
+KeyUp 92 1
+Delay 310 ms
+KeyDown 89 1
+Delay 0 ms
+KeyDown 93 1
+Delay 130 ms
+KeyUp 89 1
+Delay 12 ms
+KeyUp 93 1
+Delay 899 ms
+KeyDown 4 1
+Delay 103 ms
+KeyDown 92 1
+Delay 8 ms
+KeyUp 4 1
+Delay 110 ms
+KeyUp 92 1
+Delay 247 ms
+KeyDown 89 1
+Delay 6 ms
+KeyDown 93 1
+Delay 105 ms
+KeyUp 89 1
+Delay 5 ms
+KeyUp 93 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

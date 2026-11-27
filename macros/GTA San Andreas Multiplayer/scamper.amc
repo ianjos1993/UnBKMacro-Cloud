@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Скрипт на быстрый бег для сампа!
+Вам стоит поставить этот скрипт на любую удобную вам кнопку для октивации!
+После зажатия на выбрануя вами клавишу ,Вы, заметите как ваш персонаж начнёт быстро бегать!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+KeyUp 225 1
+Delay 30 ms
+KeyDown 225 1
+KeyUp 225 1
+Delay 30 ms
+KeyDown 225 1
+KeyUp 225 1
+Delay 30 ms
+KeyDown 225 1
+KeyUp 225 1
+Delay 30 ms
+KeyDown 225 1
+KeyUp 225 1</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

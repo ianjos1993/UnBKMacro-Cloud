@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro is made for the Semi Automatic Rifle. It is a rapid fire macro. It works best at F0V90 AND SENSE 0.7. This macro is designed to make you look like a pro player and reduces chance of being banned.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 30 ms
+LeftUp 1
+MoveR 0 6
+Delay 27 ms
+MoveR 0 6
+Delay 27 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

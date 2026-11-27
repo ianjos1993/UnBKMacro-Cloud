@@ -1,0 +1,72 @@
+<Root>
+  <DefaultMacro>
+    <Major>Фарм могвинов</Major>
+    <Description>В двуручном хвате меч священной реликвии вкачанный по максимуму
+
+Максим веру
+
+Назначите приминение способности оружия (пепла войны)  на T англискую
+
+Или поменяйте букву в скипте на какую вам удобно
+
+Телепортируемся в место благодати "Крутая дорога ведущая к дворцу"
+
+Разрешение экрана 1920х1080, мышку НЕ ТРОГАТЬ
+
+включаем скрипт
+
+************************************************************************************************************
+для техкому нужно распишу какая буква за что отвечает (кроме WASD управления)
+G - открыть карту
+E - принять
+T - использовать способность меча ( пепел войны)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 226 ms
+KeyDown 26 1
+Delay 2800 ms
+KeyDown 4 1
+Delay 1100 ms
+KeyUp 4 1
+Delay 500 ms
+KeyUp 26 1
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 4000 ms
+KeyDown 26 1
+Delay 3500 ms
+KeyUp 26 1
+Delay 64
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 7000 ms
+KeyDown 10 1
+Delay 50 ms
+KeyUp 10 1
+Delay 300 ms
+KeyDown 22 1
+Delay 150 ms
+KeyUp 22 1
+Delay 200 ms
+KeyDown 8 1
+Delay 50 ms
+KeyUp 8 1
+Delay 100 ms
+KeyDown 8 1
+Delay 50 ms
+KeyUp 8 1
+Delay 100 ms
+Delay 4500 ms
+GoWhile 1 5000</Syntax>
+    </KeyDown>
+    <Software>Elden Ring</Software>
+  </DefaultMacro>
+</Root>

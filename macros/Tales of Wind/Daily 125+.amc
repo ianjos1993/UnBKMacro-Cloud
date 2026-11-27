@@ -1,0 +1,556 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Устали выполнять ежедневные задания? Хотите сэкономить время? Хотите отдохнуть после работы?
+Тогда вот оно ваше решение,совершенно новый,уникальный и удивительный макрос только для вас.
+Зашли нажали - и можете пойди Отдыхать,Кушать,Мыть машину или заниматься другими делами. 
+Одно нажатие,но сколько времени вы сэкономите? 
+Час,Два,а может и вовсе весь день.
+Скачивайте и пользуйтесь с удовольствием. 
+
+Работает с 95 уровня персонажа и выше. 
+На данный момент макрос выпонляет:
+- 3 Царства Снаряжения 
+- 2 Приключения Дракона
+- 3 Царства карт
+- 5 Эскорт
+
+Так же для корректного выполнения убедитесь в том; 
+Разрешение игры - 1920x1080
+что ваш БС отвечает рекомендованным требованиям в ЦС.
+При необходимости можно увеличить или уменьшить время запуска  и интервал ожиданий.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//Эскорт
+Delay 5 s
+MoveTo 1643 98
+Delay 64 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 s
+MoveTo 412 676
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 5 ms
+MoveTo 990 890
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 30 s
+MoveTo 1335 893
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+Delay 15 min
+//Снарь 1-1
+Delay 5 s
+MoveTo 1640 100
+Delay 2 s
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 2 s
+MoveTo 1160 410
+Delay 2 s
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 2 s
+MoveTo 985 900
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 20 s
+MoveTo 1225 560
+Delay 1 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 s
+MoveTo 1450 925
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1 s
+MoveTo 1280 820
+Delay 7 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 3 min
+//Снарь 1-2
+Delay 5 s
+MoveTo 1640 100
+Delay 2 s
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 2 s
+MoveTo 1160 410
+Delay 2 s
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 2 s
+MoveTo 985 900
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1225 560
+Delay 1 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 s
+MoveTo 1450 925
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1 s
+MoveTo 1280 820
+Delay 7 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 3 min
+//Снарь 1-3
+Delay 5 s
+MoveTo 1640 100
+Delay 2 s
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 2 s
+MoveTo 1160 410
+Delay 2 s
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 2 s
+MoveTo 985 900
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1225 560
+Delay 1 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 s
+MoveTo 1450 925
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1 s
+MoveTo 1280 820
+Delay 7 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 3 min
+//Снарь 2-1
+Delay 5 s
+MoveTo 1640 100
+Delay 2 s
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 2 s
+MoveTo 1160 410
+Delay 2 s
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 2 s
+MoveTo 985 900
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 507 707
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 s
+MoveTo 1225 560
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 s
+MoveTo 1450 925
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1 s
+MoveTo 1280 820
+Delay 7 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 3 min
+//Снарь 2-2
+Delay 5 s
+MoveTo 1640 100
+Delay 2 s
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 2 s
+MoveTo 1160 410
+Delay 2 s
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 2 s
+MoveTo 985 900
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 507 707
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 s
+MoveTo 1225 560
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 s
+MoveTo 1450 925
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1 s
+MoveTo 1280 820
+Delay 7 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 3 min
+//Снарь 2-3
+Delay 5 s
+MoveTo 1640 100
+Delay 2 s
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 2 s
+MoveTo 1160 410
+Delay 2 s
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 2 s
+MoveTo 985 900
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 507 707
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 s
+MoveTo 1225 560
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 s
+MoveTo 1450 925
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1 s
+MoveTo 1280 820
+Delay 7 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 3 min
+//Снарь 3-1
+Delay 5 s
+MoveTo 1640 100
+Delay 2 s
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 2 s
+MoveTo 1160 410
+Delay 2 s
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 2 s
+MoveTo 985 900
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 s
+MoveTo 500 532
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 s
+MoveTo 1225 560
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 s
+MoveTo 1457 921
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 s
+MoveTo 1280 820
+LeftDown 1
+Delay 7 s
+LeftUp 1
+Delay 3 min
+//Снарь 3-2
+Delay 5 s
+MoveTo 1640 100
+Delay 2 s
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 2 s
+MoveTo 1160 410
+Delay 2 s
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 2 s
+MoveTo 985 900
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 s
+MoveTo 500 532
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 s
+MoveTo 1225 560
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 s
+MoveTo 1457 921
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 s
+MoveTo 1280 820
+LeftDown 1
+Delay 7 s
+LeftUp 1
+Delay 3 min
+//Снарь 3-3
+Delay 5 s
+MoveTo 1640 100
+Delay 2 s
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 2 s
+MoveTo 1160 410
+Delay 2 s
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 2 s
+MoveTo 985 900
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 s
+MoveTo 500 532
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 s
+MoveTo 1225 560
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 s
+MoveTo 1457 921
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 s
+MoveTo 1280 820
+LeftDown 1
+Delay 7 s
+LeftUp 1
+Delay 3 min
+//Дракон 1
+Delay 5 s
+MoveTo 1640 100
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2000 ms
+MoveTo 1501 481
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2000 ms
+MoveTo 985 900
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 20 s
+MoveTo 1217 909
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2000 ms
+MoveTo 1280 820
+Delay 7 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 min
+//Дракон 2
+MoveTo 1640 100
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2000 ms
+MoveTo 1501 481
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2000 ms
+MoveTo 985 900
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1217 909
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2000 ms
+MoveTo 1280 820
+Delay 7 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 min
+//Карты 1
+MoveTo 1640 100
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2000 ms
+MoveTo 1035 640
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2000 ms
+MoveTo 985 900
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2000 ms
+MoveTo 1030 925
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2000 ms
+MoveTo 1280 820
+Delay 7 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 min
+//Карты 2
+Delay 2 s
+MoveTo 1039 924
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 s
+MoveTo 1279 817
+Delay 7 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 2 min
+//Карты 3
+Delay 2 s
+MoveTo 1039 924
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 s
+MoveTo 1279 817
+Delay 7 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 2 min</Syntax>
+    </KeyDown>
+    <Software>Tales of Wind</Software>
+  </DefaultMacro>
+</Root>

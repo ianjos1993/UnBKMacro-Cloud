@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>АВТО-РУЛЕТКА</Major>
+    <Description>Макрос предназначен для автоматического открытие ОБНОВЛЕННЫХ (17.06.2024) рулетках на Arizona RP, все что нужно просто открыть рулетку через инвентарь, и запустить скрипт, далее макрос будет сам Открывать рулетку Скипать приз и снова Открывать</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 88 1
+Delay 87 ms
+KeyUp 88 1
+Delay 19591 ms
+KeyDown 28 1
+Delay 111 ms
+KeyUp 28 1
+Delay 1089 ms
+KeyDown 88 1
+Delay 147 ms
+KeyUp 88 1
+Delay 764 ms
+KeyDown 88 1
+Delay 119 ms
+KeyUp 88 1
+GoWhile 1 15000</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

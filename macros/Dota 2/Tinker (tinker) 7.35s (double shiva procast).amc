@@ -1,0 +1,86 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Что присутствует в сценарии:
+
+R- ПЕРЕЗАРЯДКА
+С- ШИВА
+Z- ЭЗЕРИАЛ
+X- ХЕКС
+3 - ДАГОН
+Space - БЛИНК (желательно аркане блинк маны будет ой как не хватать)
+Q - ЛАЗЕР
+W- РАКЕТЫ
+
+РАБОТА СЦЕНАРИЯ:
+
+1.Производится двойная шива (Перезарядка и сразу шива и по окончанию перезарядки сново шива)
+2.Блинк
+3.Эзериал
+4.Хекс
+5.Лазер
+6.Ракеты
+7.Дагон
+8.Перезарядка
+
+Рекомендация и тактика использования:
+
+Тактика проста, активируем сценарий и наводимся мышкой на противника, после окончания действия сценария блинкуемся обратно и перезаряжаемся. Делаем так 2-3 раза и тп на базу. Скрипт идеально подходит для одиночного противника, но так же подойдет и для толпы, но для безопасности всегда блинкуемся подальше после окончания скрипта (!!!ВСЕГДА!!!). Так же не советую его использовать до достижения 18 левела. Ну а дальше сами разберетесь.
+
+
+
+По желанию можно настроить для себя.
+
+Удачной игры:)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64 ms
+KeyDown 6 1
+Delay 200 ms
+KeyUp 6 1
+Delay 1000 ms
+KeyDown 6 1
+Delay 64
+KeyUp 6 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 29 1
+Delay 64
+KeyUp 29 1
+Delay 64
+KeyDown 27 1
+Delay 64
+KeyUp 27 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 300 ms
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 200 ms
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 250 ms
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

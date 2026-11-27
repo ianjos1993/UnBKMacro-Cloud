@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Иногда ты играешь в роблокс и не знаешь чем заняться, заходишь в симулятор, а там надо прыгать и бегать одновременно. Этот макрос как раз создан для таких режимов. Я не смог поставить еще на автоматический клик, поэтому пользуйтесь автокликером. Всем кто читает приятной игры и хорошего настроения.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы. Лучшие макросы.</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+KeyDown 44 1
+Delay 10 min
+KeyUp 44 1
+KeyUp 26 1
+Delay 1 ms
+GoWhile 1 100</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>MMC Classic Autorod</Major>
+    <Description>This macro is made for the Classic gamemode on MinemenClub server and its perfect for any other Rod and Sword gamemodes.Make sure you change your bind settings in Minecraft Settings to these ---&gt; F - Sword ; R - Rod.
+You can customize these bindings by changing them in the Editor Tab in the Keyran program . You can change the delays according to your ping ( Small ping = small delay / High ping = high delay )</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 60 ms
+KeyUp 9 1
+Delay 10 ms
+KeyDown 21 1
+Delay 15 ms
+KeyUp 21 1
+Delay 15 ms
+RightDown 1
+Delay 10 ms
+RightUp 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

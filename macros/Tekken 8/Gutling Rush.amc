@@ -1,0 +1,90 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос позволит вам одним нажатием воспроизвести прием Gutling Rush за персонажа Браян Фьюри. Чаще всего используется как комбо эндер на стене для максимального урона в комбо.</Description>
+    <Comment>Мое расположение клавиш:
+1-NUM 7
+2-NUM 8
+3-NUM4
+4-NUM 5
+
+Forward- D
+Back- A
+Down- S
+Up- W
+
+Если вы не хотите играть с моей раскладкой, то вам придется настроить макрос под свою путем переназначения клавиш в макросе на нужные вам. Это не сложно, просто нужно разобраться :)</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 21 ms
+KeyDown 4 1
+Delay 36 ms
+KeyDown 97 1
+Delay 53 ms
+KeyUp 97 1
+Delay 90 ms
+KeyDown 97 1
+Delay 58 ms
+KeyUp 97 1
+Delay 78 ms
+KeyDown 97 1
+Delay 54 ms
+KeyUp 97 1
+Delay 84 ms
+KeyDown 97 1
+Delay 58 ms
+KeyUp 97 1
+Delay 60 ms
+KeyDown 97 1
+Delay 65 ms
+KeyUp 97 1
+Delay 60 ms
+KeyDown 97 1
+Delay 63 ms
+KeyUp 97 1
+Delay 79 ms
+KeyDown 97 1
+Delay 53 ms
+KeyUp 97 1
+Delay 56 ms
+KeyDown 97 1
+Delay 74 ms
+KeyUp 97 1
+Delay 47 ms
+KeyDown 97 1
+Delay 60 ms
+KeyUp 97 1
+Delay 49 ms
+KeyDown 97 1
+Delay 58 ms
+KeyUp 97 1
+Delay 72 ms
+KeyDown 97 1
+Delay 62 ms
+KeyUp 97 1
+Delay 53 ms
+KeyDown 97 1
+Delay 57 ms
+KeyUp 97 1
+Delay 43 ms
+KeyDown 97 1
+Delay 60 ms
+KeyUp 97 1
+Delay 102 ms
+KeyDown 93 1
+Delay 44 ms
+KeyUp 26 1
+Delay 5 ms
+KeyUp 4 1
+Delay 14 ms
+KeyUp 93 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

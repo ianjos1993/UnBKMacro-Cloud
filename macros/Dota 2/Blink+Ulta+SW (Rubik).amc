@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос упрощает игру и избавляет от лишней суеты при игре на рубике с блинком. Мнгновенное нажатие блинка +  кража способности врага и как только она постигнет рубика моментально променяет его в указанном направлении</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 64 ms
+KeyDown 8 1
+Delay 64 ms
+KeyUp 8 1
+Delay 32 ms
+KeyDown 33 1
+Delay 192 ms
+KeyUp 33 1
+Delay 32 ms</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

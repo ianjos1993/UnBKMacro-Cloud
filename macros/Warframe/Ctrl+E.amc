@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматически производит атаку в подкате при зажатии. Требует передвижения от самого игрока, иначе будет приседать и бить на месте. Пользуйтесь на выживаниях по часу чтобы ваш пальчик не отсох. =D</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 50 ms
+KeyDown 8 1
+Delay 50 ms
+KeyUp 8 1
+Delay 50 ms
+KeyUp 224 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>Warframe</Software>
+  </DefaultMacro>
+</Root>

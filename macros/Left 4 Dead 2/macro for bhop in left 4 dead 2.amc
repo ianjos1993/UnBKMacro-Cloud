@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major>bhop</Major>
+    <Description>simple bhob script i made for left 4 dead 2 just toggle this to your spacebar of something and keep holding it while using A and D to strafe </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 6 ms
+KeyUp 44 1
+Delay 6 ms
+KeyDown 44 1
+Delay 6 ms
+KeyUp 44 1
+Delay 6 ms
+KeyDown 44 1
+Delay 6 ms
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>Left 4 Dead 2</Software>
+  </DefaultMacro>
+</Root>

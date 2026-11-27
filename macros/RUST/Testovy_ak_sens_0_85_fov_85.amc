@@ -1,0 +1,121 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на калаш в расте (Сенса 85, фов 85) выстреливает 15 патрон в точку,так же есть макросы на такие оружия как берданка,берета,лрка,томсон!</Description>
+    <Comment>https://deadxmacro.store
+</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR -2 3
+Delay 32 ms
+MoveR -4 6
+Delay 32 ms
+MoveR -6 9
+Delay 32 ms
+MoveR -8 12
+Delay 32 ms
+MoveR -0 3
+Delay 32 ms
+MoveR 1 6
+Delay 32 ms
+MoveR 2 7
+Delay 32 ms
+MoveR 2 10
+Delay 32 ms
+MoveR -3 3
+Delay 32 ms
+MoveR -6 5
+Delay 32 ms
+MoveR -9 7
+Delay 32 ms
+MoveR -13 10
+Delay 32 ms
+MoveR -3 3
+Delay 32 ms
+MoveR -6 4
+Delay 32 ms
+MoveR -7 7
+Delay 32 ms
+MoveR -11 8
+Delay 32 ms
+MoveR 0 2
+Delay 32 ms
+MoveR 0 5
+Delay 32 ms
+MoveR 0 6
+Delay 32 ms
+MoveR 0 8
+Delay 32 ms
+MoveR 1 2
+Delay 32 ms
+MoveR 3 4
+Delay 32 ms
+MoveR 3 4
+Delay 32 ms
+MoveR 6 6
+Delay 32 ms
+MoveR 2 2
+Delay 32 ms
+MoveR 3 3
+Delay 32 ms
+MoveR 5 4
+Delay 32 ms
+MoveR 6 4
+Delay 32 ms
+MoveR 3 1
+Delay 32 ms
+MoveR 4 2
+Delay 32 ms
+MoveR 6 2
+Delay 32 ms
+MoveR 7 3
+Delay 32 ms
+MoveR 3 1
+Delay 32 ms
+MoveR 5 2
+Delay 32 ms
+MoveR 7 3
+Delay 32 ms
+MoveR 11 4
+Delay 32 ms
+MoveR 3 1
+Delay 32 ms
+MoveR 5 2
+Delay 32 ms
+MoveR 7 2
+Delay 32 ms
+MoveR 10 3
+Delay 32 ms
+MoveR 2 0
+Delay 32 ms
+MoveR 4 0
+Delay 32 ms
+MoveR 6 0
+Delay 32 ms
+MoveR 8 0
+Delay 32 ms
+MoveR 2 2
+Delay 32 ms
+MoveR 4 4
+Delay 32 ms
+MoveR 6 5
+Delay 32 ms
+MoveR 8 6
+Delay 32 ms
+MoveR 2 2
+Delay 32 ms
+MoveR 4 3
+Delay 32 ms
+MoveR 4 3
+Delay 32 ms
+MoveR 5 3</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

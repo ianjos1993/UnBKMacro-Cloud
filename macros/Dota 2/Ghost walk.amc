@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>Instant Ghost walk</Major>
+    <Description>Мнгновенный каст невидимости на Invoker. Полезно чтобы быстро засейвить себя и уйти. Для правильной работы нужно забиндить макрос на любую клавишу и переназначить сферы на Z X C, первый слот способностей на Q. Привязки клавиш можно изменить в редакторе макроса.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 25 30 ms
+KeyUp 29 1
+Delay 25 30 ms
+KeyDown 29 1
+Delay 25 30 ms
+KeyUp 29 1
+Delay 25 30 ms
+KeyDown 27 1
+Delay 25 30 ms
+KeyUp 27 1
+Delay 25 30 ms
+KeyDown 21 1
+Delay 25 30 ms
+KeyUp 21 1
+Delay 50 ms
+Delay 50 ms
+KeyDown 20 1
+Delay 25 30 ms
+KeyUp 20 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

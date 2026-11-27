@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major>RButton&gt;The use of hidden abilities</Major>
+    <Description>Класс "Лучник" — это персонаж, специализирующийся на дальнем бое, который использует лук и стрелы для атаки противников с расстояния. Лучники часто характеризуются высокой ловкостью, меткостью и умением маневрировать в бою.
+
+Общее описание макроса:  
+
+1. Убран блок у лучника, в нем нет необходимости.  
+2. Макрос рассчитан на класс &lt;короткий лук&gt;.  
+3. Умения, последовательность макроса: Отравленная стрела &gt; Град стрел (задержка 20 мс), Ошеломляющий выстрел &gt; Меткое попадание.</Description>
+    <Comment>Причина: Незадействован дополнительный эффект, задумка макроса на контроль отряда.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 30 ms
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 30 ms
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 30 ms
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 30 ms</Syntax>
+    </KeyDown>
+    <Software>Conqueror's Blade</Software>
+  </DefaultMacro>
+</Root>

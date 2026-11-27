@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос позволит вам строиться очень быстро с отпусканием шифта, работает на любых разрешаниях экрана, чуствительность в игре тоже не важна
+
+По вопросам дс:
+morskou
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 20
+KeyDown 22 1
+Delay 20
+KeyDown 225 1
+Delay 20
+KeyUp 225 1
+Delay 20
+GoWhile 1 9999999</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

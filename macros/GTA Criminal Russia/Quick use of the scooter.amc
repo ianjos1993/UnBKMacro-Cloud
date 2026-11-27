@@ -1,0 +1,112 @@
+<Root>
+  <DefaultMacro>
+    <Major>AMAZING ONLINE - Быстрое использование самоката + Хил</Major>
+    <Description>После включения макроса выполняются следующие действия:
+
+- Персонаж автоматически садится на самокат.
+
+- Открывается радикальное меню и персонаж использует аптечку.
+
+Разрешение экрана - 1920x1080</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 39 1
+Delay 73 ms
+KeyUp 39 1
+Delay 1254 ms
+WheelUp 1
+Delay 213 ms
+WheelDown 1
+Delay 345 ms
+KeyDown 81 1
+Delay 3 ms
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 4 ms
+KeyUp 81 1
+Delay 4 ms
+KeyDown 81 1
+Delay 3 ms
+KeyUp 81 1
+Delay 3 ms
+KeyDown 81 1
+Delay 4
+KeyUp 81 1
+Delay 4
+KeyDown 81 1
+Delay 4
+KeyUp 81 1
+Delay 4
+KeyDown 81 1
+Delay 4
+KeyUp 81 1
+Delay 4
+KeyDown 81 1
+Delay 4
+KeyUp 81 1
+Delay 4
+KeyDown 81 1
+Delay 4
+KeyUp 81 1
+Delay 4
+KeyDown 81 1
+Delay 4
+KeyUp 81 1
+Delay 4
+KeyDown 81 1
+Delay 4
+KeyUp 81 1
+Delay 4
+KeyDown 81 1
+Delay 4
+KeyUp 81 1
+Delay 4
+KeyDown 81 1
+Delay 4
+KeyUp 81 1
+Delay 4
+KeyDown 21 1
+Delay 4
+KeyUp 21 1
+Delay 540 ms
+MoveTo 560 473
+Delay 4
+LeftDown 1
+Delay 4
+LeftUp 1
+Delay 4
+MoveTo 983 763
+Delay 4
+LeftDown 1
+Delay 4 ms
+KeyDown 8 1
+Delay 3 ms
+KeyUp 8 1
+Delay 3 ms
+KeyUp 81 1
+Delay 4
+KeyDown 81 1
+Delay 4
+KeyUp 81 1
+Delay 4
+KeyDown 81 1
+Delay 4
+KeyDown 88 1
+Delay 3500 ms
+KeyUp 88 1
+Delay 1 ms
+KeyDown 225 1
+Delay 1 ms
+KeyUp 225 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>GTA: Criminal Russia (CRMP)</Software>
+  </DefaultMacro>
+</Root>

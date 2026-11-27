@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>Rust macros Python 2022</Major>
+    <Description>Доброго времени суток.
+Сегодня я создал макрос на питон.
+Играл с ним,и стал самым богатым на сервере.
+Вам будет ничего не страшно.
+Команды для хорошей игры с макросом Python edition
+input.sensivity 0.8
+fov 90
+Развивайтесь,радуйтесь.
+Удачной игры</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>
+LeftDown 1
+Delay 20 ms
+LeftUp 1
+MoveR 0 6
+Delay 10 ms
+MoveR 0 6
+Delay 10 ms
+</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

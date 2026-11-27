@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description> Всех с новым годом !!! представляю вам свой макрос, на нож . подойдет для тех кто много играет на ножах
+как использовать данный макрос
+1)нажимаем установить
+2)ставим на клавишу альт, ли на V 
+кому как удобно! удачи в боях!!!!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 11 ms
+LeftUp 1
+Delay 11 ms
+KeyDown 34 1
+Delay 11 ms
+KeyUp 34 1
+Delay 11 ms
+KeyDown 32 1
+Delay 11 ms
+KeyUp 32 1
+Delay 410 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

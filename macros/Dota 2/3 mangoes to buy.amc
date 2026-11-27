@@ -1,0 +1,49 @@
+<Root>
+  <DefaultMacro>
+    <Major>покупка трех манго 1 кнопкой</Major>
+    <Description>Покупка трех манго 1 кнопкой 
+
+в настройках надо поставить открытие строки поиска при открытии лавки 
+
+открытие лавки на кнопку ------- ( ` ) 
+
+также у вас должна быть включена АНГЛ РАСКЛАДКА НА КЛАВИАТУРЕ</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 53 1
+Delay 12 16
+KeyUp 53 1
+Delay 12 16
+KeyDown 8 1
+Delay 12 16
+KeyUp 8 1
+Delay 12 16
+KeyDown 88 1
+Delay 12 16
+KeyUp 88 1
+Delay 12 16
+KeyDown 88 1
+Delay 12 16
+KeyUp 88 1
+Delay 12 16
+KeyDown 88 1
+Delay 12 16
+KeyUp 88 1
+Delay 12 16
+KeyDown 53 1
+Delay 12 16
+KeyUp 53 1
+Delay 12 16
+KeyDown 56 1
+Delay 12 16
+KeyUp 56 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

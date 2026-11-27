@@ -1,0 +1,71 @@
+<Root>
+  <DefaultMacro>
+    <Major>Зеленые камни</Major>
+    <Description>Персонаж - Лина
+условия:
+1.  "Удар-вспышка"  на клавишу G; "Пламенный финал" на клавишу Y
+2. "Удар-вспышки" 4 лвл; "Пламенный финал" 2 лвл
+3. Надеть питомца
+"Удар-вспышка" убивает крипов с 1 комнаты, а "Пламенный финал" убивает босса</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 4378 ms
+KeyDown 26 1
+Delay 273 ms
+KeyDown 4 1
+Delay 216 ms
+KeyUp 4 1
+Delay 607 ms
+KeyDown 4 1
+Delay 104 ms
+KeyUp 4 1
+Delay 1175 ms
+KeyDown 10 1
+Delay 24 ms
+KeyUp 26 1
+Delay 79 ms
+KeyUp 10 1
+Delay 5721 ms
+KeyDown 26 1
+Delay 990 ms
+KeyDown 4 1
+Delay 160 ms
+KeyUp 4 1
+Delay 2879 ms
+KeyUp 26 1
+Delay 1024 ms
+KeyDown 26 1
+Delay 327 ms
+KeyDown 4 1
+Delay 304 ms
+KeyUp 4 1
+Delay 1391 ms
+KeyDown 28 1
+Delay 16 ms
+KeyUp 26 1
+Delay 143 ms
+KeyUp 28 1
+Delay 15721 ms
+KeyDown 41 1
+Delay 62 ms
+KeyUp 41 1
+Delay 6112 ms
+KeyDown 58 1
+Delay 159 ms
+KeyUp 58 1
+Delay 344 ms
+KeyDown 61 1
+Delay 111 ms
+KeyUp 61 1
+Delay 1495 ms
+GoWhile 1 9999999</Syntax>
+    </KeyDown>
+    <Software>Kritika Online</Software>
+  </DefaultMacro>
+</Root>

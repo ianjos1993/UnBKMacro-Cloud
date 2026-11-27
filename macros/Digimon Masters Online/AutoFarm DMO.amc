@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>A simple macro for the Digimon Master Online game with auto farm and only hit digimon target
+
+Setting:
+line 9 for digimon health
+line 11 for type of digimon (drag to the digimon skin)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 50 100 ms
+KeyUp 43 1
+Delay 50 ms
+GoColor 7 2 129,34,24 236,78,59 2 970 56 4 7 1 0
+Goto 12
+GoColor 9 1 71,50,102 180,169,238 2 990 25 49 49 1 0
+Goto 12
+KeyDown 20 1
+Delay 100 300 ms
+KeyUp 20 1
+Delay 0 ms</Syntax>
+    </KeyDown>
+    <Software>Digimon Masters Online</Software>
+  </DefaultMacro>
+</Root>

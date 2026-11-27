@@ -1,0 +1,70 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматический макрос для фарма в Rappelz. Персонаж последовательно перемещается по заданным направлениям WASD, после чего трижды активирует комбинацию из трёх массовых навыков (1, 2, 3). Между нажатиями предусмотрена небольшая задержка, а после выполнения всей последовательности макрос делает паузу 15 секунд и автоматически повторяет цикл. Удобное решение для упрощения рутинного фарма.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 4000 ms
+KeyUp 26 1
+Delay 64
+KeyDown 7 1
+Delay 4000 ms
+KeyUp 7 1
+Delay 64
+KeyDown 22 1
+Delay 4000 ms
+KeyUp 22 1
+Delay 64
+KeyDown 4 1
+Delay 4000 ms
+KeyUp 4 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 150 ms
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 150 ms
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 150 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 150 ms
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 150 ms
+KeyDown 32 1
+Delay 150 ms
+KeyUp 32 1
+Delay 63 ms
+KeyDown 30 1
+Delay 150 ms
+KeyUp 30 1
+Delay 64
+KeyDown 31 1
+Delay 150 ms
+KeyUp 31 1
+Delay 64
+KeyDown 32 1
+Delay 150 ms
+KeyUp 32 1
+Delay 64
+Delay 15000 ms
+GoWhile 1 1000</Syntax>
+    </KeyDown>
+    <Software>Rappelz </Software>
+  </DefaultMacro>
+</Root>

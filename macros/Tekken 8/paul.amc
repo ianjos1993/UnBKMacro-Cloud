@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major>Paul deathfist</Major>
+    <Description>This script automates the execution of Paul's moves, specifically designed to enhance the performance of his most powerful attacks, like the Deathfist (Phoenix Smasher). It ensures precise and consistent input timing, making it easier to land combos and special moves without missing crucial inputs.
+
+
+Features:
+
+Automates inputs for Deathfist and other key moves.
+
+
+Optimized for quick, accurate execution of complex combos.
+
+
+Helps players avoid input errors and delays.
+
+
+Allows for smoother gameplay, particularly in intense combat situations.
+
+
+This script is ideal for players who want to ensure their inputs are always on point, giving them the edge in both casual play and competitive settings.
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 20 ms
+KeyUp 22 1
+KeyDown 22 1
+Delay 20 ms
+KeyUp 22 1
+KeyDown 7 1
+Delay 20 ms
+KeyUp 7 1
+Delay 20 ms
+KeyDown 12 1
+Delay 20 ms
+KeyUp 12 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

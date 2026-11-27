@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major>Gtm cristaliix</Major>
+    <Description>Gtm cristalix. Макрос создан для пвп в зданиях он сейвит вас щитом от дефолтного зажима шесты, а потом сразу же стреляет со страйкера и подлетает в типа, от вас осталось только навестись на типа и зажать макросс, слоты настраивайте под себя</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 35 1
+Delay 17
+KeyUp 35 1
+Delay 17
+RightDown 1
+Delay 120 ms
+KeyDown 31 1
+Delay 17
+KeyUp 31 1
+Delay 17
+LeftDown 1
+Delay 17
+LeftUp 1
+Delay 17
+RightDown 1
+Delay 17
+RightUp 1
+Delay 17
+KeyDown 30 1
+Delay 17
+KeyUp 30 1
+Delay 17
+RightDown 1
+Delay 17
+RightUp 1
+Delay 17
+RightDown 1
+Delay 17
+RightUp 1
+Delay 17
+RightUp 1
+Delay 17</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

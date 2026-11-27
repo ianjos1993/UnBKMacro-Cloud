@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major>Mass</Major>
+    <Description>Макрос для класса Soultaker. Автоматическое использование Mass Gloom, Mass Slow, Mass Mage Bane, Mass Fear. На пвп серверах с полным бафом можно спокойно забежать в толпу и всех дебафать. Задержку лучше выбирать минимальную.
+]. Mass Gloom
+[. Mass Slow
+P. Mass Mage Bane
+O. Mass Fear
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 48 1
+Delay 1 ms
+KeyUp 48 1
+Delay 1 ms
+KeyDown 47 1
+Delay 1 ms
+KeyUp 47 1
+Delay 1 ms
+KeyDown 19 1
+Delay 1 ms
+KeyUp 19 1
+Delay 1 ms
+KeyDown 18 1
+Delay 1 ms
+KeyUp 18 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

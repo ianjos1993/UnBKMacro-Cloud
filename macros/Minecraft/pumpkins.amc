@@ -1,0 +1,328 @@
+<Root>
+  <DefaultMacro>
+    <Major>hypixel ферма тыкв</Major>
+    <Description>Автоматическая ферма тыкв «Скайблок Hypixel»
+
+Этот макрос настроен на автоматическую работу определенной фермы тыкв. Скорость добычи составляет 20 блоков в секунду.
+
+Для настройки фермы перейдите по указанной ссылке, затем следуйте инструкциям в гайде. После завершения настройки введите команду /sethome и нажмите клавишу Enter. Затем введите команду /home и нажмите кнопку макроса, чтобы активировать его работу.
+ферма:
+https://www.youtube.com/watch?v=MUtFyVk6-kw&amp;t=1s</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1190 ms
+Delay 64
+Delay 64
+KeyDown 26 1
+Delay 7 ms
+LeftDown 1
+Delay 34 ms
+KeyDown 7 1
+Delay 71875 ms
+KeyUp 7 1
+Delay 283 ms
+KeyDown 4 1
+Delay 71927 ms
+KeyUp 4 1
+Delay 54 ms
+KeyDown 7 1
+Delay 72275 ms
+KeyDown 4 1
+Delay 6 ms
+KeyUp 7 1
+Delay 71929 ms
+KeyUp 4 1
+Delay 36 ms
+KeyDown 7 1
+Delay 72097 ms
+KeyUp 7 1
+Delay 0 ms
+KeyDown 4 1
+Delay 1963 ms
+LeftUp 1
+Delay 57 ms
+KeyUp 4 1
+Delay 7 ms
+KeyUp 26 1
+Delay 9300 ms
+LeftDown 1
+Delay 525 ms
+KeyDown 4 1
+Delay 20 ms
+KeyDown 26 1
+Delay 8519 ms
+LeftUp 1
+Delay 21 ms
+KeyUp 4 1
+Delay 54 ms
+KeyUp 26 1
+Delay 1292 ms
+KeyDown 8 1
+Delay 129 ms
+KeyUp 8 1
+Delay 1007 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 748 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 748 ms
+LeftDown 1
+Delay 97 ms
+LeftUp 1
+Delay 882 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 514 ms
+Delay 77 ms
+Delay 11321 ms
+LeftDown 1
+Delay 428 ms
+KeyDown 26 1
+Delay 9 ms
+KeyDown 4 1
+Delay 61954 ms
+KeyUp 4 1
+Delay 332 ms
+KeyDown 7 1
+Delay 71984 ms
+KeyUp 7 1
+Delay 68 ms
+KeyDown 4 1
+Delay 15917 ms
+LeftUp 1
+Delay 42 ms
+KeyUp 26 1
+Delay 37 ms
+KeyUp 4 1
+Delay 179 ms
+WheelDown 1
+Delay 21 ms
+WheelDown 1
+Delay 19 ms
+WheelDown 1
+Delay 24 ms
+WheelDown 1
+Delay 54 ms
+WheelDown 1
+Delay 278 ms
+RightDown 1
+Delay 132 ms
+RightUp 1
+Delay 742 ms
+LeftDown 1
+Delay 77 ms
+LeftUp 1
+Delay 1802 ms
+Delay 74 ms
+Delay 209 ms
+WheelUp 1
+Delay 27 ms
+WheelUp 1
+Delay 51 ms
+WheelUp 1
+Delay 249 ms
+WheelUp 1
+Delay 35 ms
+WheelUp 1
+Delay 94 ms
+KeyDown 7 1
+Delay 105 ms
+KeyUp 7 1
+Delay 336 ms
+LeftDown 1
+Delay 6 ms
+KeyDown 4 1
+Delay 0 ms
+KeyDown 26 1
+Delay 29077 ms
+KeyUp 4 1
+Delay 3 ms
+KeyUp 26 1
+Delay 1450 ms
+KeyDown 4 1
+Delay 6 ms
+KeyDown 26 1
+Delay 612 ms
+KeyUp 4 1
+Delay 40 ms
+KeyUp 26 1
+Delay 365 ms
+KeyDown 4 1
+Delay 33 ms
+KeyDown 26 1
+Delay 590 ms
+KeyUp 26 1
+Delay 9 ms
+KeyUp 4 1
+Delay 556 ms
+KeyDown 4 1
+Delay 141 ms
+KeyUp 4 1
+Delay 929 ms
+KeyDown 4 1
+Delay 172 ms
+KeyUp 4 1
+Delay 589 ms
+LeftUp 1
+Delay 475 ms
+LeftDown 1
+Delay 378 ms
+LeftUp 1
+Delay 137 ms
+KeyDown 4 1
+Delay 562 ms
+LeftDown 1
+Delay 61 ms
+KeyUp 4 1
+Delay 788 ms
+KeyDown 4 1
+Delay 123 ms
+KeyDown 26 1
+Delay 24394 ms
+KeyUp 4 1
+Delay 217 ms
+KeyDown 7 1
+Delay 18227 ms
+KeyDown 43 1
+Delay 5886 ms
+KeyUp 43 1
+Delay 351 ms
+KeyDown 43 1
+Delay 3973 ms
+KeyUp 43 1
+Delay 410 ms
+KeyDown 43 1
+Delay 11584 ms
+KeyUp 43 1
+Delay 3935 ms
+KeyDown 43 1
+Delay 1083 ms
+KeyUp 43 1
+Delay 294 ms
+KeyDown 43 1
+Delay 560 ms
+KeyUp 43 1
+Delay 301 ms
+KeyDown 43 1
+Delay 174 ms
+KeyUp 43 1
+Delay 3979 ms
+KeyDown 43 1
+Delay 2908 ms
+KeyUp 43 1
+Delay 1903 ms
+KeyDown 43 1
+Delay 2177 ms
+KeyUp 43 1
+Delay 14487 ms
+KeyUp 7 1
+Delay 54 ms
+KeyDown 4 1
+Delay 71878 ms
+KeyUp 4 1
+Delay 212 ms
+KeyDown 7 1
+Delay 71932 ms
+KeyDown 4 1
+Delay 7 ms
+KeyUp 7 1
+Delay 71909 ms
+KeyUp 4 1
+Delay 171 ms
+KeyDown 7 1
+Delay 71961 ms
+KeyUp 7 1
+Delay 14 ms
+KeyDown 4 1
+Delay 30146 ms
+KeyUp 4 1
+Delay 4 ms
+KeyUp 26 1
+Delay 199 ms
+LeftUp 1
+Delay 8926 ms
+KeyDown 8 1
+Delay 137 ms
+KeyUp 8 1
+Delay 300 ms
+KeyDown 8 1
+Delay 124 ms
+KeyUp 8 1
+Delay 3678 ms
+LeftDown 1
+Delay 338 ms
+KeyDown 4 1
+Delay 0 ms
+KeyDown 26 1
+Delay 41834 ms
+KeyUp 4 1
+Delay 28 ms
+KeyDown 7 1
+Delay 72039 ms
+KeyUp 7 1
+Delay 30 ms
+KeyDown 4 1
+Delay 97 ms
+KeyUp 4 1
+Delay 114 ms
+KeyUp 26 1
+Delay 7 ms
+LeftUp 1
+Delay 1647 ms
+KeyDown 8 1
+Delay 144 ms
+KeyUp 8 1
+Delay 679 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 335 ms
+LeftDown 1
+Delay 90 ms
+LeftUp 1
+Delay 1728 ms
+LeftDown 1
+Delay 132 ms
+LeftUp 1
+Delay 251 ms
+LeftDown 1
+Delay 118 ms
+LeftUp 1
+KeyDown 56 1
+Delay 64
+KeyUp 56 1
+Delay 64
+KeyDown 11 1
+Delay 64
+KeyUp 11 1
+Delay 64
+KeyDown 18 1
+Delay 64
+KeyUp 18 1
+Delay 64
+KeyDown 16 1
+Delay 64
+KeyUp 16 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Кастует магику метель не советую использовать если вы мокрый.
+Примечяние:Не работает в 11 главе
+Заморажвоет воду</Description>
+    <Comment>Примечяние:Не работает в 11 главе </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 100
+KeyUp 21 1
+Delay 100
+KeyDown 21 1
+Delay 100
+KeyUp 21 1
+Delay 100
+KeyDown 20 1
+Delay 100
+KeyUp 20 1
+Delay 100
+KeyDown 21 1
+Delay 100
+KeyUp 21 1
+Delay 100
+KeyDown 44 1
+Delay 100
+KeyUp 44 1
+Delay 100</Syntax>
+    </KeyDown>
+    <Software>Magicka 1</Software>
+  </DefaultMacro>
+</Root>

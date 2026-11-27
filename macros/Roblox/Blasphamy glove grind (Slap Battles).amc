@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Screen Quality 1920x1080
+
+Allows you and an Alt account on each side of the screen to spawn two busses at the same times allowing you and the other account to hit both which increases the chances that you will get the animation and the blasphamy glove.
+
+(1% chance for each time hit by bus and hitting your own bus counts)
+
+(This Macro is made for Slap Battles)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+KeyUp 8 1
+MoveTo 234 484
+Delay 50 ms
+LeftDown 1
+LeftUp 1
+Delay 50 ms
+KeyDown 8 1
+KeyUp 8 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>всем прививет макросеры !
+данный макрос облегчет вам пве контент. допустим посадить картофиль 
+как работает макрос !
+f - берет кортофель 
+правая кнопка мыши - сажает кортофель 
+всем до новых встреч макросеры !</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1619 ms
+KeyDown 9 1
+Delay 151 ms
+KeyUp 9 1
+Delay 164 ms
+RightDown 1
+Delay 120 ms
+RightUp 1
+Delay 1807 ms
+LeftDown 1
+Delay 120 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

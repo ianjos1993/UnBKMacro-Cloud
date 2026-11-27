@@ -1,0 +1,166 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>этот макрос продает предметы на AH в слотах 1, 2, 3, 4, 5, 6, 7, 8, 9  Всё, что вам нужно сделать  продать 9 предметов при одном нажатии макроса . Инструкция: 
+Этот макрос продаёт весь хот бар от первого слота до девятого слота .
+Как использовать макрос,и всякие указания с фиксами и тд... :вам нужно задать последнюю команду в чате с ценой , вот пример : /ah sell 95000 ; нажмите - {Enter} Когда вы откроете чат снова и нажмете стрелку вверх, эта команда появится (она будет последней в чате) и это будет означать что всё работает правильно . Мой макрос будет работать по принципу : нажатие 1, затем /, затем стрелку вверх, затем Enter; нажимает 2, затем /, затем стрелку вверх, затем Enter и так далее до 9 . На основании последней вашей команды, если этот макрос работает со сбоями советую отредактировать этот макрос, вот что нужно: Открыть файл макроса, нажать на 1 действия макроса а потом нажать Ctrl+A чтобы выделить всё содержимое макроса , нажимаем потом правую кнопку мыши (ПКМ) и изменяем задержку для всего макроса,можете даже на 30 мс. увеличить задержку, лагать не должно,сам использую на общую задержку в 40мс. Внимание! Не ставьте в хот бар что-то ценное или личные вещи! исключительно товар при работе макроса! И да, ставить вещи в ход бар нужно в ручную,не сделано это потому что не всё может быть продано и инвентарь будет как бы не все вещи будт правильно распологаться и из-за этого могут быть сбои.
+ </Description>
+    <Comment>В скором времени сниму видеоролик как работает этот макрос, но в целом ничего такого грандиозного он из себя не представляет. Моя демо версия закончилась =)
+когда мне дадут випку я проверю этот макрос сразу же и отредактирую его если будут какие-то баги.
+Если у вас что-то работает не правильно пишите мне!
+https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 30 ms
+KeyUp 30 1
+Delay 30 ms
+KeyDown 56 1
+Delay 30 ms
+KeyUp 56 1
+Delay 30 ms
+KeyDown 82 1
+Delay 30 ms
+KeyUp 82 1
+Delay 30 ms
+KeyDown 88 1
+Delay 30 ms
+KeyUp 88 1
+Delay 30 ms
+KeyDown 31 1
+Delay 30 ms
+KeyUp 31 1
+Delay 30 ms
+KeyDown 56 1
+Delay 30 ms
+KeyUp 56 1
+Delay 30 ms
+KeyDown 82 1
+Delay 30 ms
+KeyUp 82 1
+Delay 30 ms
+KeyDown 88 1
+Delay 30 ms
+KeyUp 88 1
+Delay 30 ms
+KeyDown 32 1
+Delay 30 ms
+KeyUp 32 1
+Delay 30 ms
+KeyDown 56 1
+Delay 30 ms
+KeyUp 56 1
+Delay 30 ms
+KeyDown 82 1
+Delay 30 ms
+KeyUp 82 1
+Delay 30 ms
+KeyDown 88 1
+Delay 30 ms
+KeyUp 88 1
+Delay 30 ms
+KeyDown 33 1
+Delay 30 ms
+KeyUp 33 1
+Delay 30 ms
+KeyDown 56 1
+Delay 30 ms
+KeyUp 56 1
+Delay 30 ms
+KeyDown 82 1
+Delay 30 ms
+KeyUp 82 1
+Delay 30 ms
+KeyDown 88 1
+Delay 30 ms
+KeyUp 88 1
+Delay 30 ms
+KeyDown 34 1
+Delay 30 ms
+KeyUp 34 1
+Delay 30 ms
+KeyDown 56 1
+Delay 30 ms
+KeyUp 56 1
+Delay 30 ms
+KeyDown 82 1
+Delay 30 ms
+KeyUp 82 1
+Delay 30 ms
+KeyDown 88 1
+Delay 30 ms
+KeyUp 88 1
+Delay 30 ms
+KeyDown 35 1
+Delay 30 ms
+KeyUp 35 1
+Delay 30 ms
+KeyDown 56 1
+Delay 30 ms
+KeyUp 56 1
+Delay 30 ms
+KeyDown 82 1
+Delay 30 ms
+KeyUp 82 1
+Delay 30 ms
+KeyDown 88 1
+Delay 30 ms
+KeyUp 88 1
+Delay 30 ms
+KeyDown 36 1
+Delay 30 ms
+KeyUp 36 1
+Delay 30 ms
+KeyDown 56 1
+Delay 30 ms
+KeyUp 56 1
+Delay 30 ms
+KeyDown 82 1
+Delay 30 ms
+KeyUp 82 1
+Delay 30 ms
+KeyDown 88 1
+Delay 30 ms
+KeyUp 88 1
+Delay 30 ms
+KeyDown 37 1
+Delay 30 ms
+KeyUp 37 1
+Delay 30 ms
+KeyDown 56 1
+Delay 30 ms
+KeyUp 56 1
+Delay 30 ms
+KeyDown 82 1
+Delay 30 ms
+KeyUp 82 1
+Delay 30 ms
+KeyDown 88 1
+Delay 30 ms
+KeyUp 88 1
+Delay 30 ms
+KeyDown 38 1
+Delay 30 ms
+KeyUp 38 1
+Delay 30 ms
+KeyDown 56 1
+Delay 30 ms
+KeyUp 56 1
+Delay 30 ms
+KeyDown 82 1
+Delay 30 ms
+KeyUp 82 1
+Delay 30 ms
+KeyDown 88 1
+Delay 30 ms
+KeyUp 88 1
+Delay 30 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

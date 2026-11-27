@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Fastest edit on the keybind 0
+This macro "up" the velocity of your edits, this is because the macros do the "game think" that you are playing at 0 ping, it only works on the editing, i maybe upload a buillding macro too, enjoy the macros!!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 39 1
+KeyUp 39 1
+Delay 0 min
+Delay 0 min
+LeftDown 1
+Delay 0 min
+LeftUp 1
+Delay 0 min
+KeyDown 25 1
+Delay 0 min
+KeyUp 25 1
+Delay 0 min</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

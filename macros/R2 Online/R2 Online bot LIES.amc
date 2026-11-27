@@ -1,0 +1,79 @@
+<Root>
+  <DefaultMacro>
+    <Major>Hachik</Major>
+    <Description>Бот для рейнжера, автоюзом зелья скорки, автоюзом скилов, авто тп
+
+Бот для фарма в Логове жуков на серверах r2 online в которых есть встроеный авто подбор дропа
+
+сам наводится на мобов и продолжает атаку пока не убет моба, прожимает скилы и скорку, если упрется в стену или застрянет в текстурах сам прожимает свиток телепортаци. при падении хп ниже 80% жмет тп в город
+
+Разришение экрана: 1920х1080
+
+F5 - зелье скорости
+F2 - ловкий воин
+F3 - скорострельность
+F4 - свито телепортации
+F8 - зелье тп</Description>
+    <Comment>Бот для фарма в Логове жуков на серверах r2 online в которых есть встроеный авто подбор дропа
+
+сам наводится на мобов и продолжает атаку пока не убет моба, прожимает скилы и скорку, если упрется в стену или застрянет в текстурах сам прожимает свиток телепортаци. при падении хп ниже 80% жмет тп в город</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 61 1
+Delay 64
+KeyUp 61 1
+Delay 64
+KeyDown 73 1
+Delay 64
+KeyUp 73 1
+Delay 64
+KeyDown 74 1
+Delay 64
+KeyUp 74 1
+Delay 3 s
+GoColor 5 1 49,235,8 255,255,255 1 970 924 951 157 1 0
+KeyDown 73 1
+Delay 700 ms
+KeyUp 73 1
+Delay 64
+KeyDown 74 1
+Delay 128 ms
+KeyUp 74 1
+Delay 3 s
+GoColor 1 1 49,235,8 255,255,255 1 970 924 630 157 1 0
+GoColor 21 1 49,235,8 255,255,255 1 951 924 837 157 1 0
+GoColor 29 1 238,0,0 255,255,255 1 112 960 997 63 1 0
+GoColor 34 0 255,255,255 255,255,255 1 1736 52 61 265 1 0
+GoColor 42 0 255,243,214 255,255,255 1 1863 21 3 451 1 0
+GoColor 47 1 10,10,10 255,255,255 1 1012 1036 554 45 1 0
+GoWhile 14 86400000
+KeyDown 4 1
+Delay 500 ms
+KeyUp 4 1
+Delay 64
+GoWhile 14 86400000
+KeyDown 59 1
+Delay 64
+KeyUp 59 1
+Delay 2 s
+KeyDown 60 1
+Delay 64
+KeyUp 60 1
+Delay 1 s
+KeyDown 62 1
+Delay 64
+KeyUp 62 1
+Delay 64
+GoWhile 14 86400000
+KeyDown 65 1
+Delay 64
+KeyUp 65 1</Syntax>
+    </KeyDown>
+    <Software>R2 online</Software>
+  </DefaultMacro>
+</Root>

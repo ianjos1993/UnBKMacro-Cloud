@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос сам прожимает 2 скилла на любом фрукте в нашем случае он создан именно для фрукта - "Дракона" , сам им пользуюсь.
+Прожимает он скиллы под кнопками - Q + F</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 500 ms
+KeyUp 9 1
+Delay 500 ms
+KeyDown 20 1
+Delay 500 ms
+KeyUp 20 1
+Delay 500 ms
+KeyDown 9 1
+Delay 500 ms
+KeyUp 9 1
+Delay 500 ms
+KeyDown 20 1
+Delay 500 ms
+KeyUp 20 1
+Delay 500 ms
+KeyDown 9 1
+Delay 500 ms
+KeyUp 9 1
+Delay 500 ms
+KeyDown 20 1
+KeyUp 20 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Прожимаешь клавишу, когда противники окружают.
+Нужно: гранаты в 5 слоте, рыба в 3.
+Что делает: Кидает гранату под ноги и сразу восстанавливает потерянное здоровье рыбой.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 34 1
+Delay 30
+KeyUp 34 1
+Delay 30
+MoveTo 683 373
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+KeyDown 32 1
+Delay 30
+KeyUp 32 1
+Delay 450 ms
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+KeyDown 20 1
+Delay 30
+KeyUp 20 1</Syntax>
+    </KeyDown>
+    <Software>Factorio</Software>
+  </DefaultMacro>
+</Root>

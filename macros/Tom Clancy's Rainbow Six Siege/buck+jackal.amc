@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>this macro removes pretty much all of bucks ar and jackal's c7e recoil
+in game settings:
+fov 90
+1920x1080
+sens 20 vert 20 horizontal
+dpi 1600
+2.5x 90
+
+
+bucks and jackal setup:
+vert grip
+magnified
+flash hider</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 15 ms
+MoveR -1 5
+Delay 15 ms
+MoveR 0 5
+Delay 15 ms
+MoveR -1 5
+Delay 15 ms
+MoveR 0 5
+Delay 15 ms
+MoveR 0 5
+Delay 15 ms
+MoveR 0 5
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

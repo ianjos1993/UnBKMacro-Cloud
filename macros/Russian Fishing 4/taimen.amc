@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>It's a script for Russinan fishing 4 .Fishind with technique for taimen fishing.
+How to use: Just drop cast the lure and launch the script. 
+The script just drags the lure and you need to check if the fish is on or not.
+The Script saves lots of time.
+You do not need to use any specific resolution to use the script.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 80 s
+LeftUp 1
+Delay 64
+KeyDown 225 1
+LeftDown 1
+Delay 1 s
+LeftUp 1
+Delay 64
+KeyUp 225 1
+Delay 5 s
+GoWhile 1 1000</Syntax>
+    </KeyDown>
+    <Software>Russian Fishing 4</Software>
+  </DefaultMacro>
+</Root>

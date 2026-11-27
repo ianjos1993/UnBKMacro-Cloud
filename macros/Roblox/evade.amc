@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major>Evade</Major>
+    <Description>скрипт для того что бы делать emote-dash в evade, не забудьте зажать ctrl спустя 1с после запуска макросса, так-же не забудьте переместить эмоцию в которой можно передвигаться в 2й слот, если хотите перестать делать емоцию то нажмите g.
+
+тестировался макросс на этом разрешении:
+1920:1080</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 64 ms
+KeyUp 44 1
+Delay 64 ms
+KeyDown 10 1
+KeyDown 224 1
+Delay 64 ms
+MoveTo 857 404
+Delay 64 ms
+MoveTo 858 405
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 1000 ms
+KeyUp 224 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

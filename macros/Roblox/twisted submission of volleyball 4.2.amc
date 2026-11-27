@@ -1,0 +1,75 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>twisted submission of volleyball 4.2 - это макрос который делает идеальную кручённую подачу в volleyball 4.2 за вас. Данный макрос будет полезен новичкам, которые хотят делать кручённые подачи в пикапах или в рейтинге. И даже тем людям, которые и так умеют делать кручённую подачу, но по каким-то причинам не могут её делать каждый раз идеально.
+Вам всего лишь надо подойдити к линии так, чтобы ваши пятки находились на ней. И нажать на кнопку, на которой у вас стоит бинд на макрос.
+</Description>
+    <Comment>Если у вас макрос не работает так как надо, то просто поставьте третью силу (15) на кнопку z, а первую силу (3) на c, а также спринт на кнопку r
+Удачи в использовании!</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 39 ms
+KeyDown 29 1
+Delay 160 ms
+KeyUp 29 1
+Delay 10 ms
+KeyDown 25 1
+Delay 117 ms
+KeyUp 25 1
+Delay 726 ms
+LeftDown 1
+Delay 94 ms
+LeftUp 1
+Delay 1192 ms
+KeyDown 229 1
+Delay 1 ms
+KeyUp 229 1
+Delay 1 ms
+KeyDown 22 1
+Delay 296 ms
+KeyDown 21 1
+Delay 65 ms
+KeyUp 22 1
+Delay 36 ms
+KeyUp 21 1
+Delay 42 ms
+KeyDown 21 1
+Delay 78 ms
+KeyUp 21 1
+Delay 64 ms
+KeyDown 21 1
+Delay 87 ms
+KeyUp 21 1
+Delay 80 ms
+KeyDown 229 1
+Delay 1 ms
+KeyUp 229 1
+Delay 1 ms
+KeyDown 26 1
+Delay 17 ms
+KeyUp 21 1
+KeyDown 21 1
+Delay 153 ms
+KeyDown 44 1
+Delay 24 ms
+KeyDown 6 1
+Delay 19 ms
+Delay 135 ms
+KeyUp 6 1
+Delay 2 ms
+KeyUp 44 1
+Delay 415 ms
+KeyUp 26 1
+Delay 108 ms
+LeftDown 1
+Delay 106 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

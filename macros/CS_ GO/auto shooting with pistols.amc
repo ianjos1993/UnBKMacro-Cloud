@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Топ макрос для пистолеток, очень быстро стреляет с пистолеток,минимальная отдача и быстрая стрельба.
+</Description>
+    <Comment>))))</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+MoveR 0 1
+Delay 15 ms
+MoveR 0 1
+Delay 15 ms
+LeftUp 1
+Delay 15 ms
+MoveR 0 1
+Delay 15 ms
+MoveR 0 1
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>CS: GO</Software>
+  </DefaultMacro>
+</Root>

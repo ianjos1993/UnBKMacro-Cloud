@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>Макрос для гера и бокса</Major>
+    <Description>Данный макрос делает мини комбо на гере. В основе используется после отката ТС, Стерание времени(KC, KCR), и т. П. Бокс должен быть во 2 слоте.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 27 1
+Delay 10 ms
+KeyUp 27 1
+Delay 425 ms
+KeyDown 31 1
+Delay 10
+KeyUp 31 1
+Delay 575 ms
+KeyDown 27 1
+Delay 100 ms
+KeyUp 27 1
+Delay 300 ms
+KeyDown 31 1
+Delay 10
+KeyUp 31 1
+Delay 525 ms
+KeyDown 29 1
+Delay 10
+KeyUp 29 1
+Delay 10</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

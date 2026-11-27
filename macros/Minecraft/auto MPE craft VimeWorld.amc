@@ -1,0 +1,379 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос автоматичекси покупает ресурсы у скупщика и крафтит из них МПЕ на режиме скай блока.
+
+1. Работает с разрешением экрана в 1600 х 900
+2. Чуствительность в игре 100
+3. Желательно иметь пинг ниже 60 иначе макрос может начать работать не правильно
+
+По вопросам обращатся:
+Дс - 14tesak_88</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 64
+RightUp 1
+Delay 400 ms
+MoveTo 744 363
+Delay 200 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 200 ms
+MoveTo 677 310
+Delay 200 ms
+KeyDown 225 1
+Delay 64
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 15 ms
+GoWhile 15 3
+MoveTo 703 310
+Delay 200 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 15 ms
+GoWhile 22 3
+MoveTo 864 319
+Delay 200 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 15 ms
+GoWhile 29 3
+KeyUp 225 1
+Delay 64
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 64
+KeyDown 56 1
+Delay 64
+KeyUp 56 1
+Delay 64
+KeyDown 5 1
+Delay 64
+KeyUp 5 1
+Delay 64
+KeyDown 18 1
+Delay 64
+KeyUp 18 1
+Delay 64
+KeyDown 18 1
+Delay 64
+KeyUp 18 1
+Delay 64
+KeyDown 14 1
+Delay 64
+KeyUp 14 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 712 358
+Delay 400 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 673 341
+Delay 200 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 681 364
+Delay 200 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 844 365
+Delay 200 ms
+KeyDown 225 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+GoWhile 88 3
+KeyUp 225 1
+Delay 64
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 400 ms
+MoveTo 744 363
+Delay 200 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 200 ms
+MoveTo 677 310
+Delay 200 ms
+KeyDown 225 1
+Delay 64
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 15 ms
+GoWhile 113 3
+MoveTo 703 310
+Delay 200 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 15 ms
+GoWhile 120 3
+MoveTo 864 319
+Delay 200 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 15 ms
+GoWhile 127 3
+KeyUp 225 1
+Delay 64
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 64
+KeyDown 56 1
+Delay 64
+KeyUp 56 1
+Delay 64
+KeyDown 5 1
+Delay 64
+KeyUp 5 1
+Delay 64
+KeyDown 18 1
+Delay 64
+KeyUp 18 1
+Delay 64
+KeyDown 18 1
+Delay 64
+KeyUp 18 1
+Delay 64
+KeyDown 14 1
+Delay 64
+KeyUp 14 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 712 358
+Delay 400 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 673 341
+Delay 200 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 681 364
+Delay 200 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 844 365
+Delay 200 ms
+KeyDown 225 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+GoWhile 186 3
+KeyUp 225 1
+Delay 64
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 400 ms
+MoveTo 744 363
+Delay 200 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 200 ms
+MoveTo 677 310
+Delay 200 ms
+KeyDown 225 1
+Delay 64
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 15 ms
+GoWhile 211 3
+MoveTo 703 310
+Delay 200 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 15 ms
+GoWhile 218 3
+MoveTo 864 319
+Delay 200 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 15 ms
+GoWhile 225 2
+KeyUp 225 1
+Delay 64
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 64
+KeyDown 56 1
+Delay 64
+KeyUp 56 1
+Delay 64
+KeyDown 5 1
+Delay 64
+KeyUp 5 1
+Delay 64
+KeyDown 18 1
+Delay 64
+KeyUp 18 1
+Delay 64
+KeyDown 18 1
+Delay 64
+KeyUp 18 1
+Delay 64
+KeyDown 14 1
+Delay 64
+KeyUp 14 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 712 358
+Delay 400 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 673 341
+Delay 200 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 681 364
+Delay 200 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 844 365
+Delay 200 ms
+KeyDown 225 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+GoWhile 284 3
+KeyUp 225 1
+Delay 64
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 64
+GoWhile 1 5
+KeyDown 56 1
+Delay 64
+KeyUp 56 1
+Delay 64
+KeyDown 5 1
+Delay 64
+KeyUp 5 1
+Delay 64
+KeyDown 18 1
+Delay 64
+KeyUp 18 1
+Delay 64
+KeyDown 18 1
+Delay 64
+KeyUp 18 1
+Delay 64
+KeyDown 14 1
+Delay 64
+KeyUp 14 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 400 ms
+MoveTo 705 361
+Delay 200 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 712 348
+Delay 200 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 858 336
+Delay 200 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 841 360
+Delay 200 ms
+KeyDown 225 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyUp 225 1
+Delay 64
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 64
+GoWhile 1 999999</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

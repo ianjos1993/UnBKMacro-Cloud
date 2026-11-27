@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Позволяет ездить на велике без спама W, просто надо нажать Правую Кнопку Мыши , и все, готово!
+Работает на АРП в Сампе и КРМП, создавалось специально для КРМП, но работать должно везде.
+Вообще имба на крмп с этим макросом на налоговой работать, просто без велика за ЕПП в деморган сажают а на велике нет, и можно просто срезать на нем, так еще и просто зажав ПКМ ехать быстро, вообщем топ за свои деньги!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

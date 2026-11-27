@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major>SALDIRMA MANTIĞI</Major>
+    <Description>Priestler için 1 ve 2 ye skiller 3 mana 4 de heal ı koyarak gerekli saldırıyı gerçekleştirebilirsiniz.
+Mantık Belli koordinatlar ve renkler farklılık gösterebilir.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 64
+KeyUp 29 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+GoColor 25 2 163,40,34 255,100,85 1 283 95
+Goto 1
+GoColor 29 2 25,67,117 55,122,186 1 316 103
+Goto 1
+KeyDown 33 1
+Delay 750 ms
+KeyUp 33 1
+Delay 750 ms
+Goto 1
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Rise Online</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,97 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для фарма нароста на hypixel в режиме skyblock coop rpg.
+Примечание:
+Поставьте /setspawn на 90 градусах в начале фермы.
+Ферма должна быть 5 ярусов (посмотрите на ютубе как построить)
+Макрос идет с право на лево.
+Скорость на бутсах поставьте 115.
+В конце последнего яруса сделайте дырку куда можно будет упасть чтобы вернуться на точку фарма, и скрипт продолжиться.
+Внимание! Макросы запрещены на данном режиме, используйте если только находитесь около компьютера чтобы среагировать на проверку на макросы от модерации! Используйте на свой страх и риск.
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 26 1
+KeyDown 4 1
+KeyDown 225 1
+Delay 110000 ms
+LeftUp 1
+KeyUp 26 1
+KeyUp 4 1
+KeyUp 225 1
+Delay 1000 ms
+KeyDown 4 1
+Delay 1 s
+KeyUp 4 1
+Delay 2000 ms
+LeftDown 1
+KeyDown 26 1
+KeyDown 7 1
+KeyDown 225 1
+Delay 110000 ms
+KeyUp 26 1
+KeyUp 7 1
+KeyUp 225 1
+LeftUp 1
+Delay 1000 ms
+KeyDown 4 1
+Delay 1 s
+KeyUp 4 1
+Delay 500 ms
+LeftDown 1
+KeyDown 26 1
+KeyDown 4 1
+KeyDown 225 1
+Delay 110000 ms
+LeftUp 1
+KeyUp 26 1
+KeyUp 4 1
+KeyUp 225 1
+Delay 1000 ms
+KeyDown 4 1
+Delay 1 s
+KeyUp 4 1
+Delay 2000 ms
+LeftDown 1
+KeyDown 26 1
+KeyDown 7 1
+KeyDown 225 1
+Delay 110000 ms
+KeyUp 26 1
+KeyUp 7 1
+KeyUp 225 1
+LeftUp 1
+Delay 1000 ms
+KeyDown 4 1
+Delay 1000 ms
+KeyUp 4 1
+Delay 2000 ms
+Delay 500 ms
+LeftDown 1
+KeyDown 26 1
+KeyDown 4 1
+KeyDown 225 1
+Delay 110000 ms
+LeftUp 1
+KeyUp 26 1
+KeyUp 4 1
+KeyUp 225 1
+Delay 1000 ms
+KeyDown 4 1
+Delay 2000 ms
+KeyUp 4 1
+Delay 2000 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

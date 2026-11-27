@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный скрипт ориентирован на автоматизацию работы в программе Photoshop. Основной направленностью являются люди которым необходимо редактировать огромное количество фотогрфий и для каждого из них необходимо создать .psd файл сохранить его и создать дублирующий слой основного изображения.
+Способ использования :
+1) Загрузить все или часть необходмых изображений просто перенеся выделенные файлы в программу.
+2)Нажать клавишу на которую был привязан макрос.
+3) При желании можно настроить на непрерывную работу, на данный момент стоит режим при котором за одно нажатие сохраняется один файл.</Description>
+    <Comment>Был специально создан для клинеров манги и комиксов.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+KeyDown 13 1
+Delay 64
+KeyUp 13 1
+KeyUp 224 1
+Delay 64
+KeyDown 224 1
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+KeyUp 224 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 3 s
+KeyDown 224 1
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+KeyUp 224 1</Syntax>
+    </KeyDown>
+    <Software>Photoshop</Software>
+  </DefaultMacro>
+</Root>

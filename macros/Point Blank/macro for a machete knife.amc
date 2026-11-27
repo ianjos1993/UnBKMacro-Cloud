@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос на нож мачете ставишь и нагибаешь всех на ножах
+приятной игры 
+ставим перки ловкость и бег +2</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1 ms
+KeyDown 13 1
+Delay 54 ms
+KeyUp 13 1
+KeyDown 13 1
+Delay 5 ms
+KeyUp 13 1
+Delay 1 ms
+Delay 1 ms
+Delay 1 ms
+Delay 1 ms
+Delay 1 ms
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Point Blank</Software>
+  </DefaultMacro>
+</Root>

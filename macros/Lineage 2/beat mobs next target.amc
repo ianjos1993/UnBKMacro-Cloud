@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>на панель быстрого доступа выставить следующие действия:
+1) во втором ряду во вторую ячейку поместить действие "следующая цель"
+2) в первом ряду в третью ячейку поместить атакующий скилл с последующей атакой или просто действие "атака"</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 4 ms
+KeyDown 31 1
+Delay 95 ms
+KeyUp 31 1
+Delay 80 ms
+KeyDown 60 1
+Delay 30 ms
+KeyUp 60 1
+Delay 800 ms</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

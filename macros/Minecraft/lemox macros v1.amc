@@ -1,0 +1,56 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Топ 1 макрос для пвп в майкрафте(Актуальныя задержка)
+1-оружие
+3-хиллящий предмет, биндим клавишу и зажимаем её, при условии соблюдения условий выше 1 - оружие 3 - хилка
+Пользуемся и получаем удовольствие, выбиваем лут, недавно отредактировал, и выставил более менее актуальную на данный момент задержку при этом с нормальной работой макроса
+Все удачи!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 12 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 8 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 4 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 12 ms
+KeyDown 32 1
+KeyUp 32 1
+RightDown 1
+Delay 1 ms
+RightUp 1
+Delay 16 ms
+RightDown 1
+Delay 1 ms
+RightUp 1
+Delay 16 ms
+RightDown 1
+Delay 1 ms
+RightUp 1
+Delay 17 ms
+RightDown 1
+Delay 1 ms
+RightUp 1
+Delay 19 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

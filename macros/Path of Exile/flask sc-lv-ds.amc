@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major>Использование фласок</Major>
+    <Description>Макрос для автоматизации использования Soul Catcher и последующего использования Laviangs's Spirit и Divination Disrillat. использование скила в середене макроса запускает работу манна фласки и дистилята. В 1ый и 5ый слот фласки на усмотрение во 2ой Soul Catcher в 3ий и 4ый  Lavianga и Distiillate. </Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 3100 ms</Syntax>
+    </KeyDown>
+    <Software>Path of Exile</Software>
+  </DefaultMacro>
+</Root>

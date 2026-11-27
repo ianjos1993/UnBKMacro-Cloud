@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для игры WARDOGS на постройку FOB. С его помощью можно быстро простукивать крестиниги скипая анимацию возврата молота.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 510 ms
+LeftUp 1
+Delay 70 ms</Syntax>
+    </KeyDown>
+    <Software>WARDOGS</Software>
+  </DefaultMacro>
+</Root>

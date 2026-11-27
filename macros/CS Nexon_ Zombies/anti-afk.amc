@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>A very simple anti-afk macro for CSNZ. All the things you have to do is just set which keys to use the macro.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 9 s
+KeyDown 32 1
+Delay 50 ms
+KeyUp 32 1
+Delay 50 ms
+KeyDown 30 1
+Delay 40 ms
+KeyUp 30 1
+KeyDown 31 1
+Delay 40 ms
+KeyUp 31 1
+Delay 50 ms
+KeyDown 33 1
+Delay 40 ms
+KeyUp 33 1
+Delay 168 ms
+LeftUp 1
+KeyDown 22 1
+Delay 184 ms
+KeyUp 22 1</Syntax>
+    </KeyDown>
+    <Software>Counter-Strike Nexon: Zombies</Software>
+  </DefaultMacro>
+</Root>

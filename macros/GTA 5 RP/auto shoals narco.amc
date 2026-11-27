@@ -1,0 +1,49 @@
+F2:: Reload ; перезагрузить скрипт
+
+F3:: ExitApp ; закрыть скрипт
+
+F4:: ; НАРКО
+    Loop{
+        PixelGetColor, color_up1, 960, 840, RGB 
+        PixelGetColor, color_up2, 964, 825, RGB 
+        PixelGetColor, color_up3, 956, 825, RGB 
+        if ( color_up1 = "0x000000" and color_up2 = "0x000000" and color_up3 = "0x000000" ) {
+            Send, {vk26}
+            sleep, 100
+        }
+        else
+            PixelGetColor, color_down1, 960, 825, RGB
+            PixelGetColor, color_down2, 965, 837, RGB
+            PixelGetColor, color_down3, 955, 837, RGB 
+            if ( color_down1 = "0x000000" and color_down2 = "0x000000" and color_down3 = "0x000000" ) {
+                Send, {vk28}
+                sleep, 100
+            }
+        else 
+            PixelGetColor, color_right1, 953, 832, RGB
+            PixelGetColor, color_right2, 966, 827, RGB
+            PixelGetColor, color_right3, 965, 837, RGB
+            if ( color_right1 = "0x000000" and color_right2 = "0x000000" and color_right3 = "0x000000" ) {
+                Send, {vk27}
+                sleep, 100
+            }
+        else 
+            PixelGetColor, color_left1, 968, 833, RGB
+            PixelGetColor, color_left2, 954, 828, RGB
+            PixelGetColor, color_left3, 954, 836, RGB
+            if ( color_left1 = "0x000000" and color_left2 = "0x000000" and color_left3 = "0x000000" ) {
+                Send, {vk25}
+                sleep, 100
+            }
+        else 
+            Send, {vk45}
+        color_down1 := " "
+        color_down2 := " "
+        color_down3 := " "
+        color_left1 := " "
+        color_left2 := " "
+        color_left3 := " "
+        color_up1   := " "
+        color_up2   := " "
+        color_up3   := " "
+    }

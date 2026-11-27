@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>performs the charge and attack commands in succession, meant for normal emulator speed. Used for grinding class skills from piekron, pingrek, and other classes</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 79 1
+Delay 10 ms
+KeyUp 79 1
+Delay 490 ms
+KeyDown 79 1
+Delay 10 ms
+KeyUp 79 1
+Delay 490 ms
+KeyDown 82 1
+Delay 10 ms
+KeyUp 82 1
+Delay 490 ms
+KeyDown 82 1
+Delay 10 ms
+KeyUp 82 1
+Delay 1990 ms
+KeyDown 79 1
+Delay 10 ms
+KeyUp 79 1
+Delay 490 ms
+KeyDown 79 1
+Delay 10 ms
+KeyUp 79 1
+Delay 490 ms
+KeyDown 80 1
+Delay 10 ms
+KeyUp 80 1
+Delay 490 ms
+KeyDown 79 1
+Delay 10 ms
+KeyUp 79 1
+Delay 1990 ms</Syntax>
+    </KeyDown>
+    <Software>Patapon 3</Software>
+  </DefaultMacro>
+</Root>

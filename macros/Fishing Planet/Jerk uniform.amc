@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Описание:
+Макрос для игры Fishing Planet,одним нажатием клавиши выполняет комбинацию заброс,проводка,забор рыбы
+
+ИНСТРУКЦИЯ:
+1.Запустите игру
+2.Выберите режим работы программы с привязкой или без привязки к окну
+3.Присвойте макрос на удобную клавишу клавиатуры в программе
+4.Нажмите клавишу на которую присвоили макрос
+5.Ловим,прятной игры
+
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 960 540
+Delay 7 ms
+MoveTo 960 539
+Delay 8 ms
+MoveTo 960 540
+Delay 8 ms
+MoveTo 960 540
+Delay 585 ms
+LeftDown 1
+Delay 1808 ms
+LeftUp 1
+Delay 9640 ms
+LeftDown 1
+Delay 47328 ms
+LeftUp 1
+Delay 1556 ms
+KeyDown 44 1
+Delay 98 ms
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>Fishing Planet</Software>
+  </DefaultMacro>
+</Root>

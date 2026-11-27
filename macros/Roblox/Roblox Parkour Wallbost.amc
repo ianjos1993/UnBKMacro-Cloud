@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>go to a walll then press the macro button u should get red ms and it will be very fun
+u willl get red ms or green ms according to the delay u set so u should set it high if u want it to be undetectable
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 3 ms
+KeyDown 44 1
+Delay 20 ms
+KeyUp 44 1
+MoveR -1200 -1000
+Delay 20 ms
+KeyDown 44 1
+KeyUp 44 1
+Delay 3 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

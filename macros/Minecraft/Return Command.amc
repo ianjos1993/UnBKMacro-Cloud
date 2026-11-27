@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простой макрос для Minecraft возвращяющий последнюю введённую комманду
+Бинд у меня стоит на "R" Если на этой кнопке уже что то стоит то бинд на любую другую клавишу
+Может не срабатывать, В этом случае требуется драйвер эмуляции клавиатуры</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 50 ms
+KeyUp 23 1
+Delay 50 ms
+KeyDown 82 1
+Delay 50 ms
+KeyUp 82 1
+Delay 50 ms
+KeyDown 88 1
+Delay 50 ms
+KeyUp 88 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major>Soldier 76 Anti Recoil</Major>
+    <Description>A Script I made to completely reduce and keep straight recoil on Soldier 78 on OW2. Best to date and all you have to do is bind to LMB when does full auto not tap fire</Description>
+    <Comment>Anyone needs help you can find me in the discord ^^ Hallowlsayer24 But the script is easy as 1 2 3 :)</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR 0 1
+LeftDown 1
+Delay 0 ms
+Delay 0 ms
+Delay 0 ms
+Delay 1 ms
+Delay 2 ms</Syntax>
+    </KeyDown>
+    <Software>Overwatch</Software>
+  </DefaultMacro>
+</Root>

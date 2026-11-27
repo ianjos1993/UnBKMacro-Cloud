@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>works best for weapons with low recoil</Major>
+    <Description>macro for low recoil weapons. put it on left click and run while holding
+
+sens: 12y 12x, 800 dpi 
+
+res: 1920 x1080, 144hz
+
+aspect rario: 4:3, 90 fov</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 15 ms
+MoveR 0 2
+Delay 15 ms
+MoveR 0 5
+Delay 15 ms
+MoveR 0 4
+Delay 15 ms
+MoveR -2 2
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

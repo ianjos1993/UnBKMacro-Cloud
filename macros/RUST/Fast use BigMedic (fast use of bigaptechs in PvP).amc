@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major>FastUseBigMedic</Major>
+    <Description>Ставите хилки на 2й слот,и нажимаете кнопку,и макрос будет за вас использовать еду\аптечки(шприцы и прочее не ложить)Ставить нужно только то что нельзя взять в руки,для пвп самое то! Сидишь стреляешься а макрос за тебя ,тебя хилит</Description>
+    <Comment>MrxSnovaTyta
+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1 ms
+KeyDown 31 1
+Delay 1 ms
+KeyUp 31 1
+Delay 1 ms
+KeyDown 31 1
+Delay 1 ms
+KeyUp 31 1
+Delay 1 ms
+KeyDown 31 1
+Delay 1 ms
+KeyUp 31 1
+Delay 1 ms
+KeyDown 31 1
+Delay 1 ms
+KeyUp 31 1
+Delay 1 ms
+KeyDown 31 1
+Delay 1 ms
+KeyUp 31 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

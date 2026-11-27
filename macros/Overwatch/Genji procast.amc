@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макросс предназначен для   комбо За Гендзи позволяющего пустить в голову сюрикен и сразу сделать рывок, что даёт более 200 урона. Назначить активацию на Shift.
+
+The macro is designed for the combo For Genji allowing you to put a shuriken in your head and immediately make a dash, which gives more than 200 damage. Assign activation to Shift.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 45
+LeftUp 1
+Delay 45
+KeyDown 225 1
+Delay 60
+KeyUp 225 1
+Delay 60</Syntax>
+    </KeyDown>
+    <Software>Overwatch</Software>
+  </DefaultMacro>
+</Root>

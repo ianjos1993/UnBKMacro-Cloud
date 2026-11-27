@@ -1,0 +1,110 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Команда: set_base_manpower
+
+
+
+Макрос автоматически вводит в консоль команду set_base_manpower. После этого вам остается вручную дописать ID провинции и необходимое значение рекрутов.
+
+ Используется для быстрого повышения или изменения базового количества рекрутов в провинции.
+
+
+
+Полезно при прокачке рекрутской базы сразу нескольких провинций: вместо постоянного ручного набора set_base_manpower достаточно вызвать макрос и дописать ID и нужное значение.</Description>
+    <Comment>По сути: маленький QoL-инструмент для любителей читов, альтернативных сценариев и экспериментов в одиночной EU4.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 53 1
+Delay 10 ms
+KeyUp 53 1
+Delay 10 ms
+KeyDown 22 1
+Delay 10 ms
+KeyDown 8 1
+Delay 10 ms
+KeyUp 22 1
+Delay 10 ms
+KeyUp 8 1
+Delay 10 ms
+KeyDown 23 1
+Delay 10 ms
+KeyUp 23 1
+Delay 10 ms
+KeyDown 225 1
+Delay 10 ms
+KeyDown 45 1
+Delay 10 ms
+KeyUp 45 1
+Delay 10 ms
+KeyUp 225 1
+Delay 10 ms
+KeyDown 5 1
+Delay 10 ms
+KeyDown 4 1
+Delay 10 ms
+KeyUp 5 1
+Delay 10 ms
+KeyUp 4 1
+Delay 10 ms
+KeyDown 22 1
+Delay 10 ms
+KeyDown 8 1
+Delay 10 ms
+KeyUp 22 1
+Delay 10 ms
+KeyUp 8 1
+Delay 10 ms
+KeyDown 225 1
+Delay 10 ms
+KeyDown 45 1
+Delay 10 ms
+KeyUp 45 1
+Delay 10 ms
+KeyUp 225 1
+Delay 10 ms
+KeyDown 16 1
+Delay 10 ms
+KeyUp 16 1
+Delay 0 ms
+KeyDown 4 1
+Delay 10 ms
+KeyUp 4 1
+Delay 8 ms
+KeyDown 17 1
+Delay 10 ms
+KeyUp 17 1
+Delay 10 ms
+KeyDown 19 1
+Delay 10 ms
+KeyDown 18 1
+Delay 10 ms
+KeyUp 19 1
+Delay 10 ms
+KeyDown 26 1
+Delay 10 ms
+KeyUp 18 1
+Delay 10 ms
+KeyDown 8 1
+Delay 7 ms
+KeyUp 26 1
+Delay 10 ms
+KeyUp 8 1
+Delay 10 ms
+KeyDown 21 1
+Delay 10 ms
+KeyUp 21 1
+Delay 10 ms
+KeyDown 44 1
+Delay 10 ms
+KeyUp 44 1
+Delay 7 ms</Syntax>
+    </KeyDown>
+    <Software>Europa Universalis IV</Software>
+  </DefaultMacro>
+</Root>

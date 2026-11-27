@@ -1,0 +1,94 @@
+<Root>
+  <DefaultMacro>
+    <Major>UGC Experience Farm Macro</Major>
+    <Description>Experience farm on milastra wonderland. Each server (Asia, Europe, America, etc.) has its own custom game called "Efficient XP Farm". Create a squad of one person (yourself) and run this mode once so that the macro works correctly. The macro is designed for logging into the game and deleting achievements about it (to do this, you must first delete all achievements for the first time (On the PC, click "In" and then level management.)) The macro is set to a resolution of 1920x1080(16:9). If you have a weak device, increase the download delay. Have a good game!</Description>
+    <Comment>If you have any questions, please email me.</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 64 ms
+KeyDown 19 1
+//joining a squad
+Delay 65 ms
+KeyUp 19 1
+Delay 2000 ms
+KeyDown 9 1
+//the beginning of matchmaking (you need to go to the selection area yourself)
+Delay 76 ms
+KeyUp 9 1
+//Wait for ending screen to finish
+Delay 23000 ms
+//Wait for ending screen to finish
+Delay 2 ms
+MoveTo 1722 1016
+Delay 9 ms
+MoveTo 1722 1015
+Delay 9 ms
+LeftDown 1
+Delay 63 ms
+LeftUp 1
+//Loading out of the game back into lobby
+Delay 15000 ms
+//Loading out of the game back into lobby
+Delay 64
+KeyDown 5 1
+//Entering the selected limits
+Delay 64
+KeyUp 5 1
+Delay 64
+Delay 1500 ms
+MoveTo 1687 60
+//Logging in to level management
+Delay 180 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1500 ms
+KeyDown 9 1
+//Management F
+Delay 64
+KeyUp 9 1
+Delay 64
+MoveTo 1615 296
+//The "Total" mark
+Delay 300 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1000 ms
+MoveTo 1717 1022
+//"Delete selected"
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 400 ms
+MoveTo 1168 760
+//"Delete selected" - double confirmation
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5500 ms
+KeyDown 41 1
+//A double escape to get out of your chosen limits
+Delay 64
+KeyUp 41 1
+Delay 200 ms
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 2000 ms
+GoWhile 1 375</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

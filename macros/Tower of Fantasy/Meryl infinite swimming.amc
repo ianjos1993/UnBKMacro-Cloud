@@ -1,0 +1,68 @@
+<Root>
+  <DefaultMacro>
+    <Major>Meryl infinite swimming</Major>
+    <Description>Бесконечное плаванье для ачивки в TOF. (
+
+плавает туда и обратно попутно восстанавливая вам стамину
+
+1. Работает с экипированным оружием Meryl (клеймор), которое необходимо взять в руку.
+2. Также необходимо экипировать джетпак и доску.
+
+ бинды:
+ jetpack - C
+ jetboard - 2
+ weapon skill - 1
+
+</Description>
+    <Comment>
+1. Потребляет примерно 1 полоску стамины.
+2. Выбрать водоем побольше 
+3. После активации можно уйти пить чай,
+</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 34 s
+KeyDown 31 1
+Delay 132 ms
+KeyUp 31 1
+Delay 2500 ms
+KeyDown 44 1
+Delay 133 ms
+KeyUp 44 1
+Delay 311 ms
+KeyDown 44 1
+Delay 133 ms
+KeyUp 44 1
+Delay 219 ms
+KeyDown 6 1
+Delay 136 ms
+KeyUp 6 1
+Delay 69 ms
+KeyUp 26 1
+Delay 2188 ms
+KeyDown 30 1
+Delay 133 ms
+KeyUp 30 1
+Delay 2544 ms
+KeyDown 26 1
+Delay 134 ms
+KeyDown 44 1
+Delay 115 ms
+KeyUp 44 1
+Delay 621 ms
+KeyUp 26 1
+Delay 1503 ms
+MoveR 1 0
+Delay 4 ms
+MoveR 897 0
+Delay 4800 ms</Syntax>
+    </KeyDown>
+    <Software>Tower of Fantasy</Software>
+  </DefaultMacro>
+</Root>

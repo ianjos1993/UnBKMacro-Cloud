@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для игры на hero meepo выполняет телепорт и блинк инструкция
+ запустить игру
+выбрать режим работы с привязкой или без привязки(к окну)
+Присвоить макро на удобную кнопку 
+Проверить в игре</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+KeyDown 59 1
+Delay 64
+KeyUp 59 1
+Delay 64
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+KeyDown 61 1
+Delay 64
+KeyUp 61 1
+Delay 64
+KeyDown 59 1
+Delay 64
+KeyUp 59 1
+Delay 64
+KeyDown 61 1
+Delay 64
+KeyUp 61 1
+Delay 64
+KeyDown 63 1
+Delay 64
+KeyUp 63 1
+Delay 64
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

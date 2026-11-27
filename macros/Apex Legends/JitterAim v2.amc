@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>1. Это мой личный макрос, он предназначен для упрощения стрельбы, так называемый джитер(шейк), нивелирует отдачу почти полностью у любого оружия за исключением скорострельных ПП. 
+
+2.  Советую использовать низкую сенсу в прицеле. От 0.7 до 0.8 при 1300dpi - 1200dpi. 
+С режимом воспроизведения "Повторять при зажатии".
+
+3. Не важно какое у вас разрешение и FOV, будь то 16:9, 4:3 или 16:10. На работу макроса 
+это никак не влияет в связи с механикой игры. (Многократно было мной протестированно.)
+
+4. Ставить задержку ниже не рекомендуется, т.к в последствии вам могут выдать царский бан. </Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 12 15
+Delay 4 ms
+MoveR 12 -12
+Delay 4 ms
+MoveR -12 -12
+Delay 4 ms
+MoveR -12 12
+Delay 4 ms
+MoveR 12 13
+Delay 4 ms
+MoveR 12 -12
+Delay 4 ms
+MoveR -12 -12
+Delay 4 ms
+MoveR -12 12
+Delay 4 ms</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

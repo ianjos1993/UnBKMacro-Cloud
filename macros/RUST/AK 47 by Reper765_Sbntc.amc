@@ -1,0 +1,348 @@
+<Root>
+  <DefaultMacro>
+    <Major>Ак 47 by Reper765_Sbntc</Major>
+    <Description>Здравствуйте! Еще один скрипт на Rust.  проверил работает. Используйте как зубную пасту по утрам :)
+Настройки:
+Сенс: - input.sensitivity 0.8 (0.6 - 0.9) 
+Фов: - graphics.fov 90  
+
+
+Хорошего использования.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>
+//Конвертированный файл скрипта 25 декабря 2021 09:02:51
+//<Root>
+//  <DefaultMacro>
+//    <Major></Major>
+//    <Description>Здравствуйте! Еще один скрипт на Rust.  проверил работает. Используйте как зубную пасту по утрам :)
+//Настройки:
+//Сенс: - input.sensitivity 0.8 (0.6 - 0.9) 
+//Фов: - graphics.fov 90
+//
+//Хорошего использования. </Description>
+//    <Comment></Comment>
+//    <GUIOption>
+//      <RepeatType>1</RepeatType>
+//    </GUIOption>
+//    <KeyUp>
+//      <Syntax></Syntax>
+//    </KeyUp>
+//    <KeyDown>
+//      <Syntax>LeftDown 1
+//MoveR -4 5
+//Delay 24 ms
+//MoveR -4 6
+//Delay 24 ms
+//MoveR -5 6
+//Delay 24 ms
+//MoveR -4 6
+//Delay 24 ms
+//MoveR -4 6
+//Delay 24 ms
+//MoveR 1 6
+//Delay 24 ms
+//MoveR 1 6
+//Delay 24 ms
+//MoveR 1 5
+//Delay 24 ms
+//MoveR 1 5
+//Delay 24 ms
+//MoveR 1 5
+//Delay 24 ms
+//MoveR -5 5
+//Delay 24 ms
+//MoveR -7 5
+//Delay 24 ms
+//MoveR -9 5
+//Delay 24 ms
+//MoveR -7 5
+//Delay 24 ms
+//MoveR -7 4
+//Delay 24 ms
+//MoveR -5 5
+//Delay 24 ms
+//MoveR -5 5
+//Delay 24 ms
+//MoveR -5 4
+//Delay 24 ms
+//MoveR -5 4
+//Delay 24 ms
+//MoveR -4 4
+//Delay 24 ms
+//MoveR 0 5
+//Delay 24 ms
+//MoveR 0 4
+//Delay 24 ms
+//MoveR 0 4
+//Delay 24 ms
+//MoveR 0 4
+//Delay 24 ms
+//MoveR 0 4
+//Delay 24 ms
+//MoveR 1 4
+//Delay 24 ms
+//MoveR 2 3
+//Delay 24 ms
+//MoveR 2 3
+//Delay 24 ms
+//MoveR 2 3
+//Delay 24 ms
+//MoveR 2 3
+//Delay 24 ms
+//MoveR 3 3
+//Delay 24 ms
+//MoveR 3 3
+//Delay 24 ms
+//MoveR 4 3
+//Delay 24 ms
+//MoveR 4 2
+//Delay 24 ms
+//MoveR 4 2
+//Delay 24 ms
+//MoveR 5 3
+//Delay 24 ms
+//MoveR 5 3
+//Delay 24 ms
+//MoveR 5 3
+//Delay 24 ms
+//MoveR 4 2
+//Delay 24 ms
+//MoveR 4 2
+//Delay 24 ms
+//MoveR 5 2
+//Delay 24 ms
+//MoveR 5 2
+//Delay 24 ms
+//MoveR 5 2
+//Delay 24 ms
+//MoveR 5 2
+//Delay 24 ms
+//MoveR 5 2
+//Delay 24 ms
+//MoveR 5 1
+//Delay 24 ms
+//MoveR 5 1
+//Delay 24 ms
+//MoveR 5 1
+//Delay 24 ms
+//MoveR 5 1
+//Delay 24 ms
+//MoveR 4 1
+//Delay 24 ms
+//MoveR 5 1
+//Delay 24 ms
+//MoveR 5 1
+//Delay 24 ms
+//MoveR 5 1
+//Delay 24 ms
+//MoveR 4 1
+//Delay 24 ms
+//MoveR 4 1
+//Delay 24 ms
+//MoveR 4 1
+//Delay 24 ms
+//MoveR 4 2
+//Delay 24 ms
+//MoveR 3 2
+//Delay 24 ms
+//MoveR 3 2
+//Delay 24 ms
+//MoveR 3 2
+//Delay 24 ms
+//MoveR 3 2
+//Delay 24 ms
+//MoveR 2 2
+//Delay 24 ms
+//MoveR 2 3
+//Delay 24 ms
+//MoveR 2 3
+//Delay 24 ms
+//MoveR 2 3
+//Delay 24 ms
+//MoveR 0 3
+//Delay 24 ms
+//MoveR 0 4
+//Delay 24 ms
+//MoveR 0 4
+//Delay 24 ms
+//MoveR 0 4
+//Delay 24 ms
+//MoveR 0 4
+//Delay 24 ms
+//MoveR -2 4
+//Delay 24 ms
+//MoveR -2 3
+//Delay 24 ms
+//MoveR -2 4
+//Delay 24 ms
+//MoveR -2 4
+//Delay 24 ms
+//MoveR -3 4
+//Delay 24 ms
+//MoveR -3 4
+//Delay 24 ms
+//MoveR -3 4
+//Delay 24 ms
+//MoveR -3 4
+//Delay 24 ms
+//MoveR -3 4
+//Delay 24 ms
+//MoveR -4 5
+//Delay 24 ms
+//MoveR -4 4
+//Delay 24 ms
+//MoveR -4 4
+//Delay 24 ms
+//MoveR -4 4
+//Delay 24 ms
+//MoveR -4 4
+//Delay 24 ms
+//MoveR -5 3
+//Delay 24 ms
+//MoveR -4 3
+//Delay 24 ms
+//MoveR -5 3
+//Delay 24 ms
+//MoveR -5 4
+//Delay 24 ms
+//MoveR -5 3
+//Delay 24 ms
+//MoveR -5 3
+//Delay 24 ms
+//MoveR -6 3
+//Delay 24 ms
+//MoveR -6 4
+//Delay 24 ms
+//MoveR -6 3
+//Delay 24 ms
+//MoveR -6 3
+//Delay 24 ms
+//MoveR -6 3
+//Delay 24 ms
+//MoveR -6 3
+//Delay 24 ms
+//MoveR -6 3
+//Delay 24 ms
+//MoveR -5 3
+//Delay 24 ms
+//MoveR -5 2
+//Delay 24 ms
+//MoveR -5 2
+//Delay 24 ms
+//MoveR -5 0
+//Delay 24 ms
+//MoveR -5 0
+//Delay 24 ms
+//MoveR -5 0
+//Delay 24 ms
+//MoveR -5 0
+//Delay 24 ms
+//MoveR -4 0
+//Delay 24 ms
+//MoveR -4 1
+//Delay 24 ms
+//MoveR -4 1
+//Delay 24 ms
+//MoveR -4 1
+//Delay 24 ms
+//MoveR -4 1
+//Delay 24 ms
+//MoveR -3 1
+//Delay 24 ms
+//MoveR -4 1
+//Delay 24 ms
+//MoveR -3 1
+//Delay 24 ms
+//MoveR -3 2
+//Delay 24 ms
+//MoveR -3 2
+//Delay 24 ms
+//MoveR -3 2
+//Delay 24 ms
+//MoveR -2 2
+//Delay 24 ms
+//MoveR -1 2
+//Delay 24 ms
+//MoveR -1 3
+//Delay 24 ms
+//MoveR -1 3
+//Delay 24 ms
+//MoveR -1 3
+//Delay 24 ms
+//MoveR 1 2
+//Delay 24 ms
+//MoveR 1 3
+//Delay 24 ms
+//MoveR 2 3
+//Delay 24 ms
+//MoveR 2 3
+//Delay 24 ms
+//MoveR 2 3
+//Delay 24 ms
+//MoveR 4 3
+//Delay 24 ms
+//MoveR 4 3
+//Delay 24 ms
+//MoveR 4 3
+//Delay 24 ms
+//MoveR 4 3
+//Delay 24 ms
+//MoveR 5 4
+//Delay 24 ms
+//MoveR 6 4
+//Delay 24 ms
+//MoveR 6 4
+//Delay 24 ms
+//MoveR 6 4
+//Delay 24 ms
+//MoveR 6 4
+//Delay 24 ms
+//MoveR 6 3
+//Delay 24 ms
+//MoveR 6 3
+//Delay 24 ms
+//MoveR 6 3
+//Delay 24 ms
+//MoveR 6 3
+//Delay 24 ms
+//MoveR 6 2
+//Delay 24 ms
+//MoveR 5 2
+//Delay 24 ms
+//MoveR 5 3
+//Delay 24 ms
+//MoveR 5 2
+//Delay 24 ms
+//MoveR 4 2
+//Delay 24 ms
+//MoveR 4 2
+//Delay 25 ms
+//MoveR 4 2
+//Delay 25 ms
+//MoveR 2 2
+//Delay 24 ms
+//MoveR 2 2
+//Delay 24 ms
+//MoveR 2 2
+//Delay 25 ms
+//MoveR 1 2
+//Delay 25 ms
+//MoveR 1 2
+//Delay 24 ms
+//LeftUp 1
+//Delay 24 ms</Syntax>
+//    </KeyDown>
+//    <Software>Rust</Software>
+//  </DefaultMacro>
+//</Root></Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

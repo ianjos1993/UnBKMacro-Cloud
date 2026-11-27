@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для сигналки, разрешение 1920х1080, игра в окне, на правой половине экрана. Нужно забиндить открытие САКа на RAlt. Очень простой макрос, который сам открывает и закрывает САК до момента появления сигнала.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 230 1
+Delay 250 365 ms
+KeyUp 230 1
+GoColor 14 0 56,77,52 255,255,255 1 1173 400 384 599 1 0
+Delay 40 75 ms
+GoColor 14 0 56,77,52 255,255,255 1 1173 400 384 599 1 0
+Delay 40 75 ms
+GoColor 14 0 56,77,52 255,255,255 1 1173 400 384 599 1 0
+Delay 170 215 ms
+KeyDown 230 1
+Delay 250 365 ms
+KeyUp 230 1
+Goto 1
+MoveTo 1560 799
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1831 792
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 10 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1211 485
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

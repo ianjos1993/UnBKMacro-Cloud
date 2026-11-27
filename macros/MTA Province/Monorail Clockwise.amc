@@ -1,0 +1,329 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Новый Макрос для работы водителем монорельса ПО часовой стрелке.
+Почти идеальные попадания по столбикам "остановка первого вагона". Рандомизированы паузы перед открытием, закрытием дверей и перед началом движения.
+Записано на минимальных настройках графики с разрешением 1366*768*32.
+Задержки на станциях длительные для того, чтобы при плохом соединении с сервером не было пропусков станций.
+Как только устраиваетесь - проверяйте какой состав заспавнило, должно быть 6 вагонов. Если их меньше, то нужно ехать в ручном режиме или выгнать поезд за границы депо, выйти из него и устроиться на работу заново. Макрос проедет за Вас 2 круга и закончит работу. Дальше снова устраиваетесь или становитесь в очередь и как только попадёте за "руль" - снова запускаете.
+
+Используете на свой страх и риск. Админы следят и могут написать в любой момент. Не отходите надолго от ПК с запущенным макросом.
+Так же опубликую второй макрос для работы водителем монорельса против часовой стрелки.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+микрообнова</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 15 1
+Delay 99 ms
+KeyUp 15 1
+Delay 151 ms
+KeyDown 15 1
+Delay 68 ms
+KeyUp 15 1
+Delay 64 ms
+KeyDown 26 1
+Delay 50463 ms
+Delay 256 ms
+KeyDown 14 1
+Delay 64
+KeyUp 14 1
+Delay 3998 ms
+KeyUp 26 1
+Delay 432 ms
+KeyDown 22 1
+Delay 6304 ms
+KeyUp 22 1
+Delay 529 ms
+KeyDown 22 1
+Delay 158 ms
+KeyUp 22 1
+Delay 2449 3148 ms
+KeyDown 31 1
+Delay 72 ms
+KeyUp 31 1
+Delay 6497 7103 ms
+//************************************************* 1 Арена Мирный *************************************************
+KeyDown 31 1
+Delay 119 ms
+KeyUp 31 1
+Delay 2449 3148 ms
+KeyDown 26 1
+Delay 81786 ms
+KeyUp 26 1
+Delay 389 ms
+KeyDown 22 1
+Delay 3938 ms
+KeyUp 22 1
+Delay 603 ms
+KeyDown 22 1
+Delay 2167 ms
+KeyUp 22 1
+Delay 1397 ms
+KeyDown 22 1
+Delay 234 ms
+KeyUp 22 1
+Delay 2449 3148 ms
+KeyDown 31 1
+Delay 106 ms
+KeyUp 31 1
+Delay 6497 7103 ms
+//************************************************* 1 Речной Вокзал *************************************************
+KeyDown 31 1
+Delay 216 ms
+KeyUp 31 1
+Delay 2449 3148 ms
+KeyDown 26 1
+Delay 33109 ms
+KeyUp 26 1
+Delay 393 ms
+KeyDown 22 1
+Delay 5373 ms
+KeyUp 22 1
+Delay 1833 ms
+KeyDown 22 1
+Delay 475 ms
+KeyUp 22 1
+Delay 361 ms
+KeyDown 22 1
+Delay 537 ms
+KeyUp 22 1
+Delay 2449 3148 ms
+KeyDown 31 1
+Delay 115 ms
+KeyUp 31 1
+Delay 6497 7103 ms
+//************************************************* 1 Гостиница Космос *************************************************
+KeyDown 31 1
+Delay 135 ms
+KeyUp 31 1
+Delay 2449 3148 ms
+KeyDown 26 1
+Delay 62467 ms
+KeyUp 26 1
+Delay 103 ms
+KeyDown 22 1
+Delay 5979 ms
+KeyUp 22 1
+Delay 744 ms
+KeyDown 22 1
+Delay 188 ms
+KeyUp 22 1
+Delay 466 ms
+KeyDown 22 1
+Delay 321 ms
+KeyUp 22 1
+Delay 2449 3148 ms
+KeyDown 31 1
+Delay 100 ms
+KeyUp 31 1
+Delay 6497 7103 ms
+//************************************************* 1 Московский Проспект *************************************************
+KeyDown 31 1
+Delay 48 ms
+KeyUp 31 1
+Delay 2449 3148 ms
+KeyDown 26 1
+Delay 33168 ms
+KeyUp 26 1
+Delay 79 ms
+KeyDown 22 1
+Delay 6399 ms
+KeyUp 22 1
+Delay 2449 3148 ms
+KeyDown 31 1
+Delay 63 ms
+KeyUp 31 1
+Delay 6497 7103 ms
+//************************************************* 1 Сити Парк Град *************************************************
+KeyDown 31 1
+Delay 116 ms
+KeyUp 31 1
+Delay 2449 3148 ms
+KeyDown 26 1
+Delay 58574 ms
+KeyUp 26 1
+Delay 80 ms
+KeyDown 22 1
+Delay 5723 ms
+KeyUp 22 1
+Delay 1891 ms
+KeyDown 22 1
+Delay 423 ms
+KeyUp 22 1
+Delay 239 ms
+KeyDown 22 1
+Delay 205 ms
+KeyUp 22 1
+Delay 2449 3148 ms
+KeyDown 31 1
+Delay 106 ms
+KeyUp 31 1
+Delay 6497 7103 ms
+//************************************************* 1 Озёрная *************************************************
+KeyDown 31 1
+Delay 95 ms
+KeyUp 31 1
+Delay 2449 3148 ms
+KeyDown 26 1
+Delay 13649 ms
+KeyDown 14 1
+Delay 64
+KeyUp 14 1
+Delay 63456 ms
+KeyDown 14 1
+Delay 64
+KeyUp 14 1
+Delay 5182 ms
+KeyUp 26 1
+Delay 76 ms
+KeyDown 22 1
+Delay 6482 ms
+KeyUp 22 1
+Delay 2449 3148 ms
+KeyDown 31 1
+Delay 106 ms
+KeyUp 31 1
+Delay 6497 7103 ms
+//************************************************* 2 Арена Мирный *************************************************
+//nekij
+KeyDown 31 1
+Delay 119 ms
+KeyUp 31 1
+Delay 2449 3148 ms
+KeyDown 26 1
+Delay 81786 ms
+KeyUp 26 1
+Delay 389 ms
+KeyDown 22 1
+Delay 3938 ms
+KeyUp 22 1
+Delay 603 ms
+KeyDown 22 1
+Delay 2167 ms
+KeyUp 22 1
+Delay 1397 ms
+KeyDown 22 1
+Delay 234 ms
+KeyUp 22 1
+Delay 2449 3148 ms
+KeyDown 31 1
+Delay 106 ms
+KeyUp 31 1
+Delay 6497 7103 ms
+//************************************************* 2 Речной Вокзал *************************************************
+KeyDown 31 1
+Delay 216 ms
+KeyUp 31 1
+Delay 2449 3148 ms
+KeyDown 26 1
+Delay 33109 ms
+KeyUp 26 1
+Delay 393 ms
+KeyDown 22 1
+Delay 5373 ms
+KeyUp 22 1
+Delay 1833 ms
+KeyDown 22 1
+Delay 475 ms
+KeyUp 22 1
+Delay 361 ms
+KeyDown 22 1
+Delay 537 ms
+KeyUp 22 1
+Delay 2449 3148 ms
+KeyDown 31 1
+Delay 115 ms
+KeyUp 31 1
+Delay 6497 7103 ms
+//************************************************* 2 Гостиница Космос *************************************************
+KeyDown 31 1
+Delay 135 ms
+KeyUp 31 1
+Delay 2449 3148 ms
+KeyDown 26 1
+Delay 62467 ms
+KeyUp 26 1
+Delay 103 ms
+KeyDown 22 1
+Delay 5979 ms
+KeyUp 22 1
+Delay 744 ms
+KeyDown 22 1
+Delay 188 ms
+KeyUp 22 1
+Delay 466 ms
+KeyDown 22 1
+Delay 321 ms
+KeyUp 22 1
+Delay 2449 3148 ms
+KeyDown 31 1
+Delay 100 ms
+KeyUp 31 1
+Delay 6497 7103 ms
+//************************************************* 2 Московский Проспект *************************************************
+KeyDown 31 1
+Delay 48 ms
+KeyUp 31 1
+Delay 2449 3148 ms
+KeyDown 26 1
+Delay 33168 ms
+KeyUp 26 1
+Delay 79 ms
+KeyDown 22 1
+Delay 6399 ms
+KeyUp 22 1
+Delay 2449 3148 ms
+KeyDown 31 1
+Delay 63 ms
+KeyUp 31 1
+Delay 6497 7103 ms
+//************************************************* 2 Сити Парк Град *************************************************
+KeyDown 31 1
+Delay 116 ms
+KeyUp 31 1
+Delay 2449 3148 ms
+KeyDown 26 1
+Delay 58574 ms
+KeyUp 26 1
+Delay 80 ms
+KeyDown 22 1
+Delay 5723 ms
+KeyUp 22 1
+Delay 1891 ms
+KeyDown 22 1
+Delay 423 ms
+KeyUp 22 1
+Delay 239 ms
+KeyDown 22 1
+Delay 205 ms
+KeyUp 22 1
+Delay 2449 3148 ms
+KeyDown 31 1
+Delay 106 ms
+KeyUp 31 1
+Delay 6497 7103 ms
+//************************************************* 2 Озёрная *************************************************
+KeyDown 31 1
+Delay 95 ms
+KeyUp 31 1
+Delay 2449 3148 ms
+KeyDown 26 1
+Delay 13251 ms
+KeyUp 26 1
+Delay 121 ms
+KeyDown 14 1
+Delay 46 ms
+KeyUp 14 1
+Delay 138 ms
+KeyDown 26 1
+Delay 20128 ms
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

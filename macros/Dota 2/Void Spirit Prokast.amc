@@ -1,0 +1,121 @@
+<Root>
+  <DefaultMacro>
+    <Major>Eul's + Refresh, 1 unit</Major>
+    <Description>1.Макрос на героя дота 2 Void Spirit что-бы макрос полноценно работал, нужна включить квикасты нереальный,микроконтроль и грамотность действий мой скрипт это обеспечивает.
+2.По биндам в кратце 1-Дагон. space-Этериал, q-  ременант, w-дизмилейт, e- 3 скилл, R-Ульта, X-рефрешер.
+В грамотных руках макрос будет уносить очень быстро и моментально.
+3.В принципе макрос юзлес от 0к до 7к в микро игре с макросом нет ошибок .
+4.Если есть вопросы пишите v vk id:4elbob3k
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 12 ms
+KeyUp 44 1
+Delay 12 ms
+KeyDown 29 1
+Delay 35 ms
+KeyUp 29 1
+Delay 20 ms
+MoveR -124 0
+Delay 20 ms
+KeyDown 20 1
+Delay 20 ms
+KeyUp 20 1
+Delay 20 ms
+MoveR 85 0
+Delay 50 ms
+KeyDown 20 1
+Delay 20 ms
+KeyUp 20 1
+Delay 810 ms
+KeyDown 26 1
+Delay 20 ms
+KeyUp 26 1
+Delay 500 ms
+RightDown 1
+Delay 43 ms
+RightUp 1
+Delay 1400 ms
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 200 ms
+MoveR -25 0
+Delay 64
+KeyDown 21 1
+Delay 12 ms
+KeyUp 21 1
+Delay 12 ms
+MoveR 29 1
+Delay 59 ms
+KeyDown 27 1
+Delay 2000 ms
+KeyUp 27 1
+Delay 2000 ms
+KeyDown 8 1
+Delay 68 ms
+KeyUp 8 1
+Delay 200 ms
+KeyDown 21 1
+Delay 15 ms
+KeyUp 21 1
+Delay 220 ms
+KeyDown 27 1
+Delay 41 ms
+KeyUp 27 1
+Delay 100 ms
+MoveR 94 -2
+Delay 64
+KeyDown 20 1
+Delay 25 ms
+KeyUp 20 1
+Delay 25 ms
+MoveR -124 3
+Delay 33 ms
+KeyDown 20 1
+Delay 35 ms
+KeyUp 20 1
+Delay 35 ms
+MoveR 49 -5
+Delay 35 ms
+KeyDown 8 1
+Delay 20 ms
+KeyUp 8 1
+Delay 20 ms
+KeyDown 21 1
+Delay 25 ms
+KeyUp 21 1
+Delay 25 ms
+MoveR -29 7
+Delay 25 ms
+KeyDown 8 1
+Delay 25 ms
+KeyUp 8 1
+Delay 69 ms
+KeyDown 21 1
+Delay 69 ms
+KeyUp 21 1
+Delay 69 ms
+KeyDown 26 1
+Delay 20 ms
+KeyUp 26 1
+Delay 500 ms
+RightDown 1
+Delay 300 ms
+RightUp 1
+Delay 1200 ms
+KeyDown 30 1
+Delay 55 ms
+KeyUp 30 1
+Delay 55 ms</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major>AutoFarm</Major>
+    <Description>Макрос для фарма железа в Нью Ворлд. Для корректной работы макроса, Вам надо найти место с рудой, которая будет находиться прям в упор с горой. На макросе настройка сделана так, что персонаж ТИПА двигается вперед ( по миллиметру ) Сделано это что бы не срабатывала анти АФК система. Именно поэтому нужно что бы руда была в притык к горе. Что бы персонажу было во что упереться и он мог фармить на одной точке без ограничений, ни куда не убегая. Самолично проверял более 7 часов, работало все как часы!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 77 145 ms
+KeyUp 8 1
+Delay 64 333 ms
+KeyDown 8 1
+Delay 77 123 ms
+KeyUp 8 1
+Delay 64 234 ms
+RightDown 1
+Delay 111 222 ms
+RightUp 1
+Delay 2000 2555 ms
+KeyDown 26 1
+Delay 5 ms
+KeyUp 26 1
+Delay 5 ms
+KeyDown 22 1
+Delay 15 ms
+KeyUp 22 1
+Delay 15 ms
+KeyDown 8 1
+Delay 222 229 ms
+KeyUp 8 1
+Delay 111 222 ms</Syntax>
+    </KeyDown>
+    <Software>New World</Software>
+  </DefaultMacro>
+</Root>

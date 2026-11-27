@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Это бот 
+Как использовать:
+1 Измините окно на правую часть рабочего стола
+2 Измините кнопки в 4К на :
+1290
+3 Измините форму стрелок на круг
+4 Измините цвета нот на чёрный
+5 Наслаждайтесь</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 6 1 0,0,0 255,255,255 1 851 231
+GoColor 11 1 0,0,0 255,255,255 1 924 218
+GoColor 16 1 0,0,0 255,255,255 1 993 230
+GoColor 21 1 0,0,0 255,255,255 1 1065 229
+Goto 1
+KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+Delay 1 ms
+Goto 1
+KeyDown 31 1
+Delay 1 ms
+KeyUp 31 1
+Delay 1 ms
+Goto 1
+KeyDown 38 1
+Delay 1 ms
+KeyUp 38 1
+Delay 1 ms
+Goto 1
+KeyDown 39 1
+Delay 1 ms
+KeyUp 39 1
+Delay 1 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Funky Friday 4K</Software>
+  </DefaultMacro>
+</Root>

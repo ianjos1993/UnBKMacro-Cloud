@@ -1,0 +1,72 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос с автопрожатием всех бафов на сервере R2 Original  для танка, прожимает спеллы на 10 минут фарма одни кликом. 
+
+Выставите на панельке спеллы следующим образом: 
+4 - ярость
+8 - гнем 
+5 - кт плюха (если есть)
+6 - креп плюха (если есть)
+7 - баф крепы на атаку ( если есть)
+alt+1 - скорка
+alt+2 - бд
+F3 - шоп сила
+F4 - крит
+F5 - шоп деф</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 60 1
+Delay 64
+KeyUp 60 1
+Delay 1222 ms
+KeyDown 61 1
+Delay 64
+KeyUp 61 1
+Delay 1222 ms
+KeyDown 62 1
+Delay 64
+KeyUp 62 1
+Delay 1222 ms
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 1222 ms
+KeyDown 35 1
+Delay 64
+KeyUp 35 1
+Delay 2222 ms
+KeyDown 36 1
+Delay 64
+KeyUp 36 1
+Delay 1222 ms
+KeyDown 226 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 1222 ms
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyUp 226 1
+Delay 290000 ms
+KeyDown 226 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyUp 226 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>R2 Online</Software>
+  </DefaultMacro>
+</Root>

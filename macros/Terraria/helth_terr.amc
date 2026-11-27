@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматическое восстановление здоровья при низких ОЗ
+-Как пользоваться?
+-Поменяй в интерфейсе отображение ОЗ на полосу, прожми бинд и живи долго да счастливо</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 5 1 245,60,64 255,255,255 1 1210 25
+KeyDown 11 1
+Delay 64
+KeyUp 11 1
+Delay 200 ms</Syntax>
+    </KeyDown>
+    <Software>Terraria</Software>
+  </DefaultMacro>
+</Root>

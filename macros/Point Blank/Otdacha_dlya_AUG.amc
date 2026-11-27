@@ -1,0 +1,68 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Контралирует отдачу AUG, стреляет в одну точку с незначительной отдачей вверх, очень хороший скрипт для тех кто хочет стрелять на бегу и попадать в врага!</Description>
+    <Comment>Automatic Press Gun
+</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>			//http://vk.com/press_like_to_pay_respect Скрипты и макросы!
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 5 ms
+MoveR 0 2
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 5 ms
+MoveR 0 2
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 5 ms
+MoveR 0 2
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 5 ms
+MoveR 0 2
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 5 ms
+MoveR 0 2
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 5 ms
+MoveR 0 2
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 5 ms
+MoveR 0 2
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 5 ms
+MoveR 0 2
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 5 ms
+MoveR 0 2
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 5 ms
+MoveR 0 2</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

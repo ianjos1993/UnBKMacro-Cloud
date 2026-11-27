@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>Tinker BLINK+RACKETS+SOUL RING+REARM</Major>
+    <Description>Всё работает хорошо и без проблем, можно редактировать на ваши бинды в настройке макроса.
+
+W = rachest
+Space = BLink
+Z = soul ring
+R = rearm</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 102 ms
+LeftDown 1
+Delay 65 ms
+KeyDown 29 1
+Delay 110 ms
+KeyDown 26 1
+KeyDown 21 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

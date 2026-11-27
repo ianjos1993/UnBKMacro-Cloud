@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос работает на всех оружиях
+ ставим левую кнопку мыши,и прицеливаемся что бы стрелять без отдачи
+
+макрос делал сам тестируем</Description>
+    <Comment>Прежде чем писать негатив читай описание еще раз!</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 29 ms
+LeftUp 1
+Delay 29 ms
+LeftDown 1
+Delay 45 ms
+LeftUp 1
+Delay 45 ms
+LeftDown 1
+Delay 29 ms
+LeftUp 1
+Delay 29 ms
+LeftDown 1
+Delay 51 ms
+LeftUp 1
+Delay 51 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

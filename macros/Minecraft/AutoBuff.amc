@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматически использует зелья на сервере DamnMC. Обязательно иметь доступ к гейм пассу зелий.
+Разрешение: 1920x1080
+Зелья должны быть в первых трёх слотах.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR 12 -469
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveR -27 423
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

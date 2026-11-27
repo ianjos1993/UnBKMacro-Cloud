@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major>Wanderer Charged Attack</Major>
+    <Description>Простой макрос на спам заряженной атаки Странника. Назначте на любую клавишу и поставьте галочку "выполнять пока нажата клавиша". При скорости атаки выше 130 смените время ожидания на 10 миллисекунд меньше.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 300 ms
+LeftUp 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

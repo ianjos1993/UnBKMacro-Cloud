@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>Works best for defender weapons or low recoil guns</Major>
+    <Description>Use for defender weapons, run while holding button
+sens: 6, 6, 800 dpi 
+
+res: 1920 x1080
+
+aspect ratio: 16:10, 90 fov</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+MoveR 0 2
+Delay 15 ms
+MoveR 0 5
+Delay 15 ms
+MoveR 0 4
+Delay 15 ms
+MoveR -2 2
+Delay 15 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

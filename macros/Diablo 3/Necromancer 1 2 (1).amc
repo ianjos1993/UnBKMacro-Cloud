@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для Некроманта в 28 сезоне через Пылающий Карнавал(6), 2 нажимается с меньшей переодичностью нежели остальные скиллы, работает только на цифровой раскладке, Q W E R перебинживать самому.
+Важно!
+Бинд может невовремя прервать атаку или помешать использовать другой скилл ввиду очень частого нажатия, выключайте его вовремя или перепроверяйте нажатие нужной клавиши.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Diablo 3</Software>
+  </DefaultMacro>
+</Root>

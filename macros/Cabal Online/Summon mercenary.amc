@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Призыв наёмников, чтобы не открывать каждые 15 минут менюшки с ними и не засорять основную панель.
+Стоят на первой панельке +F3 модом под 1-2 слотами</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 60 1
+Delay 97 ms
+KeyUp 60 1
+Delay 528 ms
+KeyDown 30 1
+Delay 105 ms
+KeyUp 30 1
+Delay 595 ms
+KeyDown 31 1
+Delay 117 ms
+KeyUp 31 1
+Delay 788 ms
+KeyDown 58 1
+Delay 101 ms
+KeyUp 58 1</Syntax>
+    </KeyDown>
+    <Software>Cabal Online</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>///////////////////////////////////////////
+
+|Mouse Sensitivity: 0.8
+* With Simple Handmade Sight: 0.6
+* With Holosight: 1.0
+Field of View: 90
+--
+Windows Sensitivity: 6 (default)</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 13 ms
+MoveR 0 2
+Delay 14 ms
+MoveR 0 2
+Delay 14 ms
+MoveR 0 2
+Delay 14 ms
+MoveR 0 2
+Delay 14 ms
+MoveR 0 2
+Delay 14 ms
+MoveR 0 2
+Delay 14 ms
+MoveR 0 2
+Delay 14 ms
+MoveR 0 2
+Delay 14 ms
+MoveR 0 2
+Delay 13 ms
+MoveR 0 1
+LeftUp 1
+Delay 40 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description> Макрос для ловли контейнеров на стресс-тест сервере MTA Province. Запускать макрос надо перез запуском игры иначе будет вылет и придется перезаходить в игру после истечение 30 секунд жмите за биндендую клавишу под макрос и ловите контейнер 
+Рассширение 1920 на 1080</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 3 ms
+LeftUp 1
+GoWhile 3 8
+KeyDown 38 1
+Delay 3 ms
+KeyUp 38 1
+GoWhile 5 8
+Delay 5 ms
+MoveTo 906 610
+Delay 6 ms
+LeftDown 1
+Delay 2 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

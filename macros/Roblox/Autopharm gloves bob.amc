@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major>Автофарм перчатки боб</Major>
+    <Description>1. Наводим курсор на Enter Arena
+2. Активируем макрос
+3. Теперь наш макрос делает все за вас
+4. Идем пить чай под ютубчик</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 5 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 8 1
+Delay 1 s
+KeyUp 8 1
+Delay 1 s
+KeyDown 41 1
+Delay 1 s
+KeyUp 41 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

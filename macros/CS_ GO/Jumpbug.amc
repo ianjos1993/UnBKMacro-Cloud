@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>A script that use the csgo bug called "Jumbug or crouchbug" can help doing a difficult movement with this script.
+Its not 100% consistent but works about 75% of the time.
+
+To use it simply set it to "Run once" and enjoy,, the script will do the rest for you!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 0 ms
+KeyUp 44 1
+Delay 718 ms
+KeyDown 224 1
+Delay 15 ms
+KeyUp 224 1
+WheelDown 1
+Delay 7 ms
+WheelDown 1
+Delay 7 ms
+WheelDown 1
+Delay 7 ms
+WheelDown 1
+Delay 7 ms
+WheelDown 1
+Delay 7 ms
+WheelDown 1
+Delay 7 ms</Syntax>
+    </KeyDown>
+    <Software>CS: GO</Software>
+  </DefaultMacro>
+</Root>

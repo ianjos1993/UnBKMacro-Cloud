@@ -1,0 +1,49 @@
+<Root>
+  <DefaultMacro>
+    <Major>Cubix</Major>
+    <Description>Макрос для Кубикса Перебивает многих в яме и в жиме отлично ведет себя на суши , на 1 слот меч на 2 фрост - норм хилл Удачи в пвп !</Description>
+    <Comment>Норм макро
+</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+Delay 1 ms
+LeftDown 1
+Delay 12 ms
+LeftUp 1
+Delay 12 ms
+LeftDown 1
+Delay 8 ms
+LeftUp 1
+Delay 8 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+KeyDown 35 1
+Delay 1 ms
+KeyUp 35 1
+Delay 1 ms
+LeftDown 1
+Delay 12 ms
+LeftUp 1
+Delay 12 ms
+LeftDown 1
+Delay 9 ms
+LeftUp 1
+Delay 9 ms
+LeftDown 1
+Delay 4 ms
+LeftUp 1
+Delay 4 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот скрипт пооймает бизнес во время слёта почти моментально. 
+
+Надо встать на пикап в Волчанске и запустить скрипт.
+
+Ждите пока бизнес не станет вашим
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 10 ms
+LeftUp 1
+KeyDown 224 1
+Delay 10 ms
+KeyDown 25 1
+Delay 10 ms
+KeyUp 224 1
+KeyUp 25 1
+LeftDown 1
+Delay 25 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

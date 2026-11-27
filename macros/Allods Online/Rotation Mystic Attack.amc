@@ -1,0 +1,95 @@
+<Root>
+  <DefaultMacro>
+    <Major>Мистик, нападение.</Major>
+    <Description>Агония(R)&gt;Истязание(7)&gt;Опаление(6)&gt;ПА(E)&gt;ПА(E)&gt;Опаление(6)&gt;ПА(E)&gt;ПА(E)&gt;Опаление(6)&gt;ПА(E) (и по кругу)
+С каждой кнопкой спамятся фантомы(фантомы на кнопку 9).
+
+Для реализации нужны такие вехи как: Полтргейст, Пробой, Садист, Пиролиз.</Description>
+    <Comment>Для реализации нужны такие вехи как: Полтргейст, Пробой, Садист, Пиролиз.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+KeyDown 38 1
+Delay 5 60 ms
+KeyUp 21 1
+KeyUp 38 1
+Delay 5 30 ms
+KeyDown 38 1
+Delay 5 30 ms
+KeyUp 38 1
+Delay 5 30 ms
+KeyDown 38 1
+Delay 5 30 ms
+KeyUp 38 1
+Delay 5 30 ms
+KeyDown 38 1
+Delay 5 30 ms
+KeyUp 38 1
+Delay 5 30 ms
+KeyDown 38 1
+Delay 5 30 ms
+KeyUp 38 1
+Delay 1000 1100 ms
+KeyDown 38 1
+KeyDown 36 1
+Delay 5 60 ms
+KeyUp 38 1
+KeyUp 36 1
+Delay 1050 1200 ms
+KeyDown 38 1
+KeyDown 35 1
+Delay 5 60 ms
+KeyUp 38 1
+KeyUp 35 1
+Delay 1050 1200 ms
+KeyDown 38 1
+KeyDown 8 1
+Delay 5 60 ms
+KeyUp 38 1
+KeyUp 8 1
+Delay 1050 1200 ms
+KeyDown 38 1
+KeyDown 8 1
+Delay 5 60 ms
+KeyUp 38 1
+KeyUp 8 1
+Delay 1050 1200 ms
+KeyDown 38 1
+KeyDown 35 1
+Delay 5 60 ms
+KeyUp 38 1
+KeyUp 35 1
+Delay 1050 1200 ms
+KeyDown 38 1
+KeyDown 8 1
+Delay 5 60 ms
+KeyUp 38 1
+KeyUp 8 1
+Delay 1050 1200 ms
+KeyDown 38 1
+KeyDown 8 1
+Delay 5 60 ms
+KeyUp 38 1
+KeyUp 8 1
+Delay 1050 1200 ms
+KeyDown 38 1
+KeyDown 35 1
+Delay 5 60 ms
+KeyUp 38 1
+KeyUp 35 1
+Delay 1050 1200 ms
+KeyDown 38 1
+KeyDown 8 1
+Delay 5 60 ms
+KeyUp 38 1
+KeyUp 8 1
+Delay 1050 1200 ms</Syntax>
+    </KeyDown>
+    <Software>Аллоды онлайн</Software>
+  </DefaultMacro>
+</Root>

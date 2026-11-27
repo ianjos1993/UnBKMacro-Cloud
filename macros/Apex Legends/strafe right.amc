@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>180 strafe right</Major>
+    <Description>this is used to strafe to the right. you can go a full 180 degrees to the right side. i recommend using octanes stim as it makes strafing way better and its more common to hit big strafes </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 15 ms
+KeyDown 225 1
+Delay 15 ms
+KeyDown 44 1
+Delay 15 ms
+KeyDown 7 1
+Delay 15 ms
+KeyUp 26 1
+Delay 15 ms
+KeyUp 225 1
+Delay 15 ms
+KeyUp 44 1
+Delay 15 ms
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

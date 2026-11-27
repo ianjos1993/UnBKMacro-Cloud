@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>macro for HGMLG</Major>
+    <Description>this macro is op with low sens like 0.6 0.7
+in a resolution 1920x1080
+fov 90
+dpi 1100-1300
+
+enjoy and support me</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 50 ms
+MoveR 2 30
+Delay 50 ms
+MoveR 3 35
+Delay 50 ms
+MoveR 2 34
+Delay 50 ms
+MoveR 6 36
+Delay 50 ms
+MoveR 5 35
+Delay 50 ms
+LeftUp 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

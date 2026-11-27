@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major>Jitter for Nemesis, Flatline or R-301 (experimental)</Major>
+    <Description>Recoil reducer for weapons like nemesis flatline or R-301. Working well with hemlok too.
+
+
+
+Resolution - 1920 x 1080
+Sensitivity in-game -  2.20 
+Mouse - 1350dpi 
+
+Try it first on shooting range. Enoy and good luck :)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR -4 6
+Delay 7 ms
+MoveR 4 -6
+Delay 5 ms
+MoveR -6 4
+Delay 12 ms
+MoveR 6 -4
+Delay 5 ms
+MoveR -7 4
+Delay 12 ms
+MoveR 5 -5
+Delay 7 ms
+MoveR -1 8
+Delay 12 ms
+MoveR 7 -7
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

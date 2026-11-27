@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>AlEl</Major>
+    <Description>Скрипт, который поможет вам создавать каменные ножи из мелких камней. 
+
+Для его работы необходимо сбросить мелкие камни на пол, при этом ваши руки должны быть свободны.
+
+Данный скрипт оптимизирован для разрешения FullHD.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+LeftDown 1
+Delay 64
+MoveTo 133 176
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 133 176
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>DayZ</Software>
+  </DefaultMacro>
+</Root>

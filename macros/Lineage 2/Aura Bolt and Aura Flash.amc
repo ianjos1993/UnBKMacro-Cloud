@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major>Aura</Major>
+    <Description>Макрос для ближнего боя, макрос подходит двум магам, класс Spellsinger и Sorcerer. Суть макроса в том, чтобы использовать два скила Aura Bolt и Aura Flash, которые очень быстро кастуются. Подмечу что скилл Aura Flash еще и таргет забивает. Если против поблизости, или в это вообще какой-то воин нажимаем макрос, и за секунды противник получает громадный урон. Рекомендую использовать макрос на пвп серверах, с полным бафом, так же рекомендую ставить минимальную задержку. Режим работы выбирайте: использовать пока нажата клавиша, или использовать до повторного нажатия.
+[. Aura Flash
+O. Aura Bolt
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 18 1
+Delay 1 ms
+KeyUp 18 1
+Delay 1 ms
+KeyDown 18 1
+Delay 1 ms
+KeyUp 18 1
+Delay 1 ms
+KeyDown 47 1
+Delay 1 ms
+KeyUp 47 1
+Delay 1 ms
+KeyDown 18 1
+Delay 1 ms
+KeyUp 18 1
+Delay 1 ms
+KeyDown 18 1
+Delay 1 ms
+KeyUp 18 1
+Delay 1 ms
+KeyDown 47 1
+Delay 1 ms
+KeyUp 47 1
+Delay 1 ms
+KeyDown 18 1
+Delay 1 ms
+KeyUp 18 1
+Delay 1 ms
+KeyDown 18 1
+Delay 1 ms
+KeyUp 18 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

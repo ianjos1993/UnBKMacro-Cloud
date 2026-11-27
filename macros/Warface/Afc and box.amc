@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Авто фарм. Макрос жмёт переодически жмёт пробел. Раздаёт патроны в близи стоящим игрокам для получения опыта в игре. Подходит для как для пвп  так и для пве.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 131
+KeyUp 44 1
+Delay 131
+KeyDown 44 1
+Delay 131
+KeyUp 44 1
+Delay 131
+KeyDown 34 1
+Delay 131
+KeyUp 34 1
+Delay 131
+Delay 2102 2103 ms
+LeftDown 1
+Delay 131
+LeftUp 1
+Delay 131</Syntax>
+    </KeyDown>
+    <Software>Warface</Software>
+  </DefaultMacro>
+</Root>

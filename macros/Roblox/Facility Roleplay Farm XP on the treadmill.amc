@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Инструкция к примененю:
+1) Взять стакан с водой и пометить его на 4 слот (это важно)
+2) Встать над беговой дорожкой
+3) Запустить авто фарм 
+Рекомендуется использовать на приватных серверах, что бы вам не мешали другие игроки. Пользуйтесь, пока не пофиксили авто фарм! ;) </Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64 ms
+GoWhile 5 300
+KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+Delay 5000 ms
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 3 s
+GoWhile 25 5</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

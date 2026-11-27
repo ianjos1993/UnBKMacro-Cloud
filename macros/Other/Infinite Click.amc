@@ -1,0 +1,19 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Бесконечный повторяющийся клик левой кнопки мыши (ЛКМ). Ставите на любую кнопку и наслаждаетесь нагибая всех в кликерах :з. Нажать кнопку чтобы запустить, ещё раз нажать чтобы остановить. 
+ВАЖНО!!! В настройках выбирайте повтор макроса!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Другие</Software>
+  </DefaultMacro>
+</Root>

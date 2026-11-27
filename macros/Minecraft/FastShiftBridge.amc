@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос исключительно для быстрого строительства на шифте, я не уверен что макрос будет пригоден ещё в каких-то ситуаций.
+Инструкция по активации макроса:
+1.Скачиваем макрос
+2.Назначаем макрос на выбранную вами клавишу
+3.Ставим макрос на зажатие клавиши.
+4.Заходим в игру.
+5.Становимся на край блока под углом, зажимаем клавишу с макросом, и нажимаем одновременно W+D либо же W+A.
+6.Наслаждаемся игре.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 95 ms
+RightDown 1
+Delay 1 ms
+RightUp 1
+Delay 1 ms
+KeyUp 225 1
+Delay 195 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

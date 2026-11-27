@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простой макрос для того чтобы по нажатию 1 кнопки на клавиатуре или мышке, в противника кидалась удочка или снежок. Для аадекватной работы необходимо держать удочку, снежок в 3 горячем слоте.
+
+Удачи</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 15 ms
+KeyUp 32 1
+Delay 15 ms
+RightDown 1
+Delay 15 ms
+RightUp 1
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

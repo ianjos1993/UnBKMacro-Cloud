@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>dracula</Major>
+    <Description>Данный макрос позволяет легко перекравчивать драг камни, из одного цвета в другой для этого откройте куб и положите  в первые 2 ячейки инвентаря Эссенцию Драг камня и 9 любых драг. камней отличающихся цветом отвыбраной  эссенции и запустите макрос, програма все сделает за вас.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1434 588
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 1478 588
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 283 832
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2500 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Diablo 3</Software>
+  </DefaultMacro>
+</Root>

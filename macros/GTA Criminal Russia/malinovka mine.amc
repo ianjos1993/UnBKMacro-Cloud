@@ -1,0 +1,62 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Бегающий бот на шахту малиновка. Бегает до ближайшей точки. Перед стартом нужно встать на ближайшей точке сдачи лицом в противоположную сторону от точки сбора и активировать скрипт. Скрипт будет БХшить до точки и нести обратно</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 624 ms
+KeyDown 225 1
+Delay 500 ms
+KeyUp 225 1
+Delay 18 ms
+KeyDown 44 1
+Delay 209 ms
+KeyUp 44 1
+Delay 76 ms
+KeyDown 225 1
+Delay 850 ms
+KeyUp 225 1
+Delay 8 ms
+KeyDown 44 1
+Delay 209 ms
+KeyUp 44 1
+Delay 7 ms
+KeyDown 225 1
+Delay 807 ms
+KeyUp 225 1
+Delay 3 ms
+KeyDown 44 1
+Delay 184 ms
+KeyUp 44 1
+Delay 107 ms
+KeyDown 225 1
+Delay 181 ms
+KeyUp 225 1
+Delay 218 ms
+KeyUp 22 1
+Delay 555 ms
+KeyDown 22 1
+Delay 732 ms
+KeyUp 22 1
+Delay 9775 ms
+KeyDown 4 1
+Delay 69 ms
+KeyDown 26 1
+Delay 466 ms
+KeyUp 4 1
+Delay 7487 ms
+KeyUp 26 1
+Delay 1463 ms
+KeyDown 225 1
+Delay 131 ms</Syntax>
+    </KeyDown>
+    <Software>GTA: Criminal Russia (CRMP)</Software>
+  </DefaultMacro>
+</Root>

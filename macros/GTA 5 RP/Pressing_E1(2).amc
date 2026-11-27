@@ -1,0 +1,137 @@
+<Root>
+  <DefaultMacro>
+    <Major>FluffyCobraa</Major>
+    <Description>This macro holds E for the time that is needed to mine in grand RP. It holds the E key for 6 seconds which is enought to start mining and then it waits 10 seconds which is enough time to wait for the current mine animation to stop(7 seconds) and then it waits 3 seconds so admins do not see it obviously.</Description>
+    <Comment>Grand RP holding E </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 38 1
+Delay 64
+KeyUp 38 1
+Delay 64
+KeyDown 38 1
+Delay 64
+KeyUp 38 1
+Delay 64
+KeyDown 38 1
+Delay 64
+KeyUp 38 1
+Delay 64
+KeyDown 38 1
+Delay 64
+KeyUp 38 1
+Delay 64
+KeyDown 8 1
+Delay 64
+LeftUp 1
+//
+Delay 64
+Delay 6000 ms
+KeyUp 8 1
+Delay 10000 ms
+KeyDown 8 1
+Delay 6000 ms
+KeyUp 8 1
+Delay 10000 ms
+KeyDown 8 1
+Delay 6000 ms
+KeyUp 8 1
+Delay 10000 ms
+KeyDown 8 1
+Delay 6000 ms
+KeyUp 8 1
+Delay 10000 ms
+KeyDown 8 1
+Delay 6000 ms
+KeyUp 8 1
+Delay 10000 ms
+KeyDown 8 1
+Delay 6000 ms
+KeyUp 8 1
+Delay 10000 ms
+KeyDown 8 1
+Delay 6000 ms
+KeyUp 8 1
+Delay 10000 ms
+KeyDown 8 1
+Delay 6000 ms
+KeyUp 8 1
+Delay 10000 ms
+KeyDown 8 1
+Delay 6000 ms
+KeyUp 8 1
+Delay 10000 ms
+KeyDown 8 1
+Delay 6000 ms
+KeyUp 8 1
+Delay 10000 ms
+KeyDown 8 1
+Delay 6000 ms
+KeyUp 8 1
+Delay 10000 ms
+KeyDown 8 1
+Delay 6000 ms
+KeyUp 8 1
+Delay 10000 ms
+KeyDown 8 1
+Delay 6000 ms
+KeyUp 8 1
+Delay 10000 ms
+KeyDown 8 1
+Delay 6000 ms
+KeyUp 8 1
+Delay 10000 ms
+KeyDown 8 1
+Delay 6000 ms
+KeyUp 8 1
+Delay 10000 ms
+KeyDown 8 1
+Delay 6000 ms
+KeyUp 8 1
+Delay 10000 ms
+KeyDown 8 1
+Delay 6000 ms
+KeyUp 8 1
+Delay 10000 ms
+KeyDown 8 1
+Delay 6000 ms
+KeyUp 8 1
+Delay 10000 ms
+KeyDown 8 1
+Delay 6000 ms
+KeyUp 8 1
+Delay 10000 ms
+KeyDown 8 1
+Delay 6000 ms
+KeyUp 8 1
+Delay 10000 ms
+KeyDown 8 1
+Delay 6000 ms
+KeyUp 8 1
+Delay 10000 ms
+KeyDown 8 1
+Delay 6000 ms
+KeyUp 8 1
+Delay 10000 ms
+KeyDown 8 1
+Delay 6000 ms
+KeyUp 8 1
+Delay 10000 ms</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

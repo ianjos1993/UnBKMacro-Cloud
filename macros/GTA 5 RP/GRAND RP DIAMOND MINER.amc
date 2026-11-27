@@ -1,0 +1,49 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Bot to mine diamond automatically in grand rp:
+1. Get to the querry and start the macro.
+2. The character will start mining as soon as the E button appears on the screen.
+3. After mining once the character willl auto move hence increase the chance of getting diamonds. 
+4. After moving it will start mining again.
+5. Though fill the captcha manually after every 15 minutes and start the bot again.
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 64 ms
+KeyDown 8 1
+Delay 6485 ms
+KeyUp 8 1
+Delay 64 ms
+KeyDown 26 1
+Delay 510 ms
+KeyUp 26 1
+Delay 64 ms
+KeyDown 7 1
+Delay 347 ms
+KeyUp 7 1
+Delay 64 ms
+KeyDown 4 1
+Delay 322 ms
+KeyUp 4 1
+Delay 64 ms
+KeyDown 22 1
+Delay 371 ms
+KeyUp 22 1
+Delay 64 ms
+KeyDown 8 1
+Delay 6485 ms
+KeyUp 8 1
+Delay 64 ms
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

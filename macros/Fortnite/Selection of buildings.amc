@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>
+поставьте доп. бинд на стену на кнопку J и всё будет работать
+
+PS. время с которой кирка бьёт я сам подбирал, это 165 мс
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 166 ms
+KeyDown 13 1
+Delay 1 ms
+KeyUp 13 1
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

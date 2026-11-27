@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Auto atk macro for liuhuo with pinecomet. All you have to do is just click to attack and macro will dodge for you.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 40 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 40 ms
+LeftDown 1
+Delay 700 ms
+LeftUp 1
+Delay 850 ms
+RightDown 1
+Delay 50 ms
+RightUp 1
+Delay 50 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 750 ms</Syntax>
+    </KeyDown>
+    <Software>Tower of Fantasy</Software>
+  </DefaultMacro>
+</Root>

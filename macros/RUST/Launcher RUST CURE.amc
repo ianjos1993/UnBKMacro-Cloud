@@ -1,0 +1,54 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Практически идеально откалиброванный макрос на Гранатомёт, пользуйтесь. Для игры RUST.
+При наличии вопросов можете отписаться в соответствующей теме,отвечу.
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 150 ms
+MoveR -68 160
+Delay 150 ms
+LeftUp 1
+Delay 150 ms
+LeftDown 1
+Delay 150 ms
+MoveR -68 160
+Delay 150 ms
+LeftUp 1
+Delay 150 ms
+LeftDown 1
+Delay 150 ms
+MoveR -68 160
+Delay 150 ms
+LeftUp 1
+Delay 150 ms
+LeftDown 1
+Delay 150 ms
+MoveR -68 160
+Delay 150 ms
+LeftUp 1
+Delay 150 ms
+LeftDown 1
+Delay 150 ms
+MoveR -68 160
+Delay 150 ms
+LeftUp 1
+Delay 150 ms
+LeftDown 1
+Delay 150 ms
+MoveR -68 160
+Delay 150 ms
+LeftUp 1
+Delay 150 min</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

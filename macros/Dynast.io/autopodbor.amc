@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматическое нажатие на кнопку подбор (у) удобная вещь для игры dynast.io
+Dynast io - Rpg выживание </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 20 ms
+KeyUp 8 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>dynast.io</Software>
+  </DefaultMacro>
+</Root>

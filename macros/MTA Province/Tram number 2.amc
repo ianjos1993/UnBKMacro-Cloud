@@ -1,0 +1,157 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Скрипт для трамвая номер 2 в г. Приволжск. Депо возле больницы.
+Бот создан для слабых ПК, 25-35 ФПС
+Как начать работать?
+1. Приехать в депо, устроиться на работу, и сесть в !СРЕДНИЙ! трамвай номер 2! (стоит на середине, на самых дальних рельсах)
+2. Запустить скрипт.
+Примечание: После каждого круга, бот отключается сам, когда приезжаете в депо. Вам нужно нажать кнопку "Да", и снова запустить бота. Иногда может чуть чуть не доезжать до остановки, можете в ручную немного подъехать (случается редко, примерно раз в 15 рейсов)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 65 ms
+KeyUp 68 1
+Delay 205 ms
+KeyUp 225 1
+Delay 593 ms
+KeyDown 26 1
+Delay 19619 ms
+KeyUp 26 1
+Delay 549 ms
+KeyDown 26 1
+Delay 7406 ms
+KeyUp 26 1
+Delay 1246 ms
+KeyDown 22 1
+Delay 4390 ms
+KeyUp 22 1
+Delay 713 ms
+KeyDown 26 1
+Delay 54 ms
+KeyUp 26 1
+Delay 685 ms
+KeyDown 31 1
+Delay 81 ms
+KeyUp 31 1
+Delay 2819 ms
+KeyDown 31 1
+Delay 86 ms
+KeyUp 31 1
+Delay 3305 ms
+KeyDown 26 1
+Delay 31579 ms
+KeyUp 26 1
+Delay 1767 ms
+KeyDown 22 1
+Delay 1383 ms
+KeyUp 22 1
+Delay 277 ms
+KeyDown 22 1
+Delay 2880 ms
+KeyUp 22 1
+Delay 279 ms
+KeyDown 22 1
+Delay 103 ms
+KeyUp 22 1
+Delay 592 ms
+KeyDown 26 1
+Delay 45 ms
+KeyUp 26 1
+Delay 951 ms
+KeyDown 31 1
+Delay 90 ms
+KeyUp 31 1
+Delay 2471 ms
+KeyDown 31 1
+Delay 130 ms
+KeyUp 31 1
+Delay 3147 ms
+KeyDown 26 1
+Delay 42251 ms
+KeyUp 26 1
+Delay 148 ms
+KeyDown 22 1
+Delay 2026 ms
+KeyUp 22 1
+Delay 707 ms
+KeyDown 22 1
+Delay 462 ms
+KeyUp 22 1
+Delay 1379 ms
+KeyDown 22 1
+Delay 1868 ms
+KeyUp 22 1
+Delay 1090 ms
+KeyDown 31 1
+Delay 99 ms
+KeyUp 31 1
+Delay 2371 ms
+KeyDown 31 1
+Delay 139 ms
+KeyUp 31 1
+Delay 3460 ms
+KeyDown 26 1
+Delay 32336 ms
+KeyUp 26 1
+Delay 362 ms
+KeyDown 22 1
+Delay 2165 ms
+KeyUp 22 1
+Delay 421 ms
+KeyDown 22 1
+Delay 889 ms
+KeyUp 22 1
+Delay 388 ms
+KeyDown 22 1
+Delay 1284 ms
+KeyUp 22 1
+Delay 460 ms
+KeyDown 22 1
+Delay 45 ms
+KeyUp 22 1
+Delay 1033 ms
+KeyDown 31 1
+Delay 112 ms
+KeyUp 31 1
+Delay 2816 ms
+KeyDown 31 1
+Delay 117 ms
+KeyUp 31 1
+Delay 3531 ms
+KeyDown 26 1
+Delay 33310 ms
+KeyUp 26 1
+Delay 975 ms
+KeyDown 26 1
+Delay 499 ms
+KeyUp 26 1
+Delay 787 ms
+KeyDown 22 1
+Delay 4565 ms
+KeyUp 22 1
+Delay 356 ms
+KeyDown 26 1
+Delay 90 ms
+KeyUp 26 1
+Delay 1094 ms
+KeyDown 31 1
+Delay 108 ms
+KeyUp 31 1
+Delay 2976 ms
+KeyDown 31 1
+Delay 148 ms
+KeyUp 31 1
+Delay 3434 ms
+KeyDown 26 1
+Delay 7813 ms
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

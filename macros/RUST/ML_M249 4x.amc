@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major>макрсо бысплатный</Major>
+    <Description>очень хароший макрос на m249 с 4x прицелом жмет на 100 метров ечли больше то надо чуть контролировать
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 25 ms
+MoveR 0 18
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rust/макросы</Software>
+  </DefaultMacro>
+</Root>

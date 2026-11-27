@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>NeasteR</Major>
+    <Description>NeasteR FullHD Wide Screen Edit  2560x1080p with Autokeep or Auto Sell Function. Just 2/3 Star Stop&amp;Go, but i think its enough</Description>
+    <Comment>NeasteR FullHD Wide Screen Edit  2560x1080p</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+LeftDown 1
+Delay 35 ms
+KeyUp 44 1
+Delay 1870 ms
+LeftUp 1
+Delay 99 ms
+MoveTo 1430 954
+Delay 128 ms
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Fishing Planet</Software>
+  </DefaultMacro>
+</Root>

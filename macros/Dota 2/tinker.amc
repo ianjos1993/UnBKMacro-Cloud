@@ -1,0 +1,53 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Z- Дагон
+X- Этериал
+C- на ваше усмотрение(хекс шива и тд)
+Q-Лазер
+E- Ракеты
+R- Реарм
+для начала реарм в 1
+потом щит в 10 потом максим лазер и закупаем шмот по игре</Description>
+    <Comment>Этот макрос для кастомки в доте
+DOTA NO LIMIT
+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 27 1
+Delay 64 ms
+KeyUp 27 1
+Delay 64 ms
+KeyDown 29 1
+Delay 64 ms
+KeyUp 29 1
+Delay 64 ms
+KeyDown 20 1
+Delay 64 ms
+KeyUp 20 1
+Delay 64 ms
+KeyDown 226 1
+Delay 10 ms
+KeyDown 8 1
+Delay 10 ms
+KeyUp 8 1
+Delay 10 ms
+KeyUp 226 1
+Delay 10 ms
+KeyDown 6 1
+Delay 64
+KeyUp 6 1
+Delay 64
+KeyDown 21 1
+Delay 64 ms
+KeyUp 21 1
+Delay 64 ms</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

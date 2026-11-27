@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматизированная постановка на ручник Вашего Транспортного Средства(далее ТС). Удобно на случай полёта в кусты или в сторону воды. Так же хорошо для мотоциклов, когда Вы из него выпадаете и он улетает за пол карты от Вас, чтобы его остановить используйте этот макрос.
+Макрос быстро открывает меню транспорта и последнее выбранное ТС в списке(следите за тем, чтобы в списке было подсвеченно именно то ТС, на котором Вы передвигаетесь) ставит на ручник, что моментально намертво фиксирует ТС в пространстве.
+Работает при разрешении 1366*768*32 (оконный при разрешении ПК 1920*1080*32)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 60 1
+Delay 64
+KeyUp 60 1
+Delay 64
+MoveTo 856 649
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 60 1
+Delay 64
+KeyUp 60 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Приветствую! Это макрос для игры Rust, а именно для оружия Semi-Automatic Rifle. Давайте перейдем к настройке!
+
+Оптимальное разрешение экрана: 1920x1080.
+FOV нужно установить на 90.
+Чувствительность мыши: 0.6.
+Чувствительность мыши при прицеливании: 0.5.
+DPI следует установить на 700.
+
+Желаю удачи!
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 12 ms
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

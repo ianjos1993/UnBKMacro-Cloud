@@ -1,0 +1,146 @@
+<Root>
+  <DefaultMacro>
+    <Major>Panda Combo 6</Major>
+    <Description>Макрос позволяет выполнять комбо с Heat, нажатием одной единственной клавишы за Панду.
+Видео демонстрации работы макроса: https://youtu.be/kpqNHG7nSWg
+
+В отличие от своего «коллеги» Кумы, Панда обладает более изящным стилем боя, но по-прежнему использует мощные лапы и внушительный вес, чтобы доминировать в схватке. Ее стиль построен на стойках медведя, ударах с разворота и акробатических движениях, что делает ее неожиданно подвижным бойцом. В Tekken 8 ее дизайн стал еще детальнее — густая шерсть выглядит реалистично, а движения стали плавнее и выразительнее. Несмотря на комический образ, Панда остается грозным оппонентом, который может превратить арену в бамбуковый хаос.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 09.02.2025
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ, обращайтесь в дискорд для этого.
+
+#pandatekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 0 ms
+KeyDown 22 1
+Delay 219 ms
+KeyUp 22 1
+Delay 4 ms
+KeyUp 4 1
+Delay 35 ms
+KeyDown 74 1
+Delay 185 ms
+KeyUp 74 1
+Delay 80 ms
+KeyDown 4 1
+Delay 87 ms
+KeyDown 74 1
+Delay 92 ms
+KeyUp 74 1
+Delay 74 ms
+KeyDown 74 1
+Delay 93 ms
+KeyUp 74 1
+Delay 56 ms
+KeyDown 74 1
+Delay 172 ms
+KeyDown 73 1
+Delay 93 ms
+KeyUp 74 1
+Delay 28 ms
+KeyUp 73 1
+Delay 559 ms
+KeyDown 74 1
+Delay 99 ms
+KeyUp 74 1
+Delay 62 ms
+KeyDown 74 1
+Delay 98 ms
+KeyUp 74 1
+Delay 46 ms
+KeyDown 74 1
+Delay 41 ms
+KeyDown 73 1
+Delay 108 ms
+KeyUp 74 1
+Delay 24 ms
+KeyUp 73 1
+Delay 34 ms
+KeyDown 74 1
+Delay 74 ms
+KeyDown 73 1
+Delay 86 ms
+KeyUp 74 1
+Delay 46 ms
+KeyUp 73 1
+Delay 29 ms
+KeyDown 74 1
+Delay 74 ms
+KeyDown 73 1
+Delay 92 ms
+KeyUp 74 1
+Delay 45 ms
+KeyUp 73 1
+Delay 35 ms
+KeyDown 74 1
+Delay 74 ms
+KeyDown 73 1
+Delay 138 ms
+KeyUp 74 1
+Delay 18 ms
+KeyUp 73 1
+Delay 39 ms
+KeyDown 74 1
+Delay 74 ms
+KeyDown 73 1
+Delay 144 ms
+KeyUp 74 1
+Delay 17 ms
+KeyUp 73 1
+Delay 51 ms
+KeyDown 74 1
+Delay 86 ms
+KeyUp 4 1
+Delay 46 ms
+KeyDown 7 1
+Delay 109 ms
+KeyUp 7 1
+Delay 70 ms
+KeyDown 7 1
+Delay 74 ms
+KeyUp 7 1
+Delay 64 ms
+KeyDown 7 1
+Delay 75 ms
+KeyUp 7 1
+Delay 52 ms
+KeyDown 7 1
+Delay 74 ms
+KeyUp 7 1
+Delay 36 ms
+KeyDown 76 1
+Delay 86 ms
+KeyUp 76 1
+Delay 350 ms
+KeyUp 74 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,235 @@
+<Root>
+  <DefaultMacro>
+    <Major>Makoto sf3 left&gt;right hk kara,mp fukikageTOD</Major>
+    <Description>touching the corner from a raw st.HP
+Works on RY, YU, GO, OR, DU(cr), UR(cr), CH, IB, EL, MA, SE, TW, KE, AL, YA
+
+asd space= left, down, right and up
+uiop= punch weak, medium, fierce and macro 3 punch
+jkl;= kick weak, medium, heavy kick and macro 3 kick
+
+
+
+SAII (Abare Tosanami)
+
+Lead-ins:
+
+Note: SAII tracks based on which kick is used. LK travels nearly vertically, MK goes to about half-screen, and HK goes about 3/4 screen. Sometimes there is character specificity involved in which kick to use; taller characters, for example, can be hit anywhere between pinned in the corner and half screen by MK (and sometimes HK, even), but shorter ones require LK if Makoto is pinned in the corner (MK hits once and then flies over the character's head) and MK otherwise.
+
+
+(Karakusa), HP x SAII (only if opponent is on your half of the screen after the pushback from the standing fierce.)
+
+MP Oroshi, SAII (same condition).
+
+
+Juggles after SAII finishes:
+
+Note: All dash-cancels are in the direction your opponent is hit; therefore, if your SAII activates from the right corner of the screen, dash-cancel left, and vice-versa. Also, all follow-up uppercuts (fukiages) are in the opposite direction of the dash-cancel. Therefore, if you dash-canceled to the right, you have to do a left-directional DP motion. Finally, "JCD" = Jump-cancel directionally (towards opponent); JCU = Jump-cancel up.
+
+
+(Dash-cancel) Hp Fukiage, (JCU) Hp
+
+(Dash-cancel) Kara-Fukiage*, (Dash-cancel) Fukiage
+
+(JCD) Mk Tsurugi, lp Hayate, hp Hayate
+
+(JCD) Mk Tsurugi, hp Hayate, hp/cr. hk (corner only)
+
+(JCD) Mk Tsurugi, SAII, (JCU) mk Tsurugi, hp hayate, hp hayate (corner only, 2 full stocks, strict timing)
+
+*Character-specific, and sometimes the second fukiage is kara'ed, not the firs</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 15 ms
+KeyDown 22 1
+Delay 15 ms
+KeyUp 7 1
+Delay 15 ms
+KeyDown 4 1
+Delay 15 ms
+KeyUp 22 1
+Delay 15 ms
+KeyUp 4 1
+Delay 15 ms
+KeyDown 7 1
+Delay 15 ms
+KeyUp 7 1
+Delay 15 ms
+KeyDown 15 1
+Delay 15 ms
+KeyUp 15 1
+Delay 2500 ms
+//grab
+KeyDown 18 1
+Delay 30 ms
+KeyUp 18 1
+Delay 50 ms
+//heavy punch
+KeyDown 22 1
+Delay 20 ms
+KeyDown 7 1
+Delay 20 ms
+KeyUp 22 1
+Delay 20 ms
+KeyUp 7 1
+Delay 20 ms
+KeyDown 22 1
+Delay 20 ms
+KeyDown 7 1
+Delay 20 ms
+KeyUp 22 1
+Delay 20 ms
+KeyUp 7 1
+Delay 15 ms
+KeyDown 15 1
+Delay 64
+KeyUp 15 1
+Delay 2600 ms
+//Sa2
+//dash&lt;
+KeyDown 7 1
+Delay 15 ms
+KeyUp 7 1
+Delay 15 ms
+KeyDown 7 1
+Delay 15 ms
+KeyUp 7 1
+Delay 200 ms
+//&gt;dash
+//kara fukiage&lt;
+//reverse inupt
+KeyDown 4 1
+Delay 30 ms
+KeyUp 4 1
+Delay 28 ms
+KeyDown 22 1
+Delay 30 ms
+KeyDown 4 1
+Delay 30 ms
+KeyUp 22 1
+Delay 38 ms
+KeyUp 4 1
+Delay 8 ms
+KeyDown 15 1
+Delay 12 ms
+KeyDown 12 1
+Delay 30 ms
+KeyUp 15 1
+Delay 43 ms
+KeyUp 12 1
+//&gt;kara fukiage
+Delay 660 ms
+KeyDown 4 1
+Delay 15 ms
+KeyUp 4 1
+Delay 20 ms
+KeyDown 4 1
+Delay 15 ms
+KeyUp 4 1
+Delay 30 ms
+KeyDown 7 1
+Delay 20 ms
+KeyUp 7 1
+Delay 20 ms
+KeyDown 7 1
+Delay 20 ms
+KeyUp 7 1
+Delay 20 ms
+KeyDown 22 1
+Delay 20 ms
+KeyDown 7 1
+Delay 20 ms
+KeyUp 22 1
+Delay 20 ms
+KeyDown 24 1
+Delay 22 ms
+KeyUp 7 1
+Delay 35 ms
+KeyUp 24 1
+Delay 1200 ms
+//
+KeyDown 18 1
+Delay 5 ms
+KeyDown 15 1
+Delay 30 ms
+KeyUp 18 1
+Delay 5 ms
+KeyUp 15 1
+Delay 1500 ms
+////
+KeyDown 22 1
+Delay 20 ms
+KeyDown 7 1
+Delay 20 ms
+KeyUp 22 1
+Delay 20 ms
+KeyUp 7 1
+Delay 20 ms
+KeyDown 22 1
+Delay 20 ms
+KeyDown 7 1
+Delay 20 ms
+KeyUp 22 1
+Delay 20 ms
+KeyUp 7 1
+Delay 15 ms
+KeyDown 15 1
+Delay 64
+KeyUp 15 1
+Delay 2650 ms
+//finisher
+KeyDown 44 1
+Delay 15 ms
+KeyDown 7 1
+Delay 240 ms
+KeyUp 44 1
+Delay 4 ms
+KeyUp 7 1
+Delay 40 ms
+KeyDown 22 1
+Delay 40 ms
+KeyDown 4 1
+Delay 30 ms
+KeyUp 22 1
+Delay 26 ms
+KeyDown 14 1
+Delay 38 ms
+KeyUp 4 1
+Delay 30 ms
+KeyUp 14 1
+Delay 695 ms
+KeyDown 22 1
+Delay 20 ms
+KeyDown 7 1
+Delay 20 ms
+KeyUp 22 1
+Delay 20 ms
+KeyDown 18 1
+Delay 10 ms
+KeyUp 7 1
+Delay 40 ms
+KeyUp 18 1
+//chop
+Delay 36000 ms
+KeyDown 22 1
+Delay 36 ms
+KeyDown 4 1
+Delay 57 ms
+KeyUp 22 1
+Delay 27 ms
+KeyDown 19 1
+Delay 28 ms
+KeyUp 4 1
+Delay 297 ms
+KeyUp 19 1</Syntax>
+    </KeyDown>
+    <Software>Street Fighter V</Software>
+  </DefaultMacro>
+</Root>

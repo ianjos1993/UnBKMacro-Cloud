@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для фарма денег с мясника
+Все сделано как надо, сам им пользуюсь. Смысл в том, что ты с помощью чит энжена делаешь бесконечные айтемы, после идешь добываешь дорогую шкуру, идешь к мяснику и бесконечно продаешь. Ну а чтобы не задолбаться есть макрос). В общем ожидание в 10 секунд надо для того чтобы не было долгих транзакций , т.к. очень долго будет фармиться , а в оостальном вроде все легко и понятно!
+Приянтого пользования!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 88 1
+Delay 64
+KeyUp 88 1
+GoWhile 1 45
+Delay 10 s
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Red Dead Online</Software>
+  </DefaultMacro>
+</Root>

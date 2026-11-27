@@ -1,0 +1,57 @@
+<Root>
+  <DefaultMacro>
+    <Major>Закапывание мипо</Major>
+    <Description>Скиллы q w e d f r
+Закапывает каждого мипаря, главное чтобы переключение мипо было через alt+e и центрирование на герое на space также выбор всех юнитов на "Ю", дальше макрос сделает всё за вас (можете настроить под себя (задержку не трогать))</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+KeyUp 44 1
+KeyDown 7 1
+KeyUp 7 1
+KeyDown 226 1
+KeyDown 8 1
+KeyUp 226 1
+KeyUp 8 1
+Delay 80 ms
+KeyDown 7 1
+KeyUp 7 1
+KeyDown 226 1
+KeyDown 8 1
+KeyUp 226 1
+KeyUp 8 1
+Delay 80 ms
+KeyDown 7 1
+KeyUp 7 1
+KeyDown 226 1
+KeyDown 8 1
+KeyUp 226 1
+KeyUp 8 1
+Delay 80 ms
+KeyDown 7 1
+KeyUp 7 1
+KeyDown 226 1
+KeyDown 8 1
+KeyUp 226 1
+KeyUp 8 1
+Delay 80 ms
+KeyDown 7 1
+KeyUp 7 1
+KeyDown 226 1
+KeyDown 8 1
+KeyUp 8 1
+KeyUp 226 1
+Delay 4 s
+Delay 200 ms
+KeyDown 55 1
+KeyUp 55 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Очень простой скрипт на bunny hop. В игре есть система бесконечных прыжков, вы разгоняетесь на максимальную скорость, после чего начинаете прыгать. Скрипт позволяет делать это идеально. Баннихоп лучше всего работает на мужский персонажах, и чем меньше модель тем лучше. Проще использовать этот скрип поставив его на режим "активировать пока клавиша нажата" на тот самый space.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 30
+KeyUp 44 1
+Delay 30</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

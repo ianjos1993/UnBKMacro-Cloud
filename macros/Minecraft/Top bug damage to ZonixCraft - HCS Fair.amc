@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Это макрос для баг урона значит
+в 1 слот ложите например халит мечь а в 4 слот мечь с баг уроном
+биндите на кнопку 
+зажимаете кнопку
+но есть 1 но
+он сам не бьет он просто переключает
+так что имено бить надо самим
+удачи поиграть с удовольствием
+
+
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 25 ms
+KeyUp 30 1
+Delay 30 ms
+KeyDown 33 1
+Delay 25 ms
+KeyUp 33 1
+Delay 30 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

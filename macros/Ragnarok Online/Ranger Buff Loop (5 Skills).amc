@@ -1,0 +1,193 @@
+<Root>
+  <DefaultMacro>
+    <Major>Ranger's Buff Routine Loop</Major>
+    <Description>Macro Name: Ranger's Buff Routine Loop
+
+Purpose:
+
+This macro is designed specifically for Rangers to maximize their damage potential and utility through precise, automated buff activation. By combining essential skills like Improve Concentration, Wind Walker, and advanced buffs like Fear Breeze, No Limits, and Falcon Eyes, this macro ensures peak performance in both PvE and PvP scenarios. Say goodbye to buffing delays and hello to seamless gameplay.
+
+________________________________________________________________
+
+Supported Job Classes:
+Ranger
+
+
+________________________________________________________________
+
+Skills Supported:
+
+
+The macro automates the following buffs to ensure uninterrupted peak performance:
+
+Improve Concentration (Level 10) : Increases DEX and AGI, boosting attack speed and damage. (F5)
+
+Wind Walker (Level 10)                : Increases movement speed and Flee for you and your party. (F6)
+
+Fear Breeze (Level 5)                    : Grants a chance for rapid multi-arrow attacks during auto-attacks. (Q)
+
+No Limits (Level 5)                         :Temporarily boosts ranged attack damage significantly. (W)
+
+Falcon Eyes (Level 10)                  : Enhances critical hit damage and accuracy. (E)
+
+________________________________________________________________
+
+Optimal Gameplay Scenarios:
+1. Dungeons and Raids: 
+    Stay battle-ready with consistently active buffs, ensuring higher damage and survivability.
+
+2. MVP Hunts: 
+    Perfect for prolonged engagements, where maintaining maximum buffs is crucial.
+
+3. Guild Wars: 
+    Gain an upper hand in PvP with optimized stats and damage output.
+
+4. Grinding and Farming: 
+    Improve efficiency by reducing manual buff management and maximizing output during long sessions.
+
+
+_________________________________________________________________
+
+
+Technical Settings:
+
+1. Screen Resolution:
+    
+
+Set your game’s resolution to 1600 x 900 for precise macro alignment.
+
+
+2. Game Window Placement:
+
+
+    Position the Ragnarok Online game window in the top-left corner of your screen for the macro to detect skill bars and targets accurately.
+
+3. Skill Assignments:
+       + F5: Improve Concentration (Level 10)
+
+       + F6: Wind Walker (Level 10)
+       + 
+Q : Fear Breeze (Level 5)
+       + 
+W: No Limits (Level 5)
+       + 
+E : Falcon Eyes (Level 10)
+
+  
+4. Macro Setup in Keyran:
+
+       + 
+Assign the macro to a preferred hotkey.
+
+       + Set the Operating Mode to “Run until pressed again” for optimal uptime.
+
+______________________________________________________________
+
+
+Macro Behavior:
+
+
+When activated, the macro will:
+1. Sequentially cast buffs based on the assigned keys: F5 → F6 → Q → W → E.
+2. Automatically track the duration of each skill, reapplying them when they expire.
+3. Prioritize critical buffs like No Limits and Falcon Eyes to maintain peak performance during combat.
+4. Allow smooth transitions between buffing and attacking, ensuring uninterrupted gameplay.
+
+_______________________________________________________________
+
+
+Acknowledgments:
+
+Thank you, Keyran, for making life as a Ranger effortless and efficient! 
+
+Your tools take the grind out of buff management, allowing players to focus on strategy and fun.
+
+
+
+_______________________________________________________________
+
+Let me know if you are looking for any specific macro. 
+_______________________________________________________________
+
+
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 62 1
+Delay 123 ms
+KeyUp 62 1
+Delay 1306 ms
+KeyDown 63 1
+Delay 124 ms
+KeyUp 63 1
+Delay 3259 ms
+KeyDown 20 1
+Delay 133 ms
+KeyUp 20 1
+Delay 990 ms
+KeyDown 20 1
+Delay 133 ms
+KeyUp 20 1
+Delay 2540 ms
+KeyDown 26 1
+Delay 133 ms
+KeyUp 26 1
+Delay 1540 ms
+KeyDown 8 1
+Delay 142 ms
+KeyUp 8 1
+Delay 29539 ms
+KeyDown 8 1
+Delay 140 ms
+KeyUp 8 1
+Delay 29217 ms
+KeyDown 8 1
+Delay 159 ms
+KeyUp 8 1
+Delay 29970 ms
+KeyDown 8 1
+Delay 159 ms
+KeyUp 8 1
+Delay 29891 ms
+KeyDown 8 1
+Delay 123 ms
+KeyUp 8 1
+Delay 29859 ms
+KeyDown 8 1
+Delay 141 ms
+KeyUp 8 1
+Delay 26753 ms
+KeyDown 20 1
+Delay 122 ms
+KeyUp 20 1
+Delay 3400 ms
+KeyDown 8 1
+Delay 143 ms
+KeyUp 8 1
+Delay 29236 ms
+KeyDown 8 1
+Delay 177 ms
+KeyUp 8 1
+Delay 19777 ms
+KeyDown 62 1
+Delay 169 ms
+KeyUp 62 1
+Delay 9817 ms
+KeyDown 8 1
+Delay 124 ms
+KeyUp 8 1
+Delay 30105 ms
+KeyDown 8 1
+Delay 124 ms
+KeyUp 8 1</Syntax>
+    </KeyDown>
+    <Software>Ragnarok</Software>
+  </DefaultMacro>
+</Root>

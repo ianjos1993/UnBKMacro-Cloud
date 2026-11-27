@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Лучшие тайминги прокрута хилок, минимальная допустимая задержка без визуал бага на хил хп
+Поставьте хилы в 4,5 слот или замените на удобные вам слоты. ТОЛЬКО бинты и обычная оптечка, с аптечкой лвл выше нужно менять тайминги на 31мс.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 33 1
+Delay 24 ms
+KeyUp 33 1
+Delay 24 ms
+RightDown 1
+Delay 24 ms
+RightUp 1
+Delay 24 ms
+KeyDown 34 1
+Delay 24 ms
+KeyUp 34 1
+Delay 24 ms
+RightDown 1
+Delay 24 ms
+RightUp 1
+Delay 24 ms
+KeyDown 30 1
+Delay 24 ms
+KeyUp 30 1
+Delay 24 ms
+RightDown 1
+Delay 24 ms
+RightUp 1
+Delay 24 ms</Syntax>
+    </KeyDown>
+    <Software>Minicraft\gmt pro heal</Software>
+  </DefaultMacro>
+</Root>

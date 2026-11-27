@@ -1,0 +1,68 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос для полной зарядки ульты эолы с нуля(почти полной так как без с6 это зделать невозможно)Если что порядок такой: ешка, ульта, 4 атаки, зажатая ешка</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 200
+KeyUp 8 1
+Delay 200
+KeyDown 20 1
+Delay 200
+KeyUp 20 1
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 203 ms
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 200 ms
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 500 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 700 ms
+KeyDown 8 1
+Delay 500 ms
+KeyUp 8 1
+Delay 500 ms
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

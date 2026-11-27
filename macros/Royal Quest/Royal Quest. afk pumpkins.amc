@@ -1,0 +1,98 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для фарма тыкв волшем в афк режиме. Вы должны иметь 100-140% бега, реген хп 100 и 40+ лвл перса. Желательно приобрести перчи на жвачку и маску королевы на пружинку, для более выгодного фарма. Разрешение экрана 1500х1050.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+встаем у мельницы и ставим в 3 панели третим навыком метеор последним в 3 панели канал</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 402 840
+Delay 64
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 786 357
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 15 s
+MoveTo 771 274
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 10 s
+MoveTo 700 217
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 10 s
+MoveTo 669 242
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 694 307
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 15 s
+MoveTo 692 391
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 10 s
+MoveTo 751 394
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 15 s
+MoveTo 1510 42
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1 s
+MoveTo 622 743
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1 s
+MoveTo 769 474
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 3 s
+MoveTo 1007 746
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+GoWhile 73 50
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 1 min</Syntax>
+    </KeyDown>
+    <Software>Royal Quest, тыквы</Software>
+  </DefaultMacro>
+</Root>

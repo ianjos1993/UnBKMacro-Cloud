@@ -1,0 +1,19 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>В игре фифа он лайн 4 в настройках управления ставим  z  атака ( атакующее положение ) и напротив нее должна стоять защита ( Отбор мяча толкнуть придержать )</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+KeyUp 29 1
+Delay 250 ms</Syntax>
+    </KeyDown>
+    <Software>фифа он лайн 4</Software>
+  </DefaultMacro>
+</Root>

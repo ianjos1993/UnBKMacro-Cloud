@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>С помощью данного макроса для игры в Minecraft на сервере VimeWorld вы автоматически будете заходить в MurderMystery и этим самым фармить опыт для поднятия уровня, за ночь можно фармить до 15к exp. Настройте разрешение экрана на 1600 х 900 и установите чувствительность в игре на 100. Во время работы макроса не двигайте мышь. 
+В случае вопросов обращайтесь к пользователю morskou в Discord (morskou) или ВКонтакте (vk.com/mylterfx).</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 200 ms
+RightUp 1
+Delay 200 ms
+MoveTo 738 372
+Delay 200 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 200 ms
+MoveTo 702 343
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 30 s
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

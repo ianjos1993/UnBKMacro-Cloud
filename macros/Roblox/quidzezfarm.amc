@@ -1,0 +1,107 @@
+<Root>
+  <DefaultMacro>
+    <Major>quidzfarm/ez/bear (alpha) / farm quid'ов в (bear alpha)</Major>
+    <Description>Данный макрос сам проходит obby на quidz в лобби. Чтобы макрос правильно работал нужно навести курсор на 5-ую по счету плиту от первого лица и желательно выключить мышь, чтобы она не мешала процессу. Макрос проходит обби ну примерно секунд 15-17. Тоесть за ночь можно получить от 10 тысяч до 22к+. Неплохой макро который облегчит вам фарм монет. Так-же желательно быть за пк во время фарма, так как макрос может перестать работать если вы неправильно поставили курсор мыши.</Description>
+    <Comment>(не забудьте про курсор, а так-же чтобы правильно запустить макро спрыгните вниз и уже тогда запускайте)</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 76 ms
+Delay 247 ms
+KeyDown 26 1
+Delay 2103 ms
+KeyDown 44 1
+Delay 135 ms
+KeyUp 44 1
+Delay 471 ms
+KeyDown 44 1
+Delay 176 ms
+KeyUp 44 1
+Delay 496 ms
+KeyDown 44 1
+Delay 151 ms
+KeyUp 44 1
+Delay 456 ms
+KeyUp 26 1
+Delay 183 ms
+KeyDown 7 1
+Delay 88 ms
+KeyDown 44 1
+Delay 159 ms
+KeyUp 44 1
+Delay 256 ms
+KeyDown 26 1
+Delay 80 ms
+KeyUp 7 1
+Delay 176 ms
+KeyDown 44 1
+Delay 135 ms
+KeyUp 44 1
+Delay 472 ms
+KeyDown 44 1
+Delay 192 ms
+KeyUp 44 1
+Delay 1447 ms
+KeyDown 44 1
+Delay 199 ms
+KeyUp 44 1
+Delay 1143 ms
+KeyDown 44 1
+Delay 160 ms
+KeyUp 44 1
+Delay 1039 ms
+KeyDown 4 1
+Delay 71 ms
+KeyDown 44 1
+Delay 248 ms
+KeyUp 44 1
+Delay 464 ms
+KeyDown 44 1
+Delay 7 ms
+KeyUp 26 1
+Delay 176 ms
+KeyUp 44 1
+Delay 79 ms
+KeyDown 26 1
+Delay 215 ms
+KeyUp 4 1
+Delay 176 ms
+KeyDown 44 1
+Delay 151 ms
+KeyUp 44 1
+Delay 303 ms
+KeyDown 4 1
+Delay 152 ms
+KeyUp 4 1
+Delay 47 ms
+KeyDown 44 1
+Delay 199 ms
+KeyUp 44 1
+Delay 1272 ms
+KeyDown 44 1
+Delay 191 ms
+KeyUp 44 1
+Delay 848 ms
+KeyDown 44 1
+Delay 207 ms
+KeyUp 44 1
+Delay 447 ms
+Delay 112 ms
+Delay 375 ms
+KeyDown 44 1
+Delay 167 ms
+KeyUp 44 1
+Delay 2256 ms
+KeyUp 26 1
+Delay 527 ms
+Delay 48 ms
+Delay 383 ms
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

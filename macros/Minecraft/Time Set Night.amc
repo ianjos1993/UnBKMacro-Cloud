@@ -1,0 +1,83 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>И вновь всем доброго вечера! Решил поделиться с вами ещё одним макросом. Он весьма похож на мой предыдущий макрос под названием “Time Set Day”, но в отличие от него, этот макрос устанавливает ночное время суток вместо дневного. Представьте, что вам срочно понадобилось добыть порох или гнилую плоть, а на улице - яркий день. Чтобы быстро переключить время на “Ночь”, вам нужно прописать команду /time set night. Именно эту задачу и выполняет данный макрос. С его помощью вы сможете мгновенно установить ночное время суток в вашем игровом мире, не тратя драгоценного времени на ручной ввод команды.
+
+Инструкция по настройке:
+1)Установите файл данного макроса на свое устройство.
+2)Откройте панель клавиатуры Keyran.
+3)Выберите удобную для вас клавишу или кнопку мыши.
+4)Нажимаете по ней правой кнопкой мыши,а после "Назначить макрос".
+5)После всех действий сохраняете и используете макрос.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 32 ms
+KeyUp 56 1
+Delay 32 ms
+KeyDown 23 1
+Delay 32 ms
+KeyUp 23 1
+Delay 32 ms
+KeyDown 12 1
+Delay 32 ms
+KeyUp 12 1
+Delay 32 ms
+KeyDown 16 1
+Delay 32 ms
+KeyUp 16 1
+Delay 32 ms
+KeyDown 8 1
+Delay 32 ms
+KeyUp 8 1
+Delay 32 ms
+KeyDown 44 1
+Delay 32 ms
+KeyUp 44 1
+Delay 32 ms
+KeyDown 22 1
+Delay 32 ms
+KeyUp 22 1
+Delay 32 ms
+KeyDown 8 1
+Delay 32 ms
+KeyUp 8 1
+Delay 32 ms
+KeyDown 23 1
+Delay 32 ms
+KeyUp 23 1
+Delay 32 ms
+KeyDown 44 1
+Delay 32 ms
+KeyUp 44 1
+Delay 32 ms
+KeyDown 17 1
+Delay 32 ms
+KeyUp 17 1
+Delay 32 ms
+KeyDown 12 1
+Delay 32 ms
+KeyUp 12 1
+Delay 32 ms
+KeyDown 10 1
+Delay 32 ms
+KeyUp 10 1
+Delay 32 ms
+KeyDown 11 1
+Delay 32 ms
+KeyUp 11 1
+Delay 32 ms
+KeyDown 23 1
+Delay 32 ms
+KeyUp 23 1
+Delay 32 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

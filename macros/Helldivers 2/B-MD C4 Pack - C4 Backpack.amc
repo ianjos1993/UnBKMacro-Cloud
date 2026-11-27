@@ -1,0 +1,63 @@
+<Root>
+  <DefaultMacro>
+    <Major>Вызов рюкзака с C4</Major>
+    <Description>Рюкзак с C4, ручная установка и удаленная детанация. 
+
+Как запустить:
+Для корректной работы установите кнопку стратагем на «нажатие».
+В настройках игры выберите Стрелки для стратагем.
+
+Ппример:
+Установка макросов для этих кнопок с модификатором, в моем случае это Ctrl+
+
+"F1" - оружие поддержки
+"F2" - рюкзак
+"F3" - 1-я стратагема
+"F4" - 2-я стратагема
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+
+
+При использовании модификатора, оставляет возможность отрывать консоль стратагем и так-же свободно пользоваться переключением оружия на кнопки.
+
+Тактическая выгода использования  кнопок "стрелки", дает возможность продолжать двигаться и использовать набор стратагем, </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+Delay 64
+KeyUp 224 1</Syntax>
+    </KeyDown>
+    <Software>Helldivers 2</Software>
+  </DefaultMacro>
+</Root>

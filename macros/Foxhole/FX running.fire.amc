@@ -1,0 +1,19 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Одним нажатим выполняет две команды (прицеливание и выстрел ) очень удобно при PVP на коротком растоянии , когда нужно стрейвить после выстрела </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 700 ms
+LeftDown 1</Syntax>
+    </KeyDown>
+    <Software>Foxhole</Software>
+  </DefaultMacro>
+</Root>

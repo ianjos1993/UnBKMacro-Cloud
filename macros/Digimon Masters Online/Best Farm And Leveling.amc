@@ -1,0 +1,72 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>The best way to use this macro is with a Magnetic ID, if you don't have one and just want to focus on leveling up this could also be used, you just need to add 'press 4' if you want to pickup the loot.
+
+What this macro will do :
+- Target monster and attack Monster
+- Target Monster and use Skill 1
+- Target Monster and use Skill 2
+- Use a recovery Item at slot 7 ( can be hp or ds potion)
+- Repeat 24 / 7
+
+Since we are using skills, you can use lower level digimons preferably a digimon with high skill damage that can one shot the monster. You don't need to worry about dying or insufficient DS because this macro will keep using a recovery item at slot 7 so make sure to put it on that slot !
+Note: Use cheap recovery since it will burn through your recovery and you need to check on it depending on your recovery item quantity</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+Feel free to use this</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 100 400 ms
+KeyDown 43 1
+Delay 100 400 ms
+KeyUp 43 1
+Delay 100 400 ms
+KeyDown 30 1
+Delay 100 400 ms
+KeyUp 30 1
+Delay 100 400 ms
+KeyDown 30 1
+Delay 100 400 ms
+KeyUp 30 1
+Delay 100 400 ms
+KeyDown 58 1
+Delay 100 400 ms
+KeyUp 58 1
+Delay 100 400 ms
+KeyDown 30 1
+Delay 100 400 ms
+KeyUp 30 1
+Delay 100 400 ms
+KeyDown 58 1
+Delay 100 400 ms
+KeyUp 58 1
+Delay 100 400 ms
+KeyDown 43 1
+Delay 100 400 ms
+KeyUp 43 1
+Delay 100 400 ms
+KeyDown 30 1
+Delay 100 400 ms
+KeyUp 30 1
+Delay 100 400 ms
+KeyDown 30 1
+Delay 100 400 ms
+KeyUp 30 1
+Delay 100 400 ms
+KeyDown 59 1
+Delay 100 400 ms
+KeyUp 59 1
+Delay 100 400 ms
+KeyDown 36 1
+Delay 100 500 ms
+KeyUp 36 1
+Delay 100 500 ms</Syntax>
+    </KeyDown>
+    <Software>Digimon Masters Online</Software>
+  </DefaultMacro>
+</Root>

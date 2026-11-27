@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос на стан слэм - майнкрафт
+что бы макрос работал у вас должен быть пинг 80 - 100
+макрос сделан для того что-бы когда вы деретесь на булаве вы могли ударить противника несмотря на щит.
+что бы макрос сработал зайдите в редактор макросов выберите stan slam вместо нажать 2 выберите тот слот где у вас вежит топор, а вместо нажать e тот слот где у вас лежит булава.
+когда противник поставит щит просто используйте макрос вы собьете ему щит и ударите булавой.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftUp 1
+LeftDown 1
+Delay 16 ms
+KeyDown 31 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyUp 31 1
+Delay 20 ms
+KeyDown 8 1
+Delay 20 ms
+KeyUp 8 1
+Delay 20 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

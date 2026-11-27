@@ -1,0 +1,144 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на 2 спота с 2 прыжками (Мейн)
+
+
+f1 - Некст таргет
+f2 - туча
+f3 - торнадо
+f4 - дождь
+f5 - точечный
+f6 - скоростной
+f8 - атака
+f9 - молниеносность
+f10 - первый пет
+f11 - второй пет
+f12 - Отступление
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 68 1
+Delay 64 ms
+KeyUp 68 1
+Delay 1000 ms
+KeyDown 65 1
+Delay 64
+KeyUp 65 1
+Delay 1000 ms
+KeyDown 66 1
+Delay 64
+KeyUp 66 1
+Delay 64
+KeyDown 67 1
+Delay 64 ms
+KeyUp 67 1
+Delay 1000 ms
+KeyDown 65 1
+Delay 64
+KeyUp 65 1
+Delay 100 ms
+KeyDown 69 1
+Delay 64
+KeyUp 69 1
+Delay 120 ms
+KeyDown 68 1
+Delay 64 ms
+KeyUp 68 1
+Delay 64
+KeyDown 65 1
+Delay 64
+KeyUp 65 1
+Delay 3000 ms
+KeyDown 58 1
+Delay 64
+KeyUp 58 1
+Delay 64
+KeyDown 59 1
+Delay 64
+KeyUp 59 1
+Delay 64
+KeyDown 60 1
+Delay 64
+KeyUp 60 1
+Delay 64
+KeyDown 61 1
+Delay 64
+KeyUp 61 1
+Delay 64
+KeyDown 62 1
+Delay 64
+KeyUp 62 1
+Delay 64
+KeyDown 63 1
+Delay 64
+KeyUp 63 1
+Delay 64
+GoWhile 33 14
+KeyDown 67 1
+Delay 64 ms
+KeyUp 67 1
+Delay 1000 ms
+KeyDown 65 1
+Delay 64
+KeyUp 65 1
+Delay 1000 ms
+KeyDown 66 1
+Delay 64
+KeyUp 66 1
+Delay 64
+KeyDown 68 1
+Delay 100 ms
+KeyUp 68 1
+Delay 1000 ms
+KeyDown 65 1
+Delay 64
+KeyUp 65 1
+Delay 500 ms
+KeyDown 69 1
+Delay 64
+KeyUp 69 1
+Delay 120 ms
+KeyDown 67 1
+Delay 64 ms
+KeyUp 67 1
+Delay 100 ms
+KeyDown 65 1
+Delay 64
+KeyUp 65 1
+Delay 3000 ms
+KeyDown 58 1
+Delay 64
+KeyUp 58 1
+Delay 64
+KeyDown 59 1
+Delay 64
+KeyUp 59 1
+Delay 64
+KeyDown 60 1
+Delay 64
+KeyUp 60 1
+Delay 64
+KeyDown 61 1
+Delay 64
+KeyUp 61 1
+Delay 64
+KeyDown 62 1
+Delay 64
+KeyUp 62 1
+Delay 64
+KeyDown 63 1
+Delay 64
+KeyUp 63 1
+Delay 64
+GoWhile 90 14</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

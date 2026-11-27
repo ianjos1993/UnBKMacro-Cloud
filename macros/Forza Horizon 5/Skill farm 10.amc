@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>В eventlab выбираем гонку "10sp in 30 seconds sp farm" код 486 596 097
+ОБЯЗАТЕЛЬНО: Включите авторуление.
+Берем машину S2 класса (у меня не было Lamborgini siesto как во всех гайдах, поэтому проходил на BMW X5 forza edition, но подойдет любая)
+Если ваша машина не успевает доехать до финиша за время действия макроса, то увеличивайте время зажатия кнопки W( 2 строка, 1 секунда = 1000 мс)
+Включаем макрос когда гонка началась,  и по окончании скрипт перезапускает гонку , можете оставлять фармить на несколько часов</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 44648 ms
+KeyUp 26 1
+Delay 7767 ms
+KeyDown 27 1
+Delay 127 ms
+KeyUp 27 1
+Delay 1120 ms
+KeyDown 88 1
+Delay 79 ms
+KeyUp 88 1
+Delay 7186 ms
+KeyDown 88 1
+Delay 79 ms
+KeyUp 88 1
+Delay 7186 ms</Syntax>
+    </KeyDown>
+    <Software>Forza Horizon 5</Software>
+  </DefaultMacro>
+</Root>

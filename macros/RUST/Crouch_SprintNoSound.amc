@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>SprintNoSound</Major>
+    <Description>This macro will allow you to walk fastest without sound.
+Bind it to any key and choose "run when pressed", to make it work best dont touch any movement keybinds.
+Your crouch button need to be "ctrl", sprint - "shift", and walk forward "W".
+Enjoy!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+KeyDown 26 1
+Delay 45 ms
+KeyDown 224 1
+Delay 305 ms
+KeyUp 224 1
+Delay 245 ms
+KeyDown 224 1
+Delay 260 ms
+KeyUp 224 1
+Delay 180 ms
+Goto 4
+KeyUp 225 1
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

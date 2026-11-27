@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>просто нажатие клавиши X с рандомной задержкой 2-3 сек, подойдет для efootball 2024 для фарма количества завершенных матчей</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 27 1
+Delay 64 69 ms
+KeyUp 27 1
+Delay 2 3 s</Syntax>
+    </KeyDown>
+    <Software>efootball 2024</Software>
+  </DefaultMacro>
+</Root>

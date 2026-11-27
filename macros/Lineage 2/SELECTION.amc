@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>selection</Major>
+    <Description>Макрос подойдет для любых класов, смысл макроса в том чтобы быстро подымать предметы. Особенно полезно будет при убийстве епик боссов, когда все пытаются ухватить побольше и побыстрее. просто ставим подбор на панельку.
+
+R. подбор
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 1 ms
+KeyUp 21 1
+Delay 1 ms
+KeyDown 21 1
+Delay 1 ms
+KeyUp 21 1
+Delay 1 ms
+KeyDown 21 1
+Delay 1 ms
+KeyUp 21 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

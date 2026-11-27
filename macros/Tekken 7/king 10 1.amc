@@ -1,0 +1,62 @@
+<Root>
+  <DefaultMacro>
+    <Major>Макрос king 10  1</Major>
+    <Description>Тестировалось на версии игры - 5.01
+
+Этот  макрос предназначен для выполнения комбо в игре под названием Tekken 7 с помощью одной кнопки. Макрос был протестирован в многочисленных онлайн-сражениях. Проблемы могут быть только из-за вашего нестабильного интернет соединения с противником, а также этот макрос работает только при стабильной частоте кадров 59-60 fps.
+
+ Использовать драйвер
+
+Отключить использование минимальной задержки.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 24 1
+Delay 64
+KeyUp 24 1
+Delay 64
+KeyDown 12 1
+Delay 64
+KeyUp 12 1
+Delay 64
+KeyDown 24 1
+Delay 64
+KeyUp 24 1
+Delay 288 ms
+KeyDown 24 1
+Delay 100 ms
+KeyUp 24 1
+Delay 300 ms
+KeyDown 12 1
+Delay 116 ms
+KeyUp 12 1
+Delay 300 ms
+KeyDown 14 1
+Delay 100 ms
+KeyUp 14 1
+Delay 200 ms
+KeyDown 14 1
+Delay 108 ms
+KeyUp 14 1
+Delay 64
+KeyDown 14 1
+Delay 64
+KeyUp 14 1
+Delay 680 ms
+KeyDown 24 1
+Delay 380 ms
+KeyUp 24 1
+Delay 288 ms
+KeyDown 13 1
+Delay 280 ms
+KeyUp 13 1
+Delay 289 ms</Syntax>
+    </KeyDown>
+    <Software>Tekken 7 </Software>
+  </DefaultMacro>
+</Root>

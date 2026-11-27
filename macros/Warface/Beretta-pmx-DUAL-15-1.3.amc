@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для варфейс для оружия BERETTA PMX сенса в игре 15, тип оружия - двойные, сенса мышик 5-7, написан был быстро, не судите строго, мой первый макрос, в рабочем состоянии, можно играть и наслаждаться игрой если вы не можете контролировать отдачу на беретах.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+LeftDown 1
+Delay 70 ms
+MoveR 1 12</Syntax>
+    </KeyDown>
+    <Software>Warface</Software>
+  </DefaultMacro>
+</Root>

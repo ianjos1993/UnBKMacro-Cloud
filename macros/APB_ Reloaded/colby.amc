@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Не большой макрос для пистолета colby 0.45b реализованна комфортная автострельба без потери кучности при стрельбе, и минимальный вертикальный контроль отдачи.
+
+Макрос писался под разрешение 2980х1080, чувствительность прицела 0.89. DPI 1142</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+LeftDown 1
+MoveR 0 11
+LeftUp 1
+MoveR 0 0
+Delay 104 ms</Syntax>
+    </KeyDown>
+    <Software>APB Reloaded</Software>
+  </DefaultMacro>
+</Root>

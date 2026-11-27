@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Привет Этот макрос для быстрого редакта окна  в фортнайте если ты редачишь не на &lt;С&gt; ставь свою клавишу редакта вместо &lt;С&gt; Например на G или F </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+Delay 15 ms
+KeyUp 6 1
+Delay 15 ms
+LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

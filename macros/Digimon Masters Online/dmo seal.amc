@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major>mine</Major>
+    <Description>
+use magnetic id                                                                                 
+
+ur digimon use F1skill and roop it
+
+put the food at 7 
+
+ it can replenish your DS.
+
+good luck guys!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+KeyDown 58 1
+Delay 64
+KeyUp 58 1
+Delay 64
+GoWhile 1 86
+KeyDown 36 1
+Delay 64
+KeyUp 36 1
+Delay 64
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Digimon Masters Online</Software>
+  </DefaultMacro>
+</Root>

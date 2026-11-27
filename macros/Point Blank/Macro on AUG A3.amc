@@ -1,0 +1,55 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Point Blank.
+
+Всем привет! С вами ваш Union
+Решил по быстрому написать парочку макросов для вас
+первым будем макрос на AUG A3, данный макрос помогает максимально синизить отдачу как это возможно.
+Желательно иметь монитор 144 гц чтобы лучше шпилить с ним, но и на меньшем кол-ве гц подойдет как надо.
+Советую биндить на доп.клавиши мыши или на ЛКМ
+я играю на доп.клавише 1, мне комфортно
+макрос стреляет почти в точку и чуть отводит в бок, примерно как у оружия APC9 на который тоже будет макрос)
+-------------------------------------------
+НАСТРОЙКА МАКРОСА:
+1. Чувствительность: Для более хорошей работоспособности советую ставить чувствительность мыши в игре от 20 до 35, не выше и не ниже.
+
+2. На какую клавишу лучше биндить макрос:ЛКМ
+
+3.Какие перки ставить: 1-й перк(Скорострельность +4) 2-й перк(ловкость) 3-й перк(на любителя, я ставлю прокид либо скорость бега если с париком играю)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 2 ms
+MoveTo 960 540
+Delay 15 ms
+LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 2 ms
+MoveTo 960 540
+Delay 15 ms
+LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 2 ms
+MoveTo 960 540
+Delay 15 ms
+LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 2 ms
+MoveTo 960 540
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

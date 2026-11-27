@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>в игре A Universal Time есть стенд гастер, а на него не подойдёт простой кликер так как там кд на атаку, и я сделал такой вот макрос который с кд нажимает на E (это переключение способности стенда) а вам просто нужно кликать на ЛКМ и всё</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 600 ms
+KeyUp 8 1
+Delay 600 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

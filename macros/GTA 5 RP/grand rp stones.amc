@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major>изи алмазы</Major>
+    <Description>Для вас представляю макрос который даст вам кучу алмазов, будет ходить и копать полезные ископаемые на Grand RP
+Главное будьте возле компа, если админы решат вас проверить.
+
+Лучше в его иметь 3 кирку.
+Но и с первой макрос будет работать.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Удачи на сервере и скоро может именно вы будете богаты алмазами!)
+Пока.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>GTA5 RP</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,53 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос одним нажатием любой кнопки быстро удаляет ваше прошлое предложение на тюнинг человеку.
+NAMALSK RP, механики.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 63 1
+Delay 1
+KeyUp 63 1
+Delay 64 ms
+KeyDown 56 1
+Delay 1
+KeyUp 56 1
+Delay 1
+KeyDown 6 1
+Delay 1
+KeyUp 6 1
+Delay 1
+KeyDown 4 1
+Delay 1
+KeyUp 4 1
+Delay 1
+KeyDown 17 1
+Delay 1
+KeyUp 17 1
+Delay 1
+KeyDown 6 1
+Delay 1
+KeyUp 6 1
+Delay 1
+KeyDown 8 1
+Delay 1
+KeyUp 8 1
+Delay 1
+KeyDown 15 1
+Delay 1
+KeyUp 15 1
+Delay 1
+KeyDown 88 1
+Delay 1 ms
+KeyUp 88 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

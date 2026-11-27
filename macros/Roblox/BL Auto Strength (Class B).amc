@@ -1,0 +1,1386 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос создан для Boxing League с целью автоматической прокачки силы. Работает он следующим образом.
+1. Заходит в игру
+2. Выбирает локацию (Class B)
+3. Автоматически идет до гантели для прокачки силы
+4. Автоматически нажимает "Upgrade"
+5. После 300 кликов (900 ед. или 1800 ед. силы) макрос перезаходит в игру и проворачивает всё заново.
+
+Обезательно должно стоять разрешение 1360x768 (Делал в этом разрешении), оконный режим, должен быть поставлен режим работы "Выполнять до повторного нажатия" а также заранее навестись на кнопку Play (BL должен быть 1 в Continue)
+И вуаля вы можете пойти заварить себе кофейку, пойти на улицу или же оставить компьютер на ночь а ваш персонаж будет прокачивать силу без вашего вмешательства.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1000 ms
+MoveTo 161 389
+Delay 2 s
+LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 22 s
+KeyDown 44 1
+Delay 1 ms
+KeyUp 44 1
+Delay 5 s
+MoveTo 310 227
+Delay 64 ms
+MoveTo 315 227
+Delay 64 ms
+MoveTo 320 227
+Delay 64 ms
+MoveTo 325 227
+Delay 64 ms
+MoveTo 330 227
+Delay 64 ms
+MoveTo 338 227
+Delay 1 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 s
+MoveTo 680 393
+Delay 64 ms
+MoveTo 685 393
+Delay 64 ms
+MoveTo 690 393
+Delay 64 ms
+MoveTo 695 393
+Delay 64 ms
+MoveTo 706 393
+Delay 184 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 6281 ms
+Delay 6235 ms
+KeyDown 22 1
+Delay 48 ms
+KeyDown 4 1
+Delay 143 ms
+KeyUp 4 1
+Delay 234 ms
+KeyDown 4 1
+Delay 95 ms
+KeyUp 4 1
+Delay 1652 ms
+KeyDown 7 1
+Delay 42 ms
+KeyUp 22 1
+Delay 7624 ms
+KeyUp 7 1
+Delay 46 ms
+KeyDown 26 1
+Delay 760 ms
+KeyUp 26 1
+Delay 88 ms
+KeyDown 8 1
+Delay 79 ms
+KeyUp 8 1
+Delay 1347 ms
+KeyDown 22 1
+Delay 2104 ms
+KeyUp 22 1
+Delay 1288 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+Delay 1152 ms
+LeftDown 1
+Delay 88 ms
+LeftUp 1
+Delay 1159 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 1176 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 1072 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 1144 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 1127 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 1191 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 1184 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 1103 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 1160 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+Delay 1216 ms
+LeftDown 1
+Delay 63 ms
+LeftUp 1
+Delay 1127 ms
+LeftDown 1
+Delay 71 ms
+LeftUp 1
+Delay 1088 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 1112 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 1079 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 1016 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 1016 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 1040 ms
+LeftDown 1
+Delay 71 ms
+LeftUp 1
+Delay 1103 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 1056 ms
+LeftDown 1
+Delay 127 ms
+LeftUp 1
+Delay 1040 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 1015 ms
+LeftDown 1
+Delay 119 ms
+LeftUp 1
+Delay 1048 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 1112 ms
+LeftDown 1
+Delay 103 ms
+LeftUp 1
+Delay 1048 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+Delay 1088 ms
+LeftDown 1
+Delay 119 ms
+LeftUp 1
+Delay 1072 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 1096 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 1087 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 1103 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 1071 ms
+LeftDown 1
+Delay 128 ms
+LeftUp 1
+Delay 1079 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 1088 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 1103 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 1055 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 1063 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 1143 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 983 ms
+LeftDown 1
+Delay 151 ms
+LeftUp 1
+Delay 616 ms
+LeftDown 1
+Delay 128 ms
+LeftUp 1
+Delay 303 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 1087 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 1119 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 1103 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 1072 ms
+LeftDown 1
+Delay 103 ms
+LeftUp 1
+Delay 1072 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 1103 ms
+LeftDown 1
+Delay 119 ms
+LeftUp 1
+Delay 1104 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 1112 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 1063 ms
+LeftDown 1
+Delay 119 ms
+LeftUp 1
+Delay 1095 ms
+LeftDown 1
+Delay 120 ms
+LeftUp 1
+Delay 1048 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 1120 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 1119 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 1088 ms
+LeftDown 1
+Delay 120 ms
+LeftUp 1
+Delay 1087 ms
+LeftDown 1
+Delay 103 ms
+LeftUp 1
+Delay 1015 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 1119 ms
+LeftDown 1
+Delay 103 ms
+LeftUp 1
+Delay 1056 ms
+LeftDown 1
+Delay 127 ms
+LeftUp 1
+Delay 1111 ms
+LeftDown 1
+Delay 128 ms
+LeftUp 1
+Delay 1111 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 1080 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 1087 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 1200 ms
+LeftDown 1
+Delay 119 ms
+LeftUp 1
+Delay 1071 ms
+LeftDown 1
+Delay 120 ms
+LeftUp 1
+Delay 1136 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 1135 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 1119 ms
+LeftDown 1
+Delay 135 ms
+LeftUp 1
+Delay 1128 ms
+LeftDown 1
+Delay 119 ms
+LeftUp 1
+Delay 1135 ms
+LeftDown 1
+Delay 128 ms
+LeftUp 1
+Delay 1127 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 1160 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 1152 ms
+LeftDown 1
+Delay 119 ms
+LeftUp 1
+Delay 1128 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 976 ms
+LeftDown 1
+Delay 8 ms
+LeftUp 1
+Delay 1039 ms
+LeftDown 1
+Delay 128 ms
+LeftUp 1
+Delay 1079 ms
+LeftDown 1
+Delay 127 ms
+LeftUp 1
+Delay 1024 ms
+LeftDown 1
+Delay 119 ms
+LeftUp 1
+Delay 1096 ms
+LeftDown 1
+Delay 143 ms
+LeftUp 1
+Delay 1079 ms
+LeftDown 1
+Delay 144 ms
+LeftUp 1
+Delay 1143 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 1167 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 1136 ms
+LeftDown 1
+Delay 135 ms
+LeftUp 1
+Delay 1064 ms
+LeftDown 1
+Delay 127 ms
+LeftUp 1
+Delay 1127 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 1152 ms
+LeftDown 1
+Delay 103 ms
+LeftUp 1
+Delay 1048 ms
+LeftDown 1
+Delay 144 ms
+LeftUp 1
+Delay 1015 ms
+LeftDown 1
+Delay 136 ms
+LeftUp 1
+Delay 1119 ms
+LeftDown 1
+Delay 88 ms
+LeftUp 1
+Delay 1111 ms
+LeftDown 1
+Delay 56 ms
+LeftUp 1
+Delay 1159 ms
+LeftDown 1
+Delay 88 ms
+LeftUp 1
+Delay 1040 ms
+LeftDown 1
+Delay 159 ms
+LeftUp 1
+Delay 463 ms
+LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 1168 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 1232 ms
+LeftDown 1
+Delay 72 ms
+LeftUp 1
+Delay 1103 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 1328 ms
+LeftDown 1
+Delay 71 ms
+LeftUp 1
+Delay 1200 ms
+LeftDown 1
+Delay 71 ms
+LeftUp 1
+Delay 1176 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+Delay 1152 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 1152 ms
+LeftDown 1
+Delay 103 ms
+LeftUp 1
+Delay 1096 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 1231 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+Delay 1183 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 1112 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 1143 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 1111 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 1095 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 1095 ms
+LeftDown 1
+Delay 103 ms
+LeftUp 1
+Delay 1039 ms
+LeftDown 1
+Delay 88 ms
+LeftUp 1
+Delay 1095 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 1063 ms
+LeftDown 1
+Delay 88 ms
+LeftUp 1
+Delay 1104 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 1088 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 1135 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 1152 ms
+LeftDown 1
+Delay 119 ms
+LeftUp 1
+Delay 1120 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+Delay 1016 ms
+LeftDown 1
+Delay 120 ms
+LeftUp 1
+Delay 991 ms
+LeftDown 1
+Delay 119 ms
+LeftUp 1
+Delay 1031 ms
+LeftDown 1
+Delay 128 ms
+LeftUp 1
+Delay 1064 ms
+LeftDown 1
+Delay 135 ms
+LeftUp 1
+Delay 1095 ms
+LeftDown 1
+Delay 136 ms
+LeftUp 1
+Delay 1112 ms
+LeftDown 1
+Delay 135 ms
+LeftUp 1
+Delay 1175 ms
+LeftDown 1
+Delay 128 ms
+LeftUp 1
+Delay 1151 ms
+LeftDown 1
+Delay 119 ms
+LeftUp 1
+Delay 1112 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 1135 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 1088 ms
+LeftDown 1
+Delay 127 ms
+LeftUp 1
+Delay 1031 ms
+LeftDown 1
+Delay 120 ms
+LeftUp 1
+Delay 1175 ms
+LeftDown 1
+Delay 144 ms
+LeftUp 1
+Delay 1063 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 1072 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 1127 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 1183 ms
+LeftDown 1
+Delay 103 ms
+LeftUp 1
+Delay 1200 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 1159 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 1103 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 1096 ms
+LeftDown 1
+Delay 128 ms
+LeftUp 1
+Delay 1071 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 1055 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 1128 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 1143 ms
+LeftDown 1
+Delay 120 ms
+LeftUp 1
+Delay 1071 ms
+LeftDown 1
+Delay 128 ms
+LeftUp 1
+Delay 1127 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 1119 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 1207 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+Delay 1088 ms
+LeftDown 1
+Delay 135 ms
+LeftUp 1
+Delay 1216 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 1135 ms
+LeftDown 1
+Delay 103 ms
+LeftUp 1
+Delay 1215 ms
+LeftDown 1
+Delay 120 ms
+LeftUp 1
+Delay 1183 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 1183 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 1032 ms
+LeftDown 1
+Delay 127 ms
+LeftUp 1
+Delay 1072 ms
+LeftDown 1
+Delay 120 ms
+LeftUp 1
+Delay 927 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 815 ms
+LeftDown 1
+Delay 120 ms
+LeftUp 1
+Delay 479 ms
+LeftDown 1
+Delay 103 ms
+LeftUp 1
+Delay 1144 ms
+LeftDown 1
+Delay 119 ms
+LeftUp 1
+Delay 1079 ms
+LeftDown 1
+Delay 136 ms
+LeftUp 1
+Delay 1095 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 1048 ms
+LeftDown 1
+Delay 144 ms
+LeftUp 1
+Delay 1023 ms
+LeftDown 1
+Delay 128 ms
+LeftUp 1
+Delay 1087 ms
+LeftDown 1
+Delay 119 ms
+LeftUp 1
+Delay 1056 ms
+LeftDown 1
+Delay 127 ms
+LeftUp 1
+Delay 1112 ms
+LeftDown 1
+Delay 119 ms
+LeftUp 1
+Delay 1056 ms
+LeftDown 1
+Delay 103 ms
+LeftUp 1
+Delay 1135 ms
+LeftDown 1
+Delay 103 ms
+LeftUp 1
+Delay 1231 ms
+LeftDown 1
+Delay 128 ms
+LeftUp 1
+Delay 1087 ms
+LeftDown 1
+Delay 151 ms
+LeftUp 1
+Delay 1080 ms
+LeftDown 1
+Delay 151 ms
+LeftUp 1
+Delay 1072 ms
+LeftDown 1
+Delay 128 ms
+LeftUp 1
+Delay 1128 ms
+LeftDown 1
+Delay 103 ms
+LeftUp 1
+Delay 1072 ms
+LeftDown 1
+Delay 127 ms
+LeftUp 1
+Delay 1064 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 1183 ms
+LeftDown 1
+Delay 88 ms
+LeftUp 1
+Delay 1087 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 1128 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 1095 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 1023 ms
+LeftDown 1
+Delay 128 ms
+LeftUp 1
+Delay 1127 ms
+LeftDown 1
+Delay 128 ms
+LeftUp 1
+Delay 1143 ms
+LeftDown 1
+Delay 119 ms
+LeftUp 1
+Delay 1128 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 1103 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 1048 ms
+LeftDown 1
+Delay 127 ms
+LeftUp 1
+Delay 1055 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 1144 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+Delay 1112 ms
+LeftDown 1
+Delay 127 ms
+LeftUp 1
+Delay 1104 ms
+LeftDown 1
+Delay 119 ms
+LeftUp 1
+Delay 1103 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 1144 ms
+LeftDown 1
+Delay 119 ms
+LeftUp 1
+Delay 1063 ms
+LeftDown 1
+Delay 119 ms
+LeftUp 1
+Delay 1087 ms
+LeftDown 1
+Delay 119 ms
+LeftUp 1
+Delay 1096 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 1055 ms
+LeftDown 1
+Delay 120 ms
+LeftUp 1
+Delay 1152 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 1111 ms
+LeftDown 1
+Delay 120 ms
+LeftUp 1
+Delay 1119 ms
+LeftDown 1
+Delay 119 ms
+LeftUp 1
+Delay 1079 ms
+LeftDown 1
+Delay 136 ms
+LeftUp 1
+Delay 1128 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 1144 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 1104 ms
+LeftDown 1
+Delay 152 ms
+LeftUp 1
+Delay 1167 ms
+LeftDown 1
+Delay 103 ms
+LeftUp 1
+Delay 1104 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 1183 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 1167 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 1087 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 1167 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 1184 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 1112 ms
+LeftDown 1
+Delay 151 ms
+LeftUp 1
+Delay 1111 ms
+LeftDown 1
+Delay 120 ms
+LeftUp 1
+Delay 1119 ms
+LeftDown 1
+Delay 151 ms
+LeftUp 1
+Delay 1056 ms
+LeftDown 1
+Delay 127 ms
+LeftUp 1
+Delay 1128 ms
+LeftDown 1
+Delay 160 ms
+LeftUp 1
+Delay 1063 ms
+LeftDown 1
+Delay 136 ms
+LeftUp 1
+Delay 1176 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 1103 ms
+LeftDown 1
+Delay 144 ms
+LeftUp 1
+Delay 1159 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 1079 ms
+LeftDown 1
+Delay 184 ms
+LeftUp 1
+Delay 1104 ms
+LeftDown 1
+Delay 151 ms
+LeftUp 1
+Delay 1136 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 1120 ms
+LeftDown 1
+Delay 128 ms
+LeftUp 1
+Delay 1055 ms
+LeftDown 1
+Delay 144 ms
+LeftUp 1
+Delay 1096 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 1135 ms
+LeftDown 1
+Delay 128 ms
+LeftUp 1
+Delay 1175 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 1096 ms
+LeftDown 1
+Delay 136 ms
+LeftUp 1
+Delay 1063 ms
+LeftDown 1
+Delay 128 ms
+LeftUp 1
+Delay 1159 ms
+LeftDown 1
+Delay 135 ms
+LeftUp 1
+Delay 1144 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 1095 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 1063 ms
+LeftDown 1
+Delay 128 ms
+LeftUp 1
+Delay 1016 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 1064 ms
+LeftDown 1
+Delay 135 ms
+LeftUp 1
+Delay 1032 ms
+LeftDown 1
+Delay 119 ms
+LeftUp 1
+Delay 1072 ms
+LeftDown 1
+Delay 120 ms
+LeftUp 1
+Delay 1071 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 1176 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 1120 ms
+LeftDown 1
+Delay 119 ms
+LeftUp 1
+Delay 1184 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 1119 ms
+LeftDown 1
+Delay 120 ms
+LeftUp 1
+Delay 1103 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 1111 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 1152 ms
+LeftDown 1
+Delay 120 ms
+LeftUp 1
+Delay 1135 ms
+LeftDown 1
+Delay 136 ms
+LeftUp 1
+Delay 1199 ms
+LeftDown 1
+Delay 88 ms
+LeftUp 1
+Delay 1247 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 1168 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 1183 ms
+LeftDown 1
+Delay 72 ms
+LeftUp 1
+Delay 1199 ms
+LeftDown 1
+Delay 71 ms
+LeftUp 1
+Delay 1136 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 1111 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 1088 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 1152 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 1151 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 1168 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 1127 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 1143 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 1159 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 1184 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 1183 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 1191 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 1095 ms
+LeftDown 1
+Delay 103 ms
+LeftUp 1
+Delay 1127 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 1120 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 1104 ms
+LeftDown 1
+Delay 103 ms
+LeftUp 1
+Delay 1136 ms
+LeftDown 1
+Delay 128 ms
+LeftUp 1
+Delay 1119 ms
+LeftDown 1
+Delay 136 ms
+LeftUp 1
+Delay 1127 ms
+LeftDown 1
+Delay 144 ms
+LeftUp 1
+Delay 1111 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 1144 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 1103 ms
+LeftDown 1
+Delay 103 ms
+LeftUp 1
+Delay 1167 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 1152 ms
+LeftDown 1
+Delay 120 ms
+LeftUp 1
+Delay 1135 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 1152 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 1184 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 1103 ms
+LeftDown 1
+Delay 103 ms
+LeftUp 1
+Delay 1160 ms
+LeftDown 1
+Delay 103 ms
+LeftUp 1
+Delay 1027 ms
+LeftDown 1
+Delay 71 ms
+LeftUp 1
+Delay 1087 ms
+LeftDown 1
+Delay 127 ms
+LeftUp 1
+Delay 1064 ms
+LeftDown 1
+Delay 119 ms
+LeftUp 1
+Delay 1096 ms
+LeftDown 1
+Delay 103 ms
+LeftUp 1
+Delay 1064 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 1111 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 1119 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 1128 ms
+LeftDown 1
+Delay 103 ms
+LeftUp 1
+Delay 1144 ms
+LeftDown 1
+Delay 128 ms
+LeftUp 1
+Delay 1088 ms
+LeftDown 1
+Delay 127 ms
+LeftUp 1
+Delay 1104 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 1104 ms
+LeftDown 1
+Delay 119 ms
+LeftUp 1
+Delay 1096 ms
+LeftDown 1
+Delay 103 ms
+LeftUp 1
+Delay 1095 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 1104 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 1104 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 1151 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 1071 ms
+LeftDown 1
+Delay 119 ms
+LeftUp 1
+Delay 1176 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 1136 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 1127 ms
+LeftDown 1
+Delay 128 ms
+LeftUp 1
+Delay 1175 ms
+LeftDown 1
+Delay 160 ms
+LeftUp 1
+Delay 1112 ms
+LeftDown 1
+Delay 120 ms
+LeftUp 1
+Delay 1135 ms
+LeftDown 1
+Delay 88 ms
+LeftUp 1
+Delay 1199 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+Delay 135712 ms
+LeftDown 1
+Delay 56 ms
+LeftUp 1
+Delay 1120 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 1143 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 1216 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 1167 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 1087 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 1312 ms
+MoveTo 340 644
+Delay 64 ms
+MoveTo 345 644
+Delay 64 ms
+MoveTo 350 644
+Delay 64 ms
+MoveTo 351 644
+Delay 64 ms
+MoveTo 355 644
+Delay 64 ms
+MoveTo 360 644
+Delay 64 ms
+MoveTo 365 644
+Delay 216 ms
+MoveTo 371 644
+LeftDown 1
+Delay 56 ms
+LeftUp 1
+Delay 3011 ms
+KeyDown 41 1
+Delay 138 ms
+KeyUp 41 1
+Delay 921 ms
+KeyDown 15 1
+Delay 106 ms
+KeyUp 15 1
+Delay 254 ms
+MoveTo 495 366
+Delay 64 ms
+MoveTo 500 366
+Delay 64 ms
+MoveTo 505 366
+Delay 64 ms
+MoveTo 510 366
+Delay 64 ms
+MoveTo 515 366
+Delay 64 ms
+MoveTo 521 366
+Delay 71 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 3102 ms
+MoveTo 130 389
+Delay 80 ms
+MoveTo 135 389
+Delay 80 ms
+MoveTo 140 389
+Delay 80 ms
+MoveTo 145 389
+Delay 80 ms
+MoveTo 150 389
+Delay 80 ms
+MoveTo 155 389
+Delay 80 ms
+MoveTo 161 389</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

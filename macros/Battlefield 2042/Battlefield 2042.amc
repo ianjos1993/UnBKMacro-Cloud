@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для игры Battlefield 2042 фарм опыта Bubble Pass через Ammo Box. Никаких настроек не нужно, просто открыть игру и запустить макрос(при необходимости забиндить на удобную Вам кнопку на клавиатуре или мышке)</Description>
+    <Comment>Макрос как макрос</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 82 ms
+KeyUp 32 1
+Delay 1013 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 5359 ms
+KeyDown 32 1
+Delay 112 ms
+KeyUp 32 1
+Delay 607 ms
+LeftDown 1
+Delay 129 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Другие</Software>
+  </DefaultMacro>
+</Root>

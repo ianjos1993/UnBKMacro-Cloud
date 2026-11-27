@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>Хил при 10% хп</Major>
+    <Description>Ставим баночки на P и ] либо Баночку отхила и скил защиты. Отхиливает при понижении здоровья до 10% Полоска хп бара должна быть белая, можно изменить Аддоном Interface manager </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 9 0 255,255,255 255,255,255 1 372 388
+KeyDown 19 1
+Delay 64
+KeyUp 19 1
+Delay 64
+KeyDown 48 1
+Delay 64
+KeyUp 48 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Аллоды онлайн</Software>
+  </DefaultMacro>
+</Root>

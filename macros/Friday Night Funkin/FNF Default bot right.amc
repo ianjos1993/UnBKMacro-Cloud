@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Это бот 
+Как использовать:
+1 Измините окно на правую часть рабочего стола
+2 Выключите миддлскрол
+3 Если скорость большая и робот проигрывает то попробуйте сделать скорость меньше
+4 Наслаждайтесь
+5 Спасибо за скачивание
+И ещё совет:Если вы хотите снимать видео как бот играет то можете скачать программу Soundplant  И звуки кликов тогда можно будет слышать как бот нажимает на кнопки</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 6 1 194,75,153 179,97,158 1 1081 240
+GoColor 11 1 0,255,255 255,255,255 1 1140 246
+GoColor 16 1 18,250,5 255,255,255 1 1195 244
+GoColor 21 1 249,57,63 255,255,255 1 1264 244
+Goto 1
+KeyDown 80 1
+Delay 64
+KeyUp 80 1
+Delay 64
+Goto 1
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+Goto 1
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+Goto 1
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Friday Night Funkin</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Чувствительность 50.0
+
+Разрешение экрана 1920x1080
+
+Вертикальная синхронизация: отключено
+
+Устанавливаем на удобную клавишу и играем!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 4 ms
+MoveR 0 0
+MoveR 0 4
+Delay 4 ms
+LeftUp 1
+Delay 4 ms
+LeftDown 1
+Delay 4 ms
+MoveR 0 0
+MoveR 0 4
+Delay 4 ms
+LeftUp 1
+Delay 4 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Caliber</Software>
+  </DefaultMacro>
+</Root>

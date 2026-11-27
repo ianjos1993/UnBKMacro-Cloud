@@ -1,0 +1,83 @@
+<Root>
+  <DefaultMacro>
+    <Major>Claudio Combo</Major>
+    <Description>Макрос позволяет выполнять CH combo за Claudio.
+Видео демонстрации работы макроса: https://youtu.be/xZ79CU1IFhA
+
+Клаудио Серафино — персонаж серии Tekken, который был представлен в Tekken 7 как один из новых персонажей. Клаудио родом из Италии и считается «самым сильным экзорцистом в мире». Он возглавляет организацию, известную как Лучники Сириуса. Был принят неоднозначно фанатами.
+
+Тестирование макроса проводились на последнем патче игры на 07.05.2023 (5.01 патч)
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#claudiotekken7 #tekken7 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 77 1
+Delay 142 ms
+KeyUp 77 1
+Delay 0 ms
+KeyDown 76 1
+Delay 151 ms
+KeyUp 76 1
+Delay 951 ms
+KeyDown 7 1
+Delay 64 ms
+KeyUp 7 1
+Delay 55 ms
+KeyDown 7 1
+Delay 88 ms
+KeyDown 77 1
+Delay 216 ms
+KeyUp 77 1
+Delay 31 ms
+KeyUp 7 1
+Delay 7 ms
+KeyDown 4 1
+Delay 104 ms
+KeyDown 76 1
+Delay 87 ms
+KeyUp 76 1
+Delay 95 ms
+KeyDown 76 1
+Delay 72 ms
+KeyUp 76 1
+Delay 72 ms
+KeyDown 76 1
+Delay 87 ms
+KeyUp 76 1
+Delay 71 ms
+KeyDown 76 1
+Delay 72 ms
+KeyUp 76 1
+Delay 79 ms
+KeyDown 76 1
+Delay 79 ms
+KeyUp 76 1
+Delay 160 ms
+KeyUp 4 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 7</Software>
+  </DefaultMacro>
+</Root>

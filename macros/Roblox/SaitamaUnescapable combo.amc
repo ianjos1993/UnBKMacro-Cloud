@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всем привет! макрос для изи комбо на сайтаме из которого не возможно выйти. Макрос мне понравился,  
+для начинающих самое то! всем желаю удачи! (сделал сам, у меня все работало)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 200 ms
+GoWhile 1 1
+KeyDown 31 1
+Delay 200 ms
+KeyUp 31 1
+Delay 1000 ms
+LeftDown 1
+Delay 400 ms
+LeftUp 1
+Delay 200 ms
+KeyDown 30 1
+Delay 200 ms
+KeyUp 30 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

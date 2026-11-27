@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major>LLITepBeH</Major>
+    <Description>W+ ПКМ - от вас требуется только поставить удобный бинд, нажать на него и управлять камерой в нужное направление. (Обновлён)</Description>
+    <Comment>Упрощает передвижение в воде путём повтора анимации рывка во время плавания</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 70 ms
+RightDown 1
+Delay 50 ms
+RightUp 1
+Delay 55 ms
+KeyUp 26 1
+Delay 330 ms
+RightDown 1
+Delay 50 ms
+KeyDown 26 1
+Delay 70 ms
+RightUp 1
+Delay 55 ms
+KeyUp 26 1
+Delay 330 ms
+KeyDown 26 1
+Delay 70 ms
+RightDown 1
+Delay 50 ms
+KeyUp 26 1
+Delay 55 ms
+RightUp 1
+Delay 330 ms</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

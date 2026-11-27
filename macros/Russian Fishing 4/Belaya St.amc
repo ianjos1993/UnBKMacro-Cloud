@@ -1,0 +1,67 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Спининг на белой.Без клипсы. Скорость подмота 25 на катушке Белуга Бестия 2000, Ссобирает всю рыбу, Копает наживку, Пьет чай. Спининг установить на 1, чай на 4, лопату на 5. Подойти к воде вплотную к точке лова. Запустить макрос. можно гулять пару часов. может и больше. 
+
+НУЖНО УБРАТЬ ЛОПАТУ С КЛАВИШИ ПРОБЕЛ
+ВАСТАВИТЬ ФРИКЦИОН КАТУШКИ.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+Delay 3 s
+KeyDown 225 1
+LeftDown 1
+Delay 64 ms
+KeyUp 225 1
+LeftUp 1
+Delay 5 s
+LeftDown 1
+Delay 45 s
+LeftUp 1
+Delay 2 s
+LeftDown 1
+Delay 10 s
+RightUp 1
+RightDown 1
+Delay 3 s
+LeftUp 1
+Delay 50 ms
+KeyDown 44 1
+Delay 100 ms
+KeyUp 44 1
+Delay 1 s
+GoWhile 6 3
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 3 s
+LeftDown 1
+Delay 1 s
+LeftUp 1
+Delay 5 s
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 2 s
+GoWhile 1 100</Syntax>
+    </KeyDown>
+    <Software>Русская Рыбалка 4</Software>
+  </DefaultMacro>
+</Root>

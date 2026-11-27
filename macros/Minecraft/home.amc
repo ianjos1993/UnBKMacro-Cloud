@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>настройте на любую клавишу на вашем ПК и быстро телепортируйтесь домой.Очень полезно,когда во время ПВП на вас напали много людей,и вы ничего не можете сделать.Или же когда вы на грани смерти</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы / быстрая телепортация домой(/home)</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 88 1
+Delay 12 ms
+KeyUp 88 1
+Delay 12 ms
+KeyDown 56 1
+Delay 12 ms
+KeyUp 56 1
+Delay 12 ms
+KeyDown 11 1
+Delay 12 ms
+KeyUp 11 1
+Delay 12 ms
+KeyDown 18 1
+Delay 12 ms
+KeyDown 16 1
+Delay 12 ms
+KeyUp 18 1
+Delay 12 ms
+KeyDown 8 1
+Delay 12 ms
+KeyUp 16 1
+Delay 12 ms
+KeyUp 8 1
+Delay 12 ms
+KeyDown 88 1
+Delay 12 ms
+KeyUp 88 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

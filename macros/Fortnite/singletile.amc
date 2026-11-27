@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>lol</Major>
+    <Description>right click and k, easy single tile edit, also avoids in-game input delay. pretty good macro for the current season meta
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 2 ms
+RightUp 1
+Delay 5 ms
+KeyDown 14 1
+Delay 2 ms
+KeyUp 14 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

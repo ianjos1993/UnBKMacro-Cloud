@@ -1,0 +1,80 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>melonkingde macro farm , change the time between each key to adjust the amount of plots you have (approx 15sec per plot).</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 7 1
+Delay 50 ms
+KeyDown 26 1
+Delay 35 s
+KeyUp 7 1
+KeyDown 4 1
+Delay 35 s
+KeyUp 4 1
+Delay 64
+KeyUp 26 1
+GoWhile 1 11
+KeyDown 7 1
+Delay 64
+KeyDown 26 1
+Delay 35 s
+KeyUp 7 1
+KeyUp 26 1
+LeftUp 1
+Delay 64
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+KeyDown 84 1
+Delay 64
+KeyUp 84 1
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+KeyDown 19 1
+Delay 64
+KeyUp 19 1
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+KeyDown 10 1
+Delay 64
+KeyUp 10 1
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+KeyDown 17 1
+Delay 64
+KeyUp 17 1
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 1 s
+GoWhile 1 10</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

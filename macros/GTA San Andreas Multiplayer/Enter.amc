@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>данный скрипт будет Очень быстро нажимать на клавишу энтер. для  запуска нужно нажать и держать, для выключения - отпустить клавишу. можете менять задержку, но аккуратно так как при задержке ниже этой вас будет кикать с аризоны</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 88 1
+Delay 50 ms
+KeyUp 88 1
+Delay 50 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

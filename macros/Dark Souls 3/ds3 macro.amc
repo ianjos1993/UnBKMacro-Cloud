@@ -1,0 +1,152 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматический фарм душ для 802-го уровня при помощи модификации "Honest Merchant", позволяющей вам покупать любые предметы за 1 душу
+
+Для того что бы всё заработало, вам необходимо в инвенторе отсортировать предметы по убыванию количества, так что бы души, которые вы покупаете, после покупки располагались в самом первом слоте
+
+Макрос будет автоматически покупать и использовать души
+
+Так как в игре нельзя иметь больше 999 999 999 душ, после их получения вам нужно будет спуститься и прокачаться , после вернуться и продолжить фарм
+
+в 3 подхода, где-то 1,5 каждый, или даже меньше, вы сможете получить 802 уровень, не нажимая всех этих кнопок вручную</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+Delay 66 ms
+KeyUp 10 1
+Delay 66 ms
+KeyDown 32 1
+Delay 66 ms
+KeyUp 32 1
+Delay 66 ms
+KeyDown 32 1
+Delay 66 ms
+KeyUp 32 1
+Delay 66 ms
+KeyDown 8 1
+Delay 66 ms
+KeyUp 8 1
+Delay 2800 ms
+KeyDown 32 1
+Delay 66 ms
+KeyUp 32 1
+Delay 66 ms
+KeyDown 32 1
+Delay 66 ms
+KeyUp 32 1
+Delay 66 ms
+KeyDown 32 1
+Delay 66 ms
+KeyUp 32 1
+Delay 66 ms
+KeyDown 32 1
+Delay 66 ms
+KeyUp 32 1
+Delay 66 ms
+KeyDown 31 1
+Delay 66 ms
+KeyUp 31 1
+Delay 66 ms
+KeyDown 31 1
+Delay 66 ms
+KeyUp 31 1
+Delay 66 ms
+KeyDown 31 1
+Delay 66 ms
+KeyUp 31 1
+Delay 66 ms
+KeyDown 31 1
+Delay 66 ms
+KeyUp 31 1
+Delay 66 ms
+KeyDown 31 1
+Delay 66 ms
+KeyUp 31 1
+Delay 66 ms
+KeyDown 31 1
+Delay 66 ms
+KeyUp 31 1
+Delay 66 ms
+KeyDown 31 1
+Delay 66 ms
+KeyUp 31 1
+Delay 66 ms
+KeyDown 31 1
+Delay 66 ms
+KeyUp 31 1
+Delay 66 ms
+KeyDown 31 1
+Delay 66 ms
+KeyUp 31 1
+Delay 66 ms
+KeyDown 31 1
+Delay 66 ms
+KeyUp 31 1
+Delay 66 ms
+KeyDown 31 1
+Delay 66 ms
+KeyUp 31 1
+Delay 66 ms
+KeyDown 8 1
+Delay 100 ms
+KeyUp 8 1
+Delay 100 ms
+KeyDown 31 1
+Delay 100 ms
+KeyUp 31 1
+Delay 100 ms
+KeyDown 8 1
+Delay 100 ms
+KeyUp 8 1
+Delay 100 ms
+KeyDown 20 1
+Delay 100 ms
+KeyUp 20 1
+Delay 100 ms
+KeyDown 41 1
+Delay 88 ms
+KeyUp 41 1
+Delay 66 ms
+KeyDown 32 1
+Delay 66 ms
+KeyUp 32 1
+Delay 66 ms
+KeyDown 8 1
+Delay 66 ms
+KeyUp 8 1
+Delay 66 ms
+KeyDown 8 1
+Delay 66 ms
+KeyUp 8 1
+Delay 66 ms
+KeyDown 31 1
+Delay 66 ms
+KeyUp 31 1
+Delay 66 ms
+KeyDown 8 1
+Delay 66 ms
+KeyUp 8 1
+Delay 66 ms
+KeyDown 31 1
+Delay 66 ms
+KeyUp 31 1
+Delay 66 ms
+KeyDown 32 1
+Delay 66 ms
+KeyUp 32 1
+Delay 66 ms
+KeyDown 8 1
+Delay 66 ms
+KeyUp 8 1
+Delay 2600 ms</Syntax>
+    </KeyDown>
+    <Software>Dark Souls 3</Software>
+  </DefaultMacro>
+</Root>

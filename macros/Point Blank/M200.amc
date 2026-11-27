@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на снайперскую винтовку M200.
+
+Этот макрос подойдёт на любую СНАЙПЕРСКУЮ винтовку, но лучше же конечно играть с M200.
+
+---КАК РАБОТАЕТ МАКРОС---
+Стрелять нужно САМОМУ -- Макрос быстро заменит оружие за вас.
+ИСпользовать лучше с купоном на быструю смнену!
+
+
+---Установка макроса---
+1. Устанавливаем макрос.
+2. Привзяываем его к клавише. ( При нажатии на которую и будет включаться макрос, удобно использовать клавишу 'Q')
+3. Запускаем игру.
+4. Прекрасно проводим время.
+
+
+
+Удачи на поле боя)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 15 ms
+KeyUp 32 1
+Delay 10 ms
+KeyDown 30 1
+Delay 15 ms
+KeyUp 30 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

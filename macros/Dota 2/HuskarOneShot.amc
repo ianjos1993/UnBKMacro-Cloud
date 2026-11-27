@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>Ваншот прокаст на хускара</Major>
+    <Description>Необходимо быстрое применение на скиллы и предметы и удерживать курсор на враге на которого хотите применить прокаст.
+Так же необходимо раставить предметы и скиллы на нужные бинды что бы всё сработало:
+C - Veil of Discord
+V - Etherial Blade
+R - Life Break
+Это нанесёт примерно 80% урона от текущего здоровья если у вас имеется правый талант на 25 уровне, НО если у вас есть нейтральный предмет 4-го тира "Timeless Relic", то врагу нанесётся 102% от его текущего здоровья. (НЕ РАБОТАЕТ ПРОТИВ АНТИ-МАГА)</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+Delay 95 ms
+KeyDown 25 1
+Delay 31 ms
+KeyUp 6 1
+Delay 63 ms
+KeyUp 25 1
+Delay 128 ms
+KeyDown 21 1
+Delay 63 ms
+KeyUp 21 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

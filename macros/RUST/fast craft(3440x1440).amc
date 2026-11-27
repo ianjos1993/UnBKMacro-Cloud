@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>нажмите в игре q, выберете предмет, и запустите крафтер, имеет 1000 повторений, ставит максимальный стак крафта и тыкает на "создать" очень быстро</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 2095 1173
+Delay 48 ms
+LeftDown 1
+Delay 44 ms
+LeftUp 1
+Delay 45 ms
+MoveTo 2096 1173
+MoveTo 2673 1172
+LeftDown 1
+Delay 40 ms
+LeftUp 1
+Delay 46 ms
+GoWhile 1 2000</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

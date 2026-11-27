@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>put your pearl in the 3rd slot and the windcharge in you final slot binding your final slot to c. then put the marco on any key you want and it will perform a perfect pearl catch. works for vertical and super well for diagonal ones too.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 20 ms
+KeyUp 32 1
+Delay 20 ms
+RightDown 1
+Delay 20 ms
+RightUp 1
+Delay 10 ms
+RightDown 1
+Delay 10 ms
+RightUp 1
+Delay 10 ms
+KeyDown 6 1
+Delay 10 ms
+KeyUp 6 1
+Delay 10 ms
+RightDown 1
+Delay 10 ms
+RightUp 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для Radmir RP на рыбалку 
+нажимает пробел для автоматической ловли рыбы 
+вам остается только забрать рыбу </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 95 101 ms
+KeyUp 44 1
+KeyDown 44 1
+Delay 1 s
+KeyUp 44 1
+KeyDown 44 1
+Delay 95 101 ms
+KeyUp 44 1
+KeyDown 44 1
+Delay 1 s
+KeyUp 44 1
+KeyDown 44 1
+Delay 95 101 ms
+KeyUp 44 1
+KeyDown 44 1
+Delay 1 s
+KeyUp 44 1
+KeyDown 44 1
+Delay 95 101 ms
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>GTA: Criminal Russia (CRMP)</Software>
+  </DefaultMacro>
+</Root>

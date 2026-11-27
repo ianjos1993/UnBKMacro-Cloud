@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>всем привет !
+данный макрос позволет вам ставить якоря автомотически а бахать его в ручную !
+как работает макрос !
+f - ставит якорь 
+g - ставит светопыль 
+всем пока юные макросеры !</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 2 ms
+KeyDown 9 1
+Delay 32 ms
+KeyUp 9 1
+Delay 32 ms
+RightDown 1
+Delay 32 ms
+RightUp 1
+Delay 32 ms
+KeyDown 10 1
+Delay 32 ms
+KeyUp 10 1
+Delay 32 ms
+RightDown 1
+Delay 32 ms
+RightUp 1
+Delay 32 ms
+LeftDown 1
+Delay 32 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

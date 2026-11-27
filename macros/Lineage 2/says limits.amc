@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для заюза лимитов у дестра
+
+что делаем :
+
+Выставляем лимиты на 2ю панель в ячейки с 3 по 5.
+
+Клацаем хот кей, юзаемся :)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+KeyUp 32 1
+KeyDown 33 1
+KeyUp 33 1
+KeyDown 34 1
+KeyUp 34 1</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

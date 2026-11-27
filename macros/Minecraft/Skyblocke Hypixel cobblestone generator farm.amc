@@ -1,0 +1,18 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для AFK фарма генератора булыжника на SkyBlocke сервера Hypixel. Поднять навести камеру на блок и запустить макрос. Нажать на ПКМ и W для отключения.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+LeftDown 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

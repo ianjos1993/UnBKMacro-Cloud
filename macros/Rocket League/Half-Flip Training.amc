@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>Rocket League – Movement Training</Major>
+    <Description>This macro helps players practice and execute the Half-Flip maneuver in Rocket League with ease. It automatically performs the sequence of inputs needed to turn 180° quickly, allowing for faster recoveries and smoother rotations. Perfect for Free Play training or casual matches, it helps players build muscle memory without constantly pressing keys. Works on PC using keyboard and mouse — no additional setup required.</Description>
+    <Comment>Automatic Half-Flip macro for Rocket League. Useful for quick recoveries and improving rotation speed.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 100 ms
+KeyDown 225 1
+Delay 50 ms
+RightDown 1
+Delay 150 ms
+KeyUp 22 1
+Delay 10 ms
+RightUp 1
+Delay 10 ms
+KeyDown 4 1
+Delay 200 ms
+KeyUp 4 1
+Delay 10 ms
+KeyUp 225 1</Syntax>
+    </KeyDown>
+    <Software>Rocket League</Software>
+  </DefaultMacro>
+</Root>

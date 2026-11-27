@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>
+Сливаю вам
+Сенса 1.0
+С прицелом 0.8
+По установке все просто:
+Если мы с сайта,то скачиваем файл и заходим в bm,после в a4tech и открываем файл-ГОТОВО.
+Если с bm,то все намного проще.Заходим в готовые макросы и там уже ищем Rust и просто устанавливаем.
+После этих процедур заходим в клавиши и биндим макрос на удобную вам клавишу.
+
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 20 ms
+MoveR 0 11
+LeftUp 1
+MoveR 0 0
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

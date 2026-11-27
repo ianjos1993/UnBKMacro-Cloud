@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>Empujar con bk</Major>
+    <Description>Este es un macro que se utiliza en el Castle Siegue cuando los pj hacen focus al master del clan y tiene que escudear, esto le permitira dar un golpe (twisting slash) el cual si pones en el numero 4 y lo tenes con el mastery, empuja, y para evitar que coronen puse un delay corto asi mientras te curas tienes la posibilidad de concentrarte solo en eso xq el golpe lo hace el twisting puesto en el nro 4, el escudo para tanquear en el nro 5</Description>
+    <Comment>mu online keygen</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 150 ms
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>MU Online</Software>
+  </DefaultMacro>
+</Root>

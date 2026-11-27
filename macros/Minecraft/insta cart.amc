@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>put rails in the 7th slot and cart in the 4th slot. bind to any key and you will be able to instacart right after you fire an arrow. it will then land you back onto the bow</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 20 ms
+KeyUp 21 1
+Delay 20 ms
+RightDown 1
+Delay 20 ms
+RightUp 1
+Delay 10 ms
+KeyDown 33 1
+Delay 10 ms
+KeyUp 33 1
+Delay 10 ms
+RightDown 1
+Delay 10 ms
+RightUp 1
+Delay 10 ms
+RightDown 1
+Delay 10 ms
+RightUp 1
+Delay 50 ms
+KeyDown 31 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

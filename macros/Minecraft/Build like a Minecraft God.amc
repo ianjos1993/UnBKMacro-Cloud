@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос поможет вам быстро строиться в игре Minecraft
+Даже на популярных серверах!
+Сначало лучше привыкнуть к макросу в одиночном режиме!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+KeyDown 4 1
+KeyDown 22 1
+Delay 93 ms
+RightDown 1
+Delay 1 ms
+RightUp 1
+Delay 1 ms
+KeyUp 225 1
+Delay 203 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

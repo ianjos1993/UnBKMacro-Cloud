@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Используйте этот макрос для всех револьверов со снайперским прицелом/Use this macro for all revolvers with a sniper scope
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                        ♥Админу лямбу♥</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 40 ms
+LeftDown 1
+Delay 30 ms
+RightUp 1
+Delay 32 ms
+LeftUp 1
+Delay 32 ms
+KeyDown 32 1
+Delay 15 ms
+KeyDown 31 1
+Delay 11 ms
+KeyUp 32 1
+Delay 15 ms
+KeyUp 31 1
+Delay 11 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

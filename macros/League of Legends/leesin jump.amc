@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>leesin jump</Major>
+    <Description>Title: Ultra-Fast Lee Sin Ward Jump Macro (Smooth)
+
+Description: This macro is designed for seamless Ward Jumping with Lee Sin. It executes the Ward placement (Key 4) and Safeguard (Key W) instantly with optimized millisecond delays to prevent ghosting or input lag. Perfect for escapes or flashy Insec plays.
+
+Instructions: &gt; * Make sure your Ward is on key "4" and Safeguard is on "W".
+
+Set your "Ward" and "W" abilities to Quick Cast (Smart Cast) in League of Legends settings.
+
+Use a single press to perform the jump to your cursor location.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 147 ms
+KeyDown 33 1
+Delay 148 ms
+KeyUp 33 1
+Delay 4 ms
+KeyDown 26 1
+Delay 98 ms
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>League of legends</Software>
+  </DefaultMacro>
+</Root>

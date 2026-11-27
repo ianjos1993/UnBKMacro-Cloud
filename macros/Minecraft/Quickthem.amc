@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос позволяет быстро заменивать тотемы при пвп. Условия для использования просты - 1 слот должен быть пустой в инвентаре должен быть тотем и разрешение должно быть строго 1920 на 108. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 64
+MoveR -2 -30
+Delay 64
+KeyDown 30 1
+KeyUp 30 1
+Delay 64
+KeyUp 8 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

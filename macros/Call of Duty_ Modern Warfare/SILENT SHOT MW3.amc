@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major>SNIPER</Major>
+    <Description>Used for MW3, Can work for MW2019 and MW2 but you just have to change the keybinds for MW2019 but other than that its fast and effective.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 30 ms
+KeyDown 8 1
+Delay 0 ms
+LeftUp 1
+Delay 170 ms
+KeyDown 30 1
+Delay 0 ms
+KeyUp 30 1
+Delay 150 ms
+KeyUp 8 1</Syntax>
+    </KeyDown>
+    <Software>Call of Duty: Modern Warfare (2019)</Software>
+  </DefaultMacro>
+</Root>

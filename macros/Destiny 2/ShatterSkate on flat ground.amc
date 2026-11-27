@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>S</Major>
+    <Description>Shatterskate on flat ground 100% no fails. this macro here will let you shatterskate,whenever you feel like it and whenever you want to, need to get far away? shatterskate with this macro. need to shatterskate across a big gap? use this macro.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 10 ms
+KeyUp 32 1
+Delay 300 ms
+KeyDown 44 1
+Delay 10 ms
+KeyUp 44 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 25 ms
+KeyDown 44 1
+Delay 25 ms
+KeyUp 44 1
+Delay 25 ms
+KeyDown 27 1
+Delay 10 ms
+KeyUp 27 1</Syntax>
+    </KeyDown>
+    <Software>Destiny 2</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,307 @@
+<Root>
+  <DefaultMacro>
+    <Major>Edvard</Major>
+    <Description>Макрос на  LR-300  by SempaI
+
+ПОФ 90 - Сенса 0.7
+  (Выставить чувствительность можно консольной командой input.sensitivity 0.7)
+самодельный прицел - 0.53;
+голографический прицел - 0.80.
+
+Поле зрения (FOV) 90;
+
+Значение FPS - не менее 50;
+
+Глушитель - по желанию;
+
+Лазерный прицел - по желанию;
+
+Подствольный фонарь - по желанию 
+
+Макрос делал я с добавлением другого челика                                                            
+
+</Description>
+    <Comment>the best lr&lt;3</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 23 ms
+MoveR 0 11
+Delay 23 ms
+MoveR 0 11
+Delay 23 ms
+MoveR 0 11
+Delay 23 ms
+MoveR 0 11
+Delay 23 ms
+MoveR 0 11
+Delay 23 ms
+MoveR -4 11
+Delay 23 ms
+MoveR -4 11
+Delay 23 ms
+MoveR -4 11
+Delay 23 ms
+MoveR -4 15
+Delay 23 ms
+MoveR -4 15
+Delay 23 ms
+MoveR -4 15
+Delay 23 ms
+MoveR -4 15
+Delay 23 ms
+MoveR -4 15
+Delay 23 ms
+MoveR -4 15
+Delay 23 ms
+MoveR -4 15
+Delay 23 ms
+MoveR -8 19
+Delay 23 ms
+MoveR -8 19
+Delay 23 ms
+MoveR -8 19
+Delay 23 ms
+MoveR -8 19
+Delay 23 ms
+MoveR -8 19
+Delay 23 ms
+MoveR -4 11
+Delay 23 ms
+MoveR -4 11
+Delay 23 ms
+MoveR -4 11
+Delay 23 ms
+MoveR -4 8
+Delay 23 ms
+MoveR -4 8
+Delay 23 ms
+MoveR -8 8
+Delay 23 ms
+MoveR -8 8
+Delay 23 ms
+MoveR -8 8
+Delay 23 ms
+MoveR -8 8
+Delay 23 ms
+MoveR -8 8
+Delay 23 ms
+MoveR -4 8
+Delay 23 ms
+MoveR -4 8
+Delay 23 ms
+MoveR -4 8
+Delay 23 ms
+MoveR -4 8
+Delay 23 ms
+MoveR -4 8
+Delay 23 ms
+MoveR 0 8
+Delay 23 ms
+MoveR 0 4
+Delay 23 ms
+MoveR 0 4
+Delay 23 ms
+MoveR 0 4
+Delay 23 ms
+MoveR 0 4
+Delay 23 ms
+MoveR 4 8
+Delay 23 ms
+MoveR 4 8
+Delay 23 ms
+MoveR 4 8
+Delay 23 ms
+MoveR 4 8
+Delay 23 ms
+MoveR 4 8
+Delay 23 ms
+MoveR 8 4
+Delay 23 ms
+MoveR 8 4
+Delay 23 ms
+MoveR 8 4
+Delay 23 ms
+MoveR 8 4
+Delay 23 ms
+MoveR 8 4
+Delay 23 ms
+MoveR 8 4
+Delay 23 ms
+MoveR 8 4
+Delay 23 ms
+MoveR 8 4
+Delay 23 ms
+MoveR 8 4
+Delay 23 ms
+MoveR 8 4
+Delay 23 ms
+MoveR 8 4
+Delay 23 ms
+MoveR 8 4
+Delay 23 ms
+MoveR 8 4
+Delay 23 ms
+MoveR 8 4
+Delay 23 ms
+MoveR 8 4
+Delay 23 ms
+MoveR 4 4
+Delay 23 ms
+MoveR 4 4
+Delay 23 ms
+MoveR 4 4
+Delay 23 ms
+MoveR 4 4
+Delay 23 ms
+MoveR 4 4
+Delay 23 ms
+MoveR 0 4
+Delay 23 ms
+MoveR 0 4
+Delay 23 ms
+MoveR 0 4
+Delay 23 ms
+MoveR 0 4
+Delay 23 ms
+MoveR 0 4
+Delay 23 ms
+MoveR 0 4
+Delay 23 ms
+MoveR 0 4
+Delay 23 ms
+MoveR 0 4
+Delay 23 ms
+MoveR 0 4
+Delay 23 ms
+MoveR 0 4
+Delay 23 ms
+MoveR -4 0
+Delay 23 ms
+MoveR -4 0
+Delay 23 ms
+MoveR -4 0
+Delay 23 ms
+MoveR -4 0
+Delay 23 ms
+MoveR -4 0
+Delay 23 ms
+MoveR -8 0
+Delay 23 ms
+MoveR -8 0
+Delay 23 ms
+MoveR -8 0
+Delay 23 ms
+MoveR -8 0
+Delay 23 ms
+MoveR -8 0
+Delay 23 ms
+MoveR -4 4
+Delay 23 ms
+MoveR -4 4
+Delay 23 ms
+MoveR -4 4
+Delay 23 ms
+MoveR -4 4
+Delay 23 ms
+MoveR -4 4
+Delay 23 ms
+MoveR -8 0
+Delay 23 ms
+MoveR -8 0
+Delay 23 ms
+MoveR -8 0
+Delay 23 ms
+MoveR -8 0
+Delay 23 ms
+MoveR -8 0
+Delay 23 ms
+MoveR -8 4
+Delay 23 ms
+MoveR -8 4
+Delay 23 ms
+MoveR -8 4
+Delay 23 ms
+MoveR -8 4
+Delay 23 ms
+MoveR -8 4
+Delay 23 ms
+MoveR -8 0
+Delay 23 ms
+MoveR -8 0
+Delay 23 ms
+MoveR -4 0
+Delay 23 ms
+MoveR -4 0
+Delay 23 ms
+MoveR -4 0
+Delay 23 ms
+MoveR -4 4
+Delay 23 ms
+MoveR -4 4
+Delay 23 ms
+MoveR -4 4
+Delay 23 ms
+MoveR -4 4
+Delay 23 ms
+MoveR -4 4
+Delay 23 ms
+MoveR -8 0
+Delay 23 ms
+MoveR -8 0
+Delay 23 ms
+MoveR -8 0
+Delay 23 ms
+MoveR -8 0
+Delay 23 ms
+MoveR -8 0
+Delay 23 ms
+MoveR -4 -4
+Delay 23 ms
+MoveR -4 -4
+Delay 23 ms
+MoveR -4 0
+Delay 23 ms
+MoveR -4 0
+Delay 23 ms
+MoveR -4 0
+Delay 23 ms
+MoveR -4 -4
+Delay 23 ms
+MoveR -4 -4
+Delay 23 ms
+MoveR -4 0
+Delay 23 ms
+MoveR -4 0
+Delay 23 ms
+MoveR -4 0
+Delay 23 ms
+MoveR 4 4
+Delay 23 ms
+MoveR 4 4
+Delay 23 ms
+MoveR 4 4
+Delay 23 ms
+MoveR 4 4
+Delay 23 ms
+MoveR 4 4
+Delay 23 ms
+MoveR 8 8
+Delay 23 ms
+MoveR 8 8
+Delay 23 ms
+MoveR 8 8
+Delay 23 ms
+MoveR 8 8
+Delay 23 ms
+LeftUp 1
+Delay 321 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

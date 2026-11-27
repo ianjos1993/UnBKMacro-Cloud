@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для быстрого использования предметов в колесе действий (1,2,3,4,5,6,7,8,9)
+данный макрос настроен на использование предмета в слоте 3 очень прост и удобен в использовании (не забудьте назначить предмет на цифру 3)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+Delay 100 ms
+KeyDown 32 1
+Delay 100 ms
+KeyUp 32 1
+Delay 64
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

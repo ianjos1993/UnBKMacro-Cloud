@@ -1,0 +1,172 @@
+<Root>
+  <DefaultMacro>
+    <Major>Geese f1+2 launch combo</Major>
+    <Description>Макрос позволяет выполнять комбо с f1+2 (no max).
+Видео демонстрации работы макроса: https://youtu.be/BBXeCRngRkg
+
+Гис Ховард (Geese Howard) — играбельный гостевой персонаж в Tekken. Он происходит из серии Fatal Fury, созданной SNK, где он действует как главный антагонист серии. Также помимо Fatal Fury этот персонаж появлялся и в серии KOF, где достаточно хорошо закрепился. Гис - один из немногих персонажей, которые могут хватать лежащих на земле противников. У него также есть лоу-кик, отличающийся от большинства других персонажей, который имеет больший диапазон, чем стандартный лоу-кик.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+
+Тестирование макроса проводились на последнем патче игры на 28.03.2023 (5.01 патч)
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#geesetekken7 #tekken7 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 39 ms
+KeyDown 75 1
+Delay 208 ms
+KeyUp 75 1
+Delay 48 ms
+KeyUp 7 1
+Delay 495 ms
+KeyDown 74 1
+Delay 143 ms
+KeyUp 74 1
+Delay 15 ms
+KeyDown 7 1
+Delay 104 ms
+KeyDown 76 1
+Delay 200 ms
+KeyUp 7 1
+Delay 48 ms
+KeyUp 76 1
+Delay 151 ms
+KeyDown 4 1
+Delay 208 ms
+KeyDown 77 1
+Delay 103 ms
+KeyUp 77 1
+Delay 95 ms
+KeyDown 77 1
+Delay 80 ms
+KeyUp 77 1
+Delay 95 ms
+KeyDown 77 1
+Delay 64 ms
+KeyUp 77 1
+Delay 96 ms
+KeyDown 77 1
+Delay 63 ms
+KeyUp 77 1
+Delay 88 ms
+KeyDown 77 1
+Delay 48 ms
+KeyUp 77 1
+Delay 79 ms
+KeyDown 77 1
+Delay 103 ms
+KeyUp 4 1
+Delay 0 ms
+KeyUp 77 1
+Delay 111 ms
+KeyDown 7 1
+Delay 95 ms
+KeyUp 7 1
+Delay 96 ms
+KeyDown 7 1
+Delay 71 ms
+KeyUp 7 1
+Delay 95 ms
+KeyDown 7 1
+Delay 72 ms
+KeyUp 7 1
+Delay 111 ms
+KeyDown 7 1
+Delay 47 ms
+KeyUp 7 1
+Delay 72 ms
+KeyDown 7 1
+Delay 223 ms
+KeyUp 7 1
+Delay 24 ms
+KeyDown 74 1
+Delay 88 ms
+KeyUp 74 1
+Delay 0 ms
+KeyDown 7 1
+Delay 87 ms
+KeyDown 73 1
+Delay 143 ms
+KeyUp 7 1
+Delay 32 ms
+KeyUp 73 1
+Delay 71 ms
+KeyDown 22 1
+Delay 95 ms
+KeyDown 4 1
+Delay 56 ms
+KeyUp 22 1
+Delay 56 ms
+KeyDown 76 1
+Delay 47 ms
+KeyUp 4 1
+Delay 88 ms
+KeyUp 76 1
+Delay 959 ms
+KeyDown 7 1
+Delay 63 ms
+KeyUp 7 1
+Delay 127 ms
+KeyDown 7 1
+Delay 63 ms
+KeyUp 7 1
+Delay 112 ms
+KeyDown 73 1
+Delay 135 ms
+KeyUp 73 1
+Delay 256 ms
+KeyDown 73 1
+Delay 143 ms
+KeyUp 73 1
+Delay 223 ms
+KeyDown 22 1
+Delay 48 ms
+KeyDown 77 1
+Delay 135 ms
+KeyUp 22 1
+Delay 7 ms
+KeyUp 77 1
+Delay 40 ms
+KeyDown 7 1
+Delay 72 ms
+KeyDown 73 1
+Delay 151 ms
+KeyUp 7 1
+Delay 32 ms
+KeyUp 73 1
+Delay 119 ms
+KeyDown 22 1
+Delay 72 ms
+KeyDown 7 1
+Delay 71 ms
+KeyUp 22 1
+Delay 40 ms
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 7</Software>
+  </DefaultMacro>
+</Root>

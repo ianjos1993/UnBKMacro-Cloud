@@ -1,0 +1,54 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный баг на увеличение скорости бега при прохождении реликвий.
+Быстрый бег стоит на SHIFT.
+В режиме работы макроса поставить до повторного нажатия 
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+
+
+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 64
+KeyUp 225 1
+Delay 64
+KeyDown 224 1
+Delay 64
+KeyUp 224 1
+Delay 64
+KeyDown 229 1
+Delay 64
+KeyUp 229 1
+Delay 64
+KeyDown 228 1
+Delay 64
+KeyUp 228 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 229 1
+Delay 64
+KeyUp 229 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Mortal Kombat 11</Software>
+  </DefaultMacro>
+</Root>

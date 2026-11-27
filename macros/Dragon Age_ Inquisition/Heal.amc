@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major>Авто хил</Major>
+    <Description>Скрипт автоматически хилит при понижении здоровья меньше 50% разрешение: В Окне 1920 на 1080 Гамма корекция 0.50 </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 1 0 112,4,0 255,255,255 1 218 140 988 941 1 0
+GoColor 1 0 83,2,0 255,255,255 1 218 139 993 942 1 0
+GoColor 1 0 92,3,0 255,255,255 1 221 147 999 934 1 0
+KeyDown 38 1
+Delay 64
+KeyUp 38 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Dragon Age: Inquisition</Software>
+  </DefaultMacro>
+</Root>

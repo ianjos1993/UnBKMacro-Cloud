@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>В данном макросе вы можете повышать количество очков мастерства меча в статах. Макрос придусмотрен только для мечей имеющих способности на клавиши "Q" "E". А вот мечи "Suzaku And Kitetsu and Mugenji" "Beast Hammer" и "Gryphon" имеют 3 способности или же просто не имеют второй способности.
+Чтобы использовать макрос, на виртуальной клавиатуре в Keyran требуется назначить на любую клавишу макрос. Если мы выбрали нашу кнопку нажимаем по ней правой кнопкой мыши и назначаем на неё макрос "Фарм Меч A One Piece Game". Всё готово. Осталось активировать Keyran и нажать на нашу назначенную кнопку в игре с мечом. Советую включить "Armament Haki" для паралельного фарма очков мастерства хаков.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 50
+KeyUp 20 1
+Delay 50
+KeyDown 8 1
+Delay 50
+KeyUp 8 1
+Delay 50</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

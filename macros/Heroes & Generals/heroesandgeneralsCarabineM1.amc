@@ -1,0 +1,64 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Файл для игры Heroes And Generals WW2 на Carabine M1 без прицела на снижение отдачи. На моём карабине макс. скорострельность и с ней макрос работает без задержек. Макрос контролирует отдачу очень хорошо, но только по оси Y, но отдача по этой оси не очень большая и это некритично. Макрос включается по нажатию левой кнопки мыши. Разрешение для макроса 1920x1080, DPI 1600, тестил и с другим ничего не менялось.</Description>
+    <Comment>Мне макрос, если честно, нравится. Он очень хорошо убирает вертикальную отдачу, но сразу скажу, если вы раньше всегда играли без макросов, то вам, наверное, по началу, будет довольно сложно с ним играть, так-как привычка контролить отдачу очень быстро не отключится и придётся привыкать. </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1 ms
+LeftDown 1
+Delay 3 ms
+MoveR 0 1
+Delay 2 ms
+MoveR 0 1
+Delay 2 ms
+MoveR 0 1
+Delay 2 ms
+MoveR 0 1
+Delay 1 ms
+Delay 3 ms
+MoveR 0 1
+Delay 1 ms
+MoveR 0 1
+Delay 3 ms
+MoveR 0 1
+Delay 2 ms
+MoveR 0 1
+Delay 2 ms
+MoveR 0 1
+Delay 2 ms
+MoveR 0 1
+Delay 2 ms
+MoveR 0 1
+Delay 1 ms
+MoveR 0 1
+Delay 1 ms
+Delay 1 ms
+MoveR 0 1
+Delay 1 ms
+MoveR 0 1
+Delay 4 ms
+MoveR 0 1
+Delay 1 ms
+MoveR 0 1
+Delay 1 ms
+Delay 2 ms
+MoveR 0 1
+Delay 3 ms
+MoveR 0 1
+Delay 4 ms
+MoveR 0 1
+Delay 6 ms
+MoveR -1 1
+Delay 31 ms
+LeftUp 1
+MoveR 0 1</Syntax>
+    </KeyDown>
+    <Software>Heroes And Generals</Software>
+  </DefaultMacro>
+</Root>

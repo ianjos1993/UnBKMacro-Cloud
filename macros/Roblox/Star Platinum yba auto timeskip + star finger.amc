@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос делает time skip в воздух и сразу же юзает starfinger, лучше находится рядом с челом чтобы точно попасть, бинды я оставил стандартными
+Если что, изменить задержку между таймскипом и стар фингером можно под свой пинг в милисекундах, с запасом в 10-20 милисекунд 
+
+Разрешение экрана 1920 на 1080
+фуллскрин обязателен
+шифтлок так-же надо включить</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR 0 0
+Delay 1 ms
+MoveR -3 -1000
+Delay 1 ms
+KeyDown 29 1
+Delay 1 ms
+KeyUp 29 1
+Delay 300 ms
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 1 ms
+MoveR 7 432
+Delay 250 ms
+KeyDown 224 1
+Delay 1 ms
+KeyUp 224 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

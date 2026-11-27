@@ -1,0 +1,55 @@
+<Root>
+  <DefaultMacro>
+    <Major>nathonks</Major>
+    <Description>Macro by nathonks
+FOV any, Sensitivity any, DPI any
+
+This is for Rust ONLY and easy to use, you just have to bind the script to a key then you are anti-afk</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 64 ms
+MoveR 6 0
+Delay 64 64 ms
+MoveR 12 0
+Delay 64 64 ms
+MoveR 18 0
+Delay 64 64 ms
+MoveR 24 0
+Delay 64 64 ms
+KeyDown 44 1
+Delay 64 64 ms
+KeyUp 44 1
+Delay 64 64 ms
+MoveR 30 0
+Delay 64 64 ms
+MoveR 36 0
+Delay 64 64 ms
+MoveR 42 0
+Delay 64 64 ms
+MoveR 48 0
+Delay 64 64 ms
+MoveR 54 0
+Delay 64 64 ms
+KeyDown 224 1
+Delay 64 64 ms
+KeyUp 224 1
+Delay 64 64 ms
+MoveR 60 0
+Delay 64 64 ms
+MoveR 66 0
+Delay 64 64 ms
+MoveR 72 0
+Delay 64 64 ms
+RightUp 1
+Delay 64 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Барабан кликер для синей стороны. 
+Кликер работает по зажатию клавиши и делает dump по синей стороне ТРИ раза, после чего снова начинает цикл. 
+Полезная функция для карт от 2х и более звёзд.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+KeyUp 29 1
+KeyDown 29 1
+KeyUp 29 1
+KeyDown 29 1
+KeyUp 29 1</Syntax>
+    </KeyDown>
+    <Software>Osu!</Software>
+  </DefaultMacro>
+</Root>

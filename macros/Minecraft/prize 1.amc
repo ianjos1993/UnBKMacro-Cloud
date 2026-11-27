@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для копания 17 шахты / землянки на призоне VimeWorld, почти не заметно что копает не игрок, работает на разрешении экрана 1600х900</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+KeyDown 7 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyDown 26 1
+Delay 64
+MoveR 2 0
+Delay 1 ms
+GoWhile 9 1600
+GoWhile 9 86400000</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

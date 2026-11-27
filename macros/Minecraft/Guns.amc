@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для того что бы стрелять из пушек и прочего,также можно им кидать снежки и прочее,также можно использывать как автомотыгу и макрос можно использывать для всего что нужно нажимать ПКМ</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 1 ms
+KeyUp 32 1
+Delay 1 ms
+RightDown 1
+Delay 11 ms
+RightUp 1
+Delay 11 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

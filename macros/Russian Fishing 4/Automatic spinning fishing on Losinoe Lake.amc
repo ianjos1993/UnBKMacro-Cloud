@@ -1,0 +1,633 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>1, Разрешение экрана: 1080 на 1920.
+2, Чисто автоматическая ловля на спиннинг, я новичок, строго не судите. Тестировал на озере Лосиное на координатах 60-93, клипса 40, 100-94 днём более-менее, на 55-90 каждый второй заброс с уловом.
+
+На цифру два сделайте самую дешёвую еду, типа хлеб, огурец, штук 500. До включения макроса сделайте так, чтобы пикер был чуть выше противоположного берега. Спиннинг, который у меня был, напишу чуть ниже, но думаю, макрос можно ставить на любой спиннинг, у меня слабый был.
+
+Вот что у меня было при тестировании:
+Катушка: Express Fishing Spark 2 3000S, Размер: 3000, Сила фр. тормоза: 3,2 кг, Ёмкость шпули: 0,19 мм.
+
+Леска: Syberia Indiana - 8LB 100M Trns, Длина: 85 м, Диаметр: 0,19 мм, Прочность: 3,5 кг.
+
+Блесна-вращалка: Zeiman Spiker #2 002 C, Тип: Блесна-вращалка, Масса: 3,53 г, Длина: 3 см.
+
+Спиннинг: Express Fishing Corona S66MH, Спиннинг, Чувствительность 3/10, Строй: Сверхбыстрый, Жёсткость 7/10, Мощность: Среднетяжёлое, Тест: 10 - 30 г, Длина: 2 м, Прочность: 4,2 кг, Масса: 180 г.
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 21 ms
+GoWhile 1 1000
+KeyUp 68 1
+Delay 55 ms
+KeyUp 225 1
+Delay 2672 ms
+KeyDown 225 1
+Delay 45 ms
+LeftDown 1
+Delay 209 ms
+LeftUp 1
+Delay 601 ms
+KeyUp 225 1
+Delay 573 ms
+MoveTo 959 540
+Delay 16 ms
+MoveTo 960 540
+Delay 9 ms
+MoveTo 960 540
+Delay 8 ms
+MoveTo 960 540
+Delay 4 ms
+MoveTo 959 540
+Delay 7 ms
+MoveTo 960 540
+Delay 9 ms
+MoveTo 960 540
+Delay 7 ms
+MoveTo 959 540
+Delay 8 ms
+MoveTo 960 540
+Delay 8 ms
+MoveTo 959 540
+Delay 8 ms
+MoveTo 959 540
+Delay 5 ms
+MoveTo 960 539
+Delay 9 ms
+MoveTo 960 540
+Delay 8 ms
+MoveTo 959 540
+Delay 8 ms
+MoveTo 959 539
+Delay 53 ms
+MoveTo 959 540
+Delay 1050 ms
+MoveTo 960 539
+Delay 9 ms
+MoveTo 959 539
+Delay 9 ms
+MoveTo 960 539
+Delay 7 ms
+MoveTo 959 539
+Delay 9 ms
+MoveTo 960 539
+Delay 12 ms
+MoveTo 959 539
+Delay 16 ms
+MoveTo 960 539
+Delay 15 ms
+MoveTo 960 539
+Delay 7 ms
+MoveTo 960 539
+Delay 8 ms
+MoveTo 960 539
+Delay 9 ms
+MoveTo 960 539
+Delay 6 ms
+MoveTo 959 539
+Delay 7 ms
+MoveTo 959 539
+Delay 7 ms
+MoveTo 960 539
+Delay 105 ms
+MoveTo 959 539
+Delay 14 ms
+MoveTo 959 539
+Delay 51 ms
+MoveTo 959 540
+Delay 117 ms
+MoveTo 960 539
+Delay 14 ms
+MoveTo 960 539
+Delay 7 ms
+MoveTo 959 540
+Delay 7 ms
+MoveTo 960 540
+Delay 8 ms
+MoveTo 959 540
+Delay 9 ms
+MoveTo 960 539
+Delay 17 ms
+MoveTo 959 539
+Delay 6 ms
+MoveTo 959 540
+Delay 7 ms
+MoveTo 959 540
+Delay 9 ms
+MoveTo 959 540
+Delay 6 ms
+MoveTo 960 539
+Delay 7 ms
+MoveTo 959 540
+Delay 20 ms
+MoveTo 959 540
+Delay 7 ms
+MoveTo 960 539
+Delay 12 ms
+MoveTo 959 540
+Delay 7 ms
+MoveTo 959 540
+Delay 5 ms
+MoveTo 959 540
+Delay 18 ms
+MoveTo 959 540
+Delay 0 ms
+MoveTo 959 540
+Delay 13 ms
+MoveTo 959 539
+Delay 14 ms
+MoveTo 960 539
+Delay 5 ms
+MoveTo 959 540
+Delay 11 ms
+MoveTo 960 539
+Delay 14 ms
+MoveTo 959 539
+Delay 12 ms
+MoveTo 960 539
+Delay 7 ms
+MoveTo 959 539
+Delay 7 ms
+MoveTo 960 539
+Delay 16 ms
+MoveTo 959 539
+Delay 8 ms
+MoveTo 959 540
+Delay 6 ms
+MoveTo 959 540
+Delay 7 ms
+MoveTo 959 540
+Delay 18 ms
+MoveTo 960 539
+Delay 1383 ms
+LeftDown 1
+Delay 195 ms
+LeftUp 1
+Delay 1148 ms
+KeyDown 225 1
+Delay 365 ms
+LeftDown 1
+Delay 141 ms
+LeftUp 1
+Delay 243 ms
+LeftDown 1
+Delay 148 ms
+LeftUp 1
+Delay 625 ms
+LeftDown 1
+Delay 142 ms
+LeftUp 1
+Delay 142 ms
+LeftDown 1
+Delay 105 ms
+LeftUp 1
+Delay 121 ms
+LeftDown 1
+Delay 119 ms
+LeftUp 1
+Delay 980 ms
+LeftDown 1
+Delay 149 ms
+LeftUp 1
+Delay 112 ms
+LeftDown 1
+Delay 159 ms
+LeftUp 1
+Delay 669 ms
+LeftDown 1
+Delay 157 ms
+LeftUp 1
+Delay 53 ms
+LeftDown 1
+Delay 146 ms
+LeftUp 1
+Delay 154 ms
+LeftDown 1
+Delay 134 ms
+LeftUp 1
+Delay 803 ms
+LeftDown 1
+Delay 145 ms
+LeftUp 1
+Delay 304 ms
+LeftDown 1
+Delay 127 ms
+LeftUp 1
+Delay 1131 ms
+LeftDown 1
+Delay 131 ms
+LeftUp 1
+Delay 111 ms
+LeftDown 1
+Delay 126 ms
+LeftUp 1
+Delay 232 ms
+LeftDown 1
+Delay 122 ms
+LeftUp 1
+Delay 110 ms
+LeftDown 1
+Delay 132 ms
+LeftUp 1
+Delay 755 ms
+LeftDown 1
+Delay 114 ms
+LeftUp 1
+Delay 118 ms
+LeftDown 1
+Delay 128 ms
+LeftUp 1
+Delay 130 ms
+LeftDown 1
+Delay 151 ms
+LeftUp 1
+Delay 656 ms
+LeftDown 1
+Delay 126 ms
+LeftUp 1
+Delay 87 ms
+LeftDown 1
+Delay 141 ms
+LeftUp 1
+Delay 150 ms
+LeftDown 1
+Delay 151 ms
+LeftUp 1
+Delay 1160 ms
+LeftDown 1
+Delay 153 ms
+LeftUp 1
+Delay 116 ms
+LeftDown 1
+Delay 133 ms
+LeftUp 1
+Delay 427 ms
+LeftDown 1
+Delay 46 ms
+MoveTo 960 540
+Delay 104 ms
+LeftUp 1
+Delay 156 ms
+LeftDown 1
+Delay 149 ms
+LeftUp 1
+Delay 790 ms
+LeftDown 1
+Delay 126 ms
+LeftUp 1
+Delay 114 ms
+LeftDown 1
+Delay 162 ms
+LeftUp 1
+Delay 119 ms
+LeftDown 1
+Delay 134 ms
+LeftUp 1
+Delay 688 ms
+LeftDown 1
+Delay 149 ms
+LeftUp 1
+Delay 83 ms
+LeftDown 1
+Delay 133 ms
+LeftUp 1
+Delay 184 ms
+LeftDown 1
+Delay 129 ms
+LeftUp 1
+Delay 977 ms
+LeftDown 1
+Delay 149 ms
+LeftUp 1
+Delay 144 ms
+LeftDown 1
+Delay 135 ms
+LeftUp 1
+Delay 759 ms
+LeftDown 1
+Delay 150 ms
+LeftUp 1
+Delay 82 ms
+LeftDown 1
+Delay 143 ms
+LeftUp 1
+Delay 225 ms
+LeftDown 1
+Delay 132 ms
+LeftUp 1
+Delay 129 ms
+LeftDown 1
+Delay 149 ms
+LeftUp 1
+Delay 709 ms
+LeftDown 1
+Delay 125 ms
+LeftUp 1
+Delay 120 ms
+LeftDown 1
+Delay 129 ms
+LeftUp 1
+Delay 114 ms
+LeftDown 1
+Delay 108 ms
+LeftUp 1
+Delay 312 ms
+LeftDown 1
+Delay 123 ms
+LeftUp 1
+Delay 100 ms
+LeftDown 1
+Delay 135 ms
+LeftUp 1
+Delay 117 ms
+LeftDown 1
+Delay 151 ms
+LeftUp 1
+Delay 1132 ms
+LeftDown 1
+Delay 136 ms
+LeftUp 1
+Delay 275 ms
+LeftDown 1
+Delay 148 ms
+LeftUp 1
+Delay 533 ms
+LeftDown 1
+Delay 127 ms
+LeftUp 1
+Delay 73 ms
+LeftDown 1
+Delay 169 ms
+LeftUp 1
+Delay 231 ms
+LeftDown 1
+Delay 109 ms
+LeftUp 1
+Delay 133 ms
+LeftDown 1
+Delay 134 ms
+LeftUp 1
+Delay 861 ms
+LeftDown 1
+Delay 118 ms
+LeftUp 1
+Delay 118 ms
+LeftDown 1
+Delay 132 ms
+LeftUp 1
+Delay 182 ms
+LeftDown 1
+Delay 143 ms
+LeftUp 1
+Delay 478 ms
+LeftDown 1
+Delay 141 ms
+LeftUp 1
+Delay 298 ms
+LeftDown 1
+Delay 122 ms
+LeftUp 1
+Delay 107 ms
+LeftDown 1
+Delay 135 ms
+LeftUp 1
+Delay 846 ms
+LeftDown 1
+Delay 132 ms
+LeftUp 1
+Delay 197 ms
+LeftDown 1
+Delay 130 ms
+LeftUp 1
+Delay 1082 ms
+LeftDown 1
+Delay 151 ms
+LeftUp 1
+Delay 90 ms
+LeftDown 1
+Delay 154 ms
+LeftUp 1
+Delay 606 ms
+LeftDown 1
+Delay 126 ms
+LeftUp 1
+Delay 94 ms
+LeftDown 1
+Delay 131 ms
+LeftUp 1
+Delay 235 ms
+LeftDown 1
+Delay 109 ms
+LeftUp 1
+Delay 114 ms
+LeftDown 1
+Delay 132 ms
+LeftUp 1
+Delay 795 ms
+LeftDown 1
+Delay 125 ms
+LeftUp 1
+Delay 78 ms
+LeftDown 1
+Delay 125 ms
+LeftUp 1
+Delay 95 ms
+LeftDown 1
+Delay 141 ms
+LeftUp 1
+Delay 268 ms
+LeftDown 1
+Delay 115 ms
+LeftUp 1
+Delay 108 ms
+LeftDown 1
+Delay 113 ms
+LeftUp 1
+Delay 69 ms
+LeftDown 1
+Delay 135 ms
+LeftUp 1
+Delay 824 ms
+LeftDown 1
+Delay 132 ms
+LeftUp 1
+Delay 130 ms
+LeftDown 1
+Delay 135 ms
+LeftUp 1
+Delay 655 ms
+LeftDown 1
+Delay 152 ms
+LeftUp 1
+Delay 120 ms
+LeftDown 1
+Delay 155 ms
+LeftUp 1
+Delay 1295 ms
+LeftDown 1
+Delay 137 ms
+LeftUp 1
+Delay 113 ms
+LeftDown 1
+Delay 179 ms
+LeftUp 1
+Delay 88 ms
+LeftDown 1
+Delay 131 ms
+LeftUp 1
+Delay 533 ms
+LeftDown 1
+Delay 129 ms
+LeftUp 1
+Delay 73 ms
+LeftDown 1
+Delay 132 ms
+LeftUp 1
+Delay 121 ms
+LeftDown 1
+Delay 160 ms
+LeftUp 1
+Delay 838 ms
+LeftDown 1
+Delay 177 ms
+LeftUp 1
+Delay 167 ms
+LeftDown 1
+Delay 160 ms
+LeftUp 1
+Delay 600 ms
+LeftDown 1
+Delay 130 ms
+LeftUp 1
+Delay 228 ms
+LeftDown 1
+Delay 160 ms
+LeftUp 1
+Delay 1011 ms
+LeftDown 1
+Delay 103 ms
+LeftUp 1
+Delay 100 ms
+LeftDown 1
+Delay 143 ms
+LeftUp 1
+Delay 148 ms
+LeftDown 1
+Delay 154 ms
+LeftUp 1
+Delay 324 ms
+LeftDown 1
+Delay 117 ms
+LeftUp 1
+Delay 92 ms
+LeftDown 1
+Delay 134 ms
+LeftUp 1
+Delay 169 ms
+LeftDown 1
+Delay 182 ms
+LeftUp 1
+Delay 1003 ms
+LeftDown 1
+Delay 130 ms
+LeftUp 1
+Delay 279 ms
+LeftDown 1
+Delay 163 ms
+LeftUp 1
+Delay 627 ms
+LeftDown 1
+Delay 159 ms
+LeftUp 1
+Delay 112 ms
+LeftDown 1
+Delay 187 ms
+LeftUp 1
+Delay 404 ms
+LeftDown 1
+Delay 138 ms
+LeftUp 1
+Delay 142 ms
+LeftDown 1
+Delay 176 ms
+LeftUp 1
+Delay 1025 ms
+LeftDown 1
+Delay 120 ms
+LeftUp 1
+Delay 101 ms
+LeftDown 1
+Delay 133 ms
+LeftUp 1
+Delay 110 ms
+LeftDown 1
+Delay 132 ms
+LeftUp 1
+Delay 256 ms
+LeftDown 1
+Delay 136 ms
+LeftUp 1
+Delay 84 ms
+LeftDown 1
+Delay 144 ms
+LeftUp 1
+Delay 144 ms
+LeftDown 1
+Delay 126 ms
+LeftUp 1
+Delay 992 ms
+LeftDown 1
+Delay 3942 ms
+MoveTo 960 539
+Delay 14 ms
+MoveTo 959 539
+Delay 15 ms
+MoveTo 960 539
+Delay 26 ms
+MoveTo 960 540
+Delay 13 ms
+MoveTo 960 540
+Delay 4 ms
+MoveTo 960 540
+Delay 177 ms
+MoveTo 960 540
+Delay 77 ms
+MoveTo 960 539
+Delay 7304 ms
+KeyUp 225 1
+Delay 34 ms
+LeftUp 1
+Delay 1541 ms
+KeyDown 44 1
+Delay 128 ms
+KeyUp 44 1
+Delay 5424 ms
+KeyDown 44 1
+Delay 175 ms
+KeyUp 44 1
+Delay 3152 ms
+KeyDown 44 1
+Delay 151 ms
+KeyUp 44 1
+Delay 768 ms
+MoveTo 960 540
+Delay 7 ms
+MoveTo 960 539
+Delay 3168 ms
+KeyDown 225 1
+Delay 231 ms
+KeyDown 31 1
+KeyUp 31 1
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Русская Рыбалка 4</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Это скрипт на легионку
+Порядок выполнения действий:
+1. Активирует певый скилл
+2. Активирует первый предмет(Буква 'Z')
+3. Активирует второй предмет (Буква 'X', там должен быть блинк)
+Эти дойствий выполняются за 0.5с., так что ваша цель от вас не убежит : )</Description>
+    <Comment>Можно премиум?</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 150 ms
+KeyDown 29 1
+Delay 100 ms
+KeyUp 29 1
+Delay 100 ms
+KeyDown 27 1
+Delay 64
+KeyUp 27 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Dota2</Software>
+  </DefaultMacro>
+</Root>

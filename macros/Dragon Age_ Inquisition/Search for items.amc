@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major>Поиск предметов Авто</Major>
+    <Description>Автоматически ищет предметы, на англ букву V или русскую М каждые 1.5 сек, размер и разрешения экрана можно поставить любые не как не влияет на процесс</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 25 1
+Delay 64
+KeyUp 25 1
+Delay 1500 ms</Syntax>
+    </KeyDown>
+    <Software>Dragon Age: Inquisition</Software>
+  </DefaultMacro>
+</Root>

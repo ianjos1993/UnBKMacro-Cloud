@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Лучший макрос для автоматического сбора льна и хлока на ферме Аризона рп .Была тщательно отрегулированна задержка при сборе урожая.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 226 1
+Delay 52 ms
+KeyUp 226 1
+Delay 2250 ms
+KeyDown 44 1
+Delay 72 ms
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

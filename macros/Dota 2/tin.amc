@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>Макрос на тинкера</Major>
+    <Description>макрос на тинкера 4 клавиши нажимаются одновременно к примеру пробел хекс 3 етернал x дагон v шива не безопасно на выском рейтинге</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 1 ms
+KeyUp 44 1
+Delay 1 ms
+KeyDown 32 1
+Delay 1 ms
+KeyUp 32 1
+Delay 1 ms
+KeyDown 27 1
+Delay 1 ms
+KeyUp 27 1
+Delay 1 ms
+KeyDown 25 1
+Delay 1 ms
+KeyUp 25 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

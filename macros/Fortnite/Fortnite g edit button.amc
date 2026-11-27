@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>Leave a review if somethings wrong!</Major>
+    <Description>a normal macro for Fortnite. Insructions: First, You need to download the macro and then set it to a bind on your keyboard on the Keyran keyboard"  In-game: (Before doing this you need to do this in Creative or you might get banned!) First, you need to go to settings and make sure your edit bind is g. Next, you need to check that your second select bind is 7. Finally, you need to check that your reset building is g." (otherwise the macro wont work)                                                                      
+PS: if the macro dont work then try to unbind the reset building or check that he macros are actually on!
+
+
+And remember do this in creative or you might get banned!</Description>
+    <Comment>Please make sure to tell me if anything went wrong with the Macros!</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 10 ms
+KeyDown 10 1
+Delay 10 ms
+KeyUp 10 1
+Delay 10 ms
+KeyDown 36 1
+Delay 10 ms
+KeyUp 36 1
+Delay 10 ms
+KeyDown 10 1
+Delay 10 ms
+KeyUp 10 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

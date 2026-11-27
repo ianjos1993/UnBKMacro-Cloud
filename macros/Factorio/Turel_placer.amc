@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Ставит турель и заряжает ее боеприпасами.
+
+Как реализовать?
+1 слот - турель
+2 слот - боеприпасы
+
+Прожимаем 1 слот и после этого бинд.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+KeyDown 31 1
+Delay 10 ms
+KeyUp 31 1
+Delay 10 ms
+KeyDown 224 1
+Delay 10 ms
+RightDown 1
+Delay 10 ms
+RightUp 1
+Delay 10 ms
+KeyUp 224 1
+Delay 10 ms
+KeyDown 30 1
+Delay 10 ms
+KeyUp 30 1</Syntax>
+    </KeyDown>
+    <Software>Factorio</Software>
+  </DefaultMacro>
+</Root>

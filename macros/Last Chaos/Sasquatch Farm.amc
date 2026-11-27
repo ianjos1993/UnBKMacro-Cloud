@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major>farm sp for with sorcerer summons</Major>
+    <Description>With this macro go to farm sp, the macro is very easy and no need more for this farm, need only weapon +15 and some summons like the water and stone ones. use 800x600 resolucion for the cursor movement, that automatizates the summons attack mode</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 3000 ms
+KeyUp 43 1
+KeyDown 224 1
+KeyDown 30 1
+Delay 3000 ms
+KeyUp 30 1
+Delay 100 ms
+KeyDown 31 1
+KeyUp 31 1
+KeyDown 32 1
+KeyUp 32 1
+Delay 64
+MoveR -206 -375
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+MoveR -208 -342
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Last chaos</Software>
+  </DefaultMacro>
+</Root>

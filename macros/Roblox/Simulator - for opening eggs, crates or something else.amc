@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Для открытия яиц или ящиков, подходит для любых симуляторов открывания или кликания.
+
+Чтоб открывалось 3 яйца (если у вас есть геймпас или оно и так бесплатное) то нужно немного пошариться в настройках макроса и поменять вместо Е зделать R.
+
+Надеюсь зделал кому-то полезно, и удачной игры!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 500
+KeyUp 8 1
+Delay 500
+KeyDown 8 1
+Delay 500
+KeyUp 8 1
+Delay 500
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

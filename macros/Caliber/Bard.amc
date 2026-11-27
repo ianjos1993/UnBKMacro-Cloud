@@ -1,0 +1,49 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>
+Сглаживает отдачу в прицеле, но все же не большая отдача остается, от вас требуется поставить на любую для вас удобную клавишу макрос и вперед в бой :D</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax>rm</Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 0 ms
+MoveR 0 1
+Delay 15 ms
+MoveR 0 2
+Delay 15 ms
+MoveR 0 1
+Delay 15 ms
+MoveR 0 2
+Delay 15 ms
+MoveR 0 1
+Delay 15 ms
+MoveR 0 2
+Delay 15 ms
+MoveR 0 1
+Delay 15 ms
+MoveR 0 2
+Delay 15 ms
+MoveR 0 1
+Delay 15 ms
+MoveR 0 2
+Delay 15 ms
+MoveR 0 1
+Delay 15 ms
+MoveR 0 2
+Delay 15 ms
+MoveR 0 1
+Delay 15 ms
+MoveR 0 2
+Delay 15 ms
+Delay 0 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Caliber</Software>
+  </DefaultMacro>
+</Root>

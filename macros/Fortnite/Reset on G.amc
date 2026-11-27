@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>fortnite</Major>
+    <Description>reset on bind g. bind in game and on keyran on G. when binded go in game and when u tap G it will automatically reset building to normal</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1 ms
+KeyDown 10 1
+Delay 1 ms
+KeyUp 10 1
+Delay 1 ms
+KeyDown 10 1
+Delay 1 ms
+KeyUp 10 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

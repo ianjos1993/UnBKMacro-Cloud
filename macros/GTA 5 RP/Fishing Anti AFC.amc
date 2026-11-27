@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Тот же самый макрос для рыбалки на GrandRP Ставите кнопку нажимаете и макрос делает все за вас зажимая и отпуская Е так же можно работать на каменоломне + антиАФК за счет того что макрос иногда ходит </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 5950 ms
+KeyUp 8 1
+Delay 6200 ms
+KeyDown 8 1
+Delay 5950 ms
+KeyUp 8 1
+Delay 6200 ms
+KeyDown 8 1
+Delay 5950 ms
+KeyUp 8 1
+Delay 6200 ms</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

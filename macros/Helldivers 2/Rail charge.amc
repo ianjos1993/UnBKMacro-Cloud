@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major>Readtext</Major>
+    <Description>Зарядка рельсатрона на 2780 мсек. С перезарядкой.  Назначте на доп клавишу мыши.  Больше 2800 мсек  бывают редкие взрывы (возможно из за пинга)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 2780 ms
+LeftUp 1
+Delay 64 ms
+KeyDown 21 1
+Delay 32 ms
+KeyUp 21 1</Syntax>
+    </KeyDown>
+    <Software>Helldivers 2</Software>
+  </DefaultMacro>
+</Root>

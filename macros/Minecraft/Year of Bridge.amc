@@ -1,0 +1,49 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос позволяет строиться в маинкрафте без шифта. Подходит под режимы bedwars,skywars и т.д. Макрос довольно лёгкий, но полезный. Макрос сделанн по тому-же принципу что и прошлый, однако работает лучше.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+MiddleDown 1
+RightDown 1
+RightDown 1
+Delay 30 ms
+KeyDown 4 1
+Delay 12
+KeyUp 4 1
+Delay 12
+KeyDown 7 1
+Delay 12
+KeyUp 7 1
+Delay 12
+KeyDown 4 1
+Delay 12
+KeyUp 4 1
+Delay 12
+KeyDown 7 1
+Delay 12
+KeyUp 7 1
+Delay 12
+KeyDown 4 1
+Delay 12
+KeyUp 4 1
+Delay 12
+KeyDown 7 1
+Delay 12
+KeyUp 7 1
+Delay 12
+RightUp 1
+MiddleUp 1
+RightUp 1
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

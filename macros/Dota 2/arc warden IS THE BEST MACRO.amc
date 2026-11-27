@@ -1,0 +1,123 @@
+<Root>
+  <DefaultMacro>
+    <Major>лучший макрос на арка</Major>
+    <Description>Классный прокаст на арк вардена сделайте как в инструкции остальное дело за малым
+
+ИНСТРУКЦИЯ ПЕРЕД ИГРАБЕЛЬНОСТЬЮ МАКРОСА
+
+-ОБЯЗАТЕЛЬНО ПОСТАВИТЬ ВСЕ НА БЫСТРОЕ ПРИМЕНЕНИЯ, А ИМЕННО: ВСЕ СКИЛЫ АРКА(Q,W,E,R);      КОЛЕСИКО ВЕРХ-ВНИЗ И КНОПКИ "c" и "space".
+-НА "2" ЗАБИНДИТЬ 1\2 ОТРЯД(какой угодно, главно на 2) В ТРЕНИРОВКЕ АРКА НАЖАТЬ НА УЛЬТУ И ВЫБРАТЬ ТОЛЬКО!!!! ЕГО И ЗАЖАТЬ "Ctrl" and "2" что бы по кнопке "2" был клон при касте
+
+-ПРЕДМЕТЫ конечно разные ситуации, но как по мне:
+"с"-етериал либо блинк или манта
+"колесико верх"- Hex(коса превращающая в свинюшку)
+"колесико вниз"- глепир(кувалда оцепления)
+___________________________________________________________________________________________
+
+-стараемся следить и понимать что происходит
+-купол(W)- обязательно под себя(успевайте мышкой навестись на противника если у вас куплен шард).
+</Description>
+    <Comment>( Если у вас есть какие-то вопросы по поводу макроса пишите в дискорде: @d1masssghoul )</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+WheelDown 1
+Delay 64
+WheelUp 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+KeyDown 31 1
+Delay 10 ms
+KeyUp 31 1
+Delay 64 ms
+WheelDown 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+WheelUp 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+WheelUp 1
+Delay 64
+WheelDown 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+WheelDown 1
+Delay 64
+WheelUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

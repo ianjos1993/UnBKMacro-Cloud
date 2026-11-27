@@ -1,0 +1,61 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос автоматически зажимает клавишу W, затем каждые 30 минут забирает колесо удачи
+Разрешение: 1920:1080
+Формат: 16:9, 16:10, Автоматически, 3:2, 4:3, 5:3, 5:4 (Любой)
+Режим работы: Выполнять до повторного нажатия, Использовать настройки макроса (До повторного нажатия)
+Мой Discord: reveal.legit</Description>
+    <Comment>by reveaL | Discord: reveal.legit</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 30 min
+KeyUp 26 1
+Delay 1 s
+KeyDown 67 1
+Delay 1 s
+KeyUp 67 1
+Delay 1 s
+MoveTo 1018 219
+Delay 1 s
+LeftDown 1
+Delay 1 s
+LeftUp 1
+Delay 1 s
+MoveTo 474 262
+Delay 1 s
+LeftDown 1
+Delay 1 s
+LeftUp 1
+Delay 1 s
+MoveTo 636 538
+Delay 1 s
+LeftDown 1
+Delay 1 s
+LeftUp 1
+Delay 1 s
+MoveTo 734 699
+Delay 1 s
+LeftDown 1
+Delay 1 s
+LeftUp 1
+Delay 1 s
+KeyDown 41 1
+Delay 1 s
+KeyUp 41 1
+Delay 1 s
+KeyDown 41 1
+Delay 1 s
+KeyUp 41 1
+Delay 1 s
+KeyDown 41 1</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

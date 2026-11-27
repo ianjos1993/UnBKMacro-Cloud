@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос позволит вам прыгать ОТ рампы без потери скорости на карте Drab и всех остальных где присутствуют рампы от которых можно отпрыгнуть на большой скорости.
+
+Способ применения: взлетите вверх со скоростью не меньше 85ед. (зависит от карты и расположения рампы)
+после направляйтесь в сторону рампы от которой хотите прыгнуть, для набора скорости в полете нажимайте кнопки A и D в зависимости от премещения мышки ( зажимайте A если крутите мышку влево, зажимайте D если крутите мышку вправо). Как только вы сблизились с рампой, в самый последний момент примените макрос нажав на выбранную вами кнопку.
+
+Чтобы макрос работал лучше поставьте его в режим работы "Выполнять один раз при нажатии"
+
+
+
+
+ENG:
+This macro will allow you to jump OFF the ramp without losing speed on the Drab map and all the others where there are ramps from which you can jump off at high speed.
+
+How to use: fly up at a speed of at least 85 units. (depends on the map and the location of the ramp)
+after that, head towards the ramp from which you want to jump, to set the speed in flight, press the buttons A and D depending on the position of the mouse (clamp A if you turn the mouse to the left, clamp D if you turn the mouse to the right). As soon as you get close to the ramp, apply the macro at the very last moment by clicking on the button you selected.
+
+To make the macro work better, set it to the "Run once when clicked" mode</Description>
+    <Comment>This macro will allow you to jump OFF the ramp without losing speed on the Drab map and all the others where there are ramps from which you can jump off at high speed.
+
+How to use: fly up at a speed of at least 85 units. (depends on the map and the location of the ramp)
+after that, head towards the ramp from which you want to jump, to set the speed in flight, press the buttons A and D depending on the position of the mouse (clamp A if you turn the mouse to the left, clamp D if you turn the mouse to the right). As soon as you get close to the ramp, apply the macro at the very last moment by clicking on the button you selected.
+
+To make the macro work better, set it to the "Run once when clicked" mode</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 69 1
+KeyUp 69 1
+KeyDown 69 1
+KeyUp 69 1
+KeyDown 44 1
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Spam F2 button for non targeting skill.
+This macro not works if you put Targeted Skill or Area Skill.
+For example you can use this macro to Grand Cross Skill in Paladin Job, Howling of Chulhoo and Hogogong Strike in Sprit Handler Skill.
+Note:
+Put your desired skill in F2 Shortcut.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 59 1
+Delay 64
+KeyUp 59 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Ragnarok</Software>
+  </DefaultMacro>
+</Root>

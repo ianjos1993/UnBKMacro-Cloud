@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>работает на разрешении 2560x1440 (при правильной настройке триггера работает и на других разрешениях) 
+это патч для моего скрипта (он НЕ должен считаться за отдельный скрипт)
+в нем произошли:
+1 колибровка (он работает без ошибок как это было в 1 версии)
+2 его можно настроить (чтобы настроить меняйте число задежки во 2 строке(чем оно меньше тем больше ошибок но больше скорость))
+3 немного поменял то как он работает (незначительно, но влияет на скорость работы скрипта)
+на этом всё он предназначен для АФК фарма т.е нажал на кнопку и пошёл пить чай а он за тебя проходит
+скорость работы ~4 ступеньки в секунду
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>varE = 0
+Delay 275 ms
+GoColor 5 2 255,255,243 225,244,176 2 873 906 329 156 1 0
+Goto 6
+varE = varE + 1
+if varE == 1 Goto 8
+Goto 13
+KeyDown 4 1
+Delay 2
+KeyUp 4 1
+Delay 5 ms
+Goto 18
+Delay 2 ms
+KeyDown 7 1
+Delay 15 ms
+KeyUp 7 1
+Delay 5 ms
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

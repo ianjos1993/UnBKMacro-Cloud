@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Копируешь текст который нужен, ставишь англ. раскладку и бот за тебя пишет в чат твой текст раз в 10-15 секунд и кликает по экрану. Подходит для режима pls donate. Работает на 1000 предложений, это примерно 3.5 часа.</Description>
+    <Comment>Привет</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 64
+KeyUp 56 1
+Delay 64
+KeyDown 224 1
+Delay 64
+KeyDown 25 1
+Delay 64
+KeyUp 224 1
+KeyUp 25 1
+KeyDown 88 1
+Delay 64
+Delay 64
+KeyUp 88 1
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 10 15 s
+GoWhile 1 1000</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

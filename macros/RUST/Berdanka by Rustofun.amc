@@ -1,0 +1,63 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>(Настройки)
+
+FOV 90 - Sensetivity 0.82
+
+Голографический - 0.75
+
+Самодельный - 0.60
+
+Лазерный - По желанию
+
+Глушитель - По желанию
+
+Хороший макрос, настроен хорошо хорошой игры!
+
+
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 5 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 3
+Delay 20 ms
+MoveR 0 3
+Delay 5 ms
+LeftUp 1
+Delay 20 ms
+LeftDown 1
+Delay 5 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 5
+Delay 20 ms
+MoveR 0 5
+Delay 5 ms
+LeftUp 1
+Delay 61 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

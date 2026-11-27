@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Обычный макрос на прототип , чтобы делать ваншоты.
+
+Тестилось на мышке - SVEN RX-G750
+сенса 0.7 - 0.8
+Windows 11
+
+НЕ СКОПИРОВАН!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 5 ms
+LeftUp 1
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+MoveR -4 -6
+Delay 15 ms
+MoveR -4 -6</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

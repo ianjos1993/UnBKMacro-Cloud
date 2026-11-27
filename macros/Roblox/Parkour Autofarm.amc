@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос предназначен для игры Roblox, режима Parkour
+Данный макрос позволит вам автоматически фармить поинты
+Инструкция для правильного использования:
+1. Найдите подходящий объект, например (я не знаю как это называется, но похоже на огромную серую квадратную скобку, она находится почти на всех крышах)
+2. встаньте перед ней и смотрите ровно по центру
+3. Нажмите клавишу на которую у вас забинжен swap vault, по стандарту это G
+4. Запустите макрос и наслаждайтесь быстрым опытом</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+KeyUp 44 1
+Delay 300 ms
+KeyDown 20 1
+KeyUp 20 1
+Delay 700 ms
+KeyDown 44 1
+KeyUp 44 1
+Delay 300 ms
+KeyDown 20 1
+KeyUp 20 1
+Delay 700 ms
+KeyDown 44 1
+KeyUp 44 1
+Delay 300 ms
+KeyDown 20 1
+KeyUp 20 1
+Delay 700 ms</Syntax>
+    </KeyDown>
+    <Software></Software>
+  </DefaultMacro>
+</Root>

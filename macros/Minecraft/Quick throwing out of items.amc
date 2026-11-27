@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Быстрое выкидование пердметов из инвентаря. Стак выкидывается за 2 секунды, на сервере будет немного медленней в зависимости от пинга</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы 
+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 12 ms
+KeyUp 20 1
+GoWhile 1 999999</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

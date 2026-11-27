@@ -1,0 +1,64 @@
+<Root>
+  <DefaultMacro>
+    <Major>Shadow Fiend Good Time</Major>
+    <Description>Попытался сделать максимальный тайм
+ 
+X - ЕУЛ
+C - БЛИНК
+Держите курсор на вражеском герое!
+Можно поменять в макросе еул и блинк если знаете как это делать!
+Всем приятной игры на сфе
+Патч 7.32!</Description>
+    <Comment>Берите мои сборки стим perks :)</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyUp 6 1
+Delay 64
+KeyDown 27 1
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 64
+KeyUp 27 1
+Delay 800 ms
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+KeyDown 225 1
+Delay 5 ms
+KeyDown 88 1
+KeyUp 88 1
+KeyUp 225 1
+Delay 64
+KeyDown 225 1
+KeyDown 56 1
+Delay 5 ms
+KeyUp 225 1
+Delay 64
+KeyUp 56 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+KeyDown 66 1
+Delay 64
+KeyUp 66 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

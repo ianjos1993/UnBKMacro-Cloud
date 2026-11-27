@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Prowler recoil reducer. like 92% accuracy.
+
+Bind to left mouse button. 
+Attention!! -- Try this macro on training map before starting normal game!
+
+
+dpi  950
+sens 1.8
+display 1920x1080
+
+Good luck and have fun!
+I hope u will enjoy this macro :) 
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 2 5
+Delay 13 ms
+LeftDown 1
+Delay 14 ms
+MoveR 3 8
+Delay 13 ms
+LeftDown 1
+Delay 18 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

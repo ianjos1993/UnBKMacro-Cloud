@@ -1,0 +1,85 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Game should be 1024x768
+inventory should be in top left corner
+Put cube chip first slot second slot extreme power
+After that settings you can start it.
+You can edit loop count.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 69 438
+Delay 16 ms
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+Delay 16 ms
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+Delay 16 ms
+MoveTo 363 95
+Delay 16
+LeftDown 1
+Delay 16
+LeftUp 1
+Delay 16
+LeftDown 1
+Delay 16
+LeftUp 1
+Delay 16
+KeyDown 32 1
+Delay 16 ms
+KeyUp 32 1
+Delay 16 ms
+KeyDown 39 1
+Delay 16
+KeyUp 39 1
+Delay 16
+KeyDown 88 1
+Delay 16
+KeyUp 88 1
+Delay 16
+MoveTo 402 94
+Delay 16
+LeftDown 1
+Delay 16
+LeftUp 1
+Delay 16
+LeftDown 1
+Delay 16
+LeftUp 1
+Delay 16
+KeyDown 30 1
+Delay 16 ms
+KeyUp 30 1
+Delay 16 ms
+KeyDown 31 1
+Delay 16 ms
+KeyUp 31 1
+Delay 16 ms
+KeyDown 39 1
+Delay 16
+KeyUp 39 1
+Delay 16
+KeyDown 88 1
+Delay 16
+KeyUp 88 1
+Delay 16 ms
+MoveTo 275 492
+Delay 16
+LeftDown 1
+Delay 16
+LeftUp 1
+Delay 1300 ms
+GoWhile 1 50</Syntax>
+    </KeyDown>
+    <Software>Rappelz</Software>
+  </DefaultMacro>
+</Root>

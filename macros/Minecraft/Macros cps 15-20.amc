@@ -1,0 +1,43 @@
+<Root>
+	<DefaultMacro>
+		<Major></Major>
+		<Description>PVP NATION FB MACRO BY HARDSOK
+</Description>
+		<Comment>PVPxNATION
+</Comment>
+		<GUIOption>
+			<RepeatType>1</RepeatType>
+		</GUIOption>
+		<KeyUp>
+			<Syntax></Syntax>
+		</KeyUp>
+		<KeyDown>
+			<Syntax>KeyDown 22 1
+Delay 2 ms
+KeyDown 265 1
+Delay 115 ms
+RightDown 1
+Delay 1 ms
+RightUp 1
+Delay 1 ms
+KeyUp 265 1
+Delay 96 ms
+KeyDown 265 1
+Delay 120 ms
+RightDown 1
+Delay 1 ms
+RightUp 1
+Delay 1 ms
+KeyUp 265 1
+Delay 98 ms
+Goto 1
+/// | xxXX==#PVPxNATION#==XXxx |
+/// |       BY   HARDSOK       |
+/// |       PVP   NATION       |
+/// |       FAST  BRIDGE       |
+/// |       SPEED      3       |
+/// | xxXX==#PVPxNATION#==XXxx |</Syntax>
+		</KeyDown>
+		<Software>PVP NATION FB BY HARDSOK
+</Software></DefaultMacro>
+</Root>

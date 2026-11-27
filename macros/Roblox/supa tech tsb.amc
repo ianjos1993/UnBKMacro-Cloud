@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Полезный, но лёгкий трюк\теч для игры "The strongest battlegrounds" для хороших комбо или же доминирования над игроками.Теч является экстендером из-за чего после работы макроса вам будет очень легко попасть и продолжить свое комбо.Работает только на высоких пингах, 100 или же 120, редко получается на высоких пингах, если у вас не получилось, пожалуйста, попробуйте отредактировать задержку. Разрешение экрана при выполнении теча-1600x900, но я думаю что получится на более высоких или же более низких. фпс-120-240 или больше.Не пытайтесь сделать теч на Weakest Dummy( манекен)  его пинг равняется нулю, из-за чего на нём теч сделать невозможно,надеюсь помог вам:)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+KeyDown 44 1
+KeyUp 44 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+KeyDown 20 1
+Delay 10 ms
+KeyUp 20 1
+Delay 10 ms
+KeyDown 225 1
+Delay 2 ms
+KeyUp 225 1
+Delay 2 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

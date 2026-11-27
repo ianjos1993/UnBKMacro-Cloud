@@ -1,0 +1,155 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на раст 
+Сенса 1.0
+С прицелом 0.8
+По установке все просто:
+Заходим в bm, потом в a4tech (вкладка) и открываем файл!
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 96 ms
+MoveR 0 13
+Delay 24 ms
+MoveR 0 0
+Delay 24 ms
+MoveR 0 0
+Delay 24 ms
+MoveR 0 0
+Delay 24 ms
+MoveR -1 9
+Delay 24 ms
+MoveR -1 9
+Delay 24 ms
+MoveR -1 9
+Delay 24 ms
+MoveR -2 3
+Delay 24 ms
+MoveR -2 3
+Delay 24 ms
+MoveR -2 3
+Delay 24 ms
+MoveR -2 3
+Delay 24 ms
+MoveR -2 3
+Delay 24 ms
+MoveR -1 4
+Delay 24 ms
+MoveR -1 4
+Delay 24 ms
+MoveR -1 4
+Delay 24 ms
+MoveR -1 4
+Delay 24 ms
+MoveR -1 4
+Delay 24 ms
+MoveR -2 4
+Delay 24 ms
+MoveR -2 4
+Delay 24 ms
+MoveR -2 4
+Delay 24 ms
+MoveR -2 4
+Delay 24 ms
+MoveR -2 2
+Delay 24 ms
+MoveR -2 2
+Delay 24 ms
+MoveR -2 2
+Delay 24 ms
+MoveR -2 2
+Delay 24 ms
+MoveR -2 2
+Delay 24 ms
+MoveR -1 1
+Delay 24 ms
+MoveR -1 1
+Delay 24 ms
+MoveR -1 1
+Delay 24 ms
+MoveR -1 1
+Delay 24 ms
+MoveR -1 1
+Delay 24 ms
+MoveR 0 3
+Delay 24 ms
+MoveR 0 3
+Delay 24 ms
+MoveR 0 3
+Delay 24 ms
+MoveR 0 3
+Delay 24 ms
+MoveR 0 3
+Delay 24 ms
+MoveR 1 1
+Delay 24 ms
+MoveR 1 1
+Delay 24 ms
+MoveR 1 1
+Delay 24 ms
+MoveR 1 1
+Delay 24 ms
+MoveR 1 1
+Delay 24 ms
+MoveR 2 2
+Delay 24 ms
+MoveR 2 2
+Delay 24 ms
+MoveR 2 2
+Delay 24 ms
+MoveR 2 2
+Delay 24 ms
+MoveR 2 2
+Delay 24 ms
+MoveR 2 1
+Delay 24 ms
+MoveR 2 1
+Delay 24 ms
+MoveR 2 1
+Delay 24 ms
+MoveR 2 1
+Delay 24 ms
+MoveR 2 0
+Delay 24 ms
+MoveR 2 0
+Delay 24 ms
+MoveR 2 0
+Delay 24 ms
+MoveR 2 0
+Delay 24 ms
+MoveR 2 0
+Delay 24 ms
+MoveR 2 1
+Delay 24 ms
+MoveR 2 1
+Delay 24 ms
+MoveR 2 1
+Delay 24 ms
+MoveR 2 1
+Delay 24 ms
+MoveR 2 1
+Delay 24 ms
+MoveR 0 0
+Delay 24 ms
+MoveR 0 0
+Delay 24 ms
+MoveR 0 0
+Delay 24 ms
+MoveR 0 0
+Delay 24 ms
+MoveR 0 0
+Delay 250 ms
+LeftUp 1
+Delay 2500 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

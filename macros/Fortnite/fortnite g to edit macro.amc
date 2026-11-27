@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Make sure to put 7 as your secondary select building edit for the macro to work. works for any specks</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+Delay 10 ms
+KeyUp 10 1
+Delay 10 ms
+KeyDown 36 1
+Delay 10 ms
+KeyUp 36 1
+Delay 10 ms
+KeyDown 10 1
+Delay 10 ms
+KeyUp 10 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major>iV3Xz</Major>
+    <Description>Good morning, botters! This time around I bring you a mix of farming and lvl up bot. You will be facing Witchmon on Minato City. I recommend going to the middle part, where you will be able to fight Captains and Army captains for more XP.
+
+First, a few things to consider:
+1) If your digi is not cloned, have a lot of pizzas or CC, as you will need them.
+2) If your digi does not have a strong F1 attack, use a Skill +100% so you one shot them.
+3) Have a magnetic ID so you don't have to move and collect the items
+4) Find a good spot where you are not right in the middle, as Captains and Army Captains will attack you if they are near (if you have great EV this will not be a problem)
+5) Use double booster (1000% and another 1000% or 500%, depending on what you have)
+
+Now, put your first skill on F1 and CC or Pizza on F6. Then go to the Witchmon spot and get a good place. I recommend a back spot because you won't be near the boss, who has way more HP and damage. If you are lvl 80, It will take you around 2 hours to get to lvl 100, and then you keep grinding and training.
+
+Lastly, enjoy your farm of seals, gold, Exchange Tickets and various eggs.
+
+Feel free to use this bot and hope it helps you! Good luck!</Description>
+    <Comment>https://botmek.com - Free macros download</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 200 ms
+KeyUp 43 1
+Delay 200 ms
+KeyDown 58 1
+Delay 64
+KeyUp 58 1
+Delay 64
+GoWhile 1 50
+KeyDown 63 1
+Delay 64
+KeyUp 63 1
+Delay 64
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Digimon Masters Online</Software>
+  </DefaultMacro>
+</Root>

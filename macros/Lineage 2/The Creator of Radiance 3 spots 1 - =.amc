@@ -1,0 +1,186 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Для работы макроса вам понадобиться Питомцы в количестве 3-х шт.
+В центр каждой точки вы должный расположить по 1 питомцу.
+Далее на персонаже который будет бить создать 3 макроса.
+
+/target Вася
+/attack
+
+/target Вася2
+/attack
+
+/target Вася3
+/attack
+
+Где "Вася,Вася2,Вася3" это название каждого из питомцев и расположить их на панели в порядке с права на лево:
+Где "Вася" находится на кнопке "=" , "Вася2" находится на кнопке "-" , "Вася3" находится на кнопке "0"
+Далее расположить скиллы в следующей последовательности:
+
+1 - Время Фантазии
+2 - Фиеста Трюков
+3 - Яркий Прыжок
+4 - Фиеста Фигур
+5 - Сияющий Сюрприз
+6 - Круг Фантазии
+7 - Веселая Звезда
+8 - Подобрать
+
+После чего не забываем настроить время задержки времени бега к каждому из питомцев.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//Питомец 1
+KeyDown 46 1
+Delay 3500 ms
+KeyUp 46 1
+Delay 64
+//3 - Яркий Прыжок
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+GoWhile 7 15
+//Питомец 1
+KeyDown 46 1
+Delay 3500 ms
+KeyUp 46 1
+Delay 64
+//1 - Время Фантазии 2 - Фиеста Трюков 4 - Фиеста Фигур 5 - Сияющий Сюрприз 6 - Круг Фантазии 7 - Веселая Звезда
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 31 1
+Delay 20
+KeyUp 31 1
+Delay 20
+KeyDown 33 1
+Delay 20
+KeyUp 33 1
+Delay 20
+KeyDown 34 1
+Delay 20
+KeyUp 34 1
+Delay 20
+KeyDown 35 1
+Delay 20
+KeyUp 35 1
+Delay 20
+KeyDown 36 1
+Delay 20
+KeyUp 36 1
+Delay 20
+GoWhile 18 10
+//8 - Подобрать
+KeyDown 37 1
+Delay 20
+KeyUp 37 1
+Delay 20
+GoWhile 44 15
+//Питомец 2
+KeyDown 45 1
+Delay 2500 ms
+KeyUp 45 1
+Delay 20
+//3 - Яркий Прыжок
+KeyDown 32 1
+Delay 64 ms
+KeyUp 32 1
+Delay 64 ms
+GoWhile 55 15
+//Питомец 2
+KeyDown 45 1
+Delay 2300 ms
+KeyUp 45 1
+Delay 20
+//1 - Время Фантазии 2 - Фиеста Трюков 4 - Фиеста Фигур 5 - Сияющий Сюрприз 6 - Круг Фантазии 7 - Веселая Звезда
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 31 1
+Delay 20
+KeyUp 31 1
+Delay 20
+KeyDown 33 1
+Delay 20
+KeyUp 33 1
+Delay 20
+KeyDown 34 1
+Delay 20
+KeyUp 34 1
+Delay 20
+KeyDown 35 1
+Delay 20
+KeyUp 35 1
+Delay 20
+KeyDown 36 1
+Delay 20
+KeyUp 36 1
+Delay 20
+GoWhile 66 10
+//8 - Подобрать
+KeyDown 37 1
+Delay 20 ms
+KeyUp 37 1
+Delay 20
+GoWhile 92 15
+//Питомец 3
+KeyDown 39 1
+Delay 2350 ms
+KeyUp 39 1
+Delay 20
+//3 - Яркий Прыжок
+KeyDown 32 1
+Delay 64 ms
+KeyUp 32 1
+Delay 64 ms
+GoWhile 103 15
+//Питомец 3
+KeyDown 39 1
+Delay 2500 ms
+KeyUp 39 1
+Delay 20
+//1 - Время Фантазии 2 - Фиеста Трюков 4 - Фиеста Фигур 5 - Сияющий Сюрприз 6 - Круг Фантазии 7 - Веселая Звезда
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 31 1
+Delay 20
+KeyUp 31 1
+Delay 20
+KeyDown 33 1
+Delay 20
+KeyUp 33 1
+Delay 20
+KeyDown 34 1
+Delay 20
+KeyUp 34 1
+Delay 20
+KeyDown 35 1
+Delay 20
+KeyUp 35 1
+Delay 20
+KeyDown 36 1
+Delay 20
+KeyUp 36 1
+Delay 20
+GoWhile 114 10
+//8 - Подобрать
+KeyDown 37 1
+Delay 20
+KeyUp 37 1
+Delay 20
+GoWhile 140 15</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

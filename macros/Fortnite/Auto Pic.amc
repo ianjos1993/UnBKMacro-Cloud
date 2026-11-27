@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>a macro that auto picks up weapons for you
+
+----------------------------
+SETTINGS
+
+-  pick up keybind = E</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyUp 8 1
+Delay 1 ms
+KeyDown 8 1
+Delay 1 ms
+KeyUp 8 1
+Delay 1 ms
+KeyDown 8 1
+Delay 1 ms
+KeyUp 8 1
+KeyUp 8 1
+Delay 1 ms
+KeyDown 8 1
+Delay 1 ms
+KeyUp 8 1
+Delay 1 ms
+KeyDown 8 1
+Delay 1 ms
+KeyUp 8 1
+KeyUp 8 1
+Delay 1 ms
+KeyDown 8 1
+Delay 1 ms
+KeyUp 8 1
+Delay 1 ms
+KeyDown 8 1
+Delay 1 ms
+KeyUp 8 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

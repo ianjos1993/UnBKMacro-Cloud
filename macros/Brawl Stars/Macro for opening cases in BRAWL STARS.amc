@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос состоит из 20 повторений.
+Инструкция:
+1)Скачиваем макрос.
+2)Открываем приложение KeyRan, и на экранной клавиатуре выбераем левую кнопку мышь.
+3)Ставим макрос на левую кнопку мыши,и ставим режим работы выполнять пока нажата клавиша</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Brawl Stars</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,71 @@
+<Root>
+  <DefaultMacro>
+    <Major>King CH Sample Combo</Major>
+    <Description>Макрос позволяет выполнять комбо за King CH с лаунчера.
+Видео демонстрации работы макроса: https://youtu.be/i2FdgPwMzFc
+
+Кинг — имя двух персонажей из серии видеоигр в жанре файтинг Tekken (King I, King II). Персонажи были основаны на японском рестлере Сатору Саяме (Маска Тигра), а также мексиканском рестлере Фрае Торменте, католическом священнике, ставшим борцом в маске, чтобы помочь детскому дому. Оба воплощения Кинга присутствовали во всех играх серии: Кинг I был играбельным персонажем в Tekken и Tekken 2, в то время как Кинг II дебютировал в Tekken 3, после чего присутствовал в последующих частях.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 15.02.2024
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#kingtekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 63 ms
+KeyDown 73 1
+Delay 88 ms
+KeyDown 74 1
+Delay 103 ms
+KeyUp 73 1
+Delay 104 ms
+KeyUp 74 1
+Delay 16 ms
+KeyUp 4 1
+Delay 1007 ms
+KeyDown 7 1
+Delay 48 ms
+KeyUp 7 1
+Delay 87 ms
+KeyDown 7 1
+Delay 39 ms
+KeyUp 7 1
+Delay 63 ms
+KeyDown 7 1
+Delay 88 ms
+KeyDown 77 1
+KeyDown 74 1
+Delay 111 ms
+KeyUp 7 1
+Delay 8 ms
+KeyUp 77 1
+KeyUp 74 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

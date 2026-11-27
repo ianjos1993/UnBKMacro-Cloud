@@ -1,0 +1,60 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос для самодельного пулемета в игре раст, работает неплохо, сделан для зажима сидя, FOV 90, разрешение экрана 2080*1440, чувствительность 0.9 во всех значениях</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR -3 3
+Delay 120 ms
+MoveR -3 3
+Delay 120 ms
+MoveR -3 3
+Delay 120 ms
+MoveR -3 3
+Delay 120 ms
+MoveR -3 3
+Delay 120 ms
+MoveR -3 3
+Delay 120 ms
+MoveR -3 3
+Delay 120 ms
+MoveR -4 3
+Delay 120 ms
+MoveR -3 3
+Delay 120 ms
+MoveR -3 3
+Delay 120 ms
+MoveR -3 3
+Delay 120 ms
+MoveR -3 3
+Delay 120 ms
+MoveR -3 3
+Delay 120 ms
+MoveR -3 3
+Delay 120 ms
+MoveR -3 3
+Delay 120 ms
+MoveR -3 3
+Delay 120 ms
+MoveR -3 3
+Delay 120 ms
+MoveR 0 3
+Delay 120 ms
+MoveR 0 3
+Delay 120 ms
+MoveR 0 3
+Delay 120 ms
+MoveR 0 3
+Delay 120 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

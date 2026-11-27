@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>сделал спецыально для доски, для тех кому надоело кликать на эти две стрелочки, просто тыкаешь на тильду и все, страница обновлена и указатель на центре экрана
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 390 699
+Delay 64
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 800 ms
+MoveR 25 0
+LeftDown 1
+LeftUp 1
+MoveTo 616 414</Syntax>
+    </KeyDown>
+    <Software>Stay Out</Software>
+  </DefaultMacro>
+</Root>

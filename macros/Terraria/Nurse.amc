@@ -1,0 +1,53 @@
+<Root>
+  <DefaultMacro>
+    <Major>позволяет максимально быстро купить лечение у медсестры, не промахиваясь по кнопке и в итоге не теряя время.</Major>
+    <Description>позволяет максимально быстро купить лечение у медсестры, не промахиваясь по кнопке и в итоге не теряя время.
+
+
+
+при покупке лечения у медсестры есть 3 варианта нахождение кнопки, по этому мышка кликает по 3 разным
+местам, по этому не рекомендую при использовании данного макроса в руках держать что либо что телепортирует вас на стартовую локацию.
+
+
+
+ставить можно на любую клавишу.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+
+я просто промахивался по кнопке.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 866 220
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 818 253
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 838 190
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Terraria</Software>
+  </DefaultMacro>
+</Root>

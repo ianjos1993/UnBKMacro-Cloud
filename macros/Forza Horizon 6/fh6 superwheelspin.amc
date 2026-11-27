@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>этот макрос нужен чтобы фармить автоталанты. для начала нужно купить на аукционе тачку subaru impreza 22b-sti version 1998, поставить на нее тюнинг S2. затем заходим в ивент лаб, учавствовать в заезде и находим заезд по коду: 890169683
+затем надо в настрокайх сложности выбрать авторуление. ставим выделение на кнопку начать заезд и включаем макрос. макрос будет автоматически ехать и начинать заезд заново</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 4500 ms
+KeyDown 26 1
+Delay 25 s
+KeyUp 26 1
+Delay 8 s
+KeyDown 27 1
+Delay 64
+KeyUp 27 1
+Delay 300 ms
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 8 s
+GoWhile 1 999999</Syntax>
+    </KeyDown>
+    <Software>Forza Horizon 6</Software>
+  </DefaultMacro>
+</Root>

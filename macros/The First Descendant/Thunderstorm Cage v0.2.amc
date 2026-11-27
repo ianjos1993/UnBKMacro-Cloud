@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major>Макрос стрельба Грозовая Клетка</Major>
+    <Description>Расширение 2560х1440 (если это влияет)
+
+Кучная стрельба с "Грозовой Клетки" 
+
+Работает по нажатию
+
+Возможно нестандартная работа от разных модулей, однако проверял как мог,всё стабильно.
+
+точность не в точку, но в тушку попадает постоянно, поэтому версия 0.2
+
+Немного доработал, точность стала лучше.
+
+Важно! Как выяснилось Сенс должен быть 10!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 25 ms
+MoveR 2 4
+Delay 25 ms
+GoWhile 3 40
+MoveR -3 0
+Delay 25 ms
+GoWhile 6 10
+MoveR -3 1
+Delay 25 ms
+GoWhile 9 10
+MoveR 1 1
+Delay 25 ms
+GoWhile 12 20
+MoveR 0 0
+Delay 25 ms
+GoWhile 15 10
+MoveR -1 0
+Delay 25 ms
+GoWhile 18 10</Syntax>
+    </KeyDown>
+    <Software>The First Descendant</Software>
+  </DefaultMacro>
+</Root>

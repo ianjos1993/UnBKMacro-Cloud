@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос Bhop (bunny hop) для SCP: Secret Laboratory предназначен для автоматизации прыжков, что позволяет вашему персонажу перемещаться быстрее и плавнее, чем при обычном беге. Этот макрос эмулирует частые нажатия клавиши прыжка.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 1 ms
+KeyUp 44 1
+Delay 1 ms
+KeyDown 44 1
+Delay 1 ms
+KeyUp 44 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>SCP: Secret Laboratory</Software>
+  </DefaultMacro>
+</Root>

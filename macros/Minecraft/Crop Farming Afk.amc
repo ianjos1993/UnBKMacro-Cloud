@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>Farming Crops on Skyblock</Major>
+    <Description>It is a Macro for Hypixel Skyblock Cropfarm fully AFK works on Minecraft Skyblock Hypixel. Works perfect on my Garden Farm design</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 225 1
+KeyDown 4 1
+Delay 20 30 min
+LeftUp 1
+KeyUp 225 1
+KeyUp 4 1
+Delay 64 ms
+KeyDown 10 1
+Delay 64
+KeyUp 10 1
+Delay 1 s
+GoWhile 1 3</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

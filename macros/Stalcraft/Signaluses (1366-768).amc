@@ -1,0 +1,64 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для ловли сигналов, для разрешения 1366 на 768. Игра в окне, открытие САК-а на RALT. Автоматически проверяет наличие сигнала и ловит его. Ваша задача только добежать и слутать его.
+
+Работает не всегда! иногда сигнал перехватывают другие игроки</Description>
+    <Comment>Добавил задержку на выставление средней дистанции т.к. в 50% случаев она не нажимается</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 230 1
+Delay 250 365 ms
+KeyUp 230 1
+MoveTo 862 634
+Delay 15 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+GoColor 19 0 38,60,33 255,255,255 1 691 398 487 601 1 0
+Delay 40 75 ms
+GoColor 19 0 38,60,33 255,255,255 1 691 398 722 601 1 0
+Delay 40 75 ms
+GoColor 19 0 38,60,33 255,255,255 1 691 398 722 601 1 0
+Delay 170 215 ms
+KeyDown 230 1
+Delay 250 365 ms
+KeyUp 230 1
+Goto 1
+MoveTo 862 634
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1076 624
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 10 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 575 383
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 503 465
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

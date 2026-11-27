@@ -1,0 +1,77 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>A combo for Cassie Cage. You need to stand to the left of your opponent, it's far from being the most powerful one or long and is more effective if you have one bar of augmented attack.
+A - Left
+S - Down
+D - Right
+W - Up
+Y - 1 - Light hand strike
+U - 2 - Heavy Hand strike
+H - 3 - Light kick
+J - 4 - Heavy Kick
+F - Action - Interaction with the map/Strengthening special abilities
+To activate the combination while on the right side, use the above keyboard shortcut.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 28 1
+Delay 64
+KeyUp 28 1
+Delay 64
+KeyDown 28 1
+Delay 64
+KeyUp 28 1
+Delay 64 ms
+KeyDown 28 1
+Delay 64
+KeyUp 28 1
+Delay 64
+KeyDown 22 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyDown 13 1
+Delay 500 ms
+KeyDown 9 1
+Delay 64
+KeyUp 9 1
+KeyUp 13 1
+KeyUp 4 1
+KeyUp 22 1
+Delay 540 ms
+KeyDown 7 1
+Delay 120 ms
+KeyUp 7 1
+KeyDown 13 1
+Delay 64
+KeyDown 4 1
+KeyUp 13 1
+KeyDown 7 1
+Delay 120 ms
+KeyUp 7 1
+Delay 640 ms
+KeyDown 11 1
+Delay 64
+KeyUp 11 1
+KeyUp 4 1
+Delay 264 ms
+KeyDown 18 1
+Delay 64
+KeyDown 12 1
+Delay 64
+KeyDown 7 1
+Delay 1 s
+KeyUp 4 1
+KeyUp 7 1
+KeyUp 12 1
+KeyUp 18 1</Syntax>
+    </KeyDown>
+    <Software>Mortal Kombat 11</Software>
+  </DefaultMacro>
+</Root>

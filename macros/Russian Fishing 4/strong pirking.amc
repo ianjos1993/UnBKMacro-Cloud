@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>It's a script for Russinan fishing 4 .Fishind with strong pirking  technique.
+How to use: Just drop the bait at the depth you need and launch the script. 
+The script checks is the fish on hook or not.
+You do not need to use any specific resolution to use the script.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 1 s
+RightUp 1
+Delay 2 s
+KeyDown 21 1
+Delay 90 ms
+KeyUp 21 1
+GoWhile 1 100</Syntax>
+    </KeyDown>
+    <Software>Russian Fishing 4</Software>
+  </DefaultMacro>
+</Root>

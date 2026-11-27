@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major>lineage</Major>
+    <Description>Идеальный макрос для ближнего боя, для таких классов как Archmage, Mystic Muse. Суть макроса в том, что скилл Aura Flash забивает таргет во время ближнего боя, а скилл Aura Bolt наносит основной урон. При массовых сражениях, противнику будет очень сложно победить, если ваш персонаж с этим макросом подбежит на дистанцию атаки скилла Aura Bolt. Задержку рекомендую ставить минимальную.
+
+P. Aura Flash
+O. Aura Bolt
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 18 1
+Delay 1 ms
+KeyUp 18 1
+Delay 1 ms
+KeyDown 18 1
+Delay 1 ms
+KeyUp 18 1
+Delay 1 ms
+KeyDown 18 1
+Delay 1 ms
+KeyUp 18 1
+Delay 1 ms
+KeyDown 19 1
+Delay 1 ms
+KeyUp 19 1
+Delay 1 ms
+KeyDown 18 1
+Delay 1 ms
+KeyUp 18 1
+Delay 1 ms
+KeyDown 18 1
+Delay 1 ms
+KeyUp 18 1
+Delay 1 ms
+KeyDown 18 1
+Delay 1 ms
+KeyUp 18 1
+Delay 1 ms
+KeyDown 19 1
+Delay 1 ms
+KeyUp 19 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,5 @@
+alias clutchmod clutch-;
+alias clutch- "csound+; alias clutchmod clutch+; voice_enable 0; gameinstructor_enable 1; r_cleardecals; cl_clearhinthistory; playvol buttons\weapon_confirm 0.5; say_team Clutch mod on, all voices disabled!;";
+alias clutch+ "csound-; alias clutchmod clutch-; voice_enable 1; gameinstructor_enable 0; playvol buttons\button2 0.5; say_team Clutch mod off, all voices enabled!;";
+alias csound+ "alias clutchmod csound-; volume 1; snd_musicvolume 0.0; snd_menumusic_volume 0.0; snd_deathcamera_volume 0; snd_mapobjective_volume 0; snd_roundend_volume 0; snd_roundstart_volume 0; snd_tensecondwarning_volume 1;";
+alias csound- "alias clutchmod csound+; volume 0.6; snd_musicvolume 0.2; snd_menumusic_volume 0.2; snd_deathcamera_volume 0.2; snd_mapobjective_volume 0.2; snd_roundend_volume 0.2 ; snd_roundstart_volume 0.2 ; snd_tensecondwarning_volume 0.2;";

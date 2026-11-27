@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Для того что бы макрос корректно работал, вам нужно встать на шлюпе в угол между кроватью и бочкой грога. Запускаете макрос и встаёте в угол.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+KeyDown 20 1
+KeyDown 9 1
+KeyUp 9 1
+LeftDown 1
+Delay 640 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Sea of thieves</Software>
+  </DefaultMacro>
+</Root>

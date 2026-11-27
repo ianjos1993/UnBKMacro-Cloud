@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major>Обрезает изображение до размера объекта</Major>
+    <Description>Автоматически обрезает кадрированием пустые полностью прозрачные поля по краям от непрозрачного объекта в однослойном PNG файле.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 16 1
+KeyUp 16 1
+Delay 64 ms
+KeyDown 224 1
+KeyDown 4 1
+Delay 64 ms
+KeyUp 4 1
+KeyUp 224 1
+Delay 64 ms
+KeyDown 25 1
+KeyUp 25 1
+Delay 64 ms
+KeyDown 81 1
+KeyUp 81 1
+Delay 64 ms
+KeyDown 82 1
+KeyUp 82 1
+Delay 64 ms
+KeyDown 6 1
+KeyUp 6 1
+Delay 64 ms
+KeyDown 88 1
+KeyUp 88 1
+Delay 64 ms
+KeyDown 88 1
+KeyUp 88 1</Syntax>
+    </KeyDown>
+    <Software>Photoshop</Software>
+  </DefaultMacro>
+</Root>

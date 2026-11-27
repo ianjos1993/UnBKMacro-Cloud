@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простой макрос для прокачки бокса. Поставьте персонажа у стены на базе или у шкафа впритык. Активируйте макрос и персонаж будет боксировать 5 циклов, далее 5 секунд отдых, чтобы не тратить выносливость и не умереть) И снова цикл. Макрос работает до повторного нажатия, бесконечно. Обязательно попить и поесть и сходить в туалет.Персонажем разумеется. </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 6000 ms</Syntax>
+    </KeyDown>
+    <Software>Scum</Software>
+  </DefaultMacro>
+</Root>

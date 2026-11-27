@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major>Spritborn Rake build</Major>
+    <Description>Макрос последовательно активирует способности Rake и Evade. Прожимает по кд Armored Hide, Counterattack и Scourge (установить в игре на 1 2 3).
+Настройка: рекомендую установить на ''Выполнять до отмены'' - для автоматизации геймплея, но можно использовать - ''Выполнять пока нажата клавиша''</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Diablo IV</Software>
+  </DefaultMacro>
+</Root>

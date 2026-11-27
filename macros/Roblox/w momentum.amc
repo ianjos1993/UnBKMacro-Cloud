@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для идеального попадания в тайминг нажатия W. Автоматически считывает момент и прожимает импульс вперед секунда в секунду, чтобы мгновенно подхватить максимальную скорость и ускорить персонажа.
+
+Фичи:
+
+100% точность: Исключает миссклики, слишком ранние или запоздалые нажатия.
+
+Идеальный сброс инерции: Мгновенный перехват разгона в нужную миллисекунду.
+
+Преимущество в погоне: Дает максимальный рывок без потери тайминга.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 129 ms
+KeyDown 44 1
+Delay 199 ms
+KeyUp 44 1
+Delay 108 ms
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

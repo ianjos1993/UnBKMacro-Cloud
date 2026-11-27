@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>перезапускает бои во вторжении зверей.
+разрешение экрана 1600*900.
+игра максимально смещена в верхний левый угол</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 2 1 30,21,17 255,255,255 2 791 484 6 8 1 0
+MoveTo 799 488
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 s
+GoColor 9 1 79,59,41 255,255,255 2 1428 881 17 14 1 0
+MoveTo 1437 888
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Doomsday: Last Survivors</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,324 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>sensity (8.0)
+FoV 90 
+Практически идеально откалиброванный макрос на Томпсон, пользуйтесь.
+ Для игры RUST.
+
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 24 ms
+MoveR -2 1
+Delay 24 ms
+MoveR -2 1
+Delay 24 ms
+MoveR -2 4
+Delay 24 ms
+MoveR -2 4
+MoveR -2 4
+Delay 24 ms
+MoveR -1 1
+Delay 24 ms
+Delay 24 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 24 1
+Delay 64
+KeyUp 24 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 28 1
+Delay 64
+KeyUp 28 1
+Delay 64
+KeyDown 66 1
+Delay 64
+KeyUp 66 1
+Delay 64
+KeyDown 66 1
+Delay 64
+KeyUp 66 1
+Delay 64
+KeyDown 66 1
+Delay 64
+KeyUp 66 1
+Delay 64
+KeyDown 66 1
+Delay 64
+KeyUp 66 1
+Delay 64
+KeyDown 66 1
+Delay 64
+KeyUp 66 1
+Delay 64
+KeyDown 66 1
+Delay 64
+KeyUp 66 1
+Delay 64
+KeyDown 66 1
+Delay 64
+KeyUp 66 1
+Delay 64
+KeyDown 66 1
+Delay 64
+KeyUp 66 1
+Delay 64
+KeyDown 66 1
+Delay 64
+KeyUp 66 1
+Delay 64
+KeyDown 66 1
+Delay 64
+KeyUp 66 1
+Delay 64
+KeyDown 73 1
+Delay 64
+KeyUp 73 1
+Delay 64
+KeyDown 92 1
+Delay 64
+KeyUp 92 1
+Delay 64
+KeyDown 77 1
+Delay 64
+KeyUp 77 1
+Delay 64
+KeyDown 73 1
+Delay 64
+KeyUp 73 1
+Delay 64
+KeyDown 95 1
+Delay 64
+KeyUp 95 1
+Delay 64
+KeyDown 94 1
+Delay 64
+KeyUp 94 1
+Delay 64
+KeyDown 97 1
+Delay 64
+KeyUp 97 1
+Delay 64
+KeyDown 78 1
+Delay 64
+KeyUp 78 1
+Delay 64
+MoveR 0 0
+Delay 64
+MoveR -119 -205
+Delay 64
+MoveTo 647 326
+Delay 64
+MoveR -147 -312
+Delay 64
+MoveR -1 4
+Delay 24 ms
+MoveR -1 4
+Delay 24 ms
+MoveR -1 4
+Delay 24 ms
+MoveR -1 1
+Delay 24 ms
+MoveR 1 3
+Delay 24 ms
+MoveR 1 3
+Delay 24 ms
+MoveR 1 3
+Delay 24 ms
+MoveR 1 0
+Delay 24 ms
+MoveR 1 3
+Delay 24 ms
+MoveR 0 3
+Delay 24 ms
+MoveR 0 3
+Delay 24 ms
+MoveR 0 3
+Delay 24 ms
+MoveR 0 3
+Delay 24 ms
+MoveR 0 0
+Delay 24 ms
+MoveR 2 3
+Delay 24 ms
+MoveR 2 3
+Delay 24 ms
+MoveR 2 3
+Delay 24 ms
+MoveR 2 3
+Delay 24 ms
+MoveR 2 3
+Delay 24 ms
+MoveR 0 3
+Delay 24 ms
+MoveR 0 3
+Delay 24 ms
+MoveR 0 3
+Delay 24 ms
+MoveR 0 0
+Delay 24 ms
+MoveR 0 3
+Delay 24 ms
+MoveR 1 2
+Delay 24 ms
+MoveR 1 2
+Delay 24 ms
+MoveR 1 -1
+Delay 24 ms
+MoveR 1 2
+Delay 24 ms
+MoveR 1 2
+Delay 24 ms
+MoveR 0 2
+Delay 24 ms
+MoveR 0 2
+Delay 24 ms
+MoveR 0 2
+Delay 24 ms
+MoveR 0 2
+Delay 24 ms
+MoveR 0 2
+Delay 24 ms
+MoveR -1 -2
+Delay 24 ms
+MoveR -1 1
+Delay 24 ms
+MoveR -1 1
+Delay 24 ms
+MoveR -1 1
+Delay 24 ms
+MoveR -1 1
+Delay 24 ms
+MoveR -2 2
+Delay 24 ms
+MoveR -2 2
+Delay 24 ms
+MoveR -2 2
+Delay 24 ms
+MoveR -2 2
+Delay 24 ms
+MoveR -2 2
+Delay 24 ms
+MoveR -1 1
+Delay 24 ms
+MoveR -1 1
+Delay 24 ms
+MoveR -1 1
+Delay 24 ms
+MoveR -1 1
+Delay 24 ms
+MoveR -1 1
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 1 1
+Delay 24 ms
+MoveR 1 1
+Delay 24 ms
+MoveR 1 1
+Delay 24 ms
+MoveR 1 1
+Delay 24 ms
+MoveR 1 1
+Delay 24 ms
+MoveR 1 1
+Delay 24 ms
+MoveR 1 1
+Delay 24 ms
+MoveR 1 1
+Delay 24 ms
+MoveR 1 1
+Delay 24 ms
+MoveR 1 1
+Delay 24 ms
+MoveR 1 1
+Delay 24 ms
+MoveR 1 1
+Delay 24 ms
+MoveR 1 1
+Delay 24 ms
+MoveR 1 1
+Delay 24 ms
+MoveR 1 1
+Delay 24 ms
+MoveR 1 1
+Delay 24 ms
+MoveR 1 1
+Delay 24 ms
+MoveR 1 1
+Delay 24 ms
+MoveR 1 1
+Delay 24 ms
+MoveR 1 1
+Delay 24 ms
+MoveR 1 0
+Delay 24 ms
+MoveR 1 0
+Delay 24 ms
+MoveR 1 0
+Delay 24 ms
+MoveR 1 0
+Delay 24 ms
+MoveR 1 0
+Delay 24 ms
+MoveR -1 1
+Delay 24 ms
+MoveR -1 1
+Delay 24 ms
+MoveR -1 1
+Delay 24 ms
+MoveR -1 1
+Delay 24 ms
+MoveR -1 1
+Delay 24 ms
+MoveR -1 1
+Delay 24 ms
+MoveR -1 1
+Delay 24 ms
+MoveR -1 1
+Delay 24 ms
+MoveR -1 1
+Delay 24 ms
+MoveR -1 1
+Delay 24 ms
+MoveR -1 1
+Delay 24 ms
+MoveR -1 1
+Delay 24 ms
+MoveR -1 1
+Delay 24 ms
+MoveR -1 1
+Delay 24 ms
+MoveR -1 1
+Delay 24 ms
+Delay 24 ms
+Delay 24 ms
+Delay 24 ms
+Delay 24 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

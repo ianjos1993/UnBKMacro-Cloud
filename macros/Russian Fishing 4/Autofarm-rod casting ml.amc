@@ -1,0 +1,73 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>         монотонная проводка
+Катушка Syberia Thunderbolt ssp hs-s (полный тюнег катушки до теста 2,2) {катушка митеор  +  калибор}
+удилище- Kama Lait CSTSL 78ML тест 3-15 г
+скорость проводки 28
+Все приманки 3,5 гр  +  12 гр  все работает
+разрешение 1680-1050</Description>
+    <Comment>при поклёвки крупной рыбы желательно отключать  ,,, всем удачи
+будут проблемы пишите помогу с настройками скрипта,,,</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 3784 3785 ms
+LeftUp 1
+Delay 3322 3323 ms
+LeftDown 1
+Delay 40390 40391 ms
+RightDown 1
+Delay 4259 4260 ms
+LeftUp 1
+Delay 1 2 ms
+RightUp 1
+Delay 100 107 ms
+GoColor 20 2 160,160,160 255,255,255 1 428 996 957 85 1 0
+Delay 100 110 ms
+GoColor 18 1 64,64,64 255,255,255 2 695 844 71 12 1 0
+Delay 100 105 ms
+GoColor 42 3 160,160,160 255,255,255 1 430 995 945 86 1 0
+Delay 100 110 ms
+LeftUp 1
+Delay 100 110 ms
+KeyUp 225 1
+Delay 100 110 ms
+RightUp 1
+Delay 250 255 ms
+GoColor 36 1 74,170,247 255,255,255 2 354 90 401 1 1 0
+Delay 100 110 ms
+GoColor 36 1 228,198,49 255,255,255 2 354 90 401 1 1 0
+Delay 100 108 ms
+GoColor 36 1 183,199,56 255,255,255 2 354 90 401 1 1 0
+Delay 100 107 ms
+KeyDown 42 1
+Delay 100 110 ms
+KeyUp 42 1
+Delay 100 110 ms
+Goto 40
+Delay 300 310 ms
+KeyDown 44 1
+Delay 64 68 ms
+KeyUp 44 1
+Delay 100 108 ms
+Goto 50
+Delay 100 107 ms
+LeftUp 1
+Delay 64 67 ms
+KeyUp 225 1
+Delay 100 107 ms
+RightUp 1
+Delay 100 108 ms
+GoColor 24 1 64,64,64 255,255,255 2 695 844 71 12 1 0
+Delay 100 109 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Русская Рыбалка 4</Software>
+  </DefaultMacro>
+</Root>

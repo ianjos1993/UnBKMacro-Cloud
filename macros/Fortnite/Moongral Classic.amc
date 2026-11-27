@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro allows you to mongral classic with 1 key. all you have to do is go to the keyran main screen and bind (Moongral Classic] with any free key on your keyboard you want to use as your Moongral Classic, this can be any key. Now go in game and bind your wall and ramp keys to your mouse buttons or change them in the macro editor instead. If you have problems with the macro, write to me, I will help you.
+To make this macro work, you need to bind it to any key and that's it, you're done!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//Converted macro file 17 December 2021 17:41:55
+Button5Down 1
+Delay 71 ms
+LeftDown 1
+Button5up 1
+GoWhile 2 2
+LeftUp 1
+Button4down 1
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+Button4Up 1
+Delay 70 ms
+GoWhile 2 2
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

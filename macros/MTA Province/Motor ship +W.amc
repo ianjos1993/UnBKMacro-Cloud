@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Не такой уж и тяжелоый макрос по созданию, но очень помогает отдыхать.
+Ваша задача только иногда направлять теплоход в нужно место
+ФПС И РАЗРЕШЕНИЕ НЕ ВАЖНО
+P.S Скоро выпущу целый макрос для теплхода</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 80 min
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

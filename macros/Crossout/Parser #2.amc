@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Это мой 2-ой макрос что позволяет парсерам стрелять издалека еще наносят большой урон и 100% точность. Вы можете скачать 1-ый макрос тоже подходит для парсера</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 22 ms
+KeyDown 30 1
+Delay 1500 ms
+KeyUp 30 1
+Delay 22 ms
+KeyDown 31 1
+Delay 1500 ms
+KeyUp 31 1
+Delay 22 ms
+//Парсеры удерживают кнопку и затем стреляют 100% точно при этом наносят огромный урон. Это лучше забиндить правую кнопку мышь.</Syntax>
+    </KeyDown>
+    <Software>Crossout</Software>
+  </DefaultMacro>
+</Root>

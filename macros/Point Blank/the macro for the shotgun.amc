@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Здравствуйте,  недавно я создал свой макрос на дробь в Point Blank 
+он робочий,постарался максимально качественно сделать его!
+очень быстрый  макрос ! подойдет для дробовика убийца зомби! а также для перевёртыша
+Это тройной макрос, на примере  ставишь на свою удобную кнопку данный макрос , нажимаешь и он крутит трижды!
+
+Инструкция:
+как пользоватся: скачиваете, жмёте на клавиатуру,
+жмёте лкм на левую кнопку мышки в программе,
+выбераем макрос A4tech и выбераем Макрос для дробовика
+всё активируем программу и видем в игре когда жмём лкм стрельбюй с дробовика 
+идёт смена которая возврощается  обратно на дробовик + идёт прокрутка 
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 60 ms
+KeyDown 32 1
+Delay 23 ms
+KeyUp 32 1
+Delay 23 ms
+KeyDown 30 1
+Delay 23 ms
+KeyUp 30 1
+Delay 23 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

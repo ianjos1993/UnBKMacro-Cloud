@@ -1,0 +1,60 @@
+<Root>
+  <DefaultMacro>
+    <Major>5 block hypixel potato farm</Major>
+    <Description>Макрос для фарма картошки на хайпиксель скайблоке. Используйте Rancher's Boots с установленной скоростью 90, ставьте угол поворота головы на 90 градусов, ставьте /sethome На начале фермы.
+Эта ферма подходит не только под картошку, но и под некоторые другие культуры(незер нарост, морковь, пшеница)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы | Найс прога, советую</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+RightDown 1
+Delay 24549 24560 ms
+KeyUp 7 1
+Delay 2 5 ms
+KeyDown 26 1
+Delay 1660 1700 ms
+KeyUp 26 1
+Delay 2 6 ms
+KeyDown 4 1
+Delay 24500 24560 ms
+KeyUp 4 1
+KeyDown 26 1
+Delay 1660 1700 ms
+KeyUp 26 1
+GoWhile 1 6
+KeyDown 7 1
+RightDown 1
+Delay 24639 24739 ms
+KeyUp 7 1
+KeyDown 4 1
+Delay 24500 24560 ms
+KeyUp 4 1
+KeyDown 26 1
+Delay 1660 1700 ms
+KeyUp 26 1
+Delay 2 5 ms
+KeyDown 23 1
+Delay 4 ms
+KeyUp 23 1
+Delay 4 ms
+KeyDown 56 1
+Delay 2 ms
+KeyUp 56 1
+Delay 3 ms
+KeyDown 10 1
+Delay 3 ms
+KeyUp 10 1
+Delay 4 ms
+KeyDown 88 1
+Delay 2 ms
+KeyUp 88 1
+GoWhile 1 5</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

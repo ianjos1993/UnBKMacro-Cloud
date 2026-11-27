@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>Fast Edit Q</Major>
+    <Description>Use Q to edit 
+Used for people with 1-50 ping to take anyones wall
+
+Requirements
+75 hp wall
+have pickaxe out.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 5 ms
+KeyUp 20 1
+Delay 5 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+KeyDown 20 1
+Delay 5 ms
+KeyUp 20 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

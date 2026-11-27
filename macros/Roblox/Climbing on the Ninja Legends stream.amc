@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Если вам лень в режиме Ninja Legends забиратся на острова в ручную то можно активировать этот скрипт и отойти за чаечком и т.д. а тем временем макрос будет забиратся на острова</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 1 s
+KeyUp 44 1
+KeyDown 26 1
+Delay 1 s
+KeyUp 26 1
+Delay 1 s
+KeyDown 44 1
+Delay 1 s
+KeyUp 44 1
+Delay 1 s
+KeyDown 22 1
+Delay 1 s
+KeyUp 22 1
+Delay 1 s
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

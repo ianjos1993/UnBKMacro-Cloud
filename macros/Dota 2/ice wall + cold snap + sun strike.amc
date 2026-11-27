@@ -1,0 +1,87 @@
+<Root>
+  <DefaultMacro>
+    <Major>Invoker ice wall + cold snap + sun strike</Major>
+    <Description>этот макрос позволит при нажатии кнопки (на которую вы забиндите) автоматически кастовать ice wall + cold snap + sun strike на персонажа Invoker
+Бинды для работы макроса:
+1-ый скилл - q (quas)
+2-ой скилл -w (wex)
+3-ий скилл -e (exort)
+6-ой скилл -r (invoke)
+4-ый скилл -d (само применение)
+(бинды можно поменять под ваше приподчтения)
+1-ый каст: ice wall
+2-ой каст:  cold snap
+3-ий каст: sun strike
+при использовании этого макроса нужно находится рядом с оппонентом и навестись на него курсором! </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 20 ms
+KeyUp 20 1
+Delay 20 ms
+KeyDown 20 1
+Delay 20 ms
+KeyUp 20 1
+Delay 20 ms
+KeyDown 8 1
+Delay 20 ms
+KeyUp 8 1
+Delay 20 ms
+KeyDown 21 1
+Delay 20 ms
+KeyUp 21 1
+Delay 20 ms
+KeyDown 7 1
+Delay 20 ms
+KeyUp 7 1
+Delay 20 ms
+KeyDown 20 1
+Delay 20 ms
+KeyUp 20 1
+Delay 20 ms
+KeyDown 20 1
+Delay 20 ms
+KeyUp 20 1
+Delay 20 ms
+KeyDown 20 1
+Delay 20 ms
+KeyUp 20 1
+Delay 20 ms
+KeyDown 21 1
+Delay 20 ms
+KeyUp 21 1
+Delay 20 ms
+KeyDown 7 1
+Delay 20 ms
+KeyUp 7 1
+Delay 20 ms
+KeyDown 8 1
+Delay 20 ms
+KeyUp 8 1
+Delay 20 ms
+KeyDown 8 1
+Delay 20 ms
+KeyUp 8 1
+Delay 20 ms
+KeyDown 8 1
+Delay 20 ms
+KeyUp 8 1
+Delay 20 ms
+KeyDown 21 1
+Delay 20 ms
+KeyUp 21 1
+Delay 20 ms
+KeyDown 7 1
+Delay 20 ms
+KeyUp 7 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

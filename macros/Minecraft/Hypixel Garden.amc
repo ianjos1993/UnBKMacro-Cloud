@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>На лицензеонном сервере в майнкрафт - Hypixel есть режим SkyBlockRPG. В этом скайблоке надо зарабатывать деньги, ходить в данжы, управлять миньонами и тд. И там есть одна локация под названием Garden, т.е сад. В этом саду можно строить различные фермы для заработка валюты. Соответсвенно этот макрос именно для этого и существует. </Description>
+    <Comment>По братски неделю дайте да</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 10200 ms
+KeyUp 26 1
+Delay 64
+KeyDown 4 1
+Delay 10200 ms
+KeyUp 4 1
+Delay 64
+GoWhile 1 23</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

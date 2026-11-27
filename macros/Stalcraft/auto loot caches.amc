@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>РАЗРЕШЕНИЕ ТОЛЬКО 1920х1080  И ИГРА НА ПОЛНЫЙ ЭКРАН
+ставите персонажа возле тайника наводя перекрестие на тайник, включаете макрос и лутаете миллионы</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 64 ms
+KeyDown 41 1
+KeyUp 41 1
+MoveR 500 -300
+Delay 64 ms
+LeftDown 1
+LeftUp 1
+Delay 64 ms
+MoveR -300 320
+Delay 180000 ms
+LeftDown 1
+LeftUp 1
+Delay 10000 ms
+KeyDown 9 1
+KeyUp 9 1
+Delay 64 ms
+KeyDown 27 1
+KeyUp 27 1
+GoWhile 19 255</Syntax>
+    </KeyDown>
+    <Software>Stalcraft: x</Software>
+  </DefaultMacro>
+</Root>

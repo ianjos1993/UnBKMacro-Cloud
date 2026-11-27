@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос поможет вам прокачать уровень бота в войсе , всё что нужно, это забиндить микрофон на кнопку k и включить режим рации. С помощью этого макроса, вас не кикнет в афк. Задержка стоит 1 минута.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 14 1
+KeyUp 14 1
+Delay 64000 ms
+KeyDown 14 1
+KeyUp 14 1
+Delay 64000 ms
+KeyDown 14 1
+KeyUp 14 1
+Delay 64000 ms
+KeyDown 14 1
+KeyUp 14 1
+Delay 64000 ms
+KeyDown 14 1
+KeyUp 14 1
+Delay 64000 ms
+KeyDown 14 1
+KeyUp 14 1
+Delay 64000 ms</Syntax>
+    </KeyDown>
+    <Software>Discord</Software>
+  </DefaultMacro>
+</Root>

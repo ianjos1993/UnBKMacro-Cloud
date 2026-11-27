@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Позволяет быстро рестартнуть уровень, если например улетел наверх. Можно забиндить на мышку, например. Удобный, првктичный.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 41 1
+Delay 64 ms
+KeyUp 41 1
+MoveTo 1480 649
+LeftDown 1
+Delay 64 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Geometry Dash</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>AR CLOSE - MID NO RECOIL</Major>
+    <Description>MOUSE SENSITIVITY :13.50
+SET AS LEFT CLICK KEY ONLY DURING GAMEPLAY, DISABLE EVEN IN PAUSE MENU
+CLOSE MID RANGE NO RECOIL
+THIS RESOLUTION WORKS WITH 3840x2160
+
+LISTED BELOW I WILL HAVE 1920 X 1080
+
+OTHERS SHOULD BE REQUESTED</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+MoveR 1 1
+Delay 15 ms
+MoveR -1 -1
+Delay 15 ms
+MoveR 0 2
+Delay 15 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Call Of Duty: Black Ops 6</Software>
+  </DefaultMacro>
+</Root>

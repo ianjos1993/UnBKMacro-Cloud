@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>(mag rail requaierd) to make macro work: you work must be in air and stand sideways to the wall the wall must be smooth and have at least 3 meters. after activating the macro will boost you to your back.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 8 ms
+KeyUp 8 1
+Delay 8 ms
+KeyDown 44 1
+Delay 8 ms
+KeyUp 44 1
+Delay 8 ms
+KeyDown 20 1
+Delay 8 ms
+KeyUp 20 1
+Delay 150 ms
+KeyDown 44 1
+Delay 8 ms
+KeyUp 44 1
+Delay 40 ms
+KeyDown 44 1
+Delay 8 ms
+KeyUp 44 1
+Delay 8 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

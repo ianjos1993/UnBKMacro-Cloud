@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>osu spinner fix for 21x9 monitor</Major>
+    <Description>Макрос для колеса в игре Osu предназначен для использования с разрешением экрана 2560x1080 и может не работать на других разрешениях.Макрос должен быть использован в режиме повтора, пока клавиша будет удерживаться.
+Macro for the wheel in the game Osu! is intended for use with a screen resolution of 2560x1080 and may not work at other resolutions. The macro must be used in repeat mode while the key is held down.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveTo 1266 546
+Delay 1 ms
+MoveTo 1281 544
+Delay 1 ms
+MoveTo 1294 552
+Delay 1 ms
+MoveTo 1296 565
+Delay 1 ms
+MoveTo 1286 577
+Delay 1 ms
+MoveTo 1275 572
+Delay 1 ms
+MoveTo 1262 565
+Delay 1 ms
+MoveTo 1259 558
+Delay 1 ms
+MoveTo 1258 550
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Osu!</Software>
+  </DefaultMacro>
+</Root>

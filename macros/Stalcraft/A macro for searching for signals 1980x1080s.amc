@@ -1,0 +1,72 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос предназначен для упрощения поиска сигналов в игре StalCraft. Он помогает увеличить скорость и эффективность поиска сигналов, которые могут быть сложными из-за большого количества игроков.
+
+Чтобы использовать макрос, следуйте этим инструкциям:
+
+Перейдите на локацию, где вы будете искать сигналы (советую локации Агропром или Яма для Альфы например).
+Активируйте макрос, нажав на соответствующую кнопку.
+Собирайте сигналы и повторяйте этот процесс, пока вам не хватит маячков.
+Этот макрос работает в полноэкранном режиме, для правильной работы макрос необходимо запускать вручную при появлении сигнала. Макрос работает и в большинстве случаев позволит именно вам забрать сигнал.
+
+Этот макрос работает на мониторах с разрешением 1920 на 1080, с настройкой "Сак-1" на кнопку X.
+
+Желаем успешных поисков сигналов и быстрого фарма "Бурята" в игре!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 64 ms
+KeyDown 27 1
+Delay 64
+KeyUp 27 1
+Delay 1500 ms
+GoColor 12 0 63,84,59 57,119,51 1 690 407 863 114 1 0
+KeyDown 27 1
+Delay 64
+KeyUp 27 1
+Delay 1500 ms
+GoWhile 1 86400000
+MoveTo 1079 805
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1349 798
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 640 ms
+KeyDown 27 1
+KeyUp 27 1
+Delay 12 s
+KeyDown 27 1
+KeyUp 27 1
+Delay 500 ms
+MoveTo 1349 798
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 627 607
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 300 ms
+KeyDown 27 1
+Delay 64
+KeyUp 27 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

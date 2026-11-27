@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major>Bryan Taunt into F2, 1, 3 (LEFT SIDE)</Major>
+    <Description>This requires default tekken keyboard controls.
+You have to be on the left side of the player selection in order for this to work.
+Make sure to set the key operations to (Run While Holding Only), this will make it so that it wouldn't run the whole string if you mess up, you can always stop pressing the key.
+
+</Description>
+    <Comment>Free Macros - https://keyran.net | Бесплатные макросы - https://keyran.net</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 24 1
+KeyDown 14 1
+KeyDown 13 1
+Delay 30 ms
+KeyUp 13 1
+KeyUp 14 1
+KeyUp 24 1
+Delay 428
+KeyDown 7 1
+KeyDown 12 1
+Delay 19 ms
+KeyUp 12 1
+KeyUp 7 1
+Delay 19 ms
+KeyDown 13 1
+KeyDown 14 1
+Delay 30 ms
+KeyUp 13 1
+KeyUp 14 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 7</Software>
+  </DefaultMacro>
+</Root>

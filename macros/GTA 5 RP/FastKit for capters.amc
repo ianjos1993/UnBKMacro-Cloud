@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major>БЫстрое взятие кита для каптеров 1920*1080 Arizona V</Major>
+    <Description>БЫстрое взятие кита для каптеров 1920*1080, сильно поможет при смерте на капте, просто подойди к НПС  и нажми макрос</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 15
+KeyUp 8 1
+Delay 15
+MoveTo 848 996
+Delay 15
+LeftDown 1
+Delay 15
+LeftUp 1
+Delay 15
+MoveTo 796 591
+Delay 15
+KeyDown 77 1
+Delay 15
+KeyUp 77 1
+Delay 15
+MoveTo 843 768
+Delay 15
+KeyDown 88 1
+Delay 15
+KeyUp 88 1
+Delay 15
+KeyDown 41 1
+Delay 15
+KeyUp 41 1
+Delay 15</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

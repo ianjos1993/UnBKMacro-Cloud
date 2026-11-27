@@ -1,0 +1,82 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для фарма фрукт дракон в1 в игре Fruit BattleGround в игре Roblox
+Данный макрос делает следующие 
+Автоматически нажимает на:
+1 скилл 
+3 скилл 
+4 скилл 
+5 скилл 
+Примечание: я не стал добавлять 2 скилл в макрос так как он слишком резкий и из за него можно выпасть из места в котором вы стоите
+Все что вам нужно: Зайти в игру, Найти место в котором вас НЕ видно, Нажать на запуск Макроса и просто стоять пока Лвл на вашем фрукте качается
+Этот макрос помогает в создании фрукта Dragon v2  ( для него нужен 300 лвл на фрукте Dragon v1 и 30 титлов)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 341 ms
+LeftDown 1
+Delay 77 ms
+LeftUp 1
+Delay 357 ms
+KeyDown 30 1
+Delay 74 ms
+KeyUp 30 1
+Delay 131 ms
+LeftDown 1
+Delay 78 ms
+LeftUp 1
+Delay 2090 ms
+KeyDown 32 1
+KeyUp 32 1
+Delay 303 ms
+LeftDown 1
+Delay 88 ms
+LeftUp 1
+Delay 491 ms
+LeftDown 1
+Delay 122 ms
+LeftUp 1
+Delay 680 ms
+KeyDown 33 1
+Delay 112 ms
+KeyUp 33 1
+Delay 212 ms
+LeftDown 1
+Delay 86 ms
+LeftUp 1
+Delay 284 ms
+LeftDown 1
+Delay 99 ms
+LeftUp 1
+Delay 903 ms
+KeyDown 34 1
+Delay 138 ms
+KeyUp 34 1
+Delay 114 ms
+Delay 213 ms
+LeftDown 1
+Delay 105 ms
+LeftUp 1
+Delay 301 ms
+LeftDown 1
+Delay 102 ms
+KeyDown 18 1
+Delay 64
+KeyUp 18 1
+Delay 64
+LeftUp 1
+Delay 785 ms
+LeftDown 1
+GoWhile 1 86400000
+Delay 66 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

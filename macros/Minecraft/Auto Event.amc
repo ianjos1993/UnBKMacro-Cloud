@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Доброго всем утра.Сегодня мне не спалось и я решил что это самое время написать новый макрос для вас.Сегодня это макрос Auto Event.Данный макрос автоматически прописывает команду /event.Команда /event запускает событие.Например на сервера по Анархии имеются такие события как:Царь Горы,Мистический Сундук и т.д.Этот макрос пригодится для людей,которые заведуют проведением ивентов(событий).Надеюсь вам понравится.
+
+Инструкция по настройке:
+1)Скачайте предоставленный ниже файл с макросом на ваш компьютер.
+2)После этого сверните редактор макросов и перейдите на клавиатуру Keyran.
+3)Выбираете удобную для вас клавишу или кнопку мыши и назначаете на нее макрос.
+4)Если вы все сделали,то сохраняете изменения и используете макрос.</Description>
+    <Comment> </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 32 ms
+KeyUp 56 1
+Delay 32 ms
+KeyDown 8 1
+Delay 32 ms
+KeyUp 8 1
+Delay 32 ms
+KeyDown 25 1
+Delay 32 ms
+KeyUp 25 1
+Delay 32 ms
+KeyDown 8 1
+Delay 32 ms
+KeyUp 8 1
+Delay 32 ms
+KeyDown 17 1
+Delay 32 ms
+KeyUp 17 1
+Delay 32 ms
+KeyDown 23 1
+Delay 32 ms
+KeyUp 23 1
+Delay 32 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

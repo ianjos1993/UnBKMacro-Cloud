@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>Musa Rainstorm spam</Major>
+    <Description>This is a macro for the spam of Rainsorm. The build requires using rainstorm lvl3 and 3 items that reduces the recharge to zero.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 58 1
+Delay 64
+KeyUp 58 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 581 ms</Syntax>
+    </KeyDown>
+    <Software>Ragnarok</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,88 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос позволит вам собирать пшено, морковку, картошку и нарост на сервере Hypixel без вашего участия. Требования к данному макросу:
+
+1) Расширение экрана – 1920x1080
+
+2) Структура фермы должна быть аналогичной той, что показана в видео (строение на четырёх плотов), если у вас меньше, можно вручную изменить параметры подходящие к вам на строках: 5 и 21.
+
+3) Скорость должна быть выставлена как 115 с учётом зачарования (Depth Strider III) при выключенном спринте.
+
+4) При фарме культур, использовать мотыгу для вашей культуры со следующим зачарованием: Efficiency V
+
+5) Перед активацией макроса встаньте согласно видео и включите отображение координат на кнопку F3. Необходимо установить X взгляда в диапазон (90; -3 до 1)
+
+6) Из-за изменения сторон фермы могут сбиться повороты взгляда, рекомендуется либо точно следовать расположению фермы по видео, либо вручную корректировать на строках: 7,24,33 и 45
+
+7) Для повышения эффективности можно настроить время копания одной линии культуры (если установлено лишнее время перед поворотом к противоположной стороне), обратив внимание на строки с задержкой более 80000 мс.
+
+Внимание: макрос может плохо работать при большом пинге и низком количестве FPS – минимальное количество FPS для стабильной работы должно быть не менее 60
+
+Видео-инструкция, являющаяся частью руководства, доступно по ссылке: youtu.be/i6wkDmDyN4s
+Фото для точного рассмотрения начала фермы / Обязательно к просмотру:
+drive.google. com/file/d/1XpPbd3Y_SBwywNkshxF4TNEFTZHUn1gU/view?usp=drive_link</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+LeftDown 1
+Delay 80000 80200 ms
+KeyUp 7 1
+LeftUp 1
+Delay 64 78 ms
+MoveR 1200 0
+Delay 64 72 ms
+KeyDown 7 1
+LeftDown 1
+Delay 80000 80200 ms
+KeyUp 7 1
+LeftUp 1
+KeyDown 26 1
+Delay 2 s
+KeyUp 26 1
+Delay 64
+KeyDown 4 1
+LeftDown 1
+Delay 80000 80200 ms
+KeyUp 4 1
+LeftUp 1
+Delay 64 78 ms
+MoveR -1200 0
+Delay 64 72 ms
+KeyDown 4 1
+LeftDown 1
+Delay 80000 80200 ms
+KeyUp 4 1
+KeyUp 7 1
+LeftUp 1
+Delay 64
+MoveR -1200 0
+Delay 64
+KeyDown 26 1
+Delay 2 s
+KeyUp 26 1
+Delay 64
+KeyDown 4 1
+LeftDown 1
+Delay 80000 80200 ms
+KeyUp 4 1
+LeftUp 1
+Delay 64 78 ms
+MoveR -1200 0
+Delay 64 72 ms
+KeyDown 4 1
+LeftDown 1
+Delay 80000 80200 ms
+KeyUp 4 1
+KeyUp 7 1
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

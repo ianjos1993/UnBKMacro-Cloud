@@ -1,0 +1,60 @@
+<Root>
+  <DefaultMacro>
+    <Major>Трансмутация модов</Major>
+    <Description>Трансмутация модов. Для мониторов 1920x1080. Ставим разрешие игры на 1280x720 в окне. ровняем по правому нижнему углу. Открываем моды - дубликаты. Сортировка - дубликаты. Запускаем макрос. Трансмутироваться будет левый верхний мод. Моды чье описание больше 3 строчек трансмутим в ручную либо сливаем. Приятной игры.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 694 568
+Delay 200 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 200 ms
+MoveTo 1102 633
+Delay 200 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 100 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 100 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 200 ms
+MoveTo 952 658
+Delay 200 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 200 ms
+MoveTo 868 436
+Delay 200 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 200 ms
+MoveTo 955 590
+Delay 200 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 200 ms
+MoveTo 1025 697
+Delay 1000 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 200 ms</Syntax>
+    </KeyDown>
+    <Software>Warframe</Software>
+  </DefaultMacro>
+</Root>

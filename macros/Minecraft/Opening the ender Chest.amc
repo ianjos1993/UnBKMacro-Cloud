@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот бинд предназначен для прекрасной игры под названием MineCraft. Он понадобится на онлайн серверах майнкрафта. В настройках нужно указазать открытие чата на "/". Остальные настройки не понадобятся. Этот макрос нужен для открытия эндер сундука игрока. Заранее нужно убедится, что на сервере стоит такой плагин и у вас достаточно прав для её использования. Сам пользуюсь им и рекомендую всем. Удачной игры!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 5
+KeyUp 23 1
+Delay 5
+KeyDown 56 1
+Delay 5
+KeyUp 56 1
+Delay 5
+KeyDown 8 1
+Delay 5
+KeyUp 8 1
+Delay 5
+KeyDown 8 1
+Delay 5
+KeyUp 8 1
+Delay 5
+KeyDown 6 1
+Delay 5
+KeyUp 6 1
+Delay 5
+KeyDown 6 1
+Delay 5
+KeyUp 6 1
+Delay 5
+Button5Down 1
+Delay 5
+Button5up 1
+Delay 5
+RightDown 1
+Delay 5
+RightUp 1
+Delay 5</Syntax>
+    </KeyDown>
+    <Software>MineCraft</Software>
+  </DefaultMacro>
+</Root>

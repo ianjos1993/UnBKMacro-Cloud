@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>1 -Окна в станадртных местах оставляем
+2 - Смотря на каком споте поставили персонажа меняйте время ожидания последного действия под себя изначально и самое удачное 1-2 мин 
+3 - Разрещение экрана 1920 х 1080 
+4 - Если флета не успеет набиться есть пропуск окна так , что запускаем и не переживаем </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 746 687
+Delay 1 s
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+MoveTo 597 267
+Delay 1 s
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+MoveTo 476 311
+Delay 1 s
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+MoveTo 958 612
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+MoveTo 1629 417
+Delay 2 min</Syntax>
+    </KeyDown>
+    <Software>Karos(Залив 4 навыка флеты)</Software>
+  </DefaultMacro>
+</Root>

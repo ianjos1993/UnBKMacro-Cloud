@@ -1,0 +1,55 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос автоматически вводит команду /donate в Minecraft Bedrock Edition, мгновенно открывая информацию о доступных донат-привилегиях, товарах или способах поддержки сервера. Он идеально подходит для серверов с внутриигровыми покупками, позволяя игрокам быстро ознакомиться с предложениями без необходимости вручную вводить команду.
+
+Инструкция по установке макроса:
+1. Скачать файл макроса.
+2. Назначьте его на удобную клавишу.
+3. Все готово!
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 15
+KeyUp 56 1
+Delay 15
+KeyDown 7 1
+Delay 15
+KeyUp 7 1
+Delay 15
+KeyDown 18 1
+Delay 15
+KeyUp 18 1
+Delay 15
+KeyDown 17 1
+Delay 15
+KeyUp 17 1
+Delay 15
+KeyDown 4 1
+Delay 15
+KeyUp 4 1
+Delay 15
+KeyDown 23 1
+Delay 15
+KeyUp 23 1
+Delay 15
+KeyDown 8 1
+Delay 15
+KeyUp 8 1
+Delay 15
+KeyDown 88 1
+Delay 15
+KeyUp 88 1
+Delay 15
+SetLang ru-RU</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

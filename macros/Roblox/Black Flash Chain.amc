@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>Black Flash Chain Roblox Jujutsu Shenanigans</Major>
+    <Description>This macro makes it easier to hit a Black Flash Chain with the Character called 'Vessel' in Roblox Jujutsu Shenanigans. You'll have to play with less than a 30 ping on a public server for it to work correctly.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

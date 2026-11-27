@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major>Farm exp</Major>
+    <Description>скрипт на колдуна(1 скилл) + мастера обрядов(2 скилл) для фарма опыта на призму, классы. В локацие н`эруд, завод становишься возле камня сохранения и запускаешь скрипт.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 64
+KeyDown 22 1
+Delay 1850 ms
+KeyUp 22 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 1 s
+KeyDown 6 1
+Delay 64
+KeyUp 6 1
+Delay 1 s
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 1 s
+KeyDown 6 1
+Delay 64
+KeyUp 6 1
+Delay 1 s
+KeyDown 4 1
+Delay 74 ms
+KeyUp 4 1
+Delay 5 s
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 7 s
+KeyDown 41 1
+KeyUp 41 1</Syntax>
+    </KeyDown>
+    <Software>remnant 2</Software>
+  </DefaultMacro>
+</Root>

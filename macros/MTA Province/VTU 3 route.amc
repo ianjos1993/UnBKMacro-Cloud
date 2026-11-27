@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для фарма третьего маршрута на трамвае в Волчанске ВТУ. Перемещения курсора были на экране с разрешением 1920х1080.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 64 ms
+KeyUp 9 1
+Delay 500 ms
+MoveTo 708 496
+Delay 1000 ms
+LeftDown 1
+Delay 117 ms
+LeftUp 1
+Delay 6000 ms
+KeyDown 22 1
+Delay 5175 ms
+KeyUp 22 1
+Delay 208 ms
+KeyDown 7 1
+Delay 792 ms
+KeyUp 7 1
+Delay 359 ms
+KeyDown 26 1
+Delay 575 ms
+KeyUp 26 1
+Delay 496 ms
+KeyDown 7 1
+Delay 327 ms
+KeyUp 7 1
+Delay 360 ms
+KeyDown 26 1
+Delay 592 ms
+KeyUp 26 1
+Delay 500 ms
+MoveTo 787 590
+Delay 64
+LeftDown 1
+Delay 86 ms
+LeftUp 1
+Delay 2089 ms</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

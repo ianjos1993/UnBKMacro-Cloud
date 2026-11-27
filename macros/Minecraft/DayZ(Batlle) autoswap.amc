@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос был сделан в целях автосвапа снайперки на мейн ган на сервере DayZ BatlleGround
+
+При активации макроса персонаж берёт в руку снайперку, открывает прицел, стреляет, закрывает прицел, и берет обратно мейн ган, после чего начинает зажимать с него 30 секунд (для отмены зажима достаточно один раз нажать лкм)
+
+Для того чтобы макрос работал:
+
+Нужно положить основной ган на 1 слот, а снайперку на 2 (либо же можете в редакторе просто изменить клавиши под свою раскладку)
+
+Макрос был создан VilleR`ом.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 35 ms
+KeyUp 31 1
+Delay 35 ms
+RightDown 1
+Delay 35 ms
+LeftDown 1
+Delay 25 ms
+LeftUp 1
+Delay 25 ms
+RightUp 1
+Delay 35 ms
+KeyDown 30 1
+Delay 35 ms
+KeyUp 30 1
+Delay 35 ms
+LeftDown 1
+Delay 30 s</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

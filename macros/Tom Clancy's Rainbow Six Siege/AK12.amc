@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major>AK12 macro for fuze/ace</Major>
+    <Description>Good recoil, a bit of fluctuation for discreteness, so don't try to empty a mag into a pixel.
+
+Loadout: Acog, vert, comp
+
+Res: 16:10, 1920 x1080
+
+Sensitivity 6,6
+
+800 Dpi</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 0 29 1 30
+Delay 20 ms
+MoveR 0 39
+Delay 20 ms
+MoveR 0 34
+Delay 20 ms
+MoveR -10 29
+Delay 20 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

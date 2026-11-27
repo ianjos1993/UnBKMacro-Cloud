@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major>Политика</Major>
+    <Description>Автоматическая покупка политики.
+Условия:
+-Разрешение 1920х1080
+-Открытое окно представителя державы.
+
+Использование:
+Открыть окно представителя державы -&gt; Закупить полный комплект (для того, чтобы кнопки встали на свои места) -&gt; Активировать макрос на горячую клавишу.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1404 736
+Delay 10 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 64
+KeyDown 44 1
+Delay 10 ms
+KeyUp 44 1
+Delay 1000 ms
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 500 ms
+MoveTo 1384 771
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 100 ms</Syntax>
+    </KeyDown>
+    <Software>Elite Dangerous</Software>
+  </DefaultMacro>
+</Root>

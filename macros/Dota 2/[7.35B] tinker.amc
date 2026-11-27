@@ -1,0 +1,67 @@
+<Root>
+  <DefaultMacro>
+    <Major>lxrkii</Major>
+    <Description>
+Макрос, для игры на тинкере
+
+Как работает:
+ - Обычный проекаст с Хексом и соулом для тинкера
+
+
+Рекомендации:
+
+! НАВЕСТИ КУРСОР НА ПРОТИВНИКА !
+
+Z - Ethereal Blade
+X - Scythe of Vyse
+C - Soul Ring
+
+Key's:
+q - Laser
+w - Heat-Seeking Missile
+e - Defense Matrix
+d - Warp Flare
+r - Keen Conveyance
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>
+
+
+
+
+
+KeyDown 29 1
+Delay 64
+KeyUp 29 1
+Delay 64
+KeyDown 27 1
+Delay 64
+KeyUp 27 1
+Delay 64
+KeyDown 6 1
+Delay 64
+KeyUp 6 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

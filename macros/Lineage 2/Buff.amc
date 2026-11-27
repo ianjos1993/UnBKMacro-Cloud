@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major>Will cast 2 buffs</Major>
+    <Description>This is going to cast buffs in keys 0 and 9.
+Edit the delays as you need.
+Make sure to enable driver otherwise this might not work.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 98 1
+Delay 64
+KeyUp 98 1
+Delay 64
+KeyDown 97 1
+Delay 64
+KeyUp 97 1
+Delay 100 s
+KeyDown 97 1
+Delay 64
+KeyUp 97 1
+Delay 100 s
+KeyDown 97 1
+Delay 64
+KeyUp 97 1
+Delay 100 s</Syntax>
+    </KeyDown>
+    <Software>Lineage 2 buff</Software>
+  </DefaultMacro>
+</Root>

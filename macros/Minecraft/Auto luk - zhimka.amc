@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос используется в жимке на луках, просто забиндите макрос на клавишу которую хотите активировать , и при нажатии будет активировано. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 90 ms
+KeyUp 31 1
+Delay 90 ms
+KeyDown 44 1
+Delay 64 ms
+KeyUp 44 1
+Delay 64
+RightDown 1
+Delay 80 ms
+RightUp 1
+Delay 80 ms
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+RightDown 1
+Delay 80 ms
+RightUp 1
+Delay 80 ms
+GoWhile 1 55555555</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

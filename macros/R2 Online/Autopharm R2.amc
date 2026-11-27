@@ -1,0 +1,66 @@
+<Root>
+  <DefaultMacro>
+    <Major>Anonymos </Major>
+    <Description>Бот с автохилом, автоюзом зелья скорки, автоюзом скорострельности, авто тп
+Выставить необходимые скилы и банки по указаниям ниже, нажать PLAY и чилить: 
+Q - хилки
+F2 - зелье скорости
+F3 - скорострельность
+F8 - зелье тп</Description>
+    <Comment>Бот с автохилом, автоюзом зелья скорки, автоюзом скорострельности, авто тп
+Выставить необходимые скилы и банки по указаниям ниже, нажать PLAY и чилить: 
+Q - хилки
+F2 - зелье скорости
+F3 - скорострельность
+F8 - зелье тп</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 74 1
+Delay 192 ms
+KeyDown 73 1
+Delay 192 ms
+KeyUp 73 1
+Delay 192 ms
+KeyUp 74 1
+Delay 192 ms
+KeyDown 64 1
+Delay 192 ms
+KeyUp 64 1
+Delay 192 ms
+Delay 5000 ms
+KeyDown 4 1
+Delay 1600 ms
+KeyUp 4 1
+GoColor 23 0 179,0,0 255,255,255 0 1920 1080
+GoColor 28 0 0,0,0 255,255,255 0 1920 1080
+GoColor 35 0 0,0,0 255,255,255 0 1920 1080
+GoColor 38 0 179,0,0 255,255,255 0 1920 1080
+GoWhile 1 86400000
+GoWhile 1 86400000
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+GoWhile 1 86400000
+KeyDown 60 1
+Delay 64
+KeyUp 60 1
+Delay 64
+GoWhile 1 86400000
+KeyDown 59 1
+Delay 64
+KeyUp 59 1
+Delay 64
+GoWhile 1 86400000
+KeyDown 65 1
+Delay 64 ms
+KeyUp 65 1</Syntax>
+    </KeyDown>
+    <Software>R2 online</Software>
+  </DefaultMacro>
+</Root>

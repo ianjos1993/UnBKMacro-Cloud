@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major>Смузи гта 5 рп под HD мониторы</Major>
+    <Description>Смузи гта 5 рп под HD мониторы, если что меняйте точки через редактор!
+Инструкция: два раза нажимаете на координаты и через красную точку настраиваете, а именно зажимаете на красном кружке и наводите куда вам надо! У меня монитор 1360 на 768!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 898 128
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 807 129
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 534 416
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 532 516
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+GoWhile 1 40</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

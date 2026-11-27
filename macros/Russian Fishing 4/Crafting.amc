@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>mif</Major>
+    <Description>самый простой макрос для авто прокачки дабычи наживки или прикормки,запускаешь макрос и на водишь курсор на "изготовить"</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 82 ms
+LeftDown 1
+Delay 107 ms
+KeyUp 44 1
+Delay 10 ms
+LeftUp 1
+Delay 63 ms
+KeyDown 44 1
+Delay 48 ms
+LeftDown 1
+Delay 39 ms
+KeyUp 44 1
+Delay 24 ms
+LeftUp 1
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Русская Рыбалка 4</Software>
+  </DefaultMacro>
+</Root>

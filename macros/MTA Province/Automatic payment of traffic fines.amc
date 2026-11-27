@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Быстрая оплата штрафов ГИБДД. Использование данного макроса сильно помогает при уходе от погони (вас не смогут отследить по штрафам, а вы не будете останавливаться для их оплаты, так как макрос может сделать это на ходу). Также макрос можно использовать для комфортной и автоматической оплаты штрафов, чтобы не тратить на это свое время.
+Макрос предназначен для разрешения 1920 х 1080 х 32.
+Оплата штрафов происходит менее чем за 2 секунды
+Приятного использования!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 24 1
+KeyUp 24 1
+Delay 200 ms
+MoveTo 1714 668
+Delay 200 ms
+LeftDown 1
+LeftUp 1
+Delay 10 ms
+MoveTo 1736 915
+Delay 200 ms
+LeftDown 1
+LeftUp 1
+Delay 10 ms
+MoveTo 1736 978
+Delay 200 ms
+LeftDown 1
+LeftUp 1
+Delay 10 ms
+MoveTo 1735 856
+Delay 200 ms
+LeftDown 1
+LeftUp 1
+Delay 5 ms
+KeyDown 24 1
+KeyUp 24 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

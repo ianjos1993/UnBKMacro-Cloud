@@ -1,0 +1,142 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>фарм мечей и топ навыка с босса в разрушенных болотах
+
+Учловия :
+У вашего песонажа должно быть достаточно урона чтобы убивать боса за 2-3 удара 
+запускать лучше на персональном сервере чтобы от лишних глаз подальше
+
+Для коректной работы необходимо иметь разрешение экрана 1920х1080, а так же приложение роблокс должно быть запущено в оконном режиме во весь экран
+
+Для фарма вам нужно подойти к боссу занять любое место в плотную к нему для ближнего боя  и запустить скрипт.
+Скрипт позволяет быть в игре 24/7  припятствует вылетам из за АФК, в случае дисконекта из за плохого соеденения скрипт сам перезайдет в игру и приведет персонажа на место фарма и продолжит его </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//проверка ошибки
+Delay 200 ms
+GoColor 6 1 255,255,255 255,255,255 1 983 621 979 460 1 0
+Delay 64 ms
+Goto 111
+//есть вероятность ошибки
+//проверяю
+GoColor 11 1 57,59,61 255,255,255 1 931 617 932 464 1 0
+Delay 64 ms
+Goto 111
+//ошибка найдена
+Delay 64 ms
+MoveTo 1046 616
+Delay 64
+MoveTo 1047 616
+Delay 64
+MoveTo 1048 616
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 500 ms
+GoColor 13 1 255,255,255 255,255,255 1 983 621 979 460 1 0
+Delay 64 ms
+//перезапуск игры
+Delay 300 ms
+GoColor 31 1 243,243,243 255,255,255 1 926 991 876 90 1 0
+Delay 64
+Goto 25
+Delay 64
+//ошибка устранена игра перезапущена
+Delay 64 ms
+//старт игры
+Delay 300 ms
+MoveTo 872 991
+Delay 64
+MoveTo 873 991
+Delay 64
+MoveTo 874 991
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 859 965
+Delay 64
+MoveTo 858 965
+Delay 64
+MoveTo 857 965
+Delay 200 ms
+GoColor 33 1 243,243,243 255,255,255 1 926 991 876 90 1 0
+Delay 64
+//игра загружена
+//телепорт в разрушенные болота
+Delay 64 ms
+KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 400 ms
+MoveTo 1283 608
+Delay 64
+MoveTo 1282 608
+Delay 64
+MoveTo 1281 608
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 600 ms
+GoColor 75 1 169,137,255 255,255,255 1 852 62 999 992 1 0
+Delay 64
+MoveTo 1340 612
+Delay 64
+Goto 54
+//перемещение завершено
+Delay 64
+//закрыть окно
+MoveTo 1337 192
+Delay 64
+MoveTo 1338 192
+Delay 64
+MoveTo 1339 192
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 200 ms
+GoColor 77 1 0,212,0 255,255,255 1 1179 480 991 601 1 0
+Delay 300 ms
+//окно закрыто идем в данж
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 26 1
+Delay 4 s
+KeyUp 26 1
+Delay 64
+MoveR -120 0
+Delay 64
+KeyDown 26 1
+Delay 5 s
+KeyUp 26 1
+Delay 64
+MoveR 120 0
+Delay 64
+KeyDown 26 1
+Delay 4500 ms
+KeyUp 26 1
+Delay 64
+//мы в данже, бьем боса
+Delay 64
+LeftDown 1
+Delay 25 s
+LeftUp 1
+Delay 64
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>ROBLOX Slime Slaying Simulator</Software>
+  </DefaultMacro>
+</Root>

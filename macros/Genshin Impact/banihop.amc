@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major>автопрыжок</Major>
+    <Description>Макрос «Банихоп» для «Genshin Impact» можно скачать бесплатно и использовать на любой мышке или клавиатуре.
+Установка макроса происходит одним движением в программе Keyran и повышает ваш уровень мастерства в игре!
+</Description>
+    <Comment>Банихоп на клавишу Shift, зажимаете и вперед.
+В настройках укажите режим работы при нажатии</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 350 ms
+KeyDown 44 1
+Delay 30
+KeyUp 44 1
+Delay 30
+Goto 3</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

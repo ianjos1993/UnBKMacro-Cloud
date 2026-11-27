@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на автоеду в Minecraft. Подходит почти на любой сервер
+
+Нужно держать еду в 9 слоте, и если вы проголодаетесь макрос сам это определит и покушает за вас.
+
+Драйвер: нужен
+Разрешение экрана: 1680x1050</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 2 0 0,0,0 255,255,255 1 1116 957 805 124 1 0
+KeyDown 38 1
+Delay 100 ms
+KeyUp 38 1
+Delay 300 ms
+RightDown 1
+Delay 4 s
+RightUp 1
+Delay 100 ms
+KeyDown 30 1
+Delay 100 ms
+KeyUp 30 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

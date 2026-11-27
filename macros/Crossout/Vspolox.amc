@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всполох замедляет врага, слабо перегревается и наносит неплохой урон благодаря макросу. Так же подходит оружие Искра</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 40 ms
+LeftUp 1
+Delay 22 ms
+KeyDown 30 1
+Delay 40 ms
+KeyUp 30 1
+Delay 22 ms
+KeyDown 31 1
+Delay 40 ms
+KeyUp 31 1
+Delay 22 ms</Syntax>
+    </KeyDown>
+    <Software>Crossout</Software>
+  </DefaultMacro>
+</Root>

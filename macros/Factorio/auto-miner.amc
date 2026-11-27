@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>Авто-добыватель полезных руд и ископаемых</Major>
+    <Description>Благодаря этому макросу становится возможным добывание нескольких типов руд в игре Factorio. Для этого надо перейти поближе к шахте и запустить макрос. Все проверено и работает хорошо.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 64
+Delay 64
+KeyDown 23 1
+Delay 64
+Delay 64
+Button5Down 1
+Delay 64
+Delay 64
+KeyDown 224 1
+Delay 64
+Delay 64
+GoWhile 13 5</Syntax>
+    </KeyDown>
+    <Software>Factorio</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,87 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос моя новая версия более оптимизированная или по другому сказать быстрый 
+Что вам понадобится для его использования: стабильный интернет(если хоть 1 раз подвиснет он сломается полностью)
+
+1. Поставьте сет хом в 85 блоков от края по другому сказать это на линии перехода 
+2. Камеру выровняйте ровно 90 Yaw 
+3.С помощью Rancher boots скорость поставьте 132 у меня такая и макрос построен на такой скорости
+4. Запускайте макрос только следите что бы он не сломался или что нибудь ещё 
+
+Что вам придется делать: Продавать собранный урожай, периодически смотреть на компьютер не сломалось ли чего нибудь и главное убирать вредителей они убирают фарминг фортуну если их много это сказывается на вашем урожае - деньгах.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+не знаю правильно ли делаю что каждый новый макрос это отдельный файл</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 186 ms
+KeyDown 26 1
+KeyDown 7 1
+Delay 20583 ms
+KeyUp 7 1
+Delay 988 ms
+KeyDown 4 1
+Delay 20839 ms
+KeyUp 4 1
+Delay 1075 ms
+LeftUp 1
+GoWhile 1 40
+KeyDown 56 1
+Delay 32 ms
+KeyUp 56 1
+Delay 32 ms
+KeyDown 26 1
+Delay 32 ms
+KeyUp 26 1
+Delay 32 ms
+KeyDown 4 1
+Delay 32 ms
+KeyUp 4 1
+Delay 32 ms
+KeyDown 21 1
+Delay 32 ms
+KeyUp 21 1
+Delay 32 ms
+KeyDown 19 1
+Delay 32 ms
+KeyUp 19 1
+Delay 32 ms
+KeyDown 44 1
+Delay 32 ms
+KeyUp 44 1
+Delay 32 ms
+KeyDown 10 1
+Delay 32 ms
+KeyUp 10 1
+Delay 32 ms
+KeyDown 4 1
+Delay 32 ms
+KeyUp 4 1
+Delay 32 ms
+KeyDown 21 1
+Delay 32 ms
+KeyUp 21 1
+Delay 32 ms
+KeyDown 7 1
+Delay 32 ms
+KeyUp 7 1
+Delay 32 ms
+KeyDown 8 1
+Delay 32 ms
+KeyUp 8 1
+Delay 32 ms
+KeyDown 17 1
+Delay 32 ms
+KeyUp 17 1
+GoWhile 1 10
+//Значение можно менять это сколько вы хотите раз собрать ферму</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

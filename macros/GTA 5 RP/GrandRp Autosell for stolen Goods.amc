@@ -1,0 +1,91 @@
+<Root>
+  <DefaultMacro>
+    <Major>Selling stolen goods firectly from your vehicle to the Purchaser</Major>
+    <Description>This files are made for fast fullautomated selling of stolen goods from a vehicle, that you must place with open boot near you, so you dont have to go away from the Purchaser. An important thing is, that the Macro works fast and slow systems cant load the diffrent menus and inventorys that fast as sometimes required. You would have to stop in that case the Macro and to sell the goods manually, if the macro crashes after he transfered the goods into your inventory. To get a vehicle near you and the Purchaser you need a small vehicle or quad with boot. I recommand "Blazer Lifeguard" for that, cause you need to get cross the black market onto the railtracks and have to jump down there with the car , wwhere you fall into the black market area.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 12 1
+Delay 10 ms
+KeyUp 12 1
+Delay 200 ms
+MoveTo 1039 429
+//The product must be in your vehicle boot in the upper left corner near you so you can reach it, whithout having to walk away from the seller.
+Delay 400 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 200 ms
+MoveTo 1264 574
+Delay 64 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 400 ms
+KeyDown 31 1
+Delay 10 ms
+KeyUp 31 1
+Delay 500 ms
+MoveTo 886 706
+Delay 30 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 400 ms
+KeyDown 41 1
+Delay 10 ms
+KeyUp 41 1
+Delay 500 ms
+KeyDown 8 1
+Delay 10 ms
+KeyUp 8 1
+Delay 300 ms
+MoveTo 1521 867
+Delay 200 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 300 ms
+MoveTo 959 847
+Delay 300 ms
+LeftDown 1
+Delay 20 ms
+LeftUp 1
+Delay 400 ms
+MoveTo 1006 435
+//Change Position of the Move cursor to change the product you want to sell.
+Delay 64
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 400 ms
+MoveTo 887 762
+Delay 64
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 400 ms
+KeyDown 31 1
+Delay 10 ms
+KeyUp 31 1
+Delay 64
+MoveTo 883 747
+Delay 200 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 200 ms
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 200 ms
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>этот макрос позволяет производить комбинацию ударов в игре 'prototype', нажимая лишь одну кнопку мыши.
+
+Для того, что бы макрос работал корректно, вам нужно:
+
+1. забиндить открытие колеса макросов на кнопку Е(Рус)/T(Англ)
+2. поставить нужный вам навык на ЛКМ
+3. выбрать цель, которую хотите атоковать
+4. запустить макрос</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>SetLang en-US
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1 s
+KeyDown 44 1
+Delay 2 s
+KeyUp 44 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyDown 225 1
+Delay 64
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 1 s
+LeftDown 1
+Delay 2 s
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>prototype</Software>
+  </DefaultMacro>
+</Root>

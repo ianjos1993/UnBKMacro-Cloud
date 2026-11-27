@@ -1,0 +1,71 @@
+<Root>
+  <DefaultMacro>
+    <Major>AFk fortnite match for token (azerty keyboard))</Major>
+    <Description>afk your fortnites matchs to let your mates get the token for you. work for keyboard set with azerty</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 64
+KeyUp 29 1
+Delay 64
+KeyDown 29 1
+Delay 64
+KeyUp 29 1
+Delay 64
+KeyDown 225 1
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+Delay 5 s
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyUp 225 1
+Delay 64
+KeyDown 7 1
+Delay 3 s
+KeyUp 7 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 64
+Delay 64
+Delay 5 s
+KeyDown 29 1
+Delay 64
+KeyUp 29 1
+Delay 64
+Delay 64
+KeyDown 5 1
+MoveTo 896 261
+Delay 64
+Delay 2 s
+KeyUp 5 1
+Delay 5 s
+MoveTo 1588 569
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

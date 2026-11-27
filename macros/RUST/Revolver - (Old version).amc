@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на Револьвер.
+Приватный в прошлом.
+При использовании приседать на CTRL.
+Проверил только что ( 12.12.2019 ) работает отлично.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 20 ms
+MoveR 0 2
+LeftUp 1
+MoveR 0 2
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Macro Excelente para usar em pistolas com repetição do click em 2ms, muiuto rápido, tambem usado em armas com disparo único, Ex Kruger, ou qualquer rifle semiautomatico.
+Pode ser utilizado na tecla de sua preferencia, quanto teclado ou mouse.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 6 ms
+LeftUp 1
+Delay 6 ms
+LeftDown 1
+Delay 6 ms
+LeftUp 1
+Delay 6 ms
+LeftDown 1
+Delay 6 ms
+LeftUp 1
+Delay 24 ms</Syntax>
+    </KeyDown>
+    <Software>Infestation: The New Z</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major>VECTOR 2.0 by HOODIExSZN</Major>
+    <Description>THIS VECTOR SCRIPT IS AT LEAST 80% MORE ACCURATE THEN THE OLD ONE!
+
+INSTRUCTIONS
+Just Bind to the left mouse key, and make sure operation mode is on "HOLD UNTIL RELEASED".
+
+DISCLAIMER!
+macro will not work if keyran drivers are not installed
+
+Pretty EZ to use, just bind it to the left mouse button.
+
+ATTACHMENTS
+Sight- Magnified B
+Barrel-Extended Barrel
+
+GAME SETTINGS
+Resolution-1920x1080
+FOV-84
+SenseHorizontal-13
+SenseVertical-13
+DPI-800
+
+Made by HOODIExSZN
+
+ENJOY!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 1 6
+Delay 5 ms
+MoveR 0 6
+Delay 5 ms
+MoveR -1 6
+Delay 5 ms
+MoveR 0 6
+Delay 5 ms
+LeftUp 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

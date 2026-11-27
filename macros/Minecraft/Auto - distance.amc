@@ -1,0 +1,63 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос автоматически вводит команду /distance в Minecraft Bedrock Edition, позволяя мгновенно измерить расстояние между двумя точками или игроками. Он полезен для строителей, PvP-игроков, администраторов и всех, кому важно быстро получать точные данные о дистанции в игре.
+
+Инструкция по установке макроса:
+1. Скачать файл макроса.
+2. Назначьте его на удобную для вас клавишу.
+3. Пользуйтесь!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>SetLang en-US
+KeyDown 56 1
+Delay 10
+KeyUp 56 1
+Delay 10
+KeyDown 7 1
+Delay 10
+KeyUp 7 1
+Delay 10
+KeyDown 12 1
+Delay 10
+KeyUp 12 1
+Delay 10
+KeyDown 22 1
+Delay 10
+KeyUp 22 1
+Delay 10
+KeyDown 23 1
+Delay 10
+KeyUp 23 1
+Delay 10
+KeyDown 4 1
+Delay 10
+KeyUp 4 1
+Delay 10
+KeyDown 17 1
+Delay 10
+KeyUp 17 1
+Delay 10
+KeyDown 6 1
+Delay 10
+KeyUp 6 1
+Delay 10
+KeyDown 8 1
+Delay 10
+KeyUp 8 1
+Delay 10
+SetLang ru-RU
+KeyDown 88 1
+Delay 10
+KeyUp 88 1
+Delay 10</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

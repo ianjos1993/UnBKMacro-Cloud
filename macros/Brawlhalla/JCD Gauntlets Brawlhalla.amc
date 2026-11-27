@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major>JCD Gauntlets Brawlhalla </Major>
+    <Description>This Combo has made for gauntlets
+The objective of that combo is doing one of the hardest mechanics of gauntlets that is dlight - jump chase dodge - n-air
+
+The commands that im using for that macro are : Light Attack : Mouse1
+                                                                             AWSD: Movement Commands
+                                                                             Space: Jump
+                                                                             Shift: Dodge
+In order to the macro work you need to have all commands set up like that.
+Combo of macro : Down-Light (S+M1) -&gt; Jump Chase Dodge -&gt; N-Air in perfect timing
+
+The macro was made by Away#7646 in 24/05/2022</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 32 ms
+LeftDown 1
+Delay 125 ms
+KeyUp 22 1
+Delay 3 ms
+LeftUp 1
+Delay 332 ms
+KeyDown 44 1
+Delay 48 ms
+KeyDown 225 1
+Delay 0 ms
+KeyDown 7 1
+Delay 70 ms
+KeyUp 7 1
+Delay 0 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyUp 44 1
+Delay 224 ms
+KeyUp 225 1
+Delay 750 ms</Syntax>
+    </KeyDown>
+    <Software>Brawlhalla</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,24 @@
+<Root>
+  <!-- by Britan -->
+  <DefaultMacro>
+    <Major></Major>
+    <Description>НАЗВАНИЕ: Palworld Sphere Throw. ОПИСАНИЕ: Быстрый бросок сферы для ловли Палов: Q (сфера) -&gt; ЛКМ (бросок). Автоматически выбирает сферу и бросает. РЕКОМЕНДУЕМАЯ КЛАВИША: Mouse 4 (Side). КАК ИСПОЛЬЗОВАТЬ: Привяжи макрос на кнопку Mouse 4. Наведи на Пала и нажми Mouse 4 - макрос выберет сферу и бросит её. Однократное выполнение. НАСТРОЙКА: Если сфера на другой клавише - замени KeyDown 81 (Q). АВТОР: by Britan. ЗАПРЕЩЕНО копировать без указания автора.</Description>
+    <Comment>Привязка: Mouse 4 (Side). Режим: однократное. Инструкция: наведи на Пала и нажми - быстрый бросок сферы.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 81 1
+Delay 30 ms
+KeyUp 81 1
+Delay 50 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Palworld</Software>
+  </DefaultMacro>
+</Root>

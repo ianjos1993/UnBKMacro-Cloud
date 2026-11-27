@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Спам стихийной атаки на Кейа с автобегом, если хотите добраться до какого-нибудь устрова по льду. Включили и пошли)</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 20 ms
+KeyUp 8 1
+Delay 20 ms
+KeyDown 26 1
+Delay 2200 ms
+KeyUp 26 1
+Delay 4800 ms</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

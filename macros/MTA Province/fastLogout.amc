@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Достаточно простой и незамысловатый, но экономящий много времени скрипт. По нажатию на кнопку вводится команда /logout. Время ввода команды быстрее,чем у аналогов.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1 ms
+KeyDown 65 1
+Delay 5 ms
+KeyUp 65 1
+Delay 5 ms
+KeyDown 15 1
+Delay 5 ms
+KeyUp 15 1
+Delay 5 ms
+KeyDown 18 1
+Delay 5 ms
+KeyUp 18 1
+Delay 5 ms
+KeyDown 10 1
+Delay 5 ms
+KeyUp 10 1
+Delay 5 ms
+KeyDown 18 1
+Delay 5 ms
+KeyUp 18 1
+Delay 5 ms
+KeyDown 24 1
+Delay 5 ms
+KeyUp 24 1
+Delay 5 ms
+KeyDown 23 1
+Delay 5 ms
+KeyUp 23 1
+Delay 5 ms
+KeyDown 88 1
+Delay 5 ms
+KeyUp 88 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

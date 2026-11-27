@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro allows you to edit very quickly on the key of F. all you have to do is go to the keyran main screen and bind (find edit [F] with any free key on your keyboard you want to use and your fast edit, this can be any key. If you have problems with the macro, write to me, I will help you.
+To make this macro work, you need to bind it to any key and that's it, you're done!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 10 ms
+KeyDown 9 1
+Delay 10 ms
+KeyUp 9 1
+Delay 10 ms
+KeyDown 36 1
+Delay 10 ms
+KeyUp 36 1
+Delay 10 ms
+KeyDown 9 1
+Delay 10 ms
+KeyUp 9 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

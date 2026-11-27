@@ -1,0 +1,55 @@
+<Root>
+  <DefaultMacro>
+    <Major>макрос на инвайт в пати основного персонажа</Major>
+    <Description>макрос на инвайт в пати основного персонажа в л2 мейн
+макрос создан для  прокачки основного персонажа без саппорта в пати
+1. на окне с основным персонажем выставляете нужные вам скилы на панель F6-F11.
+2. на другом окне саппорта делаете игровой макрос  с инвайтом основного персонажа в пати и с последующим бафом его (например кидаете ПОМ, он бафается только в пати).
+3.ставим двух персонажей на спот.
+4.включаем игровой макрос на саппорте и этот макрос на основном персонаже.
+5.наслаждаемся вкусным фармом.
+ 
+Макрос тестировался на ПК  игра запущена в окне с разрешением  2560*1080.
+P.S.Если клик мыши не попадает на кнопку принятия пати, просто подвигаете окно с принятием в нужное вам место.</Description>
+    <Comment>https://keyran.net - лучшая программа для макросов
+</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 63 1
+Delay 10
+KeyUp 63 1
+KeyDown 64 1
+Delay 10
+KeyUp 64 1
+Delay 10
+KeyDown 65 1
+Delay 10
+KeyUp 65 1
+Delay 10
+KeyDown 66 1
+Delay 10
+KeyUp 66 1
+Delay 10
+KeyDown 67 1
+Delay 10
+KeyUp 67 1
+Delay 10
+KeyDown 68 1
+Delay 10
+KeyUp 68 1
+Delay 10
+Delay 64
+MoveR -1104 363
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

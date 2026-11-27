@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>simple faster editing. p for editing and confriming, O for selection. Works fine for douple edits and window edits. use it on youre on risk and make sure to change the delay if you play a high ping </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 19 1
+Delay 1 ms
+KeyUp 19 1
+Delay 1 ms
+KeyDown 18 1
+Delay 2 ms
+KeyUp 18 1
+Delay 1 ms
+KeyDown 19 1
+Delay 1 ms
+KeyUp 19 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

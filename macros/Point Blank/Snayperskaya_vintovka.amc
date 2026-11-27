@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>To suppress gun's bursts recoil so that to ensure precise firepower
+Applicable weapon: light machine guns, rifles, mini-submachine gun</Description>
+    <Comment>Automatic Press Gun
+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+//http://vk.com/press_like_to_pay_respect Скрипты и макросы!
+Delay 20 ms
+RightUp 1
+Delay 20 ms
+LeftDown 1
+Delay 20 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 32 1
+Delay 20 ms
+KeyUp 32 1
+Delay 20 ms
+KeyDown 30 1
+Delay 20 ms
+KeyUp 30 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Point Blank (PB)</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,69 @@
+<Root>
+  <DefaultMacro>
+    <Major>auto combo on spear </Major>
+    <Description> u need default keys for this to work and you can activate it by pressing 0 on number bar on the side</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 98 1
+Delay 64
+KeyUp 98 1
+Delay 64
+KeyDown 7 1
+Delay 64
+KeyDown 13 1
+Delay 64
+KeyUp 7 1
+Delay 64
+KeyUp 13 1
+Delay 500 ms
+KeyDown 22 1
+Delay 64
+KeyDown 13 1
+Delay 64
+Delay 64
+KeyUp 13 1
+Delay 64
+KeyUp 22 1
+Delay 500 ms
+KeyDown 225 1
+Delay 64
+KeyUp 225 1
+Delay 64
+KeyDown 22 1
+Delay 64
+KeyDown 13 1
+Delay 64
+Delay 64
+KeyUp 13 1
+KeyUp 22 1
+Delay 500 ms
+KeyDown 44 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyDown 14 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyUp 14 1
+Delay 700 ms
+KeyDown 44 1
+Delay 64
+KeyDown 14 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyUp 14 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Brawlhalla</Software>
+  </DefaultMacro>
+</Root>

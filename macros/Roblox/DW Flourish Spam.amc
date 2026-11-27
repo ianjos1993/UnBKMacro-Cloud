@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>Decaying Winter Flourish Spam</Major>
+    <Description>Decaying Winter is a survival FPS inside of Roblox where you and a team of four other individuals have to survive for 10 nights, each night getting more difficult to battle your way through. A fun mechanic inside Decaying Winter is the emote mechanic. By pressing 'N', you can activate the emote selection board. By pressing 2 after N, you can chose to flourish your weapon. This macro does just that, except with percision and skill. By automaticaly cycling between option menus, DW Flourish Spamming is made possible.
+
+Instructions:
+ - Not much is needed to explain here. Just activate the macro and start flourishing.
+
+Notes:
+ - You must have a weapon equiped inside inventory slot 1 in order to flourish. You have to stay on your slot 1 as this macro plays or else it will abruptly end.
+ - Setting this keybind on number keys/game controls will break the macro or make Decaying Winter less playable. I reccomend binding it to Y or G.
+ - If you find any issues, discover a better way to flourish spam, or have more macro suggestions, please feel free to contact the developer of this macro (me)!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 17 1
+Delay 64
+KeyUp 17 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 330 ms
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>С помощью данного макроса вы сможете начинать эмот деш с 9 эмоции (для тех кто купил геймпас). Макрос работоет только в evade и применять его в других режимах\играх нецелесообразно.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+Delay 64
+KeyDown 38 1
+Delay 64
+KeyUp 38 1
+Delay 64
+KeyUp 10 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>roblox</Software>
+  </DefaultMacro>
+</Root>

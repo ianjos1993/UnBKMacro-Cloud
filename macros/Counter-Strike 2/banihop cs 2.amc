@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>банихоп</Major>
+    <Description>этот макрос поможет вам выполнять бонихоп без каких либо усилий
+дастаточно просто нажать на пробел и  макрос все за вас сделает .</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 3 ms
+KeyDown 7 1
+Delay 3 ms
+Delay 3 ms
+KeyUp 7 1
+Delay 3 ms
+KeyDown 4 1
+Delay 3 ms
+KeyDown 44 1
+Delay 3 ms
+KeyUp 44 1
+Delay 3 ms
+KeyUp 4 1
+Delay 3 ms
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>Counter-Strike 2</Software>
+  </DefaultMacro>
+</Root>

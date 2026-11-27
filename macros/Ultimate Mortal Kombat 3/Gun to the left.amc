@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major>Страйкер</Major>
+    <Description>"Страйкер"
+Данная комбинация собрана в одну кнопку для Вашего удобства
+
+
+Для настройки данного макроса используется такая расскладка в игре :
+
+Нижний удар рукой - E
+Верхний удар рукой - W
+Нижнй удар ногой - S
+Верхний удар ногой - D
+Бег - Q</Description>
+    <Comment>для тех кто играет на эмуляторе SEGA или MAME+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 79 1
+Delay 9 ms
+KeyUp 79 1
+Delay 9 ms
+KeyDown 80 1
+Delay 9 ms
+KeyUp 80 1
+Delay 9 ms
+KeyDown 26 1
+Delay 9 ms
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>Mortal kombat 3 ultimatum</Software>
+  </DefaultMacro>
+</Root>

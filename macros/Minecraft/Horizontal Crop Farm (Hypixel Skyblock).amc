@@ -1,0 +1,60 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This is a macro that has been created with the aim to be used to semi automate horizontal crop farming on the hypixel server, specifcally in their skyblock gamemode. 
+
+Farm Specifications:
+Farm size: 163 blocks x 163 blocks
+Speed stat: 245 speed
+Crops: Can be used for Cocoa Beans (Angle the cursor upwards), Potato, Carrot, Wheat, Cactus, Mushroom and Nether wart.
+Recommend building multiple layers of farm with teleport pads so that you can infinitely farm.
+
+How to use: Cocoa Beans
+
+1. Angle your cursor directly upwards with the cocoa beans set above you
+2. Make sure that your angle (Press F3 to find this info) is 90/-90
+3. Start the macro and it will afk farm
+
+How to use: Every other crop listed
+
+1. Angle your cursor at the angle 90/-1
+2. Make sure that the crops are raised one block off the ground so that they are at your resting eye level.
+3. Start Macro and it will afk farm for you.
+
+
+Other Hypixel Skyblock Farm Macros:
+Suagr Cane: https://botmek.com/share/?file=KEifJArjP6lrJo7</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 22 1
+KeyDown 4 1
+Delay 23500 ms
+KeyUp 22 1
+KeyUp 4 1
+Delay 64
+KeyDown 26 1
+Delay 3 s
+KeyUp 26 1
+Delay 64
+KeyDown 22 1
+KeyDown 7 1
+Delay 64
+KeyUp 22 1
+KeyUp 7 1
+Delay 23500 ms
+KeyDown 26 1
+Delay 3 s
+KeyUp 26 1
+Delay 64
+GoWhile 2 86400000</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

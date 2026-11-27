@@ -1,0 +1,94 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматическое кручение вилспинов в Forza Horizon 4 без добавление дубликатов авто в гараж. Работает и в Forza Horizon 5</Description>
+    <Comment>Коментарит для модератора         Макрос уникален тем что никто не делает макросы для этих игр в прокрутке вил спинов не добавляются авто</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Forza Horizon 4</Software>
+  </DefaultMacro>
+</Root>

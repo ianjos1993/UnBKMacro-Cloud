@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос создан для анти веревки, наручников
+Он автоматически нажимыет LMB(Left Mouse Button) или Левая кнопка мыши :3
+
+Если с макросом неполадки не пишите мне я сам узнаю и исправлю :3</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 2 ms
+LeftUp 1
+Delay 2 ms
+LeftDown 1
+Delay 2 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Garry´s Mod</Software>
+  </DefaultMacro>
+</Root>

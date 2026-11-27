@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major>me (theguyinpurple)</Major>
+    <Description>This macro allows you to automatically type "gg" in any Roblox game you play. It’s super easy to use and doesn’t require much explanation because it’s straightforward and efficient, saving you time and effort.</Description>
+    <Comment>-- This macro sends "gg" in any Roblox game with just one key press. Simple and efficient for quick chats! Don't be toxic; stay friendly and kind!</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+KeyUp 56 1
+Delay 44 ms
+KeyDown 10 1
+KeyUp 10 1
+KeyDown 10 1
+KeyUp 10 1
+Delay 20 ms
+KeyDown 88 1
+KeyUp 88 1
+Delay 270 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

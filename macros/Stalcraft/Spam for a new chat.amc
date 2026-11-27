@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Для правильной работы макроса, нужно поставить открывание чата на ctrl, написать нужный текст, подождать 10-13 секунд и запускать макрос.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 228 1
+Delay 1 s
+KeyDown 82 1
+Delay 1 s
+KeyDown 88 1
+Delay 9 s</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

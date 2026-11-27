@@ -1,0 +1,118 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>AUTO FARMING (NETHERWARK, CARROT, PATATO, WHEAT)
+FARMING 14 FLOOR AND AUTOSELL EVERY LIGNE
+
+Conditions:
+~ 9 CHUNK Length 
+3 CHUNK Width
+With 5x5 / 4x4 / 3x3 FARMING HOE
+
+VIEW TO EAST on -90.0 / 90   (can see it on F3)
+Key WASD
+For selling key " V " (Can set by Lunar or mod macro)
+
+discord: cerisierr_
+
+i will add one pictures soon for schematic farm</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 4 1
+Delay 3100 ms
+KeyUp 4 1
+Delay 10
+KeyDown 26 1
+Delay 700 ms
+KeyUp 26 1
+Delay 10
+KeyDown 25 1
+Delay 64
+KeyUp 25 1
+Delay 10 ms
+KeyDown 7 1
+Delay 3100 ms
+KeyUp 7 1
+Delay 10 ms
+KeyDown 26 1
+Delay 700 ms
+KeyUp 26 1
+Delay 10
+KeyDown 25 1
+Delay 64
+KeyUp 25 1
+Delay 10 ms
+GoWhile 2 4
+KeyDown 4 1
+Delay 3100 ms
+KeyUp 4 1
+Delay 10 ms
+KeyDown 44 1
+Delay 500 ms
+KeyUp 44 1
+Delay 10 ms
+KeyDown 7 1
+Delay 3100 ms
+KeyUp 7 1
+Delay 10 ms
+KeyDown 22 1
+Delay 700 ms
+KeyUp 22 1
+Delay 10
+KeyDown 25 1
+Delay 64
+KeyUp 25 1
+Delay 10 ms
+KeyDown 4 1
+Delay 3100 ms
+KeyUp 4 1
+Delay 10
+KeyDown 22 1
+Delay 700 ms
+KeyUp 22 1
+Delay 10
+KeyDown 25 1
+Delay 64
+KeyUp 25 1
+Delay 10 ms
+GoWhile 34 4
+KeyDown 7 1
+Delay 3100 ms
+KeyUp 7 1
+Delay 10 ms
+KeyDown 44 1
+Delay 500 ms
+KeyUp 44 1
+GoWhile 2 7
+KeyDown 225 1
+Delay 200 ms
+KeyUp 225 1
+Delay 10
+KeyDown 22 1
+Delay 1000 ms
+KeyUp 22 1
+Delay 3500 ms
+KeyDown 26 1
+Delay 1000 ms
+KeyUp 26 1
+Delay 10
+KeyDown 44 1
+Delay 10 ms
+KeyUp 44 1
+Delay 70 ms
+KeyDown 44 1
+Delay 10 ms
+KeyUp 44 1
+Delay 64
+GoWhile 2 9999</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для анти-афк (фарма опыта, который начисляется по 50exp в час). Сделано 4 рандомных задержки от 10-15 минут, дабы не словить кик с сервера от консоли (через полчаса после афк). Всем удачного фарма!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 60 ms
+KeyUp 26 1
+Delay 650 s
+KeyDown 26 1
+Delay 60 ms
+KeyUp 26 1
+Delay 1020 s
+KeyDown 26 1
+Delay 60 ms
+KeyUp 26 1
+Delay 540 s
+KeyDown 26 1
+Delay 60 ms
+KeyUp 26 1
+Delay 840 s</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,65 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос позволит запустить вам автоматический сбор лута с мобов, продажу и возврат на место, с бесконечным циклом. </Description>
+    <Comment>Go vse farmit'</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 3 s
+KeyUp 26 1
+Delay 1 ms
+KeyDown 22 1
+Delay 3 s
+KeyUp 22 1
+Delay 1 ms
+KeyDown 26 1
+Delay 2 s
+KeyUp 26 1
+Delay 64
+KeyDown 7 1
+Delay 4500 ms
+KeyUp 7 1
+Delay 64
+KeyDown 26 1
+Delay 750 ms
+KeyUp 26 1
+Delay 64
+KeyDown 22 1
+Delay 750 ms
+KeyUp 22 1
+Delay 64
+KeyDown 4 1
+Delay 1250 ms
+KeyUp 4 1
+Delay 64
+KeyDown 44 1
+Delay 64 ms
+KeyUp 44 1
+Delay 1 ms
+KeyDown 4 1
+Delay 2500 ms
+KeyUp 4 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 1 ms
+KeyDown 4 1
+Delay 1450 ms
+KeyUp 4 1
+Delay 64
+KeyDown 22 1
+Delay 2200 ms
+KeyUp 22 1
+Delay 64
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>minecraft</Software>
+  </DefaultMacro>
+</Root>

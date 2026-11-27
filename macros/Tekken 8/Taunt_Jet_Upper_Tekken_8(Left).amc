@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major>Bryan Fury Taunt Jet Upper (Left Side)</Major>
+    <Description>One Button Taunt Jet Upper (TJU) for Bryan Fury in Tekken 8.
+
+TJU is one of, if not, the hardest technique in Tekken 8. It takes hundreds of hours of non-stop training to TRULY master it. Meanwhile with this macro everyone can do it!
+
+Instructions:
+Make sure to bind 1+3+4 (Taunt Input) to LT, which is L on keyboard for me and therefore will also be represented in the macro.
+Sadly this macro is NOT 100% consistent, due to online connection and such, hence why the pause between 1+3+4 and the first forward input is 434ms (You HAVE to alter this time to your personal average connection, i personally have the best result at 434ms but sometimes it whiffs, where as 450ms would have totally hit it.)
+
+If there are any problems with the macro not working, the Keyrun Driver HAS to be enabled during Tekken 8, otherwise the inputs just won't come out.</Description>
+    <Comment>Have fun destroying people with disgusting Taunt Set-Ups! 
+I recommend watching a YT Video for Set-Ups beforehand, due to TJU being very niche in a real match.
+
+I hope you enjoy! ;)</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 15 1
+Delay 32 ms
+KeyUp 15 1
+Delay 434 ms
+KeyDown 79 1
+Delay 18 ms
+KeyUp 79 1
+Delay 20 ms
+KeyDown 80 1
+KeyDown 24 1
+Delay 18 ms
+KeyUp 80 1
+Delay 18 ms
+KeyUp 24 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

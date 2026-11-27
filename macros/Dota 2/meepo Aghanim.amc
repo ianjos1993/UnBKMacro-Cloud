@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>Skill MegaMeepo using  Aghanim(Automatically select main Meeepo)</Major>
+    <Description>• Meepo, the Geomancer, is a unique hero in Dota 2 known for his ability to clone himself and control multiple Meepo units simultaneously. With the introduction of Aghanim's Scepter in patch 7.34b, Meepo gains access to a powerful skill called "MegaMeepo," allowing him to assemble all of his Meepo clones into a formidable army. In this text, we will delve into how to utilize this skill efficiently, along with a macro that streamlines the process.
+
+• Aghanim's Scepter is a crucial item for Meepo players as it unlocks the potential of MegaMeepo. When equipped with Aghanim's Scepter, Meepo can press the F1 key to automatically select all of his clones, making it easier to coordinate their actions.
+
+• To activate MegaMeepo effectively using your macro, you'll want to configure your keyboard or macro software to press the F1 key followed by the desired skill combination. The F1 key will automatically select all Meepo units, and then you can execute your skills or commands. This allows for swift and coordinated attacks or movements with all your Meepos.
+
+• A common combination for MegaMeepo includes "F1 + W + Tab + W" to gather all Meepos and then use their Earthbind ability, ensnaring multiple enemies. Alternatively, you can use "F1 + W + E + R" to quickly assemble your Meepos and cast Poof for massive burst damage.
+
+• It's crucial to practice your macro execution to ensure smooth and efficient control of MegaMeepo. Meepo's strength lies in his ability to overwhelm opponents with numbers and damage output, and a well-executed macro can significantly enhance your Meepo gameplay.
+
+• Keep in mind that Meepo requires meticulous micromanagement, so honing your skills with MegaMeepo and the macro will take time and practice. As you become more proficient, you'll be able to dominate the battlefield with this unique hero, turning the tide of battles in your favor.
+
+• Dota 2 is a game of strategy and precision, and mastering Meepo's MegaMeepo skill with your macro can make you a formidable force on the battlefield. Practice, adapt, and enjoy the thrill of controlling an army of Meepos as you lead your team to victory.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 58 1
+Delay 1 ms
+KeyUp 58 1
+Delay 1 ms
+KeyDown 26 1
+Delay 1 ms
+KeyUp 26 1
+Delay 2 ms</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

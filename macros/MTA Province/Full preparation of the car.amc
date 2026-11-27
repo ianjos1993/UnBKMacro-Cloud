@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>Полная подготовка авто </Major>
+    <Description>Одним нажатием кнопки (настройте какая вам наиболее удобна) при приближении к машине (желательно к двери водителя) макрос выполняет за вас следующие действия: садится в автомобиль, пристёгивает ремень безопастности, снимает с ручного тормоза, включает дальний свет фар.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 10 ms
+KeyUp 9 1
+Delay 3 ms
+KeyDown 5 1
+Delay 1 ms
+KeyUp 5 1
+Delay 1 ms
+KeyDown 44 1
+Delay 1 ms
+KeyUp 44 1
+Delay 1 ms
+KeyDown 15 1
+Delay 1 ms
+KeyUp 15 1
+Delay 1 ms
+KeyDown 15 1
+Delay 1 ms
+KeyUp 15 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

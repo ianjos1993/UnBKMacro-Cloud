@@ -1,0 +1,91 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Macro for farming Mushrooms in 4 rows on hypixel skyblock. use 123 speed and 60 angle. Watch out to not farm the 5th row cause that regrows the farm</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 7 1
+Delay 59 s
+KeyUp 7 1
+Delay 64
+KeyDown 26 1
+KeyDown 4 1
+Delay 61 s
+KeyUp 4 1
+KeyUp 26 1
+Delay 55 ms
+KeyDown 7 1
+Delay 59 s
+KeyUp 7 1
+Delay 64
+KeyDown 4 1
+KeyDown 26 1
+Delay 61 s
+KeyUp 4 1
+KeyUp 26 1
+Delay 64
+LeftUp 1
+Delay 55 ms
+KeyDown 56 1
+Delay 64
+KeyUp 56 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+KeyDown 19 1
+Delay 64
+KeyUp 19 1
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 10 1
+Delay 64
+KeyUp 10 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 17 1
+Delay 64
+KeyUp 17 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

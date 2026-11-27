@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для игры "Basketball Legends" позволяющий сделать Post и eurohook, также тут при нажатии клавиши вы сможете бросить на perfect.
+
+Сделать такой мув в обычной игре сложно, поэтому я сделал этот макрос
+
+Макрос работает в том случаи если у вас стабильное интернет подключение а также стабильный FPS
+Делал макрос на 60гц мониторе, если у вас будут небольшие проблемы с высшей герцовкой можете подправить под себя.
+Удачи!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+Delay 100 ms
+KeyUp 10 1
+KeyDown 9 1
+Delay 200 ms
+KeyUp 9 1
+KeyDown 10 1
+KeyDown 8 1
+Delay 328 ms
+KeyUp 8 1
+KeyUp 10 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

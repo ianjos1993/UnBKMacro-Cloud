@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>Reset Leave</Major>
+    <Description>Данный макрос моментально убьёт вашего персонажа и выйдет с игры в которую вы играли. (Рекомендую использовать в ПВП режимах когда вы проигрываете вашему оппоненту)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 41 1
+KeyUp 41 1
+Delay 5 ms
+KeyDown 21 1
+KeyUp 21 1
+Delay 5 ms
+KeyDown 88 1
+KeyUp 88 1
+Delay 100 ms
+KeyDown 41 1
+KeyUp 41 1
+Delay 5 ms
+KeyDown 15 1
+KeyUp 15 1
+Delay 5 ms
+KeyDown 88 1
+KeyUp 88 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major>Червечки</Major>
+    <Description>Копаниче червей. Настраиваете макрос на клавишу ЛКМ и наводите на землю и жмете ЛКМ.
+Копает без перерыва (пока не сломается нож) в случае если на сервере нету бесконечного ножа.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 s
+LeftUp 1
+Delay 1 s
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>DayZ</Software>
+  </DefaultMacro>
+</Root>

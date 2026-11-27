@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>С помощью этого макроса ты сможешь стоять в afk и заробатывать ировую валюту.
+1.Встанте на плоскую поверхность,
+2.Запустите макрос,
+3.Всё готово для afk фарма.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+
+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+KeyDown 4 1
+Delay 40 ms
+KeyUp 4 1
+Delay 40 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

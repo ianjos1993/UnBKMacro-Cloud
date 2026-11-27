@@ -1,0 +1,132 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Скрипт, который облегчет жизнь и поможет в ночьное время или пока вы не дома, фармитьь вам деньги и опыть в Fishing Planet
+что бы он работал необходимо включить его во время прибывания на локации и встать у воды, смотря желательно в сторону середины озера/реки и тд, скрипт сделает все завас и если клюнет рыба но ее вытащит и у вас будет прибыль, желательно посмотривать за его работой пару раз за час.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 2000 ms
+KeyUp 44 1
+Delay 3000 ms
+LeftDown 1
+RightDown 1
+Delay 1 s
+RightUp 1
+Delay 1 s
+RightDown 1
+Delay 1 s
+RightUp 1
+Delay 1 s
+RightDown 1
+Delay 1 s
+RightUp 1
+Delay 1 s
+RightDown 1
+Delay 1 s
+RightUp 1
+Delay 1 s
+RightDown 1
+Delay 1 s
+RightUp 1
+Delay 1 s
+RightDown 1
+Delay 1 s
+RightUp 1
+Delay 1 s
+RightDown 1
+Delay 1 s
+RightUp 1
+Delay 1 s
+RightDown 1
+Delay 1 s
+RightUp 1
+Delay 1 s
+RightDown 1
+Delay 1 s
+RightUp 1
+Delay 1 s
+RightDown 1
+Delay 1 s
+RightUp 1
+Delay 1 s
+RightDown 1
+Delay 1 s
+RightUp 1
+Delay 1 s
+RightDown 1
+Delay 1 s
+RightUp 1
+Delay 1 s
+RightDown 1
+Delay 1 s
+RightUp 1
+Delay 1 s
+RightDown 1
+Delay 1 s
+RightUp 1
+Delay 1 s
+RightDown 1
+Delay 1 s
+RightUp 1
+Delay 1 s
+RightDown 1
+Delay 1 s
+RightUp 1
+Delay 1 s
+RightDown 1
+Delay 1 s
+RightUp 1
+Delay 1 s
+RightDown 1
+Delay 1 s
+RightUp 1
+Delay 1 s
+RightDown 1
+Delay 1 s
+RightUp 1
+Delay 1 s
+RightDown 1
+Delay 1 s
+RightUp 1
+Delay 1 s
+RightDown 1
+Delay 1 s
+RightUp 1
+Delay 1 s
+RightDown 1
+Delay 1 s
+RightUp 1
+Delay 1 s
+RightDown 1
+Delay 1 s
+RightUp 1
+Delay 1 s
+RightDown 1
+Delay 1 s
+RightUp 1
+Delay 1 s
+RightDown 1
+Delay 1 s
+RightUp 1
+Delay 1 s
+RightDown 1
+Delay 1 s
+RightUp 1
+Delay 1 s
+LeftUp 1
+Delay 5 s
+KeyDown 44 1
+Delay 10 ms
+KeyUp 44 1
+Delay 5 s</Syntax>
+    </KeyDown>
+    <Software>Fishing Planet</Software>
+  </DefaultMacro>
+</Root>

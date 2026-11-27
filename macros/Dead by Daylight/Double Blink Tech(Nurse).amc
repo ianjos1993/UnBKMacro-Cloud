@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос заряжает первый блинк и ловит тайминг второго, он заюзается моментально и будет по дальности как первый. 
+Пример Дабл Блинка: https://youtu.be/MtRZ-P3Z6Qs</Description>
+    <Comment>Nya UwU &lt;3 :3</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 2812 ms
+RightUp 1
+Delay 268 ms
+RightDown 1
+Delay 1287 ms
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Dead by daylight</Software>
+  </DefaultMacro>
+</Root>

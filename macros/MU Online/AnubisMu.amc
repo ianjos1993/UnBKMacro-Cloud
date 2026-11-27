@@ -1,0 +1,67 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос ресета на 2 окнах, переключает через альт табдолжно быть прописано последним сообщением /reset, включает клиер с помтщью клавиши home</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 10 s
+Delay 4 s
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 100
+KeyDown 82 1
+Delay 100
+KeyUp 82 1
+Delay 100
+KeyDown 88 1
+Delay 100
+KeyUp 88 1
+Delay 1000 ms
+KeyDown 88 1
+Delay 100 ms
+KeyUp 88 1
+Delay 100 ms
+KeyDown 74 1
+Delay 100 ms
+KeyUp 74 1
+Delay 2000 ms
+KeyDown 226 1
+KeyDown 43 1
+Delay 300 ms
+KeyUp 226 1
+KeyUp 43 1
+Delay 3 s
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 100
+KeyDown 82 1
+Delay 100
+KeyUp 82 1
+Delay 100
+KeyDown 88 1
+Delay 100
+KeyUp 88 1
+Delay 1000 ms
+KeyDown 88 1
+Delay 100 ms
+KeyUp 88 1
+Delay 100 ms
+KeyDown 74 1
+Delay 100 ms
+KeyUp 74 1
+KeyDown 21 1
+KeyUp 21 1
+Delay 370 s
+GoWhile 2 1000</Syntax>
+    </KeyDown>
+    <Software>MU Online</Software>
+  </DefaultMacro>
+</Root>

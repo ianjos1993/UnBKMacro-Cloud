@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>Автоматическая стрельба с удержанием прицела Тактической винтовки "Гадюка"</Major>
+    <Description>Расширение 2560х1440 (если это влияет)
+
+Тактические винтовки стреляют с отсечкой по патронам, приходится кликать мышку, данный скрипт превращает такое оружие в автоматическое,нажал и весь магазин в цель + идёт удержание в центре компенсируя отдачу.
+
+ВАЖНО! Установить режим работы -&gt; выполнять пока нажата клавиша
+
+Стрельба ведётся от плеча, тобишь с зажатой ПКМ.
+
+Модули на оружие "Гадюка" особо не влияют на поведение макроса, так что на свой вкус.
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+MoveR -1 5
+Delay 5 ms
+MoveR -1 4
+Delay 60 ms
+GoWhile 1 151</Syntax>
+    </KeyDown>
+    <Software>The First Descendant</Software>
+  </DefaultMacro>
+</Root>

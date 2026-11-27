@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>(v1.0)
+
+D.Q. aka Disco's Quicklooting/Quickdropping is a dual-use macro designed for quick looting and quick dropping! This macro works with all sens and display settings!  If you face any issues using it, please reach out and let me know so I can properly update and correct any bugs found while using D.Q. and/or any subsequent versions!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 400 ms
+KeyUp 8 1
+MoveR 1 1
+Delay 5 ms
+MoveR -375 200
+Delay 10 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 41 1
+Delay 10
+KeyUp 41 1
+Delay 10</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

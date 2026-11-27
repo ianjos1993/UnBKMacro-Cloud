@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос для авто выхода и захода в воду для того что бы не было грезнули на мини-ферме на кристаликсе</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+KeyDown 22 1
+Delay 1 s
+KeyUp 225 1
+Delay 2002 ms
+KeyUp 22 1
+Delay 10 s
+KeyDown 26 1
+KeyDown 44 1
+Delay 2002 ms
+KeyUp 44 1
+KeyUp 26 1
+Delay 1 min</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

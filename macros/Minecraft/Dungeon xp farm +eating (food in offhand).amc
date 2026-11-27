@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>Dungeon xp farm grind +eating (food in offhand)</Major>
+    <Description>This macro will spam sweeping attacks in any dungeon xp farm and eat every 7 minutes. MAKE SURE TO PUT YOUR FOOD IN YOUR OFFHAND. Mending is recommended if you don't want to burn out your sword.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+LeftUp 1
+Delay 800 ms
+GoWhile 1 525
+RightDown 1
+Delay 4000 ms
+RightUp 1
+Delay 1500 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>1</Major>
+    <Description>Самый простой спаммер для различных программ\игр, тестировал в дискорде, все работает.
+Программа автоматически прописывает слово "spam" после чего отправляет сообщение, и далее заново, и так по кругу бесконечно. Рвботает только в приложениях\играх, где постоянно активный чат(тоесть при отправке сообщения, он не закрывается) например в мессенджерах, или в эмуляторах смс. </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+KeyUp 22 1
+KeyDown 19 1
+KeyUp 19 1
+KeyDown 4 1
+KeyUp 4 1
+KeyDown 16 1
+KeyUp 16 1
+Delay 64 ms
+KeyDown 40 1
+KeyUp 40 1
+Delay 1000 ms</Syntax>
+    </KeyDown>
+    <Software>Вконтакте</Software>
+  </DefaultMacro>
+</Root>

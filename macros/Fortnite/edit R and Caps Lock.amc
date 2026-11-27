@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Удобный макрос на R и Caps Lock. Не видел подобных макросов на форуме, что бы работал заходим в настройки фортнайта-назначение клавиш-строения- редактировать R и выбрать вариан редактирования Caps Lock.Обязательно ставьте задачу делать один раз при нажатии!!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 3 ms
+KeyUp 21 1
+Delay 3 ms
+KeyDown 57 1
+Delay 3 ms
+KeyUp 57 1
+Delay 3 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

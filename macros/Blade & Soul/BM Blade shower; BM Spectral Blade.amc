@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>   Макрос для ветки мастера меча Клинок ливня, хороший дпс, бесконечная ци
+   В настройках игры, в "Боевые приемы" установить "Правая ячейка 1" на R, "Правая ячейка 2" на T.
+   Для ПВЕ все умения выставляем в левый ряд, улучшаем "Клинок дракона небес", "Полет клинков ливня" "Клинок безымянного война" на 5
+------------------------------------------
+   Macro for the branch of the sword master Spectral Blade, good dps, infinite qi
+In 
+   The game settings, in the" Fighting techniques " set "Right cell 1" to R, "Right cell 2" to T.
+   For PVE, all skills are put in the left row, improve the "Slice", "Swordfall" "Falling Stars" by 5</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+KeyUp 43 1
+KeyDown 43 1
+KeyUp 43 1
+KeyDown 23 1
+Delay 6 ms
+KeyDown 33 1
+Delay 6 ms
+KeyUp 33 1
+Delay 6 ms
+KeyDown 25 1
+KeyUp 25 1
+Delay 6 ms
+KeyDown 9 1
+Delay 6 ms
+KeyUp 9 1
+Delay 6 ms
+KeyDown 21 1
+Delay 6 ms
+KeyUp 21 1
+Delay 6 ms
+KeyDown 27 1
+Delay 6 ms
+KeyUp 27 1
+KeyUp 23 1
+Delay 6 ms
+KeyDown 23 1</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

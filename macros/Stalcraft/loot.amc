@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>Макрос «Лут Животных» для «StalCraft» можно скачать бесплатно и использовать на простой мышке и клавиатуре.</Major>
+    <Description>Макрос для игры StalCraft, разработанный в программе Keyran, предназначен для автоматического подбирания лута с животных. Он имитирует человеческие задержки, чтобы избежать обнаружения системой. Активировав макрос, по нажатию одной клавиши вы сможете слутать ресурсы с убитого монстра.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 14 ms
+KeyUp 9 1
+Delay 14 ms
+KeyDown 27 1
+Delay 14 ms
+KeyUp 27 1
+Delay 14 ms</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

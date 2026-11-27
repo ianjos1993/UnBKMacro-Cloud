@@ -1,0 +1,77 @@
+<Root>
+  <DefaultMacro>
+    <Major>Макрос для перекупа через ctrl+v</Major>
+    <Description>Копируете в буфер обмена нужное ваше сообщение и нажимаете бинд находясь в игре с закрытым чатом, очень спасает, можно стоять практически афк,пользуюсь сам</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 88 1
+Delay 64 ms
+KeyUp 88 1
+Delay 64 ms
+KeyDown 224 1
+Delay 64 ms
+KeyDown 25 1
+Delay 64 ms
+KeyUp 224 1
+Delay 64 ms
+KeyUp 25 1
+Delay 64 ms
+KeyDown 88 1
+Delay 64 ms
+KeyUp 88 1
+Delay 64 ms
+KeyDown 88 1
+Delay 64 ms
+KeyUp 88 1
+Delay 64 ms
+KeyDown 224 1
+Delay 64 ms
+KeyDown 25 1
+Delay 64 ms
+KeyUp 224 1
+Delay 64 ms
+KeyUp 25 1
+Delay 64 ms
+KeyDown 42 1
+Delay 64 ms
+KeyUp 42 1
+Delay 64 ms
+KeyDown 88 1
+Delay 64 ms
+KeyUp 88 1
+Delay 64 ms
+KeyDown 88 1
+Delay 64 ms
+KeyUp 88 1
+Delay 64 ms
+KeyDown 224 1
+Delay 64 ms
+KeyDown 25 1
+Delay 64 ms
+KeyUp 224 1
+Delay 64 ms
+KeyUp 25 1
+Delay 64 ms
+KeyDown 42 1
+Delay 64 ms
+KeyUp 42 1
+Delay 64 ms
+KeyDown 42 1
+Delay 64 ms
+KeyUp 42 1
+Delay 64 ms
+KeyDown 88 1
+Delay 64 ms
+KeyUp 88 1
+Delay 31000 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

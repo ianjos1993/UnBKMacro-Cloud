@@ -1,0 +1,95 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>1) Данный макрос предназначен для стиля пвп на версиях от 1,1 и выше с механикой пвп закликивание.
+В пвп у вас будет более 80 кпс так же авто лук.
+
+" авто комбо - ваш персонаж будет сам ходить в таком направление котором ему надо , ваша задача будет просто наводиться на него курсором . "
+
+
+2) Бинд макроса на любую удобную для вас клавишу.
+
+3) Этот макрос облегчит вам пвп в дуэлях и мини играх.
+
+4) Теперь у вас включен зажим на 80+ CPS с максимальным уроном + авто лук.
+
+Для отключения макроса нажмите ещё раз на кнопку на которую вы его биндили.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 10 ms
+KeyDown 4 1
+Delay 32 ms
+KeyUp 4 1
+Delay 32 ms
+KeyDown 26 1
+Delay 32 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 10 ms
+KeyDown 7 1
+Delay 32 ms
+KeyUp 7 1
+Delay 32 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 10 ms
+KeyDown 4 1
+Delay 32 ms
+KeyUp 4 1
+Delay 32 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 10 ms
+KeyDown 7 1
+Delay 32 ms
+KeyUp 7 1
+Delay 32 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 10 ms
+KeyDown 4 1
+Delay 32 ms
+KeyUp 4 1
+Delay 32 ms
+KeyDown 31 1
+Delay 25 ms
+KeyUp 31 1
+Delay 25 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 10 ms
+KeyDown 26 1
+Delay 35 ms
+KeyUp 26 1
+Delay 35 ms
+KeyDown 31 1
+Delay 25 ms
+KeyUp 31 1
+Delay 25 ms
+RightDown 1
+Delay 55 ms
+RightUp 1
+Delay 55 ms
+KeyDown 44 1
+Delay 25 ms
+KeyUp 44 1
+Delay 55 ms
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major>pon</Major>
+    <Description>Автоматически бросает удочку которая на 3 слоту и возвращается на меч который на 1 слоту, всего-лишь на 1 кнопку!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 64 ms
+KeyUp 32 1
+RightDown 1
+Delay 90 ms
+RightUp 1
+Delay 75 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>VimeWorld</Software>
+  </DefaultMacro>
+</Root>

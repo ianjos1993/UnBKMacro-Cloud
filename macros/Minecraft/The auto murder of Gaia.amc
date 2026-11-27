@@ -1,0 +1,151 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос создан для авто убийства гай, но для того чтобы он работал нужно чтоб было соблюдено несколько требований:
+1. На сервере, Shift должен работать как в новых версиях 1.16.5, то есть опускать вас на пол блока.
+2. На сервере должен быть "Убийца гайи" или подобные мечи которые её ваншотят.
+
+Арена для убийства гайи должны быть полность застроена коврами, чтобы гайа стояла на маяке.
+
+Для точной работы макроса, вам надо будет настраивать его задержки, которые зависят от TPS-а вашего сервера. Про настройки ниже.
+
+Как вставать?
+
+Встаёте на железные блоки и в шифте (он должен работать как в 1.16.5) наводитесь на маяка, когда вы отпустите шифт вы не должны смотреть на маяк.
+
+Активация:
+
+Когда вы встали, ваш хотбар должен выглядеть так:
+  1. В 1 слоте хотбара должны быть терра-слитки.
+  2. В остальные слоты хотбара вам нужно положить 8 убийц гайи.
+
+Настройка задержек:
+
+41 строка - во время этой задержки идёт спавн гай. Она настраивается в зависимости от скорости спавна гайи. 
+Скорость спавна зависит от TPS сервера на котором вы играете. Советую добавлять по 5-10 секунд дополнительно.
+
+105 строка - это задержка отвечает за ожидания отката убийц гайи, настраивается в зависимости от TPS сервера на котором вы играете. После этой задержки идёт выбор слитков терра-стали, это как обозначатель того что макрос можно включать заново.
+
+Чтоб настроить макрос вам понадобится раз его использовать и после менять его задержки.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+
+Надеюсь он вам пригодится</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64 ms
+KeyDown 225 1
+Delay 64
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+KeyUp 225 1
+Delay 30 s
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 300 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 300 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 300 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 300 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 35 1
+Delay 64
+KeyUp 35 1
+Delay 300 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 36 1
+Delay 64
+KeyUp 36 1
+Delay 300 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 37 1
+Delay 64
+KeyUp 37 1
+Delay 300 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 300 ms
+KeyDown 38 1
+Delay 64
+KeyUp 38 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 60 s
+KeyDown 30 1
+Delay 64 ms
+KeyUp 30 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

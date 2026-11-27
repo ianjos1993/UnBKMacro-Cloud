@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Shatterskate across flat land...
+
+Video
+https://www.youtube.com/watch?v=pjuxX-zY1A8&amp;ab_channel=TheLegend
+
+(re-upload, auto switch to sword)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+KeyUp 32 1
+Delay 420 ms
+Delay 64
+KeyDown 44 1
+Delay 25 ms
+KeyUp 44 1
+Delay 10 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 5 ms
+KeyDown 44 1
+Delay 10 ms
+KeyUp 44 1
+Delay 10 ms
+KeyDown 27 1
+//Replace with the key that you use for Air Move
+Delay 200 ms
+KeyUp 27 1
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>Destiny 2</Software>
+  </DefaultMacro>
+</Root>

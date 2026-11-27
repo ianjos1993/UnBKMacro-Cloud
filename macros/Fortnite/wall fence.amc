@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Мой макрос позволяет очень быстро забирать стенки и пинг немного помогает если когда вы сломаете стенку а враг выстрелит в тайминг он попадет в стенку поэтому если у вас большой пинг 70-120 Ping
+узайте (настройки Кирка-F Стенка-Z Дробовик-2 Редактирование-Q) УДАЧИ </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 100 ms
+KeyDown 29 1
+Delay 5 ms
+KeyUp 29 1
+Delay 5 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+KeyDown 31 1
+Delay 5 ms
+KeyUp 31 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

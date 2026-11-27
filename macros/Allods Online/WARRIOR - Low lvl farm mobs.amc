@@ -1,0 +1,49 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для игры Аллоды онлайн. 
+Принцип работы: 
+Воин стоит на месте и начинает кричать аое агро (из талантов провокация или канийская классовая абилка на трусость 30 метров), кастует на себя щит и бьет первую выделенную цель. Добив ее - автоматически переключается на другую и по 1 цели убивает всех мобов под бафом. После того, как бой окончен - садится в милость, восстанавливает хп и прокачивает уровень покровителя :) 
+
+Настройка: 
+[1] - Атакующее умение №1
+[2] - Атакующее умение №2
+[3] - Атакующее умение №3
+[4] - Защитный баф
+[5] - Баф на усиление атаки
+[6] - Любое АОЕ агро
+[Q] - Милость
+
+Всем хорошего кача и фарма в ночное время суток :D</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+Delay 500 ms
+KeyDown 31 1
+KeyUp 31 1
+Delay 500 ms
+KeyDown 34 1
+KeyUp 34 1
+KeyDown 35 1
+KeyUp 35 1
+KeyDown 32 1
+KeyUp 32 1
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Аллоды онлайн</Software>
+  </DefaultMacro>
+</Root>

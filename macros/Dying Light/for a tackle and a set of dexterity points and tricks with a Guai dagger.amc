@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос позволяет выполнять подкат с помощью комбинации клавиш Shift + W + C. Используя подкат, вы можете фармить очки ловкости или набирать серию трюков для кинжала Гуай. Макрос упрощает процесс, автоматизируя выполнение подката и позволяет фокусироваться на других аспектах игры, улучшая эффективность при выполнении этих действий.
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 64
+KeyDown 225 1
+Delay 64
+KeyDown 6 1
+Delay 64
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Dying Light</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на Дейдару в игре NTSD
+Атака Num 4
+Прыжок Num 5
+Защита Num 6
+A = Атака
+ J = Прыжок
+ D = Защита
+ &gt; = Вперед или назад
+ ^ = Вверх
+ v = Вниз
+Макрос использует комбинацию клавиш для использования способности Дейдары (в полете на птице):
+DvA+J |Взрывная глина: Червь (массовый взрыв, удар по земле) 100CP Дамаг: 80HP*6(50HP)
+В обычной форме использует сороконожку (A+J для взрыва)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 94 1
+Delay 64
+KeyUp 94 1
+Delay 64
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 92 1
+Delay 64
+KeyUp 92 1
+Delay 64
+KeyDown 93 1
+Delay 64
+KeyUp 93 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Naruto: The Setting Dawn</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>steal walls and place a cone in your opponents box! have to have your picaxe out before clicking the key you set the macro to.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 177 ms
+LeftUp 1
+KeyDown 43 1
+Delay 40 ms
+LeftDown 1
+Delay 40 ms
+LeftUp 1
+Button5Down 1
+Delay 3 ms
+LeftDown 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

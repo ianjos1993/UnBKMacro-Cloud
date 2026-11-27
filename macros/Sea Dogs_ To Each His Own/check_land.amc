@@ -1,0 +1,54 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для игры Sea Dogs Корсары Каждому Свое.
+Слив проверки маскировки у патруля.
+Необходимо быстрое сохранение непосредтсвенно перед солдатом патруля (2-5 м).
+Позволяет загружать сохранение, добежать до солдата патруля, вступить в диалог, проверить успешность маскировки. В случае успеха открытие меню, в случае неудачи цикл запускается снова.
+
+Для проверки успеха проверяется цвет иконки в меню выбора (enter), если у вас нет картографического атласа, возможно работать не будет.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 66 1
+Delay 64
+KeyUp 66 1
+Delay 2500 ms
+RightDown 1
+Delay 800 ms
+RightUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 150 ms
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 150 ms
+GoColor 1 0 129,171,243 255,255,255 1 206 48 949 999 1 0
+KeyDown 52 1
+Delay 64
+KeyUp 52 1
+Delay 64
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 64
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Другие</Software>
+  </DefaultMacro>
+</Root>

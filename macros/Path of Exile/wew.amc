@@ -1,0 +1,56 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Создан для открытия стак деков при наличии вкладки для карточек разрешение 2k на весь экран в окне
+39 строка меняете на количество гадальных карт</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 731 680
+Delay 64
+Delay 64 ms
+Delay 64 ms
+RightDown 1
+Delay 64
+Delay 64 ms
+RightUp 1
+Delay 64
+Delay 64 ms
+Delay 64 ms
+MoveTo 1729 819
+Delay 64
+Delay 64 ms
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+Delay 64
+LeftUp 1
+Delay 64 ms
+Delay 64
+Delay 64 ms
+KeyDown 224 1
+Delay 64 ms
+Delay 64
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+Delay 64
+LeftUp 1
+Delay 64 ms
+Delay 64
+KeyUp 224 1
+Delay 64 ms
+Delay 64 ms
+Delay 64 ms
+Delay 64
+Delay 64 ms
+GoWhile 1 78</Syntax>
+    </KeyDown>
+    <Software>Path of Exile</Software>
+  </DefaultMacro>
+</Root>

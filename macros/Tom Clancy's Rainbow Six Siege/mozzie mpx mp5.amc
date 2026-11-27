@@ -1,0 +1,62 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>script for the Commando (mozzie gun) in r6
+
+ acog gun
+2560 x 1440 screen resolution
+
+16:10 ratio
+
+900dpi
+sensitivity: 17
+
+attachments: 
+muzzle brake
+lazer
+angled grip
+acog scope
+</Description>
+    <Comment>script for the Commando (mozzie gun) in r6
+
+ acog gun
+2560 x 1440 screen resolution
+
+16:10 ratio
+
+900dpi
+sensitivity: 17
+
+attachments: 
+muzzle brake
+lazer
+angled grip
+acog scope
+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR -2 2
+Delay 3 ms
+MoveR 4 1
+Delay 6 ms
+MoveR -2 2
+Delay 3 ms
+MoveR 4 1
+Delay 6 ms
+MoveR -3 2
+Delay 3 ms
+MoveR 3 1
+Delay 6 ms
+MoveR -2 2
+Delay 3 ms
+MoveR -2 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

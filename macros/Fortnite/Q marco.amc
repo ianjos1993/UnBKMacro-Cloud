@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Marco in fortnite but its the Q version! (previous marco: F marco) If you have a Q edit keybind, you can use this if you want!</Description>
+    <Comment>Enjoy the fortnite marco for editing!</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 2 ms
+KeyUp 20 1
+Delay 2 ms
+LeftDown 1
+Delay 2 ms
+LeftUp 1
+Delay 2 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

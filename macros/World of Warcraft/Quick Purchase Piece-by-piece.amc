@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Быстрая покупка штучного товара на аукционах Sirus! (на других не проверялось)
+Наведите курсор на нужный товар и запустите макрос!
+
+ВАЖНАЯ ИНФОРМАЦИЯ!
+
+Макрос написан для разрешения 3440x1440 (Широкий экран) и стандартый размер интерфейса игры!
+При не совпадении координат курсора - потребуется редактирование макроса!
+DPI X2200 Y2200</Description>
+    <Comment>Assign the Idle Farmers
+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+LeftUp 1
+Delay 600 ms
+MoveTo 542 458
+Delay 16 ms
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+Delay 16 ms
+MoveTo 985 803
+Delay 16 ms
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+Delay 16 ms
+MoveTo 1638 269
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+MoveTo 329 265
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>World of Warcraft</Software>
+  </DefaultMacro>
+</Root>

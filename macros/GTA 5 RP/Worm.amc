@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major>Бот для добычи червей</Major>
+    <Description>Простейший кликкер для добычи червей на серверах GTA5RP.
+Вам нужно приобрести лопату, и забиндить ее слот на F4, после чего можно смело копать червей на ферме без личного участия</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 61 1
+Delay 64
+KeyUp 61 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

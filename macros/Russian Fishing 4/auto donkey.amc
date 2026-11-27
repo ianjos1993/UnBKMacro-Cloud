@@ -1,0 +1,113 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>это ещё сырая версия и её предстоит дорабатывать чем я и буду заниматься в ближайшие дни так что ждите обновлений
+для корректной работы макроса нужны 3 удилища с световыми сигнализаторами разных цветов
+удилища с сигнализаторами должны быть расположены в таком порядке 1-синий 2-зелёный 3-красный
+также для более корректной работы нужно перенастроить область захвата в 2.4.6 процессе 
+разрешение 1920-1080</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 64 ms
+GoColor 9 1 115,166,235 255,255,255 2 15 0 999 899 1 0
+Delay 64 ms
+GoColor 31 1 81,213,68 255,255,255 2 291 0 999 899 1 0
+Delay 64 ms
+GoColor 62 1 232,146,124 255,255,255 2 387 0 999 899 1 0
+Delay 64 ms
+Goto 1
+Delay 5 s
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+LeftDown 1
+RightDown 1
+KeyDown 225 1
+Delay 40 s
+LeftUp 1
+RightUp 1
+KeyUp 225 1
+MoveTo 822 992
+Delay 100 ms
+LeftDown 1
+Delay 900 ms
+LeftUp 1
+Delay 100 150 ms
+Button4down 1
+Delay 64
+Button4Up 1
+Goto 6
+Delay 5 s
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+LeftDown 1
+Delay 64 ms
+RightDown 1
+Delay 64 ms
+KeyDown 225 1
+Delay 40 s
+LeftUp 1
+Delay 64 ms
+RightUp 1
+Delay 64 ms
+KeyUp 225 1
+Delay 64 ms
+MoveTo 822 995
+Delay 64 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 100 ms
+LeftDown 1
+Delay 900 ms
+LeftUp 1
+Delay 100 150 ms
+Button4down 1
+Delay 64
+Button4Up 1
+Goto 6
+Delay 5 s
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+LeftDown 1
+Delay 64 ms
+RightDown 1
+Delay 64 ms
+KeyDown 225 1
+Delay 20 s
+LeftUp 1
+Delay 64 ms
+RightUp 1
+Delay 64 ms
+KeyUp 225 1
+MoveTo 824 1001
+Delay 64 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 100 ms
+LeftDown 1
+Delay 900 ms
+LeftUp 1
+Delay 100 150 ms
+Button4down 1
+Delay 64
+Button4Up 1
+Goto 6</Syntax>
+    </KeyDown>
+    <Software>Русская Рыбалка 4</Software>
+  </DefaultMacro>
+</Root>

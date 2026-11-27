@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Удобный макросс на P250 (Раст Легаси)
+Настойки для приятного пользования:
+1. DPI (1600)
+2. Sens 0.79
+3. FOV 85
+4. Разрешение экрана 1280 x 800</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+LeftUp 1
+Delay 8 ms
+MoveR 0 29
+Delay 8 ms
+MoveR 0 29
+Delay 5 ms
+MoveR 0 29
+Delay 4 ms
+MoveR 0 29
+Delay 5 ms
+MoveR 0 29
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

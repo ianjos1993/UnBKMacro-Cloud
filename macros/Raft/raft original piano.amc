@@ -1,0 +1,100 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Те самые ноты, которые написаны за пианино. Всё что нужно - сесть за пианино и активировать макрос.
+При желании нужно установить настройку повтора макроса.
+(К примеру можно выбрать, выполнять до повторного нажания клавиши активации макроса, чтобы эта "музыка" играла до тех пор, пока не будет повторна нажата клавиша).
+Если вам кажется, что для вас это слишком быстро - можно просто поменить время задержки нажатия/отжатия клавиш в макросе.
+По умолчанию - 64мс на обычных нотах и 500мс для нот с пометкой "HOLD"</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 36 1
+Delay 64
+KeyUp 36 1
+Delay 64
+KeyDown 35 1
+Delay 64
+KeyUp 35 1
+Delay 64
+KeyDown 36 1
+Delay 64
+KeyUp 36 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 64
+KeyDown 35 1
+Delay 64
+KeyUp 35 1
+Delay 64
+KeyDown 36 1
+Delay 64
+KeyUp 36 1
+Delay 64
+KeyDown 35 1
+Delay 64
+KeyUp 35 1
+Delay 64
+KeyDown 36 1
+Delay 64
+KeyUp 36 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 64
+KeyDown 35 1
+Delay 64
+KeyUp 35 1
+Delay 64
+KeyDown 36 1
+Delay 64
+KeyUp 36 1
+Delay 64
+KeyDown 35 1
+Delay 64
+KeyUp 35 1
+Delay 64
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 64
+KeyDown 32 1
+Delay 500 ms
+KeyUp 32 1
+Delay 64
+KeyDown 36 1
+Delay 64
+KeyUp 36 1
+Delay 64
+KeyDown 35 1
+Delay 64
+KeyUp 35 1
+Delay 64
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 64
+KeyDown 32 1
+Delay 500 ms
+KeyUp 32 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Raft</Software>
+  </DefaultMacro>
+</Root>

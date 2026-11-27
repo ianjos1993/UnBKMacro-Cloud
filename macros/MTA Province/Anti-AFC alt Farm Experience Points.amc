@@ -1,0 +1,49 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Идеальный макрос для фарма опыта. Этот макрос поможет обойти консоль MTA Province, а точнее кик за афк. Он уникален, ведь если вам нужно куда-то отойти, а нужно пофармить опыта, то МАКРОС ДЛЯ ВАС.
+Он зажимает кнопку alt на некоторое время, потом отпускает её, тем самым обходит защиту бездействия.
+Спасибо за установка макроса на https://keyran.net, хорошей игры!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 226 1
+KeyUp 226 1
+Delay 50 s
+KeyDown 226 1
+KeyUp 226 1
+Delay 5 s
+KeyDown 226 1
+KeyUp 226 1
+Delay 145 s
+KeyDown 226 1
+KeyUp 226 1
+Delay 8 s
+KeyDown 226 1
+KeyUp 226 1
+Delay 133 s
+KeyDown 226 1
+KeyUp 226 1
+Delay 7 s
+KeyDown 226 1
+KeyUp 226 1
+Delay 67 s
+KeyDown 226 1
+KeyUp 226 1
+Delay 12 s
+KeyDown 226 1
+KeyUp 226 1
+Delay 84 s
+KeyDown 226 1
+KeyUp 226 1
+Delay 6 s
+GoWhile 1 1000000</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

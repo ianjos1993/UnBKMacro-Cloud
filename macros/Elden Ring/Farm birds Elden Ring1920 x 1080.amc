@@ -1,0 +1,64 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Я создал свой макрос для фарма птицы на острове могвинов в Elden Ring
+-Требования: 
+
+-длинный лук
+
+--699 стрел т.к больше нельзя
+
+-разрешение игры 1920Х1080
+
+-800DPI
+
+-Чувствительно в игре 5 обязательно!
+
+Что нужно сделать: Телепортируйтесь на благодать "крутая дорога, ведущая ко дворцуу", возьмите лук в две руки и запускайте макрос
+
+Примечание: чувствительность в игре 5!!!!
+
+Шанс промаха примерно 1:3, но в отличие от других скриптов в этой проге, мой работает без проблем</Description>
+    <Comment>Если  хотите поблагодарить автора то здесь можно это сделать - https://www.donationalerts.com/r/yumo1337</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 16 1
+Delay 300 ms
+KeyUp 16 1
+Delay 300 ms
+KeyDown 9 1
+Delay 300 ms
+KeyUp 9 1
+Delay 300 ms
+KeyDown 8 1
+Delay 300 ms
+KeyUp 8 1
+Delay 300 ms
+KeyDown 8 1
+Delay 300 ms
+KeyUp 8 1
+Delay 5200 ms
+KeyDown 4 1
+Delay 1400 ms
+KeyUp 4 1
+Delay 100 ms
+MoveR -2139 468
+Delay 200 ms
+RightDown 1
+Delay 500 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 7 s
+RightUp 1
+Delay 1 s
+GoWhile 1 699</Syntax>
+    </KeyDown>
+    <Software>Elden Ring</Software>
+  </DefaultMacro>
+</Root>

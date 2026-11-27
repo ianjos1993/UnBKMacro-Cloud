@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>P250 
+
+90 - 95 Точность/accuracyr 90-95%
+FOV 70 
+Сенса0.95 / sens 0.95
+
+На 90 FOV 1.05sens
+
+Довольно простенький, но хорошо рабочий макрос. За счет легкого патерна P250. 
+
+P.S. Как и беретта, но чуть полегче
+
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 8 ms
+MoveR 0 30
+Delay 5 ms
+MoveR 0 30
+Delay 5 ms
+MoveR 0 30
+Delay 4 ms
+MoveR 0 30
+Delay 5 ms
+MoveR 0 30
+Delay 5 ms
+MoveR 0 30
+Delay 5 ms
+MoveR 0 30
+Delay 5 ms
+MoveR 0 30
+Delay 4 ms
+MoveR 0 30
+Delay 5 ms
+MoveR 0 30
+Delay 5 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

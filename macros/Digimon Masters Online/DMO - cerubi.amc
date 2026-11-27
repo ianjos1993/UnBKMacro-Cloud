@@ -1,0 +1,68 @@
+<Root>
+  <DefaultMacro>
+    <Major>iV3Xz</Major>
+    <Description>Digimon Master Online Makro for Farming Cerubimon
+
+Screen resolution : Fullscreen 1920x1080
+
+fetaure
+anti - queen chessmon will not attack queenchessmon (line8)
+auto skill, auto  pick ( line 11 - 23) - shortcut : F1 and F2 skill, 2 pick up.
+auto heal HP line 25 (line 27 and palce food in F6)
+auto heal DS line 39(line 1 and place your food in 8)
+</Description>
+    <Comment>Free macros download</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//ready to use makro
+KeyDown 43 1
+Delay 120 ms
+KeyUp 43 1
+Delay 120 ms
+GoColor 8 1 197,54,41 255,255,255 2 968 52 6 7 1 0
+Goto 11
+GoColor 2 1 178,94,132 255,255,255 2 999 20 28 47 1 0
+GoColor 11 1 89,67,137 255,255,255 2 999 20 28 47 1 0
+Goto 2
+KeyDown 58 1
+Delay 120 ms
+KeyUp 58 1
+Delay 120 ms
+KeyDown 59 1
+Delay 120 ms
+KeyUp 59 1
+Delay 120 ms
+KeyDown 31 1
+Delay 120 ms
+KeyUp 31 1
+Delay 120 ms
+GoWhile 19 6
+GoColor 11 1 177,48,35 255,255,255 2 829 52 145 7 1 0
+GoColor 27 1 0,0,51 255,255,255 2 153 124 23 7 1 0
+Goto 31
+KeyDown 63 1
+Delay 120 ms
+KeyUp 63 1
+Delay 120 ms
+GoColor 39 1 0,0,51 255,255,255 2 169 138 12 6 1 0
+Goto 36
+KeyDown 37 1
+Delay 120 ms
+KeyUp 37 1
+Delay 120 ms
+GoColor 39 1 0,0,51 255,255,255 2 143 64 31 6 1 0
+Goto 42
+KeyDown 63 1
+Delay 64
+KeyUp 63 1
+Delay 64
+GoWhile 2 86400000</Syntax>
+    </KeyDown>
+    <Software>Digimon Masters Online</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro allows you to stunslam without having to press all those keys at the same time.
+
+ Normally you would have to press you mace button, click, press your axe button and then click again but with this macro all you have to do is press the asigned key for this macro and it will do all those steps for you right away.
+
+ (Set your axe slot to mouse button 5) and set your mace to F)
+ Or If you'd like you can change them to your own keybinds by replacating this exact macro. Have fun winning!
+
+
+- The macro was tested on Alienware laptop (3 years old)
+- Superstrike X2 mouse
+- Windows 11
+- Minecraft Via Dawn
+
+For all quesions please contact P1agued_ on discord</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Button5Down 1
+Delay 51
+Button5up 1
+Delay 51
+LeftDown 1
+Delay 51
+LeftUp 1
+Delay 51
+KeyDown 9 1
+Delay 51
+KeyUp 9 1
+Delay 51
+LeftDown 1
+Delay 51
+LeftUp 1
+Delay 51</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

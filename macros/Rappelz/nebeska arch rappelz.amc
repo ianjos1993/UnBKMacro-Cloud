@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для фарма небесной крепости:
+Необходимо шлем +24 и 3 шмотки на скил СКОЛЬЖЕНИ.
+
+Последовательность:
+
+Цифра 1 - Разделение магии;
+Цифра 2 - Ледяная стрелма мастера;
+Цифра 3 - Скольжение ( необходим 18 уровень у мения)
+Цифра -  - Слабое массовое восстановление ( по желанию любой скил )
+Цифра 0 - поощрение питомца ( если шлем +22 можно баф тира )
+
+
+Ставить на парапет, где до вас не достанут злые дяди пк. Приятного фарма !!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+//Разделение магии
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+//Ледяная стрела мастера
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+//скольжение
+KeyDown 39 1
+Delay 64
+KeyUp 39 1
+Delay 64
+KeyDown 45 1
+Delay 64
+KeyUp 45 1
+Delay 64
+//0 порщрение - хилка</Syntax>
+    </KeyDown>
+    <Software>Rappelz</Software>
+  </DefaultMacro>
+</Root>

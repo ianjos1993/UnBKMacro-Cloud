@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос от xzimat
+Сенса 1.0
+С прицелом 0.8
+По установке все просто:
+Заходим в bm, потом в a4tech (вкладка) и открываем файл!
+Ставить советую на левую клавишу мыше.
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+MoveR 0 8
+LeftUp 1
+MoveR 0 0
+Delay 45 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

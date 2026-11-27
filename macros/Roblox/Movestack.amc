@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>GPO Movestack black leg moves to get insane combos</Major>
+    <Description>For usage u need hold BLACK LEG move then use thist and now you can click during holding move whats alots doing OP combos</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 20 ms
+KeyDown 56 1
+Delay 40 ms
+KeyUp 9 1
+Delay 40 ms
+Delay 3 ms
+KeyUp 56 1
+LeftDown 1
+LeftUp 1
+Delay 64
+KeyDown 88 1
+KeyUp 88 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

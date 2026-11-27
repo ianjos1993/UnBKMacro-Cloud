@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This script enables you to execute a spin move while holding the ball in either hand. Additionally, it includes a hesi move to shake up your opponent.
+
+To Use this Macro either set it to Your Q Key Or Something More Fitting For you. Also Make Sure you set this macro so on they bind you set it to it does the action aslong as you hold the button.
+
+If you have any issues with setup Message me  and ill be happy to help :)
+KeyRan On Top</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 15 ms
+KeyUp 29 1
+Delay 15 ms
+KeyDown 6 1
+Delay 15 ms
+KeyUp 6 1
+Delay 15 ms
+KeyDown 6 1
+Delay 15 ms
+KeyUp 6 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,162 @@
+<Root>
+  <DefaultMacro>
+    <Major>Leo Combo 6</Major>
+    <Description>Макрос позволяет выполнять комбо за Лео.
+Видео демонстрации работы макроса: https://youtu.be/tVywSjnh4Ow
+
+Лео (Leo Kliesen) — персонаж из серии Tekken, известный своей универсальностью, загадочным стилем и привлекательной андрогинностью. Leo — одна из самых уникальных фигур франшизы благодаря сочетанию классической европейской эстетики, боевых навыков и глубокой мотивации. Лео владеет стилем, вдохновленным Боксом-Ваньцуань (также известным как "Стиль Пяти Животных") и элементами современной джиу-джитсу. 
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 01.12.2024
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ.
+
+#leotekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 6 ms
+KeyDown 7 1
+Delay 6 ms
+KeyDown 74 1
+Delay 201 ms
+KeyUp 74 1
+Delay 87 ms
+KeyUp 22 1
+Delay 62 ms
+KeyUp 7 1
+Delay 218 ms
+KeyDown 7 1
+Delay 74 ms
+KeyUp 7 1
+Delay 58 ms
+KeyDown 7 1
+Delay 86 ms
+KeyUp 7 1
+Delay 12 ms
+KeyDown 73 1
+Delay 68 ms
+KeyUp 73 1
+Delay 219 ms
+KeyDown 7 1
+Delay 74 ms
+KeyUp 7 1
+Delay 64 ms
+KeyDown 7 1
+Delay 109 ms
+KeyUp 7 1
+Delay 11 ms
+KeyDown 73 1
+Delay 74 ms
+KeyUp 73 1
+Delay 241 ms
+KeyDown 7 1
+Delay 81 ms
+KeyUp 7 1
+Delay 58 ms
+KeyDown 7 1
+Delay 108 ms
+KeyUp 7 1
+Delay 6 ms
+KeyDown 73 1
+Delay 75 ms
+KeyUp 73 1
+Delay 213 ms
+KeyDown 7 1
+Delay 81 ms
+KeyUp 7 1
+Delay 63 ms
+KeyDown 7 1
+Delay 116 ms
+KeyUp 7 1
+Delay 6 ms
+KeyDown 73 1
+Delay 68 ms
+KeyUp 73 1
+Delay 208 ms
+KeyDown 7 1
+Delay 86 ms
+KeyUp 7 1
+Delay 57 ms
+KeyDown 7 1
+Delay 139 ms
+KeyUp 7 1
+Delay 0 ms
+KeyDown 73 1
+Delay 79 ms
+KeyUp 73 1
+Delay 207 ms
+KeyDown 7 1
+Delay 79 ms
+KeyUp 7 1
+Delay 58 ms
+KeyDown 7 1
+Delay 127 ms
+KeyUp 7 1
+Delay 4 ms
+KeyDown 73 1
+Delay 64 ms
+KeyUp 73 1
+Delay 225 ms
+KeyDown 7 1
+Delay 74 ms
+KeyUp 7 1
+Delay 57 ms
+KeyDown 7 1
+Delay 139 ms
+KeyUp 7 1
+Delay 35 ms
+KeyDown 76 1
+Delay 4 ms
+KeyDown 74 1
+Delay 99 ms
+KeyUp 76 1
+Delay 4 ms
+KeyUp 74 1
+Delay 398 ms
+KeyDown 74 1
+Delay 469 ms
+KeyDown 76 1
+Delay 98 ms
+KeyUp 76 1
+Delay 97 ms
+KeyDown 76 1
+Delay 92 ms
+KeyUp 76 1
+Delay 81 ms
+KeyDown 76 1
+Delay 86 ms
+KeyUp 76 1
+Delay 63 ms
+KeyDown 76 1
+Delay 121 ms
+KeyUp 76 1
+Delay 281 ms
+KeyUp 74 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

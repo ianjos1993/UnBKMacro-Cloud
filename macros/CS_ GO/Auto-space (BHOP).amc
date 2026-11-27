@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Авто-распрыжка. Для запуска:
+1. Поставьте макрос на любую удобную вам кнопку в BotMek
+2. Зайдите в настройки игры и забиндите "Прыжок" на Space
+3. Зайдите на сервер,в матч и зажмите кнопку которую вы ставили под макрос (не забудьте нажать "запустить")</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 10
+KeyUp 44 1
+Delay 10
+KeyDown 44 1
+Delay 11
+KeyUp 44 1
+Delay 11
+KeyDown 44 1
+Delay 13
+KeyUp 44 1
+Delay 13</Syntax>
+    </KeyDown>
+    <Software>CS: GO</Software>
+  </DefaultMacro>
+</Root>

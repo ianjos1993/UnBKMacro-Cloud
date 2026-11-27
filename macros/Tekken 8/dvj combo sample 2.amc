@@ -1,0 +1,139 @@
+<Root>
+  <DefaultMacro>
+    <Major>Devil Jin sample combo</Major>
+    <Description>Макрос позволяет выполнять комбо за Devil Jin.
+Видео демонстрации работы макроса: https://youtu.be/6F6WHvmkltw
+
+После уничтожения Хонмару Джинпачи наконец был освобожден из своего длительного заключения. Похоже, что это событие совпало с активацией Дьявольского гена внутри Джина. Два месяца спустя Джин был полностью захвачен Геном Дьявола, превратившись в злую, разрушительную форму жизни. Во время 5-го турнира «Король Железного Кулака», после того как Джин терпит поражение от Хвоаранга, Дьявол Джин просыпается и побеждает Хвоаранга, госпитализируя его. Затем Дьяволу Джину разрешается продолжить участие в турнире, и Джин и его Дьявол побеждают и заявляют, что Мишима Дзайбацу принадлежит им.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 24.02.2024
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#deviljintekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 39 ms
+KeyDown 77 1
+KeyDown 76 1
+Delay 280 ms
+KeyUp 77 1
+KeyUp 76 1
+Delay 10 ms
+KeyUp 22 1
+Delay 799 ms
+KeyDown 74 1
+Delay 100 ms
+KeyUp 74 1
+Delay 350 ms
+KeyDown 73 1
+Delay 90 ms
+KeyUp 73 1
+Delay 90 ms
+KeyDown 4 1
+Delay 100 ms
+KeyUp 4 1
+Delay 40 ms
+KeyDown 4 1
+Delay 139 ms
+KeyDown 74 1
+Delay 150 ms
+KeyDown 73 1
+Delay 100 ms
+KeyUp 74 1
+Delay 189 ms
+KeyUp 73 1
+Delay 0 ms
+KeyUp 4 1
+Delay 39 ms
+KeyDown 7 1
+Delay 10 ms
+KeyDown 22 1
+Delay 679 ms
+KeyUp 22 1
+Delay 70 ms
+KeyUp 7 1
+Delay 129 ms
+KeyDown 7 1
+Delay 70 ms
+KeyUp 7 1
+Delay 79 ms
+KeyDown 7 1
+Delay 150 ms
+KeyDown 4 1
+Delay 9 ms
+KeyUp 7 1
+Delay 40 ms
+KeyDown 74 1
+Delay 140 ms
+KeyDown 73 1
+Delay 49 ms
+KeyUp 74 1
+Delay 59 ms
+KeyUp 73 1
+Delay 70 ms
+KeyDown 73 1
+Delay 80 ms
+KeyUp 73 1
+Delay 80 ms
+KeyDown 73 1
+Delay 119 ms
+KeyUp 73 1
+Delay 10 ms
+KeyDown 7 1
+Delay 70 ms
+KeyUp 4 1
+Delay 40 ms
+KeyUp 7 1
+Delay 79 ms
+KeyDown 7 1
+Delay 310 ms
+KeyUp 7 1
+Delay 130 ms
+KeyDown 4 1
+Delay 49 ms
+KeyDown 7 1
+Delay 40 ms
+KeyUp 4 1
+Delay 60 ms
+KeyDown 74 1
+Delay 120 ms
+KeyDown 73 1
+Delay 80 ms
+KeyUp 74 1
+Delay 29 ms
+KeyUp 73 1
+Delay 620 ms
+KeyDown 74 1
+Delay 100 ms
+KeyUp 74 1
+Delay 259 ms
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major>Прокаст на пугну</Major>
+    <Description>Для работы прокаста требуется поставить фасткаст предметов и сккиллов в настойках
+Расскладка скиллов и итемов должна быть стандартной
+Слоты которые юзаете можно выбрать самим，но советую ставить：
+1. Dagon
+2.Veil of discord
+3.Orchid/Hex
+---------------------------------------------
+Другие слоты можно забиндить самим，итемы под Z-X-C так же выбирайте как хотите，ставьте их так, чтобы на С был контроль orchid/xe/atos (в общем любой контроль который требуется)，X-либо итемы на усиление маг урона(veil of discord/etherial)，либо доп.контроль, в первом слоте(Z) по-любому дагон, пугна без него как без рук.
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>
+//Converted script file 14 November 2021 13:09:02
+KeyDown 6 1
+KeyUp 6 1
+KeyDown 20 1
+KeyUp 20 1
+KeyDown 27 1
+KeyUp 27 1
+KeyDown 26 1
+KeyUp 26 1
+KeyDown 29 1
+KeyUp 29 1
+KeyDown 21 1
+KeyUp 21 1
+</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

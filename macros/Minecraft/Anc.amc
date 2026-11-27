@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major>Auto Anchor MC</Major>
+    <Description>This will use anchors for you, switching to totem to pop. here is the order i use: slot 3: anchor. slot 4: glowstone. slot 6: totem. my keybinds are: slot 3: Q. slot 4: E. slot 6: bottom side mouse button (button4).</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 30 ms
+KeyUp 20 1
+Delay 25 ms
+RightDown 1
+Delay 30 ms
+RightUp 1
+Delay 25 ms
+KeyDown 8 1
+Delay 30 ms
+KeyUp 8 1
+Delay 25 ms
+RightDown 1
+Delay 30 ms
+RightUp 1
+Delay 25 ms
+Button4down 1
+Delay 30 ms
+Button4Up 1
+Delay 25 ms
+RightDown 1
+Delay 30 ms
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

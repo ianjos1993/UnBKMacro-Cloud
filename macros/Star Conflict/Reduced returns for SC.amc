@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>При зажатии ЛКМ симулирует единоразовое нажатие ЛКМ, что в самой игре позволяет стрелять из орудий, не повышая круг разброса и замедляя их нагрев втрое, позволяя вести безостановочную стрельбу. </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Star Conflict/Понижение отдачи и нагрева</Software>
+  </DefaultMacro>
+</Root>

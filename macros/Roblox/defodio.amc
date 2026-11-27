@@ -1,0 +1,62 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>It allows you to use the spell "defodio" fast by using this macro
+It types "/defodio" in the chatbox and allows you to shoot it.
+
+About defodio:
+The Gouging Spell, or Defodio, is a spell that causes a damage-over-time bleeding effect that will kill the opponent if left untreated within 8 seconds. Defodio causes the victim to be ragdolled, sent backward and stunned, whilst also leaving a blood decal on the floor under them and a purely aesthetic explosion upon impact.
+Defodio has the least letters of any killing spell. Defodio is the swifter-killing variant of Sectumsempra, a spell that kills a victim in roughly 15 seconds. Despite the canonical function of the spell, Defodio does not malform terrain.
+
+A healing spell such as Vulnera Sanentur (or Episkey) can be used to counter the bleeding effect caused by the Gouging Spell. Afterwhich, Rennervate is then used to unstun the victim. Using only Rennervate does not reverse the effects of Defodio, thus still leaving the victim to perish.
+(Magic training wiki)
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 10 ms
+KeyUp 56 1
+Delay 10 ms
+KeyDown 7 1
+Delay 10 ms
+KeyUp 7 1
+Delay 10 ms
+KeyDown 8 1
+Delay 10 ms
+KeyUp 8 1
+Delay 10 ms
+KeyDown 9 1
+Delay 10 ms
+KeyUp 9 1
+Delay 10 ms
+KeyDown 18 1
+Delay 10 ms
+KeyUp 18 1
+Delay 10 ms
+KeyDown 7 1
+Delay 10 ms
+KeyUp 7 1
+Delay 10 ms
+KeyDown 12 1
+Delay 10 ms
+KeyUp 12 1
+Delay 10 ms
+KeyDown 18 1
+Delay 10 ms
+KeyUp 18 1
+Delay 10 ms
+KeyDown 88 1
+Delay 10 ms
+KeyUp 88 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

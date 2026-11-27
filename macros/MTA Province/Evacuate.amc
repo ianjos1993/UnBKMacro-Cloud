@@ -1,0 +1,64 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для быстрого набора команды по эвакуации авто на работе маханника.
+Подъезжаете к автомобилю который хотите эвакуировать, нажимаете на кнопку, на которую назначили макрос и макрос набирает за вас команду, ваша задача написать id (ПРОБЕЛ ПОСЛЕ КОМАНДЫ ПОСТАВЛЕН)
+
+Разрешение не важно
+ФПС ±60
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 1 ms
+KeyUp 23 1
+Delay 3 ms
+KeyDown 56 1
+Delay 1 ms
+KeyUp 56 1
+Delay 2 ms
+KeyDown 8 1
+Delay 1 ms
+KeyUp 8 1
+Delay 2 ms
+KeyDown 25 1
+Delay 1 ms
+KeyUp 25 1
+Delay 2 ms
+KeyDown 4 1
+Delay 1 ms
+KeyUp 4 1
+Delay 9 ms
+KeyDown 6 1
+Delay 1 ms
+KeyUp 6 1
+Delay 1 ms
+KeyDown 24 1
+Delay 0 ms
+KeyUp 24 1
+Delay 2 ms
+KeyDown 4 1
+Delay 1 ms
+KeyUp 4 1
+Delay 6 ms
+KeyDown 23 1
+Delay 1 ms
+KeyDown 8 1
+Delay 0 ms
+KeyUp 23 1
+Delay 1 ms
+KeyUp 8 1
+Delay 2 ms
+KeyDown 44 1
+Delay 1 ms
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

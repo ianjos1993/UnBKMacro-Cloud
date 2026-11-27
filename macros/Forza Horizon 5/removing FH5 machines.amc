@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для удаления машин подряд. (к примеру виллисы после получения виллспинов.)
+1.найти в гараже кучу машин, идущих подряд, от которых хотите избавиться.
+2.навести на самую последнюю по порядку красную рамку выбора.
+3.особо продвинутые могут посчитать количество хлама и изменить количество повторений.
+4.запустить скрипт и ждать.
+5.остановить скрипт в конце и доудалять пару машин вручную(чтоб скрипт не тронул нужные машины).</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 500 ms
+KeyDown 88 1
+Delay 79 ms
+KeyUp 88 1
+Delay 664 ms
+KeyDown 81 1
+Delay 55 ms
+KeyUp 81 1
+Delay 72 ms
+KeyDown 81 1
+Delay 72 ms
+KeyUp 81 1
+Delay 87 ms
+KeyDown 81 1
+Delay 72 ms
+KeyUp 81 1
+Delay 71 ms
+KeyDown 81 1
+Delay 71 ms
+KeyUp 81 1
+Delay 319 ms
+KeyDown 88 1
+Delay 88 ms
+KeyUp 88 1
+Delay 599 ms
+KeyDown 88 1
+Delay 71 ms
+KeyUp 88 1
+Delay 1072 ms
+GoWhile 1 5000</Syntax>
+    </KeyDown>
+    <Software>Forza Horizon 5</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>отличная привязка для свс</Major>
+    <Description>ставим на F3  атаку
+                  F1 п деф
+                  F2 криты
+выделяем персонажа к которому хотим привязаться
+включаем.всё работает!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 60 1
+KeyUp 60 1
+Delay 300 ms
+KeyDown 58 1
+KeyUp 58 1
+Delay 1 s
+KeyDown 59 1
+KeyUp 59 1
+Delay 2 s
+KeyDown 60 1
+KeyUp 60 1
+KeyDown 60 1
+KeyUp 60 1
+Delay 110 s
+GoWhile 1 1000</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

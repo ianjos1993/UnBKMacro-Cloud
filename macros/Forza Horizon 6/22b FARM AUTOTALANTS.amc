@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Фарм автоталантов на Subaru Impreza 22B-STI Version на карте 890 169 683. 
+Перед использованием необходимо запуститься на карту, но не нажимать кнопку "Начать заезд". Также в настройках сложность рекомендуем поставить следующие настройки: сложность - непобедимый, управление - авторуление, торможение - абс откл.
+Тюнинг для машины - 140 242 027.
+Рекомендовано назначить на клавишу Insert, режим работы - до повторного нажатия.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 155 ms
+KeyUp 225 1
+Delay 390 ms
+KeyDown 88 1
+Delay 84 ms
+KeyUp 88 1
+Delay 3881 ms
+KeyDown 26 1
+Delay 2148 ms
+KeyDown 8 1
+Delay 85 ms
+KeyUp 8 1
+Delay 1965 ms
+KeyDown 8 1
+Delay 92 ms
+KeyUp 8 1
+Delay 25378 ms
+KeyUp 26 1
+Delay 6559 ms
+KeyDown 27 1
+Delay 170 ms
+KeyUp 27 1
+Delay 401 ms
+KeyDown 88 1
+Delay 82 ms
+KeyUp 88 1
+Delay 8305 ms</Syntax>
+    </KeyDown>
+    <Software>Forza Horizon 6</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>топ подача все автоматически остается только управлять камерой при подаче выполняется авто подбрасывание разбег прыжок и удар вам остается либо взять в руки мяч на B  и дальше просто повернуть камеру куда вам нужно</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR 0 0
+RightDown 1
+Delay 500 ms
+RightUp 1
+KeyDown 26 1
+KeyDown 225 1
+Delay 600 ms
+KeyDown 44 1
+Delay 400 ms
+KeyUp 44 1
+LeftDown 1
+Delay 1000 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

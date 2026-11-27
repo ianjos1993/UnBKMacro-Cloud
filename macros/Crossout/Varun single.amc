@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на не апнутый на скорость  перезарядки арбалет варун из игры Crossout, если вас кумарит его зарядка используйте данный макрос, он достаточно простой, нужно просто забиндить определенную клавишу на которую вам удобнее его активировать и отключать и готово, будете разносить все живое и не живое(имею ввиду ботов) удачи в пустошах.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 920 ms
+LeftUp 1
+Delay 90 ms
+LeftDown 1
+Delay 920 ms
+LeftUp 1
+Delay 90 ms
+LeftUp 1
+GoWhile 1 1000</Syntax>
+    </KeyDown>
+    <Software>Crossout</Software>
+  </DefaultMacro>
+</Root>

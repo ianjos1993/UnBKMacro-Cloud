@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major>фарм боссов Зенары и Астралима в регионе Мирового Древа.</Major>
+    <Description>Макрос заточен под использование пала пала с высокой атакой: тайминги подобраны так, чтобы автодействия успевали срабатывать в ритме его атак и откатов способностей. Авто вход - вызов пала - это в цикле, (просто и надёжно) цикл 100 раз, прекрасно работает в оконном режиме
+
+
+поменяйте координату мышки, для того чтобы попадала на кнопку согласия</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 64
+KeyDown 9 1
+Delay 2 s
+Delay 64
+KeyUp 9 1
+Delay 64
+MoveTo 1161 874
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 14 s
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 40 s
+GoWhile 1 100</Syntax>
+    </KeyDown>
+    <Software>Palworld</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major>Auto Alt and Click Spam</Major>
+    <Description>Auto ALT and Fast Click Spam, this is used by a selected key, with activation on off in a auto spam ALT and click, with 5ms every one, working in SAMP Survivors servers
+</Description>
+    <Comment>https://botmek.com - Free macros download | this is a</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 226 1
+Delay 5 ms
+KeyUp 226 1
+Delay 5 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

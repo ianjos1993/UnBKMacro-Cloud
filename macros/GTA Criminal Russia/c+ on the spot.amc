@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>обычьный авто +с для SAMP,CRMP и.тд. вам нодо стоять  на месте чтоб всё работало, надо нажать одну кнопку и всё.
+вам остаётся только направлять мыш в цель</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 20
+RightUp 1
+Delay 20
+LeftDown 1
+Delay 20
+LeftUp 1
+Delay 20
+KeyDown 6 1
+Delay 20
+KeyUp 6 1
+Delay 20
+RightDown 1
+Delay 20
+RightUp 1
+Delay 20
+LeftDown 1
+Delay 20
+LeftUp 1
+Delay 20
+KeyDown 6 1
+Delay 20
+KeyUp 6 1
+Delay 20</Syntax>
+    </KeyDown>
+    <Software>CRMP</Software>
+  </DefaultMacro>
+</Root>

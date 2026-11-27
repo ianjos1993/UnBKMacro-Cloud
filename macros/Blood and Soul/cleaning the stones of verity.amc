@@ -1,0 +1,75 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>подойдет для чистки камней истины по парту
+Подставляем камень под место "ок" а зелье справа от камня
+активируем макрос он просто водит мышку и нажимает  пкм лкм лкм</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 150 ms
+MoveTo 833 552
+Delay 156 ms
+MoveTo 833 552
+Delay 156 ms
+RightDown 1
+Delay 60 ms
+RightUp 1
+Delay 60 ms
+MoveTo 832 553
+Delay 10 ms
+MoveTo 831 553
+Delay 6 ms
+MoveTo 829 554
+Delay 10 ms
+MoveTo 828 554
+Delay 6 ms
+MoveTo 826 554
+Delay 7 ms
+MoveTo 825 554
+Delay 7 ms
+MoveTo 823 555
+Delay 10 ms
+MoveTo 821 555
+Delay 7 ms
+MoveTo 807 556
+Delay 7 ms
+MoveTo 804 556
+Delay 6 ms
+MoveTo 802 556
+Delay 9 ms
+MoveTo 790 555
+Delay 5 ms
+MoveTo 789 555
+Delay 11 ms
+MoveTo 788 555
+Delay 136 ms
+LeftDown 1
+Delay 114 ms
+LeftUp 1
+Delay 144 ms
+MoveTo 793 549
+Delay 3 ms
+MoveTo 794 549
+Delay 6 ms
+MoveTo 794 549
+Delay 11 ms
+MoveTo 794 549
+Delay 14 ms
+MoveTo 794 548
+Delay 8 ms
+LeftDown 1
+Delay 78 ms
+LeftUp 1
+Delay 475 ms
+MoveTo 796 546
+Delay 120 ms</Syntax>
+    </KeyDown>
+    <Software>Blood and soul</Software>
+  </DefaultMacro>
+</Root>

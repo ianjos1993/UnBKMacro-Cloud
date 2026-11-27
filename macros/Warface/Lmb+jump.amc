@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>  Макрос жмёт за вас начать,готов, присоедениться и пропускает после матчевые награды.
+Создаёте комнату. Наведите мышь на кнопку начать или готов или присоеденится по центру любой из этих кнопок. Запустите макрос. Мышь не трогайте ибо работает без координат. Макрос Жмёт начать,готов,  и просоелдениться, переодически нажимает пробел. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 33 44 ms
+LeftUp 1
+Delay 23 34 ms
+KeyDown 44 1
+Delay 64 74
+KeyUp 44 1
+Delay 64 74</Syntax>
+    </KeyDown>
+    <Software>Warface</Software>
+  </DefaultMacro>
+</Root>

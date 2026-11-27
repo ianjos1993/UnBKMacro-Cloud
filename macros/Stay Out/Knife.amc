@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для ударов ножа взаместо одного можно ударить 2-4 раза очень сильно даёт преймущество против других игроков</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 25 1
+Delay 64
+KeyDown 25 1
+Delay 64
+KeyDown 25 1
+Delay 64
+KeyDown 25 1</Syntax>
+    </KeyDown>
+    <Software>Stay Out</Software>
+  </DefaultMacro>
+</Root>

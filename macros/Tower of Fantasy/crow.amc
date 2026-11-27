@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major>Crow animation cancel </Major>
+    <Description>Allowes to cancel Crow's drop attack animation.
+So originally this is a bug, but devs after 7 months of CBT are still unable to detect or fix it, so there's nothing to worry about. This script starts and cancels crow's attact animation providing more than 20k dps at weapon level 70 
+(BEST DPS even at NO STAR)
+explanation: https://youtu.be/kjoLf1SjvK0
+Позволяет отмкнять анимацию атаки Crow в падении.
+Изначально это баг, но спустя 7 месяцев ЗБТ разработчики так и не нашли способ пофиксить или зафиксировать его, следовательно и волноваться не о чем. Скрипт начинает и отменяет анимацию атаки crow, что выдаёт более 20т dps на 70 уровне оружия (ВЫСОЧАЙШИЙ ДПС даже БЕЗ ЗВЁЗД)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+Allowes to cancel Crow's drop attack animation.
+explanation: https://youtu.be/kjoLf1SjvK0</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 70 100 ms
+KeyUp 44 1
+Delay 70 100 ms
+KeyDown 31 1
+Delay 70 100 ms
+KeyUp 31 1
+Delay 70 100 ms
+LeftDown 1
+Delay 99 150 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Tower of Fantasy</Software>
+  </DefaultMacro>
+</Root>

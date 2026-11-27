@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос поможет вам использовать черту Dragon в игре Locked всего с помощью одного нажатия. Достаточно просто навести курсор туда, куда вы хотите, чтобы пошёл мяч.
+Я предлагаю использовать разрешение экрана 1920x1080 и чувствительность 0.5.</Description>
+    <Comment>Этот макрос поможет вам использовать черту Dragon в игре Locked всего с помощью одного нажатия. Достаточно просто навести курсор туда, куда вы хотите, чтобы пошёл мяч.
+Я предлагаю использовать разрешение экрана 1920x1080 и чувствительность 0.5.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR 0 -340
+RightDown 1
+Delay 30 ms
+MoveR 0 270
+Delay 64
+KeyDown 23 1
+Delay 15 ms
+RightUp 1
+KeyUp 23 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

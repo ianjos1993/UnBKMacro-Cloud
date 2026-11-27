@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major>быстрый ретейк стены (бинд стены на z)</Major>
+    <Description>отличный макрос для игры в арене а также в боксфайтах.сам им пользуюсь и гарантирую его роботоспособность.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+LeftUp 1
+Delay 123 169 ms
+KeyDown 29 1
+Delay 10 ms
+KeyUp 29 1
+Delay 1 ms
+LeftDown 1
+Delay 25 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

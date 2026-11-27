@@ -1,0 +1,206 @@
+<Root>
+  <DefaultMacro>
+    <Major>Clive Combo 4</Major>
+    <Description>Макрос позволяет выполнять отличное комбо с разбитием стены за Клайва.
+Видео демонстрации работы макроса: https://youtu.be/wULRZE8sCTI 
+
+Клайв — профессиональный наемник, известный под прозвищем "Мастер теней". Он появляется на аренах турнира Tekken с одной целью — устранить важную цель. Его стиль боя напоминает танец хищника: резкие контратаки, движения, напоминающие звериные рывки, и точные, смертоносные удары. Клайв редко говорит, предпочитая, чтобы его действия говорили за него. Однако его мрачное присутствие и загадочная аура намекают на личные мотивы, которые могут быть связаны с его прошлым, о котором знают лишь единицы.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 21.12.2024
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ.
+
+#clivetekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 28 ms
+KeyDown 73 1
+Delay 132 ms
+KeyUp 73 1
+Delay 74 ms
+KeyUp 4 1
+Delay 322 ms
+KeyDown 7 1
+Delay 91 ms
+KeyUp 7 1
+Delay 70 ms
+KeyDown 7 1
+Delay 75 ms
+KeyUp 7 1
+Delay 51 ms
+KeyDown 7 1
+Delay 126 ms
+KeyUp 7 1
+Delay 11 ms
+KeyDown 4 1
+Delay 5 ms
+KeyDown 22 1
+Delay 46 ms
+KeyDown 74 1
+Delay 12 ms
+KeyDown 73 1
+Delay 139 ms
+KeyUp 74 1
+Delay 5 ms
+KeyUp 22 1
+Delay 5 ms
+KeyUp 4 1
+Delay 6 ms
+KeyUp 73 1
+Delay 64 ms
+KeyDown 73 1
+Delay 98 ms
+KeyUp 73 1
+Delay 57 ms
+KeyDown 73 1
+Delay 108 ms
+KeyUp 73 1
+Delay 578 ms
+KeyDown 74 1
+Delay 99 ms
+KeyUp 74 1
+Delay 68 ms
+KeyDown 74 1
+Delay 97 ms
+KeyUp 74 1
+Delay 58 ms
+KeyDown 74 1
+Delay 104 ms
+KeyUp 74 1
+Delay 58 ms
+KeyDown 74 1
+Delay 109 ms
+KeyUp 74 1
+Delay 58 ms
+KeyDown 74 1
+Delay 109 ms
+KeyUp 74 1
+Delay 63 ms
+KeyDown 74 1
+Delay 104 ms
+KeyUp 74 1
+Delay 68 ms
+KeyDown 74 1
+Delay 103 ms
+KeyUp 74 1
+Delay 63 ms
+KeyDown 74 1
+Delay 92 ms
+KeyUp 74 1
+Delay 63 ms
+KeyDown 74 1
+Delay 80 ms
+KeyUp 74 1
+Delay 57 ms
+KeyDown 74 1
+Delay 98 ms
+KeyUp 74 1
+Delay 236 ms
+KeyDown 7 1
+Delay 86 ms
+KeyUp 7 1
+Delay 69 ms
+KeyDown 7 1
+Delay 81 ms
+KeyUp 7 1
+Delay 52 ms
+KeyDown 7 1
+Delay 183 ms
+KeyUp 7 1
+Delay 6 ms
+KeyDown 4 1
+Delay 6 ms
+KeyDown 22 1
+Delay 52 ms
+KeyDown 74 1
+Delay 86 ms
+KeyDown 73 1
+Delay 16 ms
+KeyUp 22 1
+Delay 6 ms
+KeyUp 4 1
+Delay 17 ms
+KeyUp 74 1
+Delay 58 ms
+KeyUp 73 1
+Delay 577 ms
+KeyDown 7 1
+Delay 80 ms
+KeyUp 7 1
+Delay 87 ms
+KeyDown 7 1
+Delay 80 ms
+KeyUp 7 1
+Delay 74 ms
+KeyDown 7 1
+Delay 69 ms
+KeyUp 7 1
+Delay 63 ms
+KeyDown 7 1
+Delay 74 ms
+KeyUp 7 1
+Delay 52 ms
+KeyDown 7 1
+Delay 202 ms
+KeyUp 7 1
+Delay 80 ms
+KeyDown 74 1
+Delay 0 ms
+KeyDown 76 1
+Delay 104 ms
+KeyUp 76 1
+Delay 4 ms
+KeyUp 74 1
+Delay 1373 ms
+KeyDown 74 1
+Delay 0 ms
+KeyDown 76 1
+Delay 166 ms
+KeyUp 74 1
+Delay 0 ms
+KeyUp 76 1
+Delay 69 ms
+KeyDown 74 1
+Delay 56 ms
+KeyUp 74 1
+Delay 5495 ms
+KeyDown 7 1
+Delay 68 ms
+KeyUp 7 1
+Delay 52 ms
+KeyDown 7 1
+Delay 97 ms
+KeyDown 74 1
+Delay 190 ms
+KeyUp 74 1
+Delay 173 ms
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

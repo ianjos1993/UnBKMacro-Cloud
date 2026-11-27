@@ -1,0 +1,78 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос предназначен для ручного перекрафта вещей на мэ системе (AE2):
+подходит при развернутом экране, размер интерфейса 2 или 3, легко поменять
+
+1. выставить крафт в МЭ терминале крафта
+2. убедиться, что у вас освобождено как можно больше инвентарного места
+(обязательно освободить ячейки под взятием предмета из терминала)
+3. запустить макрос и любоваться тем, что он быстрее всяких автокрафтов</Description>
+    <Comment>создавался на сильно замодовоном сервере 1.12.2, рпг сборки, за работоспособность на других версиях игры не отвечаю
+
+https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1047 643
+Delay 32 ms
+KeyDown 225 1
+Delay 32 ms
+WheelUp 1
+Delay 32 ms
+WheelUp 1
+Delay 32 ms
+WheelUp 1
+Delay 32 ms
+WheelUp 1
+Delay 32 ms
+WheelUp 1
+Delay 32 ms
+WheelUp 1
+Delay 32 ms
+WheelUp 1
+Delay 32 ms
+WheelUp 1
+Delay 32 ms
+WheelUp 1
+Delay 32 ms
+WheelUp 1
+Delay 32 ms
+WheelUp 1
+Delay 32 ms
+WheelUp 1
+Delay 32 ms
+WheelUp 1
+Delay 32 ms
+WheelUp 1
+Delay 32 ms
+WheelUp 1
+Delay 32 ms
+WheelUp 1
+Delay 32 ms
+WheelUp 1
+Delay 32 ms
+WheelUp 1
+Delay 32 ms
+KeyUp 225 1
+Delay 32 ms
+MoveTo 1040 801
+Delay 32 ms
+KeyDown 225 1
+Delay 32 ms
+LeftDown 1
+Delay 64 ms
+MoveTo 1056 985
+Delay 64 ms
+LeftUp 1
+Delay 32 ms
+KeyUp 225 1
+Delay 32 ms</Syntax>
+    </KeyDown>
+    <Software>minecraft</Software>
+  </DefaultMacro>
+</Root>

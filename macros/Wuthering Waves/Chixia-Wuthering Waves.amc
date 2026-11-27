@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Делает из Chixia пулемет спомощью быстрой отмены заряженной атаки 
+1) Для стабильной работы важно чтобы у вас было 60 фпс и выше
+2) Биндим на любую кнопку мыши и готово</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+Delay 5 ms
+KeyUp 10 1
+LeftDown 1
+Delay 8 ms
+LeftUp 1
+Delay 17 ms</Syntax>
+    </KeyDown>
+    <Software>Wuthering Waves</Software>
+  </DefaultMacro>
+</Root>

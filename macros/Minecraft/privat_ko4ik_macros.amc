@@ -1,0 +1,68 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для CubixCraft , приват но вылаживаем не боимся) . Я его не писал играл так просто 22 удара 7 хила .
+Вроде норм для жимы , для ямы урон бешенный .
+1 - меч
+3 - фрост
+Свап 9 слот</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+Delay 1 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 9 ms
+LeftUp 1
+Delay 9 ms
+LeftDown 1
+Delay 7 ms
+LeftUp 1
+Delay 7 ms
+LeftDown 1
+Delay 4 ms
+LeftUp 1
+Delay 4 ms
+KeyDown 32 1
+Delay 1 ms
+KeyUp 32 1
+Delay 1 ms
+RightDown 1
+Delay 9 ms
+RightUp 1
+Delay 9 ms
+RightDown 1
+Delay 6 ms
+RightUp 1
+Delay 6 ms
+RightDown 1
+Delay 4 ms
+RightUp 1
+Delay 4 ms
+LeftDown 1
+Delay 9 ms
+LeftUp 1
+Delay 9 ms
+RightDown 1
+Delay 7 ms
+RightUp 1
+Delay 7 ms
+RightDown 1
+Delay 4 ms
+RightUp 1
+Delay 4 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

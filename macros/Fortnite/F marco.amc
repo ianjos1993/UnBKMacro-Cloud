@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major>Fortnite</Major>
+    <Description>idk how to explain to how to do it but evantually you might know,  so yeah
+
+Fortnite Marco, easy and simple! (F keybind only for editing)
+
+Enjoy!</Description>
+    <Comment>fortnite marco editor</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 2 ms
+KeyUp 9 1
+Delay 2 ms
+LeftDown 1
+Delay 2 ms
+LeftUp 1
+Delay 2 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

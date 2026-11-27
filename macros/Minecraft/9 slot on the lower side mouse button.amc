@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всем привет! и я сделал этот макрос чтобы было легче выбирать 9 слот в игре майнкрафт. все что нужно:
+1. Поставить макрос на нижнюю боковую кнопку мыши.
+И теперь когда вы поставите предмет на 9 слот нажимая нижнюю боковую кнопку мыши вы выберите этот предмет!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Button5Down 1
+Delay 1 ms
+Button5up 1
+Delay 64
+KeyDown 38 1
+Delay 1 ms
+KeyUp 38 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

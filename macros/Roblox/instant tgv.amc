@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>Azure Latch</Major>
+    <Description>This macro activates your awakening, dribbles, then activates Two Gun Volley as soon as it ends. Make sure to aim at the goal before activating. The original resolution is 1920x1080p, but that doesn't matter too much because there's no cam movement.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+KeyUp 10 1
+Delay 4500 ms
+KeyDown 8 1
+KeyUp 8 1
+Delay 20 ms
+KeyDown 33 1
+KeyUp 33 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

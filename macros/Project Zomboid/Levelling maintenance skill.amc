@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro will help you to level up your maintenance skill in the afk mod.
+
+1)Stand in front of the door with any pistol equipped in your hand.
+
+2)Start the macro.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+KeyDown 44 1
+Delay 64
+GoWhile 2 86400000</Syntax>
+    </KeyDown>
+    <Software>Project Zomboid</Software>
+  </DefaultMacro>
+</Root>

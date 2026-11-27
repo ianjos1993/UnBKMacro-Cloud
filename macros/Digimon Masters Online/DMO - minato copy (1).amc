@@ -1,0 +1,61 @@
+<Root>
+  <DefaultMacro>
+    <Major>iV3Xz</Major>
+    <Description>Bot for digimon master online area minato city 
+Screen resolution : Fullscreen1920x1080
+
+Feature:
+Auto kill recomend to use digimon with  powerfull first skill like jogres etc place it in (f1) and second skill in (f2)
+Auto pick place it in (4) if you donthave magnetic
+Adjustable for killing digimon (line 7 and 16) default shakomon
+autoheal HP dan DS (line 21 and 27)
+</Description>
+    <Comment>https://botmek.com - Free macros download</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>// DIGIMON MASTER ONLINE
+KeyDown 43 1
+Delay 120 ms
+KeyUp 43 1
+Delay 120 ms
+GoWhile 2 5
+GoColor 8 1 163,172,31 255,255,255 1 1014 60 709 966 1 0
+KeyDown 59 1
+Delay 120 ms
+KeyUp 59 1
+Delay 120 ms
+KeyDown 43 1
+Delay 120 ms
+Delay 120 ms
+KeyUp 43 1
+GoColor 17 1 163,172,31 255,255,255 1 1014 60 709 966 1 0
+KeyDown 58 1
+Delay 120 ms
+KeyUp 58 1
+Delay 120 ms
+GoColor 23 1 0,0,51 0,0,51 1 184 126 830 388 1 0
+Goto 27
+KeyDown 63 1
+Delay 111 ms
+KeyUp 63 1
+Delay 1 s
+GoColor 29 1 0,0,51 0,0,51 1 170 141 844 373 1 0
+Goto 37
+KeyDown 37 1
+Delay 120 ms
+KeyUp 37 1
+Delay 1 s
+KeyDown 43 1
+Delay 120 ms
+KeyUp 43 1
+Delay 120 ms
+GoWhile 2 86400000</Syntax>
+    </KeyDown>
+    <Software>Digimon Masters Online</Software>
+  </DefaultMacro>
+</Root>

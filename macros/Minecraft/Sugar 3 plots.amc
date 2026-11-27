@@ -1,0 +1,83 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Skyblock hypxiel auto farm 3 plots sugar cane with 300movespeed
+U need only rancher boots and sethome on start farm</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 4 1
+Delay 34 s
+KeyUp 4 1
+KeyDown 26 1
+Delay 1 s
+KeyUp 26 1
+KeyDown 22 1
+Delay 32 s
+KeyUp 22 1
+KeyDown 7 1
+Delay 1 s
+KeyUp 7 1
+GoWhile 1 17
+Delay 2755 ms
+KeyDown 56 1
+Delay 10 ms
+KeyUp 56 1
+Delay 250 ms
+KeyDown 26 1
+Delay 10 ms
+KeyUp 26 1
+Delay 250 ms
+KeyDown 4 1
+Delay 10 ms
+KeyUp 4 1
+Delay 250 ms
+KeyDown 21 1
+Delay 10 ms
+KeyUp 21 1
+Delay 250 ms
+KeyDown 19 1
+Delay 10 ms
+KeyUp 19 1
+KeyDown 44 1
+Delay 10 ms
+KeyUp 44 1
+Delay 300 ms
+KeyDown 10 1
+Delay 10 ms
+KeyUp 10 1
+Delay 250 ms
+KeyDown 4 1
+Delay 10 ms
+KeyUp 4 1
+Delay 250 ms
+KeyDown 21 1
+Delay 10 ms
+KeyUp 21 1
+Delay 250 ms
+KeyDown 7 1
+Delay 10 ms
+KeyUp 7 1
+Delay 250 ms
+KeyDown 8 1
+Delay 10 ms
+KeyUp 8 1
+Delay 250 ms
+KeyDown 17 1
+Delay 10 ms
+KeyUp 17 1
+Delay 300 ms
+KeyDown 88 1
+KeyUp 88 1
+Delay 3 s
+GoWhile 1 25</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

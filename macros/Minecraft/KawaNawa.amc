@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Ничего не буду писать по типу топ 1 макрос там и прочего , скажу только что я на суше его юзаю для чего 
+для того что-бы выхилить баг урон , всё , свапает вроде -бы)
+1 мечикссс
+3 - фростиксс
+Всем удачи , кто скачает станет топелам!</Description>
+    <Comment>топ 1 как бы да) </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+LeftDown 1
+Delay 9 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 6 ms
+LeftUp 1
+Delay 7 ms
+LeftDown 1
+Delay 2 ms
+LeftUp 1
+Delay 3 ms
+KeyDown 32 1
+KeyUp 32 1
+RightDown 1
+Delay 13 ms
+RightUp 1
+Delay 14 ms
+RightDown 1
+Delay 9 ms
+RightUp 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

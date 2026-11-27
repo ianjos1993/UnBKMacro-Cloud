@@ -1,0 +1,119 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>-Sens 0.66
+-FOV 90
+
+Разрешение - 1920-1080
+
+Макро на SAR преднозначен для авто зажима в присяде. Идеально (+-) в точку.
+
+By .but1ch. Приятного пользования </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 66 ms
+LeftUp 1
+Delay 66 ms
+MoveR -1 37
+Delay 66 ms
+LeftDown 1
+Delay 66 ms
+LeftUp 1
+Delay 66 ms
+MoveR -1 26
+Delay 66 ms
+LeftDown 1
+Delay 66 ms
+LeftUp 1
+Delay 66 ms
+MoveR -6 28
+Delay 66 ms
+LeftDown 1
+Delay 66 ms
+LeftUp 1
+Delay 66 ms
+MoveR -6 21
+Delay 66 ms
+LeftDown 1
+Delay 66 ms
+LeftUp 1
+Delay 66 ms
+MoveR 1 26
+Delay 66 ms
+LeftDown 1
+Delay 66 ms
+LeftUp 1
+Delay 66 ms
+MoveR -2 27
+Delay 66 ms
+LeftDown 1
+Delay 66 ms
+LeftUp 1
+Delay 66 ms
+MoveR -3 27
+Delay 66 ms
+LeftDown 1
+Delay 66 ms
+LeftUp 1
+Delay 66 ms
+MoveR 0 27
+Delay 66 ms
+LeftDown 1
+Delay 66 ms
+LeftUp 1
+Delay 66 ms
+MoveR -1 27
+Delay 66 ms
+LeftDown 1
+Delay 66 ms
+LeftUp 1
+Delay 66 ms
+MoveR 0 30
+Delay 66 ms
+LeftDown 1
+Delay 66 ms
+LeftUp 1
+Delay 66 ms
+MoveR -4 30
+Delay 66 ms
+LeftDown 1
+Delay 66 ms
+LeftUp 1
+Delay 66 ms
+MoveR 0 22
+Delay 66 ms
+LeftDown 1
+Delay 66 ms
+LeftUp 1
+Delay 66 ms
+MoveR 1 26
+Delay 66 ms
+LeftDown 1
+Delay 66 ms
+LeftUp 1
+Delay 66 ms
+MoveR 0 23
+Delay 66 ms
+LeftDown 1
+Delay 66 ms
+LeftUp 1
+Delay 66 ms
+MoveR -2 27
+Delay 66 ms
+LeftDown 1
+Delay 66 ms
+LeftUp 1
+Delay 66 ms
+MoveR -1 26
+Delay 66 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,342 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос под новую отдачу в игре RUST на оружие MP5  в положении стоя. Макрос контролит отдачу только по вертикали.
+
+Настройки в программе:
+
+  1.  Установить и включить программный драйвер.
+  2. Программа должна быть запущена в режиме "инкогнито".
+  3. В настройках программы отключить опцию "использовать минимальную задержку".
+  4. В настройках программы, убрать галочку с "повышенная точность указателя",
+
+Настройки в игре:
+  - FOV 90 - Чувствительность 0.888
+
+Макрос тестировался на:
+  - Ноутбук lenovo legion Y540
+  - Игровая мышка Zet Gaming
+  - Windows 11
+  - RUST через Steam
+
+По всем вопросам обращаться: 
+- Форум: https://keyran.net/forum/
+- Discord: https://keyran.net/discord
+- ВК: https://vk.com/keyran_net
+
+#rust #макросы_для_новой_отдачи_rust #новая_отдача_rust #раст</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 17 ms
+MoveR 0 3
+Delay 17 ms
+MoveR 0 3
+Delay 17 ms
+MoveR 0 3
+Delay 17 ms
+MoveR 0 3
+Delay 17 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 17 ms
+MoveR 0 3
+Delay 17 ms
+MoveR 0 3
+Delay 17 ms
+MoveR 0 3
+Delay 17 ms
+MoveR 0 3
+Delay 17 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+LeftUp 1
+DelayS 1 s</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

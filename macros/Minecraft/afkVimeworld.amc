@@ -1,0 +1,182 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос создан для обхода афк плагина на сервере hoden для его корректной и продуктивной работы необходимо стоять перед любой фармилкой мобов упираясь при этом в блок перед собой. так же желательно поставить за место нижнего левого блока контроллер для сброса лута в систему ящиков. при желании можно просто взять любую еду в руку для автоматического пополнения голода раз в минуту.
+
+разрешение экрана 1920х1080
+dpi мыши 800
+чувствительность в minecraft необходимо откалибровывать вручную.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+LeftUp 1
+Delay 1 s
+LeftDown 1
+LeftUp 1
+Delay 1 s
+MoveR -96 0
+Delay 5 ms
+MoveR 0 96
+Delay 5 ms
+MoveR -96 0
+Delay 5 ms
+MoveR 0 96
+Delay 5 ms
+MoveR -96 0
+Delay 5 ms
+MoveR 0 96
+Delay 5 ms
+MoveR -96 0
+Delay 5 ms
+MoveR 0 96
+Delay 5 ms
+MoveR -96 0
+Delay 5 ms
+MoveR 0 96
+Delay 5 ms
+MoveR -96 0
+Delay 5 ms
+MoveR 0 96
+Delay 5 ms
+MoveR -96 0
+Delay 5 ms
+MoveR 0 96
+Delay 5 ms
+MoveR -96 0
+Delay 5 ms
+MoveR 0 96
+Delay 5 ms
+MoveR -96 0
+Delay 5 ms
+MoveR 0 96
+Delay 5 ms
+MoveR -96 0
+Delay 5 ms
+MoveR 0 96
+Delay 5 ms
+MoveR -96 0
+Delay 5 ms
+MoveR 0 96
+Delay 5 ms
+MoveR -96 0
+Delay 5 ms
+MoveR 0 96
+Delay 5 ms
+MoveR -96 0
+Delay 5 ms
+MoveR 0 96
+Delay 5 ms
+MoveR -96 0
+Delay 5 ms
+MoveR 0 96
+Delay 5 ms
+MoveR -96 0
+Delay 5 ms
+MoveR 0 96
+Delay 5 ms
+MoveR -96 0
+Delay 5 ms
+MoveR 0 48
+Delay 5 ms
+MoveR -96 0
+Delay 5 ms
+MoveR -96 0
+Delay 5 ms
+//left/down
+RightDown 1
+Delay 2 s
+RightUp 1
+Delay 64
+MoveR 96 0
+Delay 5 ms
+MoveR 0 -96
+Delay 5 ms
+MoveR 96 0
+Delay 5 ms
+MoveR 0 -96
+Delay 5 ms
+MoveR 96 0
+Delay 5 ms
+MoveR 0 -96
+Delay 5 ms
+MoveR 96 0
+Delay 5 ms
+MoveR 0 -96
+Delay 5 ms
+MoveR 96 0
+Delay 5 ms
+MoveR 0 -96
+Delay 5 ms
+MoveR 96 0
+Delay 5 ms
+MoveR 0 -96
+Delay 5 ms
+MoveR 96 0
+Delay 5 ms
+MoveR 0 -96
+Delay 5 ms
+MoveR 96 0
+Delay 5 ms
+MoveR 0 -96
+Delay 5 ms
+MoveR 96 0
+Delay 5 ms
+MoveR 0 -96
+Delay 5 ms
+MoveR 96 0
+Delay 5 ms
+MoveR 0 -96
+Delay 5 ms
+MoveR 96 0
+Delay 5 ms
+MoveR 0 -96
+Delay 5 ms
+MoveR 96 0
+Delay 5 ms
+MoveR 0 -96
+Delay 5 ms
+MoveR 96 0
+Delay 5 ms
+MoveR 0 -96
+Delay 5 ms
+MoveR 96 0
+Delay 5 ms
+MoveR 0 -96
+Delay 5 ms
+MoveR 96 0
+Delay 5 ms
+MoveR 0 -96
+Delay 5 ms
+MoveR -96 0
+Delay 5 ms
+MoveR 0 48
+Delay 5 ms
+MoveR 96 0
+Delay 5 ms
+MoveR 96 0
+Delay 5 ms
+MoveR 0 -96
+Delay 5 ms
+MoveR 96 0
+Delay 5 ms
+MoveR 96 0
+Delay 100 ms
+KeyDown 22 1
+Delay 700 ms
+KeyUp 22 1
+Delay 5 ms
+KeyDown 26 1
+Delay 1 s
+KeyUp 26 1
+Delay 1 min
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Vimeworld</Software>
+  </DefaultMacro>
+</Root>

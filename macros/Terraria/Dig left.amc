@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос поможет вам сохранить время при раскопке туннеля.
+
+Активировав макрос ваш персонаж будет двигаться влево и копать.
+Что бы макрос работал корректно, держите экран игры активным.
+Кнопка передвижения влево должна быть назначена на "A"
+
+ВАЖНО! Перед активацией наведите мышку на левую часть экрана,
+активируйте "смарт курсор" клавишей "ctrl" и нажимайте хоткей для
+активации макроса.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+LeftDown 1</Syntax>
+    </KeyDown>
+    <Software>Terraria</Software>
+  </DefaultMacro>
+</Root>

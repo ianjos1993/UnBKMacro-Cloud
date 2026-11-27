@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Warlock well skate - use near a ledge and BOOOOOOM
+
+Change the 3 to primary weapon key 
+Change the 5 to heavy weapon key 
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 10 ms
+KeyDown 34 1
+Delay 10
+KeyUp 34 1
+Delay 500 ms
+RightDown 1
+Delay 10 ms
+RightUp 1
+Delay 10 ms
+KeyDown 44 1
+Delay 10 ms
+KeyUp 44 1
+Delay 10 ms
+KeyDown 44 1
+Delay 10
+KeyUp 44 1
+Delay 10
+KeyDown 9 1
+MiddleDown 1
+Delay 10
+MiddleUp 1
+Delay 10
+KeyDown 32 1
+Delay 10 ms
+KeyUp 32 1
+Delay 10 ms
+KeyDown 44 1
+Delay 10 ms
+KeyUp 44 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Destiny 2</Software>
+  </DefaultMacro>
+</Root>

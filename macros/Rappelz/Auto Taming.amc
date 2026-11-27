@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>Auto Taming using normal scroll of taming and powerful scroll of taming</Major>
+    <Description>Must zoom out for you to be able to see multiple mobs to activate the "Press TAB to select enemies"
+
+How to use:
+1. Make sure you have the option to select enemy using TAB.
+2. Put the attack button in the #1 key in your skill tab.
+3. Put the Powerful Scroll or Normal scroll of taming in the #2 key in your skill tab.
+4. Go to the taming spot and make sure you have all the materials needed for taming. Enjoy!!! </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+KeyDown 31 1
+Delay 500 ms
+KeyUp 31 1
+Delay 500 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+GoWhile 1 9999</Syntax>
+    </KeyDown>
+    <Software>Rappelz</Software>
+  </DefaultMacro>
+</Root>

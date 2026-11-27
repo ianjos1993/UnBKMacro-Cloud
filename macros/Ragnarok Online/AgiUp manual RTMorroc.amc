@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major>AgiUp manual RTMorroc</Major>
+    <Description>Надевает мануал Agility(кнопка i), кидает на себя агиап (кнопка 4), потом переодевает на ваш мануал(кнопка U). Макрос для сервера Return toMorroc</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 12 1
+Delay 10 ms
+KeyUp 12 1
+Delay 300 ms
+KeyDown 33 1
+Delay 10 ms
+KeyUp 33 1
+Delay 100 ms
+KeyDown 24 1
+Delay 10 ms
+KeyUp 24 1</Syntax>
+    </KeyDown>
+    <Software>Ragnarok</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Press R for glitch(Fallout 76)
+Для глитча с disarm ловушки+карточка &lt;&lt;На защите радного дома&gt;&gt; минимум 2-го лвла
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 10 ms
+KeyUp 21 1
+Delay 10 ms
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Fallout 76</Software>
+  </DefaultMacro>
+</Root>

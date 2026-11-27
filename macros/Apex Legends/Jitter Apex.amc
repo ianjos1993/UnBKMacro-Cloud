@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>Небольшое дрожание камеры - Убирает полностью отдачу</Major>
+    <Description>- Уменьшенная отдача
+- Не большое дрожание камеры 
+
+========================================
+
+* Данный макрос подходит на разрешении 16:10 (1728х1080)
+- Тестировал на чувствительности 1.7 800 dpi
+
+========================================
+
+Всем приятной игры ;)</Description>
+    <Comment>Лучшее оружие для данного макроса R-301</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 5 2
+Delay 7 ms
+MoveR -3 1
+Delay 6 ms
+MoveR 5 1
+Delay 5 ms
+MoveR -5 -1
+Delay 5 ms
+Goto 2</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Класс: Destroyer | Дестр | Мастер секиры
+
+Требуемые настройки: 
+Отключить использование минимальной задержки. 
+Включить драйвер. 
+Отключить блокировку клавиш модификаторов.
+
+Применение: 
+Назначьте макрос на нужную клавишу (https://keyran.net/ru/wiki/?p=hotkey#create)). 
+Подойдите к боссу на расстояние от 2 до 15 метров, ближе / дальше - не сработает механика
+Активируйте программу (https://keyran.net/ru/wiki/?p=hotkey#start) 
+
+Демонстрация:
+https://youtu.be/dccvTtWKvlY</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 300 ms
+KeyDown 8 1
+Delay 70 ms
+KeyUp 8 1
+Delay 70 ms
+KeyUp 225 1
+Delay 270 ms
+KeyDown 8 1
+Delay 300 ms
+KeyUp 8 1
+Delay 450 ms
+//Path: \macros\BnS\Destr copy (1).amc
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

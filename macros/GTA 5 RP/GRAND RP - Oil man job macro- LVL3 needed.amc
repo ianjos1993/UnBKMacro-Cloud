@@ -1,0 +1,53 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro is made for anyone grinding the Oil Man job on Grand RP. It automates most of the repetitive stuff so you can chill, make money faster, and not waste your fingers on the same tasks over and over again.
+What it does:
+Automatically starts pumping when you're at the machine. 
+No more constant hold click..
+
+
+Safe loops that repeat the action cleanly without spamming or bugging out.
+
+
+Captcha has to be done manually.
+How to use:
+Stand at the pump, launch the macro, and press the bind to start.
+
+
+It’ll handle the rest on repeat until you stop it or a captcha appears.
+
+
+Works best in windowed mode with stable FPS.
+Heads up: This macro is made to look human-like and avoid any weird behavior, but always use it smartly Grand RP has rules about automation. Therefore you can get warned or banned. Use it at your own risk
+
+
+Made for 1920x1080 (Windowed or Fullscreen Borderless), Fullscreen is not supported.</Description>
+    <Comment>Any questions? Leave them here:</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveR 0 0
+Delay 64
+MoveTo 1457 606
+Delay 64
+MoveTo 207 753
+Delay 64
+MoveTo 314 755
+Delay 64
+MoveTo 416 764
+Delay 64
+MoveTo 521 759
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

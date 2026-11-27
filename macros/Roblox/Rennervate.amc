@@ -1,0 +1,60 @@
+<Root>
+  <DefaultMacro>
+    <Major>Macro for the spell "Rennervate" in the game "Magic Training"</Major>
+    <Description>This spell is a counterspell for a stunned player that, when hitted by the spell, the player stands. This macro auto-type the spell "Rennervate" in the game "Magic Training". You can link this macro in a key on your keyboard and, when you press it, the spell will be auto-typed in the chat of the game.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 10
+KeyUp 21 1
+Delay 10
+KeyDown 8 1
+Delay 10
+KeyUp 8 1
+Delay 10
+KeyDown 17 1
+Delay 10
+KeyUp 17 1
+Delay 10
+KeyDown 17 1
+Delay 10
+KeyUp 17 1
+Delay 10
+KeyDown 8 1
+Delay 10
+KeyUp 8 1
+Delay 10
+KeyDown 21 1
+Delay 10
+KeyUp 21 1
+Delay 10
+KeyDown 25 1
+Delay 10
+KeyUp 25 1
+Delay 10
+KeyDown 4 1
+Delay 10
+KeyUp 4 1
+Delay 10
+KeyDown 23 1
+Delay 10
+KeyUp 23 1
+Delay 10
+KeyDown 8 1
+Delay 10
+KeyUp 8 1
+Delay 10
+KeyDown 88 1
+Delay 10
+KeyUp 88 1
+Delay 10</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

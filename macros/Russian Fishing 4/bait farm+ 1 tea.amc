@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>it is a macros for harvesting bait in russian fishing for on 0.75x interface size and 16:9 1920x1020 resolution . You just need to take the tool in your hands and bind tea for slot 4 and launch the script. If you use 1x interface then change the mouse position to your own craft button position. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 4 s
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64 ms
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 100 s
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Russian Fishing 4</Software>
+  </DefaultMacro>
+</Root>

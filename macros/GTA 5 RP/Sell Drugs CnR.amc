@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major>Macro for selling drugs AFK in CnR FiveM Server</Major>
+    <Description>Go to a drug spot and activate the macro. It will sell drugs for you while AFK.
+Recommended stock for a night run (6-8h): 300g - 500g each drug.
+Try to go to the US 2 server, less cops and less risk in general.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 28 1
+Delay 64 ms
+KeyUp 28 1
+Delay 1000 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

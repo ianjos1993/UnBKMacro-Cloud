@@ -1,0 +1,53 @@
+<Root>
+  <DefaultMacro>
+    <Major>Jedi new</Major>
+    <Description>Макросс на джеди нью, сам прожимает способки в тайминг и бросает флешки. Слоты меняйте под себя, тайминги нормальные
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 34 1
+Delay 24 ms
+KeyUp 34 1
+Delay 24 ms
+RightDown 1
+Delay 24 ms
+RightUp 1
+Delay 24 ms
+KeyDown 37 1
+Delay 24 ms
+KeyUp 37 1
+Delay 24 ms
+RightDown 1
+Delay 24 ms
+RightUp 1
+Delay 24 ms
+KeyDown 36 1
+Delay 24 ms
+KeyUp 36 1
+Delay 24 ms
+RightDown 1
+Delay 24 ms
+RightUp 1
+Delay 24 ms
+KeyDown 35 1
+Delay 64
+KeyUp 35 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

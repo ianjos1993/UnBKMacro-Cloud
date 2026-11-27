@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для танка
+
+Что делаем:
+
+1. Делаем макрос в игре /assist player (player- ник игрока по котором берем асисст)
+
+2. Выставялем этот макрос и агр на вторую панель в ячейки 1 и 2
+
+3. Запускаем, фармим, агрим)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+KeyDown 31 1
+KeyUp 31 1</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

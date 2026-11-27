@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматическая телеортация на временную точку дома
+Данная команда нужна для того что бы быстро телепортиваться на временую точку дома
+Работает на серверах с командами /th /setth</Description>
+    <Comment>кароче на лутмс(сервер для майнкрафт бедрок)ввели команду /setth /th и я решил сделать данный макрос</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 22
+KeyUp 56 1
+Delay 22
+KeyDown 23 1
+Delay 22
+KeyUp 23 1
+Delay 22
+KeyDown 11 1
+Delay 22
+KeyUp 11 1
+Delay 22</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

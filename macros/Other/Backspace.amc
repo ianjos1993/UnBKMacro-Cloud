@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Фарм на определенную кнопку. Если нужен фарм с цикличным нажатием Backspace, то этот простой скрипт вам поможет.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 42 1
+Delay 64
+KeyUp 42 1
+Delay 1 s
+GoWhile 1 10000</Syntax>
+    </KeyDown>
+    <Software>фарм</Software>
+  </DefaultMacro>
+</Root>

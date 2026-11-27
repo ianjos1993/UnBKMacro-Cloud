@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Прокаст на тинкера. Включает в себя 8 кнопок + Blink (НАЖИМАТЬ ВРУЧНУЮ)
+Бинд макроса нужно ЗАЖИМАТЬ если хотите нажать блинк ТО во время реарма отпустите кнопку макроса
+
+Скилы.
+Q - Laser
+W - Heat-Seeking missle
+R - Rearm
+
+Предметы.
+Z - Ethereal Blade
+X - Scythe of Vyse
+C - Blink (ВРУЧНУЮ) лучше всего OVERWHELMING
+V - DAGON
+MWDOWN - Soul Ring
+MWUP - SHIVA'S GUARD</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 27 1
+KeyUp 27 1
+KeyDown 29 1
+KeyUp 29 1
+Delay 64 ms
+WheelUp 1
+Delay 64 ms
+KeyDown 25 1
+KeyUp 25 1
+Delay 64 ms
+WheelDown 1
+Delay 64 ms
+KeyDown 26 1
+KeyUp 26 1
+Delay 64 ms
+KeyDown 20 1
+KeyUp 20 1
+Delay 550 ms
+KeyDown 21 1
+KeyUp 21 1
+Delay 1550 ms</Syntax>
+    </KeyDown>
+    <Software>DOTA 2 / TINKER FULL PROCAST</Software>
+  </DefaultMacro>
+</Root>

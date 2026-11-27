@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Админы сервера создают трудности в обмене удобрений? Ставят не удобные залазы к магазину? Большая конкуренция? Не беда ведь этот макрос поможет тебе решить все эти проблемы в нем есть автобег, автопрыжок, автокликер, достаточно нажать одну кнопку и уйти пить чай не боясь, что тебя вытолкнут из сейф зоны и убьют.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 5 64 ms
+KeyUp 44 1
+Delay 5 ms
+KeyDown 225 1
+Delay 5 ms
+KeyDown 26 1
+Delay 5 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+GoWhile 1 99999</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

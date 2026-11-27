@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Ставите 3 песни на F1  F2  F3 и юзаете спокойно на своем пете 
+ 
+
+........................................................................................................................................................................................................................................................................................................................................
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 58 1
+Delay 481 ms
+KeyUp 58 1
+Delay 1216 ms
+KeyDown 59 1
+Delay 224 ms
+KeyUp 59 1
+Delay 472 ms
+KeyDown 60 1
+Delay 168 ms
+KeyUp 60 1</Syntax>
+    </KeyDown>
+    <Software>Archeage</Software>
+  </DefaultMacro>
+</Root>

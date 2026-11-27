@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос предназначен для уменьшения отдачи у оперативника АЛМАЗ, который использует навык «бронебойные патроны» оперативника АРЧЕР. Он берет на себя управление отдачей, позволяя вам сосредоточиться на целевой стрельбе по головам. Обязательно активируйте навык «бронебойные патроны», чтобы макрос работал корректно. Установите чувствительность на уровне 50, отключите вертикальную синхронизацию и установите разрешение экрана 1920 на 1080 пикселей. Удачи на полях сражений!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 26 ms
+MoveR 0 0
+MoveR 0 3
+Delay 26 ms
+MoveR 1 0
+Delay 26 ms
+Goto 4</Syntax>
+    </KeyDown>
+    <Software>Caliber</Software>
+  </DefaultMacro>
+</Root>

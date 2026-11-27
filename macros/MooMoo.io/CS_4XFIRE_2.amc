@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Ребят это макрос для баг урона на Zonix craft он топ ребят рвет все так что ребят пользуйтесь на здаровье ! )</Description>
+    <Comment>4XFIRE
+</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+Delay 1 ms
+LeftDown 1
+Delay 18 ms
+LeftUp 1
+Delay 18 ms
+LeftDown 1
+Delay 8 ms
+LeftUp 1
+Delay 8 ms
+KeyDown 32 1
+Delay 1 ms
+KeyUp 32 1
+Delay 1 ms
+RightDown 1
+Delay 12 ms
+RightUp 1
+Delay 12 ms
+RightDown 1
+Delay 6 ms
+RightUp 1
+Delay 6 ms
+RightDown 1
+Delay 4
+RightUp 1
+Delay 4</Syntax>
+    </KeyDown>
+    <Software>MooMoo.io</Software>
+  </DefaultMacro>
+</Root>

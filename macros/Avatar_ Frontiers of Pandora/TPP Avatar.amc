@@ -1,0 +1,58 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос всего лишь инициализирует баг, который переключает камеру в режим от третьего лица (настройки кнопок должны быть по умолчанию</Description>
+    <Comment>https://youtu.be/KxGgsAamCaw
+
+Этот макрос всего лишь инициализирует баг, который переключает камеру в режим от третьего лица (настройки кнопок должны быть по умолчанию, B - переход в меню взаимодействия, T - переключение во вкладу ЭМОЦИИ). Работает при 30 FPS, при 60 FPS уже не работает, нужна калибровка. Только для PC. Макрос работает на базе программы KEYRAN
+
+This macro only initializes a bug that switches the camera to third-person mode (the button settings should be by default, B - switching to the interaction menu, T - switching to the EMOTION input). It works at 30 FPS, it doesn't work at 60 FPS anymore, calibration is needed. For PC only. The macro is based on the KEYRAN program
+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 5 1
+Delay 1170 ms
+KeyDown 23 1
+Delay 158 ms
+KeyUp 23 1
+Delay 449 ms
+KeyDown 33 1
+Delay 122 ms
+KeyUp 33 1
+Delay 317 ms
+KeyUp 5 1
+Delay 200 ms
+KeyDown 23 1
+Delay 98 ms
+KeyUp 23 1
+Delay 238 ms
+KeyDown 33 1
+Delay 103 ms
+KeyUp 33 1
+Delay 176 ms
+KeyUp 5 1
+Delay 281 ms
+KeyDown 5 1
+Delay 846 ms
+KeyDown 23 1
+Delay 132 ms
+KeyUp 23 1
+Delay 282 ms
+KeyDown 35 1
+Delay 209 ms
+KeyUp 35 1
+Delay 53 ms
+KeyUp 5 1
+Delay 219 ms
+KeyDown 44 1
+Delay 87 ms
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>AVATAR Frontiers of Pandora</Software>
+  </DefaultMacro>
+</Root>

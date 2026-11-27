@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>В настройках клавиш поставить Ячейку 2 на R. Использовать с режимом упрощенного боя. 
+
+1.Зажимаем клавишу на 1-2 секунды
+2. Удерживать пкм с внутреигровым макросом
+3. Прожимаем по откату
+
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 20
+KeyUp 43 1
+Delay 20
+KeyDown 6 1
+Delay 20
+KeyUp 6 1
+Delay 20
+KeyDown 29 1
+Delay 20
+KeyUp 29 1
+Delay 20
+KeyDown 25 1
+Delay 20
+KeyUp 25 1
+Delay 20
+KeyDown 33 1
+Delay 20
+KeyUp 33 1
+Delay 20
+KeyDown 32 1
+Delay 20
+KeyUp 32 1
+Delay 20
+KeyDown 31 1
+Delay 20
+KeyUp 31 1
+Delay 20</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

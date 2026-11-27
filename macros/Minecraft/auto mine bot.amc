@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Minecraft prison auto mine bot, it flys up and down and breaks up to 50k blocks per hour on AkumaMc with the maxed rank mine.</Description>
+    <Comment>Easy blocks mined, undetectable and fast rebirths.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 225 1
+Delay 17 s
+KeyUp 225 1
+Delay 64
+KeyDown 7 1
+Delay 100 ms
+KeyUp 7 1
+Delay 64
+KeyDown 44 1
+Delay 17 s
+KeyUp 44 1
+Delay 64
+KeyDown 7 1
+Delay 100 ms
+KeyUp 7 1
+Delay 64
+GoWhile 2 40
+KeyDown 225 1
+Delay 17 s
+KeyUp 225 1
+Delay 64
+KeyDown 4 1
+Delay 100 ms
+KeyUp 4 1
+Delay 64
+KeyDown 44 1
+Delay 17 s
+KeyUp 44 1
+Delay 64
+KeyDown 4 1
+Delay 100 ms
+KeyUp 4 1
+Delay 64
+GoWhile 19 40
+GoWhile 2 1000</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major>Genshin impact</Major>
+    <Description>Макрос для игры Genshin Impact для персонажа Эола при нажатии кнопки используется механика драгонстрайк которая подкидывает персонажа верх и делает атаку в падении что дает большоую прибавку к урону ВНИМЕНИЕ! макрос может не рабоатать для большого пинга если у вас он не работает попробуйте поставить больше времени ожидания</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 90 ms
+LeftUp 1
+Delay 380 ms
+KeyDown 225 1
+Delay 30 ms
+KeyDown 44 1
+Delay 30 ms
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 30 ms
+KeyUp 225 1
+Delay 30 ms
+KeyUp 44 1
+Delay 40 ms
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 30 ms
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 30 ms
+LeftDown 1
+Delay 30 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

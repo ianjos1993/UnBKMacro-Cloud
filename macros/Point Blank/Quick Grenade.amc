@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос дабы не тратить время для раскидки гранаты когда вы с кем-то перестреливаетесь.
+На первый взгляд может показаться что это бесполезный макрос, но иногда он вам заэкономит секунду, а может и несколько, тем самым поможет сделать фраги либо же отступить. 
+Удачной игры.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 64
+LeftDown 1
+Delay 400 ms
+LeftUp 1
+Delay 350 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

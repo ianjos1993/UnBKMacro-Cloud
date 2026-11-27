@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>.Настоятельно рекомендую использовать макрос на версии 1.8 для лучших результатов.этот макрос преднозначен для пвп ,имеет оптимальную задержку для лучших результатов. так как в макросе установлена случйная задержка на крупных серверах бан вы точно не получите. Установлены 2 мелкие рандомные задержки благодаря которым вы не будете забанены</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+LeftUp 1
+Delay 1 15 ms
+Delay 5 20 ms
+LeftUp 1
+LeftDown 1
+Delay 4 27 ms
+Delay 1 15 ms
+LeftDown 1
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>Получение очков свержения</Major>
+    <Description>Выполняй миссии клана на афк каче. Открываем окно мисиий клана  и запускаем макрос. Награды за выполнение миссий  будут выполняться автоматически.
+Настройки в программе:
+1.Работать с привязкой к окну.
+2.Настройки программы
+2.1.Забиндить на любую кнопку клавиатуры или мышки.
+2.2. Выбрать режим работы "Пока клавиша зажата"
+
+Макрос тестировался на ПК с разрешением экрана 2560*1080, игра запущена в "окне".</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR 125 -112
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

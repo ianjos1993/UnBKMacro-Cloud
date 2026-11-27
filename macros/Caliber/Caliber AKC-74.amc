@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на антиотдачу Волка и Рекрута штурмовика. При ультимейте желательно отключать макрос, ибо будет уводить прицел. 
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 0 1
+Delay 5 ms
+MoveR 0 0
+Delay 5 ms
+MoveR 0 2
+Delay 5 ms
+MoveR 0 0
+Delay 5 ms
+MoveR 0 1
+Delay 5 ms
+MoveR 0 0
+Delay 5 ms
+MoveR 0 2
+Delay 5 ms
+MoveR 0 0
+Delay 5 ms
+MoveR 0 1
+Delay 5 ms
+MoveR 0 0
+Delay 5 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Caliber</Software>
+  </DefaultMacro>
+</Root>

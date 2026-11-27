@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>Пугна 2 и 4 скилл</Major>
+    <Description>Быстрое применение включаем
+Z - EUL
+TAB - 2 скилл
+R - 4 скилл
+Применяет 2 скилл на врага, после 4, через промежуток после 2 скилла поднимает врага в воздух, после снова применяет 2 скилла</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+KeyUp 43 1
+KeyDown 21 1
+KeyUp 21 1
+Delay 4 s
+Delay 500 ms
+KeyDown 29 1
+KeyUp 29 1
+Delay 2650 ms
+KeyDown 43 1
+KeyUp 43 1
+KeyDown 21 1
+KeyUp 21 1</Syntax>
+    </KeyDown>
+    <Software>Dota2</Software>
+  </DefaultMacro>
+</Root>

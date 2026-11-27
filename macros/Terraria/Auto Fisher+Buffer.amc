@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Если у вас достаточно мастерства рыбной ловли, то вы сможете ловить рыбу и использовать баффы на рыбалку (такие как бафф на частоту дропа драгоценных ящиков, а так же бафф на увеличение мастерства вашей рыбной ловли). Так же если вы и спользуете сид на котором придусмотрен голод, то вы так же будете есть еду, не давая персонажу умереть. советую выложить лишние зелья из вашего инвентаря.
+Зелья будут использоваться по кд</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 5 1
+Delay 64
+KeyUp 5 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Terraria</Software>
+  </DefaultMacro>
+</Root>

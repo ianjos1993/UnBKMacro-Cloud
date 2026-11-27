@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>1.0</Major>
+    <Description>Уникальный комбо-макрос для Violence District. Выполняет серию уклонений: автоматический бег (W+Shift) в течение 3 секунд, прыжок (Space), поворот (A) и приседание (Ctrl) для уклонения от атак убийцы. Помогает выжить в погоне и сбить с толку преследователя. Работает на любой клавиатуре.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+KeyDown 225 1
+Delay 3000 ms
+KeyDown 44 1
+Delay 80 ms
+KeyUp 44 1
+KeyDown 4 1
+Delay 150 ms
+KeyUp 4 1
+KeyUp 26 1
+KeyUp 225 1
+KeyDown 224 1
+Delay 1000 ms
+KeyUp 224 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

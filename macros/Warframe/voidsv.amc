@@ -1,0 +1,63 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>afk macro for void survival. turn off vsync in game options.
+weapons: mutalist cernos+hikou prime(or any twin weapons)+glaive prime+vazarin+smeeta kavat
+24 Hours - 0 Death</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+KeyDown 8 1
+Delay 870 ms
+KeyUp 8 1
+KeyUp 22 1
+Delay 130 ms
+MiddleDown 1
+MiddleUp 1
+KeyDown 8 1
+Delay 920 ms
+KeyUp 8 1
+Delay 100 ms
+MiddleDown 1
+MiddleUp 1
+KeyDown 8 1
+Delay 400 ms
+KeyUp 8 1
+KeyDown 32 1
+KeyUp 32 1
+KeyDown 33 1
+KeyUp 33 1
+KeyDown 88 1
+KeyUp 88 1
+KeyDown 44 1
+RightDown 1
+Delay 200 ms
+RightUp 1
+KeyUp 44 1
+LeftDown 1
+LeftUp 1
+Delay 400 ms
+KeyDown 46 1
+KeyUp 46 1
+Delay 215 ms
+KeyDown 34 1
+KeyUp 34 1
+Delay 200 ms
+KeyDown 25 1
+KeyDown 44 1
+KeyUp 44 1
+Delay 100 ms
+KeyDown 44 1
+KeyUp 44 1
+KeyUp 25 1
+Delay 250 ms</Syntax>
+    </KeyDown>
+    <Software>Warframe</Software>
+  </DefaultMacro>
+</Root>

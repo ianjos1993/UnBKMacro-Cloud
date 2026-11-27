@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major>Дорога работа на аризоне</Major>
+    <Description>Вы начинате убирать мусор на дороге и когда  линия прмерно на середине ставим зажимаем кливишу (ГЛАВНОЕ ПЕРЕБИНДИТЕ НА УДОБНУЮ КЛАВИШИ И ЧТОБЫ ПРИ ЗАЖАТИИ А ТО НЕ СРОБОТАЁТ</Description>
+    <Comment>Вы начинате убирать мусор на дороге и когда  линия прмерно на середине ставим зажимаем кливишу (ГЛАВНОЕ ПЕРЕБИНДИТЕ НА УДОБНУЮ КЛАВИШИ И ЧТОБЫ ПРИ ЗАЖАТИИ А ТО НЕ СРОБОТАЁТ</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 82 1
+Delay 10 ms
+KeyUp 82 1
+KeyDown 81 1
+Delay 10 ms
+KeyUp 81 1</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

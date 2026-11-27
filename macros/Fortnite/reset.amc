@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Ресет если редакт бок верх кнопка, сброс ЛКМ. Если будут проблемы то задержку поставьте на 6 мс.
+Хорошего пользования</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Button4down 1
+Delay 3 ms
+Button4Up 1
+Delay 3 ms
+LeftDown 1
+Delay 3 ms
+LeftUp 1
+Delay 3 ms
+Button4down 1
+Delay 3 ms
+Button4Up 1
+Delay 3 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

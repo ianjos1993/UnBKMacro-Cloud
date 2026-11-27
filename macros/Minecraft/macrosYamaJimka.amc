@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Отличный макрос для пвп в жимке и яме, очень прост в использований.
+Ставим меч на 1 слот а хил на 3 слот.
+После заходим на сервер и нагибаем всех с этим макросом.</Description>
+    <Comment> </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 8 ms
+LeftUp 1
+Delay 8 ms
+LeftDown 1
+Delay 6 ms
+LeftUp 1
+Delay 6 ms
+KeyDown 32 1
+KeyUp 32 1
+RightDown 1
+Delay 13 ms
+RightUp 1
+Delay 13 ms
+RightDown 1
+Delay 4 ms
+RightUp 1
+Delay 4 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

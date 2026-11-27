@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>How to:
+Set your Stratagems button to "press". 
+Choose Arrows for stratagems in Options. 
+
+I use it like this, example:
+Setting macros for this buttons with modificator, in my case it`s Ctrl+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 79 1
+Delay 50 ms
+KeyUp 79 1
+Delay 50 ms
+KeyDown 79 1
+Delay 50 ms
+KeyUp 79 1
+Delay 50 ms
+KeyDown 79 1
+Delay 50 ms
+KeyUp 79 1</Syntax>
+    </KeyDown>
+    <Software>Helldivers 2</Software>
+  </DefaultMacro>
+</Root>

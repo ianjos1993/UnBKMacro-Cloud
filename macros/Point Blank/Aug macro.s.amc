@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всех приветствую.
+
+Макрос для "AUG'A" очень хорошо контролит, летит в точку.
+
+И поставьте перки скорострел +4 и играйте на здоровье.
+
+Удачи.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 30 ms
+LeftDown 1
+Delay 45 ms
+LeftUp 1
+Delay 45 ms
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 30 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>Point Blank</Software>
+  </DefaultMacro>
+</Root>

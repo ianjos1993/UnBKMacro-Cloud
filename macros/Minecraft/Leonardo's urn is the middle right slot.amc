@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>Witchery Leonards Urn Quick Cast 3 slot</Major>
+    <Description>Быстрый каст зелий  через урну Леонардо из мода Витчери для всех серверов майнкрафта. 
+Правый слот. Берем в руки палочку как обычно и жмем назначенную клавишу - скастуется зелье установленоее в правый слот урны Леонардо. 
+
+Разрешение монитора 1440x900 </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 64
+MoveR 0 50
+Delay 150 ms
+MoveR 50 0
+Delay 150 ms
+MoveR 0 -50
+Delay 150 ms
+MoveR 0 -50
+Delay 150 ms
+MoveR -50 0
+Delay 150 ms
+RightUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

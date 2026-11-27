@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major>Roblox Auto Text</Major>
+    <Description>Requires some setup
+
+- copy text
+- run macro
+
+NOTE: can change the delay time to whatever you want to depending on how many texts you want to be sending</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 64
+KeyUp 56 1
+Delay 64
+KeyDown 25 1
+Delay 64
+KeyUp 25 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 2 min
+GoWhile 1 9999999</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

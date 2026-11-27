@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major>Макрос на любую вертикалбную ферму скайблок хайпиксель</Major>
+    <Description>1.Макрос на автоматизацию любой вертикальной фермы в166 блоков 
+2.скрорость должна быть в идеале около 125 но можно и с разбросом 110-130
+3.Макрос сначала идет на право. а потом на лево</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 7 1
+Delay 35 s
+KeyUp 7 1
+KeyDown 4 1
+Delay 35 s
+KeyUp 4 1
+LeftUp 1
+GoWhile 1 25000000</Syntax>
+    </KeyDown>
+    <Software>minecraft</Software>
+  </DefaultMacro>
+</Root>

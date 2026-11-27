@@ -1,0 +1,59 @@
+<Root>
+  <DefaultMacro>
+    <Major>anti afk</Major>
+    <Description>This is anti afk macro better version. This macro will make you move every few seconds and this version also will move your cursor.
+Just bind it to a key and make sure to choose option run untill pressed again.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 30 ms
+KeyUp 26 1
+KeyDown 7 1
+KeyUp 7 1
+Delay 220 ms
+KeyDown 26 1
+KeyDown 4 1
+Delay 220 ms
+Delay 30 ms
+KeyUp 4 1
+Delay 220 ms
+KeyDown 26 1
+MoveR 584 -213
+Delay 30 ms
+KeyUp 26 1
+Delay 30 ms
+Delay 220 ms
+KeyDown 7 1
+MoveR -181 87
+Delay 30 ms
+MoveR 246 -123
+Delay 220 ms
+KeyDown 4 1
+Delay 30 ms
+KeyUp 4 1
+Delay 220 ms
+Delay 30 ms
+KeyUp 22 1
+KeyDown 22 1
+KeyUp 7 1
+Delay 220 ms
+KeyDown 7 1
+Delay 30 ms
+KeyUp 7 1
+Delay 220 ms
+KeyDown 26 1
+Delay 30 ms
+MoveR 341 -27
+KeyUp 26 1
+Delay 220 ms
+MoveTo 870 495
+Goto 5</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

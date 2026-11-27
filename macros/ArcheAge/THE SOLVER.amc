@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Бэк за спину, решающий удар. Быстро перемещается за спину и сразу  бьет. Для сокращения задержки. Кнопки можно изменить. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 100 ms
+KeyDown 31 1
+Delay 100 ms
+KeyUp 31 1
+Delay 100 ms
+KeyUp 225 1
+Delay 100 ms
+KeyDown 32 1
+Delay 100 ms
+KeyUp 32 1</Syntax>
+    </KeyDown>
+    <Software>Archeage</Software>
+  </DefaultMacro>
+</Root>

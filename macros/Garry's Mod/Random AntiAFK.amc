@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Самый обычный антиафк, не дает кикнуть с сервера DarkRP за афк. Использовал это макрос очень долго, так что он 100% работает. Предупреждаю что за такой макросс могут выдать бан на сервере!</Description>
+    <Comment> </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 1 5 s
+KeyUp 26 1
+Delay 64
+KeyDown 22 1
+Delay 1 5 s
+KeyUp 22 1
+Delay 64
+KeyDown 225 1
+Delay 64
+KeyDown 26 1
+Delay 1 3 s
+KeyUp 26 1
+Delay 64
+KeyDown 22 1
+Delay 1 3 s
+KeyUp 22 1
+Delay 64
+KeyUp 225 1
+Delay 64
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Garry´s Mod</Software>
+  </DefaultMacro>
+</Root>

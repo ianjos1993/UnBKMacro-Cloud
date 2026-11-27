@@ -1,0 +1,67 @@
+<Root>
+  <DefaultMacro>
+    <Major>Blago</Major>
+    <Description>ИНСТРУКЦИЯ:
+
+1:Открыть клавиатуру, назначить кнопу для работы макроса (shift, space, mouse1, mouse2)
+
+2:Запустить макрос.
+
+
+СОВЕТЫ ПО ИСПОЛЬЗЫВАНИЮ:
+
+1.  Работает на спиннинг ( только на него ).
+
+2.  Таскает даже трофеи.
+
+3.  Скорость подбирается по катушке ( Для каждой разная скорость ), скорость от 28-30. 
+
+4.  7-10 секунт тянет, 1 секунду ждет. продолжает по кругу 3 раза.
+
+5.  В конце поднимает удилище и тащит 30 секунд.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 100 ms
+KeyDown 225 1
+Delay 200 ms
+LeftDown 1
+Delay 300 ms
+KeyUp 225 1
+Delay 300 ms
+LeftUp 1
+Delay 3500 4500 ms
+LeftDown 1
+Delay 7000 10000 ms
+LeftUp 1
+Delay 1000 ms
+GoWhile 9 3
+RightDown 1
+Delay 200 ms
+LeftDown 1
+Delay 200 ms
+KeyDown 225 1
+Delay 30 s
+KeyUp 225 1
+Delay 50 ms
+LeftUp 1
+Delay 50 ms
+RightUp 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 300 ms
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 300 ms</Syntax>
+    </KeyDown>
+    <Software>Russian Fishing 4</Software>
+  </DefaultMacro>
+</Root>

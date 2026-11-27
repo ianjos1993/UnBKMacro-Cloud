@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>FastZoom</Major>
+    <Description>ФастЗоом Для кс 1.6
+В крации нажимает за вас 2 раза на пкм и открывать прицел и стреляет
+Удачки всем в игре </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 100 ms
+LeftDown 1
+Delay 50 ms
+RightUp 1
+LeftUp 1
+KeyDown 20 1
+Delay 1 ms
+KeyUp 20 1
+Delay 1 ms
+KeyDown 20 1
+Delay 1 ms
+KeyUp 20 1</Syntax>
+    </KeyDown>
+    <Software>CS 1.6</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всем привет! Перейдем сразу к делу - макрос позволяет выполнять за соню стринг серию 134, которая в комбо очень часто дропается. Макрос позволяет делать эту серию ударов с любой стороны экрана. Дерзайте!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 13 1
+Delay 24 ms
+KeyUp 13 1
+Delay 24 ms
+KeyDown 14 1
+Delay 24 ms
+KeyUp 14 1
+Delay 24 ms
+KeyDown 15 1
+Delay 24 ms
+KeyUp 15 1
+Delay 24 ms</Syntax>
+    </KeyDown>
+    <Software>Mortal Kombat 11</Software>
+  </DefaultMacro>
+</Root>

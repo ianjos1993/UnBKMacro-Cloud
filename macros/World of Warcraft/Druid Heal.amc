@@ -1,0 +1,144 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для рестор друида на гиперспавн спотах 2х4.
+F1 у меня отвечает за период цветения, поставьте курсор мыши по ноги персонажу перед запуском. Далее прожимаются кнопки 6/7/8/9/3/4/5 - на них забиндены хилки (Щит кенария, реджувка, жизнецвет, флешка, быстрое восстановление, рой + буйный рост). В самой игре на каждую из них сделан макрос: 
+#showtooltip
+
+/cast [target= focus] нужная абилка.
+На буйный рост макрос делать не нужно. В фокус берем пуллера или любого кто сильнее всего будет нуждаться в вашем прохиле, таким образом весь соло таргет хил пойдет в него. На A у меня стоит конвок, на D - расцвет, на Y - транквил. Перемещение курсора мыши и нажатие правой кнопки мыши после него нужно для облутывания мобов. Задержки в 10-15 секунд сделаны для экономии маны. Иногда конвок/транквил не будут прожиматься т. к. будут на кд и прожмутся уже на следующем круге.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 58 1
+Delay 64 120 ms
+LeftDown 1
+Delay 64 120 ms
+LeftUp 1
+Delay 64 120 ms
+KeyUp 58 1
+Delay 3 s
+KeyDown 35 1
+Delay 64 120 ms
+KeyUp 35 1
+Delay 3 s
+KeyDown 36 1
+Delay 64 120 ms
+KeyUp 36 1
+Delay 3 s
+KeyDown 37 1
+Delay 64 120 ms
+KeyUp 37 1
+Delay 3 s
+KeyDown 38 1
+Delay 64 120 ms
+KeyUp 38 1
+Delay 3 s
+KeyDown 34 1
+Delay 64 120 ms
+KeyUp 34 1
+Delay 3 s
+KeyDown 33 1
+Delay 64 120 ms
+KeyUp 33 1
+Delay 3 s
+KeyDown 32 1
+Delay 64 120 ms
+KeyUp 32 1
+MoveTo 1400 768
+Delay 64 120
+RightDown 1
+Delay 64 120 ms
+RightUp 1
+Delay 64 120 ms
+MoveTo 1133 775
+Delay 64 120
+RightDown 1
+Delay 64 120 ms
+RightUp 1
+Delay 64 120 ms
+MoveTo 1283 876
+Delay 64 120
+RightDown 1
+Delay 64 120
+RightUp 1
+Delay 15 s
+KeyDown 4 1
+Delay 64 120 ms
+KeyUp 4 1
+Delay 5 s
+KeyDown 7 1
+Delay 64 120 ms
+KeyUp 7 1
+Delay 5 s
+KeyDown 58 1
+LeftDown 1
+Delay 64 120 ms
+LeftUp 1
+Delay 64 120 ms
+KeyUp 58 1
+Delay 3 s
+KeyDown 35 1
+Delay 64 120 ms
+KeyUp 35 1
+Delay 3 s
+KeyDown 36 1
+Delay 64 120 ms
+KeyUp 36 1
+Delay 3 s
+KeyDown 37 1
+Delay 64 120 ms
+KeyUp 37 1
+Delay 3 s
+KeyDown 38 1
+Delay 64 120 ms
+KeyUp 38 1
+Delay 3 s
+KeyDown 34 1
+Delay 64 120 ms
+KeyUp 34 1
+Delay 3 s
+KeyDown 33 1
+Delay 64 120 ms
+KeyUp 33 1
+Delay 3 s
+KeyDown 32 1
+Delay 64 120 ms
+KeyUp 32 1
+Delay 64 120 ms
+MoveTo 1410 775
+Delay 64 120
+RightDown 1
+Delay 64 120 ms
+RightUp 1
+Delay 64 120 ms
+MoveTo 1288 876
+Delay 64 120
+RightDown 1
+Delay 64 120 ms
+RightUp 1
+Delay 64 120 ms
+MoveTo 1158 794
+Delay 64 120
+RightDown 1
+Delay 64 120
+RightUp 1
+Delay 15 s
+KeyDown 28 1
+Delay 64 120 ms
+KeyUp 28 1
+Delay 13 s
+KeyDown 7 1
+Delay 64 120 ms
+KeyUp 7 1
+Delay 15 s
+GoWhile 1 10</Syntax>
+    </KeyDown>
+    <Software>World of Warcraft</Software>
+  </DefaultMacro>
+</Root>

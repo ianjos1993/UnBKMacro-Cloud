@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>(Настройки)
+
+FOV 90 - Sensetivity 0.66 
+500 DPI
+1920x1080
+Хороший макрос,Настроен под мою игру, Дорогой друг и если ты используешь мой макрос и хочешь эффективней уничтожать своих врагов с такого легендарного оружия, как РЕВОЛЬЕР,
+То лучше используй его в присясди и с умом, Желаю тебе удачи мой дорогой друг 
+
+-bliwok-
+
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 8 ms
+MoveR 0 3
+Delay 8 ms
+MoveR 0 3
+Delay 8 ms
+MoveR 0 3
+Delay 8 ms
+MoveR 0 3
+Delay 8 ms
+MoveR 0 3
+Delay 8 ms
+MoveR 0 3
+Delay 8 ms
+LeftUp 1
+MoveR 0 3
+Delay 8 ms
+LeftDown 1
+LeftUp 1
+Delay 61 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

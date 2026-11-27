@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос позволяет пользоваться инвентарем в игре Варкрафт 3, включая её текущие дополнения
+По умолчанию Горячик клавиши инвентаря настроены в игре на цифры в правай части клавиатуры. Их нажимать в игре предельно не удобно. Сменить их значения через файлы в папки с игрой невозможно. Макрос будет полезен.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 92 1
+Delay 64
+KeyUp 92 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Warcraf 3</Software>
+  </DefaultMacro>
+</Root>

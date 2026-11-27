@@ -1,0 +1,18 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для Starcraft 2,для игры в игровом автомате гипериона,нажимаем 1 раз Space для включения и повторно для выключения </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>StarCraft 2</Software>
+  </DefaultMacro>
+</Root>

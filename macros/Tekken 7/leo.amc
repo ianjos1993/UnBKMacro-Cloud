@@ -1,0 +1,84 @@
+<Root>
+  <DefaultMacro>
+    <Major>Geese f1+2 launch combo</Major>
+    <Description>Макрос позволяет выполнять cmn комбо с df2.
+Видео демонстрации работы макроса: https://youtu.be/psl04gpH6mI
+
+Лео Клисен (Leo Kliesen) —  персонаж из серии файтингов Tekken от Namco. Лео был одним из новичков, впервые представленных в Tekken 6. Лео родом из Германии и использует боевой стиль Баджи Цюань, который известнен своими мощными ударами локтями, руками/кулаками, ударами бедрами и ударами плечом, наносимыми взрывной силой на ближней дистанции. Этот стиль, смешанный с другими китайскими боевыми искусствами и про-рестлингом, также практикуется Джулией Чанг и Мишель Чанг (персонажами Tekken). Однако Лео — первый персонаж Tekken, практикующий этот стиль в чистом виде.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+
+Тестирование макроса проводились на последнем патче игры на 19.06.2023 (5.01 патч)
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#leotekken7 #tekken7 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 15 ms
+KeyDown 22 1
+Delay 24 ms
+KeyDown 74 1
+Delay 223 ms
+KeyUp 74 1
+Delay 15 ms
+KeyUp 7 1
+Delay 16 ms
+KeyUp 22 1
+Delay 472 ms
+KeyDown 77 1
+Delay 168 ms
+KeyUp 77 1
+Delay 319 ms
+KeyDown 4 1
+Delay 136 ms
+KeyDown 73 1
+Delay 103 ms
+KeyUp 73 1
+Delay 56 ms
+KeyDown 77 1
+Delay 168 ms
+KeyUp 77 1
+Delay 15 ms
+KeyUp 4 1
+Delay 616 ms
+KeyDown 74 1
+Delay 95 ms
+KeyUp 74 1
+Delay 703 ms
+KeyDown 7 1
+Delay 40 ms
+KeyUp 7 1
+Delay 79 ms
+KeyDown 7 1
+Delay 144 ms
+KeyDown 74 1
+Delay 87 ms
+KeyUp 7 1
+Delay 16 ms
+KeyUp 74 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 7</Software>
+  </DefaultMacro>
+</Root>

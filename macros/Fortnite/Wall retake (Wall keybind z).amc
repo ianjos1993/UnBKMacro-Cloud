@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Get the wall to 1 hit (0-70 health), after that use the macro and it will automatically replace it, you can put the macro in the keybind you want (in keyran).
+
+If you have issues, contact me or another macro creator, thank you for using the macro, and enjoy it</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 0 s
+LeftUp 1
+Delay 0 s
+KeyDown 29 1
+Delay 0 s
+KeyUp 29 1
+Delay 0 s
+LeftDown 1
+Delay 0 s
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

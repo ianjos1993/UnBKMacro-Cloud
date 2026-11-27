@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>БМ в 3 спеке, максимальный ДПС + нажатие ТАБа( Для самых ленивых)
+Чтоб макрос работал как надо нужно зайти в настройки---&gt;Клавиши---&gt;Боевые приемы---&gt;Правая ячейка 1 поменять на R,а Правую ячейку 2 поменять на T. Макрос игровой включить. Поставить макрос на ПКМ и наслаждаемся ДПСом)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 6
+KeyUp 43 1
+Delay 6
+KeyDown 43 1
+Delay 6
+KeyUp 43 1
+Delay 6
+KeyDown 25 1
+Delay 6
+KeyUp 25 1
+Delay 6
+KeyDown 33 1
+Delay 6
+KeyUp 33 1
+Delay 6
+KeyDown 21 1
+Delay 6
+KeyUp 21 1
+Delay 6
+KeyDown 27 1
+Delay 6
+KeyUp 27 1
+Delay 6
+KeyUp 23 1
+Delay 6
+KeyDown 23 1</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

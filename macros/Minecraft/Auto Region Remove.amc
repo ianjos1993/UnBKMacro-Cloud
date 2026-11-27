@@ -1,0 +1,78 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос служит для удаление привата-региона.Это приват.который ставится путемт выделения 2 точек с помощью деревянного топорика.Этот приват не позволяет к примеру выбить ваши вещи из рамок.Этот макрос удаляет ненужный для вас регион,вам лишь нужно в конце дописать название этого региона.
+
+Инструкция по настройке:
+1)Скачиваете макрос.
+2)Открываете панель клавиатуры Keyran.
+3)Выбираете удобную для вас клавишу и назначаете макрос.
+4)Сохраняете и используете.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 32 ms
+KeyUp 56 1
+Delay 32 ms
+KeyDown 21 1
+Delay 32 ms
+KeyUp 21 1
+Delay 32 ms
+KeyDown 8 1
+Delay 32 ms
+KeyUp 8 1
+Delay 32 ms
+KeyDown 10 1
+Delay 32 ms
+KeyUp 10 1
+Delay 32 ms
+KeyDown 12 1
+Delay 32 ms
+KeyUp 12 1
+Delay 32 ms
+KeyDown 18 1
+Delay 32 ms
+KeyUp 18 1
+Delay 32 ms
+KeyDown 17 1
+Delay 32 ms
+KeyUp 17 1
+Delay 32 ms
+KeyDown 44 1
+Delay 32 ms
+KeyUp 44 1
+Delay 32 ms
+KeyDown 21 1
+Delay 32 ms
+KeyUp 21 1
+Delay 32 ms
+KeyDown 8 1
+Delay 32 ms
+KeyUp 8 1
+Delay 32 ms
+KeyDown 16 1
+Delay 32 ms
+KeyUp 16 1
+Delay 32 ms
+KeyDown 18 1
+Delay 32 ms
+KeyUp 18 1
+Delay 32 ms
+KeyDown 25 1
+Delay 32 ms
+KeyUp 25 1
+Delay 32 ms
+KeyDown 8 1
+Delay 32 ms
+KeyUp 8 1
+Delay 32 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

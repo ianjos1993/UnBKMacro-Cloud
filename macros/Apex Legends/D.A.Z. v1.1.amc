@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>(v1.1) D.A.Z. aka Disco's Assisted Zipline Super Jump is a macro bind for automatic super zipline jumps. Obviously you still need to know how to do them, this just helps. D.A.Z. may or may not be continued in further or separate versions. For now, D.A.Z. is setup specifically for 400 DPI with an in-game sensitivity of 5.0 (1.0 ADS w/per-optic ADS sensitivity off) at 1920x1080p, but upon request I may release additional versions covering different DPIs and resolutions. It is also bound to default keys, (interact=E jump=SPACE) but you could adjust the macro for scroll wheel or other custom controls! If you face any issues using it, please reach out and let me know so I can properly update and correct any bugs found while using D.A.Z. and/or any subsequent versions!
+
+Version history:
+v1.0 - base macro (was broken)
+v1.1 - bug fix (was fixed)</Description>
+    <Comment>OSIRISSOFTWARE - SLSK - GSO</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 20 ms
+KeyDown 44 1
+Delay 7 ms
+KeyUp 8 1
+Delay 7 ms
+KeyUp 44 1
+Delay 0 ms
+GoWhile 1 2</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Доброго времени суток! Этот макрос поможет вам зайти обратно в игру, если вы случайно вышли с сервера (эта функция должна быть реализована на сервере).
+
+Просто зайдите обратно и активируйте макрос!
+
+Надеюсь, этот макрос вам поможет!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 1 ms
+KeyUp 56 1
+Delay 1 ms
+KeyDown 21 1
+Delay 1 ms
+KeyUp 21 1
+Delay 1 ms
+KeyDown 8 1
+Delay 1 ms
+KeyUp 8 1
+Delay 1 ms
+KeyDown 13 1
+Delay 1 ms
+KeyUp 13 1
+Delay 1 ms
+KeyDown 18 1
+Delay 1 ms
+KeyUp 18 1
+Delay 1 ms
+KeyDown 12 1
+Delay 1 ms
+KeyUp 12 1
+Delay 1 ms
+KeyDown 17 1
+Delay 1 ms
+KeyUp 17 1
+Delay 1 ms
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

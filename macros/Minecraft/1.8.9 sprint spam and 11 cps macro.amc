@@ -1,0 +1,175 @@
+<Root>
+  <DefaultMacro>
+    <Major>Sprint spam and clicking 11 left clicks per second</Major>
+    <Description>This macro is designed for Minecraft 1.8.9 single-player survival and focuses on automating two repetitive actions at the same time: repeatedly activating the sprint key and performing approximately 11 clicks per second with the left mouse button. The primary objective is to make these actions occur consistently in the background while leaving the player's normal mouse movement completely unaffected. This allows the player to continue controlling the camera naturally instead of having the macro take control of the cursor or generate artificial mouse movements.
+
+The sprint component repeatedly activates the selected sprint key at a configurable interval. Depending on the user's key configuration, this can be assigned to the normal sprint key or another preferred key. The repeated input is intended to keep sprint-related actions responsive without requiring the player to repeatedly press the key manually. The macro should avoid interfering with movement keys such as W, A, S, and D, allowing the player to maintain normal directional control while the sprint automation operates independently.
+
+The second component handles left-click automation at a target rate of approximately 11 CPS, or clicks per second. The purpose is to produce a steady stream of left mouse button inputs without requiring the player to repeatedly press the physical mouse button. Consistent timing is important because irregular delays can cause the actual click rate to fluctuate significantly. The macro should therefore use controlled intervals between clicks to maintain a stable rate close to 11 CPS rather than simply generating clicks as quickly as possible.
+
+A particularly important requirement is that the macro must not control or move the mouse cursor. The user's physical mouse movement should remain completely independent from the automated clicking process. When the player moves the mouse, Minecraft should receive those normal movement inputs exactly as it normally would, allowing the camera to rotate naturally in any direction. The macro should only generate the left-button input event and should not reposition the cursor, simulate camera movement, or inject X/Y mouse movement.
+
+The macro should also allow the user to enable and disable its functions using convenient hotkeys. Ideally, the sprint automation and left-click automation can be controlled independently, allowing the user to activate only the functionality currently required. A dedicated emergency stop key is also useful because it provides an immediate way to terminate all automated inputs if the behavior becomes undesirable or the player needs complete manual control.
+
+Timing should be configurable where possible. Although the target clicking rate is approximately 11 CPS, small variations may occur because of operating-system scheduling, Minecraft's input handling, or the method used to generate mouse events. The goal should therefore be a stable average around 11 CPS rather than claiming that every individual second will contain exactly eleven registered Minecraft attacks.
+
+This macro is intended for a private, single-player Minecraft 1.8.9 survival environment. It is primarily a convenience and accessibility-oriented automation tool for repetitive inputs. It should not be used on multiplayer servers where automated clicking or key inputs violate the server's rules.
+
+In summary, the macro combines automated sprint-key activation with approximately 11 CPS left-clicking while preserving complete manual mouse control. The key design principle is that automation should handle only the repetitive inputs while the player retains direct control over movement, aiming, camera rotation, and all other normal gameplay interactions.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 285 ms
+LeftDown 1
+Delay 77 ms
+KeyDown 224 1
+Delay 74 ms
+LeftUp 1
+Delay 18 ms
+KeyUp 224 1
+Delay 37 ms
+LeftDown 1
+Delay 54 ms
+KeyDown 224 1
+Delay 68 ms
+KeyUp 224 1
+Delay 20 ms
+LeftUp 1
+Delay 48 ms
+LeftDown 1
+Delay 16 ms
+KeyDown 224 1
+Delay 31 ms
+LeftUp 1
+Delay 23 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 20 ms
+KeyUp 224 1
+Delay 3 ms
+LeftDown 1
+Delay 62 ms
+KeyDown 224 1
+Delay 1 ms
+LeftUp 1
+Delay 23 ms
+LeftDown 1
+Delay 36 ms
+KeyUp 224 1
+Delay 27 ms
+LeftUp 1
+Delay 21 ms
+KeyDown 224 1
+Delay 10 ms
+LeftDown 1
+Delay 48 ms
+LeftUp 1
+Delay 3 ms
+KeyUp 224 1
+Delay 11 ms
+KeyDown 224 1
+Delay 17 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 5 ms
+KeyUp 224 1
+Delay 26 ms
+LeftDown 1
+Delay 48 ms
+LeftUp 1
+Delay 1 ms
+KeyDown 224 1
+Delay 22 ms
+LeftDown 1
+Delay 41 ms
+KeyUp 224 1
+Delay 10 ms
+KeyDown 224 1
+Delay 12 ms
+LeftUp 1
+Delay 32 ms
+LeftDown 1
+Delay 22 ms
+KeyUp 224 1
+Delay 62 ms
+KeyDown 224 1
+Delay 43 ms
+LeftUp 1
+Delay 28 ms
+KeyUp 224 1
+Delay 11 ms
+LeftDown 1
+Delay 64 ms
+KeyDown 224 1
+Delay 76 ms
+KeyUp 224 1
+Delay 2 ms
+LeftUp 1
+Delay 19 ms
+KeyDown 224 1
+Delay 4 ms
+LeftDown 1
+Delay 68 ms
+KeyUp 224 1
+Delay 73 ms
+KeyDown 224 1
+Delay 2 ms
+LeftUp 1
+Delay 40 ms
+LeftDown 1
+Delay 96 ms
+KeyUp 224 1
+Delay 38 ms
+LeftUp 1
+Delay 32 ms
+LeftDown 1
+Delay 9 ms
+KeyDown 224 1
+Delay 60 ms
+KeyUp 224 1
+Delay 74 ms
+LeftUp 1
+Delay 40 ms
+LeftDown 1
+Delay 20 ms
+KeyDown 224 1
+Delay 79 ms
+KeyUp 224 1
+Delay 19 ms
+LeftUp 1
+Delay 40 ms
+LeftDown 1
+Delay 11 ms
+KeyDown 224 1
+Delay 76 ms
+KeyUp 224 1
+Delay 56 ms
+LeftUp 1
+Delay 19 ms
+KeyDown 224 1
+Delay 20 ms
+LeftDown 1
+Delay 29 ms
+KeyUp 224 1
+Delay 89 ms
+KeyDown 224 1
+Delay 17 ms
+LeftUp 1
+Delay 32 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+Delay 34 ms
+KeyUp 224 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

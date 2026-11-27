@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос расчитан на афк майнинг уровня в Дискорд каналлах. Для работы нужно иметь текст в буфере обмена. Выставленна задержка в 1 минуту</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 64
+KeyDown 25 1
+Delay 64
+KeyUp 25 1
+Delay 64
+KeyUp 224 1
+Delay 64
+KeyDown 40 1
+Delay 64
+KeyUp 40 1
+Delay 64
+Delay 65 s</Syntax>
+    </KeyDown>
+    <Software>Discord</Software>
+  </DefaultMacro>
+</Root>

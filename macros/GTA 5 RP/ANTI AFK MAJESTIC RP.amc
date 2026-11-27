@@ -1,0 +1,53 @@
+<Root>
+  <DefaultMacro>
+    <Major>Sally</Major>
+    <Description>Один из лучших анти афк на маджестик! Использую около года для прокачки аккаунтов, не разу не спалили. 
+Вы спокойно можете отойти от ПК на длительное время,
+
+Дл работы нужно
+
+1. отойти в место где нету игроков (чтобы не кикнули за АФК)
+2. нажать кнопку F10
+3 это все, для завершения нажать кнопку F10</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы, Sally рекомендует</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 82 1
+Delay 640
+KeyUp 82 1
+Delay 640
+Delay 6400 ms
+KeyDown 81 1
+Delay 7200
+KeyUp 81 1
+Delay 7200
+KeyDown 26 1
+Delay 6400
+KeyUp 26 1
+Delay 6400
+Delay 7200 ms
+KeyDown 7 1
+Delay 7200
+KeyUp 7 1
+Delay 7200
+Delay 7200 ms
+KeyDown 4 1
+Delay 7200
+KeyUp 4 1
+Delay 7200
+Delay 7200 ms
+KeyDown 22 1
+Delay 7200
+KeyUp 22 1
+Delay 7200
+Delay 7200 ms
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

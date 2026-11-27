@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Комбинация для персонажа "нубсайбот"
+комбинация вниз + вверх позволяет использовать 1 кнопку вместо 2 кнопок, что упращает данный прием в бою против противников</Description>
+    <Comment>для тех кто играет на эмуляторе SEGA или MAME+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 81 1
+Delay 15 ms
+KeyUp 81 1
+KeyDown 82 1
+Delay 15 ms
+KeyUp 82 1</Syntax>
+    </KeyDown>
+    <Software>Mortal kombat 3 ultimatum</Software>
+  </DefaultMacro>
+</Root>

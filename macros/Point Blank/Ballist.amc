@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос представляет из себя быстрые выстрелы ножа Баллист (Не зажимной)
+Требуется быстрая смена                                         
+Ставим макрос на заданую кнопку и после выстрела нажа снова придёться нажать заданую кнопку
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 20 ms
+RightUp 1
+Delay 20 ms
+KeyDown 20 1
+Delay 20 ms
+KeyUp 20 1
+Delay 20 ms
+KeyDown 20 1
+Delay 20 ms
+KeyUp 20 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

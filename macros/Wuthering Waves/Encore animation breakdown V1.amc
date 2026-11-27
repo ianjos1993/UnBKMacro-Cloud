@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>Ar1ko</Major>
+    <Description>Макрос для Encore, играющей от первой базовой атаки со срывом анимации.
+Для работы нужен предмет Ultrasonic Pulse Chip в слоте Утилит (T)
+Ротация основана на баге с этим предметом, так что не ручаюсь, что оно будет работать через месяц-другой.
+Включение и выключение макроса по нажатию на выбранную клавишу.
+
+P.s. Предмет можно залутать выполнив квест Stygian Lacrimosa.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 24 ms
+LeftUp 1
+Delay 24 ms
+KeyDown 23 1
+Delay 26 ms
+KeyUp 23 1
+Delay 26 ms</Syntax>
+    </KeyDown>
+    <Software>Wuthering Waves</Software>
+  </DefaultMacro>
+</Root>

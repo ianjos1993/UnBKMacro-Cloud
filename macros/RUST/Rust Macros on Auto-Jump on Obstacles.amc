@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для тех , игроков у , которых не получается с первого раза запрыгнуть на треугольные фундаменты в своём доме.
+Мой уникальный макрос , придумал только сейчас.
+
+Удачи в использований , новичкам.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 3 ms
+KeyUp 225 1
+Delay 3 ms
+KeyDown 224 1
+Delay 3 ms
+KeyUp 224 1
+Delay 3 ms
+KeyDown 44 1
+Delay 2 ms
+KeyUp 44 1
+Delay 2 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

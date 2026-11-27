@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Доброго времени и суток!
+ Представляю вам новый макрос на фаст разкидку гранат, кидает отлично. От вас требуется иметь купон на быструю смену. Ставьте на кнопку "V", будет удобней, спасибо :)
+Принцип работы--&gt;
+Кидает гранату и берёт прошлое оружие.
+P.S Использую его уже полгода и он иногда того</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 33 1
+Delay 64 ms
+KeyUp 33 1
+Delay 64 ms
+LeftDown 1
+Delay 400 ms
+LeftUp 1
+Delay 350 ms
+KeyDown 30 1
+Delay 64 ms
+KeyUp 30 1
+Delay 64 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

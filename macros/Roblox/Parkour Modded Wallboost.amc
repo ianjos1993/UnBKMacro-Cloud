@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Wallboost macro for Parkour Modded(950x)
+
+Mouse/Camera sensitivity should be 0.84 or higher.
+Screen Resolution: 1366 x768
+
+Set at 90ms by default.
+Going lower could result it you being detected and your save data being wiped.
+
+If on the ground just make sure you're against the wall and look straight at the wall or straight up in line with the wall.
+
+If you are in the air make sure you're against the wall and alligned with the wall as straight as possible; if used after a magrail dash/grappledash, if you have thruster equipped you have to use it before you can perform a wall climb boost.
+
+It may take you a few tries to get used to doing it in the air, if you have secondary mouse buttons I'd suggest macroing it to those.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 20 ms
+KeyUp 44 1
+MoveR -1253 -1153
+Delay 90 ms
+KeyDown 44 1
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

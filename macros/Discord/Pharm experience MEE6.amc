@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Отлично подходит для фарма уровня ботом Mee6!
+Так же подходит для спама в разных чатах Discord
+1. Включаем Discord
+2. Включаем Keyran
+3. Надо забиндить кнопку
+4. Заходим в дискорд
+5. Заходим на канал с ботом
+6. Копируем любой текст
+7. Нажимаем на забинженную кнопку
+8. Воуля, Качается LVL
+9.Удачи в прокачке пацаны!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+KeyDown 25 1
+Delay 80 ms
+KeyUp 224 1
+KeyUp 25 1
+KeyDown 40 1
+KeyUp 40 1
+Delay 105 ms</Syntax>
+    </KeyDown>
+    <Software>Discord</Software>
+  </DefaultMacro>
+</Root>

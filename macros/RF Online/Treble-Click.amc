@@ -1,0 +1,100 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>фарм мобов на ивентах, нажатие кнопок F1-F7. с нормальной задержкой и пробафом. удобно и легко) Пользуйтесь на здоровье)</Description>
+    <Comment>ФАрм мобов на ивентах</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 58 1
+Delay 64
+KeyUp 58 1
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+Delay 64 ms
+KeyDown 59 1
+Delay 64 ms
+KeyUp 59 1
+Delay 64 ms
+KeyDown 60 1
+Delay 64 ms
+KeyUp 60 1
+Delay 64 ms
+KeyDown 61 1
+Delay 64 ms
+KeyUp 61 1
+Delay 64 ms
+KeyDown 62 1
+Delay 64 ms
+KeyUp 62 1
+Delay 64 ms
+KeyDown 63 1
+Delay 64 ms
+KeyUp 63 1
+Delay 64 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 58 1
+Delay 64 ms
+KeyUp 58 1
+Delay 64 ms
+KeyDown 59 1
+Delay 64 ms
+KeyUp 59 1
+Delay 64 ms
+KeyDown 60 1
+Delay 64 ms
+KeyUp 60 1
+Delay 64 ms
+KeyDown 61 1
+Delay 64 ms
+KeyUp 61 1
+Delay 64 ms
+KeyDown 62 1
+Delay 64 ms
+KeyUp 62 1
+Delay 64 ms
+KeyDown 63 1
+Delay 64 ms
+KeyUp 63 1
+Delay 64 ms
+KeyDown 58 1
+Delay 64 ms
+KeyUp 58 1
+Delay 64 ms
+KeyDown 59 1
+Delay 64 ms
+KeyUp 59 1
+Delay 64 ms
+KeyDown 60 1
+Delay 64 ms
+KeyUp 60 1
+Delay 64 ms
+KeyDown 61 1
+Delay 64 ms
+KeyUp 61 1
+Delay 64 ms
+KeyDown 62 1
+Delay 64 ms
+KeyUp 62 1
+Delay 64 ms
+KeyDown 63 1
+Delay 64 ms
+KeyUp 63 1
+Delay 64 ms
+KeyDown 64 1
+Delay 64 ms
+KeyUp 64 1
+Delay 64 ms</Syntax>
+    </KeyDown>
+    <Software>RF-Online</Software>
+  </DefaultMacro>
+</Root>

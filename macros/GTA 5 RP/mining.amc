@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major>Auto mining macro</Major>
+    <Description>Easy to use macro, mines every 21 secs (time it takes to mine a rock), because of the animation bug you walk back after every mine so this script also walks forward a bit after 3 mines,</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 21 s
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 21 s
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 21 s
+KeyDown 26 1
+Delay 64 ms
+KeyUp 26 1
+Delay 64
+KeyDown 26 1
+Delay 64 ms
+KeyUp 26 1
+Delay 64
+KeyDown 26 1
+Delay 64 ms
+KeyUp 26 1
+Delay 64
+GoWhile 1 47</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major>Дабл хит + смена оружия</Major>
+    <Description>Тот же макрос на дабл хит только с бесконечными патронами в обойме,делает QQ после каждого дабл хита.
+Установите макрос на любую удобную для вас кнопку.
+Для четкой работы макроса при нажатии на макрос вы должны находиться в движении (зажмите любую клавишу W,A,S,D) после выстрела макрос сам собьет анимацию последнего выстрела и "перезарядит оружие" вы продолжите бежать.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+Лучшие макросы только здесь!</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 150 ms
+LeftUp 1
+Delay 75 ms
+RightDown 1
+Delay 37 ms
+KeyDown 6 1
+Delay 26 ms
+LeftDown 1
+Delay 180 ms
+KeyUp 6 1
+Delay 49 ms
+LeftUp 1
+Delay 39 ms
+RightUp 1
+KeyDown 6 1
+Delay 35 ms
+KeyUp 6 1
+Delay 35 ms
+KeyDown 20 1
+Delay 30 ms
+KeyUp 20 1
+Delay 15 ms
+KeyDown 20 1
+Delay 30 ms
+KeyUp 20 1
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

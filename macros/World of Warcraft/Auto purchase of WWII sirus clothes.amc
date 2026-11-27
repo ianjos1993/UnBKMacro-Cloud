@@ -1,0 +1,49 @@
+<Root>
+  <DefaultMacro>
+    <Major>lexpley08</Major>
+    <Description>позволяет покупать кучу шмоток подряд зажимая 1 кнопку
+ВЫ зажимаете кнопку с макросом и жде пока макрос купит сам шмотки
+когда вы купите что хотели просто не жмите на макрос
+[макрос может чучуть мазать по предметам но если увидите что он собрался купить что вы не хотели просто прекратите жать макрос]</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 551 273
+Delay 360 ms
+LeftDown 1
+Delay 240
+LeftUp 1
+Delay 240
+MoveTo 554 446
+Delay 360 ms
+LeftDown 1
+Delay 240
+LeftUp 1
+Delay 240
+MoveTo 955 791
+Delay 240
+LeftDown 1
+Delay 240
+LeftUp 1
+Delay 240
+MoveTo 871 249
+Delay 240
+LeftDown 1
+Delay 240
+LeftUp 1
+Delay 240
+MoveTo 931 195
+Delay 240
+LeftDown 1
+Delay 240
+LeftUp 1
+Delay 1000 ms</Syntax>
+    </KeyDown>
+    <Software>World of Warcraft</Software>
+  </DefaultMacro>
+</Root>

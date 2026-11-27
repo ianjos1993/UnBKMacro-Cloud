@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на рыбалку от FanitTars!!!
+Для использования в Fishing Planet.
+Все оптимизировано и настроено для игры!
+В скором времени будут добавлены новые макросы.
+
+Все что вам нужно это назначить макрос на определенную клавишу для удобства использования!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 2000 ms
+KeyUp 44 1
+Delay 3000 ms</Syntax>
+    </KeyDown>
+    <Software>Fishing Planet</Software>
+  </DefaultMacro>
+</Root>

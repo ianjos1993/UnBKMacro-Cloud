@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>===========================================Информация============================================
+Данный макрос создан для игры Dead By Daylight.
+Благодаря ему вы сможете держаться на крюке, на грани жизни и смерти.
+============================================Инструкция============================================
+1) Скачиваем мой макрос.
+2) Устанавливаем его на любую удобную вам кнопку.
+3) Заходим в Dead By Daylight и когда вы на крюке включайте мой макрос
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 35 ms
+KeyUp 44 1
+Delay 35 ms</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

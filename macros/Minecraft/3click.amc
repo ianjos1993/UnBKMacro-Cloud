@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description> Доброе утро молодый макросники.Сегодня я выложу макрос на тройной клик.вы можете его забиндить на левую кнопку мышни и вместо 1 кпс у вас будет сразу 3.Пользуйтесь в пвп.Желаю вам приятной игры</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 44 ms
+LeftUp 1
+Delay 44 ms
+LeftDown 1
+Delay 44 ms
+LeftUp 1
+Delay 44 ms
+LeftDown 1
+Delay 44 ms
+LeftUp 1
+Delay 44 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

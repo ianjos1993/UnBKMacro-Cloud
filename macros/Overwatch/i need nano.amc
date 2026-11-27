@@ -1,0 +1,76 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>описание 
+пишет в чат команды nano me plz для более быстрой связи с Анной в случае отсутствия микрофона
+инструкция
+1. запустите игру
+2. запустите botmek
+3. переназначте в настройке макроса Y на вашу клавишу командного чата
+4. привяжите макрос к любой клавише
+4. испульзуйте
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 28 1
+Delay 64
+KeyUp 28 1
+Delay 64
+KeyDown 17 1
+Delay 64
+KeyUp 17 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 17 1
+Delay 64
+KeyUp 17 1
+Delay 64
+KeyDown 18 1
+Delay 64
+KeyUp 18 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 16 1
+Delay 64
+KeyUp 16 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 19 1
+Delay 64
+KeyUp 19 1
+Delay 64
+KeyDown 15 1
+Delay 64
+KeyUp 15 1
+Delay 64
+KeyDown 29 1
+Delay 64
+KeyUp 29 1
+Delay 64
+KeyDown 40 1
+Delay 64
+KeyUp 40 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Overwatch</Software>
+  </DefaultMacro>
+</Root>

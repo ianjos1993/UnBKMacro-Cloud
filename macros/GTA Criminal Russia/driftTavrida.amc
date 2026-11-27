@@ -1,0 +1,645 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос для дрифта в игре AMAZING ONLINE для разрешения экрана 1440 на 900 специально для машины Toyota mark ll JZX100 с техническим паспортом: 
+Stage: 2, 
+Развал колёс: передний и задний, 
+анти радар: есть
+сигнализация: есть
+аудиосистема: нету
+страбоскопы: нету
+Нитро: нету
+пневмоподвеска: нету
+гидравлика: нету
+клиренс: 5 процентов
+дрифт дым: нету
+доп. бак: +35 литров
+доп. багажник: нету
+
+(если у вас не будет такого технического паспорта то у вас не чего не выйдет вы скорее всего сойдете с дистаниции) вот новый макрос но уже на дрифт трассе подьем на тавриду вы можите найти данную трассу если найдети кад с када пройдите в тунель к городу южному после того какпроедите тунель поверните на лево там будет метка на асфальте с нарисовоной машиной в синием цвете и сзади машины фиолетовый дрифт дым после того как вы нашли метку вы должны упереться в отбойник с правой стороны проехать немного вперед найти стенку уперется боком в отбойник а багажником в стену потом нажимаете одновремено W и S и держите потом продолжая дежражть нажимаете стрелочку на право разворачиваетесь на 180 градусов после чего нажимаете ЛКМ откроется меню будут разные разделы такие как Дрифт, отдых, дуэль под разделом дрифт будет 2 кнопки 1 ледирбод где вы можите посмотреть топ 10 призеров и другая Начать полсе ее нажатия вы начнете дрифт заезд !ОБЕЗАТЕЛЬНО УБЕДИТЕСЬ ЧТО ВЫ УПЕРЛИСЬ В ОТБОЙНИК ПРИЖАЛИСЬ К СТЕНЕ И РАЗВЕРНУЛИСЬ НА 180 ГРАДУСОВ! если вы не развернулись на 180 градусов или стоите не в том месте то у вас не получится после нажатия кнопки начать начнется 3=х секундный таймер вы открываете чат кнопкой F6 пишите туда /end (это всёделаете пока идет таймер) потом нажимаете 2 раза энтер заново нажимаете ЛКМ кнопку начать (это всё деаем чтоб сработал баг который дает +3 секунды к заезду и макрос набрал больше дрифт очков)  после того как нажали начать запускаете макрос и просто ждети пока он проедет всю карту идельно собирая все Kist the wall и скоростные перекладки также будете получать доп очки за идельный дрифт в сумме выдолжны набрать 40к дрифт очков и занять 3-4 место в среднем но может и меньше или больше вручную набрать 40к очков очень тежело именно поэтому я сделал этот макрос всем спасибо!</Description>
+    <Comment>в будущем собираюсь сделать макрос для дрифт трассы спуск с тавриды</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 720 ms
+MoveTo 721 450
+Delay 5 ms
+MoveTo 722 450
+Delay 102 ms
+KeyDown 4 1
+Delay 153 ms
+MoveTo 718 450
+Delay 7 ms
+MoveTo 713 450
+Delay 8 ms
+MoveTo 713 451
+Delay 8 ms
+MoveTo 706 452
+Delay 7 ms
+MoveTo 700 454
+Delay 8 ms
+MoveTo 695 456
+Delay 8 ms
+MoveTo 715 452
+Delay 7 ms
+MoveTo 708 454
+Delay 7 ms
+MoveTo 700 456
+Delay 8 ms
+MoveTo 711 452
+Delay 8 ms
+MoveTo 701 454
+Delay 7 ms
+MoveTo 691 456
+Delay 8 ms
+MoveTo 710 452
+Delay 8 ms
+MoveTo 702 454
+Delay 8 ms
+MoveTo 695 456
+Delay 7 ms
+MoveTo 690 457
+Delay 8 ms
+MoveTo 717 451
+Delay 5 ms
+KeyDown 26 1
+Delay 2 ms
+MoveTo 715 451
+Delay 7 ms
+MoveTo 712 452
+Delay 8 ms
+MoveTo 710 452
+Delay 7 ms
+MoveTo 719 450
+Delay 8 ms
+MoveTo 718 450
+Delay 56 ms
+WheelUp 1
+Delay 15 ms
+MoveTo 719 450
+Delay 7 ms
+MoveTo 719 450
+Delay 7 ms
+MoveTo 716 450
+Delay 8 ms
+MoveTo 712 450
+Delay 8 ms
+MoveTo 707 451
+Delay 7 ms
+MoveTo 715 451
+Delay 8 ms
+MoveTo 715 451
+Delay 7 ms
+MoveTo 705 455
+Delay 8 ms
+MoveTo 715 452
+Delay 7 ms
+MoveTo 711 453
+Delay 7 ms
+MoveTo 708 454
+Delay 8 ms
+MoveTo 707 455
+Delay 23 ms
+WheelUp 1
+Delay 128 ms
+MoveTo 720 450
+Delay 7 ms
+MoveTo 715 447
+Delay 8 ms
+MoveTo 712 444
+Delay 8 ms
+MoveTo 718 448
+Delay 7 ms
+MoveTo 717 445
+Delay 7 ms
+MoveTo 715 443
+Delay 8 ms
+MoveTo 719 448
+Delay 8 ms
+MoveTo 718 446
+Delay 7 ms
+MoveTo 717 445
+Delay 79 ms
+MoveTo 718 447
+Delay 7 ms
+MoveTo 714 445
+Delay 8 ms
+MoveTo 710 443
+Delay 7 ms
+MoveTo 706 441
+Delay 7 ms
+MoveTo 716 447
+Delay 8 ms
+MoveTo 713 445
+Delay 7 ms
+MoveTo 711 444
+Delay 7 ms
+MoveTo 710 443
+Delay 72 ms
+WheelUp 1
+Delay 63 ms
+WheelUp 1
+Delay 7 ms
+MoveTo 718 449
+Delay 5 ms
+KeyUp 4 1
+Delay 10 ms
+MoveTo 718 449
+Delay 7 ms
+MoveTo 717 448
+Delay 8 ms
+MoveTo 716 447
+Delay 8 ms
+MoveTo 715 447
+Delay 7 ms
+WheelUp 1
+Delay 7 ms
+MoveTo 716 449
+Delay 8 ms
+MoveTo 714 448
+Delay 8 ms
+MoveTo 713 448
+Delay 7 ms
+MoveTo 719 450
+Delay 7 ms
+MoveTo 717 450
+Delay 7 ms
+MoveTo 714 449
+Delay 8 ms
+MoveTo 717 449
+Delay 7 ms
+MoveTo 714 448
+Delay 7 ms
+MoveTo 713 448
+Delay 7 ms
+MoveTo 712 448
+Delay 8 ms
+MoveTo 719 450
+Delay 32 ms
+MoveTo 718 449
+Delay 7 ms
+MoveTo 717 449
+Delay 7 ms
+MoveTo 715 449
+Delay 8 ms
+MoveTo 719 450
+Delay 7 ms
+MoveTo 717 450
+Delay 7 ms
+MoveTo 716 450
+Delay 8 ms
+MoveTo 714 449
+Delay 159 ms
+WheelUp 1
+Delay 31 ms
+WheelUp 1
+Delay 8 ms
+WheelDown 1
+Delay 39 ms
+WheelUp 1
+Delay 311 ms
+WheelUp 1
+Delay 32 ms
+WheelUp 1
+Delay 39 ms
+WheelUp 1
+Delay 303 ms
+WheelUp 1
+Delay 39 ms
+WheelDown 1
+Delay 32 ms
+WheelUp 1
+Delay 285 ms
+KeyDown 225 1
+Delay 153 ms
+KeyUp 225 1
+Delay 662 ms
+KeyDown 7 1
+Delay 88 ms
+KeyUp 26 1
+Delay 303 ms
+KeyDown 44 1
+Delay 304 ms
+KeyDown 22 1
+Delay 87 ms
+KeyUp 7 1
+Delay 64 ms
+KeyDown 4 1
+Delay 127 ms
+KeyUp 22 1
+Delay 631 ms
+KeyDown 22 1
+Delay 55 ms
+KeyUp 4 1
+Delay 191 ms
+KeyUp 44 1
+Delay 23 ms
+KeyDown 7 1
+Delay 215 ms
+KeyDown 44 1
+Delay 72 ms
+KeyUp 44 1
+Delay 95 ms
+KeyDown 44 1
+Delay 56 ms
+KeyUp 7 1
+Delay 0 ms
+KeyDown 4 1
+Delay 47 ms
+KeyUp 22 1
+Delay 95 ms
+KeyUp 44 1
+Delay 57 ms
+WheelUp 1
+Delay 47 ms
+WheelUp 1
+Delay 40 ms
+WheelUp 1
+Delay 109 ms
+KeyDown 26 1
+Delay 217 ms
+WheelUp 1
+Delay 32 ms
+WheelUp 1
+Delay 39 ms
+WheelUp 1
+Delay 102 ms
+KeyDown 225 1
+Delay 287 ms
+KeyUp 225 1
+Delay 943 ms
+KeyUp 4 1
+Delay 89 ms
+WheelUp 1
+Delay 71 ms
+WheelUp 1
+Delay 135 ms
+WheelUp 1
+Delay 239 ms
+MoveTo 721 450
+Delay 7 ms
+MoveTo 723 450
+Delay 7 ms
+MoveTo 727 450
+Delay 7 ms
+MoveTo 733 450
+Delay 8 ms
+MoveTo 726 450
+Delay 7 ms
+MoveTo 732 450
+Delay 7 ms
+MoveTo 739 450
+Delay 8 ms
+MoveTo 720 450
+Delay 7 ms
+MoveTo 732 450
+Delay 7 ms
+MoveTo 738 450
+Delay 8 ms
+MoveTo 726 450
+Delay 8 ms
+MoveTo 732 450
+Delay 7 ms
+MoveTo 739 450
+Delay 7 ms
+MoveTo 727 450
+Delay 8 ms
+MoveTo 734 450
+Delay 8 ms
+MoveTo 742 450
+Delay 7 ms
+MoveTo 751 450
+Delay 7 ms
+MoveTo 729 450
+Delay 8 ms
+MoveTo 739 450
+Delay 7 ms
+MoveTo 749 450
+Delay 8 ms
+MoveTo 730 450
+Delay 8 ms
+MoveTo 739 450
+Delay 7 ms
+MoveTo 748 450
+Delay 7 ms
+MoveTo 729 450
+Delay 8 ms
+MoveTo 738 450
+Delay 7 ms
+MoveTo 746 450
+Delay 8 ms
+MoveTo 728 450
+Delay 7 ms
+MoveTo 735 450
+Delay 8 ms
+MoveTo 741 450
+Delay 7 ms
+MoveTo 723 450
+Delay 8 ms
+MoveTo 725 450
+Delay 7 ms
+MoveTo 726 450
+Delay 272 ms
+MoveTo 719 450
+Delay 15 ms
+MoveTo 718 450
+Delay 7 ms
+MoveTo 717 450
+Delay 14 ms
+KeyDown 4 1
+Delay 49 ms
+MoveTo 719 450
+Delay 7 ms
+MoveTo 719 450
+Delay 8 ms
+MoveTo 718 450
+Delay 16 ms
+MoveTo 717 450
+Delay 7 ms
+MoveTo 719 450
+Delay 7 ms
+MoveTo 718 450
+Delay 104 ms
+WheelUp 1
+Delay 72 ms
+WheelUp 1
+Delay 79 ms
+WheelUp 1
+Delay 85 ms
+KeyUp 4 1
+Delay 9 ms
+WheelUp 1
+Delay 198 ms
+KeyDown 7 1
+Delay 321 ms
+WheelUp 1
+Delay 7 ms
+WheelDown 1
+Delay 5 ms
+KeyUp 7 1
+Delay 82 ms
+WheelUp 1
+Delay 37 ms
+KeyDown 7 1
+Delay 71 ms
+KeyUp 26 1
+Delay 319 ms
+KeyDown 225 1
+Delay 33 ms
+WheelUp 1
+Delay 110 ms
+KeyUp 225 1
+Delay 855 ms
+KeyUp 7 1
+Delay 7 ms
+KeyDown 22 1
+Delay 202 ms
+WheelUp 1
+Delay 45 ms
+KeyDown 225 1
+Delay 50 ms
+WheelUp 1
+Delay 47 ms
+WheelDown 1
+Delay 56 ms
+WheelUp 1
+Delay 101 ms
+KeyUp 225 1
+Delay 760 ms
+KeyDown 7 1
+Delay 71 ms
+KeyUp 22 1
+Delay 265 ms
+WheelUp 1
+Delay 71 ms
+WheelUp 1
+Delay 22 ms
+KeyDown 225 1
+Delay 183 ms
+KeyUp 225 1
+Delay 537 ms
+MoveTo 720 451
+Delay 7 ms
+MoveTo 723 452
+Delay 7 ms
+MoveTo 726 450
+Delay 7 ms
+MoveTo 737 451
+Delay 8 ms
+MoveTo 748 452
+Delay 8 ms
+MoveTo 758 453
+Delay 7 ms
+MoveTo 730 451
+Delay 5 ms
+KeyDown 26 1
+Delay 1 ms
+MoveTo 740 452
+Delay 7 ms
+MoveTo 749 452
+Delay 7 ms
+MoveTo 729 450
+Delay 7 ms
+MoveTo 737 450
+Delay 5 ms
+KeyUp 7 1
+Delay 2 ms
+MoveTo 743 450
+Delay 7 ms
+MoveTo 724 449
+Delay 8 ms
+MoveTo 725 449
+Delay 7 ms
+MoveTo 726 449
+Delay 56 ms
+MoveTo 721 450
+Delay 7 ms
+MoveTo 723 450
+Delay 7 ms
+MoveTo 723 450
+Delay 8 ms
+MoveTo 728 449
+Delay 7 ms
+MoveTo 732 449
+Delay 7 ms
+MoveTo 725 450
+Delay 8 ms
+MoveTo 731 450
+Delay 7 ms
+MoveTo 739 450
+Delay 8 ms
+MoveTo 728 450
+Delay 7 ms
+MoveTo 737 450
+Delay 7 ms
+MoveTo 745 450
+Delay 8 ms
+MoveTo 753 450
+Delay 7 ms
+MoveTo 727 450
+Delay 8 ms
+MoveTo 733 450
+Delay 8 ms
+MoveTo 738 450
+Delay 7 ms
+MoveTo 740 450
+Delay 8 ms
+MoveTo 721 450
+Delay 7 ms
+MoveTo 722 450
+Delay 183 ms
+WheelDown 1
+Delay 31 ms
+WheelUp 1
+Delay 94 ms
+KeyDown 225 1
+Delay 551 ms
+KeyUp 225 1
+Delay 383 ms
+KeyDown 7 1
+Delay 111 ms
+KeyUp 26 1
+Delay 175 ms
+KeyDown 44 1
+Delay 240 ms
+KeyDown 225 1
+Delay 111 ms
+KeyUp 225 1
+Delay 23 ms
+KeyUp 44 1
+Delay 727 ms
+KeyDown 26 1
+Delay 23 ms
+KeyUp 7 1
+Delay 455 ms
+KeyDown 225 1
+Delay 591 ms
+KeyUp 225 1
+Delay 263 ms
+KeyDown 225 1
+Delay 183 ms
+KeyUp 225 1
+Delay 247 ms
+KeyDown 225 1
+Delay 135 ms
+KeyUp 225 1
+Delay 1337 ms
+MoveTo 719 450
+Delay 8 ms
+MoveTo 717 450
+Delay 7 ms
+MoveTo 714 450
+Delay 7 ms
+MoveTo 709 451
+Delay 7 ms
+MoveTo 716 451
+Delay 7 ms
+MoveTo 713 451
+Delay 7 ms
+MoveTo 708 451
+Delay 7 ms
+MoveTo 713 450
+Delay 8 ms
+MoveTo 706 450
+Delay 7 ms
+MoveTo 699 450
+Delay 8 ms
+MoveTo 713 450
+Delay 7 ms
+MoveTo 707 450
+Delay 7 ms
+MoveTo 702 450
+Delay 8 ms
+MoveTo 716 450
+Delay 7 ms
+MoveTo 712 450
+Delay 8 ms
+MoveTo 709 450
+Delay 7 ms
+MoveTo 706 450
+Delay 8 ms
+MoveTo 703 450
+Delay 8 ms
+MoveTo 716 450
+Delay 7 ms
+MoveTo 712 450
+Delay 8 ms
+MoveTo 706 451
+Delay 7 ms
+MoveTo 720 450
+Delay 8 ms
+MoveTo 713 450
+Delay 7 ms
+MoveTo 708 450
+Delay 8 ms
+MoveTo 720 450
+Delay 8 ms
+MoveTo 712 450
+Delay 7 ms
+MoveTo 708 450
+Delay 7 ms
+MoveTo 705 450
+Delay 8 ms
+MoveTo 718 450
+Delay 6 ms
+KeyDown 7 1
+Delay 1 ms
+MoveTo 718 450
+Delay 8 ms
+MoveTo 716 450
+Delay 7 ms
+MoveTo 719 450
+Delay 8 ms
+MoveTo 718 450
+Delay 7 ms
+MoveTo 717 450
+Delay 8 ms
+MoveTo 719 450
+Delay 8 ms
+MoveTo 718 450
+Delay 222 ms
+KeyUp 7 1
+Delay 105 ms
+WheelUp 1
+Delay 87 ms
+MoveTo 719 451
+Delay 8 ms
+WheelUp 1
+Delay 40 ms
+MoveTo 721 450
+Delay 55 ms
+MoveTo 721 450
+Delay 9 ms
+WheelUp 1
+Delay 6 ms
+MoveTo 722 450
+Delay 32 ms
+MoveTo 721 450
+Delay 152 ms
+MoveTo 722 450
+Delay 7 ms
+MoveTo 723 450
+Delay 8 ms
+MoveTo 724 450
+Delay 32 ms
+MoveTo 721 450
+Delay 7 ms
+MoveTo 722 450
+Delay 7 ms
+MoveTo 723 450
+Delay 24 ms
+MoveTo 721 450
+Delay 7 ms
+MoveTo 722 450
+Delay 14 ms
+KeyDown 225 1
+Delay 55 ms
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>GTA: Criminal Russia (CRMP)</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Читерные макросы на бессконечные патроны для режима Counter-Strike на серверах Minecraft. По умолчанию, практически во всех плагинах по данному режим, в пером слоте находидся скорострельное оружие, во втором - пистолет, в третьем - нож. При быстром переключении первого и второго слота выстрелы будут длиться бесссконечно, проверенно на серверах Hypixel, Military World, TeslaCraft  и других </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+RightDown 1
+Delay 40 ms
+KeyUp 30 1
+RightUp 1
+KeyDown 31 1
+RightDown 1
+Delay 40 ms
+KeyUp 31 1
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

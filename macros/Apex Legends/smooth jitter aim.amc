@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major>Jitter aim</Major>
+    <Description>smoother jitter aim.press the key while moving your mouse horizontally.It just help you to reduce the recoil.
+Screen resolution:1920*1080,DPI:800,in-game sens:4.0/0.8</Description>
+    <Comment>https://keyran.net - Free macros download</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 10 ms
+MoveR -2 2
+Delay 10 ms
+MoveR 2 -2</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос, который позволяет сбить прочность оружия до 0 процентов, чтобы сдать его для задания в клуб Мерриузер.
+
+Как использовать:
+1) кладём оружие в крайний нижний левый слот
+2) Кладём в любой слот инвентаря 30 патронов (подходящих для этого оружия)
+3) ждём примерно 3 минуты, пока прочность оружия не упадёт до нуля
+
+ВАЖНО!!! Оружие должно иметь минимально 99% прочности, чтобы начать ломаться. Для этого нужно снарядить его и 1 раз перезарядить
+
+Проверено на разрешении 1920x1080</Description>
+    <Comment>Макрос полностью уникальный</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1488 532
+LeftDown 1
+Delay 64
+Delay 64
+LeftUp 1
+Delay 64
+Delay 64
+MoveTo 1488 600
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

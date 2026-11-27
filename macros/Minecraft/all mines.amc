@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос для копания шахт на различных призонах, таких как призон ево, призон на вайме и тд. работает на разрешении экрана в 1920 х 1080, чуствительность в игре 100</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 64
+LeftDown 1
+Delay 64
+Delay 5500 ms
+MoveR 1 0
+Delay 1 ms
+GoWhile 6 832
+GoWhile 5 14
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

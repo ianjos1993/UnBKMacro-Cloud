@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>топовый макрос на завод жбк, вам остается только водить мышкой
++ работает на любой сенсе и разрешении
++ не палится и не банится
++ стоит рандомная задержка, что позволит чтобы вас не кикали автоматический за вилку в клаве
+данный макрос поможет заработать много денег и опыта почти ничего не делая, просто водя мышку чтобы вести персонажа, он будет сам двигатся вперед
+а так же небольшие движение влево вправо чтобы не заподозрили</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 2 3 min
+KeyUp 26 1
+Delay 64
+KeyDown 7 1
+Delay 249 250 ms
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 130 150 ms
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 9 10 min
+KeyUp 7 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

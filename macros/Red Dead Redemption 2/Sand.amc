@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос создан для РП сервера RedWest, в целях автоматизировать добычу песка  и заняться своими делами</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 226 1
+Delay 64
+KeyUp 226 1
+Delay 3 s
+RightDown 1
+Delay 64
+RightUp 1
+Delay 90 ms
+LeftDown 1
+Delay 5 s
+LeftUp 1
+Delay 64
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Red Dead Redemption 2</Software>
+  </DefaultMacro>
+</Root>

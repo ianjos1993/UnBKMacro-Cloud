@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major>Быстрый блекхол энигмы</Major>
+    <Description>Быстрое применение на скиллы и предметы необходимы.
+Рекомендуется включить настройку "Остановка применения отдельной клавишей"
+Макрос применится в точку куда указывает ваш курсор.
+
+Данный макрос позволяет дать полный прокаст на энигме одной кнопкой, а так же автоматически использует BKB, что даёт еще больше шансов сделать успешный прокаст.
+
+Нужные бинды:
+E - Midnight Pulse
+R - Black Hole
+C - Blink Dagger
+X - Black King Bar</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+Delay 95 ms
+KeyDown 27 1
+Delay 64 ms
+KeyUp 6 1
+Delay 30 ms
+KeyUp 27 1
+Delay 31 ms
+KeyDown 8 1
+Delay 95 ms
+KeyDown 21 1
+Delay 96 ms
+KeyUp 8 1
+Delay 95 ms
+KeyUp 21 1</Syntax>
+    </KeyDown>
+    <Software>dota 2</Software>
+  </DefaultMacro>
+</Root>

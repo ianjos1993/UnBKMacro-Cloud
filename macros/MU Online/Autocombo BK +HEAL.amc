@@ -1,0 +1,73 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автокомбо для класса Dark Knight тремя скилами 
+1. Cyclone (выставляете скилл оружия на еденицу)
+2.Крутилка (Twisting Slash) (на двойку)
+3. Любой Blow скилл (ветерок) (ставим на тройку)
+4.Далее ставим на Q W Банки со здоровьем.
+
+Не забываем жать CTRL если сражаетесь против игрока.
+
+Это самый быстрое комбо для этого класса. Удачи)
+
+Autocombo for Dark Knight Class 3 skills
+1.Cyclone (set the weapon skill to 1)
+2.Twisting Slash (Put it on 2)
+3.Any Blow skill (put it on 3)
+4.Next bind Large Healing Potion on Q W button.
+
+Do not forget to press CTRL if you are fighting against a player.
+
+This is the fastest combo for this class.
+
+Enjoy:)</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 20 1
+Delay 15 ms
+KeyUp 20 1
+Delay 15 ms
+KeyDown 26 1
+Delay 15 ms
+KeyUp 26 1
+Delay 15 ms
+KeyDown 20 1
+Delay 15 ms
+KeyUp 20 1
+Delay 15 ms
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 20 1
+Delay 15 ms
+KeyUp 20 1
+Delay 15 ms
+KeyDown 26 1
+Delay 15 ms
+KeyUp 26 1
+Delay 15 ms
+KeyDown 20 1
+Delay 15 ms
+KeyUp 20 1
+Delay 15 ms
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>MU Online</Software>
+  </DefaultMacro>
+</Root>

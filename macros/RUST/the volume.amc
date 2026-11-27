@@ -1,0 +1,61 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос для игры Rust на томик, сделан для чувствительности 0.9 для зажима сидя.
+разрешение экрана 1920*1080, поле зрения 90</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 0 1
+Delay 25 ms
+MoveR -1 1
+Delay 25 ms
+MoveR 0 2
+Delay 25 ms
+MoveR -1 1
+Delay 25 ms
+MoveR 0 2
+Delay 25 ms
+MoveR -1 2
+Delay 25 ms
+MoveR 0 2
+Delay 25 ms
+MoveR 1 2
+Delay 25 ms
+MoveR 0 2
+Delay 25 ms
+MoveR 1 1
+Delay 25 ms
+MoveR 0 2
+Delay 25 ms
+MoveR 0 2
+Delay 25 ms
+MoveR -1 2
+Delay 25 ms
+MoveR 0 2
+Delay 25 ms
+MoveR -1 2
+Delay 25 ms
+MoveR 0 1
+Delay 25 ms
+MoveR -1 1
+Delay 25 ms
+MoveR 0 1
+Delay 25 ms
+MoveR 0 2
+Delay 25 ms
+MoveR 0 2
+Delay 25 ms
+MoveR 0 2
+Delay 25 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

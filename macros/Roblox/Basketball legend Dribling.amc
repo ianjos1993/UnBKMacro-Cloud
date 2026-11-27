@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на дриблинг, что бы было удобней использовать советую ставить на клавишу R (0OBP) Если будут ошибки или проблемы с макросом пишите в дс .robotkava</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+Delay 15 ms
+KeyDown 27 1
+Delay 15 ms
+KeyDown 29 1
+Delay 15 ms
+KeyDown 27 1
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

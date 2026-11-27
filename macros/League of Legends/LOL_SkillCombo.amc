@@ -1,0 +1,32 @@
+<Root>
+  <!-- by Britan -->
+  <DefaultMacro>
+    <Major></Major>
+    <Description>НАЗВАНИЕ: League of Legends Skill Combo. ОПИСАНИЕ: Быстрая комбинация навыков: Q -&gt; W -&gt; E -&gt; Left Click для максимально быстрого нанесения урона. Подходит для большинства чемпионов. РЕКОМЕНДУЕМАЯ КЛАВИША: Mouse 4 (Side). КАК ИСПОЛЬЗОВАТЬ: Привяжи макрос на кнопку Mouse 4. Наведи на врага и нажми Mouse 4 - макрос активирует Q, W, E и кликнет для подтверждения. Однократное выполнение. НАСТРОЙКА: Если у чемпиона другие клавиши навыков - замени KeyDown 81 (Q), KeyDown 87 (W), KeyDown 69 (E). АВТОР: by Britan. ЗАПРЕЩЕНО копировать без указания автора.</Description>
+    <Comment>Привязка: Mouse 4 (Side). Режим: однократное. Инструкция: наведи на врага и нажми - Q -&gt; W -&gt; E -&gt; клик.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 81 1
+Delay 30 ms
+KeyUp 81 1
+Delay 50 ms
+KeyDown 87 1
+Delay 30 ms
+KeyUp 87 1
+Delay 50 ms
+KeyDown 69 1
+Delay 30 ms
+KeyUp 69 1
+Delay 50 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>League of legends</Software>
+  </DefaultMacro>
+</Root>

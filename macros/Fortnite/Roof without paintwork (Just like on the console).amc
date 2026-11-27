@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Крыша строится без подтверждения на ЛКМ. 
+Точно как на консоли, нажали кнопку крыши, построилась крыша и не нужно нажимать ЛКМ.
+Удерживая кнопку "V" крыша будет строится пока вы не отпустите кнопку.
+
+Строительство крыши должно быть на кнопку "V"
+Если для вас это не удобно, поменяйте кнопку "V" на любую удобную для вас в редакторе макросов.
+
+Подписывайся на канала DoubleSe в YouTube</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 25 1
+LeftDown 1
+Delay 1000 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

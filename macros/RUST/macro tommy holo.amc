@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major>macro tommy holo</Major>
+    <Description>this macro work for tommy with sens 0.8 (holographic x2 )
+fov 90
+1920 x 1080
+sens 0.8
+dpi 1300
+just try it and enjoy the macro!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 50 ms
+MoveR 0 -36
+Delay 50 ms
+MoveR 0 -34
+Delay 50 ms
+MoveR 0 -36
+Delay 50 ms
+MoveR 0 -35
+Delay 50 ms
+MoveR 0 -36
+Delay 50 ms
+MoveR 0 -35
+Delay 50 ms
+MoveR 0 -36
+Delay 50 ms
+MoveR 0 -38
+Delay 50 ms
+MoveR 0 -32
+Delay 50 ms
+LeftUp 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос "Авторыбалка":
+Простое управление рыболовным процессом
+
+Цель: Автоматизация рыбалки
+Действие: Закидывает наживку, вытаскивает рыбу
+Преимущества: Эффективность, уменьшение участия человека
+Применение: Для любителей и профессионалов
+Установка: Легкая, совместима с различным оборудованием.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+Delay 35 s
+KeyDown 30 1
+KeyUp 30 1
+Delay 2 s
+LeftDown 1
+LeftUp 1
+Delay 1 s
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Tower of Fantasy</Software>
+  </DefaultMacro>
+</Root>

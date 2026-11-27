@@ -1,0 +1,200 @@
+<Root>
+  <DefaultMacro>
+    <Major>Lee Chaolan Combo 2</Major>
+    <Description>Макрос позволяет выполнять combo 2 за Lee Chaolan.
+Видео демонстрации работы макроса: https://youtu.be/OaAiJlby-I4
+
+Ли Чаолан — персонаж TEKKEN. Он дебютировал в первом Tekken и появлялся в каждой последующей игре, кроме Tekken 3. Ли начинал как «клон» Маршалла Лоу, с некоторыми движениями, позаимствованными у Пола Феникса. В эпоху, предшествовавшую Tekken 4, его главным отличием от Ло была способность выполнять бесконечную цепочку ударов ногами, что было гораздо полезнее тогда, потому что игровой процесс не предлагал много вариантов уклонения от нее, а обходные маневры были менее эффективными и их труднее выполнять. выполнять. В более поздних играх Ли все больше и больше превращался в совершенно другого персонажа с ярким и стильным набором приемов. В Tekken, Tekken 2 и Tekken Tag Tournament Ли сражался, используя боевое каратэ в стиле Мишима в сочетании со своим собственным стилем «боевых искусств». Будучи вариацией набора приемов Маршалла Лоу (который во многом вдохновлен приемами Брюса Ли), можно с уверенностью предположить, что фактический боевой стиль Ли основан на Джит Кун До. Однако единственные его приемы в каратэ Мисима — это удар ногой левым шпагатом (f, f+3), который был удален в Tekken 5, и два первых удара ногой из его бесконечной цепочки ударов, которые напоминают удар ногой Мишимы-цунами (ws+ 4, 4), но другой ногой.
+
+
+Тестирование макроса проводились на последнем патче игры на 20.09.2023 (5.01 патч)
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#leechaolantekken7 #tekken7 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 72 ms
+KeyUp 4 1
+Delay 79 ms
+KeyDown 22 1
+Delay 31 ms
+KeyDown 4 1
+Delay 24 ms
+KeyDown 77 1
+Delay 119 ms
+KeyUp 22 1
+Delay 7 ms
+KeyUp 77 1
+Delay 48 ms
+KeyUp 4 1
+Delay 728 ms
+KeyDown 7 1
+Delay 15 ms
+KeyDown 26 1
+Delay 271 ms
+KeyUp 7 1
+Delay 16 ms
+KeyUp 26 1
+Delay 8 ms
+KeyDown 77 1
+Delay 48 ms
+KeyUp 77 1
+Delay 71 ms
+KeyDown 77 1
+Delay 80 ms
+KeyUp 77 1
+Delay 207 ms
+KeyDown 22 1
+Delay 48 ms
+KeyDown 74 1
+Delay 87 ms
+KeyUp 74 1
+Delay 72 ms
+KeyDown 74 1
+Delay 80 ms
+KeyUp 74 1
+Delay 47 ms
+KeyDown 74 1
+Delay 79 ms
+KeyUp 22 1
+Delay 8 ms
+KeyUp 74 1
+Delay 7 ms
+KeyDown 4 1
+Delay 120 ms
+KeyDown 74 1
+Delay 88 ms
+KeyUp 74 1
+Delay 87 ms
+KeyUp 74 1
+Delay 80 ms
+KeyDown 74 1
+Delay 80 ms
+KeyDown 74 1
+Delay 71 ms
+KeyUp 74 1
+Delay 48 ms
+KeyDown 74 1
+Delay 47 ms
+KeyDown 7 1
+Delay 23 ms
+KeyUp 4 1
+Delay 8 ms
+KeyUp 74 1
+Delay 63 ms
+KeyUp 7 1
+Delay 48 ms
+KeyDown 7 1
+Delay 80 ms
+KeyUp 7 1
+Delay 47 ms
+KeyDown 7 1
+Delay 151 ms
+KeyUp 7 1
+Delay 47 ms
+KeyDown 4 1
+Delay 56 ms
+KeyDown 7 1
+Delay 31 ms
+KeyUp 4 1
+Delay 8 ms
+KeyDown 74 1
+Delay 136 ms
+KeyUp 74 1
+Delay 7 ms
+KeyDown 77 1
+Delay 64 ms
+KeyUp 77 1
+Delay 56 ms
+KeyDown 77 1
+Delay 55 ms
+KeyUp 7 1
+Delay 39 ms
+KeyUp 77 1
+Delay 47 ms
+KeyDown 7 1
+Delay 8 ms
+KeyDown 77 1
+Delay 80 ms
+KeyUp 77 1
+Delay 24 ms
+KeyUp 7 1
+Delay 87 ms
+KeyDown 7 1
+Delay 64 ms
+KeyUp 7 1
+Delay 103 ms
+KeyDown 7 1
+Delay 64 ms
+KeyUp 7 1
+Delay 112 ms
+KeyDown 7 1
+Delay 71 ms
+KeyUp 7 1
+Delay 96 ms
+KeyDown 7 1
+Delay 55 ms
+KeyUp 7 1
+Delay 64 ms
+KeyDown 7 1
+Delay 303 ms
+KeyDown 4 1
+Delay 40 ms
+KeyUp 7 1
+Delay 7 ms
+KeyDown 74 1
+Delay 80 ms
+KeyUp 74 1
+Delay 63 ms
+KeyDown 7 1
+Delay 32 ms
+KeyUp 4 1
+Delay 63 ms
+KeyUp 7 1
+Delay 47 ms
+KeyDown 7 1
+Delay 80 ms
+KeyUp 7 1
+Delay 47 ms
+KeyDown 7 1
+Delay 168 ms
+KeyDown 74 1
+Delay 79 ms
+KeyDown 73 1
+Delay 80 ms
+KeyUp 74 1
+Delay 31 ms
+KeyUp 73 1
+Delay 64 ms
+KeyDown 73 1
+Delay 87 ms
+KeyUp 73 1
+Delay 79 ms
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 7</Software>
+  </DefaultMacro>
+</Root>

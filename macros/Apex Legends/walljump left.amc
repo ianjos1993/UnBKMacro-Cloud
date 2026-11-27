@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major>Walljump (left) AERTY</Major>
+    <Description>Walljump macro for 60fps+ bind jump to (space bar)  , HAVE A AZERTY keyboard (or just change zqsd to wasd in editor) 
+1920x1080, Be between 12m 15m from wall and activate macro (i recommende to bind macro to keyboard)
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+KeyDown 225 1
+Delay 2 s
+Delay 64
+KeyUp 225 1
+KeyDown 6 1
+Delay 500 ms
+MoveR -701 0
+Delay 30 ms
+KeyUp 6 1
+KeyDown 44 1
+Delay 300 ms
+KeyUp 44 1
+Delay 100 ms
+KeyUp 29 1
+Delay 10 ms
+KeyDown 44 1
+Delay 50 ms
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>osu spin I крутилка</Major>
+    <Description>Макрос для колеса в осу тестилось при разрешении экрана 1280x1024 на других разрешениях скорее всего работать не будет выдает скорость под 470 (приятного использования)  использовать с функцией повтора пока зажата клавиша </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveTo 634 444
+Delay 14 ms
+MoveTo 727 530
+Delay 14 ms
+MoveTo 622 642
+Delay 14 ms
+MoveTo 508 564
+Delay 14 ms</Syntax>
+    </KeyDown>
+    <Software>Osu!</Software>
+  </DefaultMacro>
+</Root>

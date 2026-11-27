@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major>Bizon</Major>
+    <Description>Макрос для быстрого и цикличного извлечения болтов или гвоздей из коробок.
+
+Выставьте цикличный режим.
+Добавьте коробку Гвоздей или болтов в 8 слот!
+
+Макрос должен запускаться из обычного игрового режима (Tab должен быть выключен в момент запуска!) мышку желательно не использовать, может помешать выполнению макроса.
+
+Если производительность Вашего ПК высокая, можете уменьшить последнюю паузу.
+В случае если Ваш Пк не успевает прогрузиться для выполнения макроса, увеличьте последнюю паузу.
+
+Удачи Вам!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 150 ms
+KeyUp 43 1
+Delay 150 ms
+KeyDown 30 1
+Delay 50 ms
+KeyUp 30 1
+Delay 50 ms
+MoveTo 1618 732
+RightDown 1
+Delay 150 ms
+RightUp 1
+Delay 150 ms
+MoveTo 1637 867
+LeftDown 1
+Delay 150 ms
+LeftUp 1
+Delay 150 ms
+KeyDown 43 1
+Delay 150 ms
+KeyUp 43 1
+Delay 500 ms</Syntax>
+    </KeyDown>
+    <Software>Scum</Software>
+  </DefaultMacro>
+</Root>

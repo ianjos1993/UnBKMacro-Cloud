@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>g to edit fast macro! bind go any key on keyboard and have your edit button on g for the macro to work. you will be able to spam edit with ease, drag edits might be difficult depending on your ping.                                                                                                                                                       
+make sure to make your secondary building edit 7 for the macro to work and have confirm edit on relese on.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+Delay 10
+KeyUp 10 1
+Delay 10
+KeyDown 36 1
+Delay 10
+KeyUp 36 1
+Delay 10
+KeyDown 10 1
+Delay 10
+KeyUp 10 1
+Delay 10</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

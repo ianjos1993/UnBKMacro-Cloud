@@ -1,0 +1,53 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Shoots straight to the point, should use FOV 90 and input.sensitivity 0.82
+
+Personally used Settings:
+
+Driver should be turned on to be more legit.
+Snap to Window is off
+Mentioned before: FOV (graphics.fov 90 in F1) and Sensitivity (input.sensitivity 0.82 in F1)
+Mouse used: Trust GXT 105  ///   DPI: 1600
+if possible put it on Mouse Button 1 (Left Click)
+
+
+Personally used Key Settings:
+
+Use minimal delay when pressing keys in macros: ON
+React only to physical clicks on keyboards and mice: ON
+Block modifier keystrokes: ON</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 10 ms
+MoveR 0 3
+Delay 10 ms
+MoveR 0 2
+Delay 10 ms
+MoveR 0 2
+Delay 10 ms
+MoveR 0 2
+Delay 10 ms
+MoveR 0 2
+Delay 10 ms
+MoveR 0 2
+Delay 10 ms
+MoveR 0 2
+Delay 10 ms
+MoveR 0 2
+Delay 10 ms
+MoveR 0 2
+Delay 9 ms
+MoveR 0 2
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

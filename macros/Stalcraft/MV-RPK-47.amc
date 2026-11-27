@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major>МВ-РПК-47</Major>
+    <Description>Макрос был создан для аниотдачи оружия РПК-47 в режиме "мёртвое время", для специального  класса "пулемётчик"! Разрешение экрана 1300Х700, DPI мыши 3200, чувствительность мыши  в игре 4.10</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 0 20
+Delay 30 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

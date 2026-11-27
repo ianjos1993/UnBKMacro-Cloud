@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>И так снова всем привет , я наконец-то понял как написать баг урон , конечно трудно понимать после всяких программ , но вот вроде бы нормальный 
+1 - меч
+9 - меч на баг урон , если играете на кубиксе то ставьте бож кинажл если нет то без разницы главное не одинаковые!!!
+Все желаю всем удачной игры и удачных комб :D</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+LeftDown 1
+Delay 7 ms
+LeftUp 1
+Delay 5 ms
+LeftDown 1
+Delay 7 ms
+LeftUp 1
+Delay 5 ms
+LeftDown 1
+Delay 8 ms
+LeftUp 1
+Delay 6 ms
+LeftDown 1
+Delay 8 ms
+LeftUp 1
+Delay 6 ms
+KeyDown 38 1
+KeyUp 38 1
+LeftDown 1
+Delay 18 ms
+LeftUp 1
+Delay 12 ms
+LeftDown 1
+Delay 12 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

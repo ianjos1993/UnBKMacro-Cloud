@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>У меня нет нампада, для игры в стронгхолд к примеру чтобы замедлять время нужно нажать минус на нам паде, я просто сделал макрос чтобы клавиша минуса на укороченной клаве имитировала минус на нампаде</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 86 1
+Delay 64
+KeyUp 86 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Задачи любые</Software>
+  </DefaultMacro>
+</Root>

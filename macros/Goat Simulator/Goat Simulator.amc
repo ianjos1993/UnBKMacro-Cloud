@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос был создан для спама способности у козла на букву R (Козел человек паук) позволяет цепляться за все,чтобы быстро делать ачивки и получать очень много очков а также повеселится
+Инструкция - Скачать программку Keyran. 2.Скачать мой макрос. 3. запустить программу Keyran. 4.Запустить редактор макросов. 5.Нажать открыть файл. 6. И выйти с редактора. 7. Забиндить макрос. 8. Наслаждаться игрой.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 5 ms
+KeyUp 21 1
+Delay 5 ms
+KeyDown 21 1
+Delay 5 ms
+KeyUp 21 1</Syntax>
+    </KeyDown>
+    <Software>Goat Simulator</Software>
+  </DefaultMacro>
+</Root>

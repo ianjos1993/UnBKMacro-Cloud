@@ -1,0 +1,62 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос создан для автоматического написания команды которая снимает с вас защиту.
+1)На некоторых серверах при заходе вам дают защиту новичка на некоторое время,при ее наличии вас никто не может убить.
+2)Вводить эту команду обычно приходится несколько раз что весьма муторно,поэтому этот макрос вам поможет.
+3)Биндите макрос на любую удобную для вас клавишу или кнопку мыши.
+4)После запуска макрос автоматически напишет команду /shieldoff.
+5)Макрос запускается по 1 нажатию клавиши или кнопки мыши,запускаете его столько раз сколько нужно ввести команду.
+6)Не используйте этот макрос на серверах где макросы и подобнные программы под запретом.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 20 ms
+KeyUp 56 1
+Delay 20 ms
+KeyDown 22 1
+Delay 20 ms
+KeyUp 22 1
+Delay 20 ms
+KeyDown 11 1
+Delay 20 ms
+KeyUp 11 1
+Delay 20 ms
+KeyDown 12 1
+Delay 20 ms
+KeyUp 12 1
+Delay 20 ms
+KeyDown 8 1
+Delay 20 ms
+KeyUp 8 1
+Delay 20 ms
+KeyDown 15 1
+Delay 20 ms
+KeyUp 15 1
+Delay 20 ms
+KeyDown 7 1
+Delay 20 ms
+KeyUp 7 1
+Delay 20 ms
+KeyDown 18 1
+Delay 20 ms
+KeyUp 18 1
+Delay 20 ms
+KeyDown 9 1
+Delay 20 ms
+KeyUp 9 1
+Delay 20 ms
+KeyDown 9 1
+Delay 20 ms
+KeyUp 9 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос для пвп на HCS.land чтобы ходить в амазонитной броне и не чаренной халитке или занитке подойдет для начинающих!!!</Description>
+    <Comment>4XFIRE
+</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+Delay 1 ms
+LeftDown 1
+Delay 13 ms
+LeftUp 1
+Delay 13 ms
+LeftDown 1
+Delay 2 ms
+LeftUp 1
+Delay 2 ms
+KeyDown 32 1
+Delay 1 ms
+KeyUp 32 1
+Delay 3 ms
+RightDown 1
+Delay 13 ms
+RightUp 1
+Delay 13 ms
+RightDown 1
+Delay 2 ms
+RightUp 1
+Delay 2 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос удерживает кнопку и затем стреляет нанося огромный урон и еще подходит для сходки рейдов желаю вам удачных боёв.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 2156 ms
+LeftUp 1
+Delay 260 ms
+RightDown 1
+Delay 2156 ms
+RightUp 1
+Delay 260 ms
+KeyDown 30 1
+Delay 2156 ms
+KeyUp 30 1
+Delay 260 ms
+KeyDown 31 1
+Delay 2156 ms
+KeyUp 31 1
+Delay 260 ms</Syntax>
+    </KeyDown>
+    <Software>Crossout</Software>
+  </DefaultMacro>
+</Root>

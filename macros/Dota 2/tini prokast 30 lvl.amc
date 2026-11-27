@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Деффолтный прокаст для Тини, Слот С блинк Слот V етериал
+Наводите на противника при нажатии макроса
+он дает прокаст на 2000 hp,прокаст самый обычный
+и простой но эффективный
+биндите удобную вам клавишу у меня это боковая кнопка мыши
+заходите в игру нажимаете на забинженную клавишу по противнику и все)
+всем удачи</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+Delay 64
+KeyUp 6 1
+Delay 64
+KeyDown 25 1
+Delay 64
+KeyUp 25 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 5 1
+Delay 64
+KeyUp 5 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

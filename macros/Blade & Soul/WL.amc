@@ -1,0 +1,76 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на 3 спек ВЛа. Жмет основную ротацию жнеца на врыв в любого босса. Для корректной работы переназначить на ПКМ и отключить упрощеннку!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 3 ms
+KeyUp 43 1
+Delay 3 ms
+KeyDown 43 1
+Delay 3 ms
+KeyUp 43 1
+Delay 3 ms
+KeyDown 32 1
+Delay 3 ms
+KeyUp 32 1
+Delay 3 ms
+KeyDown 25 1
+Delay 3 ms
+KeyUp 25 1
+Delay 3 ms
+RightDown 1
+Delay 3 ms
+RightUp 1
+Delay 3 ms
+KeyDown 25 1
+Delay 3 ms
+KeyUp 25 1
+Delay 3 ms
+RightDown 1
+Delay 2 ms
+RightUp 1
+KeyDown 33 1
+Delay 2 ms
+KeyUp 33 1
+Delay 3 ms
+KeyDown 31 1
+Delay 3 ms
+KeyUp 31 1
+Delay 3 ms
+KeyDown 6 1
+Delay 3 ms
+KeyUp 6 1
+Delay 3 ms
+RightDown 1
+Delay 3 ms
+RightUp 1
+LeftDown 1
+Delay 3 ms
+LeftUp 1
+RightDown 1
+Delay 3 ms
+RightUp 1
+Delay 3 ms
+KeyDown 23 1
+Delay 3 ms
+KeyUp 23 1
+Delay 3 ms
+RightDown 1
+Delay 3 ms
+RightUp 1
+KeyDown 9 1
+Delay 3 ms
+KeyUp 9 1
+Delay 3 ms</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

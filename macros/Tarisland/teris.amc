@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>Паладин танк</Major>
+    <Description>Прожатие основных 4 скила по кд, 5, 6 и QER кликать вручную, так их прожимать нужно только в определенные моменты, а первые 4, просто по кд</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 1 ms
+KeyUp 32 1
+Delay 1 ms
+KeyDown 33 1
+Delay 1 ms
+KeyUp 33 1
+Delay 1 ms
+KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+Delay 1 ms
+KeyDown 31 1
+Delay 1 ms
+KeyUp 31 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Terisland</Software>
+  </DefaultMacro>
+</Root>

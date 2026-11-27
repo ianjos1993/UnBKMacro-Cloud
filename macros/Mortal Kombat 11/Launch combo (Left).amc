@@ -1,0 +1,109 @@
+<Root>
+  <DefaultMacro>
+    <Major>Джекки Бригс - Полное кобмбо с дефолтным лаунчером (сочный удар ногой) - левая позиция</Major>
+    <Description>Данное комбо выполняется исключительно стандартными приёмами, то есть не зависит от вариации. Начинается со стартера вперёд 3-1, далее сочный удар ногой с усилением, короткий вейв-дэш, два энергетических форсажа (быстро вперёд 2 - 2), затем эндер - справедливость НЕ для всех,  Выводит  на 286 урона.
+
+Чтобы использовать данный макрос, нужно стоять слева от противника на расстоянии досягаемости стартовой атаки. Зажимаем клавишу макроса и держим пока враг не окажется на земле, либо пока комбо не будет  прервано, например блоком или изворотом врага. Во время исполнения комбо не нажимать других клавиш.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//Стартер
+KeyDown 7 1
+KeyDown 81 1
+Delay 25 ms
+KeyUp 81 1
+Delay 25 ms
+KeyDown 80 1
+Delay 25 ms
+KeyUp 80 1
+Delay 25 ms
+KeyUp 7 1
+Delay 500 ms
+//Лаунчер
+KeyDown 22 1
+Delay 25 ms
+KeyDown 4 1
+Delay 25 ms
+KeyDown 79 1
+Delay 25 ms
+KeyUp 4 1
+Delay 25 ms
+KeyUp 22 1
+Delay 1000 ms
+KeyDown 20 1
+Delay 25 ms
+KeyUp 20 1
+Delay 250 ms
+KeyUp 79 1
+Delay 325 ms
+//Короткий вэйв дэш
+KeyDown 7 1
+Delay 25 ms
+KeyUp 7 1
+Delay 25 ms
+KeyDown 7 1
+Delay 25 ms
+KeyUp 7 1
+//Серия быстрых панчей
+//Первый панч
+KeyDown 7 1
+KeyDown 82 1
+Delay 25 ms
+KeyUp 82 1
+Delay 25 ms
+KeyDown 82 1
+Delay 25 ms
+KeyUp 82 1
+Delay 25 ms
+KeyDown 82 1
+Delay 25 ms
+KeyUp 82 1
+Delay 25 ms
+KeyDown 82 1
+Delay 25 ms
+KeyUp 82 1
+//Второй панч
+Delay 475 ms
+KeyDown 82 1
+Delay 25 ms
+KeyUp 82 1
+Delay 25 ms
+KeyDown 82 1
+Delay 25 ms
+KeyUp 82 1
+Delay 25 ms
+KeyDown 82 1
+Delay 25 ms
+KeyUp 82 1
+Delay 25 ms
+KeyDown 82 1
+Delay 25 ms
+KeyUp 82 1
+//Справедливость не для всех
+Delay 700 ms
+KeyDown 81 1
+Delay 25 ms
+KeyUp 81 1
+Delay 25 ms
+KeyDown 80 1
+Delay 25 ms
+KeyUp 80 1
+Delay 25 ms
+KeyDown 79 1
+Delay 25 ms
+KeyUp 79 1
+Delay 25 ms
+KeyDown 44 1
+Delay 25 ms
+KeyUp 44 1
+Delay 25 ms
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Mortal Kombat 11</Software>
+  </DefaultMacro>
+</Root>

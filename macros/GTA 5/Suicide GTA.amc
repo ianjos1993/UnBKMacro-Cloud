@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на быструю смерть(Суицид) в ГТА Онлайн.
+(В основном используется для ухода от противников и смены позиции/сброс уровня розыска.)
+
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 16 1
+Delay 50
+KeyUp 16 1
+Delay 50
+KeyDown 82 1
+Delay 50
+KeyUp 82 1
+Delay 50
+KeyDown 82 1
+Delay 50
+KeyUp 82 1
+Delay 50
+KeyDown 40 1
+Delay 50
+KeyUp 40 1
+Delay 50</Syntax>
+    </KeyDown>
+    <Software>GTA V</Software>
+  </DefaultMacro>
+</Root>

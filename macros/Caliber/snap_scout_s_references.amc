@@ -1,0 +1,104 @@
+<Root>
+  <DefaultMacro>
+    <Major>IPSIMUS</Major>
+    <Description>Макрос для снайпера Скаут под навык от снайпера ТЕНЬ "ПРЕЦИЗИОННАЯ НАРЕЗКА СТВОЛА".
+Минимизирует разброс, уменьшает отдачу в прицеле, Без прицеливания-снижен разброс.
+Навык от Тени сставить обязательно.
+Вертикальную синхронизацию отключить
+Мышь на 50.0
+Экран 1980*1090
+Назначаете на ЛКМ  на активацию и в бой.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax>rm</Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 11 ms
+MoveR -1 1
+Delay 11 ms
+MoveR 0 1
+Delay 11 ms
+MoveR 0 1
+Delay 11 ms
+MoveR 0 1
+Delay 11 ms
+MoveR -1 1
+Delay 11 ms
+MoveR 0 1
+Delay 11 ms
+MoveR 0 1
+Delay 11 ms
+MoveR 0 1
+Delay 11 ms
+MoveR -1 1
+Delay 11 ms
+MoveR 0 1
+Delay 11 ms
+MoveR 0 1
+Delay 11 ms
+MoveR 0 1
+Delay 11 ms
+MoveR -1 1
+Delay 11 ms
+MoveR 0 1
+Delay 11 ms
+MoveR 0 1
+Delay 11 ms
+MoveR 0 1
+Delay 11 ms
+MoveR -1 1
+Delay 11 ms
+MoveR 0 1
+Delay 11 ms
+MoveR 0 1
+Delay 11 ms
+MoveR 0 1
+Delay 11 ms
+MoveR -1 1
+Delay 11 ms
+MoveR 0 1
+Delay 11 ms
+MoveR 0 1
+Delay 11 ms
+MoveR 0 1
+Delay 11 ms
+MoveR -1 1
+Delay 11 ms
+MoveR 0 1
+Delay 11 ms
+MoveR 0 1
+Delay 11 ms
+MoveR 0 1
+Delay 11 ms
+MoveR -1 1
+Delay 11 ms
+MoveR 0 1
+Delay 11 ms
+MoveR 0 1
+Delay 11 ms
+MoveR 0 1
+Delay 11 ms
+MoveR -1 1
+Delay 11 ms
+MoveR 0 1
+Delay 11 ms
+MoveR 0 1
+Delay 11 ms
+MoveR 0 1
+Delay 11 ms
+MoveR -1 1
+Delay 11 ms
+MoveR 0 1
+Delay 11 ms
+MoveR 0 1
+Delay 11 ms
+MoveR 0 1
+Delay 11 ms</Syntax>
+    </KeyDown>
+    <Software>Caliber</Software>
+  </DefaultMacro>
+</Root>

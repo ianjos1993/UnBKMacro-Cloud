@@ -1,0 +1,53 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>an automatication for the gym in Grand rp there you can make your Backpack bigger
+just go to the gym press "e" to an machine and start the macro then you can chill and your backpack gets bigger 
+and it has an little extra where it goes to your menue and escape it than you dont sleep and the investion money keep going
+
+from lolakdf</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 4 s
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 4500 ms
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 4 s
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 4 ms
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 4 ms
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 4 ms
+KeyDown 16 1
+Delay 64
+KeyUp 16 1
+Delay 64
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 64
+GoWhile 1 999999</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,76 @@
+<Root>
+  <DefaultMacro>
+    <Major>Error_420</Major>
+    <Description>Данный макрос позволяет совершить глич: пропустить касцену создания персонажа и продолжить играть за безымянного персонажа, тем самым получив 45 полу-бесплатных характеристик. 
+Для реализации необходимо:
+1. Проверить назначение клавиш: открытие меню на B (b), взаимодействие на E (e англ.).
+2. Стать на вторую ступеньку лестницы у входа в междумирье (как можно дальше, по возможности с максимально отвёрнутой моделькой персонажа в противоположную сторону от двери)
+3. Запустить макрос (по окончании его работы вы окажетесь в меню)
+4. Снова зайти в игру (если всё в порядке, то, когда будете заходить в мир дверь распахнётся и закроется. Если с дверью ничего не произошло, значит необходимо поставить персонажа ещё чуть дальше от двери)
+5. Повторить все пункты (после этого, когда зайдёте в мир - дверь будет открыта. Приятной игры!)
+Если вдруг что-то не получится или не совсем понятно объяснил, советую для наглядности посмотреть вот этот видеоролик: https://www.youtube.com/watch?v=_s1qurXaIf4&amp;list=LL&amp;index=11 тайм код 4:16.
+</Description>
+    <Comment>Идея не моя, однако, готовой реализации я нигде не нашёл. На создание этого макроса было потрачено много усилий, думаю он может кому-то пригодиться и здорово сэкономить время, силы, а также обеспечить новый опыт игры.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 2021 ms
+KeyDown 8 1
+Delay 21 ms
+KeyUp 8 1
+Delay 21 ms
+KeyDown 5 1
+Delay 21 ms
+KeyUp 5 1
+Delay 21 ms
+KeyDown 80 1
+Delay 21 ms
+KeyUp 80 1
+Delay 21 ms
+KeyDown 82 1
+Delay 21 ms
+KeyUp 82 1
+Delay 21 ms
+KeyDown 8 1
+Delay 21 ms
+KeyUp 8 1
+Delay 200 ms
+KeyDown 80 1
+Delay 21 ms
+KeyUp 80 1
+Delay 21 ms
+KeyDown 8 1
+Delay 21 ms
+KeyUp 8 1
+Delay 1250 ms
+KeyDown 5 1
+Delay 21 ms
+KeyUp 5 1
+Delay 21 ms
+KeyDown 5 1
+Delay 21 ms
+KeyUp 5 1
+Delay 21 ms
+KeyDown 5 1
+Delay 21 ms
+KeyUp 5 1
+Delay 21 ms
+KeyDown 5 1
+Delay 21 ms
+KeyUp 5 1
+Delay 21 ms
+KeyDown 5 1
+Delay 21 ms
+KeyUp 5 1
+Delay 21 ms
+KeyDown 5 1
+Delay 21 ms
+KeyUp 5 1</Syntax>
+    </KeyDown>
+    <Software>Dark Souls Remastered</Software>
+  </DefaultMacro>
+</Root>

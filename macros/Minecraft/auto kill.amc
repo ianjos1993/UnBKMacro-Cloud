@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Удобный макрос который будет прописывать /kill чтобы быстро тпнутся на спавн либо отрегенить хп и голод, можно использовать на разных серверах по питу VimeWorld, HolyWrold и других, работает на любых разширениях экрана</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 35
+KeyUp 56 1
+Delay 35
+KeyDown 14 1
+Delay 35
+KeyUp 14 1
+Delay 35
+KeyDown 12 1
+Delay 35
+KeyUp 12 1
+Delay 35
+KeyDown 15 1
+Delay 35
+KeyUp 15 1
+Delay 35
+KeyDown 15 1
+Delay 35
+KeyUp 15 1
+Delay 35
+KeyDown 88 1
+Delay 35
+KeyUp 88 1
+Delay 35</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

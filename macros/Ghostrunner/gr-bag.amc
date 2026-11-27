@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major>GR SPEEDBUG</Major>
+    <Description>Название: [Ghostrunner] DJS Fast Dash (130ms/20ms) — lostacadimes
+Описание:
+Классический макрос на DJS (Dash-Jump-Slide). Позволяет выполнять быстрый рывок с последующим прыжком и подкатом для сохранения инерции.
+Особенности:
+Тайминги: 130ms (рывок) и 20ms (прыжок/подкат).
+Настройка: Никаких специальных биндов внутри игры не требуется, используйте стандартные клавиши.
+FPS: Оптимизировано для игры при 100+ кадрах в секунду.
+Клавиши: В программе макрос рекомендуется ставить на колесико или q.
+Инструкция:
+Просто установите макрос на нужную кнопку в Keyran и активируйте в игре. Идеально подходит для быстрого прохождения уровней и спидранов.
+Автор: lostacadimes</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 10 ms
+KeyUp 225 1
+Delay 130 ms
+KeyDown 224 1
+Delay 20 ms
+KeyDown 44 1
+Delay 20 ms
+Delay 64
+KeyUp 224 1
+Delay 64
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>ghostrunner</Software>
+  </DefaultMacro>
+</Root>

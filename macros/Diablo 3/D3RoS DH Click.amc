@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major>Макрос для ДХ Шестерни (настакивание импульса)</Major>
+    <Description>Биндите на удобною для Вас кнопку, и запускаете макрос, позволяет поддерживать стаки импульса одной кнопкой, по желанию можно зациклить макрос, но в таком случае потеряется скорость + не будет возможности взаимодействовать с предметами/нпс.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 136 ms
+LeftDown 1
+Delay 167 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Diablo 3</Software>
+  </DefaultMacro>
+</Root>

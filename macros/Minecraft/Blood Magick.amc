@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major>Blood Magick Mod</Major>
+    <Description>Удобная штука для фарма крови в АФК. Время задержки настройте под свой алтарь. Просто нажмите Правый Alt и наслаждайтесь потоками крови, плиток или чего вы там ещё хотите</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 1500 ms
+RightUp 1
+Delay 10 s
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,83 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>прожемает в правельной ротации бафы авианосца.
+бафы должны быть назначены на кнопки 3 (урон), 4(скорость), 5(броня) в противном случии макрос будет не корректно работать.
+Макрос зацыкливается и с точностью до секунды прожемает бафы.</Description>
+    <Comment>Данный макрос нужен для того  чтобы бафы меньше потребляли энергии(на овтоюзе бафы слишком часто прожемаются)</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 64
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 64
+varE = 8
+varF = 10
+varG = 12
+if varE == 0 Goto 36
+if varF == 0 Goto 46
+if varG == 0 Goto 56
+Delay 966 ms
+varE = varE - 1
+varF = varF - 1
+varG = varG - 1
+Goto 28
+KeyDown 32 1
+Delay 80 ms
+KeyUp 32 1
+Delay 80 ms
+KeyDown 32 1
+Delay 80 ms
+KeyUp 32 1
+Delay 80 ms
+varE = 8
+Goto 28
+KeyDown 33 1
+Delay 80 ms
+KeyUp 33 1
+Delay 80 ms
+KeyDown 33 1
+Delay 80 ms
+KeyUp 33 1
+Delay 80 ms
+varF = 10
+Goto 28
+KeyDown 34 1
+Delay 80 ms
+KeyUp 34 1
+Delay 80 ms
+KeyDown 34 1
+Delay 80 ms
+KeyUp 34 1
+Delay 80 ms
+varG = 12
+Goto 28</Syntax>
+    </KeyDown>
+    <Software>Battlestar Galactica Online</Software>
+  </DefaultMacro>
+</Root>

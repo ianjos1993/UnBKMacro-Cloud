@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Инвок дает хекс прожимает алакрити дает кулл снеп затем бросает метеор и с верху бласт
+должно быть включенное "умное нажатие на себя через альт"
+хекс должен быть в ячейке (пробел)
+должен стоять алакрити на (F) и кулл снеп на (D)
+ должна быть включина функция быстрого применения
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 226 1
+KeyDown 26 1
+KeyUp 26 1
+KeyUp 226 1
+KeyDown 20 1
+KeyUp 20 1
+KeyDown 8 1
+KeyUp 8 1
+KeyDown 8 1
+KeyUp 8 1
+KeyDown 26 1
+KeyUp 26 1
+KeyDown 21 1
+KeyUp 21 1
+KeyDown 7 1
+KeyUp 7 1
+KeyDown 20 1
+KeyUp 20 1
+KeyDown 21 1
+KeyUp 21 1
+KeyDown 7 1
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

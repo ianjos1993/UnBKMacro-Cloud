@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>просто автосетка на мипо, биндим на кнопку и всё. Работает отлично, всё в тайминг, чтоб отменить, снова нажми кнопку бинда</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 100 ms
+KeyUp 20 1
+Delay 100 ms
+KeyDown 43 1
+Delay 100 ms
+KeyUp 43 1
+Delay 1400 ms
+KeyDown 20 1
+Delay 100 ms
+KeyUp 20 1
+Delay 100 ms
+KeyDown 43 1
+Delay 100 ms
+KeyUp 43 1
+Delay 1400 ms
+KeyDown 20 1
+Delay 100 ms
+KeyUp 20 1
+Delay 100 ms
+KeyDown 43 1
+Delay 100 ms
+KeyUp 43 1
+Delay 1400 ms
+KeyDown 20 1
+Delay 100 ms
+KeyUp 20 1
+Delay 100 ms
+KeyDown 43 1
+Delay 100 ms
+KeyUp 43 1
+Delay 1400 ms</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

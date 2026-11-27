@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major>G3A1 (Full)</Major>
+    <Description>0.47 Отдача 0.15 Горизонтальная отдача 90FOV
+разрешение 1920x1080
+39% sens 74% sens в прицеле
+Значительное уменьшение отдачи, не рекомендую пытаться доделывать до идеального зажима в точку, возможен бан</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 25 35 ms
+MoveR 0 9
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

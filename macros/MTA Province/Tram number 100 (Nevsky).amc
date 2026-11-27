@@ -1,0 +1,244 @@
+<Root>
+  <DefaultMacro>
+    <Major>Трамвай №100 (Невский)</Major>
+    <Description>Трамвай №100 (Невский)
+Маршрут полностью автоматизирован. После включения скрипта вам вообще ничего не нужно делать до самого конца рейса.
+1) Инструкция по запуску:
+Подготовка: Как только зайдёте в кабину, самостоятельно нажмите дважды клавишу L для активации фар и один раз клавишу K для включения освещения внутри салона.
+2) Позиция: Подгоните трамвай к первому светофору и встаньте к нему максимально вплотную.
+3) Старт: Дождитесь, пока на светофоре загорится зелёный свет, и сразу активируйте макрос. Далее система сама проедет весь маршрут.
+4) Повтор: Ваша задача после завершения круга — снова подогнать трамвай к начальному светофору и повторить запуск.
+Важные примечания:
+*Внимание к администрации: Обязательно поглядывайте в чат во время поездки. /Администрация сервера в любой момент может задать вопросы (проверка на бота)/ — вы должны самостоятельно ответить им, что вы здесь и вы не бот.
+*Дистанция: Перед вами на путях не должно быть другого трамвая. Лучше пропустите идущий впереди состав на пару остановок вперёд, чтобы не врезаться в него. Иначе макрос может сбиться с таймингов маршрута и перестанет доезжать до остановок.
+Всем удачного и легкого фарма! :]</Description>
+    <Comment>Трамвай №100 (Невский)
+Маршрут полностью автоматизирован. После включения скрипта вам вообще ничего не нужно делать до самого конца рейса.
+1) Инструкция по запуску:
+Подготовка: Как только зайдёте в кабину, самостоятельно нажмите дважды клавишу L для активации фар и один раз клавишу K для включения освещения внутри салона.
+2) Позиция: Подгоните трамвай к первому светофору и встаньте к нему максимально вплотную.
+3) Старт: Дождитесь, пока на светофоре загорится зелёный свет, и сразу активируйте макрос. Далее система сама проедет весь маршрут.
+4) Повтор: Ваша задача после завершения круга — снова подогнать трамвай к начальному светофору и повторить запуск.
+Важные примечания:
+Внимание к администрации: Обязательно поглядывайте в чат во время поездки. *Администрация сервера в любой момент может задать вопросы (проверка на бота) — вы должны самостоятельно ответить им, что вы здесь и вы не бот.
+*Дистанция: Перед вами на путях не должно быть другого трамвая. Лучше пропустите идущий впереди состав на пару остановок вперёд, чтобы не врезаться в него. Иначе макрос может сбиться с таймингов маршрута и перестанет доезжать до остановок.
+Всем удачного и легкого фарма! :]</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 10991 ms
+KeyUp 26 1
+Delay 8 ms
+KeyDown 22 1
+Delay 1160 ms
+KeyUp 22 1
+Delay 295 ms
+KeyDown 26 1
+Delay 768 ms
+KeyUp 26 1
+Delay 1119 ms
+KeyDown 22 1
+Delay 2584 ms
+KeyUp 22 1
+Delay 79 ms
+KeyDown 26 1
+Delay 80 ms
+KeyUp 26 1
+Delay 503 ms
+KeyDown 31 1
+Delay 120 ms
+KeyUp 31 1
+Delay 5495 ms
+KeyDown 31 1
+Delay 120 ms
+KeyUp 31 1
+Delay 375 ms
+KeyDown 26 1
+Delay 35175 ms
+KeyUp 26 1
+Delay 80 ms
+KeyDown 22 1
+Delay 2671 ms
+KeyUp 22 1
+Delay 3136 ms
+KeyDown 22 1
+Delay 5175 ms
+KeyUp 22 1
+Delay 1240 ms
+KeyDown 31 1
+Delay 159 ms
+KeyUp 31 1
+Delay 6120 ms
+KeyDown 31 1
+Delay 103 ms
+KeyUp 31 1
+Delay 352 ms
+KeyDown 26 1
+Delay 33744 ms
+KeyUp 26 1
+Delay 111 ms
+KeyDown 22 1
+Delay 3935 ms
+KeyUp 22 1
+Delay 2960 ms
+KeyDown 22 1
+Delay 607 ms
+KeyUp 22 1
+Delay 1840 ms
+KeyDown 22 1
+Delay 567 ms
+KeyUp 22 1
+Delay 127 ms
+KeyDown 26 1
+Delay 12023 ms
+KeyDown 22 1
+Delay 39 ms
+KeyUp 26 1
+Delay 3064 ms
+KeyUp 22 1
+Delay 2584 ms
+KeyDown 22 1
+Delay 2687 ms
+KeyUp 22 1
+Delay 391 ms
+KeyDown 26 1
+Delay 87 ms
+KeyUp 26 1
+Delay 728 ms
+KeyDown 31 1
+Delay 105 ms
+KeyUp 31 1
+Delay 5503 ms
+KeyDown 31 1
+Delay 111 ms
+KeyUp 31 1
+Delay 304 ms
+KeyDown 26 1
+Delay 15695 ms
+KeyDown 22 1
+Delay 111 ms
+KeyUp 26 1
+Delay 960 ms
+KeyUp 22 1
+Delay 1776 ms
+KeyDown 22 1
+Delay 2248 ms
+KeyUp 22 1
+Delay 927 ms
+KeyDown 22 1
+Delay 1376 ms
+KeyUp 22 1
+Delay 239 ms
+KeyDown 26 1
+Delay 88 ms
+KeyUp 26 1
+Delay 608 ms
+KeyDown 31 1
+Delay 127 ms
+KeyUp 31 1
+Delay 5471 ms
+KeyDown 31 1
+Delay 135 ms
+KeyUp 31 1
+Delay 335 ms
+KeyDown 26 1
+Delay 14511 ms
+KeyUp 26 1
+Delay 48 ms
+KeyDown 22 1
+Delay 703 ms
+KeyUp 22 1
+Delay 16 ms
+KeyDown 26 1
+Delay 25864 ms
+KeyUp 26 1
+Delay 31 ms
+KeyDown 22 1
+Delay 2855 ms
+KeyUp 22 1
+Delay 2808 ms
+KeyDown 26 1
+Delay 368 ms
+KeyUp 26 1
+Delay 447 ms
+KeyDown 26 1
+Delay 199 ms
+KeyUp 26 1
+Delay 1768 ms
+KeyDown 22 1
+Delay 736 ms
+KeyUp 22 1
+Delay 1375 ms
+KeyDown 22 1
+Delay 4343 ms
+KeyUp 22 1
+Delay 129 ms
+KeyDown 26 1
+Delay 119 ms
+KeyUp 26 1
+Delay 599 ms
+KeyDown 31 1
+Delay 168 ms
+KeyUp 31 1
+Delay 5432 ms
+KeyDown 31 1
+Delay 143 ms
+KeyUp 31 1
+Delay 440 ms
+KeyDown 26 1
+Delay 33575 ms
+KeyDown 22 1
+Delay 7 ms
+KeyUp 26 1
+Delay 2111 ms
+KeyUp 22 1
+Delay 1616 ms
+KeyDown 22 1
+Delay 575 ms
+KeyUp 22 1
+Delay 4384 ms
+KeyDown 22 1
+Delay 5080 ms
+KeyUp 22 1
+Delay 47 ms
+KeyDown 26 1
+Delay 128 ms
+KeyUp 26 1
+Delay 720 ms
+KeyDown 31 1
+Delay 144 ms
+KeyUp 31 1
+Delay 5552 ms
+KeyDown 31 1
+Delay 128 ms
+KeyUp 31 1
+Delay 271 ms
+KeyDown 26 1
+Delay 5664 ms
+KeyUp 26 1
+Delay 143 ms
+KeyDown 22 1
+Delay 640 ms
+KeyUp 22 1
+Delay 64 ms
+KeyDown 22 1
+Delay 256 ms
+KeyUp 22 1
+Delay 1655 ms
+KeyDown 22 1
+Delay 912 ms
+KeyUp 22 1
+Delay 9367 ms
+KeyDown 26 1
+Delay 32975 ms
+KeyUp 26 1
+Delay 2719 ms</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

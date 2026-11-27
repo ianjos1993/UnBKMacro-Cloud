@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>Avto WallHop</Major>
+    <Description>Этот макрос создан для прыганье по стенам. Для этого вам нужно всего лишь зажать кнопку на которую вы забиндили свой макрос и зажать W и ваш персонаж будет автоматический прыгать и поворачивать камерой. Макрос работает практический на всех разрешениях экрана и сенсе, но я проверял его на разрешении 1980х1980 сенса 0.3. Для удобства используйте полноэкранный режим что бы не было погрешностей. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 250 ms
+MoveTo -200 0
+Delay 50 ms
+MoveTo -400 0
+Delay 50 ms
+MoveTo -600 0</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

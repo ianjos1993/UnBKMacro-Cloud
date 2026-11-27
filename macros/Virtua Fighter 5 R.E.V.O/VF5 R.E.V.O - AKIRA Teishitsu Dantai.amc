@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>Teishitsu Dantai</Major>
+    <Description>ВАЖНО: Данный макрос предназначен для игры на клавиатуре с раскладкой как в Dead Or ALive 5, где так же есть Акира и у него есть тот же мув.
+
+РАСКЛАДКА:
+P - Punch(Рука), K - Kick(Нога), G - Guard(Блок)
+P = K
+K = L
+G = J
+P+K = U
+P+G = M
+K+G = O
+P+K+G = SPACE
+
+Легендарный, невоспроизводимый Teishitsu Dantai =) Сколько бы я не игрался с таймингами, не выходит добиться воспроизведения этого движения в 10 из 10 случаев. Данные тайминги дают наилучший результат, в районе 8 из 10 раз.
+На результат влияет: Скачки FPS + пинги +  буфер инпута и в связи с этим бывают фейлы. В любом случае эта клятая коленка идеальный панишер выводящий на невероятно дамажные комбо + деморализует противников, которые пытались хотя бы раз сделать этот прием.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 15 1
+KeyDown 13 1
+Delay 12 ms
+KeyUp 13 1
+Delay 30 ms
+KeyUp 15 1</Syntax>
+    </KeyDown>
+    <Software>Virtua Fighter 5 R.E.V.O.</Software>
+  </DefaultMacro>
+</Root>

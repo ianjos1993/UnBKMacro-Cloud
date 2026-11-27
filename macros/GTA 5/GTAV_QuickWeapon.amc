@@ -1,0 +1,48 @@
+<Root>
+  <!-- by Britan -->
+  <DefaultMacro>
+    <Major></Major>
+    <Description>НАЗВАНИЕ: GTA V Quick Weapon. ОПИСАНИЕ: Быстрое циклическое переключение оружия по всем слотам от 1 до 8. Позволяет моментально найти нужное оружие во время гонки или перестрелки. РЕКОМЕНДУЕМАЯ КЛАВИША: Mouse 4 (боковая кнопка мыши). КАК ИСПОЛЬЗОВАТЬ: Привяжи макрос на кнопку Mouse 4. Во время игры зажми кнопку - оружие будет автоматически переключаться по слотам 1-&gt;2-&gt;3-&gt;4-&gt;5-&gt;6-&gt;7-&gt;8. Когда нужное оружие активировалось - отпусти кнопку. Макрос остановится на текущем слоте. Работает в GTA V Online и Story Mode. НАСТРОЙка: Если нужно меньше слотов - убери лишние строки KeyDown/Delay/KeyUp из кода. АВТОР: by Britan. ЗАПРЕЩЕНО копировать без указания автора.</Description>
+    <Comment>Привязка: Mouse 4 (боковая кнопка). Режим: повторяется пока зажата. Инструкция: зажми для циклического переключения 1-8, отпусти когда нужное оружие.</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 49 1
+Delay 30 ms
+KeyUp 49 1
+Delay 15 ms
+KeyDown 50 1
+Delay 30 ms
+KeyUp 50 1
+Delay 15 ms
+KeyDown 51 1
+Delay 30 ms
+KeyUp 51 1
+Delay 15 ms
+KeyDown 52 1
+Delay 30 ms
+KeyUp 52 1
+Delay 15 ms
+KeyDown 53 1
+Delay 30 ms
+KeyUp 53 1
+Delay 15 ms
+KeyDown 54 1
+Delay 30 ms
+KeyUp 54 1
+Delay 15 ms
+KeyDown 55 1
+Delay 30 ms
+KeyUp 55 1
+Delay 15 ms
+KeyDown 56 1
+Delay 30 ms
+KeyUp 56 1</Syntax>
+    </KeyDown>
+    <Software>GTA V</Software>
+  </DefaultMacro>
+</Root>

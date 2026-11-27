@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>1.Установить
+2.Привязать к левой мыши
+3.Наслаждаться
+
+Вторая версия моего макроса, где я выставил более рандомные задержки чтобы обезопаситься от бана
+Я тестировал при 1440 x 1080, dpi 1100. Чувствительность 2.8. 1x 1.0, 2x 0.9 3x 0.8 4x 0.8</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR -6 6
+Delay 8 14 ms
+MoveR 6 -6
+Delay 8 14 ms
+MoveR -6 6
+Delay 6 12 ms
+MoveR 6 -6
+Delay 8 13 ms
+Goto 2</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

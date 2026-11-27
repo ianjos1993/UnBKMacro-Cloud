@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>nyx one shot</Major>
+    <Description>just basic nyx combos after ulti and first skill, kept first skill separate due to its knockup. it makes harder to keep the mouse point on target. keep ethereal blade on 4 and dagon on 3. quick cast is must!
+
+combo goes like reach target while in vendetta- hit the target- use 1st skill- then tap your your keybind for combo-
+which is ethereal balde- dagon- 2nd skill</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 33 1
+Delay 200 ms
+KeyUp 33 1
+Delay 200 ms
+KeyDown 32 1
+Delay 200 ms
+KeyUp 32 1
+Delay 200 ms
+KeyDown 26 1
+Delay 200 ms
+KeyUp 26 1
+Delay 200 ms</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

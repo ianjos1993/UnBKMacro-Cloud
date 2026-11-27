@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Macro for Spamming Magnus Exorcismus every 6 seconds. It can be modified for another skills, such as Sanctuary or Coluseo Heal.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 58 1
+Delay 30 ms
+KeyUp 58 1
+Delay 15 ms
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 6 s
+GoWhile 1 1000</Syntax>
+    </KeyDown>
+    <Software>Ragnarok</Software>
+  </DefaultMacro>
+</Root>

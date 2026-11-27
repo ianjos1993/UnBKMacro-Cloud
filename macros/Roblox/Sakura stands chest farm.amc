@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>совершает  комбо лучшее на данный момент на midknight на 500+ урона, подходит для убийства джотаро дио дэку и в пвп против игроков 
+разрешение экрана: 1920x1080 </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 750 ms
+KeyUp 8 1
+KeyDown 14 1
+KeyUp 14 1
+MoveTo 812 989
+Delay 250 ms
+LeftDown 1
+LeftUp 1
+MoveTo 1109 986
+Delay 64 ms
+LeftDown 1
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

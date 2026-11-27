@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>SmileFloodVK</Major>
+    <Description>Флудит смайликами вконтакте. Потралльте друга или личку группы вк.
+1. Капчи нет из-за таймера в 60 сек.
+2. Работает только с монитором 1920х1080</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1103 827
+Delay 1 s
+MoveTo 868 564
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+GoWhile 1 19
+Delay 1 min
+Goto 1
+//1 Строка отвечает за наведения курсора на меню выбора смайликов
+//3 строка отвечает за наведение курсора на самый верхний смайлик.</Syntax>
+    </KeyDown>
+    <Software>Вконтакте</Software>
+  </DefaultMacro>
+</Root>

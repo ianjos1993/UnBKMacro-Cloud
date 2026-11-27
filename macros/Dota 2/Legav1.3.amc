@@ -1,0 +1,53 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Это скрипт на легионку
+Порядок выполнения действий:
+1. Активирует второи скилл
+2.Space- там должен быть блинк
+3. Активирует первый предмет(колёса мыши вверх')
+4. Активирует второй предмет (Буква 'С',)
+5. и первый скилл
+Эти дойствий выполняются за 0.5с., так что ваша цель от вас не убежит : )</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 5 ms
+KeyUp 8 1
+Delay 5 ms
+KeyDown 44 1
+Delay 5 ms
+KeyUp 44 1
+Delay 5 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+WheelUp 1
+Delay 5 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+KeyDown 6 1
+Delay 5 ms
+KeyUp 6 1
+Delay 5 ms
+KeyDown 20 1
+Delay 5 ms
+KeyUp 20 1
+Delay 5 ms
+KeyDown 21 1
+Delay 5 ms
+KeyUp 21 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

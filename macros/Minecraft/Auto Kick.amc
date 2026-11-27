@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Приветствую всех вновь.Я решил написать макрос,который автоматически будет кикать любого игрока сервера.Данный макрос пригодится для модерации и администрации разных проектов.Макрос пишет команду /kick.После того как макрос напишет эту часть команды,то вам будет необходимо написать ник игрока которого вы хотите кикнуть,а после нажать Enter.
+
+Инструкция по настройке:
+1)Скачиваете данный макрос ниже на свое устройство.
+2)Запускаете панель управления Keyran.
+3)Выбираете любую удобную для вас клавишу или кнопку мыши
+4)Назначаете макрос.
+5)Нажимаете сохранить и в дальнейшем используете.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 32 ms
+KeyUp 56 1
+Delay 32 ms
+KeyDown 14 1
+Delay 32 ms
+KeyUp 14 1
+Delay 32 ms
+KeyDown 12 1
+Delay 32 ms
+KeyUp 12 1
+Delay 32 ms
+KeyDown 6 1
+Delay 32 ms
+KeyUp 6 1
+Delay 32 ms
+KeyDown 14 1
+Delay 32 ms
+KeyUp 14 1
+Delay 32 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

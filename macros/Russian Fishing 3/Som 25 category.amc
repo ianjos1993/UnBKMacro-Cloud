@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>После получения 25 разряда, появляется возможность ловли Сома на Урале. Покупаем Lock Fish Поплавочку на 400кг и Классическую катушку Rainstar на 100 мощности и леску на 350кг. Закидываем в ямки на 6.17 и 6.92. В качестве приманки используем Лягушку для больших сомов и кусочки мяса для средних. Сом хорошо будет идти с вечера до утра. Днём можно наловить лягушек! Всем НХНЧ!
+
+Назначаем на удобную кнопку макросс и уже после подсечки рыбы (пробел) жмём непрерывно назначенную нами кнопку макроса.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+Delay 170 ms
+KeyUp 10 1
+KeyDown 11 1
+Delay 100 ms
+KeyUp 11 1
+SayString </Syntax>
+    </KeyDown>
+    <Software>Russian Fishing 3</Software>
+  </DefaultMacro>
+</Root>

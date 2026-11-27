@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Моментальная смена скила на ботинках. Разрешение экрана 1930х1080. Данный скил позволит перед битвой максимально без затрат времени переставится на более подходящий скил ботинок на определенной сетуации. Макрос ставит ботинки на 3 скилл.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 70 ms
+KeyDown 25 1
+Delay 86 ms
+KeyUp 25 1
+Delay 55 ms
+MoveTo 1722 349
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+MoveTo 987 480
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+KeyDown 25 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Albion Online</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major>ATEpast</Major>
+    <Description>Макрос для мыши который позволит моментально бросать эндер-жемчуг
+Что-бы макрос работал отлично эндер-жемчуг нужно положить в 1 слот хотбара, а оружие во 2 слот, что-бы можно было кинуть жемчуг и продолжать вести бой с противником
+
+P.S либо что-бы Эндер-жемчуг лежал перед мечём
+
+                           О - Эндер жемчуг; X - Оружие
+
+| О | X  |    |    |    |    |    |    |    | - 1-й пример инвентаря 
+
+|    |     |    |    |    |    |    | О | X | - 2-й пример инвентаря 
+
+|    |     |    | О | X |    |    |    |    | - 3-й пример инвентаря </Description>
+    <Comment>Макрос для мышы который позволит моментально бросать эндер-жемчуг</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>WheelUp 1
+Delay 20
+RightDown 1
+Delay 20 ms
+RightUp 1
+Delay 30 ms
+WheelDown 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

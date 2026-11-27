@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для любого ножа, в настрах игры надо поменять местами ПКМ И ЛКМ
+Макрос делает смену, так же очень мало осечек с гранатой и прочеми траблами.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 34 1
+Delay 5 ms
+Delay 5 ms
+KeyDown 32 1
+Delay 5 ms
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

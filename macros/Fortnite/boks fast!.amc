@@ -1,0 +1,60 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Название: Авто бокс (G + C)
+Описание: Быстрый авто-бокс для Fortnite.
+Одной кнопкой ставит защитный бокс.
+Бинды (обязательно поставь в игре):
+•  Стена — G
+•  Пол / Потолок — C
+Макрос рассчитан на турбо-билд. Просто зажми кнопку, на которую повесил макрос — он сам прожмёт нужные клавиши с оптимальными задержками.
+Работает на любой мышке и клавиатуре.
+Рекомендую DPI 400–800 и чувствительность 0.05–0.08 для максимальной точности.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyUp 10 1
+Delay 5 ms
+KeyUp 10 1
+Delay 5 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+KeyDown 10 1
+Delay 5 ms
+KeyUp 10 1
+Delay 5 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+KeyDown 10 1
+Delay 5 ms
+KeyUp 10 1
+Delay 5 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+KeyDown 29 1
+Delay 5 ms
+KeyUp 29 1
+Delay 5 ms
+KeyDown 6 1
+Delay 5 ms
+KeyUp 6 1
+Delay 5 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major>Бесконечная ходьба</Major>
+    <Description>Данный макрос зажимает кнопку w и Shift  что делает некоторые проффесии на сервере более легче. Можно исользовать на заводе ЖБК, Шахте, и на Лесопилке</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 99999 s
+KeyUp 26 1
+Delay 1 s</Syntax>
+    </KeyDown>
+    <Software>Multi Theft Auto (MTA)</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Файл макрос из моего ролика который я обещал слить )этот макрос предназначен для быстрого ломания окон и отмены анимации удара. Разрешение экрана можно подбирать под себя * удалив пункт переместить курсор и сделать перемещение под себя. Данный макрос очень помогает в разбиваниии окон и е сли вожатыйй пригнет в окно то вы сможете разбить окно , а вожатый при этом получит не большой урон.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+Delay 10
+KeyUp 6 1
+MoveR 1 -24
+Delay 10
+LeftDown 1
+Delay 10
+Delay 10
+LeftUp 1
+RightDown 1
+RightUp 1
+Delay 10
+Delay 10
+Delay 10
+KeyDown 6 1
+Delay 10
+Delay 10
+MoveTo 1284 712
+Delay 10
+KeyDown 26 1
+Delay 10
+KeyUp 26 1
+Delay 10
+KeyDown 6 1
+Delay 10
+KeyUp 6 1
+Delay 10
+LeftDown 1
+Delay 10
+LeftUp 1
+Delay 10
+KeyDown 44 1
+Delay 10
+KeyUp 44 1
+Delay 10</Syntax>
+    </KeyDown>
+    <Software>Friday the 13th: The Game</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простой макрос для серверов с модом на раков.
+Если на сервере изменено время добычи, измените с 5 сек на цифру которая вам подходит.
+Для включения советую цифру 1.
+И не забываем что при фарме раков нужно менять перчатки,так что уйти на долго не получится,такая же суть что и с рыбалкой где нужно менять крючки!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+LeftDown 1
+Delay 5 s
+LeftUp 1
+Delay 1 s
+GoWhile 1 100
+KeyUp 30 1</Syntax>
+    </KeyDown>
+    <Software>DayZ</Software>
+  </DefaultMacro>
+</Root>

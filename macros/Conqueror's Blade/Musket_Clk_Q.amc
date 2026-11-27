@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Для класса "Мушкет": Обычная атака + картечь. Скил "Картечь" должен быть назначен на клавишу Q. Макрос сделает это бьыстрее чем человек.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 20 ms
+LeftUp 1
+Delay 40 ms
+KeyDown 20 1
+Delay 30 ms
+KeyUp 20 1
+Delay 0 ms</Syntax>
+    </KeyDown>
+    <Software>Conqouers blade</Software>
+  </DefaultMacro>
+</Root>

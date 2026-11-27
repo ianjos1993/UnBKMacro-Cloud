@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>                                          Скрипт создан для Таксистов на сервере MTA Province.
+Запускаем Kayran после чего выбераем нужную вам клавишу на которую вы хотите чтобы активировался макрос.Потом заходим в провинцию и нажимает ету клавишу.
+
+
+
+
+                                                                Удачного использования!</Description>
+    <Comment>https://botmek.com - Free macros download</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 810 465
+LeftDown 1
+Delay 65 ms
+LeftUp 1
+Delay 65 ms
+MoveTo 821 760
+Delay 10 ms
+LeftDown 1
+Delay 126 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

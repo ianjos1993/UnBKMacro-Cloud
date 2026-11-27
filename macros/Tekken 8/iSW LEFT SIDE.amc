@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>King's Perfect Shining Wizard  (LEFT SIDE)</Major>
+    <Description>This is a macro for King's Iconic perfect shining wizard throw, which is great as it is one of king's best throws in Tekken 8. This script works with a high probability of successful triggers, giving you an advantage in battle. To set up the macro correctly, follow the steps for key binding:
+
+Go to Controller Setup on Tekken 8:
+L = Square + Triangle / X + Y / 1+2 Input
+
+Make sure the "L" input is correctly setup otherwise it will not work! This macro is designed to input King's Perfect Shining Wizard in close range! This macro only works on the left side,</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 15 ms
+KeyUp 7 1
+Delay 15 ms
+KeyDown 7 1
+Delay 15 ms
+KeyUp 7 1
+Delay 15 ms
+KeyDown 7 1
+Delay 15 ms
+KeyDown 15 1
+Delay 20 ms
+KeyUp 15 1
+KeyUp 7 1
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

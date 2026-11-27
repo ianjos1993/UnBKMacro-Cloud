@@ -1,0 +1,55 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>/lock 1 для радмира 
+
+/lock 1 for ramdir rp
+
+Доработаный лок для радмира, позже выпущу еще пару макросов с командами для него</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 2 ms
+KeyUp 23 1
+KeyDown 56 1
+Delay 2 ms
+KeyUp 56 1
+Delay 2 ms
+KeyDown 15 1
+Delay 2 ms
+KeyUp 15 1
+Delay 2 ms
+KeyDown 18 1
+Delay 2 ms
+KeyUp 18 1
+Delay 2 ms
+KeyDown 6 1
+Delay 2 ms
+KeyUp 6 1
+Delay 2 ms
+KeyDown 14 1
+Delay 2 ms
+KeyUp 14 1
+Delay 2 ms
+KeyDown 44 1
+Delay 2 ms
+KeyUp 44 1
+Delay 2 ms
+KeyDown 30 1
+Delay 2 ms
+KeyUp 30 1
+Delay 2 ms
+KeyDown 40 1
+Delay 2 ms
+KeyUp 40 1
+Delay 2 ms</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

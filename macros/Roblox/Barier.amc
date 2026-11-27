@@ -1,0 +1,62 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос предназначен для фарма уровней на фрукте БАРЬЕР 
+
+Вопросы которые вы можете задать:
+
+Зачем мне прокачивать левел на барьере---При получение 100-го уровня вы получите титул и кристал про прокрутку фруктов так же в сумме 100 уровней дают 2000 кристалов 
+
+Почему мне скачивать именно твой макрос---Я не знаю, наверно вы можете найти другие макросы на барьер</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+
+/00\
+ | w| </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 700
+LeftUp 1
+Delay 700
+KeyDown 30 1
+Delay 700
+KeyUp 30 1
+Delay 700
+LeftDown 1
+Delay 700
+LeftUp 1
+Delay 700
+KeyDown 31 1
+Delay 700
+KeyUp 31 1
+Delay 700
+LeftDown 1
+Delay 700
+LeftUp 1
+Delay 700
+KeyDown 32 1
+Delay 700
+KeyUp 32 1
+Delay 700
+LeftDown 1
+Delay 700
+LeftUp 1
+Delay 700
+KeyDown 33 1
+Delay 700
+KeyUp 33 1
+Delay 700
+LeftDown 1
+Delay 700
+LeftUp 1
+Delay 7 s
+GoWhile 1 1000</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

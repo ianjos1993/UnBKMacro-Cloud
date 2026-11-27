@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Биндить на Space, при нажатии на пробел активируется Space+Ctrl, и происходит буст. Полезно в ПВП,каптах и т.д</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 34 ms
+KeyDown 44 1
+Delay 0 ms
+KeyDown 224 1
+Delay 145 ms
+KeyUp 44 1
+Delay 1 ms
+KeyUp 224 1</Syntax>
+    </KeyDown>
+    <Software>Gorebox</Software>
+  </DefaultMacro>
+</Root>

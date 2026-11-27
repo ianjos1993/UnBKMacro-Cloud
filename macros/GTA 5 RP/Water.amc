@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>Firefighter Hose Aimlock</Major>
+    <Description>Lazy to hold RMC to hose water on fire area? This script help you Aimlock the water hose at the water without holding RMC. Easy and simple to use.
+When near Truck press H to activate the Aimlock Water Hose and to stop press deactivate.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+KeyDown 11 1
+Delay 180 s
+KeyUp 11 1
+Delay 64
+Delay 180 s
+RightUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

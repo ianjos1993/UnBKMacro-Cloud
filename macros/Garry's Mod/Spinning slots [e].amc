@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос разработан для облегчения процесса кручения слотов в казино в игре Garry's Mod. При активации макроса, он автоматически нажимает клавишу [E], крутя слоты за вас. Обратите внимание, что во время работы макроса вы будете временно ограничены в возможности передвигаться и взаимодействовать с игровым миром, так как ваша активность будет направлена на кручение слотов. Используйте этот макрос ответственно и убедитесь, что его использование не нарушает правила сервера или политику разработчиков игры.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 180 ms
+KeyUp 8 1
+Delay 200 ms
+KeyDown 8 1
+Delay 180 ms
+KeyUp 8 1
+Delay 200 ms
+Goto 1
+GoWhile 1 200000</Syntax>
+    </KeyDown>
+    <Software>Garry´s Mod</Software>
+  </DefaultMacro>
+</Root>

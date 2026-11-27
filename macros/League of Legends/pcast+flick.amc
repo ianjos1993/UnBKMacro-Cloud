@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Прокаст мага Ари с быстым подлетом.
+Навыки бинжены в порядке расположения (снизу вверх), то есть num1, num2, num3, num4.
+Остальное также интуитивно понятно (биндим флик на num5 )
+Действия макроса: Флик - ульт(для урона) - 3 скилл (для доп урона остальных навыков и контроля) - первый - второй - базовая атака. В итоге остаются два заряда ульта для догона и отхода.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 93 1
+Delay 64
+KeyUp 93 1
+Delay 64
+KeyDown 92 1
+Delay 64
+KeyUp 92 1
+Delay 64
+KeyDown 92 1
+Delay 64
+KeyUp 92 1
+Delay 64 ms
+KeyDown 91 1
+Delay 64
+KeyUp 91 1
+Delay 220 ms
+KeyDown 89 1
+Delay 64
+KeyUp 89 1
+Delay 64
+KeyDown 90 1
+Delay 64
+KeyUp 90 1
+Delay 64
+KeyDown 19 1
+Delay 64
+KeyUp 19 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>lol WR Ari(GL)</Software>
+  </DefaultMacro>
+</Root>

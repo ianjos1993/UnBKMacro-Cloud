@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major>Potion of treasure finding macros</Major>
+    <Description>Automatically drinks potion every hour. You can leave your pc with this macros for a long time without worrying about drinking the potion every hour to get loot in Cataclysm zones. Works by pressing it and thats it!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 61 150 ms
+KeyUp 23 1
+Delay 64 150 ms</Syntax>
+    </KeyDown>
+    <Software>World of Warcraft</Software>
+  </DefaultMacro>
+</Root>

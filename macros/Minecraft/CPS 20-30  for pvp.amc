@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для пвп версии 1.8  позволяет улучшить ваш пвп (режим работы пока нажата кнопка/повторному нажатию)
+Макрос делает 20-30 кпс простой и удобный. Стоит рандомная задержка для вашей безопасности
+Удачи в хорошем пвп.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+LeftUp 1
+Delay 10 30 ms
+LeftDown 1
+LeftUp 1
+Delay 10 45 ms
+LeftDown 1
+Delay 20 50 ms
+LeftUp 1
+Delay 38 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>быстрый фастзум на ДВЛ-10 М2, использовать стандартный его прицел,
+входит в зум, после сразу стреляет ровно в точку.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 120 ms
+LeftDown 1
+Delay 45 ms
+RightUp 1
+Delay 87 ms
+LeftUp 1
+RightDown 1
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Warface</Software>
+  </DefaultMacro>
+</Root>

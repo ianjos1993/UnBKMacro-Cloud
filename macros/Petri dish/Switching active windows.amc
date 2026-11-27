@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>переклереключает вкладки одной кнопкой вместо нажатия двух кнопок alt+ tab можно нажать просто одну правую кнопку мыши и быстро переключаться с одного активного окна на другое активное окно.  что существенно помогает при игре чашка петри</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 226 1
+Delay 64
+KeyUp 226 1
+Delay 64
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>чашка петри</Software>
+  </DefaultMacro>
+</Root>

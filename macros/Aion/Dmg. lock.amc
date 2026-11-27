@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для вливания огромного импакта в драку на убийце
+
+Принцип работы:Забиндить макрос на клавишу "G" или "П" нажать на клавишу за секунду до файта пойдёт автоматический прокаст скиллов в таргет.
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+KeyUp 10 1
+KeyDown 52 1
+KeyUp 52 1
+KeyDown 33 1
+KeyUp 33 1
+KeyDown 20 1
+KeyUp 20 1
+KeyDown 35 1
+KeyUp 35 1
+KeyDown 21 1
+KeyUp 21 1</Syntax>
+    </KeyDown>
+    <Software>AION</Software>
+  </DefaultMacro>
+</Root>

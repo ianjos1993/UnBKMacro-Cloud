@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Кач на долмене за темплара, 5 скилл хил, 4 скилл масс скилл, 2 скилл веер клинков, на 1,3 и R ставим что хотим прокачать</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 1 s
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 500 ms
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 700 ms
+KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 500 ms
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 4 s</Syntax>
+    </KeyDown>
+    <Software>The Elder Scrolls Online (TESO)</Software>
+  </DefaultMacro>
+</Root>

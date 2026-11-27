@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Double click на пкм, подойдет для строительства или для режима speedbuilders. Рекомендованно забиндить на кнопку mouse5 или mouse4, чтобы скрипт было удобнее использовать. Удачи и спасибо, что используете этот макрос!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 25 ms
+RightUp 1
+Delay 25 ms
+RightDown 1
+Delay 25 ms
+RightUp 1
+Delay 25 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

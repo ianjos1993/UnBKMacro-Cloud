@@ -1,0 +1,56 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос привязываем например к клавише пробел и выбираем "Режим работы" - "Выполнять до повторного нажатия". В игре заходим в "Классические башни", наводим на "Бесконечность" и жмём пробел.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 88 1
+Delay 127 ms
+KeyUp 88 1
+Delay 900 ms
+KeyDown 88 1
+Delay 151 ms
+KeyUp 88 1
+Delay 641 ms
+KeyDown 88 1
+Delay 133 ms
+KeyUp 88 1
+Delay 7030 ms
+KeyDown 88 1
+Delay 109 ms
+KeyUp 88 1
+Delay 5709 ms
+KeyDown 41 1
+Delay 104 ms
+KeyUp 41 1
+Delay 1052 ms
+KeyDown 82 1
+Delay 98 ms
+KeyUp 82 1
+Delay 558 ms
+KeyDown 88 1
+Delay 134 ms
+KeyUp 88 1
+Delay 585 ms
+KeyDown 79 1
+Delay 133 ms
+KeyUp 79 1
+Delay 375 ms
+KeyDown 88 1
+Delay 140 ms
+KeyUp 88 1
+Delay 5054 ms
+KeyDown 88 1
+Delay 122 ms
+KeyUp 88 1
+Delay 1252 ms</Syntax>
+    </KeyDown>
+    <Software>Mortal Kombat 11</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,112 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Комбо с активацией Heat, так же если вы уже активировали Heat и поймали на комбо урона будет больше (70-78)
+Управление 
+W - ВВЕРХ
+A -  ВЛЕВО
+S -  ВНИЗ
+D-  ВПРАВО
+J -  3
+K - 4
+L - 1
+; -  2
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 64
+KeyDown 14 1
+Delay 64
+KeyUp 14 1
+Delay 64
+KeyUp 26 1
+Delay 650 ms
+KeyDown 7 1
+Delay 64
+KeyDown 13 1
+Delay 64
+KeyUp 13 1
+Delay 64
+KeyUp 7 1
+Delay 64
+KeyDown 51 1
+Delay 64
+KeyUp 51 1
+Delay 700 ms
+KeyDown 7 1
+Delay 64
+KeyDown 15 1
+Delay 64
+KeyUp 15 1
+Delay 64
+KeyUp 7 1
+Delay 64
+KeyDown 51 1
+Delay 64
+KeyUp 51 1
+Delay 64
+KeyDown 13 1
+Delay 64
+KeyUp 13 1
+Delay 900 ms
+KeyDown 15 1
+Delay 64
+KeyUp 15 1
+Delay 400 ms
+KeyDown 4 1
+Delay 64
+KeyDown 13 1
+Delay 64
+KeyUp 13 1
+Delay 64
+KeyUp 4 1
+Delay 200 ms
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64
+KeyDown 15 1
+KeyDown 51 1
+Delay 64
+KeyUp 15 1
+KeyUp 51 1
+Delay 64
+KeyDown 7 1
+Delay 64
+KeyDown 13 1
+Delay 64
+KeyUp 13 1
+Delay 64
+KeyUp 7 1
+Delay 580 ms
+KeyDown 19 1
+Delay 64
+KeyUp 19 1
+Delay 1600 ms
+KeyDown 7 1
+Delay 64
+KeyDown 13 1
+Delay 64
+KeyUp 13 1
+Delay 64
+KeyUp 7 1
+Delay 64
+KeyDown 15 1
+Delay 64
+KeyUp 15 1
+Delay 64
+KeyDown 51 1
+Delay 64
+KeyUp 51 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,93 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Комбо на малой дистанции с хорошим стартом, пойдет для наказаний. Однако минус данного стартера в том, что первый удар высокий, можно получить апперкот.
+Пресет:
+Подъем духа
+
+Старт: 11 кадров
+Восстановление: 17
+В блок: -2
+
+Управление:
+1-J
+2-K
+3-L
+4-:
+Захват - U
+AMP - SHIFT
+WASD (Вверх, влево, вниз, вправо)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//Стартер
+KeyDown 15 1
+Delay 20 65 ms
+KeyUp 15 1
+Delay 20 65 ms
+KeyDown 26 1
+Delay 25 ms
+KeyDown 14 1
+Delay 64
+KeyUp 14 1
+Delay 64
+KeyUp 26 1
+Delay 64
+//Захват Ермаком
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64
+KeyDown 13 1
+Delay 64
+KeyUp 13 1
+Delay 600 ms
+//Усиление
+KeyDown 225 1
+Delay 64
+KeyUp 225 1
+Delay 1600 ms
+//Дэш вперед
+KeyDown 4 1
+Delay 20 ms
+KeyUp 4 1
+Delay 20 ms
+KeyDown 4 1
+Delay 20 ms
+KeyUp 4 1
+Delay 375 ms
+//Начало комбы
+KeyDown 14 1
+Delay 64
+KeyUp 14 1
+Delay 64
+KeyDown 13 1
+Delay 64
+KeyUp 13 1
+Delay 64
+//Подкат
+KeyDown 7 1
+Delay 20 ms
+KeyUp 7 1
+Delay 20 ms
+KeyDown 4 1
+Delay 20 ms
+KeyUp 4 1
+Delay 20 ms
+KeyDown 51 1
+Delay 20 ms
+KeyUp 51 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Mortal Kombat 11</Software>
+  </DefaultMacro>
+</Root>

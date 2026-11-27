@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>авто стрейфы зажимаете кнопку он разбигается и делает лонг джамп на cybershoke 270спокойно сделать можно</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 12 ms
+MoveR 55 -4
+Delay 12 ms
+MoveR 55 -4
+Delay 12 ms
+MoveR 55 -4
+Delay 12 ms
+MoveR 55 -4
+Delay 12 ms
+KeyUp 7 1
+KeyDown 4 1
+Delay 12 ms
+MoveR -55 4
+Delay 12 ms
+MoveR -55 4
+Delay 12 ms
+MoveR -55 4
+Delay 12 ms
+MoveR -55 4
+Delay 12 ms
+KeyUp 4 1
+Delay 12 ms</Syntax>
+    </KeyDown>
+    <Software>CS 1.6</Software>
+  </DefaultMacro>
+</Root>

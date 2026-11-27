@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major>King dash or jaguar walk </Major>
+    <Description>Kings dash forward that can be used to start multiple grab combos
+Key mapping ;
+W = UP
+A = BACK
+S = DUCK
+D = FORWARD
+
+U = 1
+I = 2
+J = 3
+K = 4</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 127 ms
+KeyUp 7 1
+Delay 48 ms
+KeyDown 22 1
+Delay 23 ms
+KeyDown 7 1
+Delay 88 ms
+KeyUp 7 1
+Delay 23 ms
+KeyUp 22 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

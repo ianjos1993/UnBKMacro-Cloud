@@ -1,0 +1,49 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на Ганнер огонь основная ротация, использовать после круга силы
+
+Инструкция
+
+1.Запустите игру
+2.Выберите режим работы без привязки к окну
+3.Назеачить кнопку на макрос
+4.В игре кнопку ЛКП закрепить к кнопке R
+5.В игре кнопку ПКП закрепить к кнопке T
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 25 1
+Delay 0 ms
+KeyUp 25 1
+Delay 0 ms
+KeyDown 23 1
+Delay 0 ms
+KeyDown 9 1
+Delay 0 ms
+KeyUp 9 1
+Delay 0 ms
+KeyUp 23 1
+Delay 0 ms
+KeyDown 32 1
+Delay 0 ms
+KeyUp 32 1
+Delay 0 ms
+KeyDown 6 1
+Delay 0 ms
+KeyUp 6 1
+Delay 0 ms
+KeyDown 33 1
+Delay 0 ms
+KeyUp 33 1
+Delay 0 ms</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

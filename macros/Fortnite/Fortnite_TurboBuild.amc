@@ -1,0 +1,49 @@
+<Root>
+  <!-- by Britan -->
+  <DefaultMacro>
+    <Major></Major>
+    <Description>НАЗВАНИЕ: Fortnite Turbo Build. ОПИСАНИЕ: Автоматическое быстрое строительство в цикле: стена (клавиша F) -&gt; пол (клавиша 3) -&gt; лестница (клавиша R) -&gt; стена (клавиша F). Макрос ставит 4 конструкции за один цикл. РЕКОМЕНДУЕМАЯ КЛАВИША: Mouse 4 (боковая кнопка мыши). КАК ИСПОЛЬЗОВАТЬ: Привяжи макрос на кнопку Mouse 4. В Fortnite зажми кнопку и начни двигать мышь - макрос будет автоматически ставить стены, полы и лестницы один за другим. Отпусти кнопку - строительство остановится. Работает в турбо-билде и в обычном режиме. НАСТРОЙКА: Убедись что в настройках Fortnite клавиша F назначена на стену, 3 на пол, R на лестницу. Если клавиши другие - измени коды KeyDown 70 (F), KeyDown 51 (3), KeyDown 82 (R). АВТОР: by Britan. ЗАПРЕЩЕНО копировать без указания автора.</Description>
+    <Comment>Привязка: Mouse 4 (боковая кнопка). Режим: повторяется пока зажата. Инструкция: зажми и двигай мышь - стены, полы, лестницы ставятся автоматически.</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 30 ms
+RightUp 1
+Delay 15 ms
+KeyDown 70 1
+Delay 25 ms
+KeyUp 70 1
+Delay 10 ms
+RightDown 1
+Delay 30 ms
+RightUp 1
+Delay 15 ms
+KeyDown 51 1
+Delay 25 ms
+KeyUp 51 1
+Delay 10 ms
+RightDown 1
+Delay 30 ms
+RightUp 1
+Delay 15 ms
+KeyDown 82 1
+Delay 25 ms
+KeyUp 82 1
+Delay 10 ms
+RightDown 1
+Delay 30 ms
+RightUp 1
+Delay 15 ms
+KeyDown 70 1
+Delay 25 ms
+KeyUp 70 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Очень простой, но обегчает вам жизнь , теперь вам не нужно бить по клавишам WASD чтобы дешиться, ведь это можно сделать просто зажав клавишу W и всё вот вся перелесть.Для режима Ro-Ghoul</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 40 ms
+KeyUp 26 1
+Delay 40 ms
+KeyDown 26 1
+Delay 40 ms
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

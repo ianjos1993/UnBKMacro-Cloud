@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Когда на экране появляется миниигра с рыбой то 1 раз нажимаете кнопку и она автоматически вылавливается и потом Нажимется Е для повторного использования удочки(требуется установить удочку в быстрый слот на Е ). На Кайо-Перико работоспособность не гарантируется</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 12 ms
+LeftUp 1
+Delay 12 ms
+GoWhile 1 83
+Delay 2200 2500 ms
+LeftDown 1
+Delay 12 ms
+LeftUp 1
+Delay 12 ms
+GoWhile 7 50
+Delay 1500 2200 ms
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

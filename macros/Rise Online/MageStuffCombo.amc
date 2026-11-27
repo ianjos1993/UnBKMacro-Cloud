@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>Mage Stuff Combo</Major>
+    <Description>By assigning any single skill of the Mage class to the 3 key, you can perform the fastest combo in the game with this macro.
+
+-It automatically presses 3 and performs the RR combo.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 10
+KeyUp 32 1
+Delay 10
+KeyDown 21 1
+Delay 1
+KeyUp 21 1
+Delay 1
+KeyDown 21 1
+Delay 1
+KeyUp 21 1
+Delay 1</Syntax>
+    </KeyDown>
+    <Software>Rise Online</Software>
+  </DefaultMacro>
+</Root>

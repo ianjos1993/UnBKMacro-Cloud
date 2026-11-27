@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макро для revolver с разрешением sens 0.56
+Разрешение - 1920 x 1080
+DPI  2900
+sens 0.56
+
+Маскрос немного допилил и стреляет кучнее. Спасибо за внимание. 
+
+.by but1ch</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 12 ms
+MoveR 0 21
+Delay 12 ms
+MoveR 0 24
+Delay 12 ms
+MoveR 0 21
+Delay 12 ms
+MoveR 0 20
+Delay 12 ms
+MoveR 0 20
+Delay 12 ms
+LeftUp 1
+Delay 13 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>A macro for the RUST game for Semi-AutomaticRifle.
+
+
+In-game settings:
+- FOV 85-Sensitivity 0.66
+
+Command console F1 - «input.sensitivity 0.66» </Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 34 ms
+MoveR 0 8
+Delay 34 ms
+MoveR 0 8
+Delay 34 ms
+MoveR 0 8
+Delay 34 ms
+MoveR 0 8
+Delay 34 ms
+MoveR 0 8
+Delay 34 ms
+LeftUp 1
+Delay 37 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

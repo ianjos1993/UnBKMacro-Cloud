@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный скрипт адаптирован под пинг 20-30.
+Если скрипт работает не правильно, нужно поменять значение задержки в 10-ой строчке.
+Лично я рекомендую попробовать значения в диапазоне от 100 до 200.
+Так же для работы скрипта требуется буст к скорости передвижения.
+Данный буст можно получить от:
+- второе созвездие Джинн;
+- х2 анемо персонажа в группе;
+- пассивное умение элементального навыка Дионы;
+- пассивное умение Розарии в ночное время суток (18:00 - 06:00).
+
+Удобнее всего подбирать необходимую задержку с помощью крио-алтаря на арене Ущелья Дадаупа.</Description>
+    <Comment>Discord: Adorable#9999
+VK: vk.com/TarasAlfeev</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 150 ms
+LeftUp 1
+Delay 290 ms
+RightDown 1
+Delay 65 ms
+KeyDown 44 1
+Delay 110 ms
+RightUp 1
+Delay 110 ms
+LeftDown 1
+Delay 25 ms
+KeyUp 44 1
+Delay 175 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

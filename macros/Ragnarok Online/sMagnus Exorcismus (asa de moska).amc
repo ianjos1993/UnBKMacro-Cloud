@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>utlilizado para sacertodes, usa magia de suporte no f6 ai ele teletransporta e usa smagnus no f3.
+Kyrie Eleison no F6 e Magnus Exorcismus F3 e Teleporte no F1.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 63 1
+Delay 64
+KeyUp 63 1
+Delay 64 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 3 s
+KeyDown 65 1
+Delay 64
+KeyUp 65 1
+Delay 4 s
+KeyDown 58 1
+Delay 64
+KeyUp 58 1
+Delay 1 s
+KeyDown 88 1
+Delay 64 ms
+KeyUp 88 1
+Delay 1 s
+KeyDown 64 1
+Delay 64
+KeyUp 64 1
+Delay 1 s
+KeyDown 60 1
+Delay 64
+KeyUp 60 1
+Delay 64 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 6 s</Syntax>
+    </KeyDown>
+    <Software>Ragnarok</Software>
+  </DefaultMacro>
+</Root>

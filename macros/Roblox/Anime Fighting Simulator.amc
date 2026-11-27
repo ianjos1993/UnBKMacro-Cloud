@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major>Автоматически нажимает на кнопки T,Y,F,G,X,N</Major>
+    <Description>Макрос для игры Роблокс(Anime Fighting Simulator) предназначен для автоматического фарма NPC с блудлайном "Red&amp;Purple Eyes"</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 64
+KeyDown 28 1
+Delay 64
+KeyUp 28 1
+Delay 64
+KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 64
+KeyDown 10 1
+Delay 64
+KeyUp 10 1
+Delay 64
+KeyDown 27 1
+Delay 64
+KeyUp 27 1
+Delay 64
+KeyDown 17 1
+Delay 64
+KeyUp 17 1
+Delay 64
+GoWhile 1 999999</Syntax>
+    </KeyDown>
+    <Software>Roblox / Anime Fighting Simulator</Software>
+  </DefaultMacro>
+</Root>

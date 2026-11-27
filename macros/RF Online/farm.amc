@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>авто фарм для сервера РФ крафт  
+ этот макрос предназначен для серверов с рабочим TAB и автолутом
+очень простой и надежный. 
+все ,что нужно сделать  это менять время ожидания в 7 строке в зависимости от мобов</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 64 ms
+KeyUp 43 1
+Delay 64
+KeyDown 44 1
+Delay 7 s
+KeyUp 44 1
+Delay 64
+GoWhile 1 5000</Syntax>
+    </KeyDown>
+    <Software>RF-Online</Software>
+  </DefaultMacro>
+</Root>

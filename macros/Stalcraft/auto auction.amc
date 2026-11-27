@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>пишите цену, разделяете предметы и ожидайте выставления предмета на аукцион 
+РАЗРЕШЕНИЕ ТОЛЬКО 1920х1080</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1 s
+MoveTo 792 882
+Delay 64 ms
+LeftDown 1
+LeftUp 1
+Delay 64 ms
+MoveTo 946 558
+Delay 5500 ms
+LeftDown 1
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

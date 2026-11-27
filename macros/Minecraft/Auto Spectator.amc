@@ -1,0 +1,64 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Доброго вечера всем пользователям Keyran.Сегодня я решил написать новый макрос.Данный макрос пишет команду /spectator.Эта команда переводится как "Режим Наблюдателя".Она позволяет вам летать сквозь блоки,видеть свозь них.В целом эта команда будет полезна для обнаружения игроков,который занимаются нелегальной деятельностью.Например копают ресурсы при помощи X-ray.Так же можно использовать этот макрос для просмотра поединков между топерами при этом не мешая им.Надеюсь вам понравится.
+
+
+Инструкция по настройке:
+1)Скачиваете файл данного макроса на свой компьютер.
+2)Переходите на панель управления клавиатуры Keyran.
+3)Выбираете удобную для вас клавишу или кнопку мыши.
+4)Кликаете по ней правой кнопкой мыши,а затем нажимаете "Назначить макрос".
+5)После всех процессов сохраняете и используете макрос.</Description>
+    <Comment>Вечер добрый, я исправил ошибку,которую допустил.И вроде как их здесь больше нет,если заметите еще можете написать пожалуйста</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 30 ms
+KeyUp 56 1
+Delay 30 ms
+KeyDown 22 1
+Delay 30 ms
+KeyUp 22 1
+Delay 30 ms
+KeyDown 19 1
+Delay 30 ms
+KeyUp 19 1
+Delay 30 ms
+KeyDown 8 1
+Delay 30 ms
+KeyUp 8 1
+Delay 30 ms
+KeyDown 6 1
+Delay 30 ms
+KeyUp 6 1
+Delay 30 ms
+KeyDown 23 1
+Delay 30 ms
+KeyUp 23 1
+Delay 30 ms
+KeyDown 4 1
+Delay 30 ms
+KeyUp 4 1
+Delay 30 ms
+KeyDown 23 1
+Delay 30 ms
+KeyUp 23 1
+Delay 30 ms
+KeyDown 18 1
+Delay 30 ms
+KeyUp 18 1
+Delay 30 ms
+KeyDown 21 1
+Delay 30 ms
+KeyUp 21 1
+Delay 30 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

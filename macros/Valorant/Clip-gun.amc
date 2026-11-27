@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>бесплатный макрос зажим  из пистолетапри нажатий кнопки макроса вы моментально берёте в руки пистолет и стреляете как из пулемёта</Description>
+    <Comment>3XFIRE
+</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+KeyUp 31 1
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 30 ms</Syntax>
+    </KeyDown>
+    <Software>Valorant</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,53 @@
+<Root>
+  <DefaultMacro>
+    <Major>[Ghostrunner] Fast Combat Combo (Attack + Dash)</Major>
+    <Description>Профессиональный боевой макрос для Ghostrunner, автоматизирующий серию быстрых ударов с микро-рывками. Идеально подходит для агрессивной зачистки уровней и сражений с группами врагов.
+Преимущества:
+Стабильность: Фиксированные задержки по 30 мс гарантируют регистрацию каждого удара движком игры.
+Техничность: Включает в себя полный цикл (Нажатие + Отпускание), что исключает залипание клавиш Shift и ЛКМ.
+Универсальность: Работает на любом FPS и при любых настройках чувствительности.
+Инструкция:
+Назначьте макрос на удобную клавишу в Keyran (например, ЛКМ или боковую кнопку мыши).
+Режим работы: рекомендую использовать «Выполнять пока нажата клавиша» для непрерывной серии атак.
+В игре дополнительных настроек не требуется.
+Автор: lostacadimes</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 30 ms
+KeyUp 9 1
+Delay 30 ms
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 30 ms
+KeyDown 225 1
+Delay 30 ms
+KeyUp 225 1
+Delay 30 ms
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 30 ms
+KeyDown 225 1
+Delay 30 ms
+KeyUp 225 1
+Delay 30 ms
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 30 ms
+KeyDown 225 1
+Delay 30 ms
+KeyUp 225 1
+Delay 30 ms</Syntax>
+    </KeyDown>
+    <Software>ghostrunner</Software>
+  </DefaultMacro>
+</Root>

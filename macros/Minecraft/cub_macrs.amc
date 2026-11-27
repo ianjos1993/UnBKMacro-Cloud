@@ -1,0 +1,60 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для DangerCraft  , свапаеться сам, рассввапать ему надо 2-3 секунды и можите убивать любого  жиме , яме . Создавал вообще для суши , ну так получилось что залетел в жиму поубивал и понял что он не для суши , вообщем скоро выложу основу для суши с неймоверным выхилом.
+1 - меч
+3 - фростик
+Всем Удачных нагибов!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 0 ms
+Delay 0 ms
+Delay 0 ms
+Delay 9 ms
+LeftUp 1
+KeyDown 30 1
+KeyUp 30 1
+RightDown 1
+Delay 0 ms
+Delay 4 ms
+Delay 0 ms
+Delay 6 ms
+LeftDown 1
+Delay 3 ms
+Delay 2 ms
+LeftUp 1
+Delay 3 ms
+Delay 2 ms
+LeftUp 1
+Delay 2 ms
+Delay 20 ms
+RightUp 1
+Delay 7 ms
+LeftDown 1
+Delay 11 ms
+LeftUp 1
+Delay 8 ms
+RightDown 1
+LeftUp 1
+KeyDown 32 1
+KeyUp 32 1
+RightDown 1
+Delay 13 ms
+Delay 4 ms
+LeftDown 1
+Delay 10 ms
+Delay 15 ms
+SayString 
+
+</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

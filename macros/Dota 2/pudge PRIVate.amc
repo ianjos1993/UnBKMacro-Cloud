@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major>hz che tyta</Major>
+    <Description>самые лучший скрипт на пуджика
+нам нужен лотус а еще и скиилы на пуджа которые прокачены на макс
+смысл скрипта в том что он кидает мит хук на любого перса потом прожимает "е" т.е и прожимает "w"
+вам только остается прожать ульту потомучто у меня не получилось сделать так чтобы ульта сама делалась
+а также пишу лейт  закуп:
+boots of travel, blink, lotus orb, aghanim scepter, ethereal blade,black king bar</Description>
+    <Comment>https://keyran.net - лучший сайт по макросам</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 10
+KeyUp 20 1
+Delay 10
+KeyDown 6 1
+Delay 10
+KeyUp 6 1
+Delay 10
+KeyDown 8 1
+Delay 10
+KeyUp 8 1
+Delay 10
+KeyDown 26 1
+Delay 10
+KeyUp 26 1
+Delay 10
+KeyDown 21 1
+Delay 10
+KeyUp 21 1
+Delay 10</Syntax>
+    </KeyDown>
+    <Software>dota 2</Software>
+  </DefaultMacro>
+</Root>

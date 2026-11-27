@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для Нефтекачки на сервере Grand rp, разрешение 1920x1080 в окне. Капчу скрипт не решает, так что думайте сами :). Всего хорошего в использовании! Делитесь скриптом!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 290 778
+KeyDown 226 1
+Delay 64
+KeyUp 226 1
+Delay 64
+Delay 15 ms
+LeftDown 1
+Delay 4700 ms
+LeftUp 1
+Delay 15 ms
+MoveTo 395 780
+Delay 15 ms
+LeftDown 1
+Delay 4700 ms
+LeftUp 1
+Delay 15 ms
+MoveTo 499 778
+Delay 15 ms
+LeftDown 1
+Delay 4700 ms
+LeftUp 1
+Delay 15 ms
+MoveTo 601 776
+Delay 15 ms
+LeftDown 1
+Delay 4700 ms
+LeftUp 1
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This is an optimized macro for obeya semi-automatic weapon with cooling jacket 3. I adjusted the delay time so that it is optimized when shooting the gun and it would maintain the rate of fire.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 36 1
+Delay 52 ms
+KeyUp 36 1
+Delay 52 ms
+Delay 19 ms
+LeftUp 1
+Delay 19 ms</Syntax>
+    </KeyDown>
+    <Software>APB Reloaded</Software>
+  </DefaultMacro>
+</Root>

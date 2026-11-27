@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Auto attack macro for rogue in Diablo. This macro will help you auto-attack and auto-pickup.
+
+- TO USE THIS MACRO -
+1. Bind any key you want to use macro.
+   Set the operating mode to "Run until pressed again".
+
+2. Launch your game. Open the settings menu. Click the CONTROLS option.
+   Go to 'Gameplay &gt; Combine Interact &amp; Skills' and tick it.
+
+3. And then set "Force Move" to any key you want.
+  *("Force Move" option will help you dodge automatically.)
+  *(If you want to dodge manually, please ignore this step.)
+
+4. Now everything is done. Just press your macro bindkey once.
+   And hold your "Force Move" key to attack monsters automatically.
+
+- NOTES -
+1. You have to bind any key that does not conflict with other in-game keys for this macro.
+2. If the macro gets glitched. You can just stop the macro and restart to solve it.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 25 ms
+KeyDown 8 1
+Delay 25 ms
+LeftUp 1
+Delay 25 ms
+KeyUp 8 1
+Delay 25 ms
+RightDown 1
+Delay 25 ms
+RightUp 1
+Delay 25 ms</Syntax>
+    </KeyDown>
+    <Software>Diablo 3</Software>
+  </DefaultMacro>
+</Root>

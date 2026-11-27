@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>У вас должен быть стэнд Crazy Diamond. Подходите к заданию где надо получить 4000 xp за 15 секунд. Пододвигаете даммика к нему. Включаете другой скрипт на многократное нажатие переводите мышку на нпс с заданием а потом включайте скрипт повернувшись к даммику. Получается легкий фарм денег.
+Инструкция установки;1. Скачать программу Keyran. 2.Скачать мой макрос. 3. запустить программу Keyran. 4.Запустить редактор макросов. 5.Нажать открыть файл. 6. И выйти с редактора. 7. Забиндить макрос. 8. Наслаждаться игрой</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 3400 ms
+KeyUp 8 1
+Delay 2500 ms
+KeyDown 8 1
+Delay 3400 ms
+KeyUp 8 1
+Delay 2500 ms
+GoWhile 2 100000</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

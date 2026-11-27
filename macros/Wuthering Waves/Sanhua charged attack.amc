@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major>Ar1ko</Major>
+    <Description>Макрос на холд атаку Санхуа
+
+Сделан для того, чтобы не ловить тайминги самому каждый раз. Нажмите выбранную кнопку один раз коротким нажатием, чтобы холд атака запустилась. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 925 ms
+LeftUp 1
+Delay 2 ms</Syntax>
+    </KeyDown>
+    <Software>Wuthering Waves</Software>
+  </DefaultMacro>
+</Root>

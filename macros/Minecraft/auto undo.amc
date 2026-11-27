@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major>RISEEE</Major>
+    <Description>Макрос создан для легкого использования команды /tpyes (принять телепорт от игрока).
+
+Макрос работает на любой версии игры. Для более лучшей работы макроса, нужно всего лишь забиндить на любую, удобную для вас кнопку
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 64
+KeyUp 56 1
+Delay 64
+KeyDown 24 1
+Delay 64
+KeyUp 24 1
+Delay 64
+KeyDown 17 1
+Delay 64
+KeyUp 17 1
+Delay 64
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64
+KeyDown 18 1
+Delay 64
+KeyUp 18 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

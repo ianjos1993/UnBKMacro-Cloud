@@ -1,0 +1,130 @@
+<Root>
+  <DefaultMacro>
+    <Major>r99 recoil</Major>
+    <Description>Advanced anti-recoil compensation script optimized specifically for the R-99 SMG in Apex Legends. This macro dynamically adjusts mouse inputs pixel-by-pixel to perfectly counteract the weapon's aggressive initial vertical climb and late-spray horizontal drift. By keeping your crosshair locked dead center during rapid fire, it maximizes your damage output and ensures laser-accurate tracking for effortless one-clips at close to medium range.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 264 ms
+MoveR 0 1
+Delay 16 ms
+MoveR 0 1
+Delay 16 ms
+MoveR 0 0
+GoWhile 1 1
+Delay 8 ms
+MoveR -1 2
+Delay 24 ms
+MoveR -1 1
+Delay 16 ms
+MoveR 0 1
+Delay 16 ms
+MoveR 0 0
+Delay 24 ms
+MoveR 0 1
+Delay 48 ms
+MoveR 0 0
+Delay 17 ms
+MoveR 0 2
+Delay 16 ms
+MoveR 0 0
+Delay 16 ms
+MoveR 0 1
+Delay 8 ms
+MoveR 0 0
+Delay 19 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 2
+Delay 8 ms
+MoveR -1 2
+Delay 8 ms
+MoveR 0 1
+Delay 8 ms
+MoveR 0 1
+Delay 8 ms
+MoveR -1 2
+Delay 8 ms
+MoveR -1 1
+Delay 8 ms
+MoveR 0 1
+Delay 16 ms
+MoveR -1 2
+Delay 16 ms
+MoveR -1 1
+Delay 16 ms
+MoveR 0 1
+Delay 16 ms
+MoveR -1 3
+Delay 8 ms
+MoveR -1 1
+Delay 32 ms
+MoveR -1 2
+Delay 16 ms
+MoveR 0 1
+Delay 16 ms
+MoveR -1 1
+Delay 121 ms
+MoveR 0 1
+Delay 32 ms
+MoveR 0 0
+Delay 8 ms
+MoveR 0 1
+Delay 16 ms
+MoveR 1 0
+Delay 8 ms
+MoveR 0 0
+Delay 8 ms
+MoveR 1 0
+Delay 8 ms
+MoveR 0 0
+Delay 8 ms
+MoveR 1 0
+Delay 8 ms
+MoveR 1 0
+Delay 8 ms
+MoveR 0 0
+Delay 8 ms
+MoveR 1 0
+Delay 8 ms
+MoveR 0 0
+Delay 8 ms
+MoveR 1 0
+Delay 24 ms
+MoveR 0 0
+Delay 265 ms
+MoveR 1 1
+Delay 16 ms
+MoveR 1 0
+Delay 8 ms
+MoveR 0 1
+Delay 16 ms
+MoveR 0 0
+Delay 11 ms
+MoveR 1 1
+Delay 6 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 1 1
+Delay 16 ms
+MoveR 0 0
+Delay 336 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 0 0
+Delay 281 ms
+LeftUp 1
+Delay 160 ms
+MoveR 0 0</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

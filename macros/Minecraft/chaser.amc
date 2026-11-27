@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>Макрос выстрел чейзера</Major>
+    <Description>Макрос для сервера RageWorld на режим 3.0 для оружия Chaser. Слоты: 1слот chaser 2слот джет пак. Макрос нажимает шифт(для точного выстрела) переходит на 1 слот стреляет и возвращается на слот джет пака.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 10 ms
+KeyDown 30 1
+Delay 15 ms
+KeyUp 30 1
+Delay 10 ms
+RightDown 1
+Delay 50 ms
+RightUp 1
+Delay 70 ms
+KeyUp 225 1
+Delay 10 ms
+KeyDown 31 1
+Delay 10 ms
+KeyUp 31 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

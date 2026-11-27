@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Прокаст для Сфа в доте 2
+Прокаст состоит из Блинк Еула ульта 
+space-Blink
+C-Eula
+R Ульт
+Биндите удобную клавишу у меня это боковая кнопка мыши
+направляете на соперника нажимаете забинженную клавишу и вот вам прокаст из ульта
+Приятно повзрывать на СФе!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 6 1
+Delay 64
+KeyUp 6 1
+Delay 850 ms
+KeyDown 21 1
+Delay 64 ms
+KeyUp 21 1
+Delay 40 ms</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

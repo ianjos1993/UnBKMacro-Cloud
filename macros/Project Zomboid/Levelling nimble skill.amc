@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro will help you to upgrade the skill «Nimble» in the game Project Zomboid. After activating the macro, your character will start walking backwards and forwards repeatedly. You can adjust the distance by changing the delay.
+
+The steps you need to take to successfully use the macro:
+
+1) Set the screen resolution to 1980 x 1080.
+2) Find a safe place without obstacles. 
+3) Run the macro.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+
+Better version</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+MoveTo 1440 270
+KeyDown 22 1
+KeyDown 4 1
+Delay 8 s
+KeyUp 22 1
+KeyUp 4 1
+MoveTo 480 810
+KeyDown 26 1
+KeyDown 7 1
+Delay 8 s
+KeyUp 26 1
+KeyUp 7 1
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Project Zomboid</Software>
+  </DefaultMacro>
+</Root>

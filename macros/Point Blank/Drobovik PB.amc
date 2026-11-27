@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major>Drobovik</Major>
+    <Description>Очень простой но и качественный макрос для игры Point Blank Который подходит как на дробовик так и на снайперку.
+Смысл макроса в том что вы просто стреляете а он за вас выполняет смену (3 1) или же (Q Q) Желательно иметь купон на быструю смену оружия
+Видео- https://youtu.be/gmf2ek1Yqsg</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 24 ms
+LeftUp 1
+KeyDown 32 1
+Delay 24 ms
+KeyUp 32 1
+KeyDown 30 1
+Delay 24 ms
+KeyUp 30 1</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

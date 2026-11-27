@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>Crushing blow(movement) Jujutsu Shenanigans</Major>
+    <Description>Нажимает третий скилл персонаж vessel позволяя использовать его как помощник в поимке или побеге от противника (также можно убрать последние строчки  и это будет как дополнение к комбо)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 64
+KeyUp 26 1
+Delay 64
+Delay 27 ms
+KeyDown 44 1
+Delay 65 ms
+KeyDown 31 1
+Delay 103 ms
+KeyUp 44 1
+Delay 5 ms
+KeyUp 31 1
+Delay 144 ms
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

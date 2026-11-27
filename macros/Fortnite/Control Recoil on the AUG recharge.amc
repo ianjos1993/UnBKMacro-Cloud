@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major>EnzzoMacro</Major>
+    <Description>controle de recoil da arma AUG com recarga Ainda Funciona No recoil  Space: jump
+cntrl: abaixa to use the macro you just have to stay down in the game and hold the macro key so your doll will be going down and up quickly taking the recoil out of the game</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы  good macros and scripts</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 120 ms
+LeftUp 1
+Delay 110 ms
+MoveR 0 20
+Delay 80 ms
+MoveR 0 20
+Delay 80 ms
+MoveR 0 20
+Delay 80 ms
+MoveR 0 20
+Delay 80 ms
+MoveR 0 20
+Delay 80 ms
+MoveR 0 20
+Delay 80 ms
+MoveR 0 20
+Delay 80 ms
+MoveR 0 20
+Delay 80 ms
+MoveR 0 20
+Delay 80 ms
+MoveR 0 20
+Delay 80 ms
+MoveR 0 20
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

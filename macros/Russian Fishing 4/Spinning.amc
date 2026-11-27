@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major>Spinning on Belaya on point 72;66</Major>
+    <Description>U Can with this Profil Spinning with all spiker Trouts .. on point 72:66  set the speed on your rode on 30 and set the brake on ur role on 29. 
+
+have fun :D</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 114 ms
+KeyDown 225 1
+Delay 284 ms
+KeyUp 225 1
+Delay 206 ms
+LeftUp 1
+Delay 2455 ms
+LeftDown 1
+Delay 34 ms
+KeyDown 225 1
+KeyUp 225 1
+Delay 31000 ms
+//Spiker blau gepunktet 31000
+//spiker voll schwarz klein 21807
+RightDown 1
+Delay 7 s
+KeyDown 44 1
+Delay 1809 ms
+GoWhile 1 9999999</Syntax>
+    </KeyDown>
+    <Software>Russian Fishing 4</Software>
+  </DefaultMacro>
+</Root>

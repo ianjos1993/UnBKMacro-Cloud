@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Chaos Meteor - это заклинание, доступное герою Инвокеру в игре Dota 2. Когда Инвокер его призывает, он создает метеор, который падает на указанную область карты. Этот метеор наносит урон всем вражеским юнитам и структурам в зоне воздействия. Однако, урон не равномерно распределен - чем ближе к центру метеора, тем больше урона получают вражеские цели
+
+Данный макрос нацелен на вашу безопасность, по этому здесь разные таймы на использование. Тем самым вы будете в безопасности даже против патруля в Доте.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 64 ms
+KeyUp 26 1
+Delay 64 ms
+KeyDown 8 1
+Delay 64 ms
+KeyUp 8 1
+Delay 64 ms
+KeyDown 8 1
+Delay 64 ms
+KeyUp 8 1
+Delay 64 ms
+KeyDown 21 1
+Delay 64 ms
+KeyUp 21 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

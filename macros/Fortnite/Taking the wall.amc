@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Для использования макроса вам необходимо что-бы стена ставилась на букву -Z- и чтобы в руках у вас была кирка (советую смотреть в низ чтобы стена не поставилась дальше)</Description>
+    <Comment>Как по мне это самое быстрое забирание стены в игре Fortnite.Когда я использую этот макрос то я забераю стенку где-то в 2 раза быстрее чем обычно.Для использования данного маркоса пинг не важен!Лично я пользуюсь им уже давно и сделал сам.Надеюсь этот макрос вам понравится!!!</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 120 ms
+KeyDown 29 1
+Delay 120 ms
+LeftDown 1
+Delay 70 ms
+LeftUp 1
+Delay 120 ms
+KeyUp 29 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

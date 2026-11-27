@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Новый, обновлённый макрос на +c. Теперь при стрельбе вы муваетесь влево и вправо, что не нормальной возможности попасть по вам противникам.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 20 ms
+KeyUp 7 1
+Delay 20 ms
+RightDown 1
+Delay 20 ms
+RightUp 1
+Delay 20 ms
+LeftDown 1
+Delay 20 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 6 1
+Delay 20 ms
+KeyUp 6 1
+Delay 20 ms
+KeyDown 4 1
+Delay 20 ms
+KeyUp 4 1
+Delay 20 ms
+RightDown 1
+Delay 20 ms
+RightUp 1
+Delay 20 ms
+LeftDown 1
+Delay 20 ms
+LeftUp 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

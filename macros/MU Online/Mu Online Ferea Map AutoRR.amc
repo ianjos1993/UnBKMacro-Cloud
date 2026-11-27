@@ -1,0 +1,123 @@
+<Root>
+  <DefaultMacro>
+    <Major>Mu Online AutoRR</Major>
+    <Description>Webzen Mu online auto reset script, working on the official mu and private servers
+
+Tested on mu online "Ferea" map and private server. Take 2-3mins for a reset. Can be adjustable to your liking.
+
+Resolution to be used = 1280 x 720 16:9 (Wide) Windowed
+
+Mu helper function is also activated in this script.</Description>
+    <Comment>https://keyran.net - Free macros download</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1000 ms
+KeyDown 16 1
+Delay 1000 ms
+KeyUp 16 1
+Delay 1000 ms
+MoveTo 256 578
+Delay 564 ms
+LeftDown 1
+Delay 1000 ms
+LeftUp 1
+Delay 1000 ms
+MoveTo 135 615
+Delay 564 ms
+LeftDown 1
+Delay 1000 ms
+LeftUp 1
+Delay 1000 ms
+MoveTo 143 453
+Delay 564 ms
+LeftDown 1
+Delay 1000 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+MoveTo 185 297
+Delay 564 ms
+LeftUp 1
+Delay 564 ms
+MoveTo 174 777
+Delay 564 ms
+LeftDown 1
+Delay 1000 ms
+LeftUp 1
+Delay 1000 ms
+MoveTo 276 785
+Delay 564 ms
+LeftDown 1
+Delay 1000 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+MoveTo 740 724
+Delay 564 ms
+LeftUp 1
+Delay 1000 ms
+MoveTo 318 767
+Delay 564 ms
+LeftDown 1
+Delay 1000 ms
+LeftUp 1
+Delay 1000 ms
+MoveTo 934 714
+Delay 564 ms
+LeftDown 1
+Delay 1000 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 564 ms
+MoveTo 1228 798
+Delay 564 ms
+LeftUp 1
+Delay 1000 ms
+MoveTo 425 108
+Delay 564 ms
+LeftDown 1
+Delay 1000 ms
+LeftUp 1
+Delay 125000 ms
+KeyDown 88 1
+Delay 730 ms
+KeyUp 88 1
+Delay 730 ms
+KeyDown 84 1
+Delay 64
+KeyUp 84 1
+Delay 64
+KeyDown 21 1
+Delay 64 ms
+KeyUp 21 1
+Delay 64 ms
+KeyDown 8 1
+Delay 64 ms
+KeyUp 8 1
+Delay 64 ms
+KeyDown 22 1
+Delay 64 ms
+KeyUp 22 1
+Delay 64 ms
+KeyDown 8 1
+Delay 64 ms
+KeyUp 8 1
+Delay 64 ms
+KeyDown 23 1
+Delay 64 ms
+KeyUp 23 1
+Delay 64 ms
+KeyDown 88 1
+Delay 730 ms
+KeyUp 88 1
+Delay 730 ms</Syntax>
+    </KeyDown>
+    <Software>MU Online</Software>
+  </DefaultMacro>
+</Root>

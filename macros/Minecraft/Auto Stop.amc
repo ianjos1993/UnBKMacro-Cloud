@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всем доброго утра.Сегодня я решил вновь написать макрос для различных серверов майнкрафт.Данный макрос вводит 1 из важнейших команд-/Stop.Данная команда останавливает работу сервера.Например если вам нужно провести на сервере технические работы,то вводите данную команду и сервер будет выключен.Макрос так же будет полезен как дополнительная перезагрузка сервера.Тоесть если сервер до выключения лагал,то после лаги значительно уменьшатся.
+
+Инструкция по настройке:
+1)Загрузите предоставленный ниже макрос на ваше устройство.
+2)Откройте приложениe Keyran и выберите удобную для вас клавишу или кнопку мыши на панели управления клавиатуры Keyran.
+3)Нажмите на эту клавишу правой кнопкой мыши и назначьте макрос.
+4)Так же не забывайте сохранять все изменения.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 32 ms
+KeyUp 56 1
+Delay 32 ms
+KeyDown 22 1
+Delay 32 ms
+KeyUp 22 1
+Delay 32 ms
+KeyDown 23 1
+Delay 32 ms
+KeyUp 23 1
+Delay 32 ms
+KeyDown 18 1
+Delay 32 ms
+KeyUp 18 1
+Delay 32 ms
+KeyDown 19 1
+Delay 32 ms
+KeyUp 19 1
+Delay 32 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

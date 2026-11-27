@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro is for the PumpShotgun and is used to eco raid. It works best at FOV 90 SENSE 0.7 DPI 650. This macro allows you to shotgun raid a door without actually doing it. Use this wisely.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+LeftUp 1
+Delay 1 s
+LeftDown 1
+LeftUp 1
+Delay 1 s
+LeftDown 1
+LeftUp 1
+Delay 1 s
+LeftDown 1
+LeftUp 1
+Delay 1 s
+LeftDown 1
+LeftUp 1
+Delay 1 s
+LeftDown 1
+LeftUp 1
+Delay 64
+KeyDown 21 1
+Delay 5 s
+KeyUp 21 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

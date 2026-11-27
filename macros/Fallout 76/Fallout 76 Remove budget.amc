@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Быстрая очистка бюджета строительства. Для чистки требуется зайти во вкладку "Сохраненные" и после этого запустить макрос</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 20 ms
+KeyUp 21 1
+Delay 20 ms
+KeyDown 44 1
+Delay 20 ms
+KeyUp 44 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Fallout 76</Software>
+  </DefaultMacro>
+</Root>

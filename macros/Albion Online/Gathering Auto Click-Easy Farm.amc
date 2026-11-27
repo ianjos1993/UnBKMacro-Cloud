@@ -1,0 +1,63 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>I set my default harvest to 2 locations.
+Allows you to test your character's walking path.
+ between two locations to harvest
+
+Edit the macro as follows:
+
+1. Edit the 1st line, use the cursor tool (absolutely) to select the 1st resource location.
+
+2. Edit the 14th line, use the cursor tool (absolutely) to select the 2nd resource location.
+
+3. Can add positions by yourself by copying the line
+
+4. Your character will start harvesting.
+
+*What you need to know*
+
+1. Equip a mount
+
+2. Objects should not be more than 1 screen distance to reduce walking errors. (resolution : 1920x1080)
+
+TURN ON THE MACRO AND GO WHEN THE INVENTORY IS FILLED! THANK YOU all!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveTo 699 574
+Delay 64
+LeftUp 1
+Delay 10000 ms
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 5000 ms
+MoveTo 1192 315
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 10000 ms
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 5000 ms</Syntax>
+    </KeyDown>
+    <Software>Albion Online</Software>
+  </DefaultMacro>
+</Root>

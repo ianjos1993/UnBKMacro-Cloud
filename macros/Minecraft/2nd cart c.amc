@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>put bow in 2nd slot. cart in 4th. rail in 6th. insta cart becomes easily cyclable as the marco ends back on bow. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 20 ms
+KeyUp 21 1
+Delay 20 ms
+RightDown 1
+Delay 20 ms
+RightUp 1
+Delay 10 ms
+KeyDown 6 1
+Delay 10 ms
+KeyUp 6 1
+Delay 10 ms
+RightDown 1
+Delay 10 ms
+RightUp 1
+Delay 10 ms
+RightDown 1
+Delay 10 ms
+RightUp 1
+Delay 50 ms
+KeyDown 31 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

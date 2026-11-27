@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос, чтобы сбить щит противнику
+
+Вам понадобится топор (желательно незеритовый). Положите его на 9 слот и назначьте макрос на удобную клавишу. Когда противник зажимает щит, быстро нажмите вашу клавишу.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 38 1
+Delay 30 ms
+KeyUp 38 1
+Delay 30 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

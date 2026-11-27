@@ -1,0 +1,53 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Смена слотов в ведущей строке инвентаря. Пригодится для спокойного фарма чего либо на серверах. Скрипт переключает каждый слот инвенатря 1-9 ссадержкой 10 сек между каждым слотом. После окнчания цикла у вас будет 45 сек чтобы что либо сделать и цикл повторится</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 5000
+KeyUp 30 1
+Delay 5000
+KeyDown 31 1
+Delay 5000
+KeyUp 31 1
+Delay 5000
+KeyDown 32 1
+Delay 5000
+KeyUp 32 1
+Delay 5000
+KeyDown 33 1
+Delay 5000
+KeyUp 33 1
+Delay 5000
+KeyDown 34 1
+Delay 5000
+KeyUp 34 1
+Delay 5000
+KeyDown 35 1
+Delay 5000
+KeyUp 35 1
+Delay 5000
+KeyDown 36 1
+Delay 5000
+KeyUp 36 1
+Delay 5000
+KeyDown 37 1
+Delay 5000
+KeyUp 37 1
+Delay 5000
+KeyDown 38 1
+Delay 5000
+KeyUp 38 1
+Delay 45 s
+GoWhile 1 1000</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,49 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос можно использовать для стояния Афк в социализированных картах, которые можно найти в интернете. Конкретно этот макрос подходит для Афк на ровных поверхностях и также на батутах (используется в некоторых картах).
+Замечание не советуется для использования в условиях с трамплином. Который выбрасывает вас вперёд.
+Этот макрос. Ходит (рандомно) и крутит мышкой.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+Этот макрос можно использовать для стояния Афк в социализированных картах, которые можно найти в интернете. Конкретно этот макрос подходит для Афк на ровных поверхностях и также на батутах (используется в некоторых картах).
+Замечание не советуется для использования в условиях с трамплином. Который выбрасывает вас вперёд.
+Этот макрос. Ходит (рандомно) и крутит мышкой.
+всем приятной игры и пока 
+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 60000 ms
+KeyUp 26 1
+Delay 15000 ms
+KeyDown 26 1
+Delay 60000 ms
+KeyUp 26 1
+Delay 15000 ms
+KeyDown 22 1
+Delay 60000 ms
+KeyUp 22 1
+Delay 15000 ms
+KeyDown 7 1
+Delay 60000 ms
+KeyUp 7 1
+Delay 15000 ms
+KeyDown 4 1
+Delay 60000 ms
+KeyUp 4 1
+Delay 15000 ms
+RightDown 1
+Delay 60000 ms
+RightUp 1
+Delay 60000 ms
+MoveTo 1875 458
+Delay 60000 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

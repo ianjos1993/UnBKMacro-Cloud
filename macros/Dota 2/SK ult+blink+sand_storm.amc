@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Прожимается ульта потом блинк (без задержки) и сразу пески. Должны быть включены квиккасты и последовательное нажатие через shift. 
+---Ульт на F---Блинк пробел----Сэнд sторм на W---</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+KeyUp 9 1
+KeyDown 225 1
+KeyDown 44 1
+KeyUp 44 1
+KeyDown 26 1
+KeyUp 26 1
+KeyUp 225 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Написал я значит баг урон , ну я ним пользовался ещё , и вот я думал вылаживать или нет . Вы не оцениваете мои макросы - баг уроны . Я теряю интерес что-то вылаживать для вас (
+А пока ловите баг урон на 2 меча . 1 слот у нас мечик и 4 слот мечик.
+Почему 1 слот и 4 ? 
+Потому-что я пишу макрос на 2 меча готовтесь!
+Он просто неймоверный щас его допишу и вылажу
+А пока нагибайте с этим баг уроном!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 13 ms
+LeftDown 1
+Delay 7 ms
+LeftUp 1
+Delay 5 ms
+KeyDown 33 1
+Delay 1 ms
+KeyUp 33 1
+LeftDown 1
+Delay 12 ms
+LeftUp 1
+Delay 15 ms
+LeftDown 1
+Delay 21 ms
+LeftUp 1
+Delay 6 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

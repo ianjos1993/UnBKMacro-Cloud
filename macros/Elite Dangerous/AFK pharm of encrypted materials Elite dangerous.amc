@@ -1,0 +1,104 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>разрешение экрана:
+1920х1080
+
+Макрос позволяет фармить зашифрованные материалы через постоянный релог.
+как пользоваться:
+обязательно находится в соло игре
+прилететь на любом корабле имеющем ТРП и сканер поверхности в систему Hyades Sector DR-V c2-23
+отсканировать планеты сканером поверхности на 100%, в контактах должно появится Dev's Hope 
+прилетев на станцию, с помощью ТРП можно самому собирать промышленные материалы, а также в точке 50.5212 137.4471 (это на краю базы у ворот) находится датчик который можно отсканировать
+встав напротив датчика, убедитесь что подняв турель ТРП вы можете без проблем выделить датчик для сканирования.
+чтобы запустить макрос, выйдите в главное меню и поместите мышку на кнопке продолжить.
+запустите макрос.
+в идеале он дожен самостоятельно входить в солоигру, переходмть в режим турели и сканировать маяк, после чего выходить из игры в главное меню</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+
+чтобы макросы раблтали в игре, надо запускать ее на английской раскладке, возможно баг</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 112 ms
+Delay 77 ms
+Delay 668 ms
+KeyDown 88 1
+Delay 78 ms
+KeyUp 88 1
+Delay 1397 ms
+KeyDown 7 1
+Delay 113 ms
+KeyUp 7 1
+Delay 436 ms
+KeyDown 7 1
+Delay 117 ms
+KeyUp 7 1
+Delay 592 ms
+KeyDown 88 1
+Delay 115 ms
+KeyUp 88 1
+Delay 12071 ms
+KeyDown 24 1
+Delay 113 ms
+KeyUp 24 1
+Delay 2596 ms
+KeyDown 82 1
+Delay 228 ms
+KeyUp 82 1
+Delay 1295 ms
+MoveTo 1535 399
+Delay 6 ms
+MoveTo 1535 399
+Delay 5 ms
+MoveTo 1534 399
+Delay 6 ms
+MoveTo 1534 400
+Delay 8 ms
+MoveTo 1534 400
+Delay 12 ms
+RightDown 1
+Delay 6929 ms
+RightUp 1
+Delay 2409 ms
+KeyDown 41 1
+Delay 116 ms
+KeyUp 41 1
+Delay 935 ms
+KeyDown 22 1
+Delay 77 ms
+KeyUp 22 1
+Delay 297 ms
+KeyDown 22 1
+Delay 75 ms
+KeyUp 22 1
+Delay 247 ms
+KeyDown 22 1
+Delay 78 ms
+KeyUp 22 1
+Delay 290 ms
+KeyDown 22 1
+Delay 78 ms
+KeyUp 22 1
+Delay 259 ms
+KeyDown 22 1
+Delay 76 ms
+KeyUp 22 1
+Delay 561 ms
+KeyDown 88 1
+Delay 77 ms
+KeyUp 88 1
+Delay 500 ms
+KeyDown 88 1
+Delay 117 ms
+KeyUp 88 1
+Delay 5201 ms
+Delay 540 ms</Syntax>
+    </KeyDown>
+    <Software>Elite Dangerous</Software>
+  </DefaultMacro>
+</Root>

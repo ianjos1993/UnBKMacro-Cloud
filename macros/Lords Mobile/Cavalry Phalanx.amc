@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Быстро меняет фалангу на кавалерийскую, у меня привязана на F3, работает с разрешением 1600:900
+Работает очень быстро, не раз спасало)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 61 104
+LeftDown 1
+LeftUp 1
+Delay 140 ms
+MoveTo 178 818
+LeftDown 1
+LeftUp 1
+Delay 140 ms
+MoveTo 886 715
+LeftDown 1
+LeftUp 1
+Delay 70 ms
+MoveTo 1246 755
+LeftDown 1
+LeftUp 1
+Delay 900 ms
+MoveTo 1536 63
+LeftDown 1
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Lords Mobile</Software>
+  </DefaultMacro>
+</Root>

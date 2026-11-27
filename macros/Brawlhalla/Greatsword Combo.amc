@@ -1,0 +1,60 @@
+<Root>
+  <DefaultMacro>
+    <Major>Greatsword Combo</Major>
+    <Description>Этот макрос для игры Brawlhalla предназначен специально для большого меча. Макрос выполняет сложную комбинацию на большом мече используемую на высоких уровнях игры. Помни, что нестабильное соединение или задержка нажатий у клавиатуры могут нарушить работу скрипта. Удачи на арене!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+KeyDown 13 1
+KeyUp 13 1
+Delay 350 ms
+KeyDown 22 1
+KeyDown 225 1
+Delay 14 ms
+KeyUp 22 1
+KeyUp 4 1
+KeyDown 13 1
+Delay 100 ms
+KeyUp 225 1
+KeyUp 13 1
+Delay 250 ms
+KeyDown 4 1
+KeyDown 13 1
+KeyUp 4 1
+Delay 64 ms
+KeyUp 13 1
+Delay 215 ms
+KeyDown 22 1
+KeyDown 225 1
+KeyUp 225 1
+Delay 250 ms
+KeyDown 7 1
+KeyUp 22 1
+KeyDown 13 1
+KeyUp 13 1
+Delay 356 ms
+KeyUp 7 1
+KeyDown 22 1
+KeyDown 225 1
+KeyUp 225 1
+Delay 14 ms
+KeyUp 22 1
+KeyDown 13 1
+KeyUp 13 1
+Delay 200 ms
+KeyDown 7 1
+Delay 64
+KeyDown 13 1
+Delay 100 ms
+KeyUp 7 1
+KeyUp 13 1</Syntax>
+    </KeyDown>
+    <Software>Brawlhalla</Software>
+  </DefaultMacro>
+</Root>

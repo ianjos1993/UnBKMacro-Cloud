@@ -1,0 +1,108 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description> ловля рыбы в придонном слое с легким пилкингом 34 банка.   
+24 дюйма FHD. 
+камеру желательно в небо не поднимать, держать на уровне горизонта
+алгоритм действий (
+кофе  4 слоте 
+заброс
+- проверка на поклевку во время спуска 
+ касание дна 
+ подмотка
+ожидание поклевки 
+ проверка оповещения о рыбе
+вываживание рыбы 
+ убрать рыбу в садок 
+повтор
+скорость -50 
+фрикцион советую не затягивать, держим 26-27</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 34 1
+KeyUp 34 1
+Delay 64
+KeyDown 33 1
+KeyUp 33 1
+//ВЫПИЛИ КОФЕ
+//ЗАБРОС И ОЖИДАНИЕ ДНА + ПРОВЕРКА НА ПОКЛЁВКУ ПРИ ПАДЕНИИ
+KeyDown 33 1
+KeyUp 33 1
+LeftDown 1
+Delay 64
+LeftUp 1
+KeyDown 33 1
+KeyUp 33 1
+KeyDown 33 1
+KeyUp 33 1
+KeyDown 34 1
+KeyUp 34 1
+Delay 6 s
+Delay 1500 2000 ms
+GoColor 43 2 171,171,171 255,255,255 1 556 1023 994 58 1 0
+Delay 1500 2000 ms
+GoColor 43 2 171,171,171 255,255,255 1 556 1023 992 58 1 0
+Delay 1999 2000 ms
+GoColor 43 2 171,171,171 255,255,255 1 556 1023 992 58 1 0
+Delay 1499 2000 ms
+GoColor 43 2 171,171,171 255,255,255 1 556 1023 992 58 1 0
+Delay 1500 2000 ms
+GoColor 43 2 171,171,171 255,255,255 1 556 1023 992 58 1 0
+Delay 1499 2500 ms
+GoColor 43 2 171,171,171 255,255,255 1 556 1023 992 58 1 0
+Delay 1500 2000 ms
+GoColor 43 2 171,171,171 255,255,255 1 556 1023 992 58 1 0
+Delay 1549 2550 ms
+GoColor 43 2 171,171,171 255,255,255 1 556 1023 992 58 1 0
+Delay 1499 2500 ms
+//ЗАБРОСИЛИ, ДОСТАЛИ ДО ДНА
+//КОД ПОДМОТКИ
+LeftDown 1
+Delay 720 850 ms
+LeftUp 1
+Delay 500 1000 ms
+//ЗАКОНЧИЛСЯ КОД ПОДМОТКИ
+//ЗАКОНЧИЛСЯ КОД ПОДМОТКИ
+RightDown 1
+Delay 500 ms
+RightUp 1
+Delay 1600 ms
+GoColor 44 3 171,171,171 255,255,255 1 556 1023 992 58 1 0
+GoColor 52 2 171,171,171 255,255,255 1 556 1023 992 58 1 0
+//КОД ПИЛКИНГА ЗАКОНЧЕН
+//ВЫВОД РЫБЫ ИЗ ВОДЫ 
+LeftDown 1
+Delay 30 60 ms
+KeyDown 225 1
+Delay 64 74 ms
+GoColor 73 3 171,171,171 255,255,255 1 556 1023 992 58 1 0
+GoColor 59 2 171,171,171 255,255,255 1 556 1023 992 58 1 0
+RightDown 1
+Delay 4000 5000 ms
+RightUp 1
+Delay 2000 3000 ms
+GoColor 52 2 171,171,171 255,255,255 1 556 1023 992 58 1 0
+//Рыба вышла из воды
+Delay 64 ms
+LeftUp 1
+Delay 64
+KeyUp 225 1
+//\\АВТО САДОК//
+Delay 2 s
+MoveTo 809 967
+Delay 2 s
+Delay 10 ms
+LeftDown 1
+LeftUp 1
+KeyDown 33 1
+KeyUp 33 1</Syntax>
+    </KeyDown>
+    <Software>Русская Рыбалка 4</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,70 @@
+<Root>
+  <DefaultMacro>
+    <Major>lxrkii</Major>
+    <Description>Лучший макрос, чтобы таймить ульту Shadow Fiend'a.
+
+
+
+Как работает:
+ - Нажимается юул, после чего срабатывает шива и манта, таймится ульт (тайминг идеальный 50% смерти противника), если противник не умирает(что происходит чаще всего) то финд начинает давать койлы(койлы направляйте сами, будьте готовы)
+
+
+Рекомендации:
+
+! НАВЕСТИ КУРСОР НА ПРОТИВНИКА !
+
+Z - Eul's Scepter of Divinity
+X - Shiva's Guard
+C - Manta Style
+
+Key's:
+q - low Raze
+w - mid Raze
+e - HIgh Raze
+R - Ultimate
+
+
+
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>
+KeyUp 6 1
+Delay 64
+KeyDown 6 1
+Delay 64
+KeyDown 29 1
+Delay 64
+KeyUp 29 1
+Delay 64
+KeyDown 27 1
+Delay 64
+KeyUp 27 1
+Delay 64
+Delay 700 ms
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 600 ms
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

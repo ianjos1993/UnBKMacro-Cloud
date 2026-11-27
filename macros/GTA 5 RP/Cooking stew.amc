@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>самостоятельно готовит рагу. В слотах после воды должны находится ингридиенты ( овощи, полуфабрикат в любо последовательности ). </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1249 283
+Delay 128 ms
+RightDown 1
+RightUp 1
+Delay 128 ms
+MoveTo 1165 285
+Delay 64
+RightDown 1
+RightUp 1
+Delay 128 ms
+MoveTo 1079 286
+Delay 128 ms
+RightDown 1
+RightUp 1
+Delay 128 ms
+MoveTo 928 571
+Delay 128 ms
+RightDown 1
+RightUp 1
+Delay 128 ms
+MoveTo 835 672
+Delay 128 ms
+LeftDown 1
+LeftUp 1
+Delay 5600 ms
+GoWhile 1 33</Syntax>
+    </KeyDown>
+    <Software>gta5 rp готовка</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>И вот обещанный однострочный макрос на зажатие кнопки взаимодействия "F"
+
+Как пользоваться:
+
+1) Наводитесь на объект, который требует  взаимодействия через зажатие "F"
+2) Нажимаете горячую клавишу, куда поставили этот макрос
+3) Опускаете руки под стол ;)
+
+Примечание: чтобы откатить макрос зажатия, требуется один раз кликнуть горячую клавишу по горячей клавише (на которую вы поставили макрос зажатия)
+
+Приятной игры :P</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 30 min</Syntax>
+    </KeyDown>
+    <Software>DayZ</Software>
+  </DefaultMacro>
+</Root>

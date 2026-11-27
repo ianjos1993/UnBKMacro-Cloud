@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Спам их тап стрейфа и прыжка, поможет для ras стрейфа, и для удобной смены направления полета, для удобства в идеале назначить на пробел</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+KeyDown 224 1
+KeyUp 44 1
+Delay 13 ms
+WheelUp 1
+Delay 13 ms
+WheelDown 1
+Delay 13 ms
+WheelUp 1
+Delay 13 ms
+WheelDown 1
+Delay 13 ms
+WheelUp 1
+Delay 13 ms
+WheelDown 1
+Delay 13 ms
+WheelUp 1
+Delay 13 ms
+WheelDown 1
+Delay 13 ms
+WheelUp 1
+Delay 13 ms
+WheelDown 1
+Delay 13 ms
+WheelUp 1
+Delay 13 ms
+WheelDown 1
+Delay 13 ms
+WheelUp 1
+Delay 13 ms</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

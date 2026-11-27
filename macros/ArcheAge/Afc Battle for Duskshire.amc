@@ -1,0 +1,54 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос предназнаен для того, что бы не появлялась табличка "отсутствует" и при окончании ивента вам досталась награда.
+1. заходим на ивент
+2. включаем макрос
+3. персонаж будет прирывисто идти вперёд (советую упереться в какое то припятствие)
+4. можем отходить от компа и заниматься своими делами.
+(Табличка "отсутствует" не появится. От кика со стороны других игроков вы не застрахованы)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1434 ms
+KeyDown 26 1
+Delay 497 ms
+KeyUp 26 1
+Delay 919 ms
+KeyDown 26 1
+Delay 536 ms
+KeyUp 26 1
+Delay 746 ms
+KeyDown 26 1
+Delay 650 ms
+KeyUp 26 1
+Delay 3630 ms
+KeyDown 26 1
+Delay 384 ms
+KeyUp 26 1
+Delay 1834 ms
+KeyDown 26 1
+Delay 460 ms
+KeyUp 26 1
+Delay 1592 ms
+KeyDown 26 1
+Delay 460 ms
+KeyUp 26 1
+Delay 921 ms
+KeyDown 26 1
+Delay 189 ms
+KeyUp 26 1
+Delay 1432 ms
+KeyDown 26 1
+Delay 193 ms
+KeyUp 26 1
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Archeage</Software>
+  </DefaultMacro>
+</Root>

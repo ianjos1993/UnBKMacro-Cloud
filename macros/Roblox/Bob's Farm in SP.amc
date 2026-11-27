@@ -1,0 +1,53 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Почти автоматический фарм. Если персонаж будет смотреть на белый портал при спавне нужно будет помочь мышкой.
+Монитор:1280x1080
+Чуствительность(Camera sensitivity):0.51999
+Лицо:От первого лица
+
+Удачи в использовании</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 1 s
+MoveR 620 3
+Delay 64
+RightUp 1
+Delay 64
+KeyDown 26 1
+Delay 3 s
+KeyUp 26 1
+Delay 1 s
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 1 s
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 4 s
+RightDown 1
+Delay 64
+MoveR -580 -12
+Delay 64
+RightUp 1
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

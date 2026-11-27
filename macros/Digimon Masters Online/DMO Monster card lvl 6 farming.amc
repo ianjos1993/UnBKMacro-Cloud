@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major>iV3Xz</Major>
+    <Description>Hello hello!!! Are you looking for the grand prize Gehenna? Well, even though it's difficult to get - for free at least - there is a chance with BM boxes. You can farm them from MC lv6 and lv7. So the idea here is to leave a strong digi insta killing digimons that give MC lv6.
+
+First, a few recommendations:
+1) Have a Magnetic ID so you won't even have to work on grabbing all the loot. If you don't have it, just add a "4" on the macro so you pick them up.
+2) Have a strong digi lvl 95+. This way, all your attacks will be crit (if you have a little bit of clone on crit), and you will insta kill every digi.
+3) Regarding where to go, I recommend File Island Waterfront, where Volcamon is. Go to the upper right and leave the bot farming there.
+
+Now, for the important part:
+1) If you don't have a digi soul, leave a DS fruit on F5 so your digi doesn't devolve.
+2) If you have enough energy Pills, put one on F6 so you will never get fatigued and that way you won't be reported.
+3) I have already made a MC6 killing macro, feel free to look it up and use it!
+4) I recommend farming at least 500 MC lv6, so you will get a lot of rewards. With the money from farming the monsters, you will also be able to buy MC lv6 from players. Do that too.
+
+Anyway, that's all for today! Hope you get lucky and get Gehenna! Good luck!</Description>
+    <Comment>https://botmek.com - Free macros download</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 1 s
+KeyUp 43 1
+Delay 64
+KeyDown 30 1
+Delay 1 s
+KeyUp 30 1
+Delay 64
+KeyDown 58 1
+Delay 1 s
+KeyUp 58 1
+Delay 64
+GoWhile 1 50
+KeyDown 62 1
+Delay 64
+KeyUp 62 1
+Delay 64
+KeyDown 63 1
+Delay 64
+KeyUp 63 1
+Delay 64
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Digimon Masters Online</Software>
+  </DefaultMacro>
+</Root>

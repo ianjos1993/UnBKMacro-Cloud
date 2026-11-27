@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Позволяет выставлять множество однотипных предметов на аукцион, чтобы не ждать ограничения самому. 
+
+Сделан под разрешение 1980*1080
+
+Перед запуском выставьте цены, и закиньте предметы в окно аукциона.
+Запустите макрос.
+Заварите чайку.
+Выключите макрос.
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 849 923
+Delay 64
+LeftDown 1
+Delay 2 5 ms
+LeftUp 1
+Delay 2 s
+MoveTo 966 577
+Delay 64
+LeftDown 1
+Delay 2 5 ms
+LeftUp 1
+Delay 4 s</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

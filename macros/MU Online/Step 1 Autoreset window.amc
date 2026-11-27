@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Упращенный авторесет на 1 окно .
+Инструкция как пользоватся.
+1. привязываете окно к игре.
+2.пишите в чате /reset нажимаете ENTER
+Готово! осталось запутстиь макрос. Наслаждайтесь!</Description>
+    <Comment>by Uxox (если возникли проблемы с макросом пишите в личку)</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 5 s
+Delay 64
+KeyDown 88 1
+KeyUp 88 1
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>MU Online</Software>
+  </DefaultMacro>
+</Root>

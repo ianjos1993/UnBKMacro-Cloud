@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на обейю кр762, тк винтовка в игре является полуавтоматической и имеет сильную отдачу. Я написал макрос позоволяющий стрелять в автоматическом режиме, так же макрос позволяеть уменьшить отдачу за счет изменения положения курсора мыши. Макрос вполене подойдет и для других игр, но в других играх задержку между выстрелами скорее всего придется изменить.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 22
+LeftUp 1
+MoveR 0 1
+LeftDown 1
+Delay 22
+LeftUp 1
+Delay 22</Syntax>
+    </KeyDown>
+    <Software>APB Reloaded</Software>
+  </DefaultMacro>
+</Root>

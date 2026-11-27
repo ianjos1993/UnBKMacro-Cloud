@@ -1,0 +1,49 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro will work for you to shoot quickly at weapons that are semi-automatic and three shots at a time.
+
+
+
+It is recommended that you use it on a computer with 200+ FPS.
+
+
+
+If you play at 300FPS, all the better.
+
+
+
+To unlock the FPS within APEX, go to the game settings in steam, startup commands, and paste the following code: +fps_max unlimited
+
+
+
+Thank you,
+
+Peace</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 40 ms
+LeftDown 1
+Delay 40 ms
+LeftUp 1
+Delay 40 ms
+LeftDown 1
+Delay 40 ms
+LeftUp 1
+Delay 40 ms
+LeftDown 1
+Delay 40 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Плавный макрос на Python
+1. Чувствительность 0.8
+2. FOV - какой удобен.
+
+Демонстрация плавности макроса : https://youtu.be/D7-MtqSegeI
+
+- Как установить макрос c расширением .amc - https://youtu.be/r0xms7OQLto
+- Режимы работы макроса - https://youtu.be/Cvc3JBgHpNw
+- Инструкция к программе - https://wiki.botmek.ru/
+- Техническая поддержка по макросам в игре RUST, модератор Codename - https://botmek.ru/forum/profile/4868-codename/</Description>
+    <Comment>123</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 6 ms
+MoveR 0 7
+Delay 20 ms
+MoveR 0 7
+Delay 20 ms
+MoveR 0 7
+Delay 20 ms
+MoveR 0 7
+Delay 20 ms
+MoveR 0 8
+Delay 20 ms
+MoveR 0 8
+Delay 6 ms
+LeftUp 1
+Delay 249 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

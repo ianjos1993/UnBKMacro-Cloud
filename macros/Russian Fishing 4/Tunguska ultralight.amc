@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Russian Fishing 4 
+р.Тунгуска спининг ультролайт
+скорость проводки от 20 до 28
+работает все на автомате (рыбу ложит в садок) на 50 забросов
+блеснаа вертушка от 3 до 4 грамм </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 3071 ms
+LeftUp 1
+Delay 2775 ms
+LeftDown 1
+Delay 1040 ms
+LeftUp 1
+Delay 559 ms
+LeftDown 1
+Delay 36535 ms
+RightDown 1
+Delay 584 ms
+KeyDown 225 1
+Delay 5471 ms
+KeyUp 225 1
+Delay 16 ms
+LeftUp 1
+Delay 8 ms
+RightUp 1
+Delay 1271 ms
+KeyDown 44 1
+Delay 176 ms
+KeyUp 44 1
+Delay 767 ms
+KeyDown 44 1
+Delay 143 ms
+KeyUp 44 1
+GoWhile 1 50</Syntax>
+    </KeyDown>
+    <Software>Russian Fishing 4</Software>
+  </DefaultMacro>
+</Root>

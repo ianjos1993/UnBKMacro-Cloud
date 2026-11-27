@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>weapon slide</Major>
+    <Description>This macro is for weapon slide, it does everything with just one button press, simply insert weapon on P assign and equip weapon on O assign
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 19 1
+KeyUp 19 1
+Delay 20 ms
+KeyDown 224 1
+Delay 40 ms
+KeyDown 18 1
+Delay 250 ms
+KeyUp 18 1
+KeyDown 44 1
+Delay 1 ms
+KeyUp 224 1
+Delay 5 ms
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major>Автоматическое просеивание гравия/песка в игре Vintage Story.</Major>
+    <Description>Макрос для автоматического просеивания гравия/песка в игре Vintage Story. Добавлена возможность автоматической смерти от толсторога для поддержания голода и здоровья в пределах половины. Для корректной работы требуется второй макрос на установку блока и структура с водой, воронками и толсторогом в загоне. Разрешение 1680x1050.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64
+Delay 100 ms
+RightUp 1
+Delay 700 ms
+RightDown 1
+Delay 100 ms
+RightUp 1
+Delay 6000 ms
+GoWhile 1 224
+KeyDown 4 1
+Delay 2000 ms
+KeyUp 4 1
+Delay 7000 ms
+MoveTo 847 578
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 1000 ms
+KeyDown 7 1
+Delay 2000 ms
+KeyUp 7 1
+KeyDown 6 1
+Delay 64
+KeyUp 6 1
+Delay 64
+KeyDown 6 1
+Delay 64
+KeyUp 6 1
+Delay 64
+MoveTo 737 774
+Delay 1000 ms
+GoWhile 1 100</Syntax>
+    </KeyDown>
+    <Software>Vintage Story</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>РУС: Это фейковый Анти-Аим (чтобы пошутить над людьми), работает в любых играх.
+ENG: It is fake Anti-Aim (for pranking people), working for all games.</Description>
+    <Comment>By SaHaL1NeZ (SaHaL1NeZ#2780)</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR 120 394
+Delay 40 ms
+MoveR 300 396
+Delay 40 ms
+MoveR -120 394
+Delay 40 ms
+MoveR -300 396
+Delay 40 ms</Syntax>
+    </KeyDown>
+    <Software>Другие</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major>Moviment left side</Major>
+    <Description>Its a fast back dash for all tekken games on the left side.
+
+Also, to ensure the correct operation of the macro, you will need to configure certain buttons in the game. Here are the buttons and their corresponding settings you should use:
+- Up - W
+- Down - S
+- Left - A
+- Right - D
+
+you need to hold the button to make work</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 17 ms
+KeyUp 4 1
+Delay 17 ms
+KeyDown 4 1
+Delay 17 ms
+KeyUp 4 1
+Delay 165 ms
+KeyDown 22 1
+KeyDown 4 1
+Delay 17 ms
+KeyUp 22 1
+KeyUp 4 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

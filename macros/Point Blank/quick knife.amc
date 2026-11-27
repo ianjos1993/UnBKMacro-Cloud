@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос для ножа! кто любитель ножей , и поиграть на паблике с ножом . то бири и пользуйся) 
+устанавливаем данный макрос:
+советую ставить на клавишу alt очень удобно! </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 19 ms
+LeftUp 1
+Delay 19 ms
+KeyDown 34 1
+Delay 15 ms
+KeyUp 34 1
+Delay 15 ms
+KeyDown 32 1
+Delay 15 ms
+KeyUp 32 1
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

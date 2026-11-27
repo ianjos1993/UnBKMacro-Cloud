@@ -1,0 +1,145 @@
+<Root>
+  <DefaultMacro>
+    <Major>Предупреждение команде через терминал</Major>
+    <Description>Макрос вводит в терминале transmit exit now, затем view monitor. Отправляет команде сообщение «выходите сейчас» и открывает карту с игроками.
+
+На корабле должен быть куплен Signal Translator. Перед запуском откройте терминал, оставьте строку ввода пустой и включите английскую раскладку.
+
+Назначьте макрос на свободную кнопку, например F6. Режим выполнения — один раз.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 250 ms
+KeyDown 23 1
+Delay 35 ms
+KeyUp 23 1
+Delay 65 ms
+KeyDown 21 1
+Delay 35 ms
+KeyUp 21 1
+Delay 65 ms
+KeyDown 4 1
+Delay 35 ms
+KeyUp 4 1
+Delay 65 ms
+KeyDown 17 1
+Delay 35 ms
+KeyUp 17 1
+Delay 65 ms
+KeyDown 22 1
+Delay 35 ms
+KeyUp 22 1
+Delay 65 ms
+KeyDown 16 1
+Delay 35 ms
+KeyUp 16 1
+Delay 65 ms
+KeyDown 12 1
+Delay 35 ms
+KeyUp 12 1
+Delay 65 ms
+KeyDown 23 1
+Delay 35 ms
+KeyUp 23 1
+Delay 65 ms
+KeyDown 44 1
+Delay 35 ms
+KeyUp 44 1
+Delay 65 ms
+KeyDown 8 1
+Delay 35 ms
+KeyUp 8 1
+Delay 65 ms
+KeyDown 27 1
+Delay 35 ms
+KeyUp 27 1
+Delay 65 ms
+KeyDown 12 1
+Delay 35 ms
+KeyUp 12 1
+Delay 65 ms
+KeyDown 23 1
+Delay 35 ms
+KeyUp 23 1
+Delay 65 ms
+KeyDown 44 1
+Delay 35 ms
+KeyUp 44 1
+Delay 65 ms
+KeyDown 17 1
+Delay 35 ms
+KeyUp 17 1
+Delay 65 ms
+KeyDown 18 1
+Delay 35 ms
+KeyUp 18 1
+Delay 65 ms
+KeyDown 26 1
+Delay 35 ms
+KeyUp 26 1
+Delay 65 ms
+KeyDown 40 1
+Delay 50 ms
+KeyUp 40 1
+Delay 1000 ms
+KeyDown 25 1
+Delay 35 ms
+KeyUp 25 1
+Delay 65 ms
+KeyDown 12 1
+Delay 35 ms
+KeyUp 12 1
+Delay 65 ms
+KeyDown 8 1
+Delay 35 ms
+KeyUp 8 1
+Delay 65 ms
+KeyDown 26 1
+Delay 35 ms
+KeyUp 26 1
+Delay 65 ms
+KeyDown 44 1
+Delay 35 ms
+KeyUp 44 1
+Delay 65 ms
+KeyDown 16 1
+Delay 35 ms
+KeyUp 16 1
+Delay 65 ms
+KeyDown 18 1
+Delay 35 ms
+KeyUp 18 1
+Delay 65 ms
+KeyDown 17 1
+Delay 35 ms
+KeyUp 17 1
+Delay 65 ms
+KeyDown 12 1
+Delay 35 ms
+KeyUp 12 1
+Delay 65 ms
+KeyDown 23 1
+Delay 35 ms
+KeyUp 23 1
+Delay 65 ms
+KeyDown 18 1
+Delay 35 ms
+KeyUp 18 1
+Delay 65 ms
+KeyDown 21 1
+Delay 35 ms
+KeyUp 21 1
+Delay 65 ms
+KeyDown 40 1
+Delay 50 ms
+KeyUp 40 1
+Delay 1000 ms</Syntax>
+    </KeyDown>
+    <Software>Lethal Company</Software>
+  </DefaultMacro>
+</Root>

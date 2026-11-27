@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>ставим винтовку и основное оружие на эти кнопки и радуемся жизни.
+alt+z на свап винтовки 
+alt+x на свап основного оружия</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 226 1
+Delay 44 ms
+KeyDown 29 1
+Delay 44 ms
+KeyUp 29 1
+Delay 44 ms
+KeyDown 29 1
+Delay 44 ms
+KeyUp 29 1
+Delay 44 ms
+KeyDown 27 1
+Delay 44 ms
+KeyUp 27 1
+Delay 44 ms</Syntax>
+    </KeyDown>
+    <Software>Archeage</Software>
+  </DefaultMacro>
+</Root>

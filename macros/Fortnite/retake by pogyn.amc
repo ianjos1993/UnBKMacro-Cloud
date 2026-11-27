@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description> Всем спасибо за пользования моего макроса.
+   Создания удобств:
+1. В 5/9-ой строке кода ставим ту кнопку на которую у вас стоит стенка.
+2. В 4-ой строке ставим значение в мс которое для вас подходит (значение зависит от вашего пинга, чем ниже пинг - чем ниже ставим мс). - ОБЯЗАТЕЛЬНО ПРОЧИТАТЬ.
+3. В 12-ой строке ставим ту кнопку на которую у вас стоит дробвик. 
+4. Сохраняем макрос и кайфуем.
+ В чем суть макроса? - быстрый отбор стенок у типов с 0 пингом</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 85 ms
+LeftUp 1
+Delay 85 ms
+KeyDown 20 1
+Delay 70 ms
+LeftDown 1
+Delay 1 ms
+KeyUp 20 1
+Delay 1 ms
+GoWhile 5 2
+KeyDown 31 1
+LeftUp 1
+Delay 1 ms
+Delay 10 ms
+KeyUp 31 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

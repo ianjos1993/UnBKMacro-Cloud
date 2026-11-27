@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>The macro is designed for the ultimate combo For Geni allowing you to make a dash and immediately make a slash.
+It will help u if u want to make a highlights :)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 60
+KeyUp 225 1
+Delay 300 ms
+LeftDown 1
+Delay 45
+LeftUp 1
+Delay 32 ms</Syntax>
+    </KeyDown>
+    <Software>Overwatch</Software>
+  </DefaultMacro>
+</Root>

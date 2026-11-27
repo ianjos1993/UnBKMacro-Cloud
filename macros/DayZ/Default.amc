@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос  на кирку raiden pve копающую руду, не донатная. Которой можно дробить породу в инных количествах</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 749 ms
+LeftDown 1
+Delay 11040 ms
+LeftUp 1
+Delay 1255 ms
+LeftDown 1
+Delay 11248 ms
+LeftUp 1
+Delay 42 ms
+LeftUp 1
+Delay 1702 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+GoWhile 1 999</Syntax>
+    </KeyDown>
+    <Software>DayZ</Software>
+  </DefaultMacro>
+</Root>

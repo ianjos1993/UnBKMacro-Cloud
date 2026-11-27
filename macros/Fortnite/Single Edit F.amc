@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Single edit F... use edit bind F and select edit to left click any bind to start its really easy and fun for when you want to make ppl float. and in creative its pretty cool</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 3 ms
+LeftUp 1
+Delay 3 ms
+KeyDown 9 1
+Delay 3 ms
+KeyUp 9 1
+Delay 3 ms
+LeftDown 1
+Delay 3 ms
+LeftUp 1
+Delay 3 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

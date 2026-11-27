@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>Стробоскопы</Major>
+    <Description>Стробоскопы для ROBLOX. пойдет для всех игр где имеются машины с фарами, данный макрос работает на букву L = кнопка включения фар.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+стробоскопы</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 15 1
+Delay 69 ms
+KeyDown 15 1
+Delay 150 ms
+KeyDown 15 1
+Delay 500 ms
+GoWhile 1 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

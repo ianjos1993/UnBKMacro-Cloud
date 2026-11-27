@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос преднозначен для баннихопа в кс го.Он очень прост в использование.
+1)Качаем макрос.
+2)Ставим на SPACE (тоесть) пробел.И ставим режим работы пока нажата клавиша.
+3)Все! Приятной игры и крачивых киллов).</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 5 ms
+KeyUp 44 1
+Delay 120 ms</Syntax>
+    </KeyDown>
+    <Software>CS: GO</Software>
+  </DefaultMacro>
+</Root>

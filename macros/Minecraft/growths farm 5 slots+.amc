@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Это макрос для фермы наростов в гардене( длина 5 слотов, ширина 1 слот и каждая грядка в 5 блоков). Для полного использования на блоке где начинается фарм выставите курсор на 90 градусов( удобнее использовать при комбинации F3) и используйте команду /sethome дальше включаете макро и в конце фарма он падает в пропасть и возвращает в исходную точку.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+KeyDown 4 1
+Delay 64
+Delay 125 s
+KeyUp 4 1
+KeyDown 26 1
+Delay 3 s
+KeyUp 26 1
+KeyDown 7 1
+Delay 124 s
+KeyUp 7 1
+KeyDown 26 1
+Delay 3 s
+KeyUp 26 1
+GoWhile 3 4
+KeyDown 4 1
+Delay 124 s
+KeyUp 4 1
+KeyDown 26 1
+Delay 3 s
+KeyUp 26 1
+KeyDown 7 1
+Delay 125 s
+KeyUp 7 1
+Delay 64
+GoWhile 1 522</Syntax>
+    </KeyDown>
+    <Software>Minecraft (Hypixel skyblock)</Software>
+  </DefaultMacro>
+</Root>

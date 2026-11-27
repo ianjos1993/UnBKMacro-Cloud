@@ -1,0 +1,56 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>При нажатии забинденной кнопки в игре magic training заклинание само открывает чат вприсывает и активирует заклинание это для более удобной и быстрой игры.Оно также делает большой шар  который защищает тебя от воздейтвий магий лругих играков</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 64 ms
+KeyUp 56 1
+Delay 64 ms
+KeyDown 19 1
+KeyUp 19 1
+KeyDown 21 1
+KeyUp 21 1
+KeyDown 18 1
+KeyUp 18 1
+KeyDown 23 1
+KeyUp 23 1
+KeyDown 8 1
+KeyUp 8 1
+KeyDown 10 1
+KeyUp 10 1
+KeyDown 18 1
+KeyUp 18 1
+KeyDown 44 1
+KeyUp 44 1
+KeyDown 23 1
+KeyUp 23 1
+KeyDown 18 1
+KeyUp 18 1
+KeyDown 23 1
+KeyUp 23 1
+KeyDown 4 1
+KeyUp 4 1
+KeyDown 15 1
+KeyUp 15 1
+KeyDown 24 1
+KeyUp 24 1
+KeyDown 16 1
+Delay 32 ms
+KeyUp 16 1
+Delay 32 ms
+KeyDown 88 1
+Delay 64 ms
+KeyUp 88 1
+Delay 64 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

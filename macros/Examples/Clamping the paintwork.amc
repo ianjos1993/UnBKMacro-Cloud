@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>так как я не нашёл отдельной программы для зажатия ЛКМ я решил сделать специальный макрос выполняющий такую задачу.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 60 min
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Зажатие ЛКМ</Software>
+  </DefaultMacro>
+</Root>

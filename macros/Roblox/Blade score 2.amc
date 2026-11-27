@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос был создан для Roblox а именно для Blade Ball.
+Активировав этот макрос вам нужно зажать на кнопку, по умолчанию ЛКМ, и макрос будет кликать за вас, естественно если вы отпустите ЛКМ макрос перестанет кликать. 
+Макрос делает 600+ кликов за 10 секунд</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 15 ms
+LeftDown 1
+Delay 15 ms
+LeftDown 1
+Delay 15 ms
+LeftDown 1
+Delay 15 ms
+LeftDown 1
+Delay 15 ms
+LeftDown 1
+Delay 15 ms
+LeftDown 1
+Delay 15 ms
+LeftDown 1
+Delay 15 ms
+LeftDown 1
+Delay 15 ms
+LeftDown 1
+Delay 15 ms
+GoWhile 10 86400000</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

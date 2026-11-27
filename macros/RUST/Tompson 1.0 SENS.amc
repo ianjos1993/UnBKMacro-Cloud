@@ -1,0 +1,77 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на раст 
+Сенса 1.0
+С прицелом 0.8
+По установке все просто:
+Заходим в bm, потом в a4tech (вкладка) и открываем файл!
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 24 ms
+MoveR -2 5
+Delay 24 ms
+MoveR -2 5
+Delay 24 ms
+MoveR -2 5
+Delay 96 ms
+MoveR -1 6
+Delay 24 ms
+MoveR -1 6
+Delay 24 ms
+MoveR -1 6
+Delay 24 ms
+MoveR -1 6
+Delay 24 ms
+MoveR -1 6
+Delay 24 ms
+MoveR 0 3
+Delay 24 ms
+MoveR 0 3
+Delay 24 ms
+MoveR 0 3
+Delay 24 ms
+MoveR 0 3
+Delay 24 ms
+MoveR 0 3
+Delay 125 ms
+MoveR 4 8
+Delay 96 ms
+MoveR 0 10
+Delay 96 ms
+MoveR 5 15
+Delay 96 ms
+Delay 125 ms
+Delay 125 ms
+MoveR 0 10
+Delay 125 ms
+MoveR 0 10
+Delay 125 ms
+MoveR 0 10
+Delay 125 ms
+MoveR 0 10
+Delay 125 ms
+MoveR 0 10
+Delay 125 ms
+Delay 125 ms
+Delay 125 ms
+Delay 125 ms
+Delay 125 ms
+Delay 125 ms
+Delay 125 ms
+MoveR 0 10
+Delay 125 ms
+LeftUp 1
+Delay 96 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

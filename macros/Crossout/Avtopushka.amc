@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автопушки стреляют без разбросов и 100% точностью стреляете вы можете легко издалека убить врага, но лучше пользуйтесь таких автопушек как: Рапира, Шторм, Вихрь, Штиль.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 22 ms
+KeyDown 33 1
+Delay 100 ms
+KeyUp 33 1
+Delay 22 ms
+KeyDown 34 1
+Delay 100 ms
+KeyUp 34 1
+Delay 22 ms</Syntax>
+    </KeyDown>
+    <Software>Crossout</Software>
+  </DefaultMacro>
+</Root>

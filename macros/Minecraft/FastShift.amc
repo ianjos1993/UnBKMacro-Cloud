@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Если лень нажимать на шифт когда выдишь друга тогда скачай мой макрос с помощью его ты можешь много раз нажимать на шифт!!!!
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 20 ms
+KeyUp 225 1
+Delay 20 ms
+KeyDown 225 1
+Delay 20 ms
+KeyUp 225 1
+Delay 20 ms
+KeyDown 225 1
+Delay 20 ms
+KeyUp 225 1
+Delay 20 ms
+KeyDown 225 1
+Delay 20 ms
+KeyUp 225 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

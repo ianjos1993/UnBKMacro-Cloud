@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Eng: Macros which automatically writing spell "Ascendio in the chat"
+Rus: макрос позволяющий вводить аскендио в чат моменатльно
+
+Ascendio - полезное заклинание для игры Magic Training.Позволяет уклоняться от кастов противника и улучшать свои собственные касты путём выстрела с большой высоты.В таком случае,противник будет не подготовлен во время применить контр заклинание или заблокировать его.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 5
+KeyUp 4 1
+Delay 5
+KeyDown 22 1
+Delay 5
+KeyUp 22 1
+Delay 5
+KeyDown 6 1
+Delay 5
+KeyUp 6 1
+Delay 5
+KeyDown 8 1
+Delay 5
+KeyUp 8 1
+Delay 5
+KeyDown 17 1
+Delay 5
+KeyUp 17 1
+Delay 5
+KeyDown 7 1
+Delay 5
+KeyUp 7 1
+Delay 5
+KeyDown 12 1
+Delay 5
+KeyUp 12 1
+Delay 5
+KeyDown 18 1
+Delay 5
+KeyUp 18 1
+Delay 5</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

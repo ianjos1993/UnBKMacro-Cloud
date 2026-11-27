@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>RISEEE</Major>
+    <Description>Макрос создан для легкого использования кнопок 1 - 2. 
+
+Макрос работает на любой версии игры. Для более лучшей работы макроса, нужно всего лишь забиндить на любую, удобную для вас кнопку.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

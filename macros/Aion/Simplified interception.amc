@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Упрощённый макрос перехвата, можно прервать анимацию и развести врага, обновленны тайминги и режима работы(плюс работает теперь на A4tech)
+Принцип работы:Во время погони нажать на кпонку макроса, после он будет повторять прокаст до нажатия кнопки макроса повторно</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 2212 ms
+KeyDown 32 1
+Delay 161 ms
+KeyUp 32 1
+Delay 1741 ms
+KeyDown 42 1
+Delay 147
+KeyUp 42 1
+Delay 144 ms
+KeyDown 42 1
+Delay 88 ms
+KeyUp 42 1
+KeyDown 35 1
+KeyUp 35 1
+KeyDown 34 1
+KeyUp 34 1
+KeyDown 39 1
+KeyUp 39 1
+KeyDown 33 1
+KeyUp 33 1</Syntax>
+    </KeyDown>
+    <Software>AION</Software>
+  </DefaultMacro>
+</Root>

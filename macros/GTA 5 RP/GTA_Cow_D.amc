@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>GTA5 RP - ферма
+Оптимальное доение коровы, начало с буквы D, в очень редких случаях корова может упасть.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 270 ms
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 270 ms
+GoWhile 1 22</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

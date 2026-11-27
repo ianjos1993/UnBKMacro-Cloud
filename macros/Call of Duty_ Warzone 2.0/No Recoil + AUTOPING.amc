@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major>No Recoil All guns + AUTOPING</Major>
+    <Description>(EN)
+Use the middle button as a mark
+No recoil works for most weapons.
+MARKING TUTORIAL: Go into the game settings and change the "mark enemy" button to the "middle mouse button"
+RECOIL TUTORIAL: just activate it with any weapon, sometimes it can work more on one weapon than the other.
+have fun. (marking enemies is pretty OVERPOWERED)
+Resolution: 1920x1080
+Sensitivity: 13.5
+DPI: 800</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64 ms
+MoveR 0 4
+Delay 64 ms
+MoveR 0 4
+Delay 64 ms
+MoveR 0 3
+Delay 64 ms
+MiddleDown 1
+Delay 100 ms</Syntax>
+    </KeyDown>
+    <Software>Call of Duty: Warzone 2.0</Software>
+  </DefaultMacro>
+</Root>

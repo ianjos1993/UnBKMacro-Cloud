@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro enables you to place a cone and a floor by using only one keyboard button. 
+
+To use, make sure you bind roof to 0, cone to =, and place build to -.
+
+Hold desired button to continue placing. Only a test.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 39 1
+KeyUp 39 1
+KeyDown 45 1
+Delay 15 ms
+KeyDown 46 1
+Delay 15 ms
+KeyUp 46 1
+Delay 15 ms
+KeyUp 45 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

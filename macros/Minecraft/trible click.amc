@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>это простой в создании амс макрос на трибл клик. нажимаете один раз на забинженую кнопку а он трижды нажимает на левую кнопку мышки.ддля использовния макроса нужно просто забиндить его на нужную вам кнопку и активировать ботмек</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 1 ms
+RightUp 1
+Delay 1 ms
+RightDown 1
+Delay 1 ms
+RightUp 1
+Delay 1 ms
+RightDown 1
+Delay 1 ms
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

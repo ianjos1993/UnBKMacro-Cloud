@@ -1,0 +1,108 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>При нажатии бинда открыватеся чат (в макросе стоит дефолдная кнопка T вы можите её поменять на своё усмотрение) и пишется фраза "Лицом к стене 1 2 3" между цифрами таймер нажатия 1000мс или 1с</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 20 ms
+KeyDown 23 1
+Delay 20 ms
+KeyUp 23 1
+Delay 20 ms
+KeyDown 225 1
+Delay 20 ms
+KeyDown 14 1
+Delay 20 ms
+KeyUp 14 1
+Delay 20 ms
+KeyUp 225 1
+Delay 20 ms
+KeyDown 5 1
+Delay 20 ms
+KeyUp 5 1
+Delay 20 ms
+KeyDown 26 1
+Delay 20 ms
+KeyUp 26 1
+Delay 20 ms
+KeyDown 13 1
+Delay 20 ms
+KeyUp 13 1
+Delay 20 ms
+KeyDown 25 1
+Delay 20 ms
+KeyUp 25 1
+Delay 20 ms
+KeyDown 44 1
+Delay 20 ms
+KeyUp 44 1
+Delay 20 ms
+KeyDown 21 1
+Delay 20 ms
+KeyUp 21 1
+Delay 20 ms
+KeyDown 44 1
+Delay 20 ms
+KeyUp 44 1
+Delay 20 ms
+KeyDown 6 1
+Delay 20 ms
+KeyUp 6 1
+Delay 20 ms
+KeyDown 17 1
+Delay 20 ms
+KeyUp 17 1
+Delay 20 ms
+KeyDown 23 1
+Delay 20 ms
+KeyUp 23 1
+Delay 20 ms
+KeyDown 28 1
+Delay 20 ms
+KeyUp 28 1
+Delay 20 ms
+KeyDown 23 1
+Delay 20 ms
+KeyUp 23 1
+Delay 20 ms
+KeyDown 44 1
+Delay 20 ms
+KeyUp 44 1
+Delay 1000 ms
+KeyDown 30 1
+Delay 20 ms
+KeyUp 30 1
+Delay 20 ms
+KeyDown 44 1
+Delay 20 ms
+KeyUp 44 1
+Delay 1000 ms
+KeyDown 31 1
+Delay 20 ms
+KeyUp 31 1
+Delay 20 ms
+KeyDown 44 1
+Delay 20 ms
+KeyUp 44 1
+Delay 1000 ms
+KeyDown 32 1
+Delay 20 ms
+KeyUp 32 1
+Delay 20 ms
+KeyDown 88 1
+Delay 20 ms
+KeyDown 44 1
+Delay 20
+KeyUp 44 1
+Delay 20
+KeyUp 88 1</Syntax>
+    </KeyDown>
+    <Software>Garry´s Mod</Software>
+  </DefaultMacro>
+</Root>

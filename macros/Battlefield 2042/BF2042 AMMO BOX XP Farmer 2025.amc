@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>Robin</Major>
+    <Description>Just activate it and enjoy being afk for the round. Min-maxed the cooldown of the ammo package. Space does work, if you change your settings in keyran to use not only real keystrokes</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 1066 ms
+LeftUp 1
+Delay 214 ms
+KeyDown 44 1
+Delay 214 ms
+KeyUp 44 1
+Delay 3055 ms
+WheelDown 1
+Delay 325 ms
+LeftDown 1
+Delay 139 ms
+LeftUp 1
+Delay 658 ms</Syntax>
+    </KeyDown>
+    <Software>Battlefield 2042</Software>
+  </DefaultMacro>
+</Root>

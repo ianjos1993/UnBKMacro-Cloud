@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major>BlackMamba0205</Major>
+    <Description>for people who want to get better at pvp with this normal pistol but automatic accuracy 99% you will kill everyone
+
+sens 0.4
+
+Fov 90
+
+1920x1080
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 11 ms
+MoveR 0 7
+Delay 11 ms
+MoveR 0 7
+Delay 11 ms
+MoveR 0 7
+Delay 11 ms
+MoveR 0 7
+Delay 11 ms
+MoveR 0 8
+Delay 11 ms
+LeftUp 1
+Delay 12 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

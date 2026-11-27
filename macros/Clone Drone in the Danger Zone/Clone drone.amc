@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот скрипт создан для того чтобы быстро делать деш в  игре, в начале вам дается в низу 1 голубая полоска 
+1 деш забирает примерно 75% полоски 2 полоски = 3 деша.Чтобы скрипт работал вам ненужно покупать улучшение "Jet Pack" вы можете покупать полоски "Energy Capcility"  также вы можете улучшить скорость перезарядки оно называется "Energy Recharge" 
+
+Инструкция - Скачать программку Keyran. 2.Скачать мой макрос. 3. запустить программу Keyran. 4.Запустить редактор макросов. 5.Нажать открыть файл. 6. И выйти с редактора. 7. Забиндить макрос. 8. Наслаждаться игрой.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 7 ms
+KeyUp 225 1
+Delay 7 ms
+KeyDown 225 1
+Delay 7 ms
+KeyUp 225 1</Syntax>
+    </KeyDown>
+    <Software>Clone Drone in the Danger Zone</Software>
+  </DefaultMacro>
+</Root>

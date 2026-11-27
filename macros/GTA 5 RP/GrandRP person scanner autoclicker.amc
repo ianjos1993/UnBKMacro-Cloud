@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major>GrandRP person scanner autoclicker every 31 Sec</Major>
+    <Description>You need to use the people scanner in GrandRP, but can't remember when to look for the person again without pressing too early and having to wait the 30 seconds again, then this tool is for you. It triggers after 31 seconds (1 sec buffer). This macro is quite useful for the debt collector job, for example, to be able to concentrate on the road and not on the person scanner. I used the 4 as key, because in my opinion, if you have food and 3 different weapons with you, the weapons on the shortcut keys 1-3 and food on 5 are quite convenient. As a keybind for the macro I would use the key to the left of Q, because it is easily accessible while driving.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 33 1
+Delay 20 ms
+KeyUp 33 1
+Delay 31 s
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

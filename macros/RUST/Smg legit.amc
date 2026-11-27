@@ -1,0 +1,63 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для SMG в Rust: установите разрешение 1920x1080, FOV 90 и чувствительность 0.6 , 0.5 . Используйте режим зажима, сидя.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 200 ms
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 200 ms
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+MoveR 0 1
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

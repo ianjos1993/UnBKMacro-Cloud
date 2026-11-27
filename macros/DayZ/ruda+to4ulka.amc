@@ -1,0 +1,75 @@
+<Root>
+  <DefaultMacro>
+    <Major>AlEL</Major>
+    <Description>Продолжение макроса по добыче руды, теперь с заточкой инструмента:
+
+Руду перед собой бьет 12 раз.
+
+Точит инструмент точилкой, которая лежит у вас под ногами.
+
+В конце макрос проверяет состояние инструмента. Если инструмент не заточился (из-за каких-либо проблем или отсутствия точилок), макрос останавливается.
+
+Координаты рассчитаны на разрешение Full HD. Последний пункт был скорректирован с учетом моей цветокоррекции. Возможно, вам потребуется настроить цвет под свои параметры.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1300 ms
+WheelDown 1
+Delay 554 ms
+LeftDown 1
+Delay 8000 ms
+LeftUp 1
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+GoWhile 1 12
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 700 ms
+MoveTo 136 177
+Delay 64
+LeftDown 1
+Delay 64
+MoveTo 846 836
+Delay 64
+LeftUp 1
+Delay 500 ms
+LeftDown 1
+Delay 7500 ms
+LeftUp 1
+Delay 64
+KeyDown 43 1
+Delay 64
+Delay 700 ms
+MoveTo 145 204
+Delay 250 ms
+LeftDown 1
+Delay 200 ms
+MoveTo 952 495
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 2000 ms
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 1000 ms
+GoColor 1 2 80,230,50 120,255,90 2 119 956 6 8 1 0</Syntax>
+    </KeyDown>
+    <Software>DayZ</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>копьё с рывком поместите в 4 слот, а 3 слот оставить пустым (или положить туда то, что не имеет задержки, проверял только с пустым слотом)
+рекомендуется нажимать на горячую клавишу каждый раз, когда вы хотите использовать копьё с рывком без задержки, ведь я пробовал с повтором и ничего не работало</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 33 1
+Delay 2 ms
+LeftDown 1
+Delay 64 ms
+KeyUp 33 1
+LeftUp 1
+Delay 32 ms
+KeyDown 32 1
+Delay 64 ms
+KeyUp 32 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

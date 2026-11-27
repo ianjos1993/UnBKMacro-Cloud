@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>Hankishe</Major>
+    <Description>Макрос для игры в Роблокс ( Locked )
+Рабочий макрос на уникальное оружие в плейсе Locked
+Вместо геморроя и большого шанса промаха из за необходимости стоять спиной к цели, можно с 90% шансом ударить,смотря в необходимую точку.
+ Условия:Шифтлок, разрешение 1920x1080. Сенса мыши 0.5(можно эксперементировать)
+бинд на любые клавиши кроме R,Q
+
+
+По ошибкам писать в дс - hankishe204</Description>
+    <Comment>работает 90% случаев, фейлы только в  случаях несоблюдения условия</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR -720 0
+MoveR 0 -400
+Delay 30 ms
+KeyDown 21 1
+Delay 15 ms
+RightDown 1
+Delay 15 ms
+KeyUp 21 1
+Delay 15 ms
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

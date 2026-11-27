@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос позволит вам практический бесконечно стрелять без перезарядки. Вам всего лишь требуется активировать макрос каждый раз, когда у вас кончаются патроны. Если вы будете просто так активировать макрос (спамить по клавише активации), то иногда он может не работать, поэтому лучше его использовать только тогда, когда вам реально нужна перезарядка. Сам я оцениваю этот макрос на 10/10.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 84 1
+Delay 5 ms
+KeyUp 84 1
+Delay 5 ms
+KeyDown 225 1
+Delay 5 ms
+KeyDown 30 1
+Delay 5 ms
+KeyUp 30 1
+Delay 5 ms
+KeyUp 225 1
+Delay 5 ms
+KeyDown 21 1
+Delay 5 ms
+KeyUp 21 1
+Delay 5 ms
+KeyDown 9 1
+Delay 5 ms
+KeyUp 9 1
+Delay 5 ms
+KeyDown 88 1
+Delay 5 ms
+KeyUp 88 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>town (roblox)</Software>
+  </DefaultMacro>
+</Root>

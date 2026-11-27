@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Ускоренный разбор контейнера с одеждой за 7,4 сек.Сократил тайминги нажатий и убрал ненужные нажатия клавиш.Пришлось переделать-на слабых машинах скрипт заедало.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 27 1
+Delay 6500 ms
+KeyDown 44 1
+Delay 200 ms
+KeyUp 44 1
+Delay 1800 ms
+KeyUp 27 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy’s The Division 2</Software>
+  </DefaultMacro>
+</Root>

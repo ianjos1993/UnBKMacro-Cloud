@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major>Авто дроп гранат</Major>
+    <Description>Моментально выкидывает гранаты действует по нажатию на G
+
+--------------------------------------------------------------Важное------------------------------------------------------------------------
+надо что бы у вас в настройках игры был дроп гранат на кнопку G</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+Delay 50 ms
+KeyUp 10 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>Killing Floor</Software>
+  </DefaultMacro>
+</Root>

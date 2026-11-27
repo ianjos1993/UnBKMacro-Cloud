@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>!!!SCRIPT IS FOR HYPIXEL FARM!!!
+Its an script for a full lenght sugarcane farm.
+You start at the upper left so that you start walking left. You need to be in an 90 degree walk to the right. the rest is complete automated.
+I recommend building a stop so the script doesnt walk over the lane since the delay is off sometimes.
+I recommend you to get "Rancher Boots" and cap your speed 180 its the fastest with almost no loss.
+Have fun with automated Macro for hypixel sugarcane farm.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 7 1
+Delay 22 s
+KeyUp 7 1
+KeyDown 22 1
+Delay 440 ms
+KeyUp 22 1
+Delay 64
+KeyDown 4 1
+Delay 2 s
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 21 s
+KeyUp 4 1
+Delay 64
+KeyDown 22 1
+Delay 440 ms
+KeyUp 22 1
+Delay 64
+GoWhile 1 52</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

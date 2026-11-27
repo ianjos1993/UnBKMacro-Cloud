@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный файл позволяет обходить систему AFK в такое игре как роблокс, режим называется Southwest Florida Beta. Макрос настроен на прыжок и мотание головы из стороны в сторону в игре, и если ваш персонаж прыгает после включения макроса то значит он включен, Удачи в использовании!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 3 s
+KeyUp 44 1
+Delay 3 s
+RightDown 1
+MoveR -492 -56
+Delay 3 s
+MoveTo 1570 657
+Delay 3 s
+MoveTo 560 601
+Delay 3 s
+MoveTo 1397 672
+Delay 3 s
+RightUp 1
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro is designed for players who are starting to use anchors or don't know exactly how to use them.
+4 -for anchor
+5 -for glowstone
+g - for totem
+
+bind the macro to 4
+
+NOTICE: If you are on high ping, the macro may fail so try to tweak the delay a little bit to see what works for you!</Description>
+    <Comment>комментария нету,позже еще один макрос сделаю. Доброго вечера</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 33 1
+Delay 15 ms
+KeyUp 33 1
+Delay 20 ms
+RightDown 1
+Delay 20 ms
+RightUp 1
+Delay 30 ms
+KeyDown 34 1
+Delay 15 ms
+KeyUp 34 1
+Delay 20 ms
+RightDown 1
+Delay 20 ms
+RightUp 1
+Delay 30 ms
+KeyDown 10 1
+Delay 10 ms
+KeyUp 10 1
+Delay 15 ms
+RightDown 1
+Delay 15 ms
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

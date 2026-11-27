@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>froffssy</Major>
+    <Description>Макрос для игры в Роблокс ( Locked )
+Рабочий макрос на уникальное оружие в плейсе Locked.
+Чтоб попадать оружеем просто наведитесь на цель и нажмите бинд.
+ Условия:Шифтлок, разрешение 1920x1080. Сенса мыши 0.2.
+Бинд на любые клавиши кроме R,Q.
+
+
+при ошибках пишите в дс fat_prime</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR -1815 0
+MoveR 0 -400
+Delay 30 ms
+KeyDown 21 1
+Delay 15 ms
+RightDown 1
+Delay 15 ms
+KeyUp 21 1
+Delay 15 ms
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

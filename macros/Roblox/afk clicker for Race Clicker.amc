@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Для того чтобы afk кликер работал нужно:
+1.Скачать автокликер
+2.Включить режим автоматической гонки или afk режим
+3.Дождаться окончания раунда и запустить макрос
+Всё можно радоваться : )</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 28 s
+KeyDown 63 1
+Delay 2 ms
+KeyUp 63 1
+Delay 20 ms
+Delay 20 s
+KeyDown 63 1
+Delay 64
+KeyUp 63 1
+Delay 64
+Delay 3 s
+Delay 2 min</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

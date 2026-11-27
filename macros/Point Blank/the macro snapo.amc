@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на любую снайперку, фастзумит. Советую ставить назначение "Использовать пока кнопка нажата". 
+Советы!
+1. Ставьте на букву Q. Будет удобнее стрелять.
+2. Не рекомендуется использование на дальних дистанциях.
+3. Забейте на чат где пишут, что вы макросник зайдите в игру и наслаждайтесь :) &lt;3</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 10 ms
+LeftUp 1
+Delay 100 ms
+LeftDown 1
+Delay 100 ms
+RightUp 1
+Delay 64 ms
+KeyDown 32 1
+Delay 64 ms
+KeyUp 32 1
+Delay 64 ms
+KeyDown 30 1
+Delay 64 ms
+KeyUp 30 1
+Delay 64 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

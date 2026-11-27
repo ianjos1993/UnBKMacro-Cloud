@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на уникальный шифт в игре пятница 13 &gt; в этом макросе содержится 2 варианта факинг шифта. Если хотите 1 более удобный и менее затратный по времени ресурсам, то удалите все содержимое после пунктов Space и их, в том числе. Если хотите более затратный и затратный по ресурсам, то делаем все наоборот, довольно простой, но очень полезный</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+KeyDown 6 1
+Delay 4 ms
+KeyDown 6 1
+KeyUp 32 1
+Delay 4 ms
+KeyUp 6 1
+Delay 4 ms
+KeyUp 6 1
+Delay 4 ms
+KeyDown 44 1
+KeyUp 44 1
+KeyDown 44 1
+KeyUp 44 1
+KeyDown 9 1
+KeyUp 9 1
+RightDown 1
+RightUp 1
+KeyDown 32 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Friday the 13th: The Game</Software>
+  </DefaultMacro>
+</Root>

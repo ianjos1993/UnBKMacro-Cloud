@@ -1,0 +1,68 @@
+<Root>
+  <DefaultMacro>
+    <Major>Saint</Major>
+    <Description>Это переделанный и доделанный макрос от другого пользователя, который ранее был не юзабельный.
+В чем отличия этого макроса от других? 1) С этим макрсом вы в 90% случаев будете ловить свой долгожданный сигнал, 2) Макрос полность автоматический, сам открывает САК, сам выбирает среднюю дистанцию, сам определяет когда сигнал есть и начинает его поиск, по заверешению поиска сам ловит сигнал и закрывает САК. Ну а дальше вы уже идете и ловите с ДУД "Свеча" ваш желанный сигнал.
+
+Макрос написан для разрешения 2560x1440
+Использовать можно в оконном режиме
+
+Если вы хотите использовать макрос в другом разрешении, просьба понять, что вам нужны базовые знания использования программы Keyran. Вам нужно будет поменять все расположения пикселей под свой монитор и так-же переопределить цвет пикселя
+
+Удачи в собирательстве ДУД "Бурят"</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 230 1
+Delay 70 ms
+KeyUp 230 1
+Delay 70 ms
+MoveTo 1397 975
+Delay 70 ms
+LeftDown 1
+Delay 70 ms
+LeftUp 1
+Delay 70 ms
+GoColor 35 1 79,98,75 24,39,21 1 1010 577 995 504 1 0
+GoColor 13 0 79,98,75 24,39,21 1 1010 577 934 504 1 0
+Delay 70 ms
+MoveTo 1669 966
+Delay 70 ms
+LeftDown 1
+Delay 70 ms
+LeftUp 1
+Delay 70 ms
+GoColor 19 1 65,38,38 255,255,255 1 1440 921 259 160 1 0
+GoColor 22 0 65,38,38 255,255,255 1 1440 921 843 160 1 0
+MoveTo 1669 964
+Delay 70 ms
+LeftDown 1
+Delay 70 ms
+LeftUp 1
+Delay 70 ms
+MoveTo 950 777
+Delay 70 ms
+LeftDown 1
+Delay 70 ms
+LeftUp 1
+Delay 134 ms
+Goto 44
+KeyDown 230 1
+Delay 70 ms
+KeyUp 230 1
+Delay 70 ms
+KeyDown 230 1
+Delay 70 ms
+KeyUp 230 1
+Delay 70 ms
+Goto 4
+Delay 70 ms</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

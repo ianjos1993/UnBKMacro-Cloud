@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>S.A.R yarı otomatik tüfek Hololu seri sıkar ve çok az sekme yapar hassasiyet 0.45 görüş alanı FOV 80 dir.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+LeftUp 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

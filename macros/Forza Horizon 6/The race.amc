@@ -1,0 +1,73 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос отвечает за прогокну ивентовых заедов в игре Форза 6  на фарм очков талантов для автомобилей добивая его значение ровно до максимума</Description>
+    <Comment>ВАЖНО! 
+-Старт макроса начинается с меню выбора сложности и должен быть выбран пункт "начать заезд"
+
+-Для правильного и наиболее эффективного фарма должны быть выбраны натройки авторуления, максимальная сложность, ручной коробки передач, отстутствия любой помощи кроме самого авторуления
+
+-Требуется использовать автомобили с множителями очей за комбо и показателем "силы" авто н-е менее 900
+
+Удачи приятель и до встречи на фестивале Horizon!</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//Макрос отвечает за прогонку одного и того же заезда на фарм очков талантов автомобилей до максимального ограничения
+KeyDown 88 1
+Delay 56 ms
+KeyUp 88 1
+Delay 6336 ms
+KeyDown 26 1
+Delay 2528 ms
+KeyUp 26 1
+Delay 48 ms
+KeyDown 8 1
+Delay 48 ms
+KeyUp 8 1
+Delay 48 ms
+KeyDown 26 1
+Delay 1696 ms
+KeyUp 26 1
+Delay 48 ms
+KeyDown 8 1
+Delay 48 ms
+KeyUp 8 1
+Delay 48 ms
+KeyDown 26 1
+Delay 1696 ms
+KeyUp 26 1
+Delay 48 ms
+KeyDown 8 1
+Delay 48 ms
+KeyUp 8 1
+Delay 48 ms
+KeyDown 26 1
+Delay 4640 ms
+KeyUp 26 1
+Delay 48 ms
+KeyDown 8 1
+Delay 48 ms
+KeyUp 8 1
+Delay 48 ms
+KeyDown 26 1
+Delay 9999 ms
+KeyUp 26 1
+Delay 9137 ms
+KeyDown 27 1
+Delay 120 ms
+KeyUp 27 1
+Delay 1000 ms
+KeyDown 88 1
+Delay 104 ms
+KeyUp 88 1
+Delay 12000 ms
+GoWhile 2 116</Syntax>
+    </KeyDown>
+    <Software>Forza Horizon 6</Software>
+  </DefaultMacro>
+</Root>

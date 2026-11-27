@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major>Автоматическая рыбалка </Major>
+    <Description>Автоматическя рыбалка для игры архейдж. Ставишь персонажа к вобоёму, наводишь мышкой на воду и активируешь макрос</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 200 ms
+KeyUp 21 1
+Delay 200 ms
+Delay 2 s
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 200 ms
+Delay 6 s</Syntax>
+    </KeyDown>
+    <Software>Archeage</Software>
+  </DefaultMacro>
+</Root>

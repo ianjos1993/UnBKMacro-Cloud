@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Если вы имеете станд SSB, вы можете фармить используя этот макрос! Вы можете включить его и уйти по делам, макрос будет работать! Ваш станд будет всё время стрелять из пуль, поэтому советую вплотную встать к дамми, чтобы не промахнуться. (Включите Shift Lock Switch для вашего удобства)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 10 min
+KeyUp 23 1
+Delay 64
+KeyDown 22 1
+Delay 100 ms
+KeyUp 22 1
+Delay 64
+KeyDown 26 1
+Delay 100 ms
+KeyUp 26 1
+Delay 2 s</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

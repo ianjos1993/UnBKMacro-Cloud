@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Для оптимальной АФК прокачки навыка живучести нужно в прологе прокачать перк "Аскет", заполнить голод на макс. и включить макрос. С прыжками живучесть качается, долго но эффективно. Если макрос не работает, используете режим без привязки к окну с драйвером</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 3500 ms</Syntax>
+    </KeyDown>
+    <Software>Kingdom Come: Deliverance</Software>
+  </DefaultMacro>
+</Root>

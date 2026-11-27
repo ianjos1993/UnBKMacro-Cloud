@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>при активации персонаж будет ставить блок/платформу под указатель мыши а после на 1 блок продвигатся
+в право.
+
+ВАЖНО! встать к краю где собираетесь строить и поставить мышь вплотную к блоку на котором стоите(справа от него).</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 7 1
+Delay 250 ms
+KeyUp 7 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Terraria</Software>
+  </DefaultMacro>
+</Root>

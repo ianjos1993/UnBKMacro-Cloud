@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>МАКРОС ДЛЯ БД БАФА
+
+Что делаем:
+
+1.Выствляем на 2ю панель в ячейки с 3 по 8 нужные вам бд бафы
+2.Запускаем, бафаемся)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+KeyUp 32 1
+KeyDown 33 1
+KeyUp 33 1
+KeyDown 34 1
+KeyUp 34 1
+KeyDown 35 1
+KeyUp 35 1
+KeyDown 36 1
+KeyUp 36 1
+KeyDown 37 1
+KeyUp 37 1</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

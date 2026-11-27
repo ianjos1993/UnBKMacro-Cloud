@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос поможет автоматически фармить зоны. нажимает клавиши от 1 до 6. на клавиши нужно поставить атакующие способности, а также нацеливание на ближнюю цель</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 100
+KeyUp 30 1
+Delay 100
+KeyDown 31 1
+Delay 100
+KeyUp 31 1
+Delay 100
+KeyDown 32 1
+Delay 100
+KeyUp 32 1
+Delay 100
+KeyDown 33 1
+Delay 100
+KeyUp 33 1
+Delay 100
+KeyDown 34 1
+Delay 100
+KeyUp 34 1
+Delay 100
+KeyDown 35 1
+Delay 100
+KeyUp 35 1
+Delay 100</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

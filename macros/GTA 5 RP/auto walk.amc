@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major>anti afk</Major>
+    <Description>This easy-to-install macro ensures you stay active in-game while simultaneously engaging in the Wheel of Fortune feature, making your gameplay more efficient and enjoyable.
+With just one click, you can install the macro using the Keyran program</Description>
+    <Comment>"This macro is a great way to stay active and enjoy the Wheel of Fortune in GTA 5 RP effortlessly. Simple to install and use, it’s a helpful tool for enhancing gameplay!"
+
+https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 4733 ms
+KeyDown 26 1
+Delay 5396 ms
+KeyUp 26 1
+Delay 1213 ms
+KeyDown 22 1
+Delay 838 ms
+KeyDown 7 1
+Delay 230 ms
+KeyUp 22 1
+Delay 483 ms
+KeyDown 26 1
+Delay 127 ms
+KeyUp 7 1
+Delay 2526 ms
+KeyUp 26 1
+Delay 600000 ms
+GoWhile 1 999</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

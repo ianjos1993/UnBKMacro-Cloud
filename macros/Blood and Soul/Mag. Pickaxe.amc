@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Маг. кирка для раскопок в бастионе на 800 ударов 
+1) Ставим кирки в панель на 2 
+2) запускаем и копаем до посинения
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>varE = 0
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 70 min
+varE = 1
+if varE == 1 Goto 1</Syntax>
+    </KeyDown>
+    <Software>Blood and soul</Software>
+  </DefaultMacro>
+</Root>

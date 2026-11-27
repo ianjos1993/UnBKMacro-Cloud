@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major>oil pump grand rp</Major>
+    <Description>This is the perfect macro for the oil pump in grand rp 
+It's for the 20% boost
+When you installed bring it on a key bind, than you can go to the oil pump and press it, this it how it worked.
+the reselution souhld be window mode without Frame and 1920 x 1080</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1 s
+MoveTo 301 754
+Delay 64
+LeftDown 1
+Delay 4 s
+LeftUp 1
+Delay 150 ms
+MoveTo 403 755
+Delay 64
+LeftDown 1
+Delay 4 s
+LeftUp 1
+Delay 150 ms
+MoveTo 510 756
+Delay 64
+LeftDown 1
+Delay 4 s
+LeftUp 1
+Delay 150 ms
+MoveTo 615 755
+Delay 64
+LeftDown 1
+Delay 4 s
+LeftUp 1
+Delay 64
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

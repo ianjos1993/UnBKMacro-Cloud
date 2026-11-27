@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>все пули в точку,нужно менять X\Y для того чтобы настроить под свою сенсу,моя сенса 400dpi 0,16 в игре
+разрешение экрана 1280-1080</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 12 ms
+MoveR 0 27
+GoWhile 1 5
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 12 ms
+MoveR 0 0
+GoWhile 7 70</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

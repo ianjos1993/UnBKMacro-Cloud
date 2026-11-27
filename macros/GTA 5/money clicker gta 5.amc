@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Кликер денег для GTA Online. Подходит для чита Kiddion's Modest Menu. Как использовать: заходите в меню чита и ищите там Online Services далее Casino Services далее выбираете в первой строке 25,000 Chips и запускаете кликер.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1600 ms
+KeyDown 93 1
+KeyUp 93 1
+Delay 1600 ms
+KeyDown 93 1
+KeyUp 93 1
+Delay 1600 ms
+KeyDown 93 1
+KeyUp 93 1
+Delay 1600 ms
+KeyDown 93 1
+KeyUp 93 1
+Delay 1600 ms
+KeyDown 93 1
+KeyUp 93 1</Syntax>
+    </KeyDown>
+    <Software>GTA V</Software>
+  </DefaultMacro>
+</Root>

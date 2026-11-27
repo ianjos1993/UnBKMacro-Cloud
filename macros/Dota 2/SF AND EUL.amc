@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос помогающий затаймить реквием на Шадоу Финде
+Ульт стоит на R,
+Еул ставим на 3 с быстрым применением
+если не удобно поменяйте в макросе 3 на нужную вам клавишу
+(БЕЗ КАИ ЯШИ)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 800 ms
+KeyDown 21 1
+KeyUp 21 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

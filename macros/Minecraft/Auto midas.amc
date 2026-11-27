@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>этот макрос на сервере кристаликс в режиме custom steve chaos поможет по нажатию 1 кнопки мидасить мобов, но изначально вам нужно купить мидас и поставить его в 9 слот, также он может не работать из-за того что вы не установили драйвер
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 38 1
+Delay 64
+KeyUp 38 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

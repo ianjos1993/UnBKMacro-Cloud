@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Свежий бесплатный макрос для CS:GO на AK47 отдача убераеться почти в 0, стрелять легко
+Новичок на данном макросе убьёт любого топера!</Description>
+    <Comment>Accuracy
+</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 97 ms
+MoveR 0 8
+Delay 97 ms
+MoveR 0 16
+Delay 98 ms
+MoveR 0 32
+Delay 97 ms
+MoveR 0 24
+Delay 97 ms
+MoveR 12 36
+Delay 98 ms
+MoveR 4 24
+Delay 97 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>CS: GO</Software>
+  </DefaultMacro>
+</Root>

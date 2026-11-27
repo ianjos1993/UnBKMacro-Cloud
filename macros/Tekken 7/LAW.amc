@@ -1,0 +1,91 @@
+<Root>
+  <DefaultMacro>
+    <Major>Law Combo</Major>
+    <Description>Макрос позволяет выполнять combo 3+4 за LAW.
+Видео демонстрации работы макроса: https://youtu.be/ixZt8ne5Wjc
+
+Маршалл Лоу (Marshall Law) —  американский боец ​​китайского происхождения, который был представлен в оригинальной игре Tekken и вернулся во все последующие игры Tekken, кроме Tekken 3 и Tekken Tag Tournament (где его заменил его сын, Форест Лоу). Он очень близкий друг Пола Феникса и женат на миссис Лоу. Он и его семья в разное время владели додзё и рестораном.
+
+Тестирование макроса проводились на последнем патче игры на 23.04.2023 (5.01 патч)
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#lawtekken7 #tekken7 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 78 1
+Delay 127 ms
+KeyUp 78 1
+Delay 23 ms
+KeyDown 77 1
+Delay 72 ms
+KeyUp 77 1
+Delay 95 ms
+KeyDown 77 1
+Delay 56 ms
+KeyUp 77 1
+Delay 96 ms
+KeyDown 77 1
+Delay 79 ms
+KeyUp 77 1
+Delay 72 ms
+KeyDown 77 1
+Delay 103 ms
+KeyUp 77 1
+Delay 776 ms
+KeyDown 7 1
+Delay 72 ms
+KeyUp 7 1
+Delay 71 ms
+KeyDown 7 1
+Delay 96 ms
+KeyDown 74 1
+Delay 152 ms
+KeyUp 74 1
+Delay 15 ms
+KeyDown 73 1
+Delay 96 ms
+KeyUp 73 1
+Delay 111 ms
+KeyDown 76 1
+Delay 71 ms
+KeyUp 76 1
+Delay 64 ms
+KeyDown 76 1
+Delay 72 ms
+KeyUp 76 1
+Delay 95 ms
+KeyDown 76 1
+Delay 64 ms
+KeyUp 76 1
+Delay 63 ms
+KeyDown 76 1
+Delay 112 ms
+KeyUp 76 1
+Delay 7 ms
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 7</Software>
+  </DefaultMacro>
+</Root>

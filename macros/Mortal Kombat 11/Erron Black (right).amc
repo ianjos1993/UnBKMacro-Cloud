@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Приветствую! Хочу предстваить вашему вниманию макрос, который  позволяет делать анблок захват(Захват фермера) за персонажа Erron Black стоя справа от противника. </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 30 ms
+KeyUp 22 1
+Delay 30 ms
+KeyDown 7 1
+Delay 30 ms
+KeyUp 7 1
+Delay 30 ms
+KeyDown 4 1
+Delay 30 ms
+KeyUp 4 1
+Delay 30 ms
+KeyDown 13 1
+Delay 30 ms
+KeyUp 13 1
+Delay 30 ms</Syntax>
+    </KeyDown>
+    <Software>Mortal Kombat 11</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>simple quad edit, just change the keybinds and your good to go
+ 
+No need to chaneg sensitivity or anything, this will do a quad all for you just hold fowards and start the macro</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 1 ms
+KeyUp 26 1
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyDown 8 1
+Delay 1 ms
+KeyUp 8 1
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyDown 21 1
+Delay 1 ms
+KeyUp 21 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>fortnite</Software>
+  </DefaultMacro>
+</Root>

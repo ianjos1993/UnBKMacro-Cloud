@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>этот файл предназначен для сервера фантайм и т.д., чтобы макрос работал положите к примеру в 7 слот хотбара например эндер жемчуг и нажмите X, макрос свапнет на 7 слот, использует жемчуг, и свапнет обратно на 2 слот</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 64
+KeyUp 29 1
+Delay 64
+KeyDown 36 1
+Delay 64
+KeyUp 36 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,62 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>this script is using for gain exp by suicide with bomb
+in indonesia this script helpfully for you to gain exp to rank up
+go to preium server and bind this macro to any key
+first of all u need follow these steps
+1.go to setting
+2.in general tab checklist the   “Disable the welcome screen” and  “move the “playback/recording” toolbars to the right side” 
+3.change the resolution into 1024x768 windowed or fullscreen
+enjoy gaining exp to rank up</Description>
+    <Comment>GB EXP CHAR
+</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 877 677
+Delay 100 ms
+LeftUp 1
+Delay 100 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 100 ms
+LeftDown 1
+Delay 100 ms
+KeyDown 266 1
+Delay 32 ms
+KeyUp 266 1
+Delay 32 ms
+KeyDown 266 1
+Delay 32 ms
+KeyUp 266 1
+Delay 32 ms
+KeyDown 266 1
+Delay 32 ms
+KeyUp 266 1
+Delay 32 ms
+KeyDown 43 1
+Delay 100 ms
+MoveTo 877 677
+//BOM F10
+KeyDown 67 1
+Delay 190 ms
+KeyUp 67 1
+Delay 190 ms
+//USE ENTER
+KeyDown 40 1
+Delay 100 ms
+KeyUp 40 1
+Delay 100 ms
+GoWhile 10 7
+Goto 1
+//[BiMa]-COMMUNITY :: BiMsaLaBiM**** &amp; pecunbauk</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

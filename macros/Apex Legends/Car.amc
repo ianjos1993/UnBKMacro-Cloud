@@ -1,0 +1,895 @@
+<Root>
+  <DefaultMacro>
+    <Major>C.A.R. SMG </Major>
+    <Description>This macro is for the C.A.R. SMG. This is the full recoil pattern. Mouse and keyboard ~2.5 sensitivity. It works very well; with randomized delays to prevent detection.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 6 ms
+MoveR 0 1
+Delay 1 5 ms
+MoveR 0 1
+Delay 1 4 ms
+MoveR 1 0
+Delay 1 3 ms
+MoveR 0 1
+Delay 1 3 ms
+MoveR 0 1
+Delay 1 9 ms
+MoveR 1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 5 ms
+MoveR 0 1
+Delay 1 7 ms
+MoveR 1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 7 ms
+MoveR 0 1
+Delay 1 7 ms
+MoveR 1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 8 ms
+MoveR 0 1
+Delay 1 6 ms
+MoveR 0 1
+Delay 1 4 ms
+MoveR 1 0
+Delay 1 3 ms
+MoveR 0 1
+Delay 1 6 ms
+MoveR 0 1
+Delay 1 3 ms
+MoveR 1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 6 ms
+MoveR 0 1
+Delay 1 3 ms
+MoveR 1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 5 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR 1 0
+Delay 1 3 ms
+MoveR 0 1
+Delay 1 4 ms
+MoveR 0 1
+Delay 1 6 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR 1 1
+Delay 1 5 ms
+MoveR 0 1
+Delay 1 5 ms
+MoveR 1 1
+Delay 1 5 ms
+MoveR 0 1
+Delay 1 4 ms
+MoveR 0 1
+Delay 1 5 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR 1 0
+Delay 1 3 ms
+MoveR 0 1
+Delay 1 5 ms
+MoveR 0 1
+Delay 1 3 ms
+MoveR 1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 6 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR 1 0
+Delay 1 3 ms
+MoveR 0 1
+Delay 1 5 ms
+MoveR 0 1
+Delay 1 5 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR 1 0
+Delay 1 4 ms
+MoveR 0 1
+Delay 1 4 ms
+MoveR 0 1
+Delay 1 5 ms
+MoveR 1 1
+Delay 1 3 ms
+MoveR 0 1
+Delay 1 4 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR 1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 5 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR 1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 3 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR 1 1
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 3 ms
+MoveR 1 1
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 3 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR 1 0
+Delay 0 1 ms
+MoveR 0 1
+Delay 1 3 ms
+MoveR 0 1
+Delay 1 4 ms
+MoveR 1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 3 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR 1 0
+Delay 1 4 ms
+MoveR 0 1
+Delay 1 3 ms
+MoveR 1 1
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 3 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR 1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 3 ms
+MoveR 0 1
+Delay 1 4 ms
+MoveR 1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 4 ms
+MoveR 0 1
+Delay 1 4 ms
+MoveR 1 1
+Delay 1 5 ms
+MoveR 0 1
+Delay 1 4 ms
+MoveR 0 1
+Delay 1 3 ms
+MoveR 1 0
+Delay 0 1 ms
+MoveR 0 1
+Delay 1 5 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR 1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 4 ms
+MoveR 0 1
+Delay 1 3 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR 1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 4 ms
+MoveR 0 1
+Delay 1 3 ms
+MoveR 1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 5 ms
+MoveR 0 1
+Delay 1 3 ms
+MoveR 1 0
+Delay 0 1 ms
+MoveR 0 1
+Delay 1 4 ms
+MoveR 0 1
+Delay 1 6 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR 1 0
+Delay 1 4 ms
+MoveR 0 1
+Delay 1 6 ms
+MoveR 0 1
+Delay 1 3 ms
+MoveR 1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 20 ms
+MoveR 0 1
+Delay 1 4 ms
+MoveR 1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 5 ms
+MoveR 0 1
+Delay 1 5 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR 1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 5 ms
+MoveR 0 1
+Delay 1 4 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR 1 0
+Delay 1 3 ms
+MoveR 0 1
+Delay 1 4 ms
+MoveR 0 1
+Delay 1 3 ms
+MoveR 1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 5 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR 1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 3 ms
+MoveR 0 1
+Delay 1 6 ms
+MoveR 0 1
+Delay 1 4 ms
+MoveR 1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 4 ms
+MoveR 0 1
+Delay 1 9 ms
+MoveR 1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 6 ms
+MoveR 0 1
+Delay 1 4 ms
+MoveR 1 0
+Delay 1 4 ms
+MoveR 0 1
+Delay 1 21 ms
+MoveR 0 1
+Delay 1 3 ms
+MoveR 1 0
+Delay 1 4 ms
+MoveR 0 1
+Delay 1 20 ms
+MoveR 0 1
+Delay 1 7 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR 1 0
+Delay 1 5 ms
+MoveR 0 1
+Delay 1 8 ms
+MoveR 0 1
+Delay 0 1 ms
+MoveR 1 0
+Delay 1 5 ms
+MoveR 0 1
+Delay 1 8 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR 1 0
+Delay 1 4 ms
+MoveR 0 1
+Delay 1 6 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR 1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 5 ms
+MoveR 0 1
+Delay 1 7 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR 1 0
+Delay 1 5 ms
+MoveR 0 1
+Delay 1 7 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR 1 0
+Delay 1 4 ms
+MoveR 0 1
+Delay 1 7 ms
+MoveR 0 1
+Delay 1 24 ms
+MoveR 0 1
+Delay 0 1 ms
+MoveR 1 0
+Delay 1 4 ms
+MoveR 0 1
+Delay 1 7 ms
+MoveR 0 1
+Delay 1 9 ms
+MoveR 0 1
+Delay 1 6 ms
+MoveR 1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 6 ms
+MoveR 0 1
+Delay 1 8 ms
+MoveR 0 1
+Delay 1 8 ms
+MoveR 1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 23 ms
+MoveR 0 1
+Delay 1 9 ms
+MoveR 0 1
+Delay 1 6 ms
+MoveR 1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 8 ms
+MoveR 0 1
+Delay 1 7 ms
+MoveR 0 1
+Delay 1 9 ms
+MoveR 0 1
+Delay 1 4 ms
+MoveR 1 0
+Delay 1 5 ms
+MoveR 0 1
+Delay 1 8 ms
+MoveR 0 1
+Delay 1 5 ms
+MoveR 1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 8 ms
+MoveR 0 1
+Delay 1 23 ms
+MoveR 0 1
+Delay 1 9 ms
+MoveR 0 1
+Delay 1 3 ms
+MoveR 1 0
+Delay 1 84 ms
+MoveR -1 0
+Delay 1 22 ms
+MoveR 0 1
+Delay 0 1 ms
+MoveR -1 0
+Delay 1 22 ms
+MoveR -1 0
+Delay 1 23 ms
+MoveR -1 0
+Delay 1 9 ms
+MoveR -1 0
+Delay 1 20 ms
+MoveR -1 0
+Delay 1 4 ms
+MoveR 0 1
+Delay 1 6 ms
+MoveR -1 0
+Delay 1 22 ms
+MoveR -1 0
+Delay 1 26 ms
+MoveR -1 0
+Delay 1 9 ms
+MoveR 0 1
+Delay 1 27 ms
+MoveR -1 0
+Delay 1 24 ms
+MoveR -1 0
+Delay 1 23 ms
+MoveR -1 0
+Delay 1 5 ms
+MoveR 0 1
+Delay 1 9 ms
+MoveR -1 0
+Delay 1 27 ms
+MoveR -1 0
+Delay 1 9 ms
+MoveR 0 1
+Delay 1 22 ms
+MoveR -1 0
+Delay 1 25 ms
+MoveR -1 0
+Delay 1 6 ms
+MoveR 0 1
+Delay 1 5 ms
+MoveR -1 0
+Delay 1 23 ms
+MoveR -1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 21 ms
+MoveR -1 0
+Delay 1 9 ms
+MoveR 0 1
+Delay 1 4 ms
+MoveR -1 0
+Delay 1 22 ms
+MoveR -1 0
+Delay 1 8 ms
+MoveR 0 1
+Delay 1 26 ms
+MoveR -1 0
+Delay 1 21 ms
+MoveR 0 1
+Delay 1 22 ms
+MoveR -1 0
+Delay 1 6 ms
+MoveR 0 1
+Delay 1 27 ms
+MoveR -1 0
+Delay 1 7 ms
+MoveR 0 1
+Delay 1 49 ms
+MoveR 0 1
+Delay 1 36 ms
+MoveR 0 1
+Delay 1 21 ms
+MoveR 1 0
+Delay 1 5 ms
+MoveR 0 1
+Delay 1 20 ms
+MoveR 1 0
+Delay 1 3 ms
+MoveR 0 1
+Delay 1 21 ms
+MoveR 1 0
+Delay 1 5 ms
+MoveR 0 1
+Delay 1 6 ms
+MoveR 1 0
+Delay 1 22 ms
+MoveR 0 1
+Delay 1 5 ms
+MoveR 1 0
+Delay 1 4 ms
+MoveR 0 1
+Delay 1 8 ms
+MoveR 1 0
+Delay 1 6 ms
+MoveR 0 1
+Delay 1 4 ms
+MoveR 1 0
+Delay 1 5 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR 1 0
+Delay 1 3 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR 1 0
+Delay 1 8 ms
+MoveR 0 1
+Delay 1 3 ms
+MoveR 1 0
+Delay 1 22 ms
+MoveR 1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 25 ms
+MoveR 0 1
+Delay 1 8 ms
+MoveR 0 -1
+Delay 1 208 ms
+MoveR -1 0
+Delay 1 9 ms
+MoveR -1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR -1 0
+Delay 1 7 ms
+MoveR -1 0
+Delay 1 4 ms
+MoveR -1 0
+Delay 1 5 ms
+MoveR -1 0
+Delay 1 4 ms
+MoveR -1 0
+Delay 1 5 ms
+MoveR -1 0
+Delay 1 6 ms
+MoveR -1 0
+Delay 1 5 ms
+MoveR -1 0
+Delay 1 6 ms
+MoveR -1 0
+Delay 1 6 ms
+MoveR -1 0
+Delay 1 7 ms
+MoveR -1 0
+Delay 1 5 ms
+MoveR -1 0
+Delay 1 6 ms
+MoveR -1 0
+Delay 1 6 ms
+MoveR -1 0
+Delay 1 7 ms
+MoveR -1 0
+Delay 1 8 ms
+MoveR -1 0
+Delay 1 7 ms
+MoveR -1 0
+Delay 1 7 ms
+MoveR -1 0
+Delay 1 8 ms
+MoveR -1 0
+Delay 1 3 ms
+MoveR 0 1
+Delay 1 3 ms
+MoveR -1 0
+Delay 1 9 ms
+MoveR -1 0
+Delay 1 9 ms
+MoveR -1 0
+Delay 1 9 ms
+MoveR -1 0
+Delay 1 27 ms
+MoveR -1 0
+Delay 1 26 ms
+MoveR -1 0
+Delay 1 24 ms
+MoveR -1 0
+Delay 1 23 ms
+MoveR -1 0
+Delay 1 5 ms
+MoveR 0 1
+Delay 1 5 ms
+MoveR -1 0
+Delay 1 9 ms
+MoveR -1 0
+Delay 1 8 ms
+MoveR -1 0
+Delay 1 20 ms
+MoveR -1 0
+Delay 1 94 ms
+MoveR 0 1
+Delay 1 31 ms
+MoveR 1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 7 ms
+MoveR 1 0
+Delay 1 5 ms
+MoveR 0 1
+Delay 1 5 ms
+MoveR 1 0
+Delay 1 6 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR 1 0
+Delay 1 4 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR 1 0
+Delay 1 6 ms
+MoveR 1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 3 ms
+MoveR 1 0
+Delay 1 5 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR 1 0
+Delay 1 7 ms
+MoveR 1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 6 ms
+MoveR 1 0
+Delay 1 8 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR 1 0
+Delay 1 9 ms
+MoveR 1 0
+Delay 1 3 ms
+MoveR 0 1
+Delay 1 7 ms
+MoveR 1 0
+Delay 1 4 ms
+MoveR 0 1
+Delay 1 3 ms
+MoveR 1 0
+Delay 1 6 ms
+MoveR 1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 6 ms
+MoveR 1 0
+Delay 1 4 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR 1 0
+Delay 1 9 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR 1 0
+Delay 1 8 ms
+MoveR 1 0
+Delay 1 7 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR 1 0
+Delay 1 21 ms
+MoveR 1 0
+Delay 1 8 ms
+MoveR 0 1
+Delay 1 6 ms
+MoveR 1 0
+Delay 1 8 ms
+MoveR 1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 9 ms
+MoveR 1 0
+Delay 1 5 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR 1 0
+Delay 1 8 ms
+MoveR 1 0
+Delay 0 1 ms
+MoveR 0 1
+Delay 1 4 ms
+MoveR 1 0
+Delay 1 3 ms
+MoveR 0 1
+Delay 1 7 ms
+MoveR 1 0
+Delay 1 7 ms
+MoveR 0 1
+Delay 1 5 ms
+MoveR 1 0
+Delay 1 20 ms
+MoveR 1 0
+Delay 1 3 ms
+MoveR 0 1
+Delay 1 20 ms
+MoveR 1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 6 ms
+MoveR 1 0
+Delay 1 28 ms
+MoveR 1 0
+Delay 1 3 ms
+MoveR 0 1
+Delay 1 31 ms
+MoveR 1 0
+Delay 1 233 ms
+MoveR -1 0
+Delay 1 5 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR -1 0
+Delay 1 8 ms
+MoveR -1 0
+Delay 1 5 ms
+MoveR -1 0
+Delay 1 6 ms
+MoveR -1 0
+Delay 1 5 ms
+MoveR -1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 5 ms
+MoveR -1 0
+Delay 1 6 ms
+MoveR -1 0
+Delay 1 4 ms
+MoveR -1 0
+Delay 1 7 ms
+MoveR -1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 6 ms
+MoveR -1 0
+Delay 1 7 ms
+MoveR -1 0
+Delay 1 8 ms
+MoveR -1 1
+Delay 1 9 ms
+MoveR -1 0
+Delay 1 8 ms
+MoveR -1 0
+Delay 1 9 ms
+MoveR -1 0
+Delay 1 5 ms
+MoveR -1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 3 ms
+MoveR -1 0
+Delay 1 3 ms
+MoveR -1 0
+Delay 1 6 ms
+MoveR -1 0
+Delay 1 3 ms
+MoveR -1 0
+Delay 1 4 ms
+MoveR -1 0
+Delay 1 5 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR -1 0
+Delay 1 3 ms
+MoveR -1 0
+Delay 1 6 ms
+MoveR -1 0
+Delay 1 8 ms
+MoveR -1 0
+Delay 1 6 ms
+MoveR -1 0
+Delay 1 21 ms
+MoveR -1 1
+Delay 1 23 ms
+MoveR -1 0
+Delay 1 21 ms
+MoveR -1 0
+Delay 1 25 ms
+MoveR -1 0
+Delay 1 22 ms
+MoveR -1 0
+Delay 0 1 ms
+MoveR 0 1
+Delay 1 5 ms
+MoveR -1 0
+Delay 1 9 ms
+MoveR -1 0
+Delay 1 8 ms
+MoveR -1 0
+Delay 1 7 ms
+MoveR 0 1
+Delay 1 5 ms
+MoveR -1 0
+Delay 1 20 ms
+MoveR -1 0
+Delay 1 35 ms
+MoveR 0 1
+Delay 1 6 ms
+MoveR -1 0
+Delay 1 210 ms
+MoveR 0 1
+Delay 1 21 ms
+MoveR 0 1
+Delay 1 6 ms
+MoveR 1 0
+Delay 1 4 ms
+MoveR 0 1
+Delay 1 22 ms
+MoveR 1 0
+Delay 1 6 ms
+MoveR 0 1
+Delay 1 28 ms
+MoveR 1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 25 ms
+MoveR 1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 8 ms
+MoveR 1 0
+Delay 1 5 ms
+MoveR 0 1
+Delay 1 4 ms
+MoveR 1 0
+Delay 1 20 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR 1 0
+Delay 1 21 ms
+MoveR 1 0
+Delay 1 20 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR 1 0
+Delay 1 25 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR 1 0
+Delay 1 23 ms
+MoveR 1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 28 ms
+MoveR 1 0
+Delay 1 5 ms
+MoveR 0 1
+Delay 1 27 ms
+MoveR 1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 27 ms
+MoveR 1 0
+Delay 1 3 ms
+MoveR 0 1
+Delay 1 20 ms
+MoveR 1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 7 ms
+MoveR 1 0
+Delay 1 9 ms
+MoveR 0 1
+Delay 1 4 ms
+MoveR 1 0
+Delay 1 20 ms
+MoveR 1 0
+Delay 1 21 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR 1 0
+Delay 1 27 ms
+MoveR 1 0
+Delay 1 2 ms
+MoveR 0 1
+Delay 1 22 ms
+MoveR 1 0
+Delay 1 20 ms
+MoveR 0 1
+Delay 1 4 ms
+MoveR 1 0
+Delay 1 7 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR 1 0
+Delay 1 9 ms
+MoveR 0 1
+Delay 1 2 ms
+MoveR 1 0
+Delay 1 26 ms
+MoveR 0 1
+Delay 1 3 ms
+MoveR 1 0
+Delay 1 70 ms
+LeftUp 1
+Delay 1 29 ms
+MoveR 1 0
+Delay 1 25 ms
+MoveR 1 0
+Delay 1 66 ms
+MoveR 0 -1
+Delay 1 4 ms
+MoveR 0 -1
+Delay 1 5 ms
+MoveR 0 -1
+Delay 1 2 ms
+MoveR 0 -1
+Delay 1 20 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

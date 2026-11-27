@@ -1,0 +1,81 @@
+<Root>
+  <DefaultMacro>
+    <Major>AutoPilot Assist for GTA </Major>
+    <Description>This file automates basic pilot controls in GTA Emerald OG to make flying planes easier and faster.  
+It automatically presses "E" to enter the pilot seat, holds "W" to accelerate, and repeatedly presses "E" when reaching the mission's drop-off point.  
+The player no longer needs to manually press keys during standard take-off and drop sequences — just fly over the target area and the script handles the rest.</Description>
+    <Comment># AutoPilot Assist for GTA Emerald OG
+# 
+# This script helps players fly planes more easily by automating key actions.
+# - Presses "E" to enter the pilot seat.
+# - Holds "W" to accelerate continuously.
+# - Repeatedly presses "E" when flying over the drop-off zone.
+# 
+# Designed to save time and reduce manual input during missions.
+# Simply activate and enjoy smoother flights!</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 91 ms
+KeyUp 8 1
+Delay 580 ms
+KeyDown 82 1
+Delay 90 ms
+KeyUp 82 1
+Delay 809 ms
+KeyDown 88 1
+Delay 73 ms
+KeyUp 88 1
+Delay 1026 ms
+KeyDown 23 1
+Delay 85 ms
+KeyUp 23 1
+Delay 2368 ms
+KeyDown 56 1
+Delay 79 ms
+KeyUp 56 1
+Delay 1027 ms
+KeyDown 21 1
+Delay 78 ms
+KeyUp 21 1
+Delay 667 ms
+KeyDown 19 1
+Delay 91 ms
+KeyUp 19 1
+Delay 324 ms
+KeyDown 15 1
+Delay 73 ms
+KeyUp 15 1
+Delay 181 ms
+KeyDown 4 1
+Delay 67 ms
+KeyUp 4 1
+Delay 350 ms
+KeyDown 17 1
+Delay 73 ms
+KeyUp 17 1
+Delay 101 ms
+KeyDown 8 1
+Delay 72 ms
+KeyUp 8 1
+Delay 678 ms
+KeyDown 88 1
+Delay 73 ms
+KeyUp 88 1
+Delay 2631 ms
+KeyDown 8 1
+Delay 85 ms
+KeyUp 8 1
+KeyDown 26 1
+Delay 520 ms
+KeyUp 26 1
+Goto 49</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,54 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос, который помогает вставить лсы.
+Координаты настроены для стандартного расположения окон 1920х1080.</Description>
+    <Comment>Инструкция :
+1. Назначаете макрос на удобную вам кнопку/клваишу.
+2. В 1 слот инвентаря ставите нужную пушку
+3. Во 2 слот ставите нужный лс
+4. В 3 слот ставите необходимые гемы.
+5. При нажатии на кнопку начнется автоматическое зачарование
+
+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1548 366
+Delay 64
+LeftDown 1
+Delay 64
+MoveTo 916 477
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1582 367
+Delay 64
+LeftDown 1
+Delay 64
+MoveTo 1003 479
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1617 366
+Delay 64
+LeftDown 1
+Delay 64
+MoveTo 961 521
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 917 650
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

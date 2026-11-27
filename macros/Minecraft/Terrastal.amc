@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>terrastal</Major>
+    <Description>Макрос который выбрасывает сразу 3 вещи по 1 штуки, отлично подходит для создание террастали из мода Botania.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64 ms
+WheelDown 1
+Delay 64 ms
+KeyDown 20 1
+Delay 64 ms
+KeyUp 20 1
+Delay 64 ms
+WheelDown 1
+Delay 64 ms
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64 ms
+WheelUp 1
+Delay 10 ms
+WheelUp 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

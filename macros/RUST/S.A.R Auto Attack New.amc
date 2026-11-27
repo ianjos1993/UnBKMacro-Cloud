@@ -1,0 +1,53 @@
+<Root>
+  <DefaultMacro>
+    <Major>DarkSaw</Major>
+    <Description>SAR %90 - 95 İsabet oranı en güncel hali 1920*1080 çözünürlük 
+
+FOV (80) 
+
+Hassasiyet(sens) 0.65
+
+
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+MoveR 0 2
+Delay 15 ms
+MoveR 0 2
+Delay 15 ms
+MoveR 0 2
+Delay 15 ms
+MoveR 0 2
+Delay 15 ms
+MoveR 0 2
+Delay 15 ms
+MoveR 0 2
+Delay 15 ms
+MoveR 0 2
+Delay 15 ms
+MoveR 0 2
+Delay 15 ms
+MoveR 0 2
+Delay 15 ms
+MoveR 0 2
+Delay 15 ms
+MoveR 0 2
+Delay 15 ms
+MoveR 0 2
+Delay 15 ms
+MoveR 0 2
+Delay 15 ms
+LeftUp 1
+Delay 22 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

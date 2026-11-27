@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автофарм для петоводов и лучников
+Исходное разрешение 1280*1024, но подойдет для любого разрешения, проверено.
+Задействованы 1 и 2, соответсвенно ставим в 1 атаку в 2 хил или баф какой либо.
+Камера автоматически поворачивается по кругу, чтобы видеть всех мобов вокруг.
+Рекомендация: специально уменьшить свою атаку или атаку петов, чтобы мобы успевали подбежать в радиус лут-пета</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 30 ms
+KeyUp 30 1
+Delay 30 ms
+RightDown 1
+Delay 100 ms
+MoveR -50 0
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 636 364
+Delay 30 ms
+KeyDown 30 1
+Delay 30 ms
+KeyUp 30 1
+Delay 30 ms
+KeyDown 31 1
+Delay 20 ms
+KeyUp 31 1
+Delay 30 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Rappelz</Software>
+  </DefaultMacro>
+</Root>

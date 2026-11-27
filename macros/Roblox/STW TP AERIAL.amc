@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>STW TP Aerial E is its mid-air variant, which:
+
+ 
+Is performed while jumping or mid-air
+
+
+Has faster execution than some ground moves
+
+
+Often pops or knocks the opponent slightly downward/away
+
+
+Works as a combo extender or escape tool depending on timing
+
+
+
+With this macro, it does it automatically for you by just pressing one button or bind it at the mouse wheel</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 5 ms
+KeyUp 29 1
+Delay 5 ms
+KeyDown 25 1
+Delay 5 ms
+KeyUp 25 1
+Delay 5 ms
+KeyDown 29 1
+Delay 5 ms
+KeyUp 29 1
+Delay 5 ms
+KeyDown 44 1
+Delay 5 ms
+KeyUp 44 1
+Delay 5 ms
+KeyDown 8 1
+Delay 5 ms
+KeyUp 8 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

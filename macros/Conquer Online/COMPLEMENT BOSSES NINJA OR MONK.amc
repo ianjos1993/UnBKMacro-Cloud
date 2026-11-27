@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>AUTOHP AND AUTO ATTACK NINJA</Major>
+    <Description>This file is configured with a casual timeout to prevent abuse and avoid the system detecting it as a hack due to excessive clicking.
+It works for the Ninja with the Katana Slash or the Monk's Clap, but I don't recommend it for other classes since it leads to excessive right-clicking and could be noticeable.
+
+The macro is responsible for repeatedly pressing F1 to heal HP and for pressing the right and left clicks.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 58 1
+Delay 20 60 ms
+KeyUp 58 1
+Delay 20 60 ms
+LeftDown 1
+Delay 20 60 ms
+LeftUp 1
+Delay 20 60 ms
+RightDown 1
+Delay 20 60 ms
+RightUp 1
+Delay 20 60 ms
+RightDown 1
+Delay 20 60 ms
+RightUp 1
+Delay 20 60 ms
+GoWhile 1 999999</Syntax>
+    </KeyDown>
+    <Software>Conquer Online</Software>
+  </DefaultMacro>
+</Root>

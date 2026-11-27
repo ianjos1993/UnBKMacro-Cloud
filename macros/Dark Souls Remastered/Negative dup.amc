@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Наводимся на ячейку магазина для свапа покупки стрел, не нажимаем. Запускаем скрипт.
+Т.к. ДС очень фреймовая игра, то вероятность успешного юза скрипта ~50%. Попали в кадр или нет - удача.
+
+Механика отрицательного дюпа используется в основном для спидранов.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 10 ms
+LeftDown 1
+Delay 62 ms
+KeyUp 8 1
+Delay 33 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>DARK SOULS™: REMASTERED</Software>
+  </DefaultMacro>
+</Root>

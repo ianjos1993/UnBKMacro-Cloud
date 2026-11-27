@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>Get wall to one hit, then press your macro key.</Major>
+    <Description>The macro will place a cone inside of the enemy's box and also try to replace the wall.
+
+This is the fastest macro available since fortnite has a 150ms delay.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 190 ms
+KeyDown 5 1
+Delay 45 55 ms
+KeyUp 5 1
+Delay 40 50 ms
+Button5Down 1
+Delay 45 55 ms
+Button5up 1
+Delay 50 60 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

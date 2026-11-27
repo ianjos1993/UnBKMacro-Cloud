@@ -1,0 +1,49 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Анти АФК для серверов гта 5 рп. Делает шаги в перед, назад, достает телефон, убирает, делает еще пару шагов в перед и пару назад. Ждет 1 минуту и повторяет.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 3 s
+KeyUp 26 1
+Delay 64
+KeyDown 22 1
+Delay 3 s
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 3 s
+KeyUp 22 1
+Delay 64
+KeyDown 22 1
+Delay 3 s
+KeyUp 22 1
+Delay 64
+KeyDown 82 1
+Delay 5 s
+KeyUp 82 1
+Delay 64
+KeyDown 42 1
+Delay 64
+KeyUp 42 1
+Delay 64
+KeyDown 26 1
+Delay 3 s
+KeyUp 26 1
+Delay 64
+KeyDown 22 1
+Delay 3 s
+KeyUp 22 1
+Delay 1 min
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,122 @@
+<Root>
+  <DefaultMacro>
+    <Major>Yoshimitsu Wall Combo 4</Major>
+    <Description>Макрос позволяет выполнять комбо у стены за Йошимицу.
+Видео демонстрации работы макроса: https://youtu.be/CoJRqy8upd4
+
+Йошимицу — один из самых эксцентричных бойцов Tekken, сочетающий черты самурая, киборга и клоуна. Его стиль боя непредсказуем, и он способен нанести урон самому себе ради победы. Персонаж существует с самой первой части и неизменно входит в основной состав. Он представляет клан, где после смерти один воин заменяется другим, сохраняя имя Йошимицу. Его облик вдохновлён японским театром и киберпанком.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 19.04.2025
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ, обращайтесь в дискорд для этого.
+
+#yoshimitsutekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 35 ms
+KeyDown 77 1
+Delay 178 ms
+KeyUp 77 1
+Delay 55 ms
+KeyUp 7 1
+Delay 1966 ms
+KeyDown 4 1
+Delay 63 ms
+KeyUp 4 1
+Delay 74 ms
+KeyDown 4 1
+Delay 110 ms
+KeyUp 4 1
+Delay 18 ms
+KeyDown 73 1
+Delay 58 ms
+KeyUp 73 1
+Delay 253 ms
+KeyDown 4 1
+Delay 52 ms
+KeyUp 4 1
+Delay 75 ms
+KeyDown 4 1
+Delay 80 ms
+KeyUp 4 1
+Delay 11 ms
+KeyDown 73 1
+Delay 64 ms
+KeyUp 73 1
+Delay 253 ms
+KeyDown 4 1
+Delay 63 ms
+KeyUp 4 1
+Delay 74 ms
+KeyDown 4 1
+Delay 80 ms
+KeyUp 4 1
+Delay 17 ms
+KeyDown 73 1
+Delay 64 ms
+KeyUp 73 1
+Delay 248 ms
+KeyDown 4 1
+Delay 74 ms
+KeyUp 4 1
+Delay 63 ms
+KeyDown 4 1
+Delay 98 ms
+KeyUp 4 1
+Delay 17 ms
+KeyDown 73 1
+Delay 58 ms
+KeyUp 73 1
+Delay 330 ms
+KeyDown 76 1
+Delay 0 ms
+KeyDown 74 1
+Delay 104 ms
+KeyUp 76 1
+Delay 9 ms
+KeyUp 74 1
+Delay 504 ms
+KeyDown 74 1
+Delay 890 ms
+KeyDown 4 1
+Delay 57 ms
+KeyUp 4 1
+Delay 63 ms
+KeyDown 4 1
+Delay 75 ms
+KeyUp 4 1
+Delay 13 ms
+KeyDown 76 1
+Delay 109 ms
+KeyUp 76 1
+Delay 403 ms
+KeyUp 74 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

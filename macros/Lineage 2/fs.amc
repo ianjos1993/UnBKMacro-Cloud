@@ -1,0 +1,68 @@
+<Root>
+  <DefaultMacro>
+    <Major>NickPC</Major>
+    <Description>Макрос для АФК кача сумонерами.Состоит из Цикла внутри цикла.
+Ф11 установлен игровой макрос на родной баф чара+пета
+Ф10 Спарк кубик
+Ф9 Фантом кубик
+Кубики можно забиндить и в игровой макрос с родным бафом чара+пет, но у меня так.
+
+Далее делаем три игровых макроса на атаку с разными таргетами(можно и больше). Например: 
+
+/target ИмяМоба
+/summonatack
+/atack
+/delay 10
+/useskill Servitor Heal
+/pickup
+/pickup
+/pickup
+
+И устанавливаем их на следущие клавиши:
+Ф8 игровой макрос на атаку
+Ф7 игровой макрос на атаку
+Ф6 игровой макрос на атаку
+
+По истечению 22х циклов автоатаки макрос стартует заново.
+Сам макрос расчитан на 100 циклов(по желанию можете увеличить это число).
+Всем приятной игры!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1263 ms
+KeyDown 68 1
+Delay 127 ms
+KeyUp 68 1
+Delay 18 s
+KeyDown 66 1
+Delay 135 ms
+KeyUp 66 1
+Delay 3727 ms
+KeyDown 67 1
+Delay 104 ms
+KeyUp 67 1
+Delay 3832 ms
+KeyDown 65 1
+Delay 119 ms
+KeyUp 65 1
+Delay 15 s
+KeyDown 64 1
+Delay 119 ms
+KeyUp 64 1
+Delay 15 s
+KeyDown 63 1
+Delay 119 ms
+KeyUp 63 1
+Delay 15 s
+GoWhile 14 22
+Delay 3832 ms
+GoWhile 1 100</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

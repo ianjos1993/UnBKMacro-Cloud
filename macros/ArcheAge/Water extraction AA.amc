@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major>Топ добыча АА</Major>
+    <Description>Удобный макрос по добыче воды с колодца, встаете рядом с колодцем и включаете макрос, уходите по делам, по приходу у вас много воды, зациклен, пользуйтесь на здоровье. </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 1 s
+KeyUp 9 1
+Delay 1 s
+GoWhile 1 1000</Syntax>
+    </KeyDown>
+    <Software>Archeage</Software>
+  </DefaultMacro>
+</Root>

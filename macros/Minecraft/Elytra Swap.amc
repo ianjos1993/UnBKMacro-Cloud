@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Позволяет быстро переключиться между элитрой и броней
+Броню/Элитру поставить в 9й слот.
+Это позволит вам в критичной для жизни ситуации быстро переключиться на элитру или надеть броню при внезапном бою.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 6 ms
+KeyUp 8 1
+Delay 6 ms
+MoveTo 747 396
+Delay 6 ms
+MoveTo 747 396
+KeyDown 38 1
+MoveTo 747 396
+Delay 6 ms
+MoveTo 747 396
+KeyUp 38 1
+MoveTo 747 396
+Delay 6 ms
+MoveTo 747 396
+KeyDown 8 1
+Delay 6 ms
+KeyUp 8 1
+Delay 6 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

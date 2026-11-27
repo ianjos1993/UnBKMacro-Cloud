@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>GMOD - обход популярной AFK системы | GMOD - hacking the popular AFK system</Major>
+    <Description>Очень простой обход афк системы на многих серверах GMOD с помощью лишь одной клавиши и небольшой задержки | Very easy afk system hack on many GMOD servers with just one key and a little delay</Description>
+    <Comment> 
+
+
+
+                                                                              https://botmek.com 
+
+                                                                            Free macros download
+
+                                                                    Скачать бесплатные макросы</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 5 1
+Delay 59 s
+KeyUp 5 1
+Delay 277 s
+GoWhile 1 999</Syntax>
+    </KeyDown>
+    <Software>Garry´s Mod</Software>
+  </DefaultMacro>
+</Root>

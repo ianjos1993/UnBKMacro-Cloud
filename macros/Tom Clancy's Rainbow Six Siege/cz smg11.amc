@@ -1,0 +1,60 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>script for cz and the smg 11
+
+game settings:
+fov 84
+1920x1080
+sens 6
+dpi 800
+1x 40
+2.5 50
+
+weapon setting:
+smg 11 holo vertical flash hider
+cz suppresor</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR -3 5
+Delay 1 ms
+MoveR 3 4
+Delay 2 ms
+MoveR -2 1
+Delay 2 ms
+MoveR 4 2
+Delay 2 ms
+MoveR 4 2
+Delay 2 ms
+MoveR -2 2
+Delay 2 ms
+MoveR 3 3
+Delay 2 ms
+MoveR -2 2
+Delay 2 ms
+MoveR 2 3
+Delay 2 ms
+MoveR -2 3
+Delay 2 ms
+MoveR -2 3
+Delay 1 ms
+MoveR -2 2
+Delay 2 ms
+MoveR 3 3
+Delay 2 ms
+MoveR -2 3
+Delay 2 ms
+MoveR -1 3
+Delay 1 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

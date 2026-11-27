@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major>Добыча глины</Major>
+    <Description>Добыча глины на сервере Fullmoon Позволяет копать глину 500 шт всего лишь нужно сесть в водоём и ждать как закончится цикл</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 226 1
+Delay 904 ms
+KeyDown 9 1
+Delay 11319 ms
+KeyUp 9 1
+Delay 8 ms
+GoWhile 1 1119</Syntax>
+    </KeyDown>
+    <Software>DayZ</Software>
+  </DefaultMacro>
+</Root>

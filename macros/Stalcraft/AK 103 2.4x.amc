@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Привет , это макрос для тех кто использует АК-103 с 2.4x прицелом , для использования этого макроса тебе понадобится
+расширение - 1440x1280
+чувствительность мыши - 5.49
+1 шаг - забиндите на любую удобную вам клавишу(макрос) , 
+2 шаг - войдите в прицел , и зажмите горячую клавишу(бинд) . 
+удачи ! </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+MoveR 0 8
+Delay 64
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>For Warzone 2
+This is not a visual trick, this script allows you to instantly fix a bug, it may be fixed soon, but currently it works.
+You can assign a macro to a button that has the command to lay down, it's the most convenient use.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 105 ms
+RightUp 1
+Delay 45 ms
+KeyDown 224 1
+Delay 46 ms
+KeyUp 224 1</Syntax>
+    </KeyDown>
+    <Software>Call of Duty: War Zone</Software>
+  </DefaultMacro>
+</Root>

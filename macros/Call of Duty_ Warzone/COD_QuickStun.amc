@@ -1,0 +1,28 @@
+<Root>
+  <!-- by Britan -->
+  <DefaultMacro>
+    <Major></Major>
+    <Description>НАЗВАНИЕ: COD Warzone Quick Stun. ОПИСАНИЕ: Бросок стан-гранаты с быстрым переключением обратно на оружие: выбрать гранату -&gt; бросить -&gt; оружие. РЕКОМЕНДУЕМАЯ КЛАВИША: G. КАК ИСПОЛЬЗОВАТЬ: Привяжи макрос на клавишу G. Перед входом в здание нажми G - макрос бросит стан-гранату и вернёт оружие. Однократное выполнение. НАСТРОЙКА: Если граната в другом слоте - измени KeyDown 52 (слот 4). АВТОР: by Britan. ЗАПРЕЩЕНО копировать без указания автора.</Description>
+    <Comment>Привязка: G. Режим: однократное. Инструкция: перед входом нажми G - стан-граната бросится и оружие вернётся.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 52 1
+Delay 30 ms
+KeyUp 52 1
+Delay 50 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 60 ms
+KeyDown 49 1
+Delay 30 ms
+KeyUp 49 1</Syntax>
+    </KeyDown>
+    <Software>Call of Duty: War Zone</Software>
+  </DefaultMacro>
+</Root>

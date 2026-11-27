@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>scroll wheel reset and q edit button with no confirm edit on release in fortnite as you already know so yeah</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 2 ms
+KeyUp 20 1
+Delay 2 ms
+WheelUp 1
+Delay 2 ms
+WheelDown 1
+Delay 2 ms
+KeyDown 20 1
+Delay 2 ms
+KeyUp 20 1
+Delay 2 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

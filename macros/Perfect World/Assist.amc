@@ -1,0 +1,79 @@
+<Root>
+  <DefaultMacro>
+    <Major>Ассист 3 окон по пл макросами</Major>
+    <Description>Ассист предназначен на 3 окон.
+
+При активации начинает с WIN+2 до WIN+6 и разворачивается на ПЛа WIN+1
+
+ps. Кнопка ассиста должна находиться на панели F7
+
+на кнопку 4 должен стоять внутриигровой макрос</Description>
+    <Comment>Ассист по ПЛ</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 33 1
+Delay 64 ms
+KeyUp 33 1
+Delay 64 ms
+KeyDown 227 1
+Delay 64 ms
+KeyDown 31 1
+Delay 64 ms
+KeyUp 31 1
+KeyUp 227 1
+Delay 64 ms
+KeyDown 89 1
+Delay 64 ms
+KeyUp 89 1
+Delay 64 ms
+KeyDown 64 1
+Delay 64 ms
+KeyUp 64 1
+Delay 100 ms
+KeyDown 33 1
+Delay 64 ms
+KeyUp 33 1
+Delay 100 ms
+KeyDown 33 1
+Delay 64 ms
+KeyUp 33 1
+Delay 100 ms
+KeyDown 227 1
+Delay 64 ms
+KeyDown 32 1
+Delay 64 ms
+KeyUp 32 1
+KeyUp 227 1
+Delay 64 ms
+KeyDown 89 1
+Delay 64 ms
+KeyUp 89 1
+Delay 64 ms
+KeyDown 64 1
+Delay 64 ms
+KeyUp 64 1
+Delay 100 ms
+KeyDown 33 1
+Delay 64 ms
+KeyUp 33 1
+Delay 100 ms
+KeyDown 33 1
+Delay 64 ms
+KeyUp 33 1
+Delay 70 ms
+KeyDown 227 1
+Delay 64 ms
+KeyDown 30 1
+Delay 64 ms
+KeyUp 30 1
+KeyUp 227 1
+Delay 64 ms</Syntax>
+    </KeyDown>
+    <Software>Perfect World</Software>
+  </DefaultMacro>
+</Root>

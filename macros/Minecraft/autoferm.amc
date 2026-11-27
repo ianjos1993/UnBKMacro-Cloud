@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Єто ферма культур на пашне. Работать просто, просто наводим курсор на верх пашни (так чтобы можно было ставить семена), берём в 1 слот ставим семена а в 2 слот костую муку  и запускаем</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 10 ms
+KeyUp 30 1
+Delay 10 ms
+RightDown 1
+Delay 10 ms
+RightUp 1
+Delay 10 ms
+KeyDown 31 1
+Delay 10 ms
+KeyUp 31 1
+Delay 10 ms
+GoWhile 17 5
+RightDown 1
+Delay 10 ms
+RightUp 1
+Delay 10 ms
+//
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

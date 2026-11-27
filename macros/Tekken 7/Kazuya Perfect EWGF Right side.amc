@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>(Right Side Or P2) Must Counter Hit at first hit, Set macro on operating mode to (Run while hold the key)
+
+Key mapping ;
+W = UP
+A = BACK
+S = DUCK
+D = FORWARD
+
+NUM4 = 1
+NUM8 = 2
+NUM6 = 3
+NUM5 = 4</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+KeyDown 22 1
+Delay 17
+KeyDown 96 1
+Delay 17
+KeyUp 96 1
+Delay 17
+KeyUp 4 1
+KeyUp 22 1
+Delay 749 ms
+KeyDown 4 1
+Delay 17 ms
+KeyUp 4 1
+Delay 0 ms
+KeyDown 22 1
+Delay 17 ms
+KeyDown 4 1
+KeyDown 96 1
+Delay 17 ms
+KeyUp 96 1
+Delay 10 ms
+KeyUp 22 1
+Delay 10 ms
+KeyUp 4 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 7</Software>
+  </DefaultMacro>
+</Root>

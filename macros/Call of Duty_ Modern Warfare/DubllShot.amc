@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для Call of Duty:Modem Warfare он стреляет дважди за 1 нажатие баним на левою кнапку и играем </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 12 ms
+LeftUp 1
+Delay 12 ms</Syntax>
+    </KeyDown>
+    <Software>Call of Duty: Modern Warfare (2019)</Software>
+  </DefaultMacro>
+</Root>

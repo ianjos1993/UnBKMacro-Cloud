@@ -1,0 +1,192 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Скрипт Recoil для Томпсона в Rust. Лучше всего работает с железным прицелом, но может использоваться и с голографическим прицелом. Это должно выглядеть правдоподобно, так что это не идеально. Это помогает вашему обычному распылению и упрощает его настройку.
+
+Инструкции:
+
+1. Установите скрипт
+2. Привязать его к клавише (рекомендую MB1 или колесо прокрутки)
+3. Установите привязку для включения и выключения Keyran, поэтому, когда вы хотите использовать его, вы нажимаете клавишу и удерживаете Mouse1.
+4. Получайте удовольствие и уничтожайте людей в Rust!Thompson 
+
+Лучше всего работает с этими настройками:
+   - поле зрения 90 - 0,66
+
+.by But1ch
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 58 ms
+MoveR -2 8
+Delay 29 ms
+MoveR -1 5
+Delay 29 ms
+MoveR -1 5
+Delay 29 ms
+MoveR -2 5
+Delay 29 ms
+MoveR -1 5
+Delay 29 ms
+MoveR -1 4
+Delay 29 ms
+MoveR -1 4
+Delay 29 ms
+MoveR 0 5
+Delay 29 ms
+MoveR 1 5
+Delay 29 ms
+MoveR 0 5
+Delay 29 ms
+MoveR 1 4
+Delay 29 ms
+MoveR 1 5
+Delay 29 ms
+MoveR 1 5
+Delay 29 ms
+MoveR 2 4
+Delay 29 ms
+MoveR 2 4
+Delay 29 ms
+MoveR 1 4
+Delay 29 ms
+MoveR 1 4
+Delay 29 ms
+MoveR 2 4
+Delay 29 ms
+MoveR 2 4
+Delay 29 ms
+MoveR 2 4
+Delay 29 ms
+MoveR 2 4
+Delay 29 ms
+MoveR 1 3
+Delay 29 ms
+MoveR 1 3
+Delay 29 ms
+MoveR 0 2
+Delay 29 ms
+MoveR 1 2
+Delay 29 ms
+MoveR 0 2
+Delay 29 ms
+MoveR 0 2
+Delay 29 ms
+MoveR -1 2
+Delay 29 ms
+MoveR -1 2
+Delay 29 ms
+MoveR -2 2
+Delay 29 ms
+MoveR -2 2
+Delay 29 ms
+MoveR -2 2
+Delay 29 ms
+MoveR -2 1
+Delay 29 ms
+MoveR -1 1
+Delay 29 ms
+MoveR -1 2
+Delay 29 ms
+MoveR -2 2
+Delay 29 ms
+MoveR -2 2
+Delay 29 ms
+MoveR -1 2
+Delay 29 ms
+MoveR -1 1
+Delay 29 ms
+MoveR -1 2
+Delay 29 ms
+MoveR -1 2
+Delay 29 ms
+MoveR -1 1
+Delay 29 ms
+MoveR -1 1
+Delay 29 ms
+MoveR -1 2
+Delay 29 ms
+MoveR -1 2
+Delay 29 ms
+MoveR -1 1
+Delay 29 ms
+MoveR -1 1
+Delay 29 ms
+MoveR 2 2
+Delay 29 ms
+MoveR 2 2
+Delay 29 ms
+MoveR 2 1
+Delay 29 ms
+MoveR 2 1
+Delay 29 ms
+MoveR 2 2
+Delay 29 ms
+MoveR 2 1
+Delay 29 ms
+MoveR 1 1
+Delay 29 ms
+MoveR 1 1
+Delay 29 ms
+MoveR 1 1
+Delay 29 ms
+MoveR 1 1
+Delay 29 ms
+MoveR 1 1
+Delay 29 ms
+MoveR 0 1
+Delay 29 ms
+MoveR 1 2
+Delay 29 ms
+MoveR 0 1
+Delay 29 ms
+MoveR 0 1
+Delay 29 ms
+MoveR 1 1
+Delay 29 ms
+MoveR 0 1
+Delay 29 ms
+MoveR 0 1
+Delay 29 ms
+MoveR 0 1
+Delay 29 ms
+MoveR 0 1
+Delay 29 ms
+MoveR 0 2
+Delay 29 ms
+MoveR 0 1
+Delay 29 ms
+MoveR 0 1
+Delay 29 ms
+MoveR 0 1
+Delay 29 ms
+MoveR 0 1
+Delay 29 ms
+MoveR 0 1
+Delay 29 ms
+MoveR 0 1
+Delay 29 ms
+MoveR 0 1
+Delay 29 ms
+MoveR 0 2
+Delay 29 ms
+MoveR 0 1
+Delay 29 ms
+MoveR 0 1
+Delay 29 ms
+MoveR 0 1
+Delay 120 ms
+Delay 120 ms
+LeftUp 1
+Delay 640 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

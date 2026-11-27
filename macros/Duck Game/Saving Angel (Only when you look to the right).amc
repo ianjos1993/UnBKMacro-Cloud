@@ -1,0 +1,67 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот приём позволяет *взлететь* на крыльях ночи, только на оружии. Берём любое оружие в свои руки и нажимаем на забиндиную кнопку макроса. ОБЯЗАТЕЛЬНО: Вы должны смотреть во время ЭТОГО макроса на право, иначе он у вас выстрелит по диагонали, да, но только вверх, но это тоже можно использовать :)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 48 ms
+KeyUp 7 1
+Delay 10 ms
+KeyDown 26 1
+Delay 10 ms
+KeyUp 26 1
+Delay 88 ms
+KeyDown 26 1
+Delay 10 ms
+KeyDown 22 1
+Delay 48 ms
+KeyDown 6 1
+Delay 10 ms
+KeyUp 6 1
+Delay 10 ms
+KeyUp 22 1
+Delay 16 ms
+KeyUp 26 1
+Delay 10 ms
+KeyDown 4 1
+Delay 32 ms
+KeyUp 4 1
+Delay 10 ms
+KeyDown 5 1
+Delay 10 ms
+KeyDown 25 1
+Delay 10 ms
+KeyDown 4 1
+Delay 256 ms
+KeyUp 4 1
+Delay 50 ms
+KeyDown 7 1
+Delay 304 ms
+KeyDown 26 1
+Delay 10 ms
+KeyDown 6 1
+Delay 10 ms
+KeyDown 4 1
+Delay 10 ms
+KeyUp 7 1
+Delay 254 ms
+KeyUp 26 1
+Delay 10 ms
+KeyUp 4 1
+Delay 10 ms
+KeyUp 5 1
+Delay 10 ms
+KeyUp 25 1
+Delay 10 ms
+KeyUp 6 1</Syntax>
+    </KeyDown>
+    <Software>Duck game</Software>
+  </DefaultMacro>
+</Root>

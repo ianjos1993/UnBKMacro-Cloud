@@ -1,0 +1,181 @@
+<Root>
+  <DefaultMacro>
+    <Major>Фарм зашифрованных данных AFK</Major>
+    <Description>Увидел подобный скрипт на голосовом управлении у заколки, решил повторить без платы за очевидное.
+На inara cz ищем ближайший корабль Bowman-class Researcher или Lowell-class Researcher
+Нам необходимо корабль (я использовал каттер) с контроллером дрона разведчика 5E и полным карго (трюмом) дронов. 
+Сканер данных должен быть назначен на ЛКМ, дрон-разведчик на ПКМ.
+Подлетаем к кораблю таким образом, чтобы в цель входил только передатчик данных (и, соответственно, корабль для первого скана). Проверьте, не сдвигая мышку, не входят ли другие объекты в выбор цели, т.к. мышка при работе скрипта не будет двигаться, так что поупражняйтесь с прицеливанием. Можно просто подлететь почти вплотную к антенне, чтобы наверняка (она не сканируется дальше, чем 350 метров). Когда всё описанное выполнено, выходите в главное меню и запускайте скрипт.
+Профит, вы великолепны.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 75 ms
+KeyUp 68 1
+Delay 141 ms
+KeyUp 225 1
+Delay 714 ms
+KeyDown 44 1
+Delay 74 ms
+KeyUp 44 1
+Delay 532 ms
+KeyDown 7 1
+Delay 108 ms
+KeyUp 7 1
+Delay 171 ms
+KeyDown 7 1
+Delay 61 ms
+KeyUp 7 1
+Delay 283 ms
+KeyDown 44 1
+Delay 70 ms
+KeyUp 44 1
+Delay 11527 ms
+KeyDown 23 1
+Delay 70 ms
+KeyUp 23 1
+Delay 1254 ms
+LeftDown 1
+Delay 3767 ms
+LeftUp 1
+Delay 2812 ms
+KeyDown 23 1
+Delay 72 ms
+KeyUp 23 1
+Delay 1406 ms
+LeftDown 1
+Delay 3518 ms
+LeftUp 1
+Delay 1198 ms
+KeyDown 30 1
+Delay 67 ms
+KeyUp 30 1
+Delay 517 ms
+KeyDown 20 1
+Delay 64 ms
+KeyDown 8 1
+Delay 8 ms
+KeyUp 20 1
+Delay 82 ms
+KeyUp 8 1
+Delay 732 ms
+KeyDown 44 1
+Delay 85 ms
+KeyUp 44 1
+Delay 296 ms
+RightDown 1
+Delay 121 ms
+RightUp 1
+Delay 260 ms
+RightDown 1
+Delay 131 ms
+RightUp 1
+Delay 27459 ms
+KeyDown 41 1
+Delay 57 ms
+KeyUp 41 1
+Delay 3430 ms
+KeyDown 41 1
+Delay 84 ms
+KeyUp 41 1
+Delay 640 ms
+KeyDown 41 1
+Delay 87 ms
+KeyUp 41 1
+Delay 480 ms
+KeyDown 22 1
+Delay 90 ms
+KeyUp 22 1
+Delay 132 ms
+KeyDown 22 1
+Delay 59 ms
+KeyUp 22 1
+Delay 128 ms
+KeyDown 22 1
+Delay 45 ms
+KeyUp 22 1
+Delay 202 ms
+KeyDown 22 1
+Delay 85 ms
+KeyUp 22 1
+Delay 123 ms
+KeyDown 22 1
+Delay 54 ms
+KeyUp 22 1
+Delay 158 ms
+KeyDown 44 1
+Delay 56 ms
+KeyUp 44 1
+Delay 705 ms
+KeyDown 44 1
+Delay 64 ms
+KeyUp 44 1
+Delay 3534 ms
+KeyDown 22 1
+Delay 103 ms
+KeyUp 22 1
+Delay 264 ms
+KeyDown 26 1
+Delay 97 ms
+KeyUp 26 1
+Delay 253 ms
+KeyDown 22 1
+Delay 112 ms
+KeyUp 22 1
+Delay 196 ms
+KeyDown 26 1
+Delay 119 ms
+KeyUp 26 1
+Delay 275 ms
+KeyDown 22 1
+Delay 94 ms
+KeyUp 22 1
+Delay 244 ms
+KeyDown 26 1
+Delay 83 ms
+KeyUp 26 1
+Delay 326 ms
+KeyDown 22 1
+Delay 114 ms
+KeyUp 22 1
+Delay 281 ms
+KeyDown 26 1
+Delay 99 ms
+KeyUp 26 1
+Delay 1108 ms
+KeyDown 22 1
+Delay 130 ms
+KeyUp 22 1
+Delay 273 ms
+KeyDown 26 1
+Delay 94 ms
+KeyUp 26 1
+Delay 178 ms
+KeyDown 22 1
+Delay 130 ms
+KeyUp 22 1
+Delay 270 ms
+KeyDown 26 1
+Delay 98 ms
+KeyUp 26 1
+Delay 196 ms
+KeyDown 22 1
+Delay 119 ms
+KeyUp 22 1
+Delay 268 ms
+KeyDown 26 1
+Delay 101 ms
+KeyUp 26 1
+Delay 1363 ms
+KeyDown 225 1
+Delay 217 ms
+KeyDown 68 1</Syntax>
+    </KeyDown>
+    <Software>Elite Dangerous</Software>
+  </DefaultMacro>
+</Root>

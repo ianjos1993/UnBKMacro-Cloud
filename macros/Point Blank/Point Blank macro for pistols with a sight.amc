@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всем привет!
+Макрос на пистолеты с прицелом(для работоспособности на данной задержке нужен купон на быструю смену,без него не будет успевать стрелять)
+Удобнее всего ставить на боковую кнопку мыши(у меня нижняя)
+Так же если у вас есть берет на быструю смену и купон,то можете последнюю задержку поставить меньше на 110 мс.
+Не советую играть на турнирах)
+Всем удачных каток!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 15 ms
+RightUp 1
+Delay 15 ms
+LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 15 ms
+KeyDown 32 1
+Delay 15 ms
+KeyUp 32 1
+Delay 15 ms
+KeyDown 31 1
+Delay 15 ms
+KeyUp 31 1
+Delay 425 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

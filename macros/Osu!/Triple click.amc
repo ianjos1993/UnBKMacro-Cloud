@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>RU
+
+Для карт с высоким BPM в ОSU. 
+
+Суть: На картах более 3х звёзд если не успеваешь прожать в три кнопки сразу, то этот макрос поможет.
+Инструкция: Назначаешь на кнопку на клавиатуре, наводишь мышь на нужную тебе клавишу на экране и прожимаешь макрос, он делает всю работу за тебя с оптимальной задержкой
+-------------------------------------------------------
+ENG 
+
+For cards with high BPM in OSU. 
+
+The bottom line: On maps with more than 3 stars, if you do not have time to press three buttons at once, then this macro will help.
+Instructions: Assign a button on the keyboard, point the mouse at the desired key on the screen and press the macro, it does all the work for you with the optimal delay</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 85
+KeyDown 20 1
+Delay 82 ms
+KeyUp 20 1
+KeyDown 20 1
+Delay 87 ms
+KeyUp 20 1
+Delay 82
+KeyDown 20 1
+Delay 80 ms
+KeyUp 20 1
+Delay 82 ms</Syntax>
+    </KeyDown>
+    <Software>Osu!</Software>
+  </DefaultMacro>
+</Root>

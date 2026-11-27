@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для игры TSB для выполнения лёгкого, но полезного трюка.Разрешение экрана-1980x1080, пинг -70-90, фпс-240, инструкция  по использованию-подойдите к противнику и быстро активируйте макрос, или же можно врезатся в него рывком, а затем сразу же активировать макрос.Работает только на персонаже Hero hunter, использовать строго с шифтом, после того как макрос сделал свою работу продолжайте комбо обычными ударами.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 225 1
+Delay 64
+KeyUp 225 1
+Delay 64
+MoveR -287 -8
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

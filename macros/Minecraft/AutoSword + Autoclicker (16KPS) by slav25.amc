@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматически берет МЕЧ в руку и КЛИКАЕТ(PVP) 16КПС
+
+                                                                   Сделано под сервер VimeWorld
+
+   Инструкция:
+ 
+ 1.В 1(первом) слоту должен находится меч.
+ 2. Нажимем кнопку и все готого.
+
+
+
+     by slav25</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+Delay 1 ms
+LeftDown 1
+LeftUp 1
+Delay 89 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

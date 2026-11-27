@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Это бот 
+Как использовать:
+1 Измините окно на правую часть рабочего стола
+2 Включите миддлскрол(Это когда стрелки по центру)
+3 Наслаждайтесь
+4 Спасибо за скачивание
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 6 1 194,75,153 179,97,158 1 941 389
+GoColor 11 1 0,255,255 255,255,255 1 998 325
+GoColor 16 1 18,250,5 255,255,255 1 1051 331
+GoColor 21 1 249,57,63 255,255,255 1 1115 337
+Goto 1
+KeyDown 80 1
+Delay 64
+KeyUp 80 1
+Delay 64
+Goto 1
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+Goto 1
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+Goto 1
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Friday Night Funkin</Software>
+  </DefaultMacro>
+</Root>

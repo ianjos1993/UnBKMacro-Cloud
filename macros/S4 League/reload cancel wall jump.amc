@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major>Reload cancel wall jump</Major>
+    <Description>Equip revolver or hand gun in slot 2, skill block in skill slot. Keep atleast one magazine empty for reloading. Enjoy smashing S4, Good luck.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 25 ms
+KeyUp 225 1
+Delay 25 ms
+KeyDown 26 1
+Delay 15 ms
+KeyDown 44 1
+Delay 176 ms
+KeyDown 31 1
+Delay 10 ms
+KeyUp 44 1
+Delay 25 ms
+KeyUp 31 1
+Delay 10 ms
+KeyUp 26 1
+Delay 25 ms
+KeyDown 44 1
+Delay 25 ms
+KeyUp 44 1
+Delay 25 ms
+KeyDown 4 1
+Delay 0 ms
+KeyDown 44 1
+Delay 25 ms
+KeyUp 4 1
+Delay 15 ms
+KeyUp 44 1
+Delay 25 ms
+KeyDown 21 1
+Delay 25 ms
+KeyUp 21 1
+Delay 100 ms
+LeftDown 1
+Delay 25 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>S4 League</Software>
+  </DefaultMacro>
+</Root>

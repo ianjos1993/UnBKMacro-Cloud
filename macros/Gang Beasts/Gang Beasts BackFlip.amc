@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major>OP Gang Beasts Backflip.</Major>
+    <Description>I made this Gang Beasts Macro myself because it was looking really empty.
+This macro can be modified to your likings but this is the way it works best for me. Contact me if you find some delays that are better.
+
+I have tried this myself and I myself is using this macro because its very easy. I might make other macros if I can find them.
+
+You can backflip for fun or to KO your enemies. It can be a little tricky to learn how to KO them.
+You can also press WASD keys to make yourself go in that direction while backflipping.
+
+It is really powerful.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+KeyDown 225 1
+Delay 75 ms
+KeyDown 16 1
+KeyUp 224 1
+Delay 250 ms
+KeyDown 44 1
+Delay 900 ms
+KeyUp 44 1
+Delay 1 ms
+KeyUp 16 1
+Delay 200 ms
+KeyUp 225 1</Syntax>
+    </KeyDown>
+    <Software>Gang Beasts</Software>
+  </DefaultMacro>
+</Root>

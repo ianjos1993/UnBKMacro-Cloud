@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>для игры Basketball legends. Трюк чтобы обманывать на углы, то есть вы идете в 2PT зону прожимаете макрос и он подходит к игроку и откидывает его и после забивает perfect.
+Чтобы пользоваться им, вам нужно иметь 50ОВР.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 76 ms
+KeyUp 22 1
+Delay 64
+KeyDown 10 1
+Delay 64
+KeyUp 10 1
+Delay 64
+KeyDown 8 1
+Delay 344 ms
+KeyUp 8 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,58 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос cоздан для игр на серверах TLauncher.Инструкция по его использованию:
+1.Данный макрос вы можете забиндить на любую для вас удобную кнопку мыши.
+2.После того как вы забиндили макрос вы нажимаете на клавишу,на которую вы его забиндили или же на кнопку мыши.
+3.После нажатия макрос начинает работать и выполнять клики левой кнопкой мыши.
+4.Данный макрос лучше всего использовать на мини играх по типу Bedwars.Skywars или же для дуэлей.
+5.Макрос сделан на 12-15 кпс.так что даст вам некое преимущество,в плане того что вас небудет кикать по причине подозрение в использовании читов и тд.
+6.Макрос можно использовать не только на серверах TLauncher,но не рекомендуется использовать его на серверах где кликеры,макросы,сторонние программы запрещены,будьте острожны.
+7.Всем спасибо за внимание и приятного использования.(Прошу оставить ваши отзывы о макросе)
+</Description>
+    <Comment>Еще 1 макрос для серверов по Майнкрафту,думаю для тех кто играет на пиратских серверах он подойдет.</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 27 1
+Delay 37 ms
+KeyUp 27 1
+Delay 37 ms
+LeftDown 1
+Delay 37 ms
+LeftUp 1
+Delay 37 ms
+LeftDown 1
+GoWhile 1 5000
+Delay 37 ms
+LeftUp 1
+Delay 37 ms
+LeftDown 1
+Delay 37 ms
+LeftUp 1
+Delay 37 ms
+RightDown 1
+Delay 37 ms
+RightUp 1
+Delay 37 ms
+LeftDown 1
+Delay 37 ms
+LeftUp 1
+Delay 37 ms
+RightDown 1
+GoWhile 26 2000
+Delay 37 ms
+RightUp 1
+Delay 37 ms
+LeftDown 1
+Delay 37 ms
+LeftUp 1
+Delay 37 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

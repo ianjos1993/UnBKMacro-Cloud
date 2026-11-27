@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major>Cristalix микро-ферма анти грязнуля и утопленник</Major>
+    <Description>Встаёте около воды и включаете этот макрос. Помогает избавиться от события грязнуля и утопленник. Вы сможете фармить сколько хотите и вам не помешают дебаф ивенты.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 171 ms
+KeyUp 68 1
+Delay 2 ms
+KeyUp 225 1
+Delay 712 ms
+KeyDown 26 1
+Delay 313 ms
+KeyUp 26 1
+Delay 831 ms
+KeyDown 225 1
+Delay 677 ms
+KeyUp 225 1
+Delay 1016 ms
+KeyDown 22 1
+Delay 882 ms
+KeyUp 22 1
+Delay 201 ms
+KeyDown 22 1
+Delay 86 ms
+KeyDown 44 1
+Delay 769 ms
+KeyUp 44 1
+Delay 36 ms
+KeyUp 22 1
+Delay 476 ms
+KeyDown 225 1
+Delay 303 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major>Навыбивали черчежей? Не беда воспользуйтесь этим скриптом и получите куча очков опыта доверия</Major>
+    <Description>Желательное разрешение 1920 x 1080
+
+Заполните всю очередь и поставьте скрипт чтобы быстро скрафтить все нужные предметы декора. Главное иметь Флаконы скорости Адепта
+
+
+Бинд ставте повторять до повторого нажатия
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы  Удачи в выбивание лег !!!</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 150 ms
+MoveTo 1708 1024
+Delay 200 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1168 762
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 200 ms
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 150 ms</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

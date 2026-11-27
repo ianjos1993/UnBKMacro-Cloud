@@ -1,0 +1,36 @@
+<Root>
+  <!-- by Britan -->
+  <DefaultMacro>
+    <Major></Major>
+    <Description>НАЗВАНИЕ: CS2 Flash and Peek. ОПИСАНИЕ: Полная последовательность для агрессивного выхода с гранатой: снять гранату (клавиша E) -&gt; выбрать флешку (слот 4) -&gt; бросить -&gt; пик влево (A) -&gt; пик вправо (D). РЕКОМЕНДУЕМАЯ КЛАВИША: G. КАК ИСПОЛЬЗОВАТЬ: Привяжи макрос на клавишу G. Встань за углом стены. Нажми G - макрос автоматически снимет гранату, выберет флешку, бросит её и сделает peek (зайди-выйди из-за угла). После вспышки выходи и стреляй. Однократное выполнение. НАСТРОЙКА: Если флешка не в слоте 4 - измени KeyDown 52 на нужный номер слота. Задержки можно увеличить если сервер лагает. АВТОР: by Britan. ЗАПРЕЩЕНО копировать без указания автора.</Description>
+    <Comment>Привязка: G. Режим: однократное. Инструкция: встань за углом, нажми G - флешка бросится и макрос сделает peek.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 69 1
+Delay 20 ms
+KeyUp 69 1
+Delay 80 ms
+KeyDown 52 1
+Delay 25 ms
+KeyUp 52 1
+Delay 10 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 15 ms
+KeyDown 37 1
+Delay 60 ms
+KeyUp 37 1
+Delay 20 ms
+KeyDown 39 1
+Delay 60 ms
+KeyUp 39 1</Syntax>
+    </KeyDown>
+    <Software>Counter-Strike 2</Software>
+  </DefaultMacro>
+</Root>

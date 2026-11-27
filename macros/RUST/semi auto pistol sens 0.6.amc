@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major>macro semi auto pistol</Major>
+    <Description>this macro is for semi-auto pistol sens 0.6 (put it on press to start) for automatic gun
+1920 x 1080
+DPI 3200
+Fov 90
+sens 0.6
+
+support me and enjoy!
+
+BlackMamba</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 11 ms
+MoveR 0 18
+Delay 11 ms
+MoveR 0 18
+Delay 11 ms
+MoveR 0 18
+Delay 11 ms
+MoveR 0 18
+Delay 11 ms
+MoveR 0 18
+Delay 11 ms
+LeftUp 1
+Delay 12 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

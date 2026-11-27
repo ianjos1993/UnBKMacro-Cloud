@@ -1,0 +1,90 @@
+<Root>
+  <DefaultMacro>
+    <Major>Макрос для включения выключения деректив.(Фарм опыта)</Major>
+    <Description>Макрос для быстрого включения и отключения деректив в игре Tom Clancy’s The Division 2. Этот макрос предназначен для  уровнz часов. 
+1. Проходите любуе задание до финала(не завершая её).
+2. Нажимаете на установленную вами кнопку для активации макроса.
+3. Дерективы включаются, и вы после их включения завершаете задание получая опыт так, как будто играли с активными дерективами.
+4.1 Сразу после получения опыта нажать на установленную вами кнопку для активации макроса до конца таймера. (Если получилось обмануть игру то дерективы после таймера не будут включенны)
+4.2 Если после загрузки дерективы активны не повезло нажимаем второй раз и ждём.
+ФАРМ ПОФИКСИЛИ. Дерективы включат ьвыключать можно но фарм этим методом пофиксили. Но вдруг если что-то ещё с этим связанное найдут то макрос уже есть.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 16 1
+Delay 50 75 ms
+KeyUp 16 1
+Delay 500 ms
+KeyDown 29 1
+Delay 45 65 ms
+KeyUp 29 1
+Delay 100 ms
+KeyDown 22 1
+Delay 45 65 ms
+KeyUp 22 1
+Delay 100 ms
+KeyDown 44 1
+Delay 60 65 ms
+KeyUp 44 1
+Delay 100 ms
+KeyDown 44 1
+Delay 60 65 ms
+KeyUp 44 1
+Delay 64
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 64
+KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 150 ms
+KeyDown 44 1
+Delay 100 ms
+KeyUp 44 1
+Delay 64
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy’s The Division 2</Software>
+  </DefaultMacro>
+</Root>

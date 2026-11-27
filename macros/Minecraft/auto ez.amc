@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Авто EZ если вам в личные сообщения написали обидные слова, то с данным макросом вы можете ему спамить EZ в личное сообщение если на сервере работает команда обратного ответа /r ) проверял на сервере майнмен клаб</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 120 ms
+KeyDown 56 1
+Delay 120 ms
+KeyUp 56 1
+Delay 64
+KeyDown 21 1
+Delay 130 ms
+KeyUp 21 1
+Delay 64
+KeyDown 44 1
+Delay 140 ms
+KeyUp 44 1
+Delay 64
+KeyDown 8 1
+Delay 150 ms
+KeyUp 8 1
+Delay 64
+KeyDown 29 1
+Delay 160 ms
+KeyUp 29 1
+Delay 64
+KeyDown 88 1
+Delay 200 ms
+KeyUp 88 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

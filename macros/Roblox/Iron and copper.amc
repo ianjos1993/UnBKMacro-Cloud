@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>скрипт для тех кому лень добывать ресурсы самостоятельно, создаете 2 твина(обычный и майкрософт роблокс модно запускать одновременно), идёте на 2 локации и ставите камеру так чтоб руда была по середине, выравниваете 1 окно слева другое справа, запускаете макрос и идете занимаетесь своими делами, за 2 часа соберете ресов на 20+ смиз скилла</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 481 473
+Delay 200
+MoveTo 490 485
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+MoveTo 1428 461
+Delay 200
+MoveTo 1453 462
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 2 s</Syntax>
+    </KeyDown>
+    <Software>Sword Blox Online авто-копалка руды в 2 экрана</Software>
+  </DefaultMacro>
+</Root>

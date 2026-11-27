@@ -1,0 +1,81 @@
+<Root>
+  <DefaultMacro>
+    <Major>Спиннинг бот</Major>
+    <Description>Макрос для спинингистов, Проверено на Вьюнке и Белой. 
+Находим точку клева, становимся как можно ближе к воде, направляем бланк в сторону заброса и активируем макрос. Идем занимаемся своими делами. Не забываем выставить фрикцион по возможностям бланка. Скорость подмотки от 22 до 36.  У меня на реке белой получалось от 200 до 350 серы за 2 часа реала при хорошей погоде без дождя. </Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1245 ms
+LeftDown 1
+Delay 299 ms
+KeyDown 225 1
+Delay 387 ms
+LeftUp 1
+Delay 33 ms
+KeyUp 225 1
+Delay 3990 ms
+LeftDown 1
+Delay 1769 ms
+LeftUp 1
+Delay 1397 ms
+LeftDown 1
+Delay 1520 ms
+LeftUp 1
+Delay 1429 ms
+LeftDown 1
+Delay 1915 ms
+LeftUp 1
+Delay 1268 ms
+LeftDown 1
+Delay 2125 ms
+LeftUp 1
+Delay 1235 ms
+LeftDown 1
+Delay 2303 ms
+LeftUp 1
+Delay 1268 ms
+LeftDown 1
+Delay 2182 ms
+LeftUp 1
+Delay 1469 ms
+LeftDown 1
+Delay 2093 ms
+LeftUp 1
+Delay 1673 ms
+LeftDown 1
+Delay 2164 ms
+LeftUp 1
+Delay 1227 ms
+LeftDown 1
+Delay 2165 ms
+LeftUp 1
+Delay 43 ms
+KeyDown 22 1
+Delay 1022 ms
+RightDown 1
+Delay 2702 ms
+KeyUp 22 1
+Delay 1247 ms
+RightDown 1
+Delay 2859 ms
+RightUp 1
+Delay 80 ms
+LeftUp 1
+Delay 78 ms
+KeyDown 44 1
+Delay 757 ms
+KeyUp 44 1
+Delay 1561 ms
+KeyDown 26 1
+Delay 3472 ms
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>Русская Рыбалка 4</Software>
+  </DefaultMacro>
+</Root>

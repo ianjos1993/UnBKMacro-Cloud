@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major>Fighting</Major>
+    <Description>This is a dodge macro for the game brawlhalla. Set the macro to run while you hold the key and if you are getting comboed just hold the key you set and it will dodge whenever it can to escape the combo</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 15 1
+Delay 1 ms
+KeyUp 15 1
+Delay 1 ms
+KeyDown 15 1
+Delay 1 ms
+KeyUp 15 1
+Delay 1 ms
+KeyDown 15 1
+Delay 1 ms
+KeyUp 15 1
+Delay 1 ms
+KeyDown 15 1
+Delay 1 ms
+KeyUp 15 1
+Delay 1 ms
+KeyDown 15 1
+Delay 1 ms
+KeyUp 15 1
+Delay 1 ms
+KeyDown 15 1
+Delay 1 ms
+KeyUp 15 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Brawlhalla</Software>
+  </DefaultMacro>
+</Root>

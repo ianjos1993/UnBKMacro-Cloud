@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Итальянский пистолет Беретта 92 
+
+90 - 95 Точность/accuracyr 90-95%
+FOV 70 
+Сенса0.95 / sens 0.95
+
+На 90 FOV 1.05sens
+
+Довольно простенький, но хорошо рабочий макрос. За счет легкого патерна беретты.
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 13 ms
+MoveR 0 3
+Delay 13 ms
+MoveR 0 3
+Delay 13 ms
+MoveR 0 3
+Delay 13 ms
+MoveR 0 3
+Delay 13 ms
+MoveR 0 3
+Delay 13 ms
+MoveR 0 3
+Delay 13 ms
+MoveR 0 3
+Delay 13 ms
+MoveR 0 3
+Delay 13 ms
+MoveR 0 3
+Delay 13 ms
+MoveR 0 3
+Delay 13 ms
+LeftUp 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

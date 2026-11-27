@@ -1,0 +1,115 @@
+<Root>
+  <DefaultMacro>
+    <Major>Jin hellsweep combo</Major>
+    <Description>Макрос позволяет выполнять hellsweep combo за Джина.
+Видео демонстрации работы макроса: https://youtu.be/hrztkgNPzNw
+
+Джин (Jin Kazama) — мускулистый молодой человек японского происхождения. У него черные волосы с шипами на затылке, как у его отца, У него также есть чёлка, как у его матери. Один из главных персонажей серии Tekken. Он изображен на обложке консольной версии почти каждого сиквела после его появления в Tekken 3. Его главной мотивацией была попытка положить конец родословной Мишимы, чтобы спасти мир от их зла. Действия Джина и события, которые с ним произошли, соответствуют образцу типичного «трагического героя». Как и у многих трагических героев, все основные травмирующие события, происходящие в жизни героя, находятся вне его контроля.
+
+Тестирование макроса проводились на последнем патче игры на 28.03.2023 (5.01 патч)
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#jintekken7 #tekken7 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 47 ms
+KeyUp 7 1
+Delay 40 ms
+KeyDown 22 1
+Delay 80 ms
+KeyDown 7 1
+Delay 56 ms
+KeyDown 77 1
+Delay 95 ms
+KeyUp 22 1
+Delay 47 ms
+KeyUp 7 1
+Delay 48 ms
+KeyUp 77 1
+Delay 23 ms
+KeyDown 4 1
+Delay 128 ms
+KeyDown 74 1
+Delay 88 ms
+KeyUp 74 1
+Delay 80 ms
+KeyDown 74 1
+Delay 72 ms
+KeyUp 74 1
+Delay 87 ms
+KeyDown 74 1
+Delay 71 ms
+KeyUp 74 1
+Delay 79 ms
+KeyDown 74 1
+Delay 80 ms
+KeyUp 74 1
+Delay 55 ms
+KeyDown 74 1
+Delay 71 ms
+KeyDown 73 1
+Delay 88 ms
+KeyUp 74 1
+Delay 55 ms
+KeyUp 73 1
+Delay 15 ms
+KeyUp 4 1
+Delay 88 ms
+KeyDown 77 1
+Delay 79 ms
+KeyUp 77 1
+Delay 80 ms
+KeyDown 77 1
+Delay 72 ms
+KeyUp 77 1
+Delay 88 ms
+KeyDown 77 1
+Delay 71 ms
+KeyUp 77 1
+Delay 80 ms
+KeyDown 77 1
+Delay 63 ms
+KeyUp 77 1
+Delay 63 ms
+KeyDown 77 1
+Delay 136 ms
+KeyUp 77 1
+Delay 511 ms
+KeyDown 7 1
+Delay 72 ms
+KeyUp 7 1
+Delay 63 ms
+KeyDown 7 1
+Delay 144 ms
+KeyDown 77 1
+Delay 71 ms
+KeyUp 7 1
+Delay 32 ms
+KeyUp 77 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 7</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major>макрос на лут для соа Билдим лут на одно нажатие </Major>
+    <Description> Кнопки лута на любое время. Один раз нажали лут подняли. Очень удобно не нужно ждать и держать кнопку.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 68 1
+Delay 8 s
+KeyUp 68 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

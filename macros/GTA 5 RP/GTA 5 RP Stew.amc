@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major>Рагу GTA 5 RP под HD мониторы!</Major>
+    <Description>Откройте свою маленькую кухню в GTA 5 RP без бесконечной череды ручных нажатий! Этот макрос для Keyran возьмёт на себя повторяющиеся действия при приготовлении 30 порций рагу — вам останется лишь запустить процесс. Последовательность настроена под разрешение 1360×768 (HD). Если элементы интерфейса расположены иначе, точки нажатия легко изменить через редактор Keyran и подогнать под себя. Пусть виртуальное рагу готовится по рецепту, а ваши пальцы отдыхают от кухонной рутины!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 898 128
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 807 129
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 984 126
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 651 417
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 532 516
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+GoWhile 1 30</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

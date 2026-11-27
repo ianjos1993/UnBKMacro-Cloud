@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос нужен для авто приготовления овощного смузи. 
+
+Вам необходимо только самостоятельно, примерно каждые минут 6 класть овощи в инвентарь и выгружать готовое смузи
+
+Скрипт работает на разрешение 1920х1080 как в окне так и полноэкранном.
+
+Важно!
+1.В инвентаре необходимо иметь овощи. (для достижения максимальной эффективности 50 овощей)
+2. Скрипт работает до тех пор, пока вы сами  не остановите его! (повторное нажатие на кнопку запуска)
+
+Удачной игры)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 300 ms
+MoveTo 1071 303
+RightDown 1
+RightUp 1
+MoveTo 1157 303
+RightDown 1
+RightUp 1
+MoveTo 803 586
+RightDown 1
+RightUp 1
+MoveTo 802 673
+LeftDown 1
+LeftUp 1
+Delay 4550 ms</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

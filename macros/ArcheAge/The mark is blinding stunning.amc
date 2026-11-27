@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>F6 - Прицельная стрельба. Нужна для ослепляющего
+6 - Метка убийцы. Нужно для комбо метки и ослепления
+7 - Ослепляющий выстрел. Под прицельной стрельбой дает заряяды, под Меткой дает кровотечение
+F2 - Оглушающий выстрел
+
+Итого. Заряды не учитываем. Но они есть. 
+Метка дает повышенный урон
+Стойка дает криты
+Ослепляющий + Метка = Кровотччение
+Оглушение + Кровотечение = Почти 50% доп урона.</Description>
+    <Comment>Пробная версияя на основе Прицел Ослепления</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 63 1
+Delay 150 ms
+KeyUp 63 1
+Delay 200 ms
+KeyDown 35 1
+Delay 100 ms
+KeyUp 35 1
+Delay 100 ms
+KeyDown 36 1
+Delay 250 ms
+KeyUp 36 1
+Delay 800 ms
+KeyDown 59 1
+Delay 200 ms
+KeyUp 59 1</Syntax>
+    </KeyDown>
+    <Software>Archeage</Software>
+  </DefaultMacro>
+</Root>

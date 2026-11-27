@@ -1,0 +1,74 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Бот для трамвая в UGTA
+Подходите к NPC, бот сам арендует трамвай у него, берет маршрут.
+Подъезжаете максимально близко к первой жёлтой метке и нажимаете кнопку запуска (которую сами поставите).
+Бот самостоятельно едет и останавливается на всех чекпоинтах.
+Так же работает как анти афк, чтобы админы не кикали за афк
+Перезапускать маршрут не нужно — трамвай будет кататься по кругу, пока вы сами не остановите скрипт.
+Разрешение экрана: 1920 × 1080</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 38 ms
+KeyUp 68 1
+Delay 293 ms
+KeyUp 225 1
+Delay 15727 ms
+KeyDown 26 1
+Delay 90023 ms
+KeyUp 26 1
+Delay 296 ms
+KeyDown 22 1
+Delay 384 ms
+KeyUp 22 1
+Delay 175 ms
+KeyDown 22 1
+Delay 2567 ms
+KeyUp 22 1
+Delay 13808 ms
+KeyDown 26 1
+Delay 75184 ms
+KeyUp 26 1
+Delay 768 ms
+KeyDown 26 1
+Delay 455 ms
+KeyUp 26 1
+Delay 16 ms
+KeyDown 22 1
+Delay 3016 ms
+KeyUp 22 1
+Delay 13736 ms
+KeyDown 26 1
+Delay 61992 ms
+KeyUp 26 1
+Delay 151 ms
+KeyDown 22 1
+Delay 55 ms
+KeyUp 22 1
+Delay 472 ms
+KeyDown 22 1
+Delay 1047 ms
+KeyUp 22 1
+Delay 392 ms
+KeyDown 22 1
+Delay 847 ms
+KeyUp 22 1
+Delay 239 ms
+KeyDown 22 1
+Delay 952 ms
+KeyUp 22 1
+Delay 2663 ms
+KeyDown 225 1
+Delay 208 ms
+KeyDown 68 1</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

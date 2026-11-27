@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>////////// by Masterr\\\\\\\\\\
+
+
+
+
+Данный макрос пригодится для игры в Left 4 Dead 2 на всех серверах, в частности на Т1(Confogls, Zone Mod)
+
+1)Назначьте макрос на любую кнопку удобную для вас
+2)Запустите макрос
+3)Для полной работы макроса, в ваших руках должно быть Мили Оружие(Рукопашне) и таблетка или шприц
+4)Всё также как и с аптечкой, нажимаемм на кнопку заданного макроса и радуемся :)
+
+
+//////////by Master\\\\\\\\\\
+
+
+
+
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+LeftUp 1
+Delay 100 ms
+KeyDown 34 1
+KeyUp 34 1
+Delay 100 ms
+KeyDown 31 1
+KeyUp 31 1
+Delay 300 ms
+LeftDown 1
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Left 4 Dead 2</Software>
+  </DefaultMacro>
+</Root>

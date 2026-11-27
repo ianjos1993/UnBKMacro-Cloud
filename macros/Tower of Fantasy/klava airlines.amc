@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос для полета на клавдии.
+использовать в воздухе, вместо "!Q" забиндить кнопку, на которой джетпак. 7-8 пункты отвечают за сам полет и зависят от вашего фпс, данная задержка работает на 60-90 фпс</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 270 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 300 ms
+KeyDown 20 1
+Delay 1 ms
+KeyUp 20 1
+Delay 1 ms
+KeyDown 20 1
+Delay 1 ms
+KeyUp 20 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Tower of Fantasy</Software>
+  </DefaultMacro>
+</Root>

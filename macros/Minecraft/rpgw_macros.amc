@@ -1,0 +1,60 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для rpgworld , исключительно для него , макрос незажимной всё что требуеться это просто выбрать кнопку на которую будет включаться макрос и всё , убиваю в яме , в жиме иногда крысят и я не могу , вообщем плохо в жиме .
+1 - меч
+3 - фрост
+19 ударов и 6-7 хилла , так как хила меньше то ударов больше и быстре проходят и можно на свапе убить за секунду.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 0 ms
+Delay 0 ms
+Delay 0 ms
+Delay 9 ms
+LeftUp 1
+KeyDown 30 1
+KeyUp 30 1
+RightDown 1
+Delay 0 ms
+Delay 4 ms
+Delay 0 ms
+Delay 6 ms
+LeftDown 1
+Delay 3 ms
+Delay 2 ms
+LeftUp 1
+Delay 3 ms
+Delay 2 ms
+LeftUp 1
+Delay 2 ms
+Delay 20 ms
+RightUp 1
+Delay 7 ms
+LeftDown 1
+Delay 11 ms
+LeftUp 1
+Delay 8 ms
+RightDown 1
+LeftUp 1
+KeyDown 32 1
+KeyUp 32 1
+RightDown 1
+Delay 13 ms
+Delay 4 ms
+LeftDown 1
+Delay 10 ms
+Delay 15 ms
+SayString 
+
+</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

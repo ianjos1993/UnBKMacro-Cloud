@@ -1,0 +1,96 @@
+<Root>
+  <DefaultMacro>
+    <Major>Поливомоечный Мирный (второй)</Major>
+    <Description>Важно! Макрос записывался для второго трамвая (не подходит для 1 и 3) в городе Мирный. Устраиваетесь и после посакди в трамвай запускаете макрос, проедет весь маршрут, сам включит фары, свет в салоне и воду. Использовать исключительно во время неработы светофоров (иначе вас уволят за неоднократный проезд на красный свет). Макрос записывался в разрешении 1920х1080 (полноэкранный режим) в 60 фпс. Удачного фарма!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 420 ms
+KeyUp 26 1
+Delay 480 ms
+KeyDown 26 1
+Delay 149 ms
+KeyUp 26 1
+Delay 912 ms
+KeyDown 7 1
+Delay 329 ms
+KeyDown 22 1
+Delay 18 ms
+KeyUp 7 1
+Delay 630 ms
+KeyDown 4 1
+Delay 30 ms
+KeyUp 22 1
+Delay 196 ms
+KeyUp 4 1
+Delay 21 ms
+KeyDown 26 1
+Delay 740 ms
+KeyUp 26 1
+Delay 3294 ms
+KeyDown 26 1
+Delay 1118 ms
+KeyDown 14 1
+Delay 83 ms
+KeyUp 14 1
+Delay 338 ms
+KeyDown 15 1
+Delay 94 ms
+KeyUp 15 1
+Delay 85 ms
+KeyDown 15 1
+Delay 94 ms
+KeyUp 15 1
+Delay 780 ms
+KeyDown 31 1
+Delay 114 ms
+KeyUp 31 1
+Delay 94 ms
+KeyDown 31 1
+Delay 54188 ms
+KeyUp 26 1
+Delay 79 ms
+KeyDown 22 1
+Delay 5022 ms
+KeyUp 22 1
+Delay 282 ms
+KeyDown 26 1
+Delay 139637 ms
+KeyUp 26 1
+Delay 0 ms
+KeyDown 22 1
+Delay 5154 ms
+KeyUp 22 1
+Delay 189 ms
+KeyDown 26 1
+Delay 144436 ms
+KeyUp 26 1
+Delay 0 ms
+KeyDown 22 1
+Delay 753 ms
+KeyUp 22 1
+Delay 742 ms
+KeyDown 22 1
+Delay 4054 ms
+KeyUp 22 1
+Delay 338 ms
+KeyDown 22 1
+Delay 150 ms
+KeyUp 22 1
+Delay 225 ms
+KeyDown 26 1
+Delay 33720 ms
+KeyUp 26 1
+Delay 29 ms
+KeyUp 31 1
+Delay 1814 ms</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

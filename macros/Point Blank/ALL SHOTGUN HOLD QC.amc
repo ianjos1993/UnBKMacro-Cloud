@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major>Shotgun</Major>
+    <Description>The best timing macro shotgun in "Point Blank", can be used for all shotguns, easy to use with an accurately adjusted time to make your game more enjoyable.
+
+macros built with fully guaranteed customization, error free, and easy to use</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 25 ms
+KeyDown 32 1
+Delay 19 ms
+KeyDown 20 1
+Delay 19 ms
+KeyDown 30 1
+Delay 19 ms
+KeyUp 30 1
+Delay 10 ms
+GoWhile 7 2
+KeyUp 20 1
+Delay 10 ms
+KeyUp 32 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+Delay 315 ms
+IfKey 7 0 21
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

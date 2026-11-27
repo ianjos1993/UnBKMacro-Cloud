@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Moonwalk for mindustry(move rotation abuse). For change rotation change keys a/d to w/s. Not banned on ranked and easyplay</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+MoveTo 0 512
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+Delay 16 ms
+KeyUp 7 1
+GoWhile 1 10
+KeyDown 4 1
+MoveTo 1918 512
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+Delay 16 ms
+KeyUp 4 1
+GoWhile 9 10</Syntax>
+    </KeyDown>
+    <Software>mindustry</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,77 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>this macro is use to farm the foraging skilll in hypixel skyblock to use the macro you need a farm link down to build it 
+
+to use the macro you need too use dark oak sapling in the first slot of your hotbar and ennchanted bone meal in the segond slot a treecapitator in the third and any fishing rod in the fourth slot youu also need to have to use the key " a" on your keyboard to go to the left and "d" to go to the right and left blick to break and right click to place
+
+extra : if youu dont have a lvl 100 money pet you can change the last timing before the loop to 1300ms to get more efficeinty
+
+link to build the farm : https://www.youtube.com/watch?v=nw6mMdN-Ak0&amp;ab_channel=Kuvdra
+
+i didnt builld the farm i only made the macro</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 40 ms
+KeyUp 30 1
+Delay 40 ms
+RightDown 1
+Delay 40 ms
+RightUp 1
+Delay 40 ms
+RightDown 1
+Delay 40 ms
+RightUp 1
+Delay 40 ms
+KeyDown 7 1
+Delay 100 ms
+KeyUp 7 1
+Delay 40 ms
+RightDown 1
+Delay 40 ms
+RightUp 1
+Delay 40 ms
+RightDown 1
+Delay 40 ms
+RightUp 1
+Delay 40 ms
+KeyDown 31 1
+Delay 40 ms
+KeyUp 31 1
+Delay 40 ms
+RightDown 1
+Delay 40 ms
+RightUp 1
+Delay 40 ms
+KeyDown 32 1
+Delay 40 ms
+KeyUp 32 1
+Delay 40 ms
+LeftDown 1
+Delay 40 ms
+LeftUp 1
+Delay 40 ms
+KeyDown 33 1
+Delay 46 ms
+KeyUp 33 1
+Delay 200 ms
+RightDown 1
+Delay 50 ms
+RightUp 1
+Delay 40 ms
+KeyDown 20 1
+Delay 100 ms
+KeyUp 20 1
+Delay 750 ms
+GoWhile 1 1000</Syntax>
+    </KeyDown>
+    <Software>minecraft</Software>
+  </DefaultMacro>
+</Root>

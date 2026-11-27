@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Упрощает перемещение для игроков в Geode Caves, а так же в обычных мирах для персонажей с высоким показателем MS. Юзает "Рывок" без задержек после отката. Активируйте на удобную для вас кнопку по зажатию, либо повторному нажатию для отключения.</Description>
+    <Comment>https://BBM.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 50 ms
+KeyUp 225 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>Trove</Software>
+  </DefaultMacro>
+</Root>

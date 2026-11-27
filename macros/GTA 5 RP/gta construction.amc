@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>авто кликер на стройку
+вам нужно тттолько подойти к кирпичам
+сам кликает 
+сам кладет
+1920X1080 только</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+Delay 8 ms
+KeyUp 6 1
+LeftDown 1
+Delay 8 ms
+LeftUp 1
+Delay 8 ms
+GoWhile 4 10000
+KeyDown 12 1
+Delay 8 ms
+KeyUp 12 1
+Delay 8 ms
+MoveR 1257 1400
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

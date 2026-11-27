@@ -1,0 +1,59 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Свап пение перед горой. Сначала переход на пение, в середине каста снова деф сет. Активно юзаю, пока все удается</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 93 1
+Delay 3 ms
+KeyDown 94 1
+Delay 3 ms
+KeyDown 95 1
+Delay 4 ms
+KeyDown 96 1
+Delay 3 ms
+KeyDown 97 1
+Delay 127 ms
+KeyDown 21 1
+Delay 3 ms
+KeyUp 21 1
+Delay 3 ms
+KeyUp 93 1
+Delay 0 ms
+KeyUp 94 1
+Delay 0 ms
+KeyUp 95 1
+Delay 0 ms
+KeyUp 96 1
+Delay 0 ms
+KeyUp 97 1
+Delay 587 ms
+KeyDown 89 1
+Delay 3 ms
+KeyDown 90 1
+Delay 4 ms
+KeyDown 91 1
+Delay 4 ms
+KeyDown 92 1
+Delay 3 ms
+KeyDown 98 1
+Delay 112 ms
+KeyUp 89 1
+Delay 0 ms
+KeyUp 90 1
+Delay 0 ms
+KeyUp 91 1
+Delay 0 ms
+KeyUp 92 1
+Delay 0 ms
+KeyUp 98 1</Syntax>
+    </KeyDown>
+    <Software>Perfect World</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматически восстанавливает здоровье героя при низких значениях (~1/5 полосы)
+
+Доп: автоопределение контейнеров (то есть если вы случайно открыли, например, турель, скрипт сам закроет меню и продолжит нормалоьно функционировать), автоопределение рыбы в слоте (если рыбы не будет, то скрипт не сломается)
+
+Что требуется:
+Сама рыба в 3 слоте</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 18 0 0,0,0 0,52,0 1 617 624
+GoColor 6 0 251,251,251 255,255,255 1 1099 120
+KeyDown 41 1
+Delay 30 ms
+KeyUp 41 1
+GoColor 18 0 216,230,175 255,255,255 1 577 657
+KeyDown 32 1
+Delay 20 ms
+KeyUp 32 1
+Delay 70 ms
+GoColor 18 0 39,19,0 255,255,255 1 581 668
+Delay 70 ms
+GoColor 18 1 255,178,0 255,255,255 1 596 660
+LeftDown 1
+Delay 20 ms
+LeftUp 1
+Delay 60 ms
+Delay 40 ms</Syntax>
+    </KeyDown>
+    <Software>Factorio</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,59 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Собирает подарки гильдии за Вас при отсутствии випа 12 уровня. Макрос работает на оконном режиме и относительно экрана 1920х1080. При других разрешениях нужно поправить значение "переместить курсор" под вас.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 884 932
+Delay 79 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+Delay 79 ms
+MoveTo 1337 437
+Delay 79 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+Delay 79 ms
+MoveTo 1514 470
+Delay 79 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+Delay 79 ms
+MoveTo 1504 606
+Delay 79 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+Delay 79 ms
+MoveTo 1532 747
+Delay 79 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+Delay 79 ms
+MoveTo 1524 882
+Delay 79 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+Delay 79 ms
+MoveTo 1451 273
+Delay 79 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+Delay 79 ms
+GoWhile 1 10</Syntax>
+    </KeyDown>
+    <Software>Lords Mobile</Software>
+  </DefaultMacro>
+</Root>

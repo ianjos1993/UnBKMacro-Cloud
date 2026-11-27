@@ -1,0 +1,74 @@
+<Root>
+  <DefaultMacro>
+    <Major>Leo Combo 2</Major>
+    <Description>Макрос позволяет выполнять комбо df2 за Leo.
+Видео демонстрации работы макроса: https://youtu.be/cP1wYy_FyI0
+
+После исчезновения отца Лео воспитывала мать, и у него было приятное и спокойное детство. У Лео развилось сильное чувство справедливости, и он стал опытным мастером боевых искусств, изучая искусство Бацзи Цюань , а также спелеологом, о чем они всегда мечтали. Трагедия случилась снова, когда Лео было около 19 лет. Их мать, Эмма, была убита неизвестным. Лео был убит горем из-за убийства, но печаль сменилась гневом, когда полиция без объяснения причин прекратила расследование.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 21.06.2024
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ.
+
+#Leotekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 7 ms
+KeyDown 7 1
+Delay 80 ms
+KeyDown 74 1
+Delay 200 ms
+KeyUp 22 1
+Delay 31 ms
+KeyUp 7 1
+Delay 160 ms
+KeyUp 74 1
+Delay 224 ms
+KeyDown 74 1
+Delay 79 ms
+KeyDown 76 1
+Delay 136 ms
+KeyUp 76 1
+Delay 71 ms
+KeyDown 76 1
+Delay 104 ms
+KeyUp 76 1
+Delay 1183 ms
+KeyDown 76 1
+Delay 80 ms
+KeyUp 76 1
+Delay 64 ms
+KeyDown 76 1
+Delay 79 ms
+KeyUp 76 1
+Delay 1063 ms
+KeyUp 74 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

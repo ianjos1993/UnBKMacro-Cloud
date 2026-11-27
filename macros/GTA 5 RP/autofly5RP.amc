@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>anti afk</Major>
+    <Description>Этот легкий макрос позволит обходить анти-афк защиту серверов GTA 5 RAGE RP. Макрос предназначен при использовании работы на вертолетах фракции, воздушное судно будет двигаться по спирали с большим радиусом, системой анти-афк не пробивается, все выглядит так будто вы летите сами.
+Управление должно быть настроено на правую клавиатуру с клавишами 4,5,6,8 и клавишами W,S для тяги и тормоза</Description>
+    <Comment>Полезный макрос
+
+https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1 s
+KeyDown 26 1
+Delay 5 s
+KeyUp 26 1
+KeyDown 92 1
+Delay 500 ms
+KeyUp 92 1
+KeyDown 96 1
+Delay 2 s
+KeyUp 96 1
+KeyDown 26 1
+Delay 5 s
+KeyUp 26 1
+KeyDown 94 1
+Delay 500 ms
+KeyUp 94 1
+GoWhile 1 9999</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

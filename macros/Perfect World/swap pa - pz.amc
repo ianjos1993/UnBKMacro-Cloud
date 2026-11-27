@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>Свап лучника </Major>
+    <Description>спап лучника ПЕНИЕ-ПА-ПЗ на одну кнопку 
+нажал - и сразу скилл, все вылетает из ПА через пение и встает в ПЗ сет </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 25 1
+Delay 64
+KeyUp 25 1
+Delay 100 ms
+KeyDown 25 1
+Delay 64
+KeyUp 25 1
+Delay 150 ms
+KeyDown 27 1
+Delay 64
+KeyUp 27 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Perfect World</Software>
+  </DefaultMacro>
+</Root>

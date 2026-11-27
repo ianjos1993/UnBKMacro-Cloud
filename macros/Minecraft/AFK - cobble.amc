@@ -1,0 +1,18 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>АФК добыча булыжника (постояно зажата левая кнопка мыши). Полезно для SB сборок и серверов! Рекомендуется использовать с модификациями на автоматическую замену предмета в руке при поломке.
+Макрос может быть запрещен, проверяйте правила вашего проекта (вероятнее всего раздел про АФК).</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>snajp86</Major>
+    <Description>Сам копаит червей на 4слоте кофе  если надо можно подкориктировать под чай за игровые сутки 40заходов выходит от 20до40голд наживки очень эфективный макрос когда надо отойти или спать.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 60 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 7 s
+KeyDown 44 1
+Delay 64 ms
+KeyUp 44 1
+Delay 5 s
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 20 s</Syntax>
+    </KeyDown>
+    <Software>Russian Fishing 4</Software>
+  </DefaultMacro>
+</Root>

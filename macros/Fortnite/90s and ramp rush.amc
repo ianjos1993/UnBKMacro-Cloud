@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос моментально ставит пол, рампу и стенку,  всё что вам нужно -  это поставить его на удобную вам клавиш, так же важно указать правильный режим работы макроса - "Выполнять один раз при нажатии". Данный макрос будет очень полезен в файтах, как для новичков, так и для опытных игроков. Желаю хорошей игры)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 59 1
+Delay 32 ms
+KeyUp 59 1
+Delay 32 ms
+LeftDown 1
+Delay 32 ms
+LeftUp 1
+Delay 32 ms
+KeyDown 60 1
+Delay 32 ms
+KeyUp 60 1
+Delay 32 ms
+LeftDown 1
+Delay 32 ms
+LeftUp 1
+Delay 32 ms
+KeyDown 58 1
+Delay 32 ms
+KeyUp 58 1
+Delay 32 ms
+LeftDown 1
+Delay 32 ms
+LeftUp 1
+Delay 32 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

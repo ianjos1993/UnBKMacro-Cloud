@@ -1,0 +1,54 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всем привет!
+Это макрос для игры Dota 2 предназначенный для игры на персонаже Huskar, впринципе можно юзать на любом персонаже кому подходит армлетка но хускару подойдет больше всего, сейчас объясню как использовать данный Macros.
+-- Армлетку ставите в любой слот какой хотите но он должен быть забинжен на букву C
+-- В кейране можете биндить на любую для вас кнопку
+-- Работает так что нужно зажать кнопку которую вы забиндили в кейране и армлетка будет абузится
+-- И чтобы работало все нормально если у вас армлетка включена и вы хотите юзнуть скрипт то получиться проблема что армлетка будет работать не правильно, поэтому когда вы хотите использовать макрос то армлетка должна быть выключена и все будет у вас круто,
+Всем спасибо и удачи!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+Delay 40 ms
+KeyUp 6 1
+Delay 1000 ms
+KeyDown 6 1
+Delay 40 ms
+KeyUp 6 1
+Delay 80 ms
+KeyDown 6 1
+Delay 40 ms
+KeyUp 6 1
+Delay 1000 ms
+KeyDown 6 1
+Delay 40 ms
+KeyUp 6 1
+Delay 80 ms
+KeyDown 6 1
+Delay 40 ms
+KeyUp 6 1
+Delay 1000 ms
+KeyDown 6 1
+Delay 40 ms
+KeyUp 6 1
+Delay 80 ms
+KeyDown 6 1
+Delay 40 ms
+KeyUp 6 1
+Delay 1000 ms
+KeyDown 6 1
+Delay 40 ms
+KeyUp 6 1
+Delay 80 ms</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

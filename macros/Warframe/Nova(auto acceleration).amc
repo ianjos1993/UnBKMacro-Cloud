@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major>авто скилл</Major>
+    <Description>Автоматически прожимает скилл для Новы(ускорение) Легко редактируется, пользуйтесь кто не понимает как делать макросы, всё работает.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 33 1
+Delay 115 ms
+KeyUp 33 1
+Delay 15 s
+KeyDown 33 1
+Delay 115 ms
+KeyUp 33 1</Syntax>
+    </KeyDown>
+    <Software>Warframe</Software>
+  </DefaultMacro>
+</Root>

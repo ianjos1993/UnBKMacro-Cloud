@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>В данном макросе использую три игровых макроса.
+1. Дубль бафы(40мин)
+2. Стандартные бафы(20 мин)
+3. ПОВ/КОВ(5 мин)
+Время нажатия макросов расчитано без изпользования сосок(для того чтобы меньше агрить мобов).
+Не использовал повтор макроса в создании, так как забиндил на клавишу с повтором до повторного нажатия. Это упрощает его использование.
+В стандартный баф использовал 12 слотов поэтому расчитывайте на данное колличество.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 67 1
+Delay 100 ms
+KeyUp 67 1
+Delay 3488 ms
+KeyDown 66 1
+Delay 111 ms
+KeyUp 66 1
+Delay 22528 ms
+KeyDown 65 1
+Delay 111 ms
+KeyUp 65 1
+Delay 280744 ms
+KeyDown 65 1
+Delay 111 ms
+KeyUp 65 1
+Delay 280744 ms
+KeyDown 65 1
+Delay 111 ms
+KeyUp 65 1
+Delay 280744 ms
+KeyDown 65 1
+Delay 111 ms
+KeyUp 65 1
+Delay 280744 ms</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

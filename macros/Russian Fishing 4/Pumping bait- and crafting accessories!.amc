@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>Прокачка наживки- и крафт прикомки!</Major>
+    <Description>Наведи курсор  в игре на вкладку изготовить и активировать макрос и процес пошел. можно изготавливать прикорм таким методом, крафтить чаи и кофе!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+LeftUp 1
+Delay 4 s
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+GoWhile 1 500000</Syntax>
+    </KeyDown>
+    <Software>Русская Рыбалка 4</Software>
+  </DefaultMacro>
+</Root>

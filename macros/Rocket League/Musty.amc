@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Musty Flick!!! position ball far from hood
+then press G dont press any other button either tested on octane and fennec
+
+Air roll left is q air roll right is E</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 100 ms
+RightUp 1
+Delay 100 ms
+KeyDown 26 1
+Delay 380 ms
+KeyUp 26 1
+Delay 100 ms
+KeyDown 22 1
+LeftDown 1
+RightDown 1
+Delay 12 ms
+RightUp 1
+LeftUp 1
+KeyUp 22 1
+KeyDown 26 1
+Delay 100 ms
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>Rocket League</Software>
+  </DefaultMacro>
+</Root>

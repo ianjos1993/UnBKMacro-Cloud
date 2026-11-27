@@ -1,0 +1,104 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простая комба на Бриггс с удара снизу. Вполне себя хорошо разыгрывает из нейтрала (без усилений).
+Пресет:
+Смертельный захват
+Бионический прыжок
+Взрыв в воздухе (усиление)
+
+Старт: 15 кадров
+Восстановление: 28
+В блок: -3
+
+Управление:
+1-J
+2-K
+3-L
+4-:
+Захват - U
+AMP - SHIFT
+WASD (Вверх, влево, вниз, вправо)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 111 ms
+KeyDown 15 1
+Delay 112 ms
+KeyUp 15 1
+Delay 103 ms
+KeyDown 14 1
+Delay 55 ms
+KeyUp 4 1
+Delay 32 ms
+KeyUp 14 1
+Delay 103 ms
+KeyDown 22 1
+Delay 128 ms
+KeyUp 22 1
+Delay 5 ms
+KeyDown 7 1
+Delay 74 ms
+KeyDown 15 1
+Delay 15 ms
+KeyUp 7 1
+Delay 63 ms
+KeyUp 15 1
+Delay 150 350 ms
+KeyDown 51 1
+Delay 32 ms
+KeyUp 51 1
+Delay 200 ms
+KeyDown 51 1
+Delay 95 ms
+KeyUp 51 1
+Delay 80 ms
+KeyDown 51 1
+Delay 63 ms
+KeyUp 51 1
+Delay 96 ms
+KeyDown 51 1
+Delay 63 ms
+KeyUp 51 1
+Delay 88 ms
+KeyDown 51 1
+Delay 79 ms
+KeyUp 51 1
+Delay 40 ms
+KeyDown 51 1
+Delay 95 ms
+KeyUp 51 1
+Delay 80 ms
+KeyDown 51 1
+Delay 96 ms
+KeyUp 51 1
+Delay 87 ms
+KeyDown 15 1
+Delay 111 ms
+KeyUp 15 1
+Delay 80 ms
+KeyDown 15 1
+Delay 56 ms
+KeyUp 15 1
+Delay 79 ms
+KeyDown 15 1
+Delay 72 ms
+KeyUp 15 1
+Delay 71 ms
+KeyDown 15 1
+Delay 80 ms
+KeyUp 15 1
+Delay 71 ms
+KeyDown 15 1
+Delay 80 ms
+KeyUp 15 1</Syntax>
+    </KeyDown>
+    <Software>Mortal Kombat 11</Software>
+  </DefaultMacro>
+</Root>

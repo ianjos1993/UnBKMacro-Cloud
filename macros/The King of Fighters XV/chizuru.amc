@@ -1,0 +1,111 @@
+<Root>
+  <DefaultMacro>
+    <Major>Chizuru Combo1</Major>
+    <Description>  Чизуру Кагура (Chizuru Kagura) настоящее имя которого Чизуру Ята (Chizuru Yata) — персонаж из серии The   King of Fighters, представленный в 96 части игры в качестве второстепенного босса и спонсора турнира KOF в том же году. Ее последующие выступления в других турнирах, как правило, были в качестве обычного участника.
+     
+Видео демонстрация  работы макроса: https://youtu.be/xqNNNOv11mA
+
+                    Тестирование макроса проводились на последнем патче игры на 03.12.2022 (1.53 патч)
+Если возникают проблемы:
+1.      Отключить использование минимальной задержки.
+2.        Включить опцию "Использовать драйвер"  (при необходимости установить драйвер)
+
+                                          
+
+  Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ Light Punch - Insert
+ Light Kick - End
+ Heavy Punch - Home
+ Heavy Kick - Delete
+ Max - TAB
+ 1+2 - Page UP
+ 3+4 Page Down
+
+
+ 1. При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+ 2. Дискорд автора для связи - flkpa#4883
+
+#kofxv #chizurukofxv #kingoffightersxv</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 74 ms
+KeyUp 22 1
+Delay 63 ms
+KeyDown 7 1
+Delay 12 ms
+KeyDown 26 1
+Delay 86 ms
+KeyUp 26 1
+Delay 23 ms
+KeyUp 7 1
+Delay 71 ms
+KeyDown 77 1
+Delay 87 ms
+KeyUp 77 1
+Delay 43 ms
+KeyDown 73 1
+Delay 24 ms
+KeyUp 73 1
+Delay 32 ms
+KeyDown 4 1
+Delay 32 ms
+KeyDown 76 1
+Delay 52 ms
+KeyUp 76 1
+Delay 25 ms
+KeyUp 4 1
+Delay 24 ms
+KeyDown 74 1
+Delay 26 ms
+KeyUp 74 1
+Delay 34 ms
+KeyDown 22 1
+Delay 39 ms
+KeyDown 4 1
+Delay 24 ms
+KeyUp 22 1
+Delay 28 ms
+KeyUp 4 1
+Delay 54 ms
+KeyDown 73 1
+Delay 33 ms
+KeyUp 73 1
+Delay 27 ms
+KeyDown 22 1
+Delay 39 ms
+KeyDown 4 1
+Delay 37 ms
+KeyUp 22 1
+Delay 44 ms
+KeyUp 4 1
+Delay 37 ms
+KeyDown 22 1
+Delay 64 ms
+KeyDown 7 1
+Delay 74 ms
+KeyUp 22 1
+Delay 56 ms
+KeyUp 7 1
+Delay 54 ms
+KeyDown 76 1
+Delay 24 ms
+KeyDown 74 1
+Delay 32 ms
+KeyUp 76 1
+Delay 15 ms
+KeyUp 74 1</Syntax>
+    </KeyDown>
+    <Software>The King of Fighters XV</Software>
+  </DefaultMacro>
+</Root>

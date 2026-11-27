@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос «Lr low sens» для «RUST» скачать и использовать на любой мышке и клавиатуре.
+Установка макроса происходит очень легко в программе Keyran и улучшает ваш игровой опыт!
+Этот макрос предназначен для устранения отдачи оружия LR-300 в игре Rust. 
+
+Чтобы добиться идеального контроля отдачи, настройте параметры в игре следующим образом: 
+настройка прицела (aim) 0.4, чувствительность прицеливания (ads) 0.4, разрешение экрана 1280x1024 и dpi 800. 
+
+Также этот макрос подойдет игрокам с низкой чувствительностью, стремящимся минимизировать отдачу. Обязательно следуйте этим рекомендациям, иначе отдача останется.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 0 0
+Delay 64
+MoveR 0 15
+Delay 64
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

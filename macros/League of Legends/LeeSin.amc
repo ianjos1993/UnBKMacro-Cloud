@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>Lee sin ward jump</Major>
+    <Description>Lee sin ward jump in League of Legend. Bạn chỉ cần cài đặt vào phím bất kì, sau đó vào game, để chuột tại vị trí muốn cắm mắt hộ thể (trong tầm cắm mắt) thì sẽ thành công
+cảm ơn</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 10 ms
+KeyUp 32 1
+Delay 10 ms
+KeyDown 26 1
+Delay 10 ms
+KeyUp 26 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>League of legend</Software>
+  </DefaultMacro>
+</Root>

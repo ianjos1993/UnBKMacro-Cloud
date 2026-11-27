@@ -1,0 +1,115 @@
+<Root>
+  <DefaultMacro>
+    <Major>Negan staple combo</Major>
+    <Description>Макрос позволяет выполнять staple combo за Negan.
+Видео демонстрации работы макроса: https://youtu.be/J-0J0aff7z4
+
+Ниган —  харизматичная, дерзкая, манипулятивная и жестокая личность с черным чувством юмора. Ниган носит бейсбольную биту, обмотанную колючей проволокой, которую он назвал Люсиль в честь своей покойной жены. Во время боя он выглядит самоуверенным и высокомерным, весело ухмыляясь своим противникам до и после боя. У него есть склонность к провокациям и силовым играм, чем сильнее сопротивление, с которым он сталкивается, тем больше он, кажется, наслаждается выяснением отношений. Боевой стиль и приемы Нигана, возможно, основаны на Underworld Brawling в чистом виде. Его стиль агрессивен и в значительной степени зависит от ударов его бейсбольной битой с колючей проволокой. Кроме этого можно отметить, что дизайн Нигана основан на образе актера, сыгравшего его в сериале, Джеффри Дина Моргана.
+
+Тестирование макроса проводились на последнем патче игры на 16.08.2023 (5.01 патч)
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#negantekken7 #tekken7 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 7 ms
+KeyDown 7 1
+Delay 16 ms
+KeyDown 74 1
+Delay 112 ms
+KeyUp 74 1
+Delay 15 ms
+KeyUp 22 1
+Delay 24 ms
+KeyUp 7 1
+Delay 352 ms
+KeyDown 7 1
+Delay 7 ms
+KeyDown 26 1
+Delay 48 ms
+KeyDown 77 1
+Delay 87 ms
+KeyUp 77 1
+Delay 87 ms
+KeyDown 77 1
+Delay 56 ms
+KeyUp 77 1
+Delay 71 ms
+KeyDown 77 1
+Delay 96 ms
+KeyUp 77 1
+Delay 48 ms
+KeyUp 26 1
+Delay 15 ms
+KeyUp 7 1
+Delay 343 ms
+KeyDown 4 1
+Delay 128 ms
+KeyDown 73 1
+Delay 144 ms
+KeyDown 74 1
+Delay 71 ms
+KeyUp 73 1
+Delay 119 ms
+KeyUp 74 1
+Delay 39 ms
+KeyUp 4 1
+Delay 559 ms
+KeyDown 7 1
+Delay 87 ms
+KeyUp 7 1
+Delay 104 ms
+KeyDown 7 1
+Delay 71 ms
+KeyUp 7 1
+Delay 95 ms
+KeyDown 7 1
+Delay 72 ms
+KeyUp 7 1
+Delay 87 ms
+KeyDown 7 1
+Delay 152 ms
+KeyDown 22 1
+Delay 72 ms
+KeyDown 76 1
+Delay 111 ms
+KeyUp 7 1
+Delay 0 ms
+KeyUp 22 1
+Delay 0 ms
+KeyDown 73 1
+Delay 7 ms
+KeyUp 76 1
+Delay 103 ms
+KeyUp 73 1
+Delay 240 ms
+KeyDown 77 1
+Delay 151 ms
+KeyUp 77 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 7</Software>
+  </DefaultMacro>
+</Root>

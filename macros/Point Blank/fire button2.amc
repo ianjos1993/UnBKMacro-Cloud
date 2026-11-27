@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>iamatomicc</Major>
+    <Description>automatic fire improved. (screen resolution 1024 x 768 windowed mode ) but any will do just play point blank in windowed mode (just make sure the crosshair is in center of the box even if its not perfectly centered it is good, move the window to match the center of the box) and then just click it once to activate and itll automatically fire at the opponents in the range of the crosshair to stop it click your designated mouse again. any dpi or sensitivity will work. please dont use this as main fire because its not the best choice as the main fire</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 3 2 110,0,0 255,15,15 2 620 350 200 200 1 0
+Goto 1
+LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 20 ms
+LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 20 ms
+LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 20 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

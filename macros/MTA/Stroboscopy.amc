@@ -1,0 +1,13 @@
+Home::
+Loop
+{
+send, {[}
+sleep, 500
+send, {]}
+sleep, 500
+}
+PgUp:: Pause, On
+PgDn:: Pause, Off
+End::
+ExitApp
+Return

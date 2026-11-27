@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос настраивался под оружие АКС-74УБ (без насадок), при установке насадок вероятно будет изменен паттерн стрельбы у оружия
+
+Отключить акселерацию мыши и поставить режим работы макроса пока нажата клавиша
+
+Разрешение экрана - 1920x1080
+Чувствительность мыши - 20
+
+Отключить вертикальную синхронизацию</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 30 ms
+MoveR 0 11
+MoveR 2 0
+Delay 30 ms
+Goto 3</Syntax>
+    </KeyDown>
+    <Software>Caliber</Software>
+  </DefaultMacro>
+</Root>

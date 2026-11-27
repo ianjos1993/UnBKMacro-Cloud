@@ -1,0 +1,100 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Скрипт для гашения отдачи, работает на всех автоматических пушках и пушках с одиночной стрельбой.
+
+Для использования биндите на удобную для вас клавишу(у меня лкм, так удобней, имхо), целитесь и зажимаете. Разрешение 1920х1080 чувствительность мышки 800 и стандартные настройки мышки в игре.
+
+Скрипт легитный, никто не спалит :)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 0 1
+Delay 25 ms
+LeftUp 1
+LeftDown 1
+Delay 25 ms
+LeftUp 1
+MoveR 1 1
+Delay 25 ms
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+MoveR 0 1
+Delay 25 ms
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+MoveR 1 1
+Delay 25 ms
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+MoveR 0 1
+Delay 25 ms
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+MoveR 1 2
+Delay 25 ms
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+MoveR 0 2
+Delay 25 ms
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+MoveR 1 2
+Delay 25 ms
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+MoveR 0 2
+Delay 25 ms
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+MoveR 1 2
+Delay 25 ms
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+MoveR 0 1
+Delay 25 ms
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+MoveR 0 1
+Delay 25 ms
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+MoveR 0 1
+Delay 25 ms
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+MoveR 0 2
+Delay 25 ms
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+Delay 25 ms
+MoveR 0 2
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+MoveR 0 1
+Delay 25 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

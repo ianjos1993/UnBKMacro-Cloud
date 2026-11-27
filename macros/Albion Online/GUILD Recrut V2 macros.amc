@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос устроен легко и просто. Устанавливаете, биндите, для шаблона вам необходимо отправить 1 раз самостоятельно рекрут сообщения. Далее включаете макрос и он будет отправлять за вас рекрут сообщение. Так же можно использовать в чате /сказать чтобы продать какой либо товар!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 38 ms
+Delay 951 ms
+KeyDown 88 1
+Delay 79 ms
+KeyUp 88 1
+Delay 335 ms
+KeyDown 82 1
+Delay 88 ms
+KeyUp 82 1
+Delay 431 ms
+KeyDown 88 1
+Delay 47 ms
+KeyUp 88 1
+Delay 4048 ms
+Delay 0 ms
+Delay 31 ms
+Delay 137 ms</Syntax>
+    </KeyDown>
+    <Software>Albion online / автоотправка рекрут сообщения</Software>
+  </DefaultMacro>
+</Root>

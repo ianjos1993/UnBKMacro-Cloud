@@ -1,0 +1,90 @@
+<Root>
+  <DefaultMacro>
+    <Major>Panda Combo 5</Major>
+    <Description>Макрос позволяет выполнять ошеломительное комбо за Панду.
+Видео демонстрации работы макроса: https://youtu.be/WCosI3IJK24
+
+Панда – это смесь милоты и мощи. Хоть она и выглядит дружелюбно, в бою это грозный противник, который может уничтожить соперника своими лапами. Она как обычная гигантская панда, но носит красную ленту на голове, что придает ей немного индивидуальности. По характеру она независима, но очень преданна Сяоюй. Несмотря на то, что Сяоюй часто использует её как телохранителя, Панда не просто слуга – она делает всё по своему желанию. Например, она не любит Куму (медведя Хейхачи) и постоянно отвергает его ухаживания.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 09.02.2025
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ, обращайтесь в дискорд для этого.
+
+#pandatekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 68 ms
+KeyUp 7 1
+Delay 52 ms
+KeyDown 7 1
+Delay 75 ms
+KeyDown 74 1
+Delay 287 ms
+KeyUp 7 1
+Delay 45 ms
+KeyDown 26 1
+Delay 52 ms
+KeyDown 73 1
+Delay 110 ms
+KeyUp 73 1
+Delay 91 ms
+KeyDown 73 1
+Delay 110 ms
+KeyUp 73 1
+Delay 81 ms
+KeyDown 73 1
+Delay 97 ms
+KeyUp 73 1
+Delay 74 ms
+KeyDown 73 1
+Delay 87 ms
+KeyUp 73 1
+Delay 109 ms
+KeyDown 73 1
+Delay 138 ms
+KeyUp 73 1
+Delay 39 ms
+KeyUp 26 1
+Delay 153 ms
+KeyDown 76 1
+Delay 97 ms
+KeyUp 76 1
+Delay 87 ms
+KeyDown 76 1
+Delay 91 ms
+KeyUp 76 1
+Delay 75 ms
+KeyDown 76 1
+Delay 103 ms
+KeyUp 76 1
+Delay 460 ms
+KeyUp 74 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

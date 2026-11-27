@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro is intended for tamers with Magnetic ID. It will help alot since we dont need to pick up the drops !
+
+What it will do :
+Target monster, attack, repeat 24/7
+
+this method is really useful and simple for digimon with fast attack speed and higher level than the enemy monster. It's recommended if you can one hit the enemy monsters !</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+Feel free to use this</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 100 400 ms
+KeyDown 43 1
+Delay 100 400 ms
+KeyUp 43 1
+Delay 100 400 ms
+KeyDown 30 1
+Delay 100 400 ms
+KeyUp 30 1
+Delay 100 400 ms
+KeyDown 30 1
+Delay 100 400 ms
+KeyUp 30 1
+Delay 100 400 ms
+KeyDown 30 1
+Delay 100 400 ms
+KeyUp 30 1
+Delay 100 400 ms
+KeyDown 43 1
+Delay 100 400 ms
+KeyUp 43 1
+Delay 100 400 ms
+KeyDown 30 1
+Delay 100 400 ms
+KeyUp 30 1
+Delay 100 400 ms
+KeyDown 30 1
+Delay 100 400 ms
+KeyUp 30 1
+Delay 100 400 ms</Syntax>
+    </KeyDown>
+    <Software>Digimon Masters Online</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,97 @@
+<Root>
+  <DefaultMacro>
+    <Major>Albion online Market AUTOSELL</Major>
+    <Description>                                                                       *MAJOR UPDATE*
+
+
+* The progam now runs a 64ms delay it can auto sell faster than before and it can now buy in order at the same rate
+                                selling and buyilng follow the same steps !
+ 
+                                                ------ -- ALBION ONLINE MARKET AUTO SELL ------ -- 
+
+Info: This macro can auto sell up to 100 items by activating it with a *hotkey* you can choose on your own.
+There scripit runs __64MS__ intervals. Making it unrecognizable for any ANTI-CHEATS to detect it. meaning it makes the program run in incognito mode making it inpossible to get banned in game!
+
+----
+______
+
+How to Use
+                   _
+1: Install the script
+2; Assign the scripit on a HOTKEY!
+3: Activate the program 
+2; Have the market place open  IN GAME_
+3; Open the selling tab 
+4: Press the HOTKEY you chose
+
+
+The scripit is programmed to sell order an  item and decrease one silver so you can get on the top of the selling list to sell  faster 
+
+__Also
+When all of the items have been sold press the HOTKEY you chose to de-activate the scripit.
+After that you are ready to roam the opens
+
+Have Fun!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 64 ms
+MoveTo 1286 438
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+MoveTo 829 634
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+MoveTo 1144 735
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+GoWhile 1 100
+Delay 64 ms
+MoveTo 1286 438
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+MoveTo 829 634
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+MoveTo 1144 735
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+GoWhile 18 100
+Delay 64 ms
+MoveTo 1286 438
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+MoveTo 829 634
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+MoveTo 1144 735
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+GoWhile 35 100</Syntax>
+    </KeyDown>
+    <Software>Albion online</Software>
+  </DefaultMacro>
+</Root>

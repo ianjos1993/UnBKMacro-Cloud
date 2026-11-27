@@ -1,0 +1,186 @@
+<Root>
+  <DefaultMacro>
+    <Major>first 16 lines inventory fast-sell macros</Major>
+    <Description>Макрос дял разрешения 1366x705. Для правильной работы нужно включить драйвер!
+
+ Макрос для очень быстрой продажи первых 80 ячеек предметов из инвентаря - убедитесь, что ничего ценного в них не лежит. Положите в 7 слот хотбара карту торговца или карту фракции; Элки Аскадии будут лучшим вариантом -50% к бонусу продажи, но также есть стражи песков - фракция Дратана - 25% бонус к продаже. 
+
+  Окно с игрой должно быть строго по ценру экрана и строго открыто  в указанном разрешении - в противном случае необходимо подгонять относительно смещение курсора, координаты устанвки курсора на первую ячейку, а так же для кнопок открытия меню продажи и кнопки совершения продажи. 
+
+
+ Координаты расчитаны для стандартных позиций диалоговых окон игрового интерфейса (не нужно перемещать меню с картой торговца или окно продажи)
+
+ Макрос не будет работать если в ячейках есть предметы с улучшением ( уровень заточки т.е. +n)
+
+ Рекомендуется выставить режим работы "выполнить один раз после вызова" - при запуске макроса не шевелите мышью и не отходие далеко от места, где стоял ваш персонаж перед запуском макроса, иначе меню торговца закроется.</Description>
+    <Comment>Модернезированная версия макроса "60 items sell last chaos (1366x705)"</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//открываем билет торговца
+KeyDown 36 1
+Delay 1 ms
+KeyUp 36 1
+Delay 1 ms
+//положение кнопки продать в диалоге с торговцем
+MoveTo 567 461
+Delay 200 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 150 ms
+//selling
+//положение на одну ячейку влево от самой первой ячейки окна режима продажи (то, что лежит в самой первой ячейке инвентаря)
+MoveTo 567 331
+Delay 1 ms
+Delay 0 ms
+MoveR 35 0
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+GoWhile 17 5
+MoveR -175 35
+Delay 1 ms
+GoWhile 17 4
+//положение кнопки "продать" в режиме продажи
+MoveTo 707 475
+Delay 50 ms
+LeftDown 1
+Delay 1
+LeftUp 1
+Delay 150 ms
+//2 продажа
+KeyDown 36 1
+Delay 1 ms
+KeyUp 36 1
+Delay 1 ms
+MoveTo 567 461
+Delay 200 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 150 ms
+//selling
+//положение бегунка прокрутки стопки в окне режима продажи
+MoveTo 660 346
+Delay 66 ms
+WheelDown 1
+Delay 40 ms
+GoWhile 54 4
+MoveTo 567 331
+Delay 1 ms
+Delay 0 ms
+MoveR 35 0
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+GoWhile 59 5
+MoveR -175 35
+Delay 1 ms
+GoWhile 59 4
+MoveTo 707 475
+Delay 50 ms
+LeftDown 1
+Delay 1
+LeftUp 1
+Delay 150 ms
+//3 продажа
+KeyDown 36 1
+Delay 1 ms
+KeyUp 36 1
+Delay 1 ms
+MoveTo 567 461
+Delay 200 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 150 ms
+//selling
+MoveTo 660 346
+Delay 66 ms
+WheelDown 1
+Delay 40 ms
+GoWhile 94 8
+MoveTo 567 331
+Delay 1 ms
+Delay 0 ms
+MoveR 35 0
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+GoWhile 99 5
+MoveR -175 35
+Delay 1 ms
+GoWhile 99 4
+MoveTo 707 475
+Delay 50 ms
+LeftDown 1
+Delay 1
+LeftUp 1
+Delay 150 ms
+//4 продажа
+KeyDown 36 1
+Delay 1 ms
+KeyUp 36 1
+Delay 1 ms
+MoveTo 567 461
+Delay 200 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 150 ms
+//selling
+MoveTo 660 346
+Delay 66 ms
+WheelDown 1
+Delay 40 ms
+GoWhile 134 13
+MoveTo 567 331
+Delay 1 ms
+Delay 0 ms
+MoveR 35 0
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+GoWhile 139 5
+MoveR -175 35
+Delay 1 ms
+GoWhile 139 4
+MoveTo 707 475
+Delay 50 ms
+LeftDown 1
+Delay 1
+LeftUp 1
+Delay 1</Syntax>
+    </KeyDown>
+    <Software>Last chaos</Software>
+  </DefaultMacro>
+</Root>

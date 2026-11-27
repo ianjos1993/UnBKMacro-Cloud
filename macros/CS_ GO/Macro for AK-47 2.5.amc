@@ -1,0 +1,82 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос написан на оружие Ак-47
+Условия:
+1.Чувствительность мышки- 2.5
+2.Обязательно должен быть включен параметр m_rawinput 1
+3.Ускорение мыши - ВЫКЛ
+Приятной игры!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 97 ms
+MoveR 0 6
+Delay 97 ms
+MoveR 0 20
+Delay 98 ms
+MoveR 0 32
+Delay 97 ms
+MoveR 0 32
+Delay 97 ms
+MoveR 8 32
+Delay 98 ms
+MoveR 12 32
+Delay 97 ms
+MoveR 12 16
+Delay 97 ms
+MoveR -12 12
+Delay 98 ms
+MoveR -48 -4
+Delay 97 ms
+MoveR -24 4
+Delay 97 ms
+MoveR 16 16
+Delay 98 ms
+MoveR -16 0
+Delay 97 ms
+MoveR -24 -16
+Delay 97 ms
+MoveR 0 8
+Delay 98 ms
+MoveR 40 4
+Delay 97 ms
+MoveR 12 0
+Delay 97 ms
+MoveR 20 16
+Delay 98 ms
+MoveR 24 0
+Delay 97 ms
+MoveR 32 -4
+Delay 97 ms
+MoveR -16 0
+Delay 98 ms
+MoveR 0 0
+Delay 97 ms
+MoveR 0 8
+Delay 97 ms
+MoveR -12 0
+Delay 98 ms
+MoveR 24 0
+Delay 97 ms
+MoveR 0 0
+Delay 97 ms
+MoveR -16 0
+Delay 98 ms
+MoveR -32 0
+Delay 97 ms
+MoveR -44 -16
+Delay 97 ms
+MoveR -20 -8
+Delay 120 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>CSGO</Software>
+  </DefaultMacro>
+</Root>

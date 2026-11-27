@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Все намного проще
+Ставите персонажа в упор к стене
+Далее активируете макрос
+Одновременно у Вас качаеется Бег и Стойкость
+Рекомендую для длительной прокачки приобрести ключик программы!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 3972 ms
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>Scum</Software>
+  </DefaultMacro>
+</Root>

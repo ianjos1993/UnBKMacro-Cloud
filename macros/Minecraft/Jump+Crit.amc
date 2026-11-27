@@ -1,0 +1,60 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос создан для пвп на версиях 1.9.
+Чтобы забиндить макрос нужно нажать на клавиатуре кейрана клавишу или кнопку мыши на которую вы хотите его забиндить,нажать на функцию,назначить и выбрать  макрос.
+Макрос желательно биндить на пробел про принципу запустить пока зажата клавиша.
+После запуска макроса зажимая клавишу вы автоматически начинаете прыгать и бить критами.
+</Description>
+    <Comment>Простенький макрос для тех кто хочет бить критами.Надеюсь людям понравится.*(Решщиол сдеолатьб так)думаю так будет удобнее читать</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 4 ms
+KeyUp 44 1
+Delay 4 ms
+KeyDown 44 1
+Delay 4 ms
+KeyUp 44 1
+Delay 4 ms
+KeyDown 44 1
+Delay 4 ms
+KeyUp 44 1
+Delay 4 ms
+LeftDown 1
+Delay 4 ms
+LeftUp 1
+Delay 4 ms
+LeftDown 1
+Delay 4 ms
+LeftUp 1
+Delay 4 ms
+LeftDown 1
+Delay 4 ms
+LeftUp 1
+Delay 4 ms
+LeftDown 1
+Delay 4 ms
+LeftUp 1
+Delay 4 ms
+LeftDown 1
+Delay 4 ms
+LeftUp 1
+Delay 4 ms
+LeftDown 1
+Delay 4 ms
+LeftUp 1
+Delay 4 ms
+LeftDown 1
+Delay 4 ms
+LeftUp 1
+Delay 4 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

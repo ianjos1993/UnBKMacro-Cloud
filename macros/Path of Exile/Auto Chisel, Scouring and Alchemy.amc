@@ -1,0 +1,68 @@
+<Root>
+  <DefaultMacro>
+    <Major>Auto Chisel, Scouring and Alchemy</Major>
+    <Description>Макрос используе 4 гвоздя на карту, после очищает карту и использует алхомку! Все это должно лежать в инвентаре как на картинке - https://skr.sh/sMSMLlSKIu6 (В тех же слотах инвенторя и не где в другом месте) Карту нужно класть не замазаную, т.к. он просто кинет 4 гвоздя и вы не получите 20 качества. Проверял на разряшении 1920x1080!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1349 613
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+KeyDown 225 1
+Delay 64
+MoveTo 1346 664
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyUp 225 1
+Delay 64
+MoveTo 1293 665
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 1347 665
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1401 665
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 1346 665
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Path of Exile</Software>
+  </DefaultMacro>
+</Root>

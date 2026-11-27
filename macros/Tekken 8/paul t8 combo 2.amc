@@ -1,0 +1,111 @@
+<Root>
+  <DefaultMacro>
+    <Major>Paul T8 Combo 2</Major>
+    <Description>Макрос позволяет выполнять wall комбо с HEAT за Paul.
+Видео демонстрации работы макроса: https://youtu.be/KkrXI9z2Y-o
+
+Пол Феникс — пылкий мастер боевых искусств, стремящийся стать величайшим бойцом во вселенной. Он принял участие в турнире The King of Iron Fist с целью получить непомерные призовые деньги, более чем когда-либо уверенный, что на этот раз он одержит победу. Однако турнир был приостановлен из-за исчезновения его организатора. Пол получил лишь малую часть денег за бой, на которые он рассчитывал, что ввергло его в нищету. Все, что он мог сделать, это рискнуть, что следующий турнир сможет обеспечить ему достаточную компенсацию. С этой целью он пообещал разделить свой следующий выигрыш со своим хорошим другом и спарринг-партнером Маршаллом Лоу . Пара скрылась в горах для интенсивных тренировок, чтобы подготовиться к турниру.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 30.06.2024
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ.
+
+#paultekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 30 ms
+KeyDown 73 1
+Delay 119 ms
+KeyDown 74 1
+KeyUp 74 1
+Delay 10 ms
+KeyUp 73 1
+Delay 0 ms
+KeyUp 4 1
+Delay 290 ms
+KeyDown 76 1
+Delay 89 ms
+KeyUp 76 1
+Delay 100 ms
+KeyDown 76 1
+Delay 90 ms
+KeyUp 76 1
+Delay 79 ms
+KeyDown 76 1
+Delay 90 ms
+KeyUp 76 1
+Delay 99 ms
+KeyDown 76 1
+Delay 69 ms
+KeyUp 76 1
+Delay 90 ms
+KeyDown 76 1
+Delay 70 ms
+KeyUp 76 1
+Delay 59 ms
+KeyDown 76 1
+Delay 99 ms
+KeyUp 76 1
+Delay 610 ms
+KeyDown 74 1
+Delay 190 ms
+KeyDown 4 1
+Delay 299 ms
+KeyUp 4 1
+Delay 180 ms
+KeyDown 22 1
+Delay 39 ms
+KeyDown 7 1
+Delay 40 ms
+KeyUp 22 1
+Delay 90 ms
+KeyDown 74 1
+Delay 80 ms
+KeyUp 74 1
+Delay 709 ms
+KeyDown 4 1
+Delay 10 ms
+KeyUp 7 1
+Delay 380 ms
+KeyUp 4 1
+Delay 70 ms
+KeyDown 22 1
+Delay 40 ms
+KeyDown 7 1
+Delay 39 ms
+KeyUp 22 1
+Delay 50 ms
+KeyDown 74 1
+Delay 80 ms
+KeyUp 74 1
+Delay 429 ms
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>пвп макрос для удочки и меча
+
+.Берете в 1 слот меч , а в 3 слот удочку
+Вы будете бить оппонента , затем застопите его удочкой и еще раз ударите мечом и так далее, то есть врагу будет сложнее заводить вас в комбо и отталкивать вас.
+Чтобы установить :
+1.Скачайте этот .amc файл
+2.Зайдите в BotMek, откройте вкладку A4tech
+3.Откройте .amc файл который скачали
+4.Теперь звйдите во вкладку клавиши и выберите удобную клавишу чтобы активировать макрос
+5.Выберите "присвоить amc макрос" ,выбираете макрос, затем в этой же клавише "режим работы" и выполнять до повторного нажатия или выполнять пока удерживается клавиша
+6.Запустите программу и все готово</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+Delay 64 ms
+LeftDown 1
+LeftUp 1
+Delay 64 ms
+KeyDown 32 1
+KeyUp 32 1
+Delay 64 ms
+RightDown 1
+RightUp 1
+Delay 64 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

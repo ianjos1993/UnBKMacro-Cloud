@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>simple macro to steal opponents' walls with less ping that you run from 0 to 30 ms LOOKS: C put your key in the macro you just need to pick the wall once and then press the macro key</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 12 ms
+KeyDown 6 1
+Delay 120 ms
+KeyUp 6 1
+Delay 120 ms
+KeyDown 30 1
+Delay 80 ms
+KeyUp 30 1
+Delay 80 ms
+LeftUp 1
+Delay 12 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный  скрипт за одну клавишу Покидает организацию и уходит в пассивный режим (другие игроки вас не смогут убить) Скрипт работает на персонажах которые состоят в органинизации.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 16 1
+Delay 10 ms
+KeyUp 16 1
+Delay 40 ms
+KeyDown 88 1
+Delay 10 ms
+KeyUp 88 1
+Delay 40 ms
+KeyDown 82 1
+Delay 10 ms
+KeyUp 82 1
+Delay 40 ms
+KeyDown 88 1
+Delay 10 ms
+KeyUp 88 1
+Delay 40 ms
+KeyDown 16 1
+Delay 10 ms
+KeyUp 16 1
+Delay 40 ms
+KeyDown 82 1
+Delay 10 ms
+KeyUp 82 1
+Delay 40 ms
+KeyDown 88 1
+Delay 10 ms
+KeyUp 88 1
+Delay 40 ms
+KeyDown 41 1
+Delay 10 ms
+KeyUp 41 1</Syntax>
+    </KeyDown>
+    <Software>GTA V</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для выставления 25 единиц товара у аукциониста
+Работает для разрешения 1920х1080 (масштаб 100%)
+Для правильной начальной работы скрипта курсор должен находиться на кнопе "Отправить"
+Цикл повторений 25раз</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+LeftUp 1
+MoveTo 957 584
+LeftDown 1
+LeftUp 1
+MoveTo 799 918
+GoWhile 1 24</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

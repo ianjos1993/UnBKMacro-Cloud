@@ -1,0 +1,81 @@
+<Root>
+  <DefaultMacro>
+    <Major>автофарм норвегия 41.34 и 30 ямы</Major>
+    <Description>Исправлена ошибка с вытаскиванием рыбы
+Скрипт настроен на разрешение экрана 1920 X 1080 для более меньшего разрешения необходимо будет задать свои координаты, данный скрипт сам закидывает, сам вытаскивает рыбу, незачетные экземпляры выкидывает. Если нужна будет помощь по настройке для вашего экрана пишите.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 13000 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 100 ms
+RightDown 1
+KeyDown 225 1
+Delay 64
+Delay 300 450 ms
+GoColor 19 2 160,160,160 255,255,255 1 550 1010 999 71 1 0
+RightUp 1
+KeyDown 225 1
+Delay 64
+Delay 3050 3300 ms
+Goto 9
+Delay 100 ms
+LeftDown 1
+Delay 100 ms
+RightDown 1
+Delay 100 ms
+KeyDown 225 1
+Delay 400 600 ms
+GoColor 31 1 64,64,64 255,255,255 2 914 786 103 15 1 0
+Delay 100 ms
+GoColor 55 3 160,160,160 255,255,255 1 550 1010 999 71 1 0
+Delay 100 ms
+Goto 25
+Delay 100 ms
+LeftUp 1
+Delay 100 ms
+KeyUp 225 1
+Delay 100 ms
+RightUp 1
+Delay 250 ms
+GoColor 49 1 74,170,247 255,255,255 2 359 100 557 1 1 0
+Delay 100 ms
+GoColor 49 1 228,198,49 255,255,255 2 359 100 557 1 1 0
+Delay 100 ms
+GoColor 49 1 183,199,56 255,255,255 2 359 100 557 1 1 0
+Delay 100 ms
+KeyDown 42 1
+Delay 100 ms
+KeyUp 42 1
+Delay 100 ms
+Goto 53
+Delay 300 ms
+KeyDown 44 1
+Delay 100 ms
+KeyUp 44 1
+Delay 100 ms
+Goto 64
+Delay 100 ms
+LeftUp 1
+Delay 64
+KeyUp 225 1
+Delay 100 ms
+RightUp 1
+Delay 100 ms
+GoColor 37 1 64,64,64 255,255,255 2 914 786 103 15 1 0
+Goto 9
+Delay 100 ms</Syntax>
+    </KeyDown>
+    <Software>Русская Рыбалка 4</Software>
+  </DefaultMacro>
+</Root>

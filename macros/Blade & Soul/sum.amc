@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на Котовода в 2 спеке( земля/силы природы), прожимаем G и сразу зажимаем макрос, иногда надо дожимать F, так как макрос не всегда активирует ее быстро, в целом работает отлично. </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 8 ms
+KeyUp 21 1
+Delay 0 ms
+KeyDown 23 1
+Delay 8 ms
+KeyUp 23 1
+Delay 0 ms
+KeyDown 30 1
+Delay 0 ms
+KeyUp 30 1
+Delay 0 ms
+KeyDown 31 1
+Delay 0 ms
+KeyUp 31 1
+Delay 30 ms
+KeyDown 32 1
+Delay 0 ms
+KeyUp 32 1
+Delay 0 ms
+KeyDown 9 1
+Delay 0 ms
+KeyUp 9 1
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

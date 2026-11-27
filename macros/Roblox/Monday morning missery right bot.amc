@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Это бот 
+Как использовать:
+1 Измините окно на правую часть рабочего стола
+2 Измините кнопки в 4К на :
+1290
+3 Наслаждайтесь</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 6 1 194,75,153 179,97,158 1 847 154
+GoColor 11 1 0,255,255 255,255,255 1 930 162
+GoColor 16 1 18,250,5 255,255,255 1 998 152
+GoColor 21 1 249,57,63 255,255,255 1 1069 149
+Goto 1
+KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+Delay 1 ms
+Goto 1
+KeyDown 31 1
+Delay 1 ms
+KeyUp 31 1
+Delay 1 ms
+Goto 1
+KeyDown 38 1
+Delay 1 ms
+KeyUp 38 1
+Delay 1 ms
+Goto 1
+KeyDown 39 1
+Delay 1 ms
+KeyUp 39 1
+Delay 1 ms
+Goto 1
+Goto 1
+Goto 1
+Goto 1
+Goto 1
+GoWhile 1 180
+GoWhile 1 180</Syntax>
+    </KeyDown>
+    <Software>Monday Morning misery</Software>
+  </DefaultMacro>
+</Root>

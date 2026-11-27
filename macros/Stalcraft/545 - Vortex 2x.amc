@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Очень легкий и простой макрос на анти отдачу, после 50 патрона уводит в право, это не проблема.
+Сенса в стале 9 
+D P I 1600 
+Также может подойти и для WA2000 
+Очень легкий в использовании без заморочек.</Description>
+    <Comment>Очень легкий и простой макрос на анти отдачу, после 50 патрона уводит в право, это не проблема.
+Сенса в стале 9 
+D P I 1600 
+Также может подойти и для WA2000 
+Очень легкий в использовании без заморочек.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 0 3
+Delay 12 ms</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

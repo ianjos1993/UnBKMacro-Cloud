@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>evade emote hop easy</Major>
+    <Description>Evade - режим в роблоксе, в котором для про игроков нужен макрос. С его помощью можно делать emote hop. Про игроки очень нуждаются в нем, ведь без него почти никак играть. ИНСТРУКЦИЯ: нужно скачать файл, а затем назначить на любую удобную клавишу, например на клавишу G этот файл, так будет легче всего делать. Спасибо.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+Delay 20 ms
+KeyUp 10 1
+Delay 20 ms
+KeyDown 30 1
+Delay 20 ms
+KeyUp 30 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>roblox</Software>
+  </DefaultMacro>
+</Root>

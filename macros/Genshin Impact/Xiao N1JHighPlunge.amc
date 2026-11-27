@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Xiao N1J High Plunge.
+
+Activate after using Xiao's burst to perform N1J High Plunge combo.
+
+This is mainly to get PJWS stack faster and more overall damage than normal Jump Plunge combo.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 30
+KeyUp 44 1
+Delay 155 ms
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 30 ms
+LeftDown 1
+Delay 8 ms
+LeftUp 1
+Delay 30 ms
+KeyDown 44 1
+Delay 30 ms
+KeyUp 44 1
+Delay 155 ms
+Goto 5</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

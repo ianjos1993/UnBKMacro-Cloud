@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Will cast reel to full or near full power then do near perfect stop and go reel in .
+If fish caught it will keep for money then repeat no fish then just repeat. 
+
+Remove SPACEBAR from the in-game hotkeys as reel in. Just remove it while you want to run this script and it runs flawlessly. Good for farming trout in alberta, using a 42g #4/0 yellow medium spoon. Cast to the left of dock</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1061 811
+LeftDown 1
+Delay 2000 ms
+LeftUp 1
+Delay 99 ms</Syntax>
+    </KeyDown>
+    <Software>Fishing Planet</Software>
+  </DefaultMacro>
+</Root>

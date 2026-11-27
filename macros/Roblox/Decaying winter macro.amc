@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Decaying winter макрос для Arbiter в роблоксе для Бёрст выстрела. Чтобы его использовать надо нажать на кнопку, которую вы используете для макро затем произойдет магия. Это подвид спама поэтому надо выключить еще раз нажав на кнопку после использования</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 275 ms
+KeyUp 9 1
+Delay 275 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

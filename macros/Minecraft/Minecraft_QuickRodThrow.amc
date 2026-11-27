@@ -1,0 +1,32 @@
+<Root>
+  <!-- by Britan -->
+  <DefaultMacro>
+    <Major></Major>
+    <Description>НАЗВАНИЕ: Minecraft Quick Rod Throw. ОПИСАНИЕ: Комбо-бросок удочки: переключение на удочку (слот 8) -&gt; бросок -&gt; переключение на меч (слот 1) -&gt; блок щитом (правый клик). Идеально для PvP-тактики: сначала сбиваешь врага палкой, потом бьёшь мечом. РЕКОМЕНДУЕМАЯ КЛАВИША: Q. КАК ИСПОЛЬЗОВАТЬ: Привяжи макрос на клавишу Q в редакторе KeyRan. Перед атакой в ближнем бою нажми Q - макрос выполнит полную последовательность один раз: достанет удочку, бросит её, вернёт меч и поднимет щит. Однократное выполнение. НАСТРОЙКА: Убедись что удочка лежит в слоте 8, а меч в слоте 1. Если используешь другой слот - измени код KeyDown 56 (слот 8) и KeyDown 49 (слот 1). АВТОР: by Britan. ЗАПРЕЩЕНО копировать без указания автора.</Description>
+    <Comment>Привязка: Q. Режим: однократное. Инструкция: нажми Q перед атакой - удочка бросится, меч достанется, щит поднимется.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 25 ms
+KeyUp 56 1
+Delay 20 ms
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 25 ms
+KeyDown 49 1
+Delay 25 ms
+KeyUp 49 1
+Delay 20 ms
+RightDown 1
+Delay 30 ms
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

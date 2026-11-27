@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Bow must be at 3rd slot of inventory, bow must have punch 2 and  you can use it.
+Bow Boost for pvp.
+It will make you gain advantage.
+Can be used for chain bow boosting on mmc invaded lands and such.
+Can bow boost very quickly and effectively. </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Button4down 1
+Delay 1 ms
+Button4Up 1
+Delay 10 ms
+RightDown 1
+Delay 195 ms
+RightUp 1
+KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

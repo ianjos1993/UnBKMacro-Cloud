@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>При прохождении инструктажа за Бараку против Сабзеро могут возникнуть трудности. После этого я решил накидать макрос, чтобы не клацать одну и ту же комбинацию вечно.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 60 ms
+KeyUp 22 1
+Delay 5 ms
+KeyDown 14 1
+Delay 60 ms
+KeyUp 14 1
+Delay 40 ms
+KeyDown 12 1
+Delay 60 ms
+KeyUp 12 1
+Delay 5 ms
+KeyDown 13 1
+Delay 60 ms
+KeyUp 13 1
+Delay 5 ms
+KeyDown 14 1
+Delay 60 ms
+KeyUp 14 1
+Delay 40 ms
+KeyDown 13 1
+Delay 60 ms
+KeyUp 13 1
+Delay 5 ms
+KeyDown 12 1
+Delay 60 ms
+KeyUp 12 1
+Delay 5 ms
+KeyDown 12 1
+Delay 60 ms
+KeyUp 12 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Mortal Kombat 11</Software>
+  </DefaultMacro>
+</Root>

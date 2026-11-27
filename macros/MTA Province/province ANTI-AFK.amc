@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major>АНТИ АФК СИСТЕМА</Major>
+    <Description>анти афк система, предназначена для того чтобы вас не кикало спустя 15 минут афк, макрос сделан так что ваш персонаж передвигается по одним и тем же клавишам сохраняя позицию работает так еще себе, но в будущем будут улучшения</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 2408 ms
+KeyDown 7 1
+Delay 112 ms
+KeyUp 7 1
+Delay 113 ms
+KeyDown 44 1
+Delay 114 ms
+KeyUp 44 1
+Delay 93 ms
+KeyDown 26 1
+Delay 95 ms
+KeyUp 26 1
+Delay 93 ms
+KeyDown 4 1
+Delay 56 ms
+KeyUp 4 1
+Delay 207 ms
+KeyDown 44 1
+Delay 113 ms
+KeyUp 44 1
+Delay 57 ms
+KeyDown 22 1
+Delay 93 ms
+KeyUp 22 1
+Delay 302 ms
+KeyDown 26 1
+Delay 95 ms
+KeyUp 26 1
+Delay 75 ms
+KeyDown 44 1
+Delay 113 ms
+KeyUp 44 1
+Delay 1246 ms
+KeyDown 225 1
+Delay 757 ms
+KeyDown 68 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

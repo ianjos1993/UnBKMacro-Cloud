@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Следовать строго описанию! Ставите на лкм, режим работы "Пока нажата клавиша". В 1-ой строке надо подсроить вашу координату на левый край хп вашего персонажа. Суть этого джиттера в том, что при запущеном макросе он будет работать как обычный лкм на рабочем столе, в лобби, в инвентаре и тд и тп, а при файтах когда виден пиксель хп в нужной координате он будет работать как обычный джиттер. Это сделано для решения проблемы с неудобным лутом и постоянным включением/выключением макроса.
+1280x1024  1 сенс 1200 dpi</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 23 0 255,255,255 255,255,255 1 178 1030 966 51 1 0
+LeftDown 1
+Delay 1 ms
+MoveR -1 0
+Delay 1 ms
+MoveR -1 2
+Delay 1 ms
+MoveR 0 2
+Delay 1 ms
+MoveR 1 2
+Delay 1 ms
+MoveR 2 0
+Delay 1 ms
+MoveR 2 -1
+Delay 1 ms
+MoveR 0 -2
+Delay 1 ms
+MoveR -1 -2
+Delay 1 ms
+MoveR -2 0
+Delay 1 ms
+GoWhile 4 86400000
+LeftDown 1
+Delay 30 ms
+Goto 24</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Forntite macro editor, hold Q to activate and release to deactivate, you need to have edit on release enabled and make sure you have "9" as your second edit key, then enjoy this awesome software :).</Description>
+    <Comment>make sure to buy keyran Premium!</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 26 ms
+KeyUp 8 1
+Delay 26 ms
+KeyDown 38 1
+Delay 26 ms
+KeyUp 38 1
+Delay 26 ms
+KeyDown 8 1
+Delay 26 ms
+KeyUp 8 1
+Delay 26 ms
+KeyDown 38 1
+Delay 26 ms
+KeyUp 38 1
+Delay 26 ms
+KeyDown 8 1
+Delay 26 ms
+KeyUp 8 1
+Delay 26 ms
+KeyDown 38 1
+Delay 26 ms
+KeyUp 38 1
+Delay 26 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,92 @@
+<Root>
+  <DefaultMacro>
+    <Major>автофарм норвежки  41 банки</Major>
+    <Description>     морская донная      Приехать на  41 банку.                                                                                                                     
+  Ловим в отвес,  Можно  троллингом (постоянно должна гореть надпись придонный слой)
+
+При написание этого скрипт использовалась  Катушка  Sat Azimut Blue 8000 
+
+На клавишу 4 устанавливаем чай или кофе
+
+Скрипт настроен на разрешение экрана 1680-1050
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 90 100 ms
+LeftUp 1
+Delay 30345 30346 ms
+LeftDown 1
+Delay 99 100 ms
+LeftUp 1
+Delay 99 100 ms
+KeyDown 225 1
+Delay 64 68 ms
+Delay 240 250 ms
+GoColor 18 2 160,160,160 255,255,255 1 428 996 957 85 1 0
+RightUp 1
+KeyDown 225 1
+Delay 64 67 ms
+Delay 3050 3300 ms
+Goto 7
+Delay 100 110 ms
+LeftDown 1
+Delay 64 68 ms
+RightDown 1
+Delay 100 107 ms
+KeyDown 225 1
+Delay 400 600 ms
+GoColor 30 1 64,64,64 255,255,255 2 695 844 71 12 1 0
+Delay 100 105 ms
+GoColor 54 3 160,160,160 255,255,255 1 428 995 947 86 1 0
+Delay 100 108 ms
+Goto 24
+Delay 100 110 ms
+LeftUp 1
+Delay 100 110 ms
+KeyUp 225 1
+Delay 100 110 ms
+RightUp 1
+Delay 250 255 ms
+GoColor 48 1 74,170,247 255,255,255 2 354 91 489 4 1 0
+Delay 100 110 ms
+GoColor 48 1 228,198,49 255,255,255 2 354 91 489 4 1 0
+Delay 100 108 ms
+GoColor 48 1 183,199,56 255,255,255 2 354 91 489 4 1 0
+Delay 100 107 ms
+KeyDown 42 1
+Delay 100 110 ms
+KeyUp 42 1
+Delay 100 110 ms
+Goto 52
+Delay 300 310 ms
+KeyDown 44 1
+Delay 100 110 ms
+KeyUp 44 1
+Delay 100 108 ms
+Goto 63
+Delay 100 107 ms
+LeftUp 1
+Delay 64 67 ms
+KeyUp 225 1
+Delay 100 107 ms
+RightUp 1
+Delay 100 108 ms
+GoColor 36 1 64,64,64 255,255,255 2 695 844 71 12 1 0
+Goto 7
+Delay 100 109 ms
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Русская Рыбалка 4</Software>
+  </DefaultMacro>
+</Root>

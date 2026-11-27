@@ -1,0 +1,73 @@
+<Root>
+  <DefaultMacro>
+    <Major>f5 console valheim</Major>
+    <Description>макрос для быстрого написания devcommands, и последующего написания debugmode 
+что бы всё работало необходимо вписать в параметры запуска игры -console</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 62 1
+Delay 10 ms
+KeyUp 62 1
+Delay 10 ms
+KeyDown 7 1
+Delay 10 ms
+KeyUp 7 1
+Delay 10 ms
+KeyDown 8 1
+Delay 10 ms
+KeyUp 8 1
+Delay 10 ms
+KeyDown 25 1
+Delay 10 ms
+KeyUp 25 1
+Delay 10 ms
+KeyDown 6 1
+Delay 10 ms
+KeyUp 6 1
+Delay 10 ms
+KeyDown 18 1
+Delay 64
+KeyUp 18 1
+Delay 10 ms
+KeyDown 16 1
+Delay 10 ms
+KeyUp 16 1
+KeyDown 16 1
+KeyUp 16 1
+KeyDown 4 1
+KeyUp 4 1
+KeyDown 17 1
+KeyUp 17 1
+KeyDown 7 1
+KeyUp 7 1
+KeyDown 22 1
+KeyUp 22 1
+Delay 5000 ms
+KeyDown 7 1
+KeyUp 7 1
+KeyDown 8 1
+KeyUp 8 1
+KeyDown 5 1
+KeyUp 5 1
+KeyDown 24 1
+KeyUp 24 1
+KeyDown 10 1
+KeyUp 10 1
+KeyDown 16 1
+KeyUp 16 1
+KeyDown 18 1
+KeyUp 18 1
+KeyDown 7 1
+KeyUp 7 1
+KeyDown 8 1
+KeyUp 8 1</Syntax>
+    </KeyDown>
+    <Software>Valheim</Software>
+  </DefaultMacro>
+</Root>

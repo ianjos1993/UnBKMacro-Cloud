@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Снимает любой уровень пристуgпности. Запускаем игру, Загружаем сохранение или начинаем новую игру. в программе выбираем наш макрос и назначаем клавишу. макрос прописывает чит код из игры. пока макрос работает другие клавиши не нажимаем.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 64 ms
+KeyUp 4 1
+Delay 64 ms
+KeyDown 22 1
+Delay 64 ms
+KeyUp 22 1
+Delay 64 ms
+KeyDown 17 1
+Delay 64 ms
+KeyUp 17 1
+Delay 64 ms
+KeyDown 4 1
+Delay 64 ms
+KeyUp 4 1
+Delay 64 ms
+KeyDown 8 1
+Delay 64 ms
+KeyUp 8 1
+Delay 64 ms
+KeyDown 5 1
+Delay 64 ms
+KeyUp 5 1</Syntax>
+    </KeyDown>
+    <Software>GTA San Andreas</Software>
+  </DefaultMacro>
+</Root>

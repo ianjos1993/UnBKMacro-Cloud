@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Игрок m1f находится на 7 строчке топа в basketball legends, этот макрос делает пост и после евростеп в другую сторону от противника (т.к вы его откинете) и все это делается в прыжке.
+Чтобы он работал вам нужно взять ребаунд, то есть подобрать мяч когда противник не попал по кольцу, вы нажимаете на клавишу где у вас стоит макрос и забиваете с 10-12 процентами
+Если буду ошибки пишите в дискорд rx2781</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+Delay 77 ms
+KeyUp 10 1
+Delay 31 ms
+KeyDown 22 1
+Delay 15 ms
+KeyUp 22 1
+KeyDown 9 1
+Delay 15 ms
+KeyUp 9 1
+KeyDown 8 1
+Delay 345 ms
+KeyUp 8 1
+KeyUp 43 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

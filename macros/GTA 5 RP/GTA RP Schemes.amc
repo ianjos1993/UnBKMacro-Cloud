@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Отличный автоматизированный бот на схемы, оставьте свой инвентарь пустым, назначьте макрос на удобную вам кнопку, подойдите к трансформатору, нажмите конпку и вуаля, можно идти по делам. Приятного пользования, дамы и господа!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 100 ms
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+GoColor 5 1 126,211,33 255,255,255 1 957 507</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

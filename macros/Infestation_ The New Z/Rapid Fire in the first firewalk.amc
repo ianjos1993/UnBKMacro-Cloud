@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Rapid Fire скорострел ! подходит почти к любому оружию
+Макрос толлько для игры на PVP серверах 
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 6 ms
+LeftUp 1
+Delay 6 ms
+LeftDown 1
+Delay 6 ms
+LeftUp 1
+Delay 6 ms
+LeftDown 1
+Delay 6 ms
+LeftUp 1
+Delay 6 ms</Syntax>
+    </KeyDown>
+    <Software>Infestation: The New Z</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>пропуск диалогов для Honkai Star Rail. Сам написал и пользуюсь по сей день, очень удобен и практичен для использования</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+GoWhile 1 9899999</Syntax>
+    </KeyDown>
+    <Software>Honkai: Star Rail</Software>
+  </DefaultMacro>
+</Root>

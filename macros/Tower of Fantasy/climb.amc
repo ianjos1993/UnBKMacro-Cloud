@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Just for climbing walls and will not decrease your stamina. Its a very useful trick called Infinite Stamina Wall Climb.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 10 ms
+KeyUp 224 1
+Delay 10 ms
+KeyDown 44 1
+Delay 10 ms
+KeyUp 44 1
+Delay 50 ms
+KeyDown 44 1
+Delay 10 ms
+KeyUp 44 1
+Delay 50 ms
+KeyDown 26 1
+Delay 10 ms
+KeyUp 26 1
+Delay 50 ms
+KeyDown 26 1
+Delay 10 ms
+KeyUp 26 1
+Delay 0 ms</Syntax>
+    </KeyDown>
+    <Software>Tower of Fantasy</Software>
+  </DefaultMacro>
+</Root>

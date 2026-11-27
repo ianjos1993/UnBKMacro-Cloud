@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>AutoBhop для плейса "Evade". Для нормальной работы макроса необходимо поставить режим "Выполнять до повторного нажатия". Для движения  вперед необходимо только зажимать клавишу "W".</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 6 ms
+KeyUp 44 1
+Delay 0 ms
+KeyDown 4 1
+Delay 6 ms
+KeyUp 4 1
+Delay 0 ms
+KeyDown 7 1
+Delay 6 ms
+KeyUp 7 1
+Delay 0 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

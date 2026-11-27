@@ -1,0 +1,60 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос сделан для разделения 100 предметов в 1 слоте по 100 отдельных штук для продажи на аукционе.
+
+Макрос сам переносит из первой ячейки предмет для продажи в окно аукциона и разделяет предмены по 1.
+
+1.Запустите игру в оконном режиме
+2.Положиле в 1вую ячейку нужный для продажи предмет
+3.Откройте окно аукционера 
+4.Нажмите кнопку активации скрипта
+
+Макрос сделан под разрешение 1920х1080 и расчитан на 99 повторений (можно этот параметер снизить изменив 35ю строку)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1067 274
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 351 495
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 385 529
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 246 526
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 551 527
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+GoWhile 11 99</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

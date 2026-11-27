@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>Auto type 2v1 in chat</Major>
+    <Description>This macro auto types the word 2v1 (Two players versus one player) in the chat for you so you dont have to type it out, and you can type it out fast. This macro can be used for many reasons such as Teaming. The meaning of 2v1 is playing a fighting game and 2 players go/fight after you. Can be used in any fighting game. The keys are (P/ R/ P2 R2 Pv Rv P1 R1 PEnter REnter). Note that i am not responsible for any harsh/bad respones or situations, use this carefully and with good luck!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 22
+KeyUp 56 1
+Delay 22
+KeyDown 31 1
+Delay 22
+KeyUp 31 1
+Delay 22
+KeyDown 25 1
+Delay 22
+KeyUp 25 1
+Delay 22
+KeyDown 30 1
+Delay 22
+KeyUp 30 1
+Delay 22
+KeyDown 88 1
+Delay 22
+KeyUp 88 1
+Delay 22</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

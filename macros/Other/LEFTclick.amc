@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major>Clicker</Major>
+    <Description>Бесконечные нажатия левой кнопка.
+Для самых ленивых
+установить на любую клавишу
+Выполнять до повторного нажатия;
+Макрос будет выполняться до тех пор, пока не будет нажата клавиша активирующая макрос.
+Использовать настройки макроса.
+Настроить режимы работы можно в самом макросе, при выборе этого пункта будут применяться настройки макроса.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+
+https://keyran.net/forum/profile/79111-onebyonez/</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+Delay 64 ms
+LeftUp 1
+Delay 64
+Delay 64 ms
+LeftDown 1
+Delay 64
+Delay 64 ms
+LeftUp 1
+Delay 64
+Delay 64 ms
+LeftDown 1
+Delay 64
+Delay 64 ms
+LeftUp 1
+Delay 64
+Delay 64 ms</Syntax>
+    </KeyDown>
+    <Software>Другие</Software>
+  </DefaultMacro>
+</Root>

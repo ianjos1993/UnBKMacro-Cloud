@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This is a macro that lets you mantle jump with ease. Just jump of the zipline and when you start the mantle you click the assigned button and it does it all for you. Super easy to use and learn in firing range.
+
+This macro is specifically for 1920x1080 and 144fps if you are planning on using a different screen resolution, all you need to do is right click the "Move cursor X0 Y695 (relatively)" and change the Y to a lower number if you are playing on streched for example.
+
+1920x1080 = X0 Y695
+1720x1080 = X0 Y650
+1680x1080 = X0 Y540
+1440x1080 = X0 Y495
+1280x1080 = X0 Y440
+
+Here above I premade the mouse movement for some of the most common streched resolutions so you in luck if you use any of these, have tested on 1920x1080 and 1440x1080. And im pretty sure it works on all other resolutions, if not please message me on here and report the problem to me and I could work it out with you and fix it.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 64
+KeyUp 224 1
+MoveR 0 695
+Delay 64
+KeyDown 8 1
+Delay 10 ms
+KeyUp 8 1
+Delay 50 ms
+WheelDown 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

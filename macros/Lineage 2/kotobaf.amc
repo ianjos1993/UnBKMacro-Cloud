@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Нажимает кнопку F1 циклично повторяет 50 раз затем нажимает F2 и переходит к 1 кнопке 
+
+то есть можно поставить макрос в л2 на таргет и на ф2 котобаф</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 58 1
+Delay 64
+KeyUp 58 1
+Delay 64
+Delay 1 s
+GoWhile 1 50
+KeyDown 59 1
+Delay 64
+KeyUp 59 1
+Delay 64
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос для М249!
+довольно хорошо работает и на 8х
+сенса 0.5 в точку
+Советую,довольно хороший макрос особенно хорошо сбивать верт)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 25 ms
+MoveR 1 4
+Delay 25 ms
+MoveR 1 4
+Delay 25 ms
+MoveR -1 5
+Delay 26 ms
+MoveR -1 5
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

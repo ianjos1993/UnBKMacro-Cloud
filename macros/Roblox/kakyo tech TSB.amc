@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос предназначен для выполнения сложного трюка в игре TSB (Kakyo tech).Макрос выполняет M1 с мини апперкотом делаюющий экстендер, из-за чего можно продолжить комбо, для удобного использования я советую забиндить макрос на клваишу "R"(Английская).Перед началом использования макроса, поставьте разрешение экрана-1980x1080, FPS-120-240, пинг на котором следует выполнять-70-90.Если вам не удобно использовать его без КД ( стана ) на противнике, то уберите первые два удара ( ЛКМ ), или же по своему желанию сменить задержку на рывок персонажа ( Q ).Важно не трогать остальные параметры макроса, это приведёт, к нестабильной и неправильной работы макроса.Макрос не используется на персонажах "Metal bat" и "Destructive cyborg".Убедитесь, что вы и ваш противник не лагают\не имеют высокого пинга.Если вам нужен подробный туториал по использованию трюка с макросом и без него, то напишите в "Discord" ник-krutoimen52</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 64
+KeyUp 225 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveR 1000 0
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+LeftDown 1
+Delay 72 ms
+LeftUp 1
+Delay 72 ms
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 30 ms
+KeyDown 225 1
+Delay 64
+KeyUp 225 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

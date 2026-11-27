@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос под отдачу в игре RUST на оружие Berdanka. Холик/Без/8x (С исключением ниже)
+
+Настройки в программе:
+Разрешение 1920х1080
+
+Сидя FOV 90 - Сенса - 0.67 (Искл. на 8х - 0.87)
+
+Стоя FOV 90 - 0.76 (Искл. на 8х - нет, не стоит стоя жать с 8х)
+
+Для корректной работы макроса в программе Keyran установите следующие параметры:
+1. Включите драйвер.
+2. Отключите минимальную задержку.
+ 
+#rust #раст #Macros #But1ch</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+GoWhile 1 2
+Delay 60 ms
+MoveR 0 -11
+Delay 55 ms
+MoveR 0 -12
+Delay 60 ms
+MoveR 0 -11
+Delay 58 ms
+MoveR 0 -12
+Delay 60 ms
+MoveR 0 -11
+Delay 60 ms
+LeftUp 1
+Delay 55 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос предназначен не для самой Gta san andreas а для мода "San Andreas Multi Player".
+Будучи администратором на проектах в самп, вы должны отвечать на репорты.
+Этот макрос будет автоматически ловить репорты первыми за вас.
+
+Всё нужно для корректной работы это:
+1) Сервер с новой системой репортов(как на АРЗ)
+2) Не иметь биндов на клавишу "Num /"
+3) скопировать текст который всем будет отвечать макрос (соч.кл."CTRL+V")
+
+Тестировалось 03.01.2023 на
+Arizona Role Play(Работает)
+Arena Role Play(Работает)
+
+</Description>
+    <Comment>Этот макрос нужен для Gta San Andreas:Multi Player.
+На РП серверах он будет автоматически брать репорты</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 64
+KeyDown 84 1
+Delay 64
+KeyUp 84 1
+Delay 64
+KeyDown 18 1
+Delay 64
+KeyUp 18 1
+Delay 64
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 2 s
+KeyDown 224 1
+KeyDown 25 1
+Delay 100 s
+KeyUp 224 1
+KeyUp 25 1</Syntax>
+    </KeyDown>
+    <Software>GTA San Andreas</Software>
+  </DefaultMacro>
+</Root>

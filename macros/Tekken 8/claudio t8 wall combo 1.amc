@@ -1,0 +1,78 @@
+<Root>
+  <DefaultMacro>
+    <Major>Claudio T8 Wall Combo 1</Major>
+    <Description>Макрос позволяет выполнять wall комбо за Клаудио.
+Видео демонстрации работы макроса: https://youtu.be/sdsEhFdPloI
+
+Клаудио Серрафино — глава тайного ордена экзорцистов из Италии, использующий мистическое искусство Сириусской магии для борьбы с тьмой. Элегантный и самоуверенный, он скрывает за аристократической внешностью силу, способную сдерживать демонические сущности. В Tekken 8 его стиль сочетает мощные магические выбросы с точной техникой рукопашного боя, превращая его в угрожающего стража между мирами света и тьмы.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 07.04.2025
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ, обращайтесь в дискорд для этого.
+
+#claudiotekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 40 ms
+KeyUp 7 1
+Delay 74 ms
+KeyDown 7 1
+Delay 57 ms
+KeyUp 7 1
+Delay 57 ms
+KeyDown 7 1
+Delay 63 ms
+KeyDown 74 1
+Delay 201 ms
+KeyDown 4 1
+Delay 29 ms
+KeyUp 7 1
+Delay 5 ms
+KeyUp 74 1
+Delay 664 ms
+KeyDown 74 1
+Delay 29 ms
+KeyUp 4 1
+Delay 151 ms
+KeyDown 76 1
+Delay 110 ms
+KeyUp 76 1
+Delay 68 ms
+KeyDown 76 1
+Delay 109 ms
+KeyUp 76 1
+Delay 34 ms
+KeyDown 76 1
+Delay 143 ms
+KeyUp 76 1
+Delay 45 ms
+KeyUp 74 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

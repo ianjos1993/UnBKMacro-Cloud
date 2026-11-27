@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Предупреждение, на некоторых серверах использование макросов СТРОГО ЗАПРЕЩЕНО!!! Вас могут ЗАБАНИТЬ!
+Юзайте на свой страх и риск!
+
+Придназначено для боевки 1.12.2  и выше.
+Дамаг идет с критом после каждого удара.
+
+Установка:
+
+1. Бинд на кнопку, которой вы будете бить.
+
+2. Выставляете параметр "Активно когда кнопка нажата"
+
+3. Радуйтесь!
+
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 600 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

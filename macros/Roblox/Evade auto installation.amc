@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос поможет вам автоматически установливатьт барьеры,ускорялки,пить колу.
+Важно! Поставте желаймый предмет который вы хотите устанавливать автоматический на вверх в середину в слотах
+Разрешение 1920x1080</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 64
+MoveTo 953 305
+Delay 64
+LeftDown 1
+Delay 2 s
+LeftDown 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос для стрельбы очередями, подходит для большинства оружий. При активации выстреливает 5 пуль и уводит прицел вниз, для оружия с большой отдачей рекомендую целится в туловище так как отдачу уводит вверх. 
+
+sens mouse in game: 2.5
+mouse DPI: 800
+сенса мышки в игре: 2.5
+DPI мышки: 800
+==============================================================================================
+проверялось на моде для ксс [CSSO 1.1]</Description>
+    <Comment>проверил на m4a1-s и на m4a4 стрельба идёт хорошо</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+MoveR 0 8
+Delay 64
+MoveR 0 8
+Delay 64
+MoveR 0 8
+Delay 64
+MoveR 0 8
+Delay 64
+MoveR 0 8
+Delay 64
+MoveR 0 8
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>CS: GO</Software>
+  </DefaultMacro>
+</Root>

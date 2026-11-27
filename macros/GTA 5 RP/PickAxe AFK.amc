@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>E Button Used </Major>
+    <Description>AFK Pickaxe Pressing E for you
+Mining with Pickaxe.
+Very easy and straight to the point . You must be Online in order for macro to work.
+
+How to use :
+1. Go to a Quarry.
+2. When you See button E showing up
+3. Near the rocks , activate macro !</Description>
+    <Comment>This will not solve your captcha</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 3 s
+KeyDown 8 1
+Delay 5346 ms
+KeyUp 8 1
+Delay 8 s
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

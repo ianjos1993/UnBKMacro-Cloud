@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>Long slide F with 200 ping</Major>
+    <Description>Довольно длинный слайд на "F" Такизавы. Слайд хорошо работает на 200 пинге. Надоело играть на 200 пинге? Скачайте данный макрос для такизавы и летайте на "F" !
+Макрос облегчает игру на Takizawa.
+Создано игроком XxlogxzxX</Description>
+    <Comment>Хочешь сразиться со мной 1на1? Добавляй в друзья! Ник - XxlogxzxX</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 22 ms
+KeyDown 26 1
+Delay 47 ms
+KeyUp 9 1
+Delay 7 ms
+KeyUp 26 1
+Delay 77 ms
+KeyDown 26 1
+Delay 23 ms
+KeyDown 44 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

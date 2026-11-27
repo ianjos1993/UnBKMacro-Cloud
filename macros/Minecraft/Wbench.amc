@@ -1,0 +1,54 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всем доброго времени суток! Сегодня я вновь решил порадовать вас новым макросом. Этот макрос почти такой же, как и мой “Auto Craft”, но написан по-другому. Просто я сидел, пил чай и задумался, что команда /craft есть не на всех серверах, а кому-то, возможно, макрос данного типа понадобится. Поэтому я и решил его написать. Если на вашем сервере недоступна команда /craft, то смело можете скачивать этот макрос – его функция аналогична. Желаю всем хорошего дня!
+
+Инструкция по настройке:
+1)Установите файл данного макроса.
+2)Выберите для себя удобную клавишу или кнопку мыши.
+3)Назначьте на нее макрос.
+4)Сохраните и используете.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 32 ms
+KeyUp 56 1
+Delay 32 ms
+KeyDown 26 1
+Delay 32 ms
+KeyUp 26 1
+Delay 32 ms
+KeyDown 5 1
+Delay 32 ms
+KeyUp 5 1
+Delay 32 ms
+KeyDown 8 1
+Delay 32 ms
+KeyUp 8 1
+Delay 32 ms
+KeyDown 17 1
+Delay 32 ms
+KeyUp 17 1
+Delay 32 ms
+KeyDown 6 1
+Delay 32 ms
+KeyUp 6 1
+Delay 32 ms
+KeyDown 11 1
+Delay 32 ms
+KeyUp 11 1
+Delay 32 ms
+KeyDown 88 1
+Delay 32 ms
+KeyUp 88 1
+Delay 32 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

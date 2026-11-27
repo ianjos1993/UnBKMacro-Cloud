@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>СО 2 LVL МАСТЕРСТВА НА НЕФТЕВЫШКЕ ( ВАЖНО!!! )
+Макрос на нажатия 4 точек на нефтевышке на GrandRP GTA 5
+Работает только с бонусом на 20 % после 4 часов отыгрыша на сервере. (upd + 2 лвл нефетвышки )
+Капчу макрос не может обойти, придется время от времени следить за этим. (~ 7 минут кд капчи на гранде)
+Способ работы: Приехать на любую нефтевышку на Grand Rp , запустить макрос - фармить бочки.
+Разрешение 1920:1080 . Сделаные идеальные тайминги на фарм со 2 уровня + 20 % бонуса на нефти.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 281 761
+Delay 10 ms
+LeftDown 1
+Delay 2200 ms
+LeftUp 1
+MoveTo 381 761
+Delay 10 ms
+LeftDown 1
+Delay 2200 ms
+LeftUp 1
+MoveTo 483 761
+Delay 10 ms
+LeftDown 1
+Delay 2300 ms
+LeftUp 1
+MoveTo 584 759
+Delay 10 ms
+LeftDown 1
+Delay 2600 ms
+LeftUp 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

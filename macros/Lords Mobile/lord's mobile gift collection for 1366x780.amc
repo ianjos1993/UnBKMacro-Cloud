@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Сбор подарков лордс мобайл для старых ноутбуков с разрешением 1366х768. Небольшое отклонение в разрешении экрана не повлияет на работу скрипта.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 640 730
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 150 ms
+MoveTo 1000 300
+Delay 64 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 200 ms
+MoveTo 1200 330
+Delay 300 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 300 ms
+GoWhile 13 20
+MoveTo 1320 50
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 300 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Lords Mobile</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>happy new year</Major>
+    <Description>проверенный макрос для копания снега. 
+лопатка должна находиться в быстром слоте номер 3.
+присутствует макрос против сна. 
+Все проверено на сервере GRAND RP</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 7 s
+GoWhile 1 74
+KeyDown 26 1
+Delay 1 s
+KeyUp 26 1
+Delay 64
+GoWhile 1 100</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

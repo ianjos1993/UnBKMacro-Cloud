@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Самый лучший скрипт на автобег SAMP CRMP!!! Активируется на клавишу ctrl, не взаимодействует с мышкой, можете спокойно оставлять фармить бег.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+KeyDown 44 1
+KeyUp 26 1
+KeyUp 44 1
+KeyDown 26 1
+KeyDown 44 1
+KeyUp 44 1
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

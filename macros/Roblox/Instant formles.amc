@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This Macro is for Locked specificly formless to use just tilt your camrera up slightly and the macro will do the rest
+   Warning this can only be used if the ball is inside or right infront off you
+
+I recomend you bind this macro to "T" 
+
+-Ingame settings
+   sensitivity 0.66
+
+   -Roblox sensitivity
+   0.68
+
+   This macro was tested
+   HP Laptop 15-fc0047nr
+   1366 x 768, 60 Hz
+   Windows 11
+   Screen Size 15.6
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR -180 0
+MoveR -130 0
+MoveTo 683 371
+Delay 26 ms
+MoveTo 683 371
+Delay 78 ms
+Delay 36 ms
+RightDown 1
+Delay 24 ms
+Delay 62 ms
+KeyDown 21 1
+Delay 1 ms
+KeyUp 21 1
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

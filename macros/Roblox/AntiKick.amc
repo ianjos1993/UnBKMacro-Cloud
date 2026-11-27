@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major>Antikick</Major>
+    <Description>script jumping every 5-10min
+instruction:
+1.start the script
+2.click on roblox window
+3.no kick anymore!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 64 ms
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+Delay 5 10 min
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

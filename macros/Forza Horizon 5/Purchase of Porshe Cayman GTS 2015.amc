@@ -1,0 +1,180 @@
+<Root>
+  <DefaultMacro>
+    <Major>ZloyParkur</Major>
+    <Description>Макрос передназначен для покупки Posrshe Cayman GTS 2015 и для 
+получения с помощью него обычного и супер виллспинов.
+1. Для его работы вам надо быть в своём доме/фестивале
+2. Открываем вкладку Гараж -&gt; Колекция машин
+3. Дальше вам надо сделать так, чтобы перед активацией макроса ваш курсос активировал  машина Porshe 1959 356 A 1600 SUPER
+4. Запускаем макрос на кнопку которую вы назначили.
+
+Для покупки одной машины требуется: 80000 кредитов; 14 автоталантов. = 1 повторение (цикл)
+
+По умолчанию установлено 5 повторений.
+Вы можете настроить макрос на определенное кол-тво циклов (повторений), чтобы не следить за программой. В редакторе макросов поменяйте количество повторений в последней (153-ой) строке. </Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1971 ms
+KeyDown 81 1
+Delay 125 ms
+KeyUp 81 1
+Delay 842 ms
+KeyDown 81 1
+Delay 143 ms
+KeyUp 81 1
+Delay 1110 ms
+KeyDown 79 1
+Delay 129 ms
+KeyUp 79 1
+Delay 453 ms
+KeyDown 79 1
+Delay 140 ms
+KeyUp 79 1
+Delay 348 ms
+KeyDown 79 1
+Delay 122 ms
+KeyUp 79 1
+Delay 589 ms
+KeyDown 88 1
+Delay 90 ms
+KeyUp 88 1
+Delay 665 ms
+KeyDown 81 1
+Delay 143 ms
+KeyUp 81 1
+Delay 462 ms
+KeyDown 88 1
+Delay 100 ms
+KeyUp 88 1
+Delay 1883 ms
+KeyDown 88 1
+Delay 146 ms
+KeyUp 88 1
+Delay 3981 ms
+KeyDown 28 1
+Delay 150 ms
+KeyUp 28 1
+Delay 1078 ms
+KeyDown 88 1
+Delay 93 ms
+KeyUp 88 1
+Delay 1369 ms
+KeyDown 88 1
+Delay 83 ms
+KeyUp 88 1
+Delay 1308 ms
+KeyDown 88 1
+Delay 123 ms
+KeyUp 88 1
+Delay 20000 ms
+//Ожидание после покупки машины, можно увеличить если не хватает.
+KeyDown 41 1
+Delay 111 ms
+KeyUp 41 1
+Delay 1846 ms
+KeyDown 80 1
+Delay 151 ms
+KeyUp 80 1
+Delay 481 ms
+KeyDown 80 1
+Delay 164 ms
+KeyUp 80 1
+Delay 673 ms
+KeyDown 88 1
+Delay 85 ms
+KeyUp 88 1
+Delay 1531 ms
+KeyDown 79 1
+Delay 108 ms
+KeyUp 79 1
+Delay 554 ms
+KeyDown 79 1
+Delay 125 ms
+KeyUp 79 1
+Delay 509 ms
+KeyDown 81 1
+Delay 107 ms
+KeyUp 81 1
+Delay 1183 ms
+KeyDown 88 1
+Delay 116 ms
+KeyUp 88 1
+Delay 1717 ms
+KeyDown 88 1
+Delay 151 ms
+KeyUp 88 1
+Delay 1242 ms
+KeyDown 79 1
+Delay 123 ms
+KeyUp 79 1
+Delay 556 ms
+KeyDown 88 1
+Delay 97 ms
+KeyUp 88 1
+Delay 779 ms
+KeyDown 79 1
+Delay 111 ms
+KeyUp 79 1
+Delay 678 ms
+KeyDown 88 1
+Delay 113 ms
+KeyUp 88 1
+Delay 834 ms
+KeyDown 82 1
+Delay 134 ms
+KeyUp 82 1
+Delay 594 ms
+KeyDown 88 1
+Delay 159 ms
+KeyUp 88 1
+Delay 724 ms
+KeyDown 79 1
+Delay 126 ms
+KeyUp 79 1
+Delay 677 ms
+KeyDown 88 1
+Delay 173 ms
+KeyUp 88 1
+Delay 868 ms
+KeyDown 80 1
+Delay 134 ms
+KeyUp 80 1
+Delay 584 ms
+KeyDown 82 1
+Delay 221 ms
+KeyUp 82 1
+Delay 456 ms
+KeyDown 88 1
+Delay 117 ms
+KeyUp 88 1
+Delay 1193 ms
+KeyDown 41 1
+Delay 99 ms
+KeyUp 41 1
+Delay 1411 ms
+KeyDown 41 1
+Delay 93 ms
+KeyUp 41 1
+Delay 1505 ms
+KeyDown 79 1
+Delay 143 ms
+KeyUp 79 1
+Delay 273 ms
+KeyDown 79 1
+Delay 117 ms
+KeyUp 79 1
+Delay 365 ms
+KeyDown 88 1
+Delay 94 ms
+KeyUp 88 1
+GoWhile 1 5</Syntax>
+    </KeyDown>
+    <Software>Forza Horizon 5</Software>
+  </DefaultMacro>
+</Root>

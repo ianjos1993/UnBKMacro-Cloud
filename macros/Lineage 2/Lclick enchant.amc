@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major>Клик на заточку с повтором (L2 interlude 1200)</Major>
+    <Description>Простейший скрипт для заточки оружия\бижутерии\одежды в L2 Interlude, в котором присутствует функция (Повторить)
+В основном на этом клиенте (Интерлюд 1200) система не позволяет уйти за пределы дозволенного энчанта, поэтому вы можете просто закупить большое количество точек и оставить этот скрипт включенным на пару часов. Таким образом вы получите вещь максимального уровня заточки и сэкономите свои силы и нервы))  </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 11 46 ms
+LeftDown 1
+Delay 23 51 ms
+LeftUp 1
+Delay 111 222 ms</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

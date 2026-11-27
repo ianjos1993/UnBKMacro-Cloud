@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Примитивный макрос для автокаста инвиза локи с максимальной длительностью (примерно 36 секунд) очень помогает когда играете и в некоторых случаях надо отойти, либо просто устаёте нажимать скилл и следить за временем</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 30 ms
+KeyUp 31 1
+Delay 36 37 s
+GoWhile 1 999</Syntax>
+    </KeyDown>
+    <Software>Warframe</Software>
+  </DefaultMacro>
+</Root>

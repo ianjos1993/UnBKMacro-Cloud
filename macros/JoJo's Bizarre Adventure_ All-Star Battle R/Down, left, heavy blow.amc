@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Позволяет делать трудные, для некоторых (в том числе и меня), способности важные для мощных комбо. Если вы с противником поменялись сторонами, то порядок прожима способностей отреверсируется, учитывайте это!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 21 ms
+KeyDown 7 1
+Delay 21 ms
+KeyUp 22 1
+Delay 16 ms
+KeyDown 28 1
+Delay 21
+KeyUp 28 1
+Delay 21
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>JoJo's Bizarre Adventure: All-Star Battle R</Software>
+  </DefaultMacro>
+</Root>

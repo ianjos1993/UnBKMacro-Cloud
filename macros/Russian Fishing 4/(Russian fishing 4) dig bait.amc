@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>ставим основное действие на пробел для того чтобы наживка копалась и убералась в инвентарь на одну и туже кнопку, подходи к костру и наводимся на него, он будет сам разжигаться после того как потухнет, и готово. Приятного пользования </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+KeyDown 28 1
+Delay 64
+KeyUp 28 1
+Delay 64
+KeyDown 28 1
+Delay 64
+KeyUp 28 1
+Delay 64
+KeyUp 44 1
+Delay 1000 ms
+KeyDown 44 1
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>Russian Fishing 4 (русская рыбалка 4) копать наживку</Software>
+  </DefaultMacro>
+</Root>

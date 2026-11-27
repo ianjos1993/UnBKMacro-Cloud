@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Volt anti recoil 
+
+Resolution: 1920 x 1080
+Sensitivity: 1.9
+DPI: 900
+
+Bind to left mouse button, have fun.. 
+First time test it on training mode </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 266 ms
+Delay 32 ms
+MoveR 14 -19
+Delay 32 ms
+LeftUp 1
+Delay 32 ms</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

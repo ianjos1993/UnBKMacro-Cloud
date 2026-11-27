@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>анти ретейк стены на с тоесть ломятся в бокс вы зажимаете клавишу на которую поставили макрос и  стенку просто так не отберут ну кроме супер фич конечнго. </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1 ms
+Delay 1 ms
+KeyDown 6 1
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+Delay 1 ms
+KeyUp 6 1
+Delay 1 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

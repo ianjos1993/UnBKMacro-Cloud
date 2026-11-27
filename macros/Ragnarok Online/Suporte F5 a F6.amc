@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Para magia de suporte e repete em 300 segundos.
+exemplo de magia  Encantar Lâmina,Lâmina de Aura, Rapidez com Duas Mãos e Dedicação.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 62 1
+Delay 64 ms
+KeyUp 62 1
+Delay 64 ms
+KeyDown 63 1
+Delay 64 ms
+KeyUp 63 1
+Delay 64 ms
+KeyDown 64 1
+Delay 64 ms
+KeyUp 64 1
+Delay 64 ms
+KeyDown 65 1
+Delay 64 ms
+KeyUp 65 1
+Delay 64 ms
+KeyDown 66 1
+Delay 64 ms
+KeyUp 66 1
+Delay 300 s</Syntax>
+    </KeyDown>
+    <Software>Ragnarok</Software>
+  </DefaultMacro>
+</Root>

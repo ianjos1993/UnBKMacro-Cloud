@@ -1,0 +1,82 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Традиционный метод спама в чат для перекупства в СК
+Перед активацией необходимо заранее скопировать необходимый текст 
+Пример: 
+СКУПАЮ [Стандартные запчасти]26к[Стандартные инструменты]9к[Нестабильная аномальная батарея]32к
+[Вступайте в мой отряд]
+Если Вы имеете при себе хотябы по 1 штуке вышеперечисленного в инвентаре то эти предметы будут выделены. 
+Ссылка на вступление в отряд по умолчанию является рабочей. (Для тех кто не в курсе)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+KeyDown 224 1
+Delay 64
+KeyDown 25 1
+Delay 64
+KeyUp 25 1
+Delay 64
+KeyUp 224 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+KeyDown 224 1
+Delay 64
+KeyDown 25 1
+Delay 64
+KeyUp 25 1
+Delay 64
+KeyUp 224 1
+Delay 64
+KeyDown 56 1
+Delay 64
+KeyUp 56 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+KeyDown 224 1
+Delay 64
+KeyDown 25 1
+Delay 64
+KeyUp 25 1
+Delay 64
+KeyUp 224 1
+Delay 64
+KeyDown 56 1
+Delay 64
+KeyUp 56 1
+Delay 64
+KeyDown 56 1
+Delay 64
+KeyUp 56 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 30000 ms</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

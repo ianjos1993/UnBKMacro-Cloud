@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос cоздан для Автоматической-Прокачки Магии и маны в игре Roblox- Clover Online.
+Работает с любым Гримуаром.Желательно не ходить.Поставить курсор примерно в середину экрана и не двигать.
+ЧТО НУЖНО СДЕЛАТЬ:1. Скачать программу Keyran. 2.Скачать мой макрос. 3. запустить программу Keyran. 4.Запустить редактор макросов. 5.Нажать открыть файл. 6. И выйти с редактора. 7. Забиндить макрос. 8. Наслаждаться игрой.
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 64 ms
+KeyUp 21 1
+Delay 2500 ms
+KeyDown 23 1
+Delay 64 ms
+KeyUp 23 1
+Delay 2500 ms
+GoWhile 2 3
+KeyDown 6 1
+Delay 10000 ms
+KeyUp 6 1
+Delay 64 ms
+GoWhile 2 101</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

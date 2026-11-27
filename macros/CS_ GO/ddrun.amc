@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простейший скрипт на auto ddrun для серверов HNS в кс го, который не сбивается и работает стабильно в отличии других скриптов, он сделан на кручении колеса вверх, но если вы хотите поменять то вам нужно: 1убрать прокрутку мыши вверх, 2снизу с права нажать на колесо мыши вниз, что бы цикл совпадал с тем который был 1 действие прокрут второе действие ожидание 16мс. 3 цикл повторяется N число. 
+
+
+Пользуйтесь аккуратно, дабы не спалиться перед администрацией серверов!</Description>
+    <Comment>+7 дней?)</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>WheelUp 1
+Delay 16 ms
+GoWhile 1 9999</Syntax>
+    </KeyDown>
+    <Software>CS: GO</Software>
+  </DefaultMacro>
+</Root>

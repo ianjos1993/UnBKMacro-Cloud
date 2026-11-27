@@ -1,0 +1,61 @@
+<Root>
+  <DefaultMacro>
+    <Major>Sword combo</Major>
+    <Description>On default mouse + keyboard settings
+
+Must be on right side of opponent (character facing left)
+
+hits grounded down light then jumps into a side air.
+
+good for any health.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 109 ms
+LeftDown 1
+Delay 132 ms
+LeftUp 1
+Delay 114 ms
+KeyUp 22 1
+Delay 90 ms
+KeyDown 44 1
+Delay 49 ms
+KeyUp 44 1
+Delay 20 ms
+KeyDown 4 1
+Delay 3 ms
+KeyDown 44 1
+Delay 49 ms
+KeyUp 44 1
+Delay 8 ms
+LeftDown 1
+Delay 15 ms
+KeyDown 44 1
+Delay 49 ms
+KeyUp 44 1
+Delay 33 ms
+LeftUp 1
+Delay 61 ms
+LeftDown 1
+Delay 1 ms
+KeyDown 44 1
+Delay 49 ms
+KeyUp 44 1
+Delay 24 ms
+KeyDown 44 1
+Delay 11 ms
+LeftUp 1
+Delay 37 ms
+KeyUp 44 1
+Delay 10 ms
+KeyUp 4 1</Syntax>
+    </KeyDown>
+    <Software>Brawlhalla</Software>
+  </DefaultMacro>
+</Root>

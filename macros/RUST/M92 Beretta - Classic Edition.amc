@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>PRIVATE MACRO</Major>
+    <Description>DEADXMACRO.STORE
+FOV 90, Sensitivity 0.7, DPI 800
+хороший макрос на M92
+Особо не палится
+Приятной игры
+.</Description>
+    <Comment>DEADXMACRO.STORE</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>
+LeftDown 1
+Delay 10 ms
+MoveR 0 8
+LeftUp 2
+MoveR 0 0
+Delay 50 ms
+</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

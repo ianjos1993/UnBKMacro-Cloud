@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>для фермы картошки на хайпикселе идет слева направо и ломает картошку или нарост что вам нужно  все автоматически если с персональним компактором, плюс если в скайтилс поставить в шорткат что б на 0 писалось: /is будет вам ещё и авто риконект
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 3 s
+KeyDown 39 1
+LeftDown 1
+KeyDown 4 1
+Delay 33 s
+KeyDown 39 1
+KeyUp 4 1
+Delay 64
+KeyDown 7 1
+KeyDown 39 1
+Delay 33 s
+KeyUp 7 1
+KeyDown 39 1
+GoWhile 2 100000</Syntax>
+    </KeyDown>
+    <Software>minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Мой макрос от игры поинт бланк
+Вообще делался для L115A1 но я переделал и сделал для всех винтовок 
+Качайте на здоровье 
+1)ЛКМ по макросу
+2)Установить
+3)клавиши
+4)Макросим клавишу
+5)Применить макрос
+6)мой макрос
+7)в игру и тащим 
+ПОКАЖИ ВСЕМ КТО ТУТ СНАЙПЕР ПАХ ПАХ ПАХ =)))</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 114 ms
+LeftUp 1
+Delay 43 ms
+KeyDown 34 1
+Delay 23 ms
+KeyUp 34 1
+Delay 43 ms
+KeyDown 32 1
+Delay 20 ms
+KeyUp 32 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

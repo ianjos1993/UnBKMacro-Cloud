@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro, simulates the special attack  "Toxic Wreath" from Street Fighter character AKI, You can access to this move with just one button. The controls:
+
+W:: UP
+A:: LEFT
+D:: RIGHT
+S:: DOWN
+
+K:: HARD PUNCH</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 10 ms
+KeyDown 4 1
+Delay 15 ms
+KeyUp 22 1
+Delay 12 ms
+KeyUp 4 1
+KeyDown 14 1
+Delay 15 ms
+KeyUp 14 1</Syntax>
+    </KeyDown>
+    <Software>Street Fighter 6</Software>
+  </DefaultMacro>
+</Root>

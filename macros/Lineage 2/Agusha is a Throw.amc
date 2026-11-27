@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Даный макрос отлично подойдет для фарма с луком,у кого слабый буст,ставите F2 Сияющее прикосновение,
+F3 Сияющий сюрприз,на панели автоохоты ставите некст таргет,и вуаля ваша агуша отлично стоит на спотах на 2-3 уровня выше </Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 59 1
+Delay 32 ms
+KeyDown 60 1
+Delay 32 ms
+KeyUp 60 1
+Delay 32 ms
+KeyUp 59 1
+Delay 32 ms</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,118 @@
+<Root>
+  <DefaultMacro>
+    <Major>Law Combo 15</Major>
+    <Description>Макрос позволяет выполнять комбо с завершением HEAT за Лоу.
+Видео демонстрации работы макроса: https://youtu.be/_nFqMlIoctI 
+
+Маршалл Ло – это мастер боевых искусств, который не только сохранил свою легендарную скорость и силу, но и отточил их до совершенства. Годы тренировок сделали его удары молниеносными и смертоносными, а новая решимость позволила ему выйти на арену с непоколебимой уверенностью. Несмотря на прежние финансовые неудачи и попытки построить стабильную жизнь, Ло снова оказывается втянут в мир турниров. Его стиль боя, основанный на традиционном джиткундо, стал еще более разнообразным – он сочетает классические приемы с новыми, неожиданные комбинации заставляют противников терять бдительность. В Tekken 8 Ло – это не просто легендарный боец, а человек, который сражается не только за победу, но и за возможность изменить свою судьбу.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 10.03.2025
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ, обращайтесь в дискорд для этого.
+
+#lawtekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 23 ms
+KeyDown 77 1
+Delay 151 ms
+KeyDown 76 1
+Delay 116 ms
+KeyUp 77 1
+Delay 4 ms
+KeyUp 76 1
+Delay 225 ms
+KeyUp 4 1
+Delay 637 ms
+KeyDown 74 1
+Delay 279 ms
+KeyDown 76 1
+Delay 116 ms
+KeyUp 76 1
+Delay 92 ms
+KeyDown 76 1
+Delay 122 ms
+KeyUp 76 1
+Delay 80 ms
+KeyDown 76 1
+Delay 109 ms
+KeyUp 76 1
+Delay 80 ms
+KeyDown 76 1
+Delay 110 ms
+KeyUp 76 1
+Delay 80 ms
+KeyDown 76 1
+Delay 105 ms
+KeyUp 76 1
+Delay 98 ms
+KeyDown 76 1
+Delay 127 ms
+KeyUp 76 1
+Delay 92 ms
+KeyDown 76 1
+Delay 127 ms
+KeyUp 76 1
+Delay 86 ms
+KeyDown 76 1
+Delay 127 ms
+KeyUp 76 1
+Delay 69 ms
+KeyDown 76 1
+Delay 157 ms
+KeyUp 76 1
+Delay 91 ms
+KeyDown 76 1
+Delay 128 ms
+KeyUp 76 1
+Delay 97 ms
+KeyDown 76 1
+Delay 105 ms
+KeyUp 76 1
+Delay 92 ms
+KeyDown 76 1
+Delay 104 ms
+KeyUp 76 1
+Delay 91 ms
+KeyDown 76 1
+Delay 104 ms
+KeyUp 76 1
+Delay 81 ms
+KeyDown 76 1
+Delay 98 ms
+KeyUp 76 1
+Delay 64 ms
+KeyDown 76 1
+Delay 138 ms
+KeyUp 76 1
+Delay 167 ms
+KeyUp 74 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

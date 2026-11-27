@@ -1,0 +1,60 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Выполняется на обычных настройках без изменений. Работает без скачанных драйверов Keyran!
+1. Включаете Shift lock
+2. Встаёте на линию в пол ноги или чтобы пальцы ноги достовали до неё.
+3. Прожимаете кнопку макроса и ничего не трогаете, даже не поворачивайте мышку
+4. Радуетесь кручённой силовой подачей :)</Description>
+    <Comment>Макрос впрям очень хорош, создан мной 14 января. Если интересуют макросы есть отличный сайт https://keyran.net - Скачать бесплатные макросы. Ну и не только скачать, но и опубликовать!</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 80 ms
+Delay 491 ms
+KeyDown 29 1
+Delay 79 ms
+KeyUp 29 1
+Delay 368 ms
+KeyDown 25 1
+Delay 79 ms
+KeyUp 25 1
+Delay 716 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 35 ms
+KeyDown 6 1
+Delay 71 ms
+KeyUp 6 1
+Delay 744 ms
+KeyDown 22 1
+Delay 679 ms
+KeyDown 26 1
+Delay 56 ms
+KeyUp 22 1
+Delay 335 ms
+KeyDown 44 1
+Delay 0 ms
+KeyDown 22 1
+Delay 39 ms
+KeyUp 26 1
+Delay 64 ms
+KeyUp 44 1
+Delay 676 ms
+LeftDown 1
+Delay 19 ms
+KeyDown 26 1
+Delay 31 ms
+Delay 36 ms
+LeftUp 1
+Delay 51 ms
+Delay 8 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

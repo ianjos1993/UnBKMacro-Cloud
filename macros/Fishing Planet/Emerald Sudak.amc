@@ -1,0 +1,324 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автозакидывание и проводка на озере Эмеральд для ловли светлоперых судаков.
+
+Используются стили проводки:
+       1.  Твичинг
+       2.  Ступенчатая
+
+Для корректной работы использовать:
+       1.  Спиннинг
+       2.  Наживка на 7г.
+       3.  Флюрокарбоновая леска 0.3мм. 
+
+Способ использования:
+       1.  Заходим на озеро и включаем макрос
+       2.  При поклёве отключаем макрос и ведём рыбу сами
+       3.  При отсутствии поклёва запускаем макрос ещё раз. Так же можно поставить макрос на повторение.</Description>
+    <Comment>-</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>WheelDown 1
+Delay 64
+WheelDown 1
+Delay 64
+WheelDown 1
+Delay 64
+WheelDown 1
+Delay 64
+WheelUp 1
+Delay 64
+LeftDown 1
+Delay 1930 ms
+LeftUp 1
+Delay 20000 ms
+LeftDown 1
+Delay 168 ms
+RightDown 1
+Delay 314 ms
+RightUp 1
+Delay 454 ms
+RightDown 1
+Delay 413 ms
+RightUp 1
+Delay 448 ms
+RightDown 1
+Delay 455 ms
+RightUp 1
+Delay 490 ms
+RightDown 1
+Delay 398 ms
+RightUp 1
+Delay 413 ms
+RightDown 1
+Delay 440 ms
+RightUp 1
+Delay 587 ms
+RightDown 1
+Delay 434 ms
+RightUp 1
+Delay 573 ms
+RightDown 1
+Delay 406 ms
+RightUp 1
+Delay 629 ms
+RightDown 1
+Delay 294 ms
+RightUp 1
+Delay 475 ms
+LeftUp 1
+Delay 3955 ms
+LeftDown 1
+Delay 259 ms
+RightDown 1
+Delay 210 ms
+RightUp 1
+Delay 531 ms
+RightDown 1
+Delay 280 ms
+RightUp 1
+Delay 608 ms
+RightDown 1
+Delay 259 ms
+RightUp 1
+Delay 489 ms
+RightDown 1
+Delay 363 ms
+RightUp 1
+Delay 343 ms
+RightDown 1
+Delay 462 ms
+RightUp 1
+Delay 349 ms
+RightDown 1
+Delay 545 ms
+RightUp 1
+Delay 336 ms
+RightDown 1
+Delay 623 ms
+RightUp 1
+Delay 272 ms
+RightDown 1
+Delay 518 ms
+RightUp 1
+Delay 349 ms
+RightDown 1
+Delay 483 ms
+RightUp 1
+Delay 391 ms
+RightDown 1
+Delay 440 ms
+RightUp 1
+Delay 398 ms
+RightDown 1
+Delay 420 ms
+RightUp 1
+Delay 413 ms
+RightDown 1
+Delay 398 ms
+RightUp 1
+Delay 420 ms
+RightDown 1
+Delay 391 ms
+RightUp 1
+Delay 525 ms
+RightDown 1
+Delay 391 ms
+RightUp 1
+Delay 357 ms
+RightDown 1
+Delay 539 ms
+RightUp 1
+Delay 322 ms
+RightDown 1
+Delay 601 ms
+RightUp 1
+Delay 293 ms
+RightDown 1
+Delay 546 ms
+RightUp 1
+Delay 293 ms
+RightDown 1
+Delay 581 ms
+RightUp 1
+Delay 371 ms
+RightDown 1
+Delay 546 ms
+RightUp 1
+Delay 440 ms
+RightDown 1
+Delay 553 ms
+RightUp 1
+Delay 391 ms
+RightDown 1
+Delay 441 ms
+RightUp 1
+Delay 489 ms
+RightDown 1
+Delay 434 ms
+RightUp 1
+Delay 609 ms
+RightDown 1
+Delay 384 ms
+RightUp 1
+Delay 580 ms
+RightDown 1
+Delay 294 ms
+RightUp 1
+Delay 636 ms
+RightDown 1
+Delay 314 ms
+RightUp 1
+Delay 553 ms
+RightDown 1
+Delay 412 ms
+RightUp 1
+Delay 573 ms
+RightDown 1
+Delay 322 ms
+RightUp 1
+Delay 21 ms
+LeftUp 1
+//Заканчивает твичинг
+Delay 1495 ms
+WheelUp 1
+Delay 1032 ms
+LeftDown 1
+Delay 685 ms
+LeftUp 1
+Delay 468 ms
+LeftDown 1
+Delay 1113 ms
+LeftUp 1
+Delay 413 ms
+LeftDown 1
+Delay 841 ms
+LeftUp 1
+Delay 418 ms
+LeftDown 1
+Delay 693 ms
+LeftUp 1
+Delay 489 ms
+LeftDown 1
+Delay 615 ms
+LeftUp 1
+Delay 566 ms
+LeftDown 1
+Delay 483 ms
+LeftUp 1
+Delay 595 ms
+LeftDown 1
+Delay 812 ms
+LeftUp 1
+Delay 433 ms
+LeftDown 1
+Delay 651 ms
+LeftUp 1
+Delay 433 ms
+LeftDown 1
+Delay 1665 ms
+LeftUp 1
+Delay 336 ms
+LeftDown 1
+Delay 720 ms
+LeftUp 1
+Delay 349 ms
+LeftDown 1
+Delay 763 ms
+LeftUp 1
+Delay 560 ms
+LeftDown 1
+Delay 594 ms
+LeftUp 1
+Delay 525 ms
+LeftDown 1
+Delay 406 ms
+LeftUp 1
+Delay 461 ms
+LeftDown 1
+Delay 440 ms
+LeftUp 1
+Delay 462 ms
+LeftDown 1
+Delay 573 ms
+LeftUp 1
+Delay 335 ms
+LeftDown 1
+Delay 777 ms
+LeftUp 1
+Delay 287 ms
+LeftDown 1
+Delay 1245 ms
+LeftUp 1
+Delay 308 ms
+LeftDown 1
+Delay 643 ms
+LeftUp 1
+Delay 335 ms
+LeftDown 1
+Delay 595 ms
+LeftUp 1
+Delay 440 ms
+LeftDown 1
+Delay 664 ms
+LeftUp 1
+Delay 525 ms
+LeftDown 1
+Delay 777 ms
+LeftUp 1
+Delay 671 ms
+LeftDown 1
+Delay 209 ms
+LeftUp 1
+Delay 315 ms
+LeftDown 1
+Delay 468 ms
+LeftUp 1
+Delay 490 ms
+LeftDown 1
+Delay 601 ms
+LeftUp 1
+Delay 483 ms
+LeftDown 1
+Delay 385 ms
+LeftUp 1
+Delay 364 ms
+LeftDown 1
+Delay 329 ms
+LeftUp 1
+Delay 391 ms
+LeftDown 1
+Delay 384 ms
+LeftUp 1
+Delay 475 ms
+LeftDown 1
+Delay 371 ms
+LeftUp 1
+Delay 280 ms
+LeftDown 1
+Delay 384 ms
+LeftUp 1
+Delay 991 ms
+WheelUp 1
+Delay 80 ms
+WheelUp 1
+Delay 1132 ms
+LeftDown 1
+Delay 5600 ms
+LeftUp 1
+WheelDown 1
+Delay 64
+WheelDown 1
+Delay 64
+WheelDown 1
+Delay 2000 ms</Syntax>
+    </KeyDown>
+    <Software>Fishing Planet</Software>
+  </DefaultMacro>
+</Root>

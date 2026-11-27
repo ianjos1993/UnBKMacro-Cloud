@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>------------- Полезно в повседневе -------------
+
+Всегда зажаты Shift + W
+
+Полезно для начальных работ, все что вам остается делать - двигать мышкой, что очень удобно.
+
+Активация/Деактивация по назначенной клавише следовательно инструкциям на сайте.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 1 ms
+KeyDown 225 1
+Delay 100000 min
+KeyUp 225 1
+Delay 1 ms
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

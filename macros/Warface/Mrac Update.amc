@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Задача макроса - используется для осуществления уязвимости, которая позволит запустить игру в обход античита. Для этого необходимо украсть токен авторизации вашего аккаунта через программу Process Hacker, и вставить его в командную строку, не выполняя. Открыть игру и начать спам макросом оффлайн игроку в личные сообщения, дожидаемся зависания клиента, после чего не отключая макрос, переходим в командную строку и нажимаем Enter, происходит авторизация и открывается второй клиент Warface. После того, как авторизация и загрузка в лобби второго клиента прошла успешно, отключаем макрос и закрываем первый клиент. Тем самым, мы запустили игру в обход античита. </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 88 1
+Delay 0 ms
+KeyUp 88 1
+Delay 0 ms
+KeyDown 30 1
+Delay 0 ms
+KeyUp 30 1
+Delay 0 ms
+KeyDown 88 1
+Delay 0 ms
+KeyUp 88 1
+Delay 0 ms
+KeyDown 30 1
+Delay 0 ms
+KeyUp 30 1
+Delay 0 ms</Syntax>
+    </KeyDown>
+    <Software>Warface</Software>
+  </DefaultMacro>
+</Root>

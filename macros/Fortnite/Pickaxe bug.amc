@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос просто создаёт ощущение что вы летаете. Создавал для фана.  Работает только если слоты назначены на 1 -5! Если захотите чтобы вы мотались ещё быстрее или медленее измените задержки в редакторе</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 2
+KeyUp 30 1
+Delay 2
+KeyDown 31 1
+Delay 2
+KeyUp 31 1
+Delay 2
+KeyDown 32 1
+Delay 2
+KeyUp 32 1
+Delay 2
+KeyDown 33 1
+Delay 2
+KeyUp 33 1
+Delay 2
+KeyDown 34 1
+Delay 2
+KeyUp 34 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

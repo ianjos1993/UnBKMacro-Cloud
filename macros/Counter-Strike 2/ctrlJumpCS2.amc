@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макросс нужен для абуза кс механики на прыжок с контролом.
+Нужен он для быстрой смены позиции, стрельбы в прыжке. 
+А так же что бы забираться на пиксели.
+
+Данный макросс можно настраивать под себя и указывать быстроту данных действий
+
+Удачной игры!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 100 ms
+KeyDown 44 1
+Delay 128 ms
+KeyDown 224 1
+Delay 200 ms
+KeyUp 44 1
+Delay 55 ms
+KeyUp 224 1</Syntax>
+    </KeyDown>
+    <Software>Counter-Strike 2</Software>
+  </DefaultMacro>
+</Root>

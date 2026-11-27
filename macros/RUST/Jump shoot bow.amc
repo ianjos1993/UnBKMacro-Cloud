@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>Jump Shoot bow</Major>
+    <Description>this macro is very useful on fresh wipe server or erly game when you starting on the server. When you press the binded button your character would draw his bow, jump and shoot making you harder to hit. You must only aim!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 165 ms
+RightDown 1
+Delay 27 ms
+KeyUp 225 1
+Delay 3 ms
+KeyUp 68 1
+Delay 879 ms
+KeyDown 44 1
+Delay 227 ms
+KeyUp 44 1
+Delay 198 ms
+LeftDown 1
+Delay 133 ms
+LeftUp 1
+Delay 86 ms
+RightUp 1
+Delay 488 ms
+KeyDown 225 1
+Delay 19 ms
+KeyDown 68 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

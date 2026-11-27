@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>Danny</Major>
+    <Description>Anti Afk macro
+-------------------------------------------------------------------------------------------------------------
+This macro is so that the minecraft servers don't kick you for being afk
+-------------------------------------------------------------------------------------------------------------
+Bind a key with this macro and press it to scroll the mouse in your inventory
+and so the server intuits that you arent AFK, 
+when you want to stop the macro press the same key again.</Description>
+    <Comment>Thank you for download the macro :)</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>WheelUp 1
+Delay 1 s</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

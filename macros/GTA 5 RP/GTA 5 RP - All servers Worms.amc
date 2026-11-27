@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>                                                 Простой и отточенный автокликер для копки червей 
+               Делался в оконном режими разрешением 1914x1051 - Лопата должна находится в первом ряду - 5 слот
+                                                                    http://prntscr.com/s7g4yy
+                                                      Можете включить и он все сделает за вас.
+                                    После того как скачете не забудьте установить необходимые клавиши</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 12 1
+Delay 64
+KeyUp 12 1
+Delay 64
+MoveTo 731 420
+Delay 64
+LeftDown 1
+Delay 125 ms
+LeftUp 1
+Delay 64
+MoveTo 738 491
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 15 s</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

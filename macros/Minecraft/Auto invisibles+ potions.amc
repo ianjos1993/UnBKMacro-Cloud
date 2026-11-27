@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>данный макрос помогает вам пить зелье невидимости на 8 минут а также есть нажимать кнопку которая будет активировать вашу автозельеварку просто наведите курсор на край кнопки и запустите макрос!это необходимо для того чтобы вас не было видно при помощи команды /near   будет работать при разрешении монитора/экрана 1920:1080p
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 64 ms
+MoveR -30 0
+RightDown 1
+Delay 2 s
+RightUp 1
+Delay 64
+MoveR 30 0
+RightDown 1
+Delay 64
+RightUp 1
+Delay 40 s
+GoWhile 8 10
+Delay 8 min
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

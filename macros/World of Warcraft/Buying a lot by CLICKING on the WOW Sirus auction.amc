@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major>Mefest</Major>
+    <Description>Если вы находитесь в лоте, который можно выкупать только по штучно. При выполнении этого макроса, курсор автоматически наводиться на самый вернхний в списке лот, выделяет его, после переводиться на кнопку выкупить, после переводиться на кнопку подтвердить выкуп. При зажатии назначеной клавиши весь цикл повторяется пока не отпустите клавишу. Разрешение экрана и игры 1920х1080.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 530 442
+Delay 32 ms
+LeftDown 1
+Delay 32 ms
+LeftUp 1
+Delay 32 ms
+MoveTo 946 794
+Delay 32 ms
+LeftDown 1
+Delay 32 ms
+LeftUp 1
+Delay 32 ms
+MoveTo 879 248
+Delay 32 ms
+LeftDown 1
+Delay 32 ms
+LeftUp 1
+Delay 1100 ms</Syntax>
+    </KeyDown>
+    <Software>World of Warcraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Фастзум св-98, делает шот сразу после входа в прицел, попадает ровно в точку.
+Для удобства ставить прицел на удерживание, приятной игры, макросники!)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 130 ms
+LeftDown 1
+Delay 0 ms
+RightUp 1
+Delay 137 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Warface</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,53 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос авто фармит за фрукт "Paw"
+Всё что нужно сделать это найти безопасное место
+Так же не стоит забывать что 1 и 2 скилл это телепорты из за который вы можете выволиться за карту
+Что может данный макрос
+Нажимает на 1 скилл
+Нажимает на 2 скилл 
+Нажимает на 3 скилл
+Нажимает на 4 скилл
+нажимает на 5 скилл</Description>
+    <Comment>Данный макрос авто фармит за фрукт "Paw"
+Всё что нужно сделать это найти безопасное место
+Так же не стоит забывать что 1 и 2 скилл это телепорты из за который вы можете выволиться за карту
+Что может данный макрос
+Нажимает на 1 скилл
+Нажимает на 2 скилл 
+Нажимает на 3 скилл
+Нажимает на 4 скилл
+нажимает на 5 скилл</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 64
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>roblox</Software>
+  </DefaultMacro>
+</Root>

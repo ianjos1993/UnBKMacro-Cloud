@@ -1,0 +1,71 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простеньки макрос для игры "Хорошая пицца. Отличная пицца.". Макрос для раскладки ингредиетов :D Всё что вам нужно это довести до конца курсор в левую сторону, когда она остановится, то просто выбрать нужный ингредиент и нажать на кнопочку. Так довольно быстро делается пицца и расскладывается всё ровно) 
+Это вторая  часть макроса есть ещё и Left. Суть в том что часто бывают заказывают пиццы половинки. Этот макрос представляет правую часть расскладки. Чтоб была ещё и левая часть, то также скачайте её и установите на другую кнопку.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1083 510
+Delay 1
+LeftDown 1
+Delay 1
+LeftUp 1
+Delay 1
+MoveTo 1079 592
+Delay 1
+LeftDown 1
+Delay 1
+LeftUp 1
+Delay 1
+MoveTo 1147 550
+Delay 1
+LeftDown 1
+Delay 1
+LeftUp 1
+Delay 1
+MoveTo 1119 655
+Delay 1
+LeftDown 1
+Delay 1
+LeftUp 1
+Delay 1
+MoveTo 1190 619
+Delay 1
+LeftDown 1
+Delay 1
+LeftUp 1
+Delay 1
+MoveTo 1190 703
+Delay 1
+LeftDown 1
+Delay 1
+LeftUp 1
+Delay 1
+MoveTo 1079 726
+Delay 1
+LeftDown 1
+Delay 1
+LeftUp 1
+Delay 1
+MoveTo 1081 810
+Delay 1
+LeftDown 1
+Delay 1
+LeftUp 1
+Delay 1
+MoveTo 1151 771
+Delay 1
+LeftDown 1
+Delay 1
+LeftUp 1
+Delay 1</Syntax>
+    </KeyDown>
+    <Software>Хорошая пицца. Отличная пицца.</Software>
+  </DefaultMacro>
+</Root>

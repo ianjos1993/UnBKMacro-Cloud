@@ -1,0 +1,54 @@
+<Root>
+  <DefaultMacro>
+    <Major>Прокаст за никс ассасина</Major>
+    <Description>ИСПОЛЬЗОВАТЬ ТОЛЬКО ПОСЛЕ ТЫЧКИ С УЛЬТЫ!!!
+
+Необходимо быстрое применение скиллов и предметов.
+Для точного прокаста нужно держать курсор на цели.
+
+Данный макрос  нажмёт все кнопки за вас после удара с ульты.
+
+Бинды:
+Q - Impale
+W - Mana Burn
+C - Ethereal Blade
+V - Dagon </Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+Delay 54 ms
+KeyUp 6 1
+Delay 40 ms
+KeyDown 20 1
+Delay 88 ms
+KeyUp 20 1
+Delay 288 ms
+KeyDown 26 1
+Delay 95 ms
+KeyUp 26 1
+Delay 95 ms
+KeyDown 26 1
+Delay 64 ms
+KeyUp 26 1
+Delay 0 ms
+KeyDown 25 1
+Delay 95 ms
+KeyUp 25 1
+Delay 66 ms
+KeyDown 25 1
+Delay 94 ms
+KeyUp 25 1
+Delay 63 ms
+KeyDown 25 1
+Delay 64 ms
+KeyUp 25 1</Syntax>
+    </KeyDown>
+    <Software>dota 2</Software>
+  </DefaultMacro>
+</Root>

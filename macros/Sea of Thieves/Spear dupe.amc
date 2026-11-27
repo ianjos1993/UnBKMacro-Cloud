@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Dupes the spear. For this to work hold a spear and look straight ahead or down. Working as of 30.4.2024</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 3501 ms
+LeftUp 1
+Delay 247 ms
+KeyDown 224 1
+Delay 7 ms
+KeyDown 27 1
+Delay 87 ms
+KeyUp 224 1
+Delay 7 ms
+KeyUp 27 1
+Delay 200 ms
+KeyDown 44 1
+Delay 90 ms
+KeyUp 44 1
+Delay 435 ms
+KeyDown 9 1
+Delay 90 ms
+KeyUp 9 1
+Delay 500 ms</Syntax>
+    </KeyDown>
+    <Software>Sea of Thieves</Software>
+  </DefaultMacro>
+</Root>

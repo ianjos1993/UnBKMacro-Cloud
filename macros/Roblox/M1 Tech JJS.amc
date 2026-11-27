@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>m1 tech m1+m1+plus backdash m1 stack  "you have to do the follow up dash on your own also hold the s key so it actually works" This macro only does the m1 dash stack for you</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 0 ms
+KeyUp 7 1
+Delay 0 ms
+KeyDown 20 1
+Delay 0 ms
+LeftDown 1
+Delay 11 ms
+KeyUp 20 1
+Delay 0 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

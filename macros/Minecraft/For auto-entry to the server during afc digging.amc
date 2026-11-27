@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Для тех кто оставляет комп на ночь копать на скай блоке на vime world, разширение екрана 1600х900, этот макрос будет каждые 10 минут заходить на сервер вайма на случай если он рестартнеться или если вас кикнет</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 10 min
+MoveTo 767 98
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 724 344
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>VimeWorld</Software>
+  </DefaultMacro>
+</Root>

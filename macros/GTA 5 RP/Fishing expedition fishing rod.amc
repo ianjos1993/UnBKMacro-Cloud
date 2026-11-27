@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос автоматически закидываает удочку. Ловит на приманку.
+Удочку ложить в верхний левый угол инвентаря.
+Разрешение экрана 1920-1080.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+KeyDown 12 1
+Delay 64 ms
+KeyUp 12 1
+Delay 800 ms
+MoveTo 369 417
+Delay 120 ms
+LeftDown 1
+Delay 120 ms
+LeftUp 1
+Delay 400 ms
+MoveTo 359 521
+Delay 380 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

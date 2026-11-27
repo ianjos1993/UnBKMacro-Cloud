@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major>Полный деф свс</Major>
+    <Description>Выставляем Num1 сонг хантер
+                      Num2 сонг вардинг
+                      Num3 сонг винд
+Включаем макрос.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 89 1
+KeyUp 89 1
+Delay 1 s
+KeyDown 90 1
+KeyUp 90 1
+Delay 2 s
+KeyDown 91 1
+KeyUp 91 1</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

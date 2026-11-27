@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major>TSB back dash cancel 4 skill</Major>
+    <Description>Самый последний макрос для Back dash cancel в плейсе The Strongest Battlegrounds.
+Back dash cancel - отмена кувырка с помощью нажатия скилла, помогает в использовании когда ты поймал врага в комбо, но вторым кликом до него не достаешь.
+Данный макрос используется на 4 скилл, и не имеет ни одной оссобености. пошел назад, нажал бинд макроса - всё.</Description>
+    <Comment>Макрос предназначен на 4 скилл персонажей. для этого подходят все персонажи за исключением Wild Physic.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 5 ms
+KeyDown 33 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

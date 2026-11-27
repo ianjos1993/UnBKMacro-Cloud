@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для авто фарма на драконе. Если вам надоело фармить самому и выжидать кд скилов этот макрос специально для вас он автоматизирует использование способностей </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 4 s
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 4 s
+KeyDown 32 1
+Delay 8 s
+KeyUp 32 1
+Delay 64
+LeftDown 1
+Delay 8 s
+LeftUp 1
+Delay 4 s
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 4 s</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

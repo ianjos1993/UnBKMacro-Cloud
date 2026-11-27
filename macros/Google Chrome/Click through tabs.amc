@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для упрощённой работы, переключает тебя на вторую вкладку хрома, после ожидания переключает тебя на третью вкладку</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 50
+KeyDown 31 1
+Delay 20 s
+KeyDown 224 1
+Delay 50
+KeyDown 32 1</Syntax>
+    </KeyDown>
+    <Software>Google Chrome</Software>
+  </DefaultMacro>
+</Root>

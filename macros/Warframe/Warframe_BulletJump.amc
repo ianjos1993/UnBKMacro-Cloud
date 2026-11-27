@@ -1,0 +1,28 @@
+<Root>
+  <!-- by Britan -->
+  <DefaultMacro>
+    <Major></Major>
+    <Description>НАЗВАНИЕ: Warframe Bullet Jump. ОПИСАНИЕ: Комбо для быстрого перемещения: присесть (Ctrl) -&gt; прыжок (Space) -&gt; Shift (спринт). Самый быстрый способ перемещения в Warframe. РЕКОМЕНДУЕМАЯ КЛАВИША: Mouse 4 (Side). КАК ИСПОЛЬЗОВАТЬ: Привяжи макрос на кнопку Mouse 4. Зажми Mouse 4 - макрос сделает bullet jump (присесть + прыжок + спринт). Однократное выполнение. НАСТРОЙКА: Для двойного bullet jumpа - нажми кнопку дважды быстро. АВТОР: by Britan. ЗАПРЕЩЕНО копировать без указания автора.</Description>
+    <Comment>Привязка: Mouse 4 (Side). Режим: однократное. Инструкция: нажми - bullet jump (присесть + прыжок + спринт).</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 17 1
+Delay 50 ms
+KeyUp 17 1
+Delay 20 ms
+KeyDown 32 1
+Delay 50 ms
+KeyUp 32 1
+Delay 20 ms
+KeyDown 16 1
+Delay 200 ms
+KeyUp 16 1</Syntax>
+    </KeyDown>
+    <Software>Warframe</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>файл нужен для автоматического принятия трейдов за 0.03 голды с наклейками 2560x1440 на эмуляторе ловит скины не через передачу, а через рынок</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 2
+LeftUp 1
+Delay 20 ms
+GoWhile 1 2
+Delay 1
+Delay 2 s
+GoColor 1 2 72,46,39 47,53,70 1 1686 629 248 488 1 0
+GoColor 18 2 255,189,117 163,128,97 2 1805 617 8 15 1 0
+GoColor 18 2 255,189,117 163,128,97 2 1837 617 8 15 1 0
+GoColor 18 2 255,189,117 163,128,97 2 1861 617 8 15 1 0
+MoveTo 2229 629
+Delay 2
+LeftDown 1
+Delay 2
+LeftUp 1
+Delay 2
+MoveTo 963 498</Syntax>
+    </KeyDown>
+    <Software>Standoff 2</Software>
+  </DefaultMacro>
+</Root>

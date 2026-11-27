@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This Macro is used for the game on roblox a universal time, made for grinding out the achievement where upon finishing gives you the title "devil may cry" as well as 10mil ucoins, 500000 u shards, and 50 trait rerolls. I created this because im not sitting for 6 hours timing 10,000 instant judjement cuts.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 28 1
+Delay 60 ms
+KeyUp 28 1
+Delay 600 ms
+KeyDown 28 1
+Delay 300 ms
+KeyDown 28 1
+Delay 400 ms
+KeyDown 28 1
+Delay 3 s
+GoWhile 1 2000</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

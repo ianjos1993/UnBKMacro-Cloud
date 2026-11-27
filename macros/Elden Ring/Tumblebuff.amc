@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Позволяет накладывать баф пушки в левой руке на пушку в правой. Работает с любым оружием. Необходимо взять пушку слева в две руки и поставить в активный слот говорящую голову "Прекрасно". Работает при 60 fps. Нестабильно.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 2500 ms
+KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 64
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 355 ms
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+KeyDown 41 1
+Delay 64
+KeyUp 41 1</Syntax>
+    </KeyDown>
+    <Software>Elden Ring</Software>
+  </DefaultMacro>
+</Root>

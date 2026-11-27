@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Эффективный макрос для автоматического пропуска диалогов в игре Genshin Impact. После активации макрос будет автоматически пропускать и отвечать на диалоговые окна. Он совместим с разрешением экрана 1920x1080. Используя этот макрос, вы сможете значительно сэкономить время и улучшить игровой процесс, повысив его продуктивность.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1400 810
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyDown 44 1
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

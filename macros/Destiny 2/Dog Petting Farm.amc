@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major>Dog Petting Farm</Major>
+    <Description>Simple auto dog petter for anyone that wants to grind the "Good Boy Protocol", if you want to have a specific stat number ;) or make people laugh that you pet the robodog (insert insanely high number).
+
+How to use: Just look at the dog then press the macro key
+
+Potential issues: If you are having trouble you may need to change the mouse Y axis movement, I set it up for 800 dpi and 1.5 ingame so change if necessary.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 700 ms
+KeyUp 8 1
+Delay 700 ms
+KeyDown 8 1
+Delay 700 ms
+KeyUp 8 1
+Delay 700 ms
+KeyDown 8 1
+Delay 700 ms
+KeyUp 8 1
+Delay 700 ms
+KeyDown 8 1
+Delay 700 ms
+KeyUp 8 1
+Delay 700 ms
+KeyDown 8 1
+Delay 700 ms
+KeyUp 8 1
+Delay 1000 ms
+MoveR 0 2000
+Delay 100 ms</Syntax>
+    </KeyDown>
+    <Software>Destiny 2</Software>
+  </DefaultMacro>
+</Root>

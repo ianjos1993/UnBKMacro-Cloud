@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major>Conter Blocks</Major>
+    <Description>Почти бесконечно открывает кейсы в игре Conter Blox 
+Так как они бесплатные это бывает мутарно 
+из-за чего я сделал этот макрос (очень легко каждый сможет)
+Выберите любой кейс и включите макрос!
+может иногда глючить из-за вашего интернета или что-то не так с макросом</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 162 ms
+Delay 1418 ms
+MoveTo 195 328
+Delay 10 ms
+LeftDown 1
+Delay 2 ms
+LeftUp 1
+Delay 2000 ms
+Delay 64
+MoveTo 1241 722
+Delay 878 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+Delay 4066 ms
+GoWhile 1 86400000
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

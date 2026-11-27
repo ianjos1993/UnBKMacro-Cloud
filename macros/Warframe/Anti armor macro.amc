@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для снятия брони с вастилка или строфы, СКОЙКА ТОЛЬКО " РОВНО В ПОЛДЕНЬ " на другой не будет работать.Упрощает снятие брони у бронированых целях.
+Проверьте стоит ли у вас мод  " Крушащий удар "</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+KeyUp 8 1
+KeyDown 8 1
+KeyUp 8 1
+Delay 64 ms
+KeyDown 26 1
+Delay 64 ms
+KeyDown 8 1
+Delay 70 ms</Syntax>
+    </KeyDown>
+    <Software>Warframe</Software>
+  </DefaultMacro>
+</Root>

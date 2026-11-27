@@ -1,0 +1,254 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Плавный макрос на MP5A4
+1. Чувствительность - 0.6 - 0.8
+2. На ближние  (примерно 10-15м ) советую юзать 0.6
+3. На дальние (примерно 30м ) 0.82
+4. FOV - любой
+
+Демонстрация плавности макроса : https://www.youtube.com/watch?v=RmHWBOVVXZs&amp;feature=youtu.be
+
+ - Как установить макрос c расширением .amc - https://youtu.be/r0xms7OQLto
+- Режимы работы макроса - https://youtu.be/Cvc3JBgHpNw
+- Инструкция к программе - https://wiki.botmek.ru/
+- Техническая поддержка по макросам в игре RUST, модератор Codename - https://botmek.ru/forum/profile/4868-codename/</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 23 ms
+MoveR 0 5
+Delay 24 ms
+MoveR 0 5
+Delay 24 ms
+MoveR 0 4
+Delay 24 ms
+MoveR 0 4
+Delay 24 ms
+MoveR 0 5
+Delay 24 ms
+MoveR 0 5
+Delay 24 ms
+MoveR 0 4
+Delay 24 ms
+MoveR 0 4
+Delay 24 ms
+MoveR 1 4
+Delay 24 ms
+MoveR 1 4
+Delay 24 ms
+MoveR 1 5
+Delay 24 ms
+MoveR 3 5
+Delay 24 ms
+MoveR 4 5
+Delay 24 ms
+MoveR 4 4
+Delay 24 ms
+MoveR 4 4
+Delay 24 ms
+MoveR 3 4
+Delay 24 ms
+MoveR 4 4
+Delay 24 ms
+MoveR 4 3
+Delay 24 ms
+MoveR 4 3
+Delay 24 ms
+MoveR 4 4
+Delay 24 ms
+MoveR 4 3
+Delay 24 ms
+MoveR 4 3
+Delay 24 ms
+MoveR 3 3
+Delay 24 ms
+MoveR 3 3
+Delay 24 ms
+MoveR 3 3
+Delay 24 ms
+MoveR 2 2
+Delay 24 ms
+MoveR 2 2
+Delay 24 ms
+MoveR -1 2
+Delay 24 ms
+MoveR -1 2
+Delay 24 ms
+MoveR -2 1
+Delay 24 ms
+MoveR -2 1
+Delay 24 ms
+MoveR -3 2
+Delay 24 ms
+MoveR -3 1
+Delay 24 ms
+MoveR -3 1
+Delay 24 ms
+MoveR -2 1
+Delay 24 ms
+MoveR -3 1
+Delay 24 ms
+MoveR -3 1
+Delay 24 ms
+MoveR -3 2
+Delay 24 ms
+MoveR -2 2
+Delay 24 ms
+MoveR -2 2
+Delay 24 ms
+MoveR -1 2
+Delay 24 ms
+MoveR -1 1
+Delay 24 ms
+MoveR -1 1
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 2 1
+Delay 24 ms
+MoveR 2 1
+Delay 24 ms
+MoveR 2 1
+Delay 24 ms
+MoveR 2 1
+Delay 24 ms
+MoveR 2 0
+Delay 24 ms
+MoveR 2 1
+Delay 24 ms
+MoveR 3 0
+Delay 24 ms
+MoveR 3 1
+Delay 24 ms
+MoveR 3 0
+Delay 24 ms
+MoveR 3 1
+Delay 24 ms
+MoveR 2 0
+Delay 24 ms
+MoveR 2 1
+Delay 24 ms
+MoveR 2 0
+Delay 24 ms
+MoveR 2 0
+Delay 24 ms
+MoveR 2 0
+Delay 24 ms
+MoveR 2 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 23 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

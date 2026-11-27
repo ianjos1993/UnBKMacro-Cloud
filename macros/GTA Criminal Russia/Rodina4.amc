@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макросы для ловли репорты админам!
+ Для активации нажмите F1 или зажмите
+Макрос создан для того чтобы было легче ловить репорты, если вы играете на крупных серверах. Также подойдет в простой аризоне</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 58 1
+Delay 86400000 ms
+KeyUp 58 1
+Delay 86400000 ms
+KeyDown 58 1
+Delay 86400000 ms
+KeyUp 58 1
+Delay 86400000 ms</Syntax>
+    </KeyDown>
+    <Software>GTA: Criminal Russia (CRMP)</Software>
+  </DefaultMacro>
+</Root>

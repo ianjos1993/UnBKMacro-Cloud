@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>---------------Полезно для повседнева---------------
+
+Очень быстро нажимается стрелочка. 
+
+Полезно для быстрого перемещения по карте на мототранспорте.
+
+Активация/Деактивация по назначенной клавише cледовательно инструкциям на сайте.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 82 1
+Delay 40 ms
+KeyUp 82 1
+Delay 40 ms</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

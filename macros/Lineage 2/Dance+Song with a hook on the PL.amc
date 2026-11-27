@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для устройства с двумя окнами БД и СВС
+На БД Ф12 ставим игровой макрос с нужными ДС и с зацепом на ПЛ или другого месбера, так же делаем на СВС. 
+Макрос нажимает Ф12 на первом окне, затем переходит на второе окно, так же нажимает Ф12 и возвращается на первое окно.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 69 1
+Delay 64
+KeyUp 69 1
+Delay 64
+KeyDown 226 1
+Delay 64
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+KeyUp 226 1
+Delay 64
+KeyDown 69 1
+Delay 64
+KeyUp 69 1
+Delay 64
+KeyDown 226 1
+Delay 64
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+KeyUp 226 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

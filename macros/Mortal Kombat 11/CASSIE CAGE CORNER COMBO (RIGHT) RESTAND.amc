@@ -1,0 +1,83 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Угловое комбо. Особенность, что мы не даем упасть оппоненту (рестендим), что позволяет ещё раз использовать комбу, либо разнообразить захватом.
+
+Урон:273
+
+Пресет:
+-BLB-118: Энергетический взрыв
+-Сияющая нога в полете
+
+
+Управление:
+1-J
+2-K
+3-L
+4-:
+Захват - U
+AMP - SHIFT
+WASD (Вверх, влево, вниз, вправо)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//Стартер
+KeyDown 15 1
+Delay 64
+KeyUp 15 1
+Delay 64
+KeyDown 51 1
+Delay 64
+KeyUp 51 1
+Delay 800 ms
+//Рука
+KeyDown 13 1
+Delay 64
+KeyUp 13 1
+Delay 350 ms
+//Рука
+KeyDown 13 1
+Delay 64
+KeyUp 13 1
+Delay 345 ms
+//Рука
+KeyDown 13 1
+Delay 64
+KeyUp 13 1
+Delay 345 ms
+//Рука
+KeyDown 13 1
+Delay 64
+KeyUp 13 1
+Delay 345 ms
+//Комбо
+KeyDown 15 1
+Delay 64
+KeyUp 15 1
+Delay 64
+KeyDown 51 1
+Delay 64
+KeyUp 51 1
+Delay 64
+//Яйки
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 15 1
+Delay 64
+KeyUp 15 1
+Delay 300 ms</Syntax>
+    </KeyDown>
+    <Software>Mortal Kombat 11</Software>
+  </DefaultMacro>
+</Root>

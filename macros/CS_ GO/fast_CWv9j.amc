@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Скрипт предназначен для снайперов, Фаст зум+ Основное оружие.
+Скрипт очень простой, не требует каких либо навыков.
+Лучше всего установить этот скрипт на сред. кнопку мыши.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 64 ms
+KeyUp 30 1
+Delay 64 ms
+RightDown 1
+RightUp 1
+LeftDown 1
+LeftUp 1
+KeyDown 32 1
+Delay 2 ms
+KeyUp 32 1
+Delay 2 ms
+KeyDown 30 1
+Delay 2 ms
+KeyUp 30 1
+Delay 2 ms</Syntax>
+    </KeyDown>
+    <Software>CSGO</Software>
+  </DefaultMacro>
+</Root>

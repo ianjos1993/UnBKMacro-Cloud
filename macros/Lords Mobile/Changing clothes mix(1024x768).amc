@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Быстро меняет ваш сет , который настроен у вас в выборе сета первый сверху по списку
+
+Работает  в полноэкранном режиме с рарешением 1024х768
+
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 50 77
+LeftDown 1
+LeftUp 1
+Delay 150 ms
+MoveTo 798 466
+LeftDown 1
+LeftUp 1
+Delay 160 ms
+MoveTo 808 247
+LeftDown 1
+LeftUp 1
+Delay 900 ms
+MoveTo 987 35
+LeftDown 1
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Lords Mobile</Software>
+  </DefaultMacro>
+</Root>

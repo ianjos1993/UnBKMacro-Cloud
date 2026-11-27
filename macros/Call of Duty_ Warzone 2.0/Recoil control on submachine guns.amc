@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Помогает контролировать отдачу на ПП, в игре Call of Duty: Warzone DMZ
+Нерекомендуется устанавливать на ЛКМ, лучше всего установить на 4-ю или 5-ю кнопку мыши
+Рекомендованое разрешение: 1920x1080
+Чувствительность мыши: 13
+DPI: 800</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 40 ms
+MoveR 0 4
+Delay 40 ms
+MoveR 0 4
+Delay 40 ms
+MoveR 0 3
+Delay 40 ms</Syntax>
+    </KeyDown>
+    <Software>Call of Duty: Warzone 2.0</Software>
+  </DefaultMacro>
+</Root>

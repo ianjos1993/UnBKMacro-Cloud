@@ -1,0 +1,91 @@
+<Root>
+  <DefaultMacro>
+    <Major>Fizlik</Major>
+    <Description>Ротация для новичков, да и вообще удобно мобчиков бить
+1) спаматака - она прожимается 3 раза за ротацию
+остальные ставьте как вам удобно 
+в целом прожатие идет в таком порядке:
+5 - 4 - 1 -1 - 1 - 2- 3 - R и в завершение силовая атака для регена
+легкие аватки между кнопочками скрипт жмякает сам.
+у меня для удобства скрипт стоит на боковой клавише мышки, очень удобно и разгружает левую руку,
+</Description>
+    <Comment>всем добра ^^</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 411 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 411 ms
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 411 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 411 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 411 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 411 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 411 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 411 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 411 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 411 ms
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 411 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 411 ms
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 411 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 411 ms
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 411 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 411 ms
+LeftDown 1
+Delay 2010 ms
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>The Elder Scrolls Online (TESO)</Software>
+  </DefaultMacro>
+</Root>

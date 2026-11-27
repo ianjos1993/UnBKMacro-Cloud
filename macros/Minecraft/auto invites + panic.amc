@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>данный макрос помогает вам пить зелье невидимости на 8 минут на сервере HolyWoeld lite это необходимо для того чтобы вас не было видно при помощи команды /near   будет работать при разрешении монитора/экрана 1920:1080p также при получении урона складывает меч лежащий в 1 слоте инвентаря в сундук стоящей справа от игрока</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 64
+RightDown 1
+Delay 2 s
+RightUp 1
+GoColor 9 1 45,10,0 255,255,255 0 1920 1080 1 1 1 0
+Delay 15 s
+GoWhile 5 31
+Goto 1
+MoveR 98 71
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 1107 429
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 64
+MoveR -98 -71
+Delay 64
+Goto 5</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

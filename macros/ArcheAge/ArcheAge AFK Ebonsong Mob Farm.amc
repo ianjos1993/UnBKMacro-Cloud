@@ -1,0 +1,60 @@
+<Root>
+  <DefaultMacro>
+    <Major>ArcheAge AFK Ebonsong Mob Farm</Major>
+    <Description>An AFK Macro for farming mobs on ArcheAge as an Ebonsong. 
+
+Macro is tested and working perfectly in ArcheAge Legacy and ArcheAge Unchained. 
+
+Instructions: 
+
+On keybind 1: Endless Arrows 
+On keybind 2: Health potion, pref. rank 6+ 
+Optional, can add in a third keybind 3: Mana potion, pref. rank 6+ 
+
+Recommended equipment: 
+
+Minimum DPS of 1200 Ranged Attack for Aegis, WHM, Exeloch 
+Minimum DPS of 1600 Ranged Attack for EHM
+
+Macro consumes roughly 120 health potions per hour of use, assuming potions are rank 6+ and on a 30 second cooldown. 
+
+Macro consumes roughly 120 mana potions per hour of use, assuming potions are rank 6+ and on a 30 second cooldown. (If using a mana potion keybind) 
+
+Average return on the macro as tested in WHM is roughly 1,800 gold per hour of use. 
+
+It is recommended that the macro be checked every hour or every two hours, I routinely use it without issue. </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//Converted macro file 06 October 2021 20:37:48
+KeyDown 30 1
+KeyUp 30 1
+KeyDown 43 1
+KeyUp 43 1
+KeyDown 31 1
+KeyUp 31 1
+KeyDown 7 1
+KeyUp 7 1
+KeyDown 7 1
+KeyUp 7 1
+KeyDown 7 1
+KeyUp 7 1
+KeyDown 7 1
+KeyUp 7 1
+KeyDown 7 1
+KeyUp 7 1
+KeyDown 7 1
+KeyUp 7 1
+KeyDown 9 1
+KeyUp 9 1
+KeyDown 9 1
+KeyUp 9 1</Syntax>
+    </KeyDown>
+    <Software>Archeage</Software>
+  </DefaultMacro>
+</Root>

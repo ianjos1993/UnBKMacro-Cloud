@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос облегчает прокачку фитнеса на проекте Малиновка РП. Вам достаточно подойти ктренажёру и запустить макрос. Во время действия нельзя нажимать никакие кнопки и водить мышкой. Подходит только для разрешения 1920x1080. Удачи и всего хорошего!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы | Лучшая программа для создания и использования макросов</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 18 ms
+KeyUp 44 1
+Delay 17 ms
+GoColor 9 0 255,255,255 255,255,255 1 1073 966
+KeyDown 26 1
+Delay 18 ms
+KeyUp 26 1
+Delay 17 ms
+GoColor 14 0 255,255,255 255,255,255 1 1132 969
+KeyDown 4 1
+Delay 18 ms
+KeyUp 4 1
+Delay 17 ms
+GoColor 19 0 255,255,255 255,255,255 1 1198 969
+KeyDown 22 1
+Delay 18 ms
+KeyUp 22 1
+Delay 17 ms
+GoColor 24 0 255,255,255 255,255,255 1 1261 968
+KeyDown 7 1
+Delay 18 ms
+KeyUp 7 1
+Delay 17 ms</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

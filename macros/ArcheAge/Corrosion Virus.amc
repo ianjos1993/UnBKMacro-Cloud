@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>F6- Прицельная стрельба (преследование)
+1 - Смертоносный яд (скрытность)
+2 - Корозийный выстрел (Стрельба) 
+F3  - Вирусная граната
+
+Снова. Яд + Корозия = Обезоружение
+Корозия + Инфекция на 50% больше урона
+
+F панель у меня лично это третья. Но можно заменить на панель Шифт1 и Шифт2 и прочее. Если не знаете как напишите мне по почте. Расскажу как выставить горячие клаивши. 
+
+Сборка для Трапера 
+Преследование
+скрытность
+Стрельба</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 63 1
+Delay 63 ms
+KeyUp 63 1
+Delay 100 ms
+KeyDown 30 1
+Delay 100 ms
+KeyUp 30 1
+Delay 150 ms
+KeyDown 31 1
+Delay 143 ms
+KeyUp 31 1
+Delay 1000 ms
+KeyDown 60 1
+Delay 152 ms
+KeyUp 60 1</Syntax>
+    </KeyDown>
+    <Software>Archeage</Software>
+  </DefaultMacro>
+</Root>

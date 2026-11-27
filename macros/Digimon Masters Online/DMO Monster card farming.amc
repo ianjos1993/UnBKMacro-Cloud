@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major>iV3Xz</Major>
+    <Description>Good evening, macroers! Today I bring you the perfect macro for farming Monster cards quickly.
+
+First, a few things you will need:
+1) Magnetic card ID so you won't have to pick up everything by yourself
+2) A strong digi with an AOE skill (F3). I recommend any X digi, but Magnamon can work too. If you don't have a strong digi that can insta kill every digi with F3, you will have to twich the macro so that it makes a loop on F3 in order to kill every digi
+3) Turn on the option to summon 10 cards on one go. IF you don't have it, change the macro so that it makes 100 loops on the first loop (instead of 10)
+4) Your screen resolution should be full screen on DMO and 1920 x 1080 or 1680 x 1050 on your screen
+
+Now, regarding the macro:
+1) first test the macro to see where the mouse is going to land and make sure you have your MC on that spot
+2) Once you finished summoning the monsters, you will have a 10 seconds window to move your digi around so every digi you summoned is following him and in range of his F3 attack.
+3) enjoy summoning, killing, and recollecting every drop in under 3 minutes!
+
+Good luck with your drops!</Description>
+    <Comment>https://botmek.com - Free macros download</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1118 262
+Delay 64
+RightDown 1
+Delay 1 s
+RightUp 1
+Delay 500 ms
+GoWhile 3 10
+Delay 10 s
+KeyDown 43 1
+Delay 200
+KeyUp 43 1
+Delay 200
+KeyDown 60 1
+Delay 64
+KeyUp 60 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Digimon Masters Online</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,53 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Авторесет для mu online на серверах где после ресета остаешься на месте. для этого нужно привязать окно к игре и просто запустить макрос. Он будет вводить ресет в чате без вашего участие даже при свернутом режиме! удачи!</Description>
+    <Comment>Приятного пользования</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 2 s
+KeyDown 226 1
+KeyDown 43 1
+KeyUp 43 1
+KeyUp 226 1
+Delay 64
+Delay 64
+KeyDown 88 1
+KeyUp 88 1
+KeyDown 84 1
+Delay 64
+KeyUp 84 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>MU Online</Software>
+  </DefaultMacro>
+</Root>

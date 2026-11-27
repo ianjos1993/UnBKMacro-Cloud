@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всем привет , незнаю выложился ли мой баг урон , но это 2 немного отредачил.
+1 - меч ( от 50 урона для хорошего урона)
+9- меч (45-50 урона но что-б был не похож на прошлый .)
+Удачных комб а так всё , всем удачи пользуйтесь) </Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+LeftDown 1
+Delay 7 ms
+LeftUp 1
+Delay 3 ms
+LeftDown 1
+Delay 8 ms
+LeftUp 1
+Delay 8 ms
+LeftDown 1
+Delay 8 ms
+LeftUp 1
+Delay 5 ms
+KeyDown 38 1
+KeyUp 38 1
+LeftDown 1
+Delay 13 ms
+LeftUp 1
+Delay 8 ms
+LeftDown 1
+Delay 4 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

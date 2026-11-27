@@ -1,0 +1,85 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Скрипт для AFK фарма 4 контрабанд на любом сервере GTA 5 RP. 
+ Разрешение 1920х1080
+После бинда макроса сделаете следующие действия;
+1.Очистить инвентарь, чтобы могло поместиться 4 контрабанды.
+2.Подойти ровно к торговцу.
+3.Нажать клавишу активации скрипта.
+4.Ждем 17 минут и у вас 4 контры
+
+ Пользуйтесь таким афк зарабатком
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+KeyUp 8 1
+Delay 500 ms
+MoveTo 805 950
+LeftDown 1
+Delay 240 ms
+LeftUp 1
+KeyDown 22 1
+Delay  1000 ms
+KeyUp 22 1
+Delay 1000 ms
+KeyDown 26 1
+Delay  1000 ms
+KeyUp 26 1
+Delay 250000 ms
+KeyDown 8 1
+KeyUp 8 1
+Delay 500 ms
+MoveTo 805 950
+LeftDown 1
+Delay 240 ms
+LeftUp 1
+KeyDown 22 1
+Delay  1000 ms
+KeyUp 22 1
+Delay 1000 ms
+KeyDown 26 1
+Delay  1000 ms
+KeyUp 26 1
+Delay 250000 ms
+KeyDown 8 1
+KeyUp 8 1
+Delay 500 ms
+MoveTo 805 950
+LeftDown 1
+Delay 240 ms
+LeftUp 1
+KeyDown 22 1
+Delay  1000 ms
+KeyUp 22 1
+Delay 1000 ms
+KeyDown 26 1
+Delay  1000 ms
+KeyUp 26 1
+Delay 250000 ms
+KeyDown 8 1
+KeyUp 8 1
+Delay 500 ms
+MoveTo 805 950
+LeftDown 1
+Delay 240 ms
+LeftUp 1
+KeyDown 22 1
+Delay  1000 ms
+KeyUp 22 1
+Delay 1000 ms
+KeyDown 26 1
+Delay  1000 ms
+KeyUp 26 1
+Delay 250000 ms</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

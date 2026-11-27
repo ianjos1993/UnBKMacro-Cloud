@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>Morphling   One Shot Kiill </Major>
+    <Description>Just one click use Form eterblade and Stun.
+
+Config QWER
+Eterblade 1
+
+Quick Cast Enabled required
+
+
+Atila.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Dota 2 </Software>
+  </DefaultMacro>
+</Root>

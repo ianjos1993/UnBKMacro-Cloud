@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major>macro semi auto pistrol</Major>
+    <Description>this macro is perfect for semi auto pistol with different dpi (press to start release to stop)
+sens 0.4 0.5
+dpi 1500
+1920 x 1080
+fov 90
+
+try it and enjoy!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 20 ms
+MoveR 0 12
+Delay 20 ms
+MoveR 0 13
+Delay 20 ms
+MoveR 0 12
+Delay 20 ms
+MoveR 0 13
+Delay 20 ms
+MoveR 0 14
+Delay 20 ms
+MoveR 0 13
+Delay 20 ms
+LeftUp 1
+Delay 40 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

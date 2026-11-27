@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на заряд шилки
+
+.Выставляем на 2ю панель в ячейки с 1 по 4 такие скилы :
+
+1.баф чтобы который заряжает шилку
+2.макрос с таргетом на вашего пета
+3.автоатака
+4.заюз шилки
+
+Запускаем, бафаем)
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 5800 ms
+KeyDown 30 1
+Delay 89 ms
+KeyUp 30 1
+Delay 2568 ms
+KeyDown 31 1
+Delay 2527 ms
+KeyUp 31 1
+Delay 778 ms
+KeyDown 224 1
+Delay 1135 ms
+KeyDown 32 1
+Delay 4732 ms
+KeyUp 32 1
+Delay 12 ms
+KeyUp 224 1
+Delay 2945 ms
+KeyDown 33 1
+Delay 147 ms
+KeyUp 33 1</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

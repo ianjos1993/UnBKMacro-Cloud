@@ -1,0 +1,179 @@
+<Root>
+  <DefaultMacro>
+    <Major>Lee Chaolan combo</Major>
+    <Description>Макрос позволяет выполнять combo за Lee Chaolan.
+Видео демонстрации работы макроса: https://youtu.be/G3cfYP6bHPU
+
+Ли Чаолан — персонаж серии Tekken. Он был представлен в оригинальном Tekken и появлялся в каждой последующей игре, за исключением Tekken 3. Он также иногда появлялся под своим альтер-эго по имени Вайолет, которое появлялось как играбельное в Tekken 4 и Tekken Tag Tournament 2. Ли — основатель и генеральный директор робототехнической корпорации Violet Systems. Китайский сирота, юный Ли был замечен, а затем усыновлен Хейхачи Мишимой, который воспитал его как соперника юному Казуи Мишиме в додзе Хейхачи. Ли - один из самых популярных персонажей сериала благодаря своему манипулятивному стилю игры, самодовольному характеру, а также фирменным знакам «большой палец вверх» и крылатой фразе «отлично».
+
+Тестирование макроса проводились на последнем патче игры на 20.09.2023 (5.01 патч)
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#leechaolantekken7 #tekken7 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 8 ms
+KeyDown 26 1
+Delay 47 ms
+KeyDown 77 1
+Delay 143 ms
+KeyUp 77 1
+Delay 72 ms
+KeyUp 26 1
+Delay 39 ms
+KeyUp 7 1
+Delay 376 ms
+KeyDown 77 1
+Delay 71 ms
+KeyUp 77 1
+Delay 7 ms
+KeyDown 26 1
+Delay 88 ms
+KeyDown 76 1
+Delay 71 ms
+KeyUp 76 1
+Delay 80 ms
+KeyDown 76 1
+Delay 87 ms
+KeyUp 76 1
+Delay 40 ms
+KeyDown 76 1
+Delay 80 ms
+KeyUp 26 1
+Delay 15 ms
+KeyUp 76 1
+Delay 47 ms
+KeyDown 4 1
+Delay 64 ms
+KeyDown 74 1
+Delay 87 ms
+KeyUp 74 1
+Delay 71 ms
+KeyDown 74 1
+Delay 72 ms
+KeyUp 74 1
+Delay 79 ms
+KeyDown 74 1
+Delay 64 ms
+KeyUp 74 1
+Delay 63 ms
+KeyDown 74 1
+Delay 87 ms
+KeyDown 7 1
+Delay 16 ms
+KeyUp 74 1
+Delay 7 ms
+KeyUp 4 1
+Delay 63 ms
+KeyUp 7 1
+Delay 56 ms
+KeyDown 7 1
+Delay 192 ms
+KeyUp 7 1
+Delay 159 ms
+KeyDown 4 1
+Delay 56 ms
+KeyDown 7 1
+Delay 39 ms
+KeyUp 4 1
+Delay 32 ms
+KeyDown 74 1
+Delay 127 ms
+KeyUp 74 1
+Delay 7 ms
+KeyDown 77 1
+Delay 56 ms
+KeyUp 77 1
+Delay 48 ms
+KeyDown 77 1
+Delay 87 ms
+KeyUp 77 1
+Delay 71 ms
+KeyUp 7 1
+Delay 7 ms
+KeyDown 77 1
+Delay 72 ms
+KeyUp 77 1
+Delay 55 ms
+KeyDown 7 1
+Delay 88 ms
+KeyUp 7 1
+Delay 95 ms
+KeyDown 7 1
+Delay 72 ms
+KeyUp 7 1
+Delay 95 ms
+KeyDown 7 1
+Delay 56 ms
+KeyUp 7 1
+Delay 112 ms
+KeyDown 7 1
+Delay 55 ms
+KeyUp 7 1
+Delay 87 ms
+KeyDown 7 1
+Delay 56 ms
+KeyUp 7 1
+Delay 24 ms
+KeyDown 7 1
+Delay 247 ms
+KeyDown 4 1
+Delay 32 ms
+KeyUp 7 1
+Delay 8 ms
+KeyDown 74 1
+Delay 87 ms
+KeyUp 74 1
+Delay 15 ms
+KeyDown 7 1
+Delay 24 ms
+KeyUp 4 1
+Delay 80 ms
+KeyUp 7 1
+Delay 39 ms
+KeyDown 7 1
+Delay 87 ms
+KeyUp 7 1
+Delay 40 ms
+KeyDown 7 1
+Delay 199 ms
+KeyDown 74 1
+Delay 80 ms
+KeyDown 73 1
+Delay 56 ms
+KeyUp 74 1
+Delay 47 ms
+KeyUp 73 1
+Delay 47 ms
+KeyDown 73 1
+Delay 87 ms
+KeyUp 73 1
+Delay 31 ms
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 7</Software>
+  </DefaultMacro>
+</Root>

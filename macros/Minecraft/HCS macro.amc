@@ -1,0 +1,55 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Здраствуйте уважаемые макросеры, хочу предоставить вашему вниманию мой новый макрос для HCS, этот макрос подойдет для жимки, и для ямы, главное свайпайте с 9 слота.
+1.Скачиваем файл
+2.Запускаем программу BotMek
+3.Открываем вкладку "А4tech"
+4.В лемвом углу нажимаете добавить файл, и проводите путь куда вы сохранили макрос.
+5.Затем нажимаете ок
+6.Открываете вкладку "Клавиши" находите любую подходящую для вас бинд клавишу, и нажимаете присвоить макрос AMC.
+7.Все можете наслаждаться игрой и всех тащить)
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+LeftDown 1
+Delay 11 ms
+LeftUp 1
+Delay 12 ms
+LeftDown 1
+Delay 9 ms
+LeftUp 1
+Delay 8 ms
+LeftDown 1
+Delay 7 ms
+LeftUp 1
+Delay 1 ms
+KeyDown 32 1
+Delay 1 ms
+KeyUp 32 1
+Delay 15 ms
+RightDown 1
+Delay 15 ms
+RightUp 1
+Delay 17 ms
+RightDown 1
+Delay 0 ms
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

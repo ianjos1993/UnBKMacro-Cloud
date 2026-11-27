@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос при активации двигает курсор вниз, тем самым снижает отдачу во многих играх, таких как Stalker, Roblox, Pubg и другие. Вряд ли подойдет для CS:GO и других игр с подобным типом отдачи. Чтобы макрос работал, нужно установить драйвер keyran. Макрос полностью протестирован и со своей задачей он справляется отлично(тестировался на разрешении 1280x1024). Чтобы макрос отлично контролировал отдачу, нужно ставить его на "нажать чтобы запустить, отпустить чтобы прекратить". Рекомендую ставить на левую кнопку мыши.</Description>
+    <Comment>Надеюсь теперь я сделал НОРМАЛЬНОЕ описание, чтобы его добавили в базу.</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 20 ms
+MoveR 0 2
+Delay 20 ms
+MoveR 0 2
+Delay 20 ms
+MoveR 0 2
+Delay 20 ms
+MoveR 0 2
+Delay 20 ms
+LeftUp 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Другие</Software>
+  </DefaultMacro>
+</Root>

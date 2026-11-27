@@ -1,0 +1,752 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для подбора кода к 3-ёх значным и 4-ух значным замкам на серверах с антирейдом в DayZ.
+Уже имеющийся в базе макроc с назначением на клавишу F  НЕ РАБОТАЕТ в игре. 
+Инструкция к применению: 
+1. Во время взлома замка переназначьте клавижу взаимодействия с окружащей средос с F на ЛКМ, т.к. в игре стоит защита от подобных программ и клавиши клаавиатуры не подходят.
+2. Установите значение замка от 0000 - 9000
+3. Переведите ползунок в самое начало числа.
+4. Нажмите клавижу активации макроса. 
+
+Макрос перебирает только в пределах тысячи, переключение между тысячами производится вручную.
+Во время перебора кода, если у вас слабый интернет, старайтесь не загружать канал, т.к. DayZ очень требовательна в плане трафика и из-за рассинхрона с сервером подбор может сбиться.
+Последнюю цифру замка перебирает именно 11 раз, а не 10, как требуется, т.к. в Dayz лучше перестраховаться.
+Подбор тысячи занимает около 20-25 минут, вручную можно подобрать за минут 18 - я специально сделал подбор медленнее, т.к. очень часто из-за инпут лага бывали сбои в подборе, да и лучше пить чаёк, пока программа работает за вас. 
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы 
+МАКРОС НА СКРУЧИВАНИЕ КОДЛОКА В ДЕЙЗ(ХХХ-ХХХХ знаков)</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 8 ms
+Delay 8 ms
+KeyDown 71 1
+Delay 64
+KeyUp 71 1
+Delay 64
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 10 ms
+Delay 6 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 10 ms
+Delay 6 ms
+Delay 16 ms
+Delay 8 ms
+Delay 16 ms
+Delay 8 ms
+Delay 64 ms
+Delay 88 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 312 ms
+Delay 8 ms
+Delay 8 ms
+Delay 176 ms
+Delay 136 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 760 ms
+LeftDown 1
+Delay 120 ms
+LeftUp 1
+Delay 528 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 200 ms
+Delay 264 ms
+LeftDown 1
+Delay 88 ms
+LeftUp 1
+Delay 408 ms
+LeftDown 1
+Delay 816 ms
+Delay 8 ms
+Delay 16 ms
+Delay 2943 ms
+Delay 8 ms
+Delay 3680 ms
+LeftUp 1
+Delay 2560 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 1344 ms
+LeftDown 1
+Delay 144 ms
+LeftUp 1
+Delay 1616 ms
+LeftDown 1
+Delay 136 ms
+LeftUp 1
+Delay 1200 ms
+LeftDown 1
+Delay 1688 ms
+LeftUp 1
+Delay 40 ms
+Delay 1872 ms
+LeftDown 1
+Delay 143 ms
+LeftUp 1
+Delay 1168 ms
+LeftDown 1
+Delay 7608 ms
+LeftUp 1
+Delay 376 ms
+Delay 1072 ms
+LeftDown 1
+Delay 144 ms
+LeftUp 1
+Delay 2352 ms
+LeftDown 1
+Delay 144 ms
+LeftUp 1
+Delay 384 ms
+Delay 8 ms
+Delay 1392 ms
+LeftDown 1
+Delay 136 ms
+LeftUp 1
+Delay 783 ms
+LeftDown 1
+Delay 1584 ms
+LeftUp 1
+Delay 1472 ms
+LeftDown 1
+Delay 144 ms
+LeftUp 1
+Delay 680 ms
+LeftDown 1
+Delay 7336 ms
+LeftUp 1
+Delay 1456 ms
+LeftDown 1
+Delay 160 ms
+LeftUp 1
+Delay 1640 ms
+LeftDown 1
+Delay 144 ms
+LeftUp 1
+Delay 1463 ms
+LeftDown 1
+Delay 152 ms
+LeftUp 1
+Delay 648 ms
+LeftDown 1
+Delay 1656 ms
+LeftUp 1
+Delay 2296 ms
+LeftDown 1
+Delay 168 ms
+LeftUp 1
+Delay 440 ms
+LeftDown 1
+Delay 664 ms
+Delay 160 ms
+Delay 16 ms
+Delay 152 ms
+Delay 16 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 312 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 24 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 32 ms
+Delay 40 ms
+Delay 16 ms
+Delay 32 ms
+Delay 8 ms
+Delay 336 ms
+Delay 8 ms
+Delay 24 ms
+Delay 144 ms
+Delay 16 ms
+Delay 16 ms
+Delay 160 ms
+Delay 3280 ms
+Delay 1904 ms
+Delay 24 ms
+LeftUp 1
+Delay 1447 ms
+Delay 241 ms
+LeftDown 1
+Delay 199 ms
+LeftUp 1
+Delay 1432 ms
+LeftDown 1
+Delay 136 ms
+LeftUp 1
+Delay 1960 ms
+LeftDown 1
+Delay 160 ms
+LeftUp 1
+Delay 384 ms
+Delay 8 ms
+Delay 560 ms
+LeftDown 1
+Delay 296 ms
+Delay 16 ms
+Delay 1192 ms
+LeftUp 1
+Delay 2448 ms
+LeftDown 1
+Delay 160 ms
+LeftUp 1
+Delay 800 ms
+LeftDown 1
+Delay 1464 ms
+Delay 8 ms
+Delay 11 ms
+Delay 8 ms
+Delay 10 ms
+Delay 7 ms
+Delay 6 ms
+Delay 6 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 16 ms
+Delay 392 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 16 ms
+Delay 24 ms
+Delay 16 ms
+Delay 32 ms
+Delay 16 ms
+Delay 64 ms
+Delay 8 ms
+Delay 64 ms
+Delay 192 ms
+Delay 2360 ms
+Delay 16 ms
+Delay 2815 ms
+LeftUp 1
+Delay 152 ms
+Delay 32 ms
+Delay 16 ms
+Delay 1464 ms
+LeftDown 1
+Delay 192 ms
+LeftUp 1
+Delay 632 ms
+Delay 32 ms
+Delay 984 ms
+LeftDown 1
+Delay 72 ms
+Delay 16 ms
+Delay 24 ms
+Delay 80 ms
+LeftUp 1
+Delay 568 ms
+Delay 16 ms
+Delay 8 ms
+Delay 8 ms
+Delay 704 ms
+Delay 24 ms
+Delay 296 ms
+LeftDown 1
+Delay 177 ms
+LeftUp 1
+Delay 959 ms
+LeftDown 1
+Delay 432 ms
+Delay 8 ms
+Delay 24 ms
+Delay 1224 ms
+LeftUp 1
+Delay 1080 ms
+LeftDown 1
+Delay 136 ms
+LeftUp 1
+Delay 592 ms
+LeftDown 1
+Delay 6311 ms
+Delay 8 ms
+Delay 1736 ms
+LeftUp 1
+Delay 928 ms
+LeftDown 1
+Delay 136 ms
+LeftUp 1
+Delay 1104 ms
+LeftDown 1
+Delay 176 ms
+LeftUp 1
+Delay 880 ms
+LeftDown 1
+Delay 168 ms
+LeftUp 1
+Delay 400 ms
+LeftDown 1
+Delay 1568 ms
+LeftUp 1
+Delay 560 ms
+Delay 24 ms
+Delay 448 ms
+Delay 264 ms
+LeftDown 1
+Delay 120 ms
+LeftUp 1
+Delay 592 ms
+LeftDown 1
+Delay 3656 ms
+Delay 7 ms
+Delay 912 ms
+Delay 24 ms
+Delay 832 ms
+Delay 32 ms
+Delay 2376 ms
+LeftUp 1
+Delay 288 ms
+Delay 16 ms
+Delay 16 ms
+Delay 24 ms
+Delay 1128 ms
+Delay 8 ms
+Delay 152 ms
+LeftDown 1
+Delay 176 ms
+LeftUp 1
+Delay 1184 ms
+LeftDown 1
+Delay 168 ms
+LeftUp 1
+Delay 1144 ms
+LeftDown 1
+Delay 160 ms
+LeftUp 1
+Delay 720 ms
+LeftDown 1
+Delay 1712 ms
+LeftUp 1
+Delay 120 ms
+Delay 1320 ms
+LeftDown 1
+Delay 136 ms
+LeftUp 1
+Delay 648 ms
+Delay 56 ms
+LeftDown 1
+Delay 1080 ms
+Delay 648 ms
+Delay 1039 ms
+Delay 16 ms
+Delay 225 ms
+Delay 7 ms
+Delay 424 ms
+Delay 8 ms
+Delay 40 ms
+Delay 512 ms
+Delay 152 ms
+Delay 296 ms
+Delay 184 ms
+Delay 40 ms
+Delay 280 ms
+Delay 8 ms
+Delay 472 ms
+Delay 120 ms
+Delay 8 ms
+Delay 24 ms
+Delay 432 ms
+Delay 144 ms
+Delay 32 ms
+Delay 1472 ms
+Delay 40 ms
+LeftUp 1
+Delay 48 ms
+Delay 288 ms
+Delay 16 ms
+Delay 32 ms
+Delay 1120 ms
+LeftDown 1
+Delay 264 ms
+LeftUp 1
+Delay 592 ms
+Delay 16 ms
+Delay 120 ms
+Delay 832 ms
+LeftDown 1
+Delay 56 ms
+Delay 136 ms
+LeftUp 1
+Delay 400 ms
+Delay 1080 ms
+LeftDown 1
+Delay 168 ms
+LeftUp 1
+Delay 528 ms
+Delay 5 ms
+LeftDown 1
+Delay 379 ms
+Delay 32 ms
+Delay 168 ms
+Delay 24 ms
+Delay 8 ms
+Delay 40 ms
+Delay 1048 ms
+LeftUp 1
+Delay 448 ms
+Delay 552 ms
+LeftDown 1
+Delay 208 ms
+LeftUp 1
+Delay 56 ms
+Delay 336 ms
+Delay 32 ms
+LeftDown 1
+Delay 40 ms
+Delay 520 ms
+Delay 168 ms
+Delay 607 ms
+Delay 136 ms
+Delay 24 ms
+Delay 2424 ms
+Delay 2496 ms
+Delay 1656 ms
+LeftUp 1
+Delay 344 ms
+Delay 8 ms
+Delay 104 ms
+Delay 520 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 936 ms
+LeftDown 1
+Delay 192 ms
+LeftUp 1
+Delay 32 ms
+Delay 1608 ms
+LeftDown 1
+Delay 176 ms
+LeftUp 1
+Delay 352 ms
+LeftDown 1
+Delay 568 ms
+Delay 1032 ms
+LeftUp 1
+Delay 1512 ms
+LeftDown 1
+Delay 24 ms
+Delay 136 ms
+LeftUp 1
+Delay 368 ms
+Delay 176 ms
+LeftDown 1
+Delay 463 ms
+Delay 32 ms
+Delay 464 ms
+Delay 1576 ms
+Delay 3416 ms
+Delay 8 ms
+Delay 8 ms
+Delay 64 ms
+Delay 2512 ms
+LeftUp 1
+Delay 1888 ms
+LeftDown 1
+Delay 160 ms
+LeftUp 1
+Delay 2272 ms
+LeftDown 1
+Delay 120 ms
+LeftUp 1
+Delay 1080 ms
+Delay 344 ms
+LeftDown 1
+Delay 640 ms
+Delay 976 ms
+LeftUp 1
+Delay 15 ms
+Delay 616 ms
+Delay 8 ms
+Delay 1088 ms
+LeftDown 1
+Delay 128 ms
+LeftUp 1
+Delay 1312 ms
+LeftDown 1
+Delay 1320 ms
+Delay 8 ms
+Delay 176 ms
+LeftUp 1
+Delay 1712 ms
+LeftDown 1
+Delay 168 ms
+LeftUp 1
+Delay 2232 ms
+LeftDown 1
+Delay 232 ms
+LeftUp 1
+Delay 768 ms
+Delay 24 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 176 ms
+Delay 16 ms
+Delay 8 ms
+Delay 32 ms
+Delay 8 ms
+Delay 8 ms
+Delay 24 ms
+Delay 8 ms
+Delay 152 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 16 ms
+Delay 496 ms
+Delay 184 ms
+Delay 40 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 9 ms
+Delay 7 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 16 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms</Syntax>
+    </KeyDown>
+    <Software>DayZ</Software>
+  </DefaultMacro>
+</Root>

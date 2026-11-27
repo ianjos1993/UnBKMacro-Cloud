@@ -1,0 +1,661 @@
+<Root>
+  <DefaultMacro>
+    <Major>Автоперековка</Major>
+    <Description>полностью перековывает весь инвентарь в path of exile 2. Отлично подходит для перековки жидких эмоций. по 10 в каждом слоте инвентаря. В разрешении экрана 1080р. Надо полностью заполнить инвентарь нужными для перековки жидкими эмоциями после и открыть верстак для перековки, после чего запустить макрос</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+MoveTo 1300 617
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1347 618
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1400 619
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 75 85 ms
+MoveTo 615 875
+Delay 75 85 ms
+LeftDown 1
+Delay 75 85 ms
+LeftUp 1
+Delay 75 85 ms
+Delay 1030 ms
+MoveTo 630 400
+Delay 75 85 ms
+LeftDown 1
+Delay 75 85 ms
+LeftUp 1
+GoWhile 20 10
+MoveTo 1295 666
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1347 665
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1402 665
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 75 85 ms
+MoveTo 615 875
+Delay 75 85 ms
+LeftDown 1
+Delay 75 85 ms
+LeftUp 1
+Delay 75 85 ms
+Delay 1030 ms
+MoveTo 630 400
+Delay 75 85 ms
+LeftDown 1
+Delay 75 85 ms
+LeftUp 1
+GoWhile 52 10
+MoveTo 1297 718
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1349 719
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1401 725
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 75 85 ms
+MoveTo 615 875
+Delay 75 85 ms
+LeftDown 1
+Delay 75 85 ms
+LeftUp 1
+Delay 75 85 ms
+Delay 1030 ms
+MoveTo 630 400
+Delay 75 85 ms
+LeftDown 1
+Delay 75 85 ms
+LeftUp 1
+GoWhile 84 10
+MoveTo 1306 775
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1346 771
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1403 767
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 75 85 ms
+MoveTo 615 875
+Delay 75 85 ms
+LeftDown 1
+Delay 75 85 ms
+LeftUp 1
+Delay 75 85 ms
+Delay 1030 ms
+MoveTo 630 400
+Delay 75 85 ms
+LeftDown 1
+Delay 75 85 ms
+LeftUp 1
+GoWhile 116 10
+MoveTo 1307 826
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1348 825
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1400 826
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 75 85 ms
+MoveTo 615 875
+Delay 75 85 ms
+LeftDown 1
+Delay 75 85 ms
+LeftUp 1
+Delay 75 85 ms
+Delay 1030 ms
+MoveTo 630 400
+Delay 75 85 ms
+LeftDown 1
+Delay 75 85 ms
+LeftUp 1
+GoWhile 147 10
+Delay 64
+MoveTo 1455 615
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1505 619
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1565 610
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 75 85 ms
+MoveTo 615 875
+Delay 75 85 ms
+LeftDown 1
+Delay 75 85 ms
+LeftUp 1
+Delay 75 85 ms
+Delay 1030 ms
+MoveTo 630 400
+Delay 75 85 ms
+LeftDown 1
+Delay 75 85 ms
+LeftUp 1
+GoWhile 180 10
+MoveTo 1457 664
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1515 663
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1553 666
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 75 85 ms
+MoveTo 615 875
+Delay 75 85 ms
+LeftDown 1
+Delay 75 85 ms
+LeftUp 1
+Delay 75 85 ms
+Delay 1030 ms
+MoveTo 630 400
+Delay 75 85 ms
+LeftDown 1
+Delay 75 85 ms
+LeftUp 1
+GoWhile 212 10
+MoveTo 1465 724
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1521 724
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1557 718
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 75 85 ms
+MoveTo 615 875
+Delay 75 85 ms
+LeftDown 1
+Delay 75 85 ms
+LeftUp 1
+Delay 75 85 ms
+Delay 1030 ms
+MoveTo 630 400
+Delay 75 85 ms
+LeftDown 1
+Delay 75 85 ms
+LeftUp 1
+GoWhile 244 10
+MoveTo 1464 764
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1509 768
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1562 770
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 75 85 ms
+MoveTo 615 875
+Delay 75 85 ms
+LeftDown 1
+Delay 75 85 ms
+LeftUp 1
+Delay 75 85 ms
+Delay 1030 ms
+MoveTo 630 400
+Delay 75 85 ms
+LeftDown 1
+Delay 75 85 ms
+LeftUp 1
+GoWhile 276 10
+MoveTo 1475 830
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1500 819
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1558 819
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 75 85 ms
+MoveTo 615 875
+Delay 75 85 ms
+LeftDown 1
+Delay 75 85 ms
+LeftUp 1
+Delay 75 85 ms
+Delay 1030 ms
+MoveTo 630 400
+Delay 75 85 ms
+LeftDown 1
+Delay 75 85 ms
+LeftUp 1
+GoWhile 308 10
+MoveTo 1606 617
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1663 615
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1728 623
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 75 85 ms
+MoveTo 615 875
+Delay 75 85 ms
+LeftDown 1
+Delay 75 85 ms
+LeftUp 1
+Delay 75 85 ms
+Delay 1030 ms
+MoveTo 630 400
+Delay 75 85 ms
+LeftDown 1
+Delay 75 85 ms
+LeftUp 1
+GoWhile 340 10
+MoveTo 1609 666
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1675 667
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1703 661
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 75 85 ms
+MoveTo 615 875
+Delay 75 85 ms
+LeftDown 1
+Delay 75 85 ms
+LeftUp 1
+Delay 75 85 ms
+Delay 1030 ms
+MoveTo 630 400
+Delay 75 85 ms
+LeftDown 1
+Delay 75 85 ms
+LeftUp 1
+GoWhile 372 10
+MoveTo 1613 715
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1665 716
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1720 719
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 75 85 ms
+MoveTo 615 875
+Delay 75 85 ms
+LeftDown 1
+Delay 75 85 ms
+LeftUp 1
+Delay 75 85 ms
+Delay 1030 ms
+MoveTo 630 400
+Delay 75 85 ms
+LeftDown 1
+Delay 75 85 ms
+LeftUp 1
+GoWhile 404 10
+MoveTo 1622 774
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1660 770
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1714 771
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 75 85 ms
+MoveTo 615 875
+Delay 75 85 ms
+LeftDown 1
+Delay 75 85 ms
+LeftUp 1
+Delay 75 85 ms
+Delay 1030 ms
+MoveTo 630 400
+Delay 75 85 ms
+LeftDown 1
+Delay 75 85 ms
+LeftUp 1
+GoWhile 436 10
+MoveTo 1620 826
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1657 818
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1710 826
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 75 85 ms
+MoveTo 615 875
+Delay 75 85 ms
+LeftDown 1
+Delay 75 85 ms
+LeftUp 1
+Delay 75 85 ms
+Delay 1030 ms
+MoveTo 630 400
+Delay 75 85 ms
+LeftDown 1
+Delay 75 85 ms
+LeftUp 1
+GoWhile 468 10
+MoveTo 1766 613
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1815 611
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1885 609
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 75 85 ms
+MoveTo 615 875
+Delay 75 85 ms
+LeftDown 1
+Delay 75 85 ms
+LeftUp 1
+Delay 75 85 ms
+Delay 1030 ms
+MoveTo 630 400
+Delay 75 85 ms
+LeftDown 1
+Delay 75 85 ms
+LeftUp 1
+GoWhile 500 10
+MoveTo 1779 670
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1829 657
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1884 667
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1767 722
+Delay 64
+Delay 75 85 ms
+MoveTo 615 875
+Delay 75 85 ms
+LeftDown 1
+Delay 75 85 ms
+LeftUp 1
+Delay 75 85 ms
+Delay 1030 ms
+MoveTo 630 400
+Delay 75 85 ms
+LeftDown 1
+Delay 75 85 ms
+LeftUp 1
+GoWhile 534 10
+MoveTo 1767 711
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1834 712
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1872 716
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 75 85 ms
+MoveTo 615 875
+Delay 75 85 ms
+LeftDown 1
+Delay 75 85 ms
+LeftUp 1
+Delay 75 85 ms
+Delay 1030 ms
+MoveTo 630 400
+Delay 75 85 ms
+LeftDown 1
+Delay 75 85 ms
+LeftUp 1
+GoWhile 566 10
+MoveTo 1766 764
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1821 768
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1878 772
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 64
+Delay 75 85 ms
+MoveTo 615 875
+Delay 75 85 ms
+LeftDown 1
+Delay 75 85 ms
+LeftUp 1
+Delay 75 85 ms
+Delay 1030 ms
+MoveTo 630 400
+Delay 75 85 ms
+LeftDown 1
+Delay 75 85 ms
+LeftUp 1
+GoWhile 598 10
+MoveTo 1781 819
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1815 817
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1882 825
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 75 85 ms
+MoveTo 615 875
+Delay 75 85 ms
+LeftDown 1
+Delay 75 85 ms
+LeftUp 1
+Delay 75 85 ms
+Delay 1030 ms
+MoveTo 630 400
+Delay 75 85 ms
+LeftDown 1
+Delay 75 85 ms
+LeftUp 1
+GoWhile 630 10
+KeyUp 224 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Path of Exile 2</Software>
+  </DefaultMacro>
+</Root>

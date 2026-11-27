@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>зажимаешь кнопку и потом макрос сам ставит лестницу а потом стенку и просто делаешь типу манграл классик надеюсь я вам помог удачи.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+Delay 64
+KeyUp 6 1
+Delay 64
+KeyDown 29 1
+Delay 80 ms
+KeyUp 29 1
+Delay 81 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

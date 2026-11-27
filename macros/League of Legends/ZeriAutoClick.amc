@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major>Zeri Q Auto-Clicker</Major>
+    <Description>This macro automates Zeri’s Q ability by repeatedly clicking the assigned key at a consistent speed whenever the bound button is activated. It helps maintain rapid, continuous Q usage without needing to manually press the key over and over, making gameplay smoother and reducing repetitive inputs. Simply press your assigned macro button to activate the automated sequence and let it handle the repeated inputs for you.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>League of legends</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос переключается 1-4 и нажимая только левую кнопку мыши,даёт хорошие криты,кликает 20-23 кпс.Ну я думаю вам подайдет удачи :D</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 15 ms
+LeftDown 1
+Delay 7 ms
+LeftUp 1
+Delay 7 ms
+KeyDown 33 1
+Delay 1 ms
+KeyUp 33 1
+LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 15 ms
+LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 6 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

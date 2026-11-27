@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Самый быстрый кликер который берёт заказы( за 2 секунды проходит 99+ циклов с выбором заказа и нажатием на кнопку "Принятие заказа").
+Разрешение 1024x1024.
+Ваш покорный слуга Orwasha.
+Удачной дороги, таксист!)
+Инструкция:
+1)Садимся в таксишку
+2)Открываем меню заказов
+3)Видим как прилетел заказ
+4)Нажимаем кнопку на которой находится макрос
+5)И бам, заказ достался именно вам!)
+6)Снова нажимаем, дабы выключить макрос
+Промо 1 сервера моего великолепного знакомого: aus</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 514 375
+Delay 20 ms
+LeftDown 1
+Delay 20 ms
+LeftUp 1
+MoveTo 492 666
+Delay 20 ms
+LeftDown 1
+Delay 20 ms
+LeftUp 1
+Delay 20 ms
+GoWhile 1 500</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

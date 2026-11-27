@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматическое открывание эндерсундука
+Работает на серверах с командой /ec
+Минимлаьная задержка
+Советую!</Description>
+    <Comment>дайте на 2 дня,пожалуста.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 33
+KeyUp 23 1
+Delay 33
+KeyDown 56 1
+Delay 33
+KeyUp 56 1
+Delay 33
+KeyDown 8 1
+Delay 33
+KeyUp 8 1
+Delay 33
+KeyDown 6 1
+Delay 33
+KeyUp 6 1
+Delay 33</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

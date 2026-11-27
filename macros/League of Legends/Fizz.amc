@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major>koko</Major>
+    <Description>league of legends Q+E+W combo its ez for poking mid lane quick just make sure u make it press per one time dont put it on the loop or its gg </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 150 ms
+KeyUp 8 1
+Delay 64
+KeyDown 26 1
+Delay 211 ms
+KeyUp 26 1
+Delay 64
+KeyDown 20 1
+Delay 151 ms
+KeyUp 20 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>League of legends</Software>
+  </DefaultMacro>
+</Root>

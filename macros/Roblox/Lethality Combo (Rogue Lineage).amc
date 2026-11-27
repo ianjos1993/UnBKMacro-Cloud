@@ -1,0 +1,58 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Rogue Lineage Macro
+
+This is a triple dagger throw lethality macro (it also includes dagger throw but it only adds on a bit of damage)
+
+Keys
+
+Triple Dagger Throw - "2"
+Dagger Throw - "="
+Lethality - "3"
+
+For it to work you must spam click it once you have pressed your binded key</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 46 1
+Delay 64
+KeyUp 46 1
+Delay 64
+KeyDown 46 1
+Delay 64
+KeyUp 46 1
+Delay 64
+KeyDown 46 1
+Delay 64
+KeyUp 46 1
+Delay 64
+KeyDown 46 1
+Delay 64
+KeyUp 46 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

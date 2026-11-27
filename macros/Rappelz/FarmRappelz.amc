@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Удобный макрос для фарма или кача личом. Ставим стрелки на 1 2 и идём отдыхать. Макрос для игры Rappelz. Так же можно использовать любую другую профессию. на 1 ставим автоатаку, а на 2  любое свое умение.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 80 ms
+KeyUp 30 1
+Delay 500 ms
+KeyDown 31 1
+Delay 79 ms
+KeyUp 31 1
+Delay 500 ms</Syntax>
+    </KeyDown>
+    <Software>Rappelz</Software>
+  </DefaultMacro>
+</Root>

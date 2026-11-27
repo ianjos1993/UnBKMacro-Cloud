@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major>AlEl</Major>
+    <Description>Скрипт для разделки рыбы ножом.
+Чтобы воспользоваться скриптом, положите рыбу у своих ног и держите нож в руках. 
+Скрипт автоматически разберет 50 тушек и остановится.
+Этот скрипт предназначен для разрешения FullHD.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1500 ms
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+MoveTo 136 177
+Delay 64
+LeftDown 1
+Delay 64
+MoveTo 846 836
+Delay 64
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 11000 ms
+LeftUp 1
+Delay 1000 ms
+GoWhile 1 50</Syntax>
+    </KeyDown>
+    <Software>DayZ</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>Макрос для спойлера + джуда</Major>
+    <Description>Макрос кидает "Фестиваль" + сразу атака по пати лидеру , ( В самом макросе посмотрите на кнопки и сделайте под себя ) + переключение на 2 окно даем аппетит и переключаемся обратно.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1 s
+KeyDown 227 1
+KeyDown 31 1
+KeyUp 227 1
+Delay 1 s
+MoveTo 754 512
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 300 ms
+KeyDown 34 1
+KeyUp 34 1
+Delay 1 s
+KeyDown 227 1
+KeyDown 30 1
+KeyUp 227 1
+Delay 1 s</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

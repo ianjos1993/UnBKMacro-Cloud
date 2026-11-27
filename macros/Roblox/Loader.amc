@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Бот для работы Грузчик Moscow Role Play Оно будет За вас Ходить Здавать И брать Груз Для того Чтобы Бот работал Нужно Подойти К где Брать груз навести на кнопку запустить бинд и Всё Готово Но если 1 раза мало Скопируйте и вставьте Несколько Раз Так Будет Эффективние
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 3 s
+LeftUp 1
+KeyDown 26 1
+Delay 5 s
+KeyUp 26 1
+KeyDown 4 1
+Delay 3 s
+KeyUp 4 1
+KeyDown 26 1
+Delay 3 s
+KeyUp 26 1
+LeftDown 1
+Delay 3 s
+LeftUp 1
+KeyDown 22 1
+Delay 3 s
+KeyUp 22 1
+KeyDown 7 1
+Delay 3 ms
+KeyUp 7 1
+KeyDown 22 1
+Delay 5 s
+KeyUp 22 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

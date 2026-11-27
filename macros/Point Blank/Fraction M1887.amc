@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для дроби М1887
+
+По факту макрос подойдет обсолютно для любого дробовика в игре.
+Но стоит отметить что наиболее эфективно будет использовать его с перевёртышом или Убийцей зомби.
+
+Установка очень проста
+Устанавливается как и все макросы:
+
+1. Скачать макрос
+2. Привязать к удобной вам клавише ( Рекомендую использовать улавишу "Е" или "Q", если есть боковые
+кнопки на мышке, можно привязать к ним.)
+3. Зупустить игру и проверить.
+
+
+Удачи на поле боя! </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 12 ms
+KeyUp 30 1
+Delay 12 ms
+KeyDown 32 1
+Delay 12 ms
+KeyUp 32 1
+Delay 12 ms
+KeyDown 30 1
+Delay 12 ms
+KeyUp 30 1
+Delay 12 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

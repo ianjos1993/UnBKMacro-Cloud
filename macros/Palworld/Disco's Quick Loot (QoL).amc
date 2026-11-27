@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major>Quality of Life</Major>
+    <Description>Quick loot is pretty straight forward, works regardless of dpi/sens/resolution. Set the operating mode to 'while holding' and bind it to a key of your liking!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 3 ms
+RightUp 1
+Delay 3 ms</Syntax>
+    </KeyDown>
+    <Software>Palworld</Software>
+  </DefaultMacro>
+</Root>

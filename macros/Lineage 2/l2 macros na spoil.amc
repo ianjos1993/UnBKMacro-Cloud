@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на спойл 
+На F1 ставим спойл 
+На F2 ставим атаку 
+На F3 ставим сбор спойла
+Так же можно сделать макрос на некст таргет и фармить и спойлить одновременно </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 58 1
+Delay 1000 ms
+KeyDown 59 1
+Delay 7000 ms
+KeyDown 60 1
+Delay 2000 ms</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

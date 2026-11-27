@@ -1,0 +1,55 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Чувствительность стандартная, макрос для контроля отдачи на R-99________________________________________</Description>
+    <Comment>www.goodman.expert
+</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 63 ms
+MoveR -1 5
+Delay 63 ms
+MoveR -1 5
+Delay 63 ms
+MoveR 0 5
+Delay 63 ms
+MoveR 0 7
+Delay 63 ms
+MoveR -1 7
+Delay 63 ms
+MoveR -1 7
+Delay 63 ms
+MoveR -1 5
+Delay 63 ms
+MoveR -1 5
+Delay 63 ms
+MoveR 0 7
+Delay 63 ms
+MoveR -1 7
+Delay 63 ms
+MoveR -1 7
+Delay 63 ms
+MoveR -1 7
+Delay 63 ms
+MoveR 0 3
+Delay 63 ms
+MoveR 0 3
+Delay 63 ms
+MoveR 0 1
+Delay 63 ms
+MoveR 0 1
+Delay 63 ms
+MoveR 0 1
+LeftUp 1
+Delay 63 ms
+MoveR 0 10</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

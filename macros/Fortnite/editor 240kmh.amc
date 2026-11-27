@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major>editor</Major>
+    <Description>фортнайт эдитор,  быстрый и нормально работает иногда может не сработать но это в краниях случиях бинд на x , и лучше редактироваться снизу верх . и  с пингом выше 120 может не коррентно работать </Description>
+    <Comment>to edit the macro click on editor and select the macro, after this edit the x edit bind to your currently editing bind. (the alt in the name doesnt stand for alt as the keybind, it stands for "alternative"</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 27 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+KeyUp 27 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

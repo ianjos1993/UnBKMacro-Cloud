@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>FrenS</Major>
+    <Description>Данный макрос предназначен для легкой стрельбы из АВП. Макрос сам прицеливается, стреляет, делает смену оружия. Для начала использования нужно установить на нужную клавишу и идти играть. :)</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 54 ms
+RightUp 1
+Delay 53 ms
+LeftDown 1
+Delay 52 ms
+LeftUp 1
+Delay 51 ms
+KeyDown 20 1
+Delay 51 ms
+KeyUp 20 1
+Delay 51 ms
+KeyDown 20 1
+Delay 51 ms
+KeyUp 20 1
+Delay 51 ms</Syntax>
+    </KeyDown>
+    <Software>CS:GO</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major>Swap PvP 1.21.11</Major>
+    <Description>Макрос для быстрого переключения (Swap PvP) в Minecraft 1.21.11+.
+
+Инструкция по настройке:
+
+1. Положите копье с чарами рывок 3 в 6-й слот хотбара.
+
+2. В 3-й слот хотбара положите предмет без задержки или оставьте его пустым.
+
+3. Назначьте макрос на удобную клавишу.
+
+
+Эффект: Позволяет моментально использовать рывок копья для быстрого перемещения в PvP. 
+ Не используйте режим автоматического повтора или спам кликов, иначе макрос может сработать некорректно.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Button4down 1
+LeftDown 1
+Delay 20 ms
+LeftUp 1
+Button4Up 1
+Delay 20 ms
+KeyDown 32 1
+Delay 20 ms
+KeyUp 32 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

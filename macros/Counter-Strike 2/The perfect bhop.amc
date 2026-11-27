@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Специализированный игровой макрос для автоматизации распрыжки (BunnyHop). Скрипт посылает оптимизированные команды прыжка с минимальной задержкой, позволяя удерживать максимальную скорость передвижения на картах без потери таймингов. Работает в циклическом режиме, пока удерживается назначенная клавиша. Идеально подходит для шутеров на движке Source и аналогичных игр.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 15 ms
+KeyUp 44 1
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>Counter-Strike 2</Software>
+  </DefaultMacro>
+</Root>

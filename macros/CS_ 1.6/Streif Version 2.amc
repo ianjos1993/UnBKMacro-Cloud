@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Версия 2 не палится
+Делает стейры за вас в отличии от 1 версии он не так эффективен но его не палит античит</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR 0 0
+Delay 1 ms
+KeyDown 7 1
+Delay 10 ms
+MoveR 55 -4
+Delay 8 ms
+MoveR 55 -4
+Delay 12 ms
+MoveR 55 -4
+Delay 8 ms
+MoveR 55 -4
+Delay 10 ms
+KeyUp 7 1
+Delay 1 ms
+MoveR 0 0
+Delay 1 ms
+KeyDown 4 1
+Delay 11 ms
+MoveR -55 4
+Delay 8 ms
+MoveR -55 4
+Delay 13 ms
+MoveR -55 4
+Delay 8 ms
+MoveR -55 4
+Delay 10 ms
+KeyUp 4 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>CS 1.6</Software>
+  </DefaultMacro>
+</Root>

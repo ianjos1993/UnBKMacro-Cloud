@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major>Double Strafe</Major>
+    <Description>Unlimited Double Strafing in any ragnarok onltne Classic.
+Press F1 without clicking in the mouse Double strafe will automatically cast
+And not only double strafe once a skill is in the first slot and the second row.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 10 ms
+KeyUp 20 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+KeyDown 20 1
+Delay 10 ms
+KeyUp 20 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+KeyDown 20 1
+Delay 10 ms
+KeyUp 20 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Ragnarok Online</Software>
+  </DefaultMacro>
+</Root>

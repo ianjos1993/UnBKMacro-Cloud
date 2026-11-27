@@ -1,0 +1,416 @@
+<Root>
+  <DefaultMacro>
+    <Major>Trickster на сервере Return To Morocc</Major>
+    <Description>Сначала бьёт Scythe Reap(на клавише f4), потом продолжает комбо Sweeping Slash(на клавише 9), после чего начинает это комбо сначала.</Description>
+    <Comment>Исключительно для сервера Return To Morocc</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 61 1
+Delay 10 ms
+KeyUp 61 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 61 1
+Delay 10 ms
+KeyUp 61 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 61 1
+Delay 10 ms
+KeyUp 61 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 61 1
+Delay 10 ms
+KeyUp 61 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 61 1
+Delay 10 ms
+KeyUp 61 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 61 1
+Delay 10 ms
+KeyUp 61 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 61 1
+Delay 10 ms
+KeyUp 61 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 61 1
+Delay 10 ms
+KeyUp 61 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 61 1
+Delay 10 ms
+KeyUp 61 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 61 1
+Delay 10 ms
+KeyUp 61 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 61 1
+Delay 10 ms
+KeyUp 61 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 61 1
+Delay 10 ms
+KeyUp 61 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 61 1
+Delay 10 ms
+KeyUp 61 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 61 1
+Delay 10 ms
+KeyUp 61 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 61 1
+Delay 10 ms
+KeyUp 61 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 61 1
+Delay 10 ms
+KeyUp 61 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 61 1
+Delay 10 ms
+KeyUp 61 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 61 1
+Delay 10 ms
+KeyUp 61 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 61 1
+Delay 10 ms
+KeyUp 61 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 61 1
+Delay 10 ms
+KeyUp 61 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 38 1
+Delay 10 ms
+KeyUp 38 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 38 1
+Delay 10 ms
+KeyUp 38 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 38 1
+Delay 10 ms
+KeyUp 38 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 38 1
+Delay 10 ms
+KeyUp 38 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 38 1
+Delay 10 ms
+KeyUp 38 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 38 1
+Delay 10 ms
+KeyUp 38 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 38 1
+Delay 10 ms
+KeyUp 38 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 38 1
+Delay 10 ms
+KeyUp 38 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 38 1
+Delay 10 ms
+KeyUp 38 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 38 1
+Delay 10 ms
+KeyUp 38 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 38 1
+Delay 10 ms
+KeyUp 38 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 38 1
+Delay 10 ms
+KeyUp 38 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 38 1
+Delay 10 ms
+KeyUp 38 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 38 1
+Delay 10 ms
+KeyUp 38 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 38 1
+Delay 10 ms
+KeyUp 38 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 38 1
+Delay 10 ms
+KeyUp 38 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 38 1
+Delay 10 ms
+KeyUp 38 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 38 1
+Delay 10 ms
+KeyUp 38 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 38 1
+Delay 10 ms
+KeyUp 38 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 38 1
+Delay 10 ms
+KeyUp 38 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 38 1
+Delay 10 ms
+KeyUp 38 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 38 1
+Delay 10 ms
+KeyUp 38 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 38 1
+Delay 10 ms
+KeyUp 38 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 38 1
+Delay 10 ms
+KeyUp 38 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 38 1
+Delay 10 ms
+KeyUp 38 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 38 1
+Delay 10 ms
+KeyUp 38 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 38 1
+Delay 10 ms
+KeyUp 38 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 38 1
+Delay 10 ms
+KeyUp 38 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 38 1
+Delay 10 ms
+KeyUp 38 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 38 1
+Delay 10 ms
+KeyUp 38 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Ragnarok</Software>
+  </DefaultMacro>
+</Root>

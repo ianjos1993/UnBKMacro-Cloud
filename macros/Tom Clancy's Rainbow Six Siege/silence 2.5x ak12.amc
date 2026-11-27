@@ -1,0 +1,49 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>this macro minimizes the recoil on ak12
+it wont fully remove the recoil as around the third spray recoil becomes stronger and for that spray the recoil will be slightly above the aimed point
+
+settings:
+fov 84
+1920x1080
+sens 6
+dpi 800
+2.5 50
+
+ak12 build:
+supresor magnified angled grip
+
+if the recoil isnt pulling enough lower delays
+if the recoil is pulling too mutch higher the delays
+if both of those dont help enough change mouse cords
+make sure to change the mouse settings 1x/y at a time</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 6 ms
+MoveR 0 17
+Delay 7 ms
+MoveR -1 17
+Delay 6 ms
+MoveR 0 18
+Delay 6 ms
+MoveR -1 17
+Delay 7 ms
+MoveR 0 17
+Delay 6 ms
+MoveR -1 17
+Delay 6 ms
+MoveR 0 18
+Delay 6 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

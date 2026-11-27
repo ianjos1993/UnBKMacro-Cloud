@@ -1,0 +1,139 @@
+<Root>
+  <DefaultMacro>
+    <Major>Автоматический сбор мусора в исправительной колонии AMAZING ONLINE</Major>
+    <Description>Условия корректной работы:
+
+- Разрешение экрана: 1920×1080. При других настройках координаты кликов и зоны поиска объектов будут смещены.
+
+- Начальная позиция: строго на специальной метке рядом с NPC Сявой. От этой точки отсчитываются все координаты маршрута.
+
+- Отсутствие препятствий на маршруте (другие игроки,  и т. п.).
+
+Порядок использования
+
+1) Установите разрешение экрана 1920×1080.
+
+2) Переместите персонажа на метку рядом с NPC Сявой.
+
+3) Запустите макрос.
+
+Дождитесь завершения процесса: персонаж пройдёт по запрограммированному маршруту, соберёт все доступные кучки мусора и отнесёт их в мусорный бак.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 234 ms
+KeyUp 26 1
+Delay 124 ms
+KeyDown 8 1
+Delay 214 ms
+KeyUp 8 1
+Delay 241 ms
+KeyDown 44 1
+Delay 60
+KeyUp 44 1
+Delay 60
+KeyDown 44 1
+Delay 60
+KeyUp 44 1
+Delay 60
+KeyDown 44 1
+Delay 60
+KeyUp 44 1
+Delay 60
+KeyDown 26 1
+Delay 432 ms
+KeyUp 26 1
+Delay 435 ms
+KeyDown 26 1
+Delay 23 ms
+KeyUp 26 1
+Delay 60
+KeyDown 8 1
+Delay 234 ms
+KeyUp 8 1
+Delay 722 ms
+MoveR 702 354
+KeyDown 44 1
+Delay 60
+KeyUp 44 1
+Delay 60
+KeyDown 44 1
+Delay 60
+KeyUp 44 1
+Delay 60
+KeyDown 44 1
+Delay 60
+KeyUp 44 1
+Delay 60
+KeyDown 8 1
+Delay 60
+KeyUp 8 1
+Delay 60
+KeyDown 8 1
+Delay 60
+KeyUp 8 1
+Delay 60
+KeyDown 8 1
+Delay 60
+KeyUp 8 1
+Delay 1500 ms
+LeftDown 1
+Delay 60
+LeftUp 1
+Delay 60
+RightDown 1
+Delay 60
+RightUp 1
+Delay 60
+KeyDown 81 1
+Delay 60
+KeyUp 81 1
+Delay 563 ms
+KeyDown 81 1
+Delay 213 ms
+KeyUp 81 1
+Delay 124 ms
+KeyDown 88 1
+Delay 60
+KeyUp 88 1
+Delay 60
+KeyDown 88 1
+Delay 60
+KeyUp 88 1
+Delay 60
+KeyDown 88 1
+Delay 60
+KeyUp 88 1
+Delay 60
+KeyDown 88 1
+Delay 60
+KeyUp 88 1
+Delay 60
+KeyDown 226 1
+Delay 34
+KeyUp 226 1
+Delay 34
+KeyDown 6 1
+Delay 34
+KeyUp 6 1
+Delay 34
+KeyDown 6 1
+Delay 34
+KeyUp 6 1
+Delay 34
+MoveR 500 240
+Delay 34
+LeftDown 1
+Delay 34
+LeftUp 1
+Delay 34</Syntax>
+    </KeyDown>
+    <Software>GTA: Criminal Russia (CRMP)</Software>
+  </DefaultMacro>
+</Root>

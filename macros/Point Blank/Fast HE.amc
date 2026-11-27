@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>Быстрая откид гранаты.</Major>
+    <Description>Всем пламенный, с вами uniOn.
+
+Написал для вас максимально полезный макросик
+Я знаю что много кто ставит макрос 3-1 на ЛКМ и чтобы кинуть гранату приходится извращатся и отключать слежение за клавишами, но поставив мой макрос, вам не придется это делать!
+Ставите на боковые клавишы мыши и ваш персонаж кинет гранату куда вам понадобится, и не нужно отключать основной макрос забинженный на ЛКМ, сам использую это
+Подходит под любую сенсу, под любые перки, под любую герцовку, поэтому инструктажа не будет)
+
+Всем добра)</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 130 ms
+LeftUp 1
+Delay 130 ms
+KeyDown 30 1
+Delay 40 ms
+KeyUp 30 1
+Delay 40 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

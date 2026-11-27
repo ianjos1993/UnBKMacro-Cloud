@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>HetZ - Rust Berdanka private 4x HetZ - Rust Berdanka private 4x HetZ - Rust Berdanka private 4x HetZ - Rust Berdanka private 4x</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>IfKey 2 1 5
+IfKey 2 0 3
+Delay 64 ms
+LeftDown 1
+Delay 15 ms
+MoveR 0 15
+Delay 15 ms
+MoveR 0 12
+Delay 15 ms
+MoveR 0 12
+Delay 15 ms
+MoveR 0 12
+Delay 15 ms
+MoveR 0 12
+Delay 15 ms
+MoveR 0 12
+Delay 15 ms
+MoveR 0 12
+Delay 15 ms
+MoveR 0 12
+Delay 15 ms
+MoveR 0 14
+LeftUp 1
+Delay 20 ms
+MoveR 0 10
+GoWhile 5 17
+DelayS 1 s</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,57 @@
+<Root>
+  <DefaultMacro>
+    <Major>auto miner grand rp</Major>
+    <Description>This macro is designed for Grand RP and automates the mining process, making it much easier and more efficient. It works with a resolution of 1920x1080 and should be used in windowed mode without a frame to ensure accurate detection.
+
+The macro handles the mining process seamlessly, reducing the need for manual input while keeping everything running smoothly. It’s great for players who want to maximize their mining efficiency without constantly clicking.
+Just make sure to follow the correct setup instructions to avoid any issues. Enjoy a more relaxed mining experience with this macro!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1 s
+Delay 64
+KeyDown 8 1
+Delay 6 s
+KeyUp 8 1
+Delay 6 s
+KeyDown 26 1
+Delay 2 s
+KeyUp 26 1
+Delay 1 s
+KeyDown 8 1
+Delay 6 s
+KeyUp 8 1
+Delay 6 s
+Delay 1 s
+KeyDown 22 1
+Delay 2 s
+KeyUp 22 1
+Delay 64
+Delay 64
+KeyDown 8 1
+Delay 6 s
+KeyUp 8 1
+Delay 6 s
+KeyDown 26 1
+Delay 2 s
+KeyUp 26 1
+Delay 1 s
+KeyDown 8 1
+Delay 6 s
+KeyUp 8 1
+Delay 6 s
+Delay 1 s
+KeyDown 22 1
+Delay 2 s
+KeyUp 22 1
+Delay 64
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

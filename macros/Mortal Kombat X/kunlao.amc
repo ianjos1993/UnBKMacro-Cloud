@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простой макрос но иногда кулачки кунлао трудно самому нажать, Поэтому можно юзать этот простой макрос. 
+Работает в любом положении в любой вариации.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 13 1
+Delay 14
+KeyUp 13 1
+Delay 28 ms
+KeyDown 13 1
+Delay 14
+KeyUp 13 1
+Delay 64 ms
+KeyDown 12 1
+Delay 14
+KeyUp 12 1
+Delay 28 ms
+KeyDown 13 1
+Delay 14
+KeyUp 13 1
+Delay 28 ms
+KeyDown 12 1
+Delay 14
+KeyUp 12 1
+Delay 64 ms
+KeyDown 15 1
+Delay 14
+KeyUp 15 1
+Delay 14</Syntax>
+    </KeyDown>
+    <Software>Mortal Kombat X</Software>
+  </DefaultMacro>
+</Root>

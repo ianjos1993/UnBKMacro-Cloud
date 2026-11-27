@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макросы для тех кто не умеет быстро взрывать якори возрождения
+даный макрос может подойти для разных серверов анахии и smp
+чтобы ныастроить макрос под себя надо заменить f на цифру или букву на которую у вас забинжен якорь, букву c надо заменить на слот на котором у вас стоит светопыль
+букву х надо заменить на слот в котором у вас стоит меч
+на этом все. удачной игры
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 50 ms
+KeyDown 9 1
+KeyUp 9 1
+Delay 50 ms
+RightDown 1
+RightUp 1
+Delay 50 ms
+KeyDown 6 1
+KeyUp 6 1
+Delay 50 ms
+RightDown 1
+RightUp 1
+Delay 50 ms
+KeyDown 27 1
+KeyUp 27 1
+Delay 50 ms
+RightDown 1
+RightUp 1
+Delay 50 ms
+LeftDown 1
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

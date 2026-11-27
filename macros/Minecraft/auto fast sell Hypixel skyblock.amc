@@ -1,0 +1,64 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос рассчитан на  версию майнкрафта 1.8.9,
+1.Макрос прописывает /hub и идет к нпс.
+2.Кликает на Sell Inventory Now и подтверждает.
+Примечание: Убедитесь что ничего дорого вам что вы можете случайно продать (кроме того чего хотите) имеется у вас в инвентаре.
+Макрос работает только в полноэкранном режиме!
+
+
+Макрос был проверен на версии 1.8.9 LunarClient (v2.19.6) Монитор 1920x1080
+Макрос можно вставить в другие макросы чтобы полностью автоматизировать автофарм!
+Внимание, макросы запрещены на SkyBlock, будьте внимательны когда фармите, потому что вас могут проверить на макросы, не советую оставлять на ночь или на продолжительное время, ведь вас могу забанить и почистить аккаунт полностью. Используйте на свой страх и риск.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 64 ms
+KeyUp 23 1
+Delay 64 ms
+KeyDown 56 1
+Delay 64 ms
+KeyUp 56 1
+KeyDown 11 1
+KeyUp 11 1
+KeyDown 24 1
+KeyUp 24 1
+KeyDown 5 1
+KeyUp 5 1
+KeyDown 88 1
+KeyUp 88 1
+Delay 2000 ms
+MoveR -1450 0
+Delay 2000 ms
+KeyDown 26 1
+Delay 3000 ms
+KeyUp 26 1
+KeyDown 26 1
+KeyDown 44 1
+Delay 64 ms
+KeyUp 44 1
+KeyUp 26 1
+MoveR -460 600
+Delay 1000 ms
+LeftDown 1
+LeftUp 1
+Delay 1000 ms
+MoveTo 890 540
+Delay 1000 ms
+LeftDown 1
+LeftUp 1
+MoveTo 900 444
+Delay 1000 ms
+LeftDown 1
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

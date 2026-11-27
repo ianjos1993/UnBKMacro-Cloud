@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major>Untitled Combat Demo Rework</Major>
+    <Description>auro KAI авто qte для сукуны в UCDR (Untitled Combat Demo Rework)
+для использавания ндо быть в воздухе лучшее прыгнуть перед тем как использовать
+Air 2+(забинженая кнопка с макросом)</Description>
+    <Comment>Для тех кому совсем лень написать 3 буквы за 1 секунду</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 14 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyDown 12 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,99 @@
+<Root>
+  <DefaultMacro>
+    <Major>Макрос на корабль VENTURE</Major>
+    <Description>Макроси для быстрой атаки буровых утсановок , свап с лазеров на ракеты
+Макрос на стандартную раскладку , выбрал атаковас , сменил позицию ( подождало отката лазеров ) и опять аткак , проходит цикл и по новой нажимайте макрос
+</Description>
+    <Comment>Нажал и или убил или умер)
+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 2012 ms
+KeyDown 43 1
+Delay 59 ms
+KeyUp 43 1
+Delay 358 ms
+MiddleDown 1
+Delay 133 ms
+MiddleUp 1
+Delay 1319 ms
+KeyDown 43 1
+Delay 144 ms
+KeyUp 43 1
+Delay 435 ms
+MiddleDown 1
+Delay 120 ms
+MiddleUp 1
+Delay 352 ms
+KeyDown 30 1
+Delay 143 ms
+KeyUp 30 1
+Delay 167 ms
+KeyDown 31 1
+Delay 131 ms
+KeyUp 31 1
+Delay 139 ms
+KeyDown 32 1
+Delay 116 ms
+KeyUp 32 1
+Delay 987 ms
+KeyDown 44 1
+Delay 96 ms
+KeyUp 44 1
+Delay 1243 ms
+KeyDown 29 1
+Delay 83 ms
+KeyUp 29 1
+Delay 116 ms
+KeyDown 27 1
+Delay 80 ms
+KeyUp 27 1
+Delay 107 ms
+KeyDown 6 1
+Delay 59 ms
+KeyUp 6 1
+Delay 3060 ms
+KeyDown 39 1
+Delay 88 ms
+KeyUp 39 1
+Delay 691 ms
+KeyDown 45 1
+Delay 68 ms
+KeyUp 45 1
+Delay 55 ms
+KeyDown 45 1
+Delay 72 ms
+KeyUp 45 1
+Delay 443 ms
+KeyDown 43 1
+Delay 135 ms
+KeyUp 43 1
+Delay 586 ms
+MiddleDown 1
+Delay 126 ms
+MiddleUp 1
+Delay 382 ms
+KeyDown 30 1
+Delay 136 ms
+KeyUp 30 1
+Delay 167 ms
+KeyDown 31 1
+Delay 147 ms
+KeyUp 31 1
+Delay 116 ms
+KeyDown 32 1
+Delay 111 ms
+KeyUp 32 1
+Delay 3224 ms
+LeftDown 1
+Delay 84 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>EVE Online</Software>
+  </DefaultMacro>
+</Root>

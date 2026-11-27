@@ -1,0 +1,57 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос на томпсон, сделан для чувствительности 0.9( во всех трех пунктах)
+разрешение экрана 2080*1440, FOV 90
+зажимать лучше сидя, стоя плохо работает</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 25 ms
+MoveR 3 2
+Delay 25 ms
+MoveR 2 2
+Delay 25 ms
+MoveR -2 2
+Delay 25 ms
+MoveR -3 2
+Delay 25 ms
+MoveR -3 2
+Delay 25 ms
+MoveR 0 2
+Delay 25 ms
+MoveR 2 0
+Delay 25 ms
+MoveR 3 2
+Delay 25 ms
+MoveR 3 2
+Delay 25 ms
+MoveR 2 2
+Delay 25 ms
+MoveR 0 2
+Delay 25 ms
+MoveR -2 2
+Delay 25 ms
+MoveR -3 2
+Delay 25 ms
+MoveR -3 2
+Delay 25 ms
+MoveR -3 2
+Delay 25 ms
+MoveR 2 0
+Delay 25 ms
+MoveR 2 2
+Delay 25 ms
+MoveR 2 2
+Delay 25 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

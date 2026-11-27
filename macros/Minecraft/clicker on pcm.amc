@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major>Karyk</Major>
+    <Description>Данный макрос создан не исключительно для удочки в пвп, так как в нём присуствуем быстрое нажимание на ПКМ и определёные слоты.
+Всё зависит от вашей же фантазии.
+Инструкция по использованию макроса:
+1.Скачиваем макрос.
+2.Биндим на удобную вами клавишу.
+3.Ставим на одноразовое исользование при одноразовом нажатий.
+4.Заходим в игру.
+5.Во время пвп нажимаем выбраную вами клавишу, и удочка автоматически ударит крючком противника, после сразу же выберет первый слот. (ВНИМАНИЕ!!!) Меч обязательно должен находится на 1 слоте, а удочка на 3. При неправильной рассортировки предметов макрос будет работать не правильно.
+Так же вы всегда можете его немного под редактировать.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 10
+RightUp 1
+Delay 10
+RightDown 1
+Delay 10
+RightUp 1
+Delay 10
+RightDown 1
+Delay 10
+RightUp 1
+Delay 10
+RightDown 1
+Delay 10
+RightUp 1
+Delay 10
+RightDown 1
+Delay 10
+RightUp 1
+Delay 10
+RightDown 1
+Delay 30
+RightUp 1
+Delay 30</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

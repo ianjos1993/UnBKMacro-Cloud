@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для Slap Battles, который может вам помочь с достижением MEGAROCK или Golden Slappel
+Вовремя этого макрос будет делать... он будет нажимать на WASD.
+Надеюсь что он будет нужен.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+KeyUp 26 1
+Delay 5 ms
+KeyDown 7 1
+KeyUp 7 1
+Delay 5 ms
+KeyDown 4 1
+KeyUp 4 1
+Delay 5 ms
+KeyDown 22 1
+KeyUp 22 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

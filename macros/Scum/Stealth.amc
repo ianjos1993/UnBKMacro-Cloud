@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Прокачка выживания. Для этого необходимо лечь на землю в безопасном месте, можно в кустах, и включить макрос. Не забудьте зациклить, выставив настройки на повторное нажатие клавиши.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 1079 ms
+KeyUp 26 1
+Delay 288 ms
+KeyDown 22 1
+Delay 1384 ms
+KeyUp 22 1</Syntax>
+    </KeyDown>
+    <Software>Scum</Software>
+  </DefaultMacro>
+</Root>

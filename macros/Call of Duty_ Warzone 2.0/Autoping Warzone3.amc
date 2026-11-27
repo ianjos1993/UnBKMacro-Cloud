@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>Cleitin do mw3</Major>
+    <Description>READ BEFORE USE
+Using the application is simple, when you aim and then shoot your enemy within the game, that is, within Cally Of duty Warzone 3, the enemy will be automatically marked, but remember you don't need to aim for it to be marked, If you just click to shoot, that is, press the left mouse button, with the crosshairs on the enemy he will be automatically marked. For everything to work correctly, you have to make the following settings within the game.
+Enter the settings tab;
+Go to the Keyboard and mouse tab;
+Then shortcuts;
+Scroll down to the tab: Overlay shortcuts;
+And where it says "MARK", you will click on the little ball in the middle of the mouse. If the middle mouse ball click is already assigned, then it will be working 100% percent. If not, do the configuration I explained.It works in any resolution but I recommend that you set it to your computer's native resolution. For example 1920x1080</Description>
+    <Comment>CALLY OF DUTY, WARZONE 3, MODERN WARFARE 3, MW3</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 75 ms
+Delay 410 ms
+MiddleDown 1
+Delay 90 ms
+MiddleUp 1
+Delay 100 ms</Syntax>
+    </KeyDown>
+    <Software>Call of Duty: Warzone 3.0 And 2.0</Software>
+  </DefaultMacro>
+</Root>

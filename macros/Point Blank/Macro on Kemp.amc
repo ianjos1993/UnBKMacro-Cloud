@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для ураганного шутера Point Blank.
+Всегда мечтали сделать один выстрел со снайперки и сразу быстро сделать смену??
+Мой макрос вам поможет!
+Не хотите платить 1400 и 700 рублей за ПО+мышку от bloody?
+Юзайте BotMek =)
+Что делает мой макрос?
+Представьте ситуацию,
+На вас вышли двое противников,у вас снайперка и вы с  моим макросом.
+вы быстро жмете на кнопку зума,наводите и делаете выстрел,макрос после выстрела нажимает клавиши 3-1 что делает смену оружие без передёргивания затвора,и убиваете второго.
+Что вам удобнее?
+нажимать 3 кнопки или 1 ?
+Решать только вам.
+Для тех кто в танке:За макросы банов не дают!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 24
+LeftUp 1
+KeyDown 32 1
+Delay 24
+KeyUp 32 1
+KeyDown 30 1
+Delay 24
+KeyUp 30 1
+Delay 30 ms
+Delay 395 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

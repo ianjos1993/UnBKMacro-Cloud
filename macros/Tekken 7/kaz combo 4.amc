@@ -1,0 +1,231 @@
+<Root>
+  <DefaultMacro>
+    <Major>Kazuya hellsweep combo</Major>
+    <Description>Макрос позволяет выполнять hellsweep combo за Kazuya.
+Видео демонстрации работы макроса: https://youtu.be/CMRRvMF7wQU
+
+Казуя является родным сыном владельца "Мишима Зайбацу" - Хейхачи Мишимы. В детстве, когда Казуе было 5 лет, отец решил сбросить его со скалы, чтобы тот мог доказать - сможет ли он выжить, чтобы стать достойным наследником семейной компании. Казуе удаётся выжить после падения, заработав огромный шрам на своём теле (от левой ключицы до правой прямой мышцы живота). И всё благодаря дьявольскому гену, который достался ему от матери — Казуми, которую Хейхачи убил задолго до этих событий. Спустя 21 год, Хейхачи объявляет начало турнира "Железного Кулака". Казуя, узнав об этом, понял, что это - идеальная возможность отомстить своему отцу. Казуя побеждает, сбрасывая Хейхачи с той самой скалы, с которой был сброшен им. И так начинается увлекательная история персонажа.
+
+Тестирование макроса проводились на последнем патче игры на 27.11.2023 (5.01 патч)
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#kazuyatekken7 #tekken7 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 71 ms
+KeyUp 7 1
+Delay 47 ms
+KeyDown 22 1
+Delay 16 ms
+KeyDown 7 1
+Delay 40 ms
+KeyDown 77 1
+Delay 39 ms
+KeyDown 73 1
+Delay 40 ms
+KeyUp 77 1
+Delay 23 ms
+KeyUp 22 1
+Delay 15 ms
+KeyUp 7 1
+Delay 16 ms
+KeyUp 73 1
+Delay 407 ms
+KeyDown 7 1
+Delay 128 ms
+KeyDown 76 1
+Delay 71 ms
+KeyUp 76 1
+Delay 111 ms
+KeyDown 76 1
+Delay 64 ms
+KeyUp 76 1
+Delay 96 ms
+KeyDown 76 1
+Delay 71 ms
+KeyUp 76 1
+Delay 96 ms
+KeyDown 76 1
+Delay 71 ms
+KeyUp 76 1
+Delay 72 ms
+KeyDown 76 1
+Delay 72 ms
+KeyUp 76 1
+Delay 71 ms
+KeyDown 76 1
+Delay 55 ms
+KeyDown 4 1
+Delay 7 ms
+KeyUp 7 1
+Delay 7 ms
+KeyUp 76 1
+Delay 56 ms
+KeyUp 4 1
+Delay 64 ms
+KeyDown 4 1
+Delay 383 ms
+KeyUp 4 1
+Delay 120 ms
+KeyDown 73 1
+Delay 63 ms
+KeyUp 73 1
+Delay 263 ms
+KeyDown 7 1
+Delay 64 ms
+KeyUp 7 1
+Delay 63 ms
+KeyDown 7 1
+Delay 104 ms
+KeyDown 73 1
+Delay 48 ms
+KeyUp 7 1
+Delay 7 ms
+KeyUp 73 1
+Delay 111 ms
+KeyDown 4 1
+Delay 104 ms
+KeyDown 77 1
+Delay 63 ms
+KeyUp 77 1
+Delay 79 ms
+KeyDown 77 1
+Delay 95 ms
+KeyUp 77 1
+Delay 55 ms
+KeyDown 7 1
+Delay 8 ms
+KeyDown 22 1
+Delay 15 ms
+KeyUp 4 1
+Delay 440 ms
+KeyUp 22 1
+Delay 56 ms
+KeyUp 7 1
+Delay 127 ms
+KeyDown 7 1
+Delay 47 ms
+KeyUp 7 1
+Delay 64 ms
+KeyDown 7 1
+Delay 255 ms
+KeyDown 22 1
+Delay 24 ms
+KeyDown 73 1
+Delay 80 ms
+KeyDown 77 1
+Delay 31 ms
+KeyUp 73 1
+Delay 47 ms
+KeyUp 22 1
+Delay 8 ms
+KeyUp 77 1
+Delay 40 ms
+KeyUp 7 1
+Delay 39 ms
+KeyDown 22 1
+Delay 55 ms
+KeyDown 7 1
+Delay 56 ms
+KeyDown 4 1
+Delay 359 ms
+KeyUp 4 1
+Delay 48 ms
+KeyUp 22 1
+Delay 87 ms
+KeyUp 7 1
+Delay 143 ms
+KeyDown 7 1
+Delay 71 ms
+KeyUp 7 1
+Delay 64 ms
+KeyDown 7 1
+Delay 144 ms
+KeyUp 7 1
+Delay 47 ms
+KeyDown 22 1
+Delay 31 ms
+KeyDown 7 1
+Delay 104 ms
+KeyUp 22 1
+Delay 32 ms
+KeyDown 77 1
+Delay 31 ms
+KeyUp 7 1
+Delay 32 ms
+KeyUp 77 1
+Delay 71 ms
+KeyDown 7 1
+Delay 56 ms
+KeyUp 7 1
+Delay 63 ms
+KeyDown 7 1
+Delay 23 ms
+KeyDown 22 1
+Delay 80 ms
+KeyDown 73 1
+Delay 63 ms
+KeyUp 73 1
+Delay 80 ms
+KeyDown 73 1
+Delay 119 ms
+KeyUp 73 1
+Delay 31 ms
+KeyDown 77 1
+Delay 119 ms
+KeyDown 4 1
+Delay 8 ms
+KeyUp 7 1
+Delay 7 ms
+KeyUp 77 1
+Delay 8 ms
+KeyUp 22 1
+Delay 55 ms
+KeyUp 4 1
+Delay 55 ms
+KeyDown 4 1
+Delay 559 ms
+KeyUp 4 1
+Delay 136 ms
+KeyDown 7 1
+Delay 63 ms
+KeyUp 7 1
+Delay 32 ms
+KeyDown 22 1
+Delay 31 ms
+KeyDown 7 1
+Delay 32 ms
+KeyDown 76 1
+Delay 79 ms
+KeyUp 22 1
+Delay 7 ms
+KeyUp 76 1
+Delay 23 ms
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 7</Software>
+  </DefaultMacro>
+</Root>

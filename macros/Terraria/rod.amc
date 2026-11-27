@@ -1,0 +1,68 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для фарма предмета Rod of Discord (Жезл Раздора) в игре Terraria
+
+Функционал макроса достаточно простой и полностью автоматизирован:
+-Персонаж перемещается вправо и влево
+-Автоматически складывает предметы в ближайшие сундуки
+-Прыгает для спавна Элементалей Хаоса
+-Устанавливает турель призыва для атаки мобов
+-Использует баффы для увеличения спавна врагов
+-Повторяет цикл бесконечно
+
+Макрос предназначен для использования на мониторах с разрешением 1920×1080 при игре в полноэкранном режиме.
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 1 s
+KeyUp 4 1
+Delay 64
+KeyDown 7 1
+Delay 1 s
+KeyUp 7 1
+Delay 64
+KeyDown 4 1
+Delay 400 ms
+KeyUp 4 1
+Delay 64
+KeyDown 44 1
+Delay 1 min
+KeyUp 44 1
+Delay 64
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 64
+KeyDown 5 1
+Delay 64
+KeyUp 5 1
+Delay 64
+MoveTo 967 445
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 570 289
+Delay 64
+GoWhile 1 50000</Syntax>
+    </KeyDown>
+    <Software>Terraria</Software>
+  </DefaultMacro>
+</Root>

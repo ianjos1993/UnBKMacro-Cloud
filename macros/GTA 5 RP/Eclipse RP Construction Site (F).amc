@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>Sagiri</Major>
+    <Description>Макрос на стройку клавиша (F)
+Доступно всего 3 макроса на стройку
+Установка:
+1) Скачиваете
+2) Устонавливаете 3 макроса на 3 клавиши это (E),(Y),(F)
+3) Подходите к точке работы и смотрите какая кнопка и зажимаете её</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 5 ms
+KeyDown 9 1
+KeyDown 9 1
+KeyDown 9 1
+Delay 5 ms
+KeyDown 9 1
+KeyDown 9 1
+KeyDown 9 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

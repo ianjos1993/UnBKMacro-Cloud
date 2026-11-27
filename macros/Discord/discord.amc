@@ -1,0 +1,97 @@
+<Root>
+  <DefaultMacro>
+    <Major>Discord Economy Grinder</Major>
+    <Description>this is a macro set to auto grind on discord.
+it is default set to work on 2 discord accounts at the same time (one in the discord app one in a search enginge.
+just put the 2 discord tabs side by side in window mode then relocate the curser to the type section on both tabs
+if you want it for just 1 discord tab then delete the first half up until the cursor locate
+then you can run it.
+change the /' command to whatever you want its set to a 30s delay between runs currently you can also change that.
+screen resolution is set to 1920 x 1080p
+
+Step 1) Load discord on 1 or 2 accounts
+Step 2) Reposition Curser starting point to the type bar in your window
+Step 3) replace /work with your command or leave it
+Step 4) If you only want to run it on one discord account then delete the first half or replace with a second command
+Step 5) change the delay at the end to whatever time the cooldown is on the discord bot
+Step 6) Enjoy
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 373 997
+LeftDown 1
+LeftUp 1
+KeyDown 56 1
+KeyUp 56 1
+Delay 100 200 ms
+KeyDown 26 1
+Delay 100 200 ms
+KeyUp 26 1
+Delay 100 200 ms
+KeyDown 18 1
+Delay 100 200 ms
+KeyUp 18 1
+Delay 100 200 ms
+KeyDown 21 1
+Delay 100 200 ms
+KeyUp 21 1
+Delay 100 200 ms
+KeyDown 14 1
+Delay 100 200 ms
+KeyUp 14 1
+Delay 100 200 ms
+KeyDown 88 1
+Delay 100 200 ms
+KeyUp 88 1
+Delay 100 200 ms
+KeyDown 88 1
+Delay 100 200
+KeyUp 88 1
+Delay 100 200
+MoveTo 1327 994
+Delay 100 200 ms
+LeftDown 1
+Delay 100 200 ms
+LeftUp 1
+Delay 100 200 ms
+KeyDown 56 1
+Delay 100 200 ms
+KeyUp 56 1
+Delay 100 200 ms
+KeyDown 26 1
+Delay 100 200 ms
+KeyUp 26 1
+Delay 100 200 ms
+KeyDown 18 1
+Delay 100 200 ms
+KeyUp 18 1
+Delay 100 200 ms
+KeyDown 21 1
+Delay 100 200 ms
+KeyUp 21 1
+Delay 100 200 ms
+KeyDown 14 1
+Delay 100 200 ms
+KeyUp 14 1
+Delay 100 200 ms
+KeyDown 88 1
+Delay 100 200 ms
+KeyUp 88 1
+Delay 100 200
+KeyDown 88 1
+Delay 100 200
+KeyUp 88 1
+Delay 100 200 ms
+Delay 35000 40000 ms</Syntax>
+    </KeyDown>
+    <Software>Discord</Software>
+  </DefaultMacro>
+</Root>

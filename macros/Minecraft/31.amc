@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос создан для сервера VimeMc для игры ThePit Но нужен перк на золотые головы
+Вам необходим автокликер для пвп но можно и без него при пвп нажимаете на боковую кнопку и едите голову автоматически </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 60 ms
+KeyUp 32 1
+Delay 60 ms
+KeyDown 30 1
+Delay 60 ms
+KeyUp 30 1
+Delay 60 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

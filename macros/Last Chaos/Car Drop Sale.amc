@@ -1,0 +1,109 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Расширение окнна 800-600
+Вячейку №7 ставим свиток продажи
+Скрипт автоматической продажи срабатывает каждые 5 мин</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//Расширение окна должно быть 800-600
+//нажать на свиток продажи (ячейка№7)
+KeyDown 36 1
+Delay 100 ms
+KeyUp 36 1
+Delay 1000 ms
+//Нажать кнопку "Продать"
+MoveTo 1292 582
+Delay 100 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 100 ms
+//ячейка№1
+MoveTo 1319 497
+Delay 100 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 100 ms
+//ячейка№2
+MoveTo 1354 500
+Delay 100 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 100 ms
+//ячейка№3
+MoveTo 1388 497
+Delay 100 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 100 ms
+//ячейка№4
+MoveTo 1423 497
+Delay 100 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 100 ms
+//ячейка№5
+MoveTo 1460 498
+Delay 100 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 100 ms
+//ячейка№6
+MoveTo 1319 534
+Delay 100 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 100 ms
+//ячейка№7
+MoveTo 1353 533
+Delay 100 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 100 ms
+//ячейка№8
+MoveTo 1388 532
+Delay 100 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 100 ms
+//ячейка№9
+MoveTo 1425 533
+Delay 100 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 100 ms
+//ячейка№10
+MoveTo 1461 534
+Delay 100 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 100 ms
+//нажать кнопку "Продать"
+MoveTo 1417 641
+Delay 100 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 5 min
+GoWhile 1 1111</Syntax>
+    </KeyDown>
+    <Software>Last chaos</Software>
+  </DefaultMacro>
+</Root>

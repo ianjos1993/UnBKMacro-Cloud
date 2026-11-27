@@ -1,0 +1,56 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>
+
+хороший автофарм на грузчике, подходите к телеге c ящиками и запускаете программу
+(там будет линия, на этой линии второй блок ставить и смотрите в сторону разгрзки, остальное за вас сделает макрос)
+
+9 тысяч за час спокойно нарабатываете.
+
+На ночь если поставить будет вообще песня
+
+сервер для фарма BOSSMC
+
+разрешение экрана----1600х900
+
+если будут какие-то вопросы готов ответить, приятной всем игры
+</Description>
+    <Comment>Макрос очень хороший, писал сам без запоминания клавш, сделал так чтобы пользователи были довольны, и извиняюсь за кол-во заявок, мой первый макрос запускаемый в базу, пытаюсь выполнить задание на 1-7 дней подписки</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 6500 ms
+KeyUp 26 1
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 3500 440
+Delay 64
+MoveTo 1200 440
+Delay 64
+KeyDown 26 1
+Delay 6500 ms
+KeyUp 26 1
+Delay 64
+RightDown 1
+Delay 1 s
+RightDown 1
+Delay 1 s
+RightDown 1
+Delay 64
+MoveTo 3500 440
+Delay 64
+MoveTo 1200 440
+Delay 64
+GoWhile 1 50</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major>BasketBall auto farm</Major>
+    <Description>Ez system to take 300 coins every 15 minuts in good game Basketball Legends
+Топ система чтоб фармить 300 монет каждые 15 минут в хорошей игре Basketball Legends
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 200 ms
+KeyUp 26 1
+Delay 20 ms
+KeyDown 22 1
+Delay 200 ms
+KeyUp 22 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

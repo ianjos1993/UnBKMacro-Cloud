@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Доброго времени суток.Сегодня я решил написать макрос,который будет полезен для большинства серверов майнкрафта.И таким макросом является Auto Reload.Суть этого макроса довольно проста.И заключается она в автоматической перезагрузке сервера.Перезагрузка сервера иногда необходима,для того чтобы повысить качество игры,а так же увеличить TPS сервера.В целом,я считаю что данный макрос можно использовать для клан варов,чтобы снизить нагрузку на сервер,и как я писал выше,повысить качество игры.
+
+Инструкция по настройке:
+1)Скачайте представленный ниже макрос на свое устройство.
+2)Запустите панель управления клавиатурой Keyran в приложении.
+3)Выберите необходимую для удобного использования клавишу или кнопку мыши.
+4)Нажимая правой кнопкой мыши по клавише назначьте на нее макрос.
+5)Сохраните все изменения и используйте макрос.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 32 ms
+KeyUp 56 1
+Delay 32 ms
+KeyDown 21 1
+Delay 32 ms
+KeyUp 21 1
+Delay 32 ms
+KeyDown 8 1
+Delay 32 ms
+KeyUp 8 1
+Delay 32 ms
+KeyDown 15 1
+Delay 32 ms
+KeyUp 15 1
+Delay 32 ms
+KeyDown 18 1
+Delay 32 ms
+KeyUp 18 1
+Delay 32 ms
+KeyDown 4 1
+Delay 32 ms
+KeyUp 4 1
+Delay 32 ms
+KeyDown 7 1
+Delay 32 ms
+KeyUp 7 1
+Delay 32 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

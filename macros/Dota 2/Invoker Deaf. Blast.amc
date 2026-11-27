@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Каст на абилку сделан с адекватной задержкой,биндить советую на Q,W,E,R,T,Y,U,на ваш выбор,бинды на данные клавиши не будут мешать сферам инвокера,пользуйтесь)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 30 ms
+KeyDown 8 1
+Delay 30 ms
+KeyDown 26 1
+Delay 33 ms
+KeyUp 8 1
+Delay 17 ms
+KeyDown 20 1
+Delay 30 ms
+KeyUp 26 1
+Delay 31 ms
+KeyUp 20 1
+Delay 30 ms
+KeyDown 21 1
+Delay 30 ms
+KeyUp 21 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

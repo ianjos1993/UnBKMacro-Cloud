@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простой макрос для CyberCode Online
+Разрешение: 1600-900
+Просто настройте на любую желаемую кнопку
+Данный макрос хилит и наносит урон разрушительным оружием</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR 95 -7
+Delay 64
+MoveTo 924 689
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveR 131 -21
+Delay 64
+Delay 1600 ms
+MoveTo 922 783
+Delay 64 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 2300 ms
+MoveR 85 -5
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>CyberCode Online</Software>
+  </DefaultMacro>
+</Root>

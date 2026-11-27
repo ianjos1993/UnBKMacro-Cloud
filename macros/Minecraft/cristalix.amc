@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Бот для фарма на спавнерах, использую на кристаликсе.
+Использую для майнкрафта, также может подходить для других игр.
+Активация - твердый знак.
+Запуск кликера - боковая клавиша мыши.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 21 ms
+LeftUp 1
+Delay 28 ms
+GoWhile 1 9999999</Syntax>
+    </KeyDown>
+    <Software>minecraft</Software>
+  </DefaultMacro>
+</Root>

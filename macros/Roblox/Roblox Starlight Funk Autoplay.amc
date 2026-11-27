@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>It's not really autoplay, you can miss on long notes, but on short notes you wont miss, I tested this on Electric Butterfly, full combo, not a single miss.
+Set your keybinds to Q, E, T, U before trying!
+Q: Left
+E: Down
+T: Up
+U: Right</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 1 2 ms
+KeyDown 8 1
+Delay 1 2 ms
+KeyUp 8 1
+Delay 1 2 ms
+KeyDown 23 1
+Delay 1 2 ms
+KeyUp 23 1
+Delay 1 2 ms
+KeyDown 24 1
+Delay 1 2 ms
+KeyUp 24 1
+Delay 1 2 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

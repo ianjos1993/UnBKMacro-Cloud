@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>данный макрос превращает вашего голема и поддерживает его превращение на протяжении всей карты. для стабильной работы макроса максимальное количество существ бездны должно быть 3 но работает и при максимальном количестве 2. помимо этого макрос выполняет открытии ящиков активацию алтарей. также выполняет автоматическое нажатие скила сбор прислужников.
+
+горячие клавиши для стабильной работы макроса:
+призыв существ бездна клавиша q 
+открытия ящика клавиша f 
+сбор прислужников клавиша w
+
+макрос ставить на любую клавишу не упомянутую выше. режим работы макроса, работать до повторного нажатия</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы  
+я понял свою ошибку тут надо все расписывать</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>varE = 20
+if varE == 20 Goto 3
+KeyDown 20 1
+Delay 64 120 ms
+KeyUp 20 1
+Delay 350 400 ms
+varE = 1
+KeyDown 9 1
+Delay 64 120
+KeyUp 9 1
+Delay 350 400 ms
+KeyDown 26 1
+Delay 64 120
+KeyUp 26 1
+Delay 350 400 ms
+varE = varE + 1
+if varE &lt; 20 Goto 8</Syntax>
+    </KeyDown>
+    <Software>Undecember</Software>
+  </DefaultMacro>
+</Root>

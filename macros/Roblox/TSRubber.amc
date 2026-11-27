@@ -1,0 +1,130 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос предназначен для автоматизации процесса прокачки уровня вашего фрукта в игре Fruit Battlegrounds. Он поможет вам эффективно развивать способности фрукта, выполняя следующие действия:
+
+1. Автоматическое использование умений фрукта: Макрос будет регулярно активировать способности вашего фрукта, что способствует накоплению опыта и повышению уровня.
+
+2. Настройка под ваши нужды: Вы можете настроить интервал между активациями способностей и атаками, чтобы адаптировать макрос под свой стиль игры.
+
+3. Безопасность: Макрос разработан с учетом правил игры, чтобы минимизировать риск блокировки аккаунта.
+
+Инструкция по использованию:
+1. Установите макрос в вашем игровом клиенте.
+2. Настройте параметры согласно вашим предпочтениям.
+3. Запустите макрос и наслаждайтесь процессом прокачки уровня вашего фрукта!
+
+Важно: Используйте макрос ответственно и соблюдайте правила игры, чтобы избежать санкций со стороны разработчиков.</Description>
+    <Comment>Здарова</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 33 1
+Delay 91 ms
+KeyUp 33 1
+Delay 52 ms
+LeftDown 1
+Delay 63 ms
+LeftUp 1
+Delay 2686 ms
+KeyDown 32 1
+Delay 97 ms
+LeftDown 1
+Delay 3 ms
+KeyUp 32 1
+Delay 52 ms
+LeftUp 1
+Delay 862 ms
+KeyDown 31 1
+Delay 75 ms
+KeyUp 31 1
+Delay 238 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 871 ms
+LeftDown 1
+Delay 63 ms
+LeftUp 1
+Delay 2057 ms
+KeyDown 30 1
+Delay 78 ms
+KeyUp 30 1
+Delay 127 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 982 ms
+KeyDown 30 1
+Delay 107 ms
+KeyUp 30 1
+Delay 38 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 1217 ms
+KeyDown 30 1
+Delay 94 ms
+KeyUp 30 1
+Delay 55 ms
+LeftDown 1
+Delay 63 ms
+LeftUp 1
+Delay 1212 ms
+KeyDown 30 1
+Delay 116 ms
+KeyUp 30 1
+Delay 38 ms
+LeftDown 1
+Delay 56 ms
+LeftUp 1
+Delay 1278 ms
+KeyDown 30 1
+Delay 107 ms
+KeyUp 30 1
+Delay 38 ms
+LeftDown 1
+Delay 48 ms
+LeftUp 1
+Delay 1261 ms
+KeyDown 30 1
+Delay 93 ms
+KeyUp 30 1
+Delay 85 ms
+LeftDown 1
+Delay 63 ms
+LeftUp 1
+Delay 1061 ms
+KeyDown 30 1
+Delay 81 ms
+KeyUp 30 1
+Delay 89 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 1054 ms
+KeyDown 30 1
+Delay 112 ms
+KeyUp 30 1
+Delay 185 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 850 ms
+KeyDown 30 1
+Delay 73 ms
+KeyUp 30 1
+Delay 220 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

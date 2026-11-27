@@ -1,0 +1,53 @@
+<Root>
+  <DefaultMacro>
+    <Major>Фарм автоталантов</Major>
+    <Description>743 324 179 - нужно зайти в гонку, нажать начать заезд, после того, как машина появится и гонка запуститься - запустите макрос и он будет работать.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 43 ms
+KeyUp 68 1
+Delay 95 ms
+KeyUp 225 1
+Delay 559 ms
+KeyDown 26 1
+Delay 296 ms
+KeyUp 26 1
+Delay 367 ms
+KeyDown 26 1
+Delay 423 ms
+KeyUp 26 1
+Delay 663 ms
+KeyDown 26 1
+Delay 688 ms
+KeyUp 26 1
+Delay 431 ms
+KeyDown 26 1
+Delay 30240 ms
+KeyUp 26 1
+Delay 5408 ms
+KeyDown 27 1
+Delay 96 ms
+KeyUp 27 1
+Delay 567 ms
+KeyDown 88 1
+Delay 95 ms
+KeyUp 88 1
+Delay 5408 ms
+KeyDown 88 1
+Delay 95 ms
+KeyUp 88 1
+Delay 4095 ms
+KeyDown 225 1
+Delay 2175 ms
+KeyDown 68 1
+GoWhile 1 500</Syntax>
+    </KeyDown>
+    <Software>Forza Horizon 5</Software>
+  </DefaultMacro>
+</Root>

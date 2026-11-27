@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Актуальный макрос-заготовка для The Strongest Battlegrounds (Roblox) на прыжковый ресет. Обходит стандартный патч разработчиков на сайд-дэши за счет микро-взлета (Space + D + Q) и двойного сброса стойки камеры через Shift Lock. Работает через включенный Драйвер Keyran. Если дамми откидывается или ставит блок, просто подкрутите задержки на строках 11, 13 и 17 под FPS вашего Roblox и сетевой пинг!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 250 ms
+LeftUp 1
+Delay 0 ms
+LeftDown 1
+Delay 130 ms
+LeftUp 1
+Delay 0 ms
+KeyDown 44 1
+KeyDown 7 1
+Delay 20 ms
+KeyDown 20 1
+Delay 40 ms
+KeyUp 20 1
+KeyUp 44 1
+KeyUp 7 1
+Delay 110 ms
+KeyDown 225 1
+Delay 45 ms
+KeyUp 225 1
+Delay 30 ms
+KeyDown 225 1
+Delay 45 ms
+KeyUp 225 1
+Delay 10 ms
+KeyDown 26 1
+Delay 15
+KeyUp 26 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

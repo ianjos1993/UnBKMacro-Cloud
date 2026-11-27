@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос позволит быстро сделать баг, который телепортирует вас к сопернику на несколько секунд и делает вас неуязвимым.
+
+Берём бокс и анубис, на анубисе должен быть разблокирован AFTERIMAGE(можно не вкачивать) и перебиндим его на N
+на боксе вкачиваем BOXING SHUFFLE
+перчатки бокса ложим в первый слот и не выбираем их когда используем макрос
+
+подходим к сопернику на дистанцию скилла afterimage и юзаем макрос, теперь используем любой скилл на длительные станы по типу curse imbued slice и получаем профит в виде простого комбо стартера или даже комбо экстендера
+
+</Description>
+    <Comment>Разрешение экрана не имеет значения</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+Delay 1 ms
+KeyDown 6 1
+Delay 1 ms
+KeyUp 6 1
+Delay 1 ms
+KeyDown 17 1
+Delay 1 ms
+KeyUp 17 1
+Delay 1 ms
+KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,54 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос создан для прокачки фитнеса на Малиновка РП. 
+
+Данный макрос самостоятельно нажимает клавиши, тем самым, прокачивая ваши фитнес умения.
+
+Использования этого макроса снижает шанс блокировки вашего аккаунта. Главное - это не отходить от вашего компьютера, тогда шанс блокировки упадёт до нуля.
+
+Данный макрос настроен под разрешение 1920x1080, но также в любой момент можно настроить под любое удобное вам разрешение.
+
+Желаю приятного пользования!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 5 0 242,20,61 255,255,255 1 1085 923 85 1 1 0
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+GoColor 10 0 242,20,61 255,255,255 1 1152 913 142 4 1 0
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+GoColor 15 0 242,20,61 255,255,255 1 1214 914 18 4 1 0
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+GoColor 20 0 242,20,61 255,255,255 1 1089 984 53 43 1 0
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+GoColor 25 0 242,20,61 255,255,255 1 1153 983 122 2 1 0
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+GoColor 30 0 242,20,61 255,255,255 1 1213 980 20 7 1 0
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

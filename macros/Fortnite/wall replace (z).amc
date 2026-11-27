@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос создан для replace стенки стена забинжена на z  1 удар киркой  
+
+если делать всё правильно то всё получится всё тестил сам </Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 99 ms
+LeftUp 1
+Delay 99 ms
+LeftDown 1
+Delay 99 ms
+LeftUp 1
+Delay 50 ms
+KeyDown 29 1
+Delay 0 ms
+KeyUp 29 1
+Delay 15 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

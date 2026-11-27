@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Исправленная версия команд: Заряд + Атака.
+
+Требуется, если хотите прокачать персонажей, завязанных на атаке (усиленной атаке) вроде Яриды, Охорока и (вставьте сюда название любого другого класса, прокачка скиллов которых требует атаку/усиленную атаку)</Description>
+    <Comment>Если будете качать Охорока.... Это надооооолго.</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 79 1
+Delay 450 ms
+KeyUp 79 1
+Delay 50 ms
+KeyDown 79 1
+Delay 450 ms
+KeyUp 79 1
+Delay 50 ms
+KeyDown 82 1
+Delay 455 ms
+KeyUp 82 1
+Delay 50 ms
+KeyDown 82 1
+Delay 130 ms
+KeyUp 82 1
+Delay 2354 ms
+KeyDown 79 1
+Delay 450 ms
+KeyUp 79 1
+Delay 50 ms
+KeyDown 79 1
+Delay 450 ms
+KeyUp 79 1
+Delay 50 ms
+KeyDown 80 1
+Delay 455 ms
+KeyUp 80 1
+Delay 50 ms
+KeyDown 79 1
+Delay 130 ms
+KeyUp 79 1
+Delay 2354 ms</Syntax>
+    </KeyDown>
+    <Software>Patapon 3</Software>
+  </DefaultMacro>
+</Root>

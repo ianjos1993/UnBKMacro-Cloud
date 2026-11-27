@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>Макрос</Major>
+    <Description>Этот скрипт имеет функцию Хилить намного лучше чем обычный авто хил да еще к этому он бьет, если вы сражаетесь с соперником на фулах прокачки то вам очень сильно поможет этот макрос, Использование: Биндите любую клавишу на клавиатуру и ставите режим работы до повторного нажатия, и теперь если вас поймали в кап кан у вас есть все 95 процентов выйти из него и стать победителем !</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+KeyUp 20 1
+Delay 15 ms
+KeyDown 44 1
+KeyUp 44 1
+Delay 15 ms
+KeyDown 20 1
+KeyUp 20 1
+Delay 15 ms
+KeyDown 44 1
+KeyUp 44 1
+Delay 15 ms
+KeyDown 44 1
+KeyUp 44 1
+Delay 15 ms
+KeyDown 44 1
+KeyUp 44 1
+Delay 15 ms
+KeyDown 44 1
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>Takemine,io</Software>
+  </DefaultMacro>
+</Root>

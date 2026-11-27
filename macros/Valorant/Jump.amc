@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Если надо запрыгнуть на белый железный бокс на карте айсбокс на пленту А при помощи розбега потом прыжок активируешь макрос и ты на боксе.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 42 ms
+KeyUp 9 1
+Delay 68 ms
+KeyDown 44 1
+Delay 42 ms
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>Valorant</Software>
+  </DefaultMacro>
+</Root>

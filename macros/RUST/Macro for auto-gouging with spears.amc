@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на авто-выдалбливание копьями чего угодно.
+
+Сделан он мной , для личного пользования , но я думаю и вам тоже он понравится , потому что в консоли нет такой команди , чтобы менять слоты , а тут есть :)
+
+Тестил на мышке SVEN RX-G750
+Windows 11
+
+
+Удачного пользования дорогой друг!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+//Удар 1
+Delay 2 s
+KeyUp 30 1
+Delay 2 s
+KeyDown 30 1
+//Удар 2
+Delay 2 s
+KeyUp 30 1
+Delay 2 s</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

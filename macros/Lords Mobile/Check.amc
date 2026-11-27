@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>если вас атакуют, то вы нажав на одну кнопку перейдете в режим "дозорной башни" (название с потолка взял) и мышь переместится на первого атаковавшего вас противника, после чего останется нажать на ЛКМ и откроется окно с войсками надвигающимися на вашу крепость.
+работает с разрешением 1600:900</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1375 140
+Delay 64
+LeftDown 1
+LeftUp 1
+Delay 100 ms
+MoveTo 554 240</Syntax>
+    </KeyDown>
+    <Software>Lords Mobile</Software>
+  </DefaultMacro>
+</Root>

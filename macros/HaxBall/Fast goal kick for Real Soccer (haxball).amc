@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major>yoawesomohoyubeen</Major>
+    <Description>This macro is designed to execute extremely fast and precise goal kicks in Haxball. By minimizing the delay when pressing and releasing the kick button (usually Space), it ensures quicker goal kick execution, giving you an advantage during fast-paced games.
+
+How to Use:
+
+Load the Macro: 
+
+
+Assign a Key: Assign the macro to your desired key (default is P).
+
+
+Activate in Game: During a goal kick, press the assigned key to perform an ultra-fast shot.
+
+
+Test and Optimize: If necessary, tweak the delay value to suit your preferred speed and power.
+
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+
+Tips for Improved Gameplay:
+Combine with Directional Input: 
+
+While executing the goal kick, hold a directional key (e.g., W, A, S, or D) to control the ball's trajectory.
+
+
+Adapt to the Situation: Use the macro for quick restarts or when opponents are pressuring you during goal kicks.
+
+
+Experiment with Timing: Adjust the delay to balance between speed and power for different in-game scenarios.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 19 1
+Delay 10 ms
+KeyUp 19 1
+Delay 12 ms</Syntax>
+    </KeyDown>
+    <Software>HaxBall</Software>
+  </DefaultMacro>
+</Root>

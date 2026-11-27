@@ -1,0 +1,138 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>ловля заказов в такси в разрешении 1920х1080х16 
+что нужно делать для использования данного макроса&gt;
+
+1. нажать на панель заказа(2)
+2. навести курсор на заказ в панели
+3. задать макрос на удобную вами цифру  (мне удобно с цифрой 4 она вблизи с 2)
+4.как прилетает заказ просто жмите заданую вами клавишу и выезжайте на заказ)
+всем спасибо всем удачи by yzetzzz</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1 ms
+KeyUp 31 1
+Delay 1 ms
+MoveTo 558 313
+Delay 1 ms
+MoveTo 558 311
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyDown 31 1
+MoveTo 558 311
+Delay 1 ms
+MoveTo 557 319
+Delay 1 ms
+MoveTo 555 325
+Delay 1 ms
+MoveTo 553 332
+Delay 1 ms
+MoveTo 552 336
+Delay 1 ms
+MoveTo 550 347
+Delay 1 ms
+MoveTo 549 356
+Delay 1 ms
+MoveTo 545 368
+Delay 1 ms
+MoveTo 541 381
+Delay 1 ms
+MoveTo 538 395
+Delay 1 ms
+MoveTo 537 410
+Delay 1 ms
+MoveTo 537 424
+Delay 1 ms
+MoveTo 537 432
+Delay 1 ms
+MoveTo 537 454
+Delay 1 ms
+MoveTo 538 470
+Delay 1 ms
+MoveTo 543 486
+Delay 1 ms
+MoveTo 546 499
+Delay 1 ms
+MoveTo 548 510
+Delay 1 ms
+MoveTo 552 519
+Delay 1 ms
+MoveTo 556 528
+Delay 1 ms
+MoveTo 560 534
+Delay 7 ms
+MoveTo 562 539
+Delay 8 ms
+MoveTo 565 544
+Delay 7 ms
+MoveTo 566 550
+Delay 8 ms
+MoveTo 568 555
+Delay 8 ms
+MoveTo 569 560
+Delay 7 ms
+MoveTo 570 564
+Delay 8 ms
+MoveTo 571 567
+Delay 8 ms
+MoveTo 572 570
+Delay 7 ms
+MoveTo 573 572
+Delay 11 ms
+MoveTo 573 573
+Delay 16 ms
+MoveTo 573 574
+Delay 11 ms
+MoveTo 573 575
+Delay 8 ms
+MoveTo 574 577
+Delay 7 ms
+MoveTo 574 578
+Delay 8 ms
+MoveTo 575 580
+Delay 7 ms
+MoveTo 575 583
+Delay 8 ms
+MoveTo 576 585
+Delay 7 ms
+MoveTo 576 587
+Delay 7 ms
+MoveTo 577 590
+Delay 8 ms
+MoveTo 577 592
+Delay 8 ms
+MoveTo 578 596
+Delay 7 ms
+MoveTo 579 600
+Delay 8 ms
+MoveTo 580 604
+Delay 7 ms
+MoveTo 580 606
+Delay 7 ms
+MoveTo 581 611
+Delay 8 ms
+MoveTo 581 614
+Delay 7 ms
+MoveTo 582 615
+Delay 8 ms
+MoveTo 582 616
+Delay 7 ms
+MoveTo 582 617
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>640x480  1000 fps and speed 600 он тебя поможет делать ddrun и надо чтобы было от 400-1000 fps то у вас будет високая скорость</Description>
+    <Comment>640x480  1000 fps and speed 600 он тебя поможет делать ddrun и надо чтобы было от 400-1000 fps то у вас будет високая скорость</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 1 ms
+KeyUp 224 1
+Delay 100 ms
+KeyDown 224 1
+Delay 1 ms
+KeyUp 224 1
+Delay 100 ms</Syntax>
+    </KeyDown>
+    <Software>CS 1.6</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,74 @@
+<Root>
+  <DefaultMacro>
+    <Major>Малиновка "Бот на шахту"</Major>
+    <Description>1. Встаньте на самый ближний маркер добычи руду (он слева)
+2. Добудьте руду и останьтесь на месте.
+3. Нажмите клавишу на которую вы назначили макрос
+4. Бот побежит сдавать руду, после чего начнет ее копать снова.
+5. Данный процесс будет идти 5к раз.
+6. Приятного фарма.
++ Не палиться ибо ботов на малиновку на данный момент не существует
+- Может убить полицейский нон рпшник
+ПРИМЕЧАНИЕ: В случае не работы макроса (Установите драйвер в программе)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//Встать на самый ближний маркер руды на шахте. Подождать пока откопается руда. После чего бот будет бесконечно собирать вам руду.
+KeyDown 22 1
+Delay 7884 ms
+KeyUp 22 1
+Delay 346 ms
+KeyDown 26 1
+Delay 8455 ms
+KeyUp 26 1
+Delay 1304 ms
+KeyDown 225 1
+Delay 7375 ms
+KeyUp 225 1
+Delay 1601 ms
+KeyDown 7 1
+Delay 247 ms
+KeyDown 22 1
+Delay 496 ms
+KeyUp 7 1
+Delay 7492 ms
+KeyUp 22 1
+Delay 308 ms
+KeyDown 26 1
+Delay 1908 ms
+KeyDown 7 1
+Delay 155 ms
+KeyUp 7 1
+Delay 448 ms
+KeyDown 7 1
+Delay 79 ms
+KeyUp 7 1
+Delay 394 ms
+KeyDown 7 1
+Delay 113 ms
+KeyUp 7 1
+Delay 1186 ms
+KeyDown 7 1
+Delay 50 ms
+KeyUp 7 1
+Delay 840 ms
+KeyDown 7 1
+Delay 99 ms
+KeyUp 7 1
+Delay 838 ms
+KeyDown 4 1
+Delay 59 ms
+KeyUp 4 1
+Delay 2001 ms
+KeyUp 26 1
+Delay 10 s
+GoWhile 2 5222</Syntax>
+    </KeyDown>
+    <Software>Malinovka RP</Software>
+  </DefaultMacro>
+</Root>

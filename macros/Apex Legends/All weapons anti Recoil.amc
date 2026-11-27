@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>
+Anti recoil macro for any and all weapons!
+
+This consists constantly reset not only the vertical recoil, but also the horizontal recoil of all weapons. 
+
+The lower the weapon's fire rate, less recoil you will feel. 
+
+In addition, this macro also transforms any semi automatic weapon into full-auto.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 0 ms
+MoveR -2 0
+Delay 0 ms
+MoveR -1 2
+Delay 0 ms
+MoveR 0 2
+Delay 0 ms
+MoveR 1 2
+Delay 0 ms
+MoveR 2 0
+Delay 0 ms
+MoveR 2 -1
+Delay 0 ms
+MoveR 0 -2
+Delay 0 ms
+MoveR -1 -2
+Delay 0 ms
+MoveR -2 0
+Delay 0 ms
+LeftUp 1
+Delay 0 ms</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

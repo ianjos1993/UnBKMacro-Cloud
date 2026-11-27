@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Заброс карповика (груз 60 гр.) с венгой 10000 на 35 метров с прокаченными навыками, после заброса сам закроет катушку и поставит удилище на земелю</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 1388 ms
+LeftUp 1
+Delay 3375 ms
+LeftDown 1
+Delay 108 ms
+LeftUp 1
+Delay 1161 ms
+Button4down 1
+Delay 173 ms
+Button4Up 1
+Delay 1187 ms</Syntax>
+    </KeyDown>
+    <Software>Русская рыбалка 4</Software>
+  </DefaultMacro>
+</Root>

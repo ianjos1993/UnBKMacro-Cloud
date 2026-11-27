@@ -1,0 +1,300 @@
+<Root>
+  <DefaultMacro>
+    <Major>Монорельс 1 линия (повтор 10 раз)</Major>
+    <Description>Макрос на 1-ю линию монорельса в городе Мирный. Полностью автоматизирован, цикл повторения настроен на 10 раз.
+Инструкция по запуску:
+1) Чтобы попасть именно на 1-ю линию, вы должны быть первым в очереди на работу.
+2) Встаньте на маркер работы, чтобы у вас открылось окно трудоустройства.
+3) Наведите курсор мыши на кнопку «Работать» и активируйте макрос.
+4) Макрос сам нажмет кнопку, устроится на работу и начнет автоматически ездить по остановкам. После завершения 2 кругов и получения зарплаты макрос сам заново устроится на работу (повторяется до 10 циклов).
+Важные примечания:
+1. Обязательно следите за чатом во время поездки! Если администрация задаст вам вопрос, вы должны самостоятельно на него ответить.
+2.Следите за игрой в момент перезапуска смены! Если кто-то успеет занять 1-ю линию раньше макроса, вас устроит на 2-ю линию. Из-за этого макрос собьется и начнет не доезжать до остановок. Всегда проверяйте, чтобы персонаж устраивался именно на 1-ю линию.
+Всем удачного и лёгкого фарма! :3
+</Description>
+    <Comment>Макрос на 1-ю линию монорельса в городе Мирный. Полностью автоматизирован, цикл повторения настроен на 10 раз.
+Инструкция по запуску:
+1) Чтобы попасть именно на 1-ю линию, вы должны быть первым в очереди на работу.
+2) Встаньте на маркер работы, чтобы у вас открылось окно трудоустройства.
+3) Наведите курсор мыши на кнопку «Работать» и активируйте макрос.
+4) Макрос сам нажмет кнопку, устроится на работу и начнет автоматически ездить по остановкам. После завершения 2 кругов и получения зарплаты макрос сам заново устроится на работу (повторяется до 10 циклов).
+Важные примечания:
+1. Обязательно следите за чатом во время поездки! Если администрация задаст вам вопрос, вы должны самостоятельно на него ответить.
+2.Следите за игрой в момент перезапуска смены! Если кто-то успеет занять 1-ю линию раньше макроса, вас устроит на 2-ю линию. Из-за этого макрос собьется и начнет не доезжать до остановок. Всегда проверяйте, чтобы персонаж устраивался именно на 1-ю линию.
+Всем удачного и лёгкого фарма! :3</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 144 ms
+LeftUp 1
+Delay 2199 ms
+KeyDown 15 1
+Delay 72 ms
+KeyUp 15 1
+Delay 87 ms
+KeyDown 15 1
+Delay 72 ms
+KeyUp 15 1
+Delay 671 ms
+KeyDown 14 1
+Delay 80 ms
+KeyUp 14 1
+Delay 279 ms
+KeyDown 26 1
+Delay 38016 ms
+KeyDown 22 1
+Delay 31 ms
+KeyUp 26 1
+Delay 6615 ms
+KeyUp 22 1
+Delay 528 ms
+KeyDown 26 1
+Delay 47 ms
+KeyUp 26 1
+Delay 544 ms
+KeyDown 31 1
+Delay 160 ms
+KeyUp 31 1
+Delay 4831 ms
+KeyDown 31 1
+Delay 183 ms
+KeyUp 31 1
+Delay 824 ms
+KeyDown 26 1
+Delay 59272 ms
+KeyDown 22 1
+Delay 32 ms
+KeyUp 26 1
+Delay 6759 ms
+KeyDown 26 1
+Delay 23 ms
+KeyUp 22 1
+Delay 136 ms
+KeyUp 26 1
+Delay 639 ms
+KeyDown 31 1
+Delay 143 ms
+KeyUp 31 1
+Delay 5448 ms
+KeyDown 31 1
+Delay 152 ms
+KeyUp 31 1
+Delay 184 ms
+KeyDown 26 1
+Delay 33295 ms
+KeyDown 22 1
+Delay 80 ms
+KeyUp 26 1
+Delay 6752 ms
+KeyUp 22 1
+Delay 15 ms
+KeyDown 26 1
+Delay 144 ms
+KeyUp 26 1
+Delay 807 ms
+KeyDown 31 1
+Delay 200 ms
+KeyUp 31 1
+Delay 5368 ms
+KeyDown 31 1
+Delay 135 ms
+KeyUp 31 1
+Delay 240 ms
+KeyDown 26 1
+Delay 62743 ms
+KeyUp 26 1
+Delay 24 ms
+KeyDown 22 1
+Delay 6623 ms
+KeyUp 22 1
+Delay 7 ms
+KeyDown 26 1
+Delay 176 ms
+KeyUp 26 1
+Delay 887 ms
+KeyDown 31 1
+Delay 207 ms
+KeyUp 31 1
+Delay 5504 ms
+KeyDown 31 1
+Delay 135 ms
+KeyUp 31 1
+Delay 271 ms
+KeyDown 26 1
+Delay 33855 ms
+KeyDown 22 1
+Delay 48 ms
+KeyUp 26 1
+Delay 6624 ms
+KeyUp 22 1
+Delay 15 ms
+KeyDown 26 1
+Delay 184 ms
+KeyUp 26 1
+Delay 624 ms
+KeyDown 31 1
+Delay 135 ms
+KeyUp 31 1
+Delay 5432 ms
+KeyDown 31 1
+Delay 119 ms
+KeyUp 31 1
+Delay 128 ms
+KeyDown 26 1
+Delay 82879 ms
+KeyUp 26 1
+Delay 16 ms
+KeyDown 22 1
+Delay 6807 ms
+KeyUp 22 1
+Delay 80 ms
+KeyDown 26 1
+Delay 183 ms
+KeyUp 26 1
+Delay 576 ms
+KeyDown 31 1
+Delay 224 ms
+KeyUp 31 1
+Delay 5424 ms
+KeyDown 31 1
+Delay 175 ms
+KeyUp 31 1
+Delay 320 ms
+KeyDown 26 1
+Delay 83456 ms
+KeyDown 22 1
+Delay 72 ms
+KeyUp 26 1
+Delay 6599 ms
+KeyUp 22 1
+Delay 376 ms
+KeyDown 26 1
+Delay 104 ms
+KeyUp 26 1
+Delay 415 ms
+KeyDown 31 1
+Delay 168 ms
+KeyUp 31 1
+Delay 5440 ms
+KeyDown 31 1
+Delay 127 ms
+KeyUp 31 1
+Delay 359 ms
+KeyDown 26 1
+Delay 59312 ms
+KeyDown 22 1
+Delay 39 ms
+KeyUp 26 1
+Delay 6695 ms
+KeyUp 22 1
+Delay 0 ms
+KeyDown 26 1
+Delay 135 ms
+KeyUp 26 1
+Delay 688 ms
+KeyDown 31 1
+Delay 111 ms
+KeyUp 31 1
+Delay 5448 ms
+KeyDown 31 1
+Delay 143 ms
+KeyUp 31 1
+Delay 232 ms
+KeyDown 26 1
+Delay 33071 ms
+KeyDown 22 1
+Delay 23 ms
+KeyUp 26 1
+Delay 6663 ms
+KeyUp 22 1
+Delay 47 ms
+KeyDown 26 1
+Delay 176 ms
+KeyUp 26 1
+Delay 920 ms
+KeyDown 31 1
+Delay 167 ms
+KeyUp 31 1
+Delay 5583 ms
+KeyDown 31 1
+Delay 136 ms
+KeyUp 31 1
+Delay 343 ms
+KeyDown 26 1
+Delay 62480 ms
+KeyDown 22 1
+Delay 56 ms
+KeyUp 26 1
+Delay 6687 ms
+KeyDown 26 1
+Delay 15 ms
+KeyUp 22 1
+Delay 128 ms
+KeyUp 26 1
+Delay 671 ms
+KeyDown 31 1
+Delay 128 ms
+KeyUp 31 1
+Delay 5591 ms
+KeyDown 31 1
+Delay 88 ms
+KeyUp 31 1
+Delay 631 ms
+KeyDown 26 1
+Delay 34391 ms
+KeyDown 22 1
+Delay 32 ms
+KeyUp 26 1
+Delay 6567 ms
+KeyUp 22 1
+Delay 112 ms
+KeyDown 26 1
+Delay 135 ms
+KeyUp 26 1
+Delay 744 ms
+KeyDown 31 1
+Delay 95 ms
+KeyUp 31 1
+Delay 5560 ms
+KeyDown 31 1
+Delay 87 ms
+KeyUp 31 1
+Delay 280 ms
+KeyDown 26 1
+Delay 82583 ms
+KeyDown 22 1
+Delay 31 ms
+KeyUp 26 1
+Delay 6600 ms
+KeyUp 22 1
+Delay 192 ms
+KeyDown 26 1
+Delay 152 ms
+KeyUp 26 1
+Delay 487 ms
+KeyDown 31 1
+Delay 136 ms
+KeyUp 31 1
+Delay 5479 ms
+KeyDown 31 1
+Delay 152 ms
+KeyUp 31 1
+Delay 176 ms
+KeyDown 26 1
+Delay 48943 ms
+KeyUp 26 1
+Delay 1416 ms
+KeyDown 22 1
+Delay 767 ms
+KeyUp 22 1
+Delay 2936 ms
+GoWhile 1 10</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

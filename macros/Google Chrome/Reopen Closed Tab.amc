@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major>Reopen Closed Tab</Major>
+    <Description>Reopens most recently closed tab. Repeated use continually reopens older tabs. For use on mouse thumb buttons etc.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+KeyDown 225 1
+KeyDown 23 1
+Delay 106 ms
+KeyUp 23 1
+KeyUp 225 1
+KeyUp 224 1</Syntax>
+    </KeyDown>
+    <Software>Google Chrome</Software>
+  </DefaultMacro>
+</Root>

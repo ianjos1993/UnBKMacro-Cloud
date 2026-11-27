@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>DoubleSe</Major>
+    <Description>Макрос позволяет вам, передвигаться как будто бы вы играете с кансоли.
+Ничего сложного, это всего лишь сочитание 2 клавиш клавиатуры A+L
+Для передвижения влево, вам нужно установить 2 клавиши: Основную A и запасную L
+
+Макрос устанавливаем на клавишу A
+
+Подписывайся на YouTube Канал DoubleSe</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 100 ms
+KeyDown 15 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

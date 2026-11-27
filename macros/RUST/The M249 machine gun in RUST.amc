@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Хороший макросс на отдачу от пулемёта в rust.
+
+Без палевы и сильного зажима в точку.
+
+DPI: 800
+sens: 0.4-0.6
+FOV: 80-83</Description>
+    <Comment>Макросс делал под себя , по этому не жалуемся.</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 26 ms
+MoveR 2 4
+Delay 24 ms
+MoveR 0 4
+Delay 25 ms
+MoveR -2 4
+Delay 26 ms
+MoveR 0 5
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

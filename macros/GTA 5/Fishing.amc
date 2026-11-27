@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>Рыбалка на червя</Major>
+    <Description>Ставим бинд на любую клавишу и тем самым быстро нажимается ловля рыбы на червя, работает везде, Downtown, Vivewood, StrawBerry, BlackBerry и других серверах проекта GTA5RP.COM
+Разрешение 1920х1080</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 12 1
+Delay 107 ms
+KeyUp 12 1
+Delay 209 ms
+MoveTo 1500 400
+Delay 32 ms
+LeftDown 1
+LeftUp 1
+Delay 32 ms
+MoveTo 1495 500
+Delay 42 ms
+LeftDown 1
+Delay 162 ms
+LeftUp 1
+Delay 550 ms
+Delay 975 ms</Syntax>
+    </KeyDown>
+    <Software>GTA V</Software>
+  </DefaultMacro>
+</Root>

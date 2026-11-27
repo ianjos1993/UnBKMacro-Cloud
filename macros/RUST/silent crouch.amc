@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>crouch</Major>
+    <Description>This macro is for silent crouch everytime in rust. To use it just bind crouch on "x" in game and start the macro. !!!!!!!Its important to bind crouch to "x" because the macro will not work.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 27 1
+Delay 300 ms
+KeyUp 27 1
+Delay 200 ms
+KeyDown 27 1
+Delay 300 ms
+KeyUp 27 1
+Delay 200 ms
+KeyDown 27 1
+Delay 300 ms
+KeyUp 27 1
+Delay 200 ms
+KeyDown 27 1
+Delay 300 ms
+KeyUp 27 1
+Delay 200 ms
+KeyDown 27 1
+Delay 300 ms
+KeyUp 27 1
+Delay 200 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

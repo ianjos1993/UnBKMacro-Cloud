@@ -1,0 +1,71 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Включает в себя прокаст Арк Вардена c Хексом и Орчидом. 
+Бинды клавиш:
+1 - Выбрать основного героя
+2 - Выбрать первую подконтрольную группу (перед этим выбираем иллюзию Арка и биндим с помощью CTRL+2)
+Q - Flux
+E - Spark Wraith
+Z - Scythe of Vyse
+X - Orchid Malevolence
+Простой прокаст, для реализации которого вам понадобится призвать иллюзию и подойти к противнику на расстояние каста Scythe of Vyse. Также необходимо направлять курсор на модельку вражеского героя. 
+Для активации макроса удерживайте клавишу. В случае отжатия клавиши макрос прекратится.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 29 1
+Delay 64
+KeyUp 29 1
+Delay 64
+KeyDown 27 1
+Delay 64
+KeyUp 27 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 280 ms
+KeyDown 29 1
+Delay 64
+KeyUp 29 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 120 ms
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 100 ms
+KeyDown 27 1
+Delay 64
+KeyUp 27 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

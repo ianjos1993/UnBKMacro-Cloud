@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major>Новый скрипт Авто хил!</Major>
+    <Description>Выставляем на букву L Негасимый свет и при достижении 50% здоровья автоматически использует негасимку! Запускать скрипт обязательно на повтор! Полоска здоровья должна быть белая, можно изменить Аддоном Interface Manager!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 5 0 255,255,255 255,255,255 1 346 96
+KeyDown 15 1
+Delay 64
+KeyUp 15 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Аллоды онлайн</Software>
+  </DefaultMacro>
+</Root>

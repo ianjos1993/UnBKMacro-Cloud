@@ -1,0 +1,64 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос автоматически делает за вас выход из скай варса, на серверах где присутствует команда для выхода со Sky Wars. Подойдет для тех, кто не хочет ждать момента пока умрет чтобы выйти.
+
+Инструкция по установке:
+
+1. Скачать файл с макросом.
+2. Назначить на любую удобную клавишу.
+3. Пользоваться!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>SetLang en-US
+KeyDown 56 1
+Delay 15
+KeyUp 56 1
+Delay 15
+KeyDown 22 1
+Delay 15
+KeyUp 22 1
+Delay 15
+KeyDown 26 1
+Delay 15
+KeyUp 26 1
+Delay 15
+KeyDown 44 1
+Delay 15
+KeyUp 44 1
+Delay 15
+KeyDown 15 1
+Delay 15
+KeyUp 15 1
+Delay 15
+KeyDown 8 1
+Delay 15
+KeyUp 8 1
+Delay 15
+KeyDown 4 1
+Delay 15
+KeyUp 4 1
+Delay 15
+KeyDown 25 1
+Delay 15
+KeyUp 25 1
+Delay 15
+KeyDown 8 1
+Delay 15
+KeyUp 8 1
+Delay 15
+KeyDown 88 1
+Delay 15
+KeyUp 88 1
+Delay 15
+SetLang ru-RU</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Анти афк для Роблокса  но в виде бота который ходит на рандомное время и рандомное расстояние. Простой макрос который не так то и просто засечь ведь как я говорил ранее рандомное время и рандомное расстояние ;)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 0 100 ms
+KeyDown 4 1
+Delay 0 100 ms
+KeyUp 4 1
+Delay 0 100 ms
+KeyDown 22 1
+Delay 0 100 ms
+KeyUp 22 1
+Delay 0 100 ms
+KeyDown 7 1
+Delay 0 100 ms
+KeyUp 7 1
+Delay 0 100 ms
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

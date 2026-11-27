@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major>X</Major>
+    <Description>Макрос для быстрого бега с помощью бага.
+  &gt; Работа макроса:
+    &gt; Зажимаются клавиши:
+      &gt; Shift
+      &gt; Space
+      &gt; Mouse2 (ПКМ)
+      &gt; D
+    &gt; Принцип работы:
+      &gt; Персонаж начинает бежать, автоматически ставится блок и спамится W, что весомо увеличивает реальную скорость персонажа.
+  &gt; Условия работы макроса:
+    &gt; Идти прямо на W
+    &gt; Бег на Shift
+    &gt; Идти вправо на D
+
+Ставьте макрос на любую клавишу (удобно на W) и сможете бегать очень быстро, одновременно нанося удары на ЛКМ.
+Осторожно. Может быть наказуемо во время RP процесса.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+RightDown 1
+KeyDown 7 1
+KeyDown 44 1
+Delay 50 ms
+KeyDown 26 1
+Delay 50 ms
+KeyUp 26 1
+Delay 50 ms
+GoWhile 5 100</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

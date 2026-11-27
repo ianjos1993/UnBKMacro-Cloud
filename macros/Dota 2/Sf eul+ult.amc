@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Ультимейт + еул все в тайминг уйти практически невозможно, Z - клавиша отвечает за еул, R- Клавиша отвечает за ультмейт (стандартная расскладка)
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 64 ms
+KeyUp 29 1
+Delay 1 s
+Delay 40 ms
+KeyDown 21 1
+KeyUp 21 1
+Delay 64 s</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

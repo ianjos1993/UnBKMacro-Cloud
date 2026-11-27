@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>Автоматический фарм рыбы</Major>
+    <Description>Позволяет убрать рутинные задачи, сам забрасывает и подтягивает блесну проводкой. Останется только вытаскивать рыбу.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 3500 4000 ms
+LeftUp 1
+Delay 4500 5500 ms
+LeftDown 1
+Delay 2800 3300 ms
+LeftUp 1
+Delay 1900 2400 ms
+GoWhile 5 500000</Syntax>
+    </KeyDown>
+    <Software>Russian Fishing 4</Software>
+  </DefaultMacro>
+</Root>

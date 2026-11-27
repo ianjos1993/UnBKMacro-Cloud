@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major>aion assasin</Major>
+    <Description>Свап сета с пвп сета на маг с взрывом печати для стана и урона. 
+Макрос работает так : Переоделся на маг - взрыв+стан - оделся обратно в пвп , все это происходит быстро и без перебоев . 
+Главное, выставляйте на клавишу F4 маг сет , клавиша V вспышку клейма и клавиша F5 обратно пвп сет !!!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 61 1
+KeyUp 61 1
+Delay 500 ms
+KeyDown 25 1
+KeyUp 25 1
+Delay 800 ms
+KeyDown 62 1
+KeyUp 62 1</Syntax>
+    </KeyDown>
+    <Software>AION</Software>
+  </DefaultMacro>
+</Root>

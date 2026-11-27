@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос предназначен для марксманской винтовки SG 550 для автоматической стрельбы. 
+
+ИНСТРУКЦИЯ:
+Старт по зажиму ЛКМ
+
+ОПИСАНИЕ:
+Разрешение экрана: 1920x1080
+
+Макрос не центрирует cрельбу в точку, а лишь подавляет отдачу по оси Y. </Description>
+    <Comment>Сделаю отдельный макрос на любую пушку, пишите в сообщениях какую, выберу по популярности запроса.</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 5 ms
+MoveR 0 2
+Delay 5 ms
+MoveR 0 2
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+MoveR 0 2
+Delay 5 ms
+MoveR 0 2
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Battle Teams 2</Software>
+  </DefaultMacro>
+</Root>

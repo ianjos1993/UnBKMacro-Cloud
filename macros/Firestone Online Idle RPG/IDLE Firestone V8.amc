@@ -1,0 +1,476 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Разрешение {1920X1080}
+
+Рекомендуемый уровень: 50+
+
+На данный момент автоматизированно:
+Повышение уровня персонажей
+Активности гильдии
+Битва с боссом этапа
+Задания карты
+Сбор со 2 карты 
+Тренировка (без траты расходников)
+Библиотека (Исслендования)
+Зал вознесения</Description>
+    <Comment>Запускать с экрана битвы с открытой вкладкой повышения уровня (экран где происходит битва)</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>varE = 0
+GoColor 9 0 255,255,255 255,255,255 1 1529 1026 232 29 1 0
+MoveTo 1424 980
+Delay 80 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 80 ms
+Goto 19
+LeftDown 1
+varE = varE + 1
+if varE &lt; 10 Goto 15
+varE = 0
+Delay 3 5 s
+Delay 80 ms
+LeftUp 1
+Delay 80 ms
+//1 
+MoveTo 1640 158 1878 226
+GoColor 10 1 255,255,255 78,67,53 1 1663 218 61 863 1 0
+//3
+MoveTo 1646 400 1882 469
+GoColor 10 1 255,255,255 78,67,53 1 1681 458 41 623 1 0
+//4
+MoveTo 1639 518 1882 587
+GoColor 10 1 255,255,255 78,67,53 1 1681 577 46 504 1 0
+//5
+MoveTo 1640 640 1879 715
+GoColor 10 1 255,255,255 78,67,53 1 1680 697 63 384 1 0
+//6
+MoveTo 1638 762 1882 837
+GoColor 10 1 255,255,255 78,67,53 1 1681 817 1 264 1 0
+//7
+MoveTo 1640 881 1878 952
+GoColor 10 1 255,255,255 78,67,53 1 1680 938 44 143 1 0
+MoveTo 388 208 541 513
+LeftDown 1
+Delay 1000 1500 ms
+LeftUp 1
+GoWhile 9 300
+Delay 1 2 s
+//Конец
+//
+//
+//
+//
+//
+//Переход на карту - начало//
+//
+//
+//
+//
+//
+Delay 100 300 ms
+Delay 1 2 s
+GoColor 63 0 221,201,169 255,255,255 1 1434 988 484 63 1 0
+MoveTo 1871 52
+Delay 100 300
+LeftDown 1
+Delay 100 300
+LeftUp 1
+Delay 1 s
+//Боковая панель закрыта
+MoveTo 1854 334
+Delay 100 300
+LeftDown 1
+Delay 100 300
+LeftUp 1
+Delay 100 300
+//переход на карту 
+MoveTo 1833 472
+Delay 100 300
+LeftDown 1
+Delay 100 300
+LeftUp 1
+Delay 100 300
+//Проверить наличие готорых задач
+GoColor 85 0 255,255,255 255,255,255 1 108 322 997 759 1 0
+MoveTo 94 302 257 345
+LeftDown 1
+Delay 100 300
+LeftUp 1
+Delay 100 300
+Goto 77
+//Проверить наличие готорых задач - конец
+//Выбор 1 карты
+MoveTo 282 143 1640 1003
+Delay 100 300
+LeftDown 1
+Delay 100 300
+LeftUp 1
+Delay 100 300
+GoColor 97 1 255,24,0 255,255,255 1 1315 894 606 187 1 0
+GoColor 97 1 198,44,41 255,255,255 1 1227 786 694 295 1 0
+GoColor 106 1 33,101,8 255,255,255 1 1228 899 693 182 1 0
+GoWhile 86 100
+//Закончились отряды
+MoveTo 1534 216
+Delay 100 300
+LeftDown 1
+Delay 100 300
+LeftUp 1
+Delay 100 300
+Goto 115
+//закончились отряды - конец
+//кнопка начать миссию
+MoveTo 1052 877
+Delay 100 300
+LeftDown 1
+Delay 100 300
+LeftUp 1
+Delay 100 300
+Goto 116
+//кнопка начать миссию-конец
+//конец просмотра карты
+//карта 2 сбор ежедневки
+MoveTo 1824 601
+Delay 64 120
+LeftDown 1
+Delay 64 120
+LeftUp 1
+Delay 64 120
+GoColor 129 1 107,105,107 255,255,255 1 270 991 990 90 1 0
+MoveTo 45 974 257 1029
+Delay 64 120
+LeftDown 1
+Delay 64 120
+LeftUp 1
+Delay 64 120
+MoveTo 1839 58
+Delay 100 300
+LeftDown 1
+Delay 100 300
+LeftUp 1
+Delay 100 300
+MoveTo 1415 967
+Delay 100 300
+LeftDown 1
+Delay 100 300
+LeftUp 1
+Delay 100 300
+Delay 1 2 s
+//конец скрипта
+//
+//
+//
+//
+//
+//Карта - конец
+//
+//
+//
+//
+//
+//Тренировка начало
+//
+//
+//
+//
+//
+Delay 1 2 s
+MoveTo 1844 29 1891 78
+Delay 100 300
+LeftDown 1
+Delay 100 300
+LeftUp 1
+Delay 1 2 s
+Delay 1 2 s
+MoveTo 1844 184 1872 232
+LeftDown 1
+Delay 100 300
+LeftUp 1
+Delay 100 300
+MoveTo 592 252 642 283
+Delay 100 300
+LeftDown 1
+Delay 100 300
+LeftUp 1
+Delay 100 300
+GoColor 186 1 107,105,107 255,255,255 1 1015 796 723 285 1 0
+MoveTo 1022 750 1287 843
+Delay 100 300
+LeftDown 1
+Delay 100 300
+LeftUp 1
+Delay 100 300
+Delay 100 300
+MoveTo 1819 38 1861 80
+LeftDown 1
+Delay 100 300
+LeftUp 1
+Delay 100 300
+LeftDown 1
+Delay 100 300
+LeftUp 1
+Delay 100 300
+MoveTo 1403 968 1447 1000
+Delay 100 300
+LeftDown 1
+Delay 100 300
+LeftUp 1
+Delay 1 2 s
+//Тренировка конец
+//
+//
+//
+//
+//
+//Гильдия активность
+Delay 1 2 s
+MoveTo 1844 29 1891 78
+Delay 100 300
+LeftDown 1
+Delay 100 300
+LeftUp 1
+Delay 1 2 s
+MoveTo 1840 440 1874 478
+LeftDown 1
+Delay 100 300
+LeftUp 1
+Delay 100 300
+MoveTo 194 358 323 440
+Delay 100 300
+LeftDown 1
+Delay 100 300
+LeftUp 1
+Delay 100 300
+MoveTo 1250 297 1422 340
+Delay 100 300
+LeftDown 1
+Delay 100 300
+LeftUp 1
+Delay 100 300
+LeftDown 1
+Delay 100 300
+LeftUp 1
+Delay 100 300
+MoveTo 1489 54 1535 96
+LeftDown 1
+Delay 100 300
+LeftUp 1
+Delay 100 300
+MoveTo 1819 37 1864 80
+Delay 100 300
+LeftDown 1
+Delay 100 300
+LeftUp 1
+Delay 100 300
+MoveTo 1409 952 1435 1001
+Delay 100 300
+LeftDown 1
+Delay 100 300
+LeftUp 1
+Delay 100 300
+Delay 1 2 s
+//Гильдия активность - конец
+//
+//
+//
+//
+//
+//Библиотека начало
+GoColor 269 1 255,255,255 255,255,255 1 1706 1024 170 26 1 0
+MoveTo 1844 29 1891 78
+Delay 100 300
+LeftDown 1
+Delay 100 300
+LeftUp 1
+Delay 1 s
+MoveTo 1844 184 1872 232
+LeftDown 1
+Delay 100 300
+LeftUp 1
+Delay 100 300
+MoveTo 211 631 333 720
+Delay 64 120
+LeftDown 1
+Delay 64 120
+LeftUp 1
+Delay 64 120
+MoveTo 1778 971 1850 1025
+Delay 64 120
+LeftDown 1
+Delay 64 120
+LeftUp 1
+Delay 64 120
+//Забрать готовые - начало
+GoColor 295 1 206,77,0 255,255,255 1 1192 974 371 107 1 0
+MoveTo 1198 970 1361 1016
+Delay 64 120
+LeftDown 1
+Delay 64 120
+LeftUp 1
+Delay 64 120
+//Забрать готовые - конец 2
+//
+GoColor 304 1 206,77,0 255,255,255 1 673 968 890 113 1 0
+MoveTo 511 975 668 1012
+Delay 64 120
+LeftDown 1
+Delay 64 120
+LeftUp 1
+Delay 64 120
+//Забрать готовые - конец 1
+//
+GoColor 319 0 82,186,255 255,255,255 1 877 443 499 638 1 0
+MoveTo 1167 217 1558 306
+Delay 64 120
+LeftDown 1
+Delay 64 120
+LeftUp 1
+Delay 300 400 ms
+MoveTo 640 746 939 834
+Delay 64 120
+LeftDown 1
+Delay 64 120
+LeftUp 1
+Delay 64 120
+Delay 64 120
+//
+GoColor 335 0 82,186,255 255,255,255 1 877 703 475 378 1 0
+MoveTo 183 473 577 567
+Delay 64 120
+LeftDown 1
+Delay 64 120
+LeftUp 1
+Delay 64 120
+Delay 300 400 ms
+MoveTo 640 746 939 834
+Delay 64 120
+LeftDown 1
+Delay 64 120
+LeftUp 1
+Delay 64 120
+Delay 64 120
+MoveTo 1818 39 1861 79
+Delay 64 120
+LeftDown 1
+Delay 64 120
+LeftUp 1
+Delay 64 120
+LeftDown 1
+Delay 64 120
+LeftUp 1
+Delay 64 120
+MoveTo 1397 963 1450 1006
+Delay 64 120
+LeftDown 1
+Delay 64 120
+LeftUp 1
+Delay 64 120
+//Библиотека конец
+//
+//
+//
+//
+//
+//Зал вознесения - начало
+MoveTo 1843 35 1890 78
+Delay 64 120
+LeftDown 1
+Delay 64 120
+LeftUp 1
+Delay 1 2 s
+MoveTo 1847 181 1870 232
+Delay 64 120
+LeftDown 1
+Delay 64 120
+LeftUp 1
+Delay 3 4 s
+GoColor 406 0 255,255,255 255,255,255 1 1112 278 564 803 1 0
+MoveTo 916 163 990 296
+MoveTo 916 163 990 296
+Delay 64 120
+LeftDown 1
+Delay 64 120
+LeftUp 1
+Delay 1 2 s
+MoveTo 1091 825 1262 876
+Delay 64 120
+Delay 64 120
+LeftDown 1
+Delay 64 120
+LeftUp 1
+Delay 64 120
+MoveTo 987 690 1235 748
+Delay 64 120
+LeftDown 1
+Delay 64 120
+LeftUp 1
+Delay 3 4 s
+MoveTo 853 706 1097 774
+Delay 64 120
+LeftDown 1
+Delay 64 120
+LeftUp 1
+Delay 1 2 min
+MoveTo 1410 959 1442 1000
+Delay 64 120 ms
+LeftDown 1
+Delay 64 120
+LeftUp 1
+Delay 64 120
+//переход в начало скрипта
+Goto 2
+//Зал вознесения - выход
+MoveTo 1819 31 1860 84
+Delay 64 120
+LeftDown 1
+Delay 64 120
+LeftUp 1
+Delay 1 2 s
+MoveTo 1410 964 1444 994
+Delay 64 120
+LeftDown 1
+Delay 64 120
+LeftUp 1
+Delay 64 120
+Delay 1 2 s
+//Зал вознесения - конец
+//
+//
+//
+//
+//
+//Битва с боссом
+Delay 1 2 s
+MoveTo 971 255
+Delay 100 300 ms
+LeftDown 1
+Delay 100 300 ms
+LeftUp 1
+Delay 100 300 ms
+Goto 2
+LeftDown 1
+Delay 55 s
+LeftUp 1
+Delay 100 300 ms
+GoColor 441 1 14,11,10 255,255,255 1 1156 125 430 956 1 0
+Goto 448
+MoveTo 706 38
+Delay 114 ms
+MoveTo 706 35
+LeftDown 1
+Delay 114 ms
+LeftUp 1
+Delay 1 s
+Goto 9</Syntax>
+    </KeyDown>
+    <Software>Firestone Online Idle RPG</Software>
+  </DefaultMacro>
+</Root>

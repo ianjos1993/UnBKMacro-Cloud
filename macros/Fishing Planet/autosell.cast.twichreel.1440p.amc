@@ -1,0 +1,55 @@
+<Root>
+  <DefaultMacro>
+    <Major>1440p, 5:1 ration reel, 2 speed</Major>
+    <Description>Will cast reel to full or near full power then do a twitch  reel in, great for bass on Everglades .
+If fish caught it will keep for money then repeat. if there is no fish it will detect the reel is at 0 distance and reset the script for a repeated recast. if you see the hotkey menu, dont worry, it is there to reset  the mouse postition so the script works properly with selling the fish. *MUST BE IN WINDOWED MODE*-(ALT+ENTER)
+
+Update: More Reliable Full Cast
+</Description>
+    <Comment>https://botmek.com</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 3 0 247,247,247 255,255,255 1 2082 1258
+GoColor 17 1 247,247,247 255,255,255 1 2127 1242
+LeftDown 1
+RightDown 1
+Delay 200 ms
+RightUp 1
+Delay 200 ms
+RightDown 1
+Delay 200 ms
+RightUp 1
+Delay 200 ms
+GoColor 13 0 247,247,247 255,255,255 1 2090 1248
+GoColor 17 1 247,247,247 255,255,255 1 2128 1245
+LeftUp 1
+Delay 175 ms
+GoColor 1 0 255,221,119 219,143,73 1 1529 1004
+Delay 1000 ms
+MoveTo 1470 1205
+Delay 64 ms
+LeftDown 1
+LeftUp 1
+Delay 1000 ms
+KeyDown 58 1
+Delay 64
+KeyUp 58 1
+Delay 500 ms
+MoveTo 1349 888
+Delay 100 ms
+KeyDown 58 1
+Delay 64
+KeyUp 58 1
+Delay 1250 ms
+LeftDown 1
+Delay 1900 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Fishing Planet</Software>
+  </DefaultMacro>
+</Root>

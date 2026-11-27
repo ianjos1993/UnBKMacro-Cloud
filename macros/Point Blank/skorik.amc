@@ -1,0 +1,58 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>СКОРИК +3 заходим на паблик и нагибаем(на все виды автоматов и штурмовых) ..............................</Description>
+    <Comment>СКОРОСТРЕЛ +3
+</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+MoveR 0 1
+Delay 15 ms
+MoveR 0 1
+Delay 15 ms
+MoveR 0 1
+Delay 15 ms
+MoveR 0 2
+Delay 15 ms
+MoveR 0 2
+LeftUp 1
+Delay 5 ms
+GoWhile 1 10
+LeftDown 1
+Delay 15 ms
+MoveR 0 2
+Delay 15 ms
+MoveR 0 0
+Delay 15 ms
+MoveR 0 0
+Delay 15 ms
+MoveR 0 1
+Delay 15 ms
+LeftUp 1
+Delay 5 ms
+GoWhile 15 5
+LeftDown 1
+Delay 15 ms
+MoveR 0 0
+Delay 15 ms
+MoveR 0 0
+Delay 15 ms
+MoveR 0 0
+Delay 15 ms
+MoveR 0 0
+Delay 15 ms
+LeftUp 1
+Delay 5 ms
+GoWhile 28 40
+DelayS 2 s</Syntax>
+    </KeyDown>
+    <Software>Point Blank</Software>
+  </DefaultMacro>
+</Root>

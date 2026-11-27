@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для SMG позволяет снизить отдачу оружия и улучшить точность стрельбы. С его помощью вы можете стрелять очередями, не требуя точного прицеливания.
+Ограничение по сенсору составляет 0.6 без прицела и 0.82.  Разрешение экрана:1920x1080
+FOV может быть любым. При использовании макроса рекомендуется настроить сенсор на 0.8 для оптимальной работы.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+//Начинаем стрельбу
+MoveR 0 5
+Delay 64
+LeftDown 1
+MoveR 0 5
+LeftDown 1
+MoveR 0 5
+Delay 64
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

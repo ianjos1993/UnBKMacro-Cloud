@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>идеальный тайминг реквиема под еул с яша каей (с погрешностью 0.5мс, 0.04%)
+
+как использовать:
+1. навести курсор на врага
+2. нажать кнопку активации скрипта
+
+требования биндов и слотов:
+1. яша кая, неважно в каком слоте
+2. блинк, в скрипте он на Z но если не удобно можете взять тайминги и переделать
+3. еул, цифра 1
+4. реквием, буква R
+
+требования для корректной работы:
+1. включить драйвер в настройках keyran'a
+2. использовать англ. раскладку клавиатуры</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 4 ms
+KeyUp 29 1
+Delay 4 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 1 s
+Delay 248 ms
+KeyDown 21 1
+KeyUp 21 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

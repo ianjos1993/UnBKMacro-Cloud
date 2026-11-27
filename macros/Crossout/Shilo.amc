@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Шило очень быстро стреляют и не так сильно перегреваются но, очень точные попадание. А так же подходит для егозы и черты.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 32 ms
+LeftUp 1
+Delay 22 ms
+KeyDown 33 1
+Delay 32 ms
+KeyUp 33 1
+Delay 22 ms
+KeyDown 34 1
+Delay 32 ms
+KeyUp 34 1
+Delay 22 ms</Syntax>
+    </KeyDown>
+    <Software>Crossout</Software>
+  </DefaultMacro>
+</Root>

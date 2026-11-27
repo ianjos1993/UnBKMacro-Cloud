@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макро на за жим дроби. Проходил тест на мышки X710-BK.
+Больше подходит для перевертыша чем для других.</Description>
+    <Comment>Первый раз выкладываю макрос если не что не тк извините</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 12 ms
+LeftUp 1
+Delay 12 ms
+LeftDown 1
+Delay 12 ms
+LeftUp 1
+Delay 12 ms
+KeyDown 20 1
+Delay 12 ms
+KeyUp 20 1
+Delay 12 ms
+KeyDown 20 1
+Delay 12 ms
+KeyUp 20 1
+Delay 12 ms
+KeyUp 266 1
+KeyUp 265 1</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

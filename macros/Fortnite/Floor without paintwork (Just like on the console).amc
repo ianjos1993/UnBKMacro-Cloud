@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Пол строится без подтверждения на ЛКМ. 
+Точно как на консоли, нажали кнопку пола, построился пол и не нужно нажимать ЛКМ.
+Удерживая кнопку "Shift" пол будет строится пока вы не отпустите кнопку.
+
+Строительство пола должно быть на кнопку "Shift"
+Если для вас это не удобно, поменяйте кнопку "Shift" на любую удобную для вас в редакторе макросов.
+
+Подписывайся на канала DoubleSe в YouTube</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+LeftDown 1
+Delay 1000 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,55 @@
+<Root>
+  <DefaultMacro>
+    <Major>Mac-10 macro зажим [CRIMINALITY]</Major>
+    <Description>Зажимка мак-10 трудная и нестабильная, поэтому иногда не обижайтесь на то, что макро не может выдержать отдачи, НО хорошо работает с приседа. Сделал макро для того, чтобы игрокам было легче играть.
+Сам макрос биндится на левую кнопку мыши с режимом работы "Пока нажата клавиша".
+
+Разрешение 1440*900
+DPI +- 2000</Description>
+    <Comment>Нестабильный, но рабочий</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 25 ms
+MoveR -3 6
+Delay 25 ms
+MoveR 0 4
+Delay 25 ms
+MoveR 0 4
+Delay 25 ms
+MoveR -3 6
+Delay 25 ms
+MoveR 0 4
+Delay 25 ms
+MoveR 0 4
+Delay 25 ms
+MoveR -3 6
+Delay 25 ms
+MoveR 3 6
+Delay 25 ms
+MoveR 3 6
+Delay 25 ms
+MoveR -3 6
+Delay 25 ms
+MoveR 3 6
+Delay 25 ms
+MoveR 3 6
+Delay 25 ms
+MoveR -3 6
+Delay 25 ms
+MoveR 3 6
+Delay 25 ms
+MoveR 3 6
+Delay 25 ms
+MoveR -3 6
+Delay 25 ms
+MoveR 3 6</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

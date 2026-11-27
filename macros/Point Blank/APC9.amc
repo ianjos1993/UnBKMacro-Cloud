@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major>No Recoil</Major>
+    <Description>No recoil for APC that best works if you use it on hold key operation mode while holding no longer than 1.5 seconds.
+It shoots really fast with almost no recoil which makes it usable with the +3 fire rate title along with +1 rapid fire recoil title.
+
+1920x1080</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+GoWhile 1 50
+MoveR 0 30
+GoWhile 6 11</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

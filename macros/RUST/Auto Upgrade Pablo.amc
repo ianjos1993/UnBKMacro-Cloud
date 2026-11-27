@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Rust Auto Upgrade to Stone Macro
+
+
+Set Up: Place the hammer tool in your action bar in the specified slot (default is slot 4 in this macro).
+
+Aim: Position your cursor over the building component you wish to upgrade to stone (e.g., walls, foundations, ceilings).
+Activate Macro: Start the macro. The script will automatically
+:
+Equip the hammer.
+Open the upgrade menu by right-clicking on the component.
+Move the cursor to select the "Upgrade to Stone" option.
+Confirm the selection to apply the upgrade.
+
+Repeat: If you want to upgrade multiple components, keep the macro running or trigger it again as you move to the next component.
+
+
+
+
+Requirements
+Screen Resolution: This macro is optimized for 1920x1080 resolution. If using a different resolution, adjust the mouse coordinates in the macro to ensure proper menu selection
+.
+Hammer Tool Position: By default, the hammer should be in slot 4 of the action bar. Change this in the macro script if your hammer is in a different slot.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 33 1
+Delay 200 ms
+KeyUp 33 1
+Delay 1 ms
+MoveR 650 500
+Delay 100 ms
+RightDown 1
+Delay 150 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 1 ms
+RightUp 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

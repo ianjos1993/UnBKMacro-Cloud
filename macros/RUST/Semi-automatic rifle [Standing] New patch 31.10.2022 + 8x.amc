@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос под новую отдачу в игре RUST на оружие Берда в положении стоя.
+
+Настройки в игре:
+  - FOV 79 - Чувствительность 0.885
+  - Разрешение любое но желательно 1920x1080
+  - DPI 800-1200
+
+Если следовать правилам и все качественно настроить то макросс будет работать неприкосновенно.
+
+keyran.net - самые лучший макроссы.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 13 ms
+MoveR -1 2
+Delay 13 ms
+MoveR -1 2
+Delay 13 ms
+MoveR -1 2
+Delay 13 ms
+MoveR -1 2
+Delay 13 ms
+MoveR -1 2
+Delay 13 ms
+LeftUp 1
+Delay 17 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

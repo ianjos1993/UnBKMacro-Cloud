@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>Blacksmith Greed Skill</Major>
+    <Description>Greed is a skill to auto pick up item within 2x2 cells.
+
+Set Greed skill in key C.
+
+You can just train with mouse click and free your hand from clicking the keyboard.
+
+This macro will let the greed skill triggered every 15 seconds, it is about right for each pile of items after killling 1 group of mobs.
+
+Feel free to edit the intervals accordingly, don't forget to set the operation mode to "run until press again".
+
+Thank you Keyran.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+Delay 113 ms
+KeyUp 6 1
+Delay 15 s</Syntax>
+    </KeyDown>
+    <Software>Ragnarok</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос предназначен для автоматического фарминга на арене 8 уровня в Minecraft на сервере VimeWorld. Помогает эффективно проходить волны мобов, оптимизирует процесс прокачки персонажа и экономит ваше время. Полностью безопасен в использовании, стабильно работает на различных конфигурациях и не требует сложных дополнительных настроек.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 184 ms
+KeyDown 13 1
+Delay 20 ms
+KeyUp 13 1
+Delay 150 ms
+KeyDown 13 1
+Delay 40 ms
+KeyUp 13 1
+KeyDown 224 1
+KeyDown 26 1
+Delay 1400 ms
+KeyUp 26 1
+Delay 10 ms
+KeyUp 224 1
+Delay 9500 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

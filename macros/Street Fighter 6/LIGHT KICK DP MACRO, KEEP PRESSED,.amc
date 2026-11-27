@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major>MAINLY FOR CAMMY </Major>
+    <Description>SHOULD WORK WITH OTHER CHAR WHOSE DP START WITH Kick. when you are in left side of screen
+TRY CHANGING 4 TO UR DP BUTTON WHILE CUSTOMIZING.
+KEEP THE MACRO PRESSED, JUST TAPPING WONT WORK</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 20 ms
+KeyDown 7 1
+Delay 20 ms
+KeyUp 7 1
+Delay 20 ms
+KeyDown 7 1
+Delay 20 ms
+KeyDown 92 1
+Delay 68 ms
+KeyUp 92 1
+Delay 40 ms
+KeyUp 7 1
+Delay 60 ms
+KeyUp 22 1
+Delay 30 ms</Syntax>
+    </KeyDown>
+    <Software>Street Fighter 6</Software>
+  </DefaultMacro>
+</Root>

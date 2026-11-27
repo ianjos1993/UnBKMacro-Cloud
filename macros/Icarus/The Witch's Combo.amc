@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Самое мощное комбо вблизи для колдуньи на низких уровнях
+На прапвую кнопку назначаем Вакуум
+На 1 - сокрушающий хаос. Притянул - отбросил. При прожатии у противника будь это пвп или пве ни единого шанса. 
+На F2 - связующий свет
+И конечно 4 - шквал темных стрел. 
+По сути два комбо на ручную активацию.</Description>
+    <Comment>Протестировано на мобах обычных и элитках. Боссы как сами знаете не поднимутся в воздух от связующего света</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 64
+RightUp 1
+Delay 1 s
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 1 s
+KeyDown 59 1
+Delay 64
+KeyUp 59 1
+Delay 1 s
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Icarus</Software>
+  </DefaultMacro>
+</Root>

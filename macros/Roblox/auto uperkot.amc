@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный скрипт за вас сделает уперкот и деш к человеку
+Для лучшего использование стоять перед человеком и подождать 2 секунды на месте после же использовать макрос
+Чтобы макрос идеально работал нужно сделать сенсу роблокса нв 0.20 фпс больше 140 а пинг меньше 200
+Так же макрос работаеть только на персонаже 1 или же Saitama или же the strongest hero</Description>
+    <Comment>Обычный макрос</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox The Strongest Battle ground</Software>
+  </DefaultMacro>
+</Root>

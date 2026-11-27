@@ -1,0 +1,56 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос на MP5 для растяга, разрешение 2080*1440 FOV 90, чувствительность 0.9.
+сделан под зажим сидя, жмет почти в точку</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 24 ms
+MoveR 0 2
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 2 2
+Delay 24 ms
+MoveR 2 1
+Delay 24 ms
+MoveR 3 2
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR -2 1
+Delay 24 ms
+MoveR -2 1
+Delay 24 ms
+MoveR -2 1
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 2 1
+Delay 24 ms
+MoveR 2 0
+Delay 24 ms
+MoveR 2 0
+Delay 24 ms
+MoveR 2 0
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR -4 0
+Delay 24 ms
+MoveR -4 0
+Delay 24 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

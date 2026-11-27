@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос очень удобный и быстрый для строительства, с ррим можно достроиться ло центра за считаные секунды, вопрос только в том как это делать?
+1.Скачиваем макрос.
+2.Выбираем клавишу на макрос.
+3.Ставим макрос на зажатие.
+4.Заходим в игру.
+Интструкция по использованию макроса:
+1. Становимся на край блока как будто мы строимся FastBridge. (На искосок)
+2.Нажимаем на выбранную вами клавишу, после чего нажимаем сразу две клавиши, A+S и готово.
+Надо выбрать угол обзора что-бы вы строились ровно, и не падали.
+3.Готово.
+P.S.
+Я сам лично пользуюсь этим макросом так как он очень удобный</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 100 ms
+RightDown 1
+Delay 1 ms
+RightUp 1
+Delay 1 ms
+KeyUp 225 1
+Delay 195 ms</Syntax>
+    </KeyDown>
+    <Software>minecraft</Software>
+  </DefaultMacro>
+</Root>

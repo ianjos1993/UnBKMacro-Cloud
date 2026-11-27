@@ -1,0 +1,53 @@
+<Root>
+  <DefaultMacro>
+    <Major>Мипо связка</Major>
+    <Description>q 1 скилл, alt+e следующий подконтрольный герой
+Навести курсор на врага и каждый прокаст (начиная с 3 мипо) снова нажимать на макрос
+Данным макросом вы сможете убивать любого героя!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+KeyUp 20 1
+KeyDown 226 1
+KeyDown 8 1
+KeyUp 8 1
+KeyUp 226 1
+Delay 2 s
+KeyDown 20 1
+KeyUp 20 1
+KeyDown 226 1
+KeyDown 8 1
+KeyUp 8 1
+KeyUp 226 1
+Delay 2 s
+KeyDown 20 1
+KeyUp 20 1
+KeyDown 226 1
+KeyDown 8 1
+KeyUp 8 1
+KeyUp 226 1
+Delay 2 s
+KeyDown 20 1
+KeyUp 20 1
+KeyDown 226 1
+KeyDown 8 1
+KeyUp 8 1
+KeyUp 226 1
+Delay 2 s
+KeyDown 20 1
+KeyUp 20 1
+KeyDown 226 1
+KeyDown 8 1
+KeyUp 8 1
+KeyUp 226 1
+Delay 2 s</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

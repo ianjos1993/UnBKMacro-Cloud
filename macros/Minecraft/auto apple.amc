@@ -1,0 +1,94 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>С помощью данного макроса для игры в Minecraft на сервере VimeWorld вы автоматически будете покупать яблоки и закидывать их в банду ( /cell ). Настройте разрешение экрана на 1600 х 900 и установите чувствительность в игре на 100. Во время работы макроса не двигайте мышь. Перед использованием убедитесь что на балансе присутствует хоть не много монет и подойдите в притык к банде.
+
+В случае вопросов обращайтесь к пользователю morskou в Discord (morskou) или ВКонтакте (vk.com/mylterfx).</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 70 ms
+KeyUp 56 1
+Delay 70 ms
+KeyDown 5 1
+Delay 70 ms
+KeyUp 5 1
+Delay 70 ms
+KeyDown 18 1
+Delay 70 ms
+KeyUp 18 1
+Delay 70 ms
+KeyDown 18 1
+Delay 70 ms
+KeyUp 18 1
+Delay 70 ms
+KeyDown 14 1
+Delay 70 ms
+KeyUp 14 1
+Delay 70 ms
+KeyDown 88 1
+Delay 70 ms
+KeyUp 88 1
+Delay 70 ms
+MoveTo 891 424
+Delay 250 ms
+LeftDown 1
+Delay 250 ms
+LeftUp 1
+Delay 250 ms
+MoveTo 781 394
+Delay 250 ms
+LeftDown 1
+Delay 250 ms
+LeftUp 1
+Delay 250 ms
+MoveTo 826 366
+Delay 250 ms
+KeyDown 225 1
+Delay 250 ms
+LeftDown 1
+Delay 70 ms
+LeftUp 1
+Delay 70 ms
+GoWhile 41 20
+KeyUp 225 1
+Delay 250 ms
+KeyDown 41 1
+Delay 250 ms
+KeyUp 41 1
+Delay 250 ms
+RightDown 1
+Delay 250 ms
+RightUp 1
+Delay 250 ms
+MoveTo 879 394
+Delay 250 ms
+LeftDown 1
+Delay 250 ms
+LeftUp 1
+Delay 250 ms
+MoveTo 767 291
+Delay 250 ms
+KeyDown 225 1
+Delay 250 ms
+RightDown 1
+Delay 250 ms
+RightUp 1
+Delay 250 ms
+KeyUp 225 1
+Delay 250 ms
+KeyDown 41 1
+Delay 250 ms
+KeyUp 41 1
+Delay 250 ms
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Выставляем заряд ярости на 1. дальнюю цель на 3. привязываем к окну. задержку циклов настраивайте под себя, перс начинает спамит рывок по кд, осталные скилы ставте на авто подойдет для начинаик дк со слабым устом для более быстрого фарма</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 1600 ms
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Lineage 2 Essence</Software>
+  </DefaultMacro>
+</Root>

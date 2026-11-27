@@ -1,0 +1,61 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Дюпаем души, дюпаем точки после отрицательного дюпа.
+При обычном дюпе душ:
+Ранее запоминаем в ячейке памяти число 99 (с помощью настроек яркости) либо 999 (с помощью стрел).
+В инвентаре должна находиться душа на нечётном слоте. Затем нажимаете скрипт. Профит.
+
+Подробнее, как дюпать можно посмотреть в гайдах на спидран.ком</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 81 1
+Delay 34 ms
+KeyUp 81 1
+Delay 10 ms
+KeyDown 81 1
+Delay 34 ms
+KeyUp 81 1
+Delay 10 ms
+KeyDown 8 1
+Delay 34 ms
+KeyUp 8 1
+Delay 10 ms
+KeyDown 80 1
+Delay 0 ms
+KeyDown 81 1
+Delay 34 ms
+KeyUp 80 1
+Delay 2 ms
+KeyUp 81 1
+Delay 2 ms
+KeyDown 79 1
+Delay 34 ms
+KeyUp 79 1
+Delay 10 ms
+KeyDown 8 1
+Delay 34 ms
+KeyUp 8 1
+Delay 10 ms
+KeyDown 81 1
+Delay 65 ms
+KeyUp 81 1
+Delay 10 ms
+KeyDown 80 1
+Delay 7 ms
+KeyUp 80 1
+Delay 2 ms
+KeyDown 8 1
+Delay 34 ms
+KeyUp 8 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Dark Souls Remastered</Software>
+  </DefaultMacro>
+</Root>

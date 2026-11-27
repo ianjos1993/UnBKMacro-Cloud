@@ -1,0 +1,81 @@
+<Root>
+  <DefaultMacro>
+    <Major>Necropolis of Martyrdom Бем АА Destroyer 66 lvl</Major>
+    <Description>Necropolis of Martyrdom Бем АА Destroyer 66 lvl с В пушкой на фокус в Tallum сете С бижа
+Фулл БАФФ обязательно бафф на откат скилов
+На пенеле виставляем:
+
+F1 Attack
+F2 Next Target
+F6 Infernal Form (Бафф Дестра)
+F7 Rage (Бафф Дестра)
+F9 Battle Roar (Бафф Дестра)
+
+Находим маленькую комнату с етими мобами:
+L|ilim Soldier
+Purgatory Gargoyle
+Sepulcher Sage</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 59 1
+Delay 150
+KeyUp 59 1
+Delay 150
+KeyDown 58 1
+Delay 150
+KeyUp 58 1
+Delay 2 s
+KeyDown 58 1
+Delay 150
+KeyUp 58 1
+Delay 2 s
+KeyDown 58 1
+Delay 150
+KeyUp 58 1
+Delay 2 s
+KeyDown 58 1
+Delay 150
+KeyUp 58 1
+Delay 2 s
+KeyDown 58 1
+Delay 150
+KeyUp 58 1
+Delay 2 s
+KeyDown 58 1
+Delay 150
+KeyUp 58 1
+Delay 2 s
+KeyDown 58 1
+Delay 150
+KeyUp 58 1
+Delay 2 s
+KeyDown 58 1
+Delay 150
+KeyUp 58 1
+Delay 2 s
+GoWhile 1 5
+Delay 1 s
+KeyDown 64 1
+Delay 300 ms
+KeyUp 64 1
+Delay 300 ms
+KeyDown 63 1
+Delay 300
+KeyUp 63 1
+Delay 300
+GoWhile 1 2
+KeyDown 66 1
+Delay 300
+KeyUp 66 1
+Delay 300
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Прокрут снапы и страйкера для серверов  gtm. страйкер на кнопку 3 снапа на 9. Удобно использовать в воздухе так и на земле. в жимках шотает</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 10 ms
+KeyDown 32 1
+KeyUp 32 1
+Delay 80 81 ms
+RightDown 1
+RightUp 1
+Delay 64 ms
+KeyDown 38 1
+KeyUp 38 1
+Delay 23 ms
+RightDown 1
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,61 @@
+<Root>
+  <DefaultMacro>
+    <Major>Абуз</Major>
+    <Description>Рекомендуемые настройки экрана для корректной работы скрипта - 1920х1080
+Стакает меточки банкоматов.
+Ставьте начальника смены как можно ближе к инкассаторке, желательно выбить дверь им же, ПОТОМ, очень внимательно тут, многие лажают здесь, Вы запускаете макрос... Если не работает, уберите галочку с последней настройки Кейрана во вкладке "Клавиши", связанной с блокировкой модифакторов чёт там... у меня такое было, никому не пожелаю с этим сталкиваться. 
+спасибо за внимание :*
+ здоровья прочитавшим!
+
+</Description>
+    <Comment>
+Сделал криво, отшлифуете сами, если очень надо, мне хватает того, что есть. 
+
+для обратной связи обращаться в тг @xlmxlm44
+
+Пользуйтесь Кейраном, скчать на keyran.net/ru</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+KeyUp 8 1
+Delay 472 ms
+MoveTo 745 941
+Delay 722 ms
+LeftDown 1
+LeftUp 1
+Delay 422 ms
+KeyDown 9 1
+Delay 722 ms
+KeyUp 9 1
+Delay 1322 ms
+MoveTo 957 538
+LeftDown 1
+LeftUp 1
+Delay 822 ms
+KeyDown 9 1
+KeyUp 9 1
+Delay 622 ms
+KeyDown 8 1
+Delay 122 ms
+KeyUp 8 1
+Delay 122 ms
+MoveTo 745 941
+Delay 722 ms
+LeftDown 1
+Delay 722 ms
+LeftUp 1
+Delay 722 ms
+KeyDown 9 1
+Delay 622 ms
+KeyUp 9 1
+Delay 622 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

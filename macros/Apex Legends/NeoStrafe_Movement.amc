@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Macro for smooth in-air strafing (forward-left and forward-right) to maintain momentum. Movement-only; no shooting or ADS.
+
+</Description>
+    <Comment>How to use:
+
+Assign to a key you can comfortably hold (Alt, Shift, or Middle Mouse).
+
+Jump near a wall or in open space and hold the key.
+
+Character will smoothly alternate left/right in air, mimicking a neo-strafe.
+
+Tip: If it feels too fast or slow, tweak Wait times in 10–20ms increments until it matches your style.
+
+Made by JROCC</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 60 ms
+KeyDown 26 1
+KeyDown 4 1
+Delay 120 ms
+KeyUp 26 1
+KeyUp 4 1
+Delay 40 ms
+KeyDown 26 1
+KeyDown 7 1
+Delay 120 ms
+KeyUp 26 1
+KeyUp 7 1
+Delay 40 ms</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на нажатие кнопки действия с задержкой в 4 секунды между нажатиями.
+Повторяется до следующего нажатия включающей макрос клавиши</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 4000 ms</Syntax>
+    </KeyDown>
+    <Software>Ni no kuni cross Worlds</Software>
+  </DefaultMacro>
+</Root>

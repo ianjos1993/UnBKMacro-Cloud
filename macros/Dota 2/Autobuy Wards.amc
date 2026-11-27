@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Надоело забывать про варды? Этот макрос сам за тебя их купит!
+Каждые две минуты скрипт будет заходить в магазин и выкупить жёлтый и синий варды (по одному штуке, если те доступны в лавке).
+
+Для работы нужно:
+Разрешение 1600x1050. Режим дальтонизма.
+Открытие магазина на "P".</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 5 1 33,36,38 255,255,255 1 1134 940 787 141 1 0
+//Проверяем, есть ли варды в сумке на четвертом слоте?
+Delay 2 min
+Goto 1
+KeyDown 19 1
+//Если вардов в сумке нет, то открываем магазин и прокликиваем жёлтый и синий варды
+Delay 130 ms
+KeyUp 19 1
+Delay 60 ms
+MoveTo 1364 256
+//Координаты жёлтого варда
+Delay 30 ms
+RightDown 1
+Delay 20 ms
+RightUp 1
+Delay 20 ms
+MoveTo 1397 255
+//Координаты синего варда
+Delay 30 ms
+RightDown 1
+Delay 10 ms
+RightUp 1
+Delay 20 ms
+KeyDown 19 1
+//Закрыли магазин</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

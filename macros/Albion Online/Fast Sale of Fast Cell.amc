@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>В данном макросе я сделал 4 действия это отжатия и нажатие кнопки лкм. а так же несколько кординат чтобы направлять нажатия. Сут в том что теперь вы можете авто продать быстрой продажей весь ваш лут из инвентаря. РАЗРЕШЕИНЕ ЭКРАНА ПРИ КОТОРОМ У МЕНЯ РАБОТАЕТ ДАННЫЙ МАКРО 1920X1080. Если у вас какие либо проблемы прошу отписать и я помогу их решить</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы (Старался примерно пол часа т.к мало опыта в данной программе)</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 2 ms
+MoveTo 1274 448
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+MoveTo 1274 448
+Delay 10 ms
+MoveTo 1231 557
+Delay 10 ms
+MoveTo 1228 560
+Delay 10 ms
+MoveTo 1160 726
+Delay 10 ms
+MoveTo 1160 726
+Delay 10 ms
+MoveTo 1159 726
+Delay 10 ms
+MoveTo 1159 727
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+MoveTo 1159 727
+Delay 10 ms
+MoveTo 1159 727
+Delay 71 ms</Syntax>
+    </KeyDown>
+    <Software>Albion Online</Software>
+  </DefaultMacro>
+</Root>

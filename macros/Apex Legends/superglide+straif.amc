@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>easy superglide, prefer 144fps 
+just put the macro in C,V or SPACEBAR 
+superglide+straif 
+practice to enjoy</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 10 ms
+KeyUp 44 1
+Delay 50 ms
+KeyDown 44 1
+Delay 10 ms
+KeyUp 44 1
+KeyDown 6 1
+Delay 2 ms
+KeyUp 6 1
+Delay 200 ms
+KeyDown 44 1
+Delay 5 20 ms
+WheelUp 1
+Delay 5 20 ms
+WheelUp 1
+Delay 5 20 ms
+WheelUp 1
+Delay 5 20 ms
+WheelUp 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

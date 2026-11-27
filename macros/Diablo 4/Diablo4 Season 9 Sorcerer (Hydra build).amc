@@ -1,0 +1,85 @@
+<Root>
+  <DefaultMacro>
+    <Major>Hydra Sorcerer Season 9 </Major>
+    <Description>1. Нажимает 2 умения (Фрост Болт + Шар Молнии) по очерёдно (чтобы накопить 100 стаков кейстона (Enlighment).
+2. По достижению 100 стаков - нажимает: Морозные клинки + Ледяная броня + Инферно (чтобы получить нужные бафы)
+3. Нажимает циклично Шар молнии + Гидры + Блинк, до тех пор, пока не спадут 100 стаков до 0 от Enlightment
+4. Запускает по новой с 1 пункта</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 33 1
+Delay 40 ms
+KeyUp 33 1
+Delay 40 ms
+KeyDown 30 1
+Delay 40 ms
+KeyUp 30 1
+Delay 40 ms
+GoWhile 1 20
+KeyDown 31 1
+Delay 32 ms
+KeyUp 31 1
+Delay 32 ms
+KeyDown 32 1
+Delay 32 ms
+KeyUp 32 1
+Delay 32 ms
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+KeyDown 225 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyUp 225 1
+Delay 64
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+MiddleDown 1
+Delay 64
+MiddleUp 1
+Delay 64
+KeyDown 31 1
+Delay 32 ms
+KeyUp 31 1
+Delay 32 ms
+KeyDown 32 1
+Delay 32 ms
+KeyUp 32 1
+Delay 32 ms
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+MiddleDown 1
+Delay 64
+MiddleUp 1
+Delay 64
+GoWhile 18 9</Syntax>
+    </KeyDown>
+    <Software>Diablo IV</Software>
+  </DefaultMacro>
+</Root>

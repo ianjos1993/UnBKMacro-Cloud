@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простой как швейцарские часы автокликер для автоматизации покупки/продажи предметов в трейдере.
+Наловили много рыбы и надо всё продать? Ваш палец устал, постоянно кликая левую кнопку мыши?) Этот макрос для вас.
+
+Как пользоваться:
+
+1) Заходим в трейдер
+2) Наводимся курсором на желаемое действие "Купить" либо же "Продать"
+3) Активируем макрос на любую горячую клавишу
+4) Завариваем чай и кайфуем :D
+
+Отключить макрос той же кнопкой, что и Запустить.
+
+Приятной игры ;P</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 88 1
+Delay 10 ms
+KeyUp 88 1
+Delay 800 ms</Syntax>
+    </KeyDown>
+    <Software>DayZ</Software>
+  </DefaultMacro>
+</Root>

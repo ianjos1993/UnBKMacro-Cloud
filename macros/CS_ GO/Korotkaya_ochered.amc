@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major>free |</Major>
+    <Description>Макрос на CSS v34, может подойдите опять же для любой другой игры.
+Данный макрос позволяет стрелять тапами(очередями) по цели, вам остается только навести правильно прицел.</Description>
+    <Comment> fronsezq</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 20 ms
+LeftUp 1
+Delay 150 ms
+//Стрельба по пуле, а точнее ТАП, там где 20 мс - это задержка зажима клавиши, то есть за 20 мс она выпустит одну пулю. Где 150 мс, это задержка повтора следуйщей пули.</Syntax>
+    </KeyDown>
+    <Software>Counter-Strike Source v34</Software>
+  </DefaultMacro>
+</Root>

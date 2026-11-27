@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>включает фары
+запускает двигатель
+и пристегивает за вас ремень 
+всче что нужно просто нажать одну кнопку
+наслаждайтесь)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 5 1
+Delay 112 ms
+KeyUp 5 1
+Delay 232 ms
+KeyDown 15 1
+Delay 80 ms
+KeyUp 15 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

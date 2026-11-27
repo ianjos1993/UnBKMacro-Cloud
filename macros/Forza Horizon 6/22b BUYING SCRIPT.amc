@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Скрипт создан для закупки Subaru Impreza 22B-STI Version, а также любой желаемой вами машины.
+Инструкция:
+Перед использованием необходимо зайти в коллекционный журнал - discover Japan - коллекция машин. Далее находим наш желаемый автомобиль, наводимся на него системно и запускаем скрипт.
+Рекомендовано назначить на клавишу 8 (не на блоке Num_pad), режим работы - до повторного нажатия.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 180 ms
+KeyUp 225 1
+Delay 1318 ms
+KeyDown 44 1
+Delay 105 ms
+KeyUp 44 1
+Delay 1325 ms
+KeyDown 81 1
+Delay 133 ms
+KeyUp 81 1
+Delay 668 ms
+KeyDown 88 1
+Delay 88 ms
+KeyUp 88 1
+Delay 1784 ms
+KeyDown 88 1
+Delay 101 ms
+KeyUp 88 1
+Delay 1974 ms
+KeyDown 88 1
+Delay 92 ms
+KeyUp 88 1
+Delay 1339 ms
+KeyDown 225 1
+Delay 206 ms
+KeyDown 68 1
+GoWhile 1 26</Syntax>
+    </KeyDown>
+    <Software>Forza Horizon 6</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Глитч со спамом эль торо. Оружие во второй слот. В быстром использовании должно что то быть. Проверял на дробовике 1 тира. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 59 ms
+LeftUp 1
+Delay 62 ms
+KeyDown 9 1
+Delay 56 ms
+KeyUp 9 1
+Delay 64 ms
+KeyDown 31 1
+Delay 63 ms
+KeyUp 31 1
+Delay 44 ms</Syntax>
+    </KeyDown>
+    <Software>ARC Raiders</Software>
+  </DefaultMacro>
+</Root>

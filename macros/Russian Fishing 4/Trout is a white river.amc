@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Делать заброс по координатам 72:40 леве камня, приманку использовать spiker 2016 с большим 2 тройником</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyUp 225 1
+LeftDown 1
+Delay 45 s
+LeftUp 1
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+KeyDown 44 1
+Delay 3 s
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>Russian Fishing 4</Software>
+  </DefaultMacro>
+</Root>

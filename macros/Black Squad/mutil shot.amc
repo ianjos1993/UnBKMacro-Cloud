@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>fast bullet</Major>
+    <Description>A simple macro for a triple click, when you bind to any of the buttons, three rounds are fired sequentially and quickly. (it can be used as an improvisation for automatic fire mode, the delay between shots is equal to 121 MS, which if translated into rapid fire.. it will be equal to the delay when firing a weapon with a fire rate of 500 rounds per minute</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+LeftDown 1
+Delay 40 ms
+LeftUp 1
+Delay 40 ms
+LeftDown 1
+Delay 40 ms
+LeftUp 1
+Delay 40 ms
+LeftDown 1
+Delay 40
+LeftUp 1
+Delay 40</Syntax>
+    </KeyDown>
+    <Software>Black Squad</Software>
+  </DefaultMacro>
+</Root>

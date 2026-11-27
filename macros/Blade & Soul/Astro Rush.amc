@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major>Врыв на астроманта</Major>
+    <Description>Поставь кулон на F1 и врывайся с миллиардом со скиллов! (ну, если гир позволит!) Поставь нужные задержки и тыкай одну кнопочку!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 58 1
+Delay 100 ms
+KeyUp 58 1
+Delay 100 ms
+KeyDown 29 1
+Delay 100 ms
+KeyUp 29 1
+Delay 100 ms
+KeyDown 43 1
+Delay 100 ms
+KeyUp 43 1
+Delay 100 ms
+KeyDown 31 1
+Delay 100 ms
+KeyUp 31 1
+Delay 100 ms
+KeyDown 6 1
+Delay 100 ms
+KeyUp 6 1
+Delay 100 ms
+KeyDown 25 1
+Delay 100 ms
+KeyUp 25 1
+Delay 100 ms
+KeyDown 33 1
+Delay 100 ms
+KeyUp 33 1
+Delay 100 ms
+KeyDown 32 1
+Delay 100 ms
+KeyUp 32 1
+Delay 100 ms</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

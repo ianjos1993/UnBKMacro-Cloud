@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major>Auto use habilities with a delay</Major>
+    <Description>Auto use the flask on the 5 position, adjusted for 5 secs for the divination distillate. It's is commonly used for the divination distillate or other types of flask that needs to be manually triggered. You can adapt it to differents habilities also, like blood rage, withering step, malevolence  manually trigggered, etc.</Description>
+    <Comment>You can change the time lapse changing the delay, this will run undefinetly until you deactivate it.</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 34 1
+KeyUp 34 1
+Delay 4500 4800 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Path of Exile</Software>
+  </DefaultMacro>
+</Root>

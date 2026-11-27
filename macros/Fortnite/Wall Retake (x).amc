@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro allows you to steal any wall on the key of X. all you have to do is go to the keyran main screen and bind (Wall Retake (x)] with any free key on your keyboard you want to use as you wall retake, this can be any key. If you have problems with the macro, write to me, I will help you.
+To make this macro work, you need to bind it to any key and that's it, you're done!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 25 ms
+LeftUp 1
+Delay 150 ms
+KeyDown 27 1
+Delay 30 ms
+KeyUp 27 1
+Delay 20 ms
+LeftDown 1
+Delay 20 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

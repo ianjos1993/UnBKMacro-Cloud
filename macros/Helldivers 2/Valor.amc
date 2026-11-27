@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major>Стратагем "Доблесть"</Major>
+    <Description>Данный скрипт запускает комбинацию клавиш для стратагема "Доблесть"
+Работает на раскладке WASD
+Для корректной работы  выставить режим запуска стратагем в состояние "Нажать"
+
+т.е. нажимаете ctrl(в режиме "нажать"), запускаете скрипт по определенной комбинации клавиш(которую сами выставите), отпускаете ctrl</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Helldivers 2</Software>
+  </DefaultMacro>
+</Root>

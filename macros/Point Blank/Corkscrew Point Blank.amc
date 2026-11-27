@@ -1,0 +1,369 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос «Штопор» перебирает пароли от 0000 до 9999 по принципу одометра. Разрешение экрана не важно.
+Только в оконном режиме.
+Создан для вскрытия запароленных комнат.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//Условия
+Goto 7
+varE = 0
+varF = 0
+varG = 0
+varH = 0
+//Условия
+//Прожим
+Delay 7 ms
+KeyDown 88 1
+Delay 8 ms
+KeyUp 88 1
+Delay 8 ms
+//Блок
+if varH == 9 Goto 17
+Goto 28
+varH = varH - 9
+varG = varG + 1
+if varG == 9 Goto 21
+Goto 31
+varG = varG - 9
+varF = varF + 1
+if varF == 9 Goto 25
+Goto 30
+varF = varF - 9
+varE = varE + 1
+if varE == 9 Goto 343
+//Блок
+Goto 31
+//Прожим
+//База
+if varE == 0 Goto 82
+if varE == 1 Goto 88
+if varE == 2 Goto 94
+if varE == 3 Goto 100
+if varE == 4 Goto 106
+if varE == 5 Goto 112
+if varE == 6 Goto 118
+if varE == 7 Goto 124
+if varE == 8 Goto 130
+if varE == 9 Goto 136
+//Одометр 9999
+if varE == 9 Goto 343
+if varF == 9 Goto 343
+if varG == 9 Goto 343
+if varH == 9 Goto 343
+//B Переменная
+if varF == 0 Goto 143
+if varF == 1 Goto 150
+if varF == 2 Goto 156
+if varF == 3 Goto 162
+if varF == 4 Goto 168
+if varF == 5 Goto 174
+if varF == 6 Goto 180
+if varF == 7 Goto 186
+if varF == 8 Goto 192
+if varF == 9 Goto 198
+//С переменная
+if varG == 0 Goto 206
+if varG == 1 Goto 212
+if varG == 2 Goto 218
+if varG == 3 Goto 224
+if varG == 4 Goto 230
+if varG == 5 Goto 236
+if varG == 6 Goto 242
+if varG == 7 Goto 248
+if varG == 8 Goto 254
+if varG == 9 Goto 260
+//D Переменная
+if varH == 0 Goto 273
+if varH == 1 Goto 280
+if varH == 2 Goto 287
+if varH == 3 Goto 294
+if varH == 4 Goto 301
+if varH == 5 Goto 308
+if varH == 6 Goto 315
+if varH == 7 Goto 322
+if varH == 8 Goto 329
+if varH == 9 Goto 336
+//База
+//Клавиши      А
+//0
+KeyDown 39 1
+Delay 8 ms
+KeyUp 39 1
+Delay 8 ms
+Goto 47
+//1
+KeyDown 30 1
+Delay 8 ms
+KeyUp 30 1
+Delay 8 ms
+Goto 47
+//2
+KeyDown 31 1
+Delay 8 ms
+KeyUp 31 1
+Delay 8 ms
+Goto 47
+//3
+KeyDown 32 1
+Delay 8 ms
+KeyUp 32 1
+Delay 8 ms
+Goto 47
+//4
+KeyDown 33 1
+Delay 8 ms
+KeyUp 33 1
+Delay 8 ms
+Goto 47
+//5
+KeyDown 34 1
+Delay 8 ms
+KeyUp 34 1
+Delay 8 ms
+Goto 47
+//6
+KeyDown 35 1
+Delay 8 ms
+KeyUp 35 1
+Delay 8 ms
+Goto 47
+//7
+KeyDown 36 1
+Delay 8 ms
+KeyUp 36 1
+Delay 8 ms
+Goto 47
+//8
+KeyDown 37 1
+Delay 8 ms
+KeyUp 37 1
+Delay 8 ms
+Goto 47
+//9
+KeyDown 38 1
+Delay 8 ms
+KeyUp 38 1
+Delay 8 ms
+Goto 47
+//Клавиши    А
+//Клавиши            B
+//0
+KeyDown 39 1
+Delay 8 ms
+KeyUp 39 1
+Delay 8 ms
+Goto 58
+//1
+KeyDown 30 1
+Delay 8 ms
+KeyUp 30 1
+Delay 8 ms
+Goto 58
+//2
+KeyDown 31 1
+Delay 8 ms
+KeyUp 31 1
+Delay 8 ms
+Goto 58
+//3
+KeyDown 32 1
+Delay 8 ms
+KeyUp 32 1
+Delay 8 ms
+Goto 58
+//4
+KeyDown 33 1
+Delay 8 ms
+KeyUp 33 1
+Delay 8 ms
+Goto 58
+//5
+KeyDown 34 1
+Delay 8 ms
+KeyUp 34 1
+Delay 8 ms
+Goto 58
+//6
+KeyDown 35 1
+Delay 8 ms
+KeyUp 35 1
+Delay 8 ms
+Goto 58
+//7
+KeyDown 36 1
+Delay 8 ms
+KeyUp 36 1
+Delay 8 ms
+Goto 58
+//8
+KeyDown 37 1
+Delay 8 ms
+KeyUp 37 1
+Delay 8 ms
+Goto 58
+//9
+KeyDown 38 1
+Delay 8 ms
+KeyUp 38 1
+Delay 8 ms
+Goto 58
+//Клавиши             B
+//Клавиши                        C
+//0
+KeyDown 39 1
+Delay 8 ms
+KeyUp 39 1
+Delay 8 ms
+Goto 69
+//1
+KeyDown 30 1
+Delay 8 ms
+KeyUp 30 1
+Delay 8 ms
+Goto 69
+//2
+KeyDown 31 1
+Delay 8 ms
+KeyUp 31 1
+Delay 8 ms
+Goto 69
+//3
+KeyDown 32 1
+Delay 8 ms
+KeyUp 32 1
+Delay 8 ms
+Goto 69
+//4
+KeyDown 33 1
+Delay 8 ms
+KeyUp 33 1
+Delay 8 ms
+Goto 69
+//5
+KeyDown 34 1
+Delay 8 ms
+KeyUp 34 1
+Delay 8 ms
+Goto 69
+//6
+KeyDown 35 1
+Delay 8 ms
+KeyUp 35 1
+Delay 8 ms
+Goto 69
+//7
+KeyDown 36 1
+Delay 8 ms
+KeyUp 36 1
+Delay 8 ms
+Goto 69
+//8
+KeyDown 37 1
+Delay 8 ms
+KeyUp 37 1
+Delay 8 ms
+Goto 69
+//9
+KeyDown 38 1
+Delay 8 ms
+KeyUp 38 1
+Delay 8 ms
+if varG == 9 Goto 268
+Goto 69
+//Клавиши              C 
+//Одометр C
+varF = varF + 1
+varG = varG - 9
+Goto 69
+//Клавиши                                 D
+//0
+KeyDown 39 1
+Delay 8 ms
+KeyUp 39 1
+Delay 8 ms
+varH = varH + 1
+Goto 8
+//1
+KeyDown 30 1
+Delay 8 ms
+KeyUp 30 1
+Delay 8 ms
+varH = varH + 1
+Goto 8
+//2
+KeyDown 31 1
+Delay 8 ms
+KeyUp 31 1
+Delay 8 ms
+varH = varH + 1
+Goto 8
+//3
+KeyDown 32 1
+Delay 8 ms
+KeyUp 32 1
+Delay 8 ms
+varH = varH + 1
+Goto 8
+//4
+KeyDown 33 1
+Delay 8 ms
+KeyUp 33 1
+Delay 8 ms
+varH = varH + 1
+Goto 8
+//5
+KeyDown 34 1
+Delay 8 ms
+KeyUp 34 1
+Delay 8 ms
+varH = varH + 1
+Goto 8
+//6
+KeyDown 35 1
+Delay 8 ms
+KeyUp 35 1
+Delay 8 ms
+varH = varH + 1
+Goto 8
+//7
+KeyDown 36 1
+Delay 8 ms
+KeyUp 36 1
+Delay 8 ms
+varH = varH + 1
+Goto 8
+//8
+KeyDown 37 1
+Delay 8 ms
+KeyUp 37 1
+Delay 8 ms
+varH = varH + 1
+Goto 8
+//9
+KeyDown 38 1
+Delay 8 ms
+KeyUp 38 1
+Delay 8 ms
+varH = varH + 1
+if varE == 9 Goto 348
+//Стопор 9999
+Goto 8
+Goto 346
+Delay 7 ms
+Goto 345
+//Стопор 9999
+varH = varH - 9
+varG = varG + 1
+Goto 8</Syntax>
+    </KeyDown>
+    <Software>Point Blank</Software>
+  </DefaultMacro>
+</Root>

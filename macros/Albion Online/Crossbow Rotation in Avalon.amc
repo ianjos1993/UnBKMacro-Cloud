@@ -1,0 +1,73 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Это ротация на любой арбалет в авалоне или на мирке  
+Напоминаем, что все ротации написаны с использованием плаща Карлеона и Освежающего спринта:
+R -&gt; D -&gt; Q -&gt; Q -&gt; Q -&gt; W -&gt; E -&gt; Q -&gt; Q -&gt; F -&gt; W -&gt; Q -&gt; Q (настройка с низким DPS — вы можете жадно наносить больше урона так как E должен взорваться до того, как умрут мобы)
+Ваша роль — нанести максимально возможный урон скоплениям мобов, если только RL не попросит вас сначала сфокусироваться на определенной цели.
+Вы используете «Разрывную стрелу» (Q) и «Кальтропы» (W) вместе с пассивным умением «Хорошая подготовка» (2-й пассивный навык), чтобы рассылать взрывную стрелу (Q). Спам Q здесь является основным ДПС.
+Вы также используете Obsessive Burst (R), чтобы значительно увеличить свой урон.</Description>
+    <Comment>просто на боковую кнопки мышки настраиваите и мышкой указываете на мобов и тыкаете и тыкете одну кнопку  </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 2
+KeyUp 21 1
+Delay 2
+KeyDown 7 1
+Delay 2
+KeyUp 7 1
+Delay 2
+KeyDown 20 1
+Delay 2
+KeyUp 20 1
+Delay 2
+KeyDown 20 1
+Delay 2
+KeyUp 20 1
+Delay 2
+KeyDown 20 1
+Delay 2
+KeyUp 20 1
+Delay 2
+KeyDown 26 1
+Delay 2
+KeyUp 26 1
+Delay 2
+KeyDown 8 1
+Delay 2
+KeyUp 8 1
+Delay 2
+KeyDown 20 1
+Delay 2
+KeyUp 20 1
+Delay 2
+KeyDown 20 1
+Delay 2
+KeyUp 20 1
+Delay 2
+KeyDown 9 1
+Delay 2
+KeyUp 9 1
+Delay 2
+KeyDown 26 1
+Delay 2
+KeyUp 26 1
+Delay 2
+KeyDown 20 1
+Delay 2
+KeyUp 20 1
+Delay 2
+KeyDown 20 1
+Delay 2
+KeyUp 20 1
+Delay 2</Syntax>
+    </KeyDown>
+    <Software>Albion online</Software>
+  </DefaultMacro>
+</Root>

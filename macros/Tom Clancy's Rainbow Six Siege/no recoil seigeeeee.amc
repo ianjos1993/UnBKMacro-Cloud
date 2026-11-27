@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major>slight pull down works with most guns</Major>
+    <Description>Just assign it to your shoot button or key, all it does is pull down at a constant rate. producing semi vertical recoil control. Its pretty good.  A tip Put it on your fire button!!!
+SE RATIO 14;3 Fov 90, DPI 400, 1920 X 1080P</Description>
+    <Comment>:)</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 15 ms
+LeftDown 1
+MoveR 2 12
+Delay 10 ms
+MoveR 0 13
+Delay 10 ms
+MoveR -2 13
+Delay 10 ms
+MoveR -4 12
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

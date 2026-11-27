@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>Auto Scan</Major>
+    <Description>Lethal Company is a great horror game that you can get many laughs and scares out of. Scanning is a feature in the game that allows you to scan your surroundings, estimating the price of scrap and also giving momentary light. If you're tired of manually having to press right click every single time to scan, this macro will do you well! By automatically scanning every 4 seconds (you can change this in the Macro editor), it saves you all the trouble.
+
+Instructions:
+ - Simply bind the macro to a key that's not used in game and you'll be fine.
+
+Notes:
+ - Unactivate Keyran when typing in the terminal (you can negate having to do this if you bind to a useless number or F row key)
+ - This macro does not interfere with regular scanning, so you can still scan normally as this macro runs auto scans.
+ - If you find a bug in the software or have any advice, contact the developer of this macro (me) by using Keyran's built in messaging feature.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 64
+RightUp 1
+Delay 4000 ms
+//For user: you can change the frequency of scans here. *1s = 1000ms
+GoWhile 1 10000000</Syntax>
+    </KeyDown>
+    <Software>Lethal Company</Software>
+  </DefaultMacro>
+</Root>

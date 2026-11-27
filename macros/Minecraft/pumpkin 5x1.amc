@@ -1,0 +1,260 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>use 220 speed on a horizontal farm yaw 90/0 and pitch 28 its a 1 by 5 plots pumpkin farm 
+
+it should be water then 4 dirt blocks on which you should plant your pumpkins and repeat it with slabs over the water and at the end it should have a block in the water on which you would continue on the next row on which at the start you should have a block on top of the first pumpkin with a trapdoor facing you and do that for every row till the end 
+
+you should set your "/setspawn" at the start of the farm at exactly "yaw 90/0 and pitch 28" have your tool in the 1st slot of your hotbar then start the macro.
+and you are going to start farming leftwards "A" then you would go frondwards "W" and then continue right "D"</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 10 ms
+KeyUp 30 1
+KeyDown 56 1
+Delay 64
+Delay 30 ms
+KeyUp 56 1
+Delay 64 ms
+KeyDown 10 1
+Delay 30 ms
+KeyUp 10 1
+Delay 30 ms
+KeyDown 4 1
+Delay 30 ms
+KeyUp 4 1
+Delay 30 ms
+KeyDown 21 1
+Delay 30 ms
+KeyUp 21 1
+Delay 30 ms
+KeyDown 7 1
+Delay 30 ms
+KeyUp 7 1
+Delay 30 ms
+KeyDown 8 1
+Delay 30 ms
+KeyUp 8 1
+Delay 30 ms
+KeyDown 17 1
+Delay 30 ms
+KeyUp 17 1
+Delay 30 ms
+KeyDown 88 1
+Delay 30 ms
+KeyUp 88 1
+Delay 1000 ms
+LeftDown 1
+KeyDown 4 1
+Delay 50500 ms
+KeyUp 4 1
+LeftUp 1
+Delay 30
+KeyDown 26 1
+Delay 560 ms
+KeyUp 26 1
+Delay 70 ms
+LeftDown 1
+Delay 30
+KeyDown 7 1
+Delay 50500 ms
+KeyUp 7 1
+Delay 70 ms
+LeftUp 1
+Delay 30
+KeyDown 26 1
+Delay 560 ms
+KeyUp 26 1
+Delay 70 ms
+LeftDown 1
+KeyDown 4 1
+Delay 50500 ms
+KeyUp 4 1
+LeftUp 1
+Delay 30
+KeyDown 26 1
+Delay 560 ms
+KeyUp 26 1
+Delay 70 ms
+LeftDown 1
+Delay 30
+KeyDown 7 1
+Delay 50500 ms
+KeyUp 7 1
+Delay 70 ms
+LeftUp 1
+Delay 30
+KeyDown 26 1
+Delay 560 ms
+KeyUp 26 1
+Delay 70 ms
+LeftDown 1
+KeyDown 4 1
+Delay 50500 ms
+KeyUp 4 1
+LeftUp 1
+Delay 30
+KeyDown 26 1
+Delay 560 ms
+KeyUp 26 1
+Delay 70 ms
+LeftDown 1
+Delay 30
+KeyDown 7 1
+Delay 50500 ms
+KeyUp 7 1
+Delay 70 ms
+LeftUp 1
+Delay 30
+KeyDown 26 1
+Delay 560 ms
+KeyUp 26 1
+Delay 70 ms
+LeftDown 1
+KeyDown 4 1
+Delay 50500 ms
+KeyUp 4 1
+LeftUp 1
+Delay 30
+KeyDown 26 1
+Delay 560 ms
+KeyUp 26 1
+Delay 70 ms
+LeftDown 1
+Delay 30
+KeyDown 7 1
+Delay 50500 ms
+KeyUp 7 1
+Delay 70 ms
+LeftUp 1
+Delay 30
+KeyDown 26 1
+Delay 560 ms
+KeyUp 26 1
+Delay 70 ms
+LeftDown 1
+KeyDown 4 1
+Delay 50500 ms
+KeyUp 4 1
+LeftUp 1
+Delay 30
+KeyDown 26 1
+Delay 560 ms
+KeyUp 26 1
+Delay 70 ms
+LeftDown 1
+Delay 30
+KeyDown 7 1
+Delay 50500 ms
+KeyUp 7 1
+Delay 70 ms
+LeftUp 1
+Delay 30
+KeyDown 26 1
+Delay 560 ms
+KeyUp 26 1
+Delay 70 ms
+LeftDown 1
+KeyDown 4 1
+Delay 50500 ms
+KeyUp 4 1
+LeftUp 1
+Delay 30
+KeyDown 26 1
+Delay 560 ms
+KeyUp 26 1
+Delay 70 ms
+LeftDown 1
+Delay 30
+KeyDown 7 1
+Delay 50500 ms
+KeyUp 7 1
+Delay 70 ms
+LeftUp 1
+Delay 30
+KeyDown 26 1
+Delay 560 ms
+KeyUp 26 1
+Delay 70 ms
+LeftDown 1
+KeyDown 4 1
+Delay 50500 ms
+KeyUp 4 1
+LeftUp 1
+Delay 30
+KeyDown 26 1
+Delay 560 ms
+KeyUp 26 1
+Delay 70 ms
+LeftDown 1
+Delay 30
+KeyDown 7 1
+Delay 50500 ms
+KeyUp 7 1
+Delay 70 ms
+LeftUp 1
+Delay 30
+KeyDown 26 1
+Delay 560 ms
+KeyUp 26 1
+Delay 70 ms
+LeftDown 1
+KeyDown 4 1
+Delay 50500 ms
+KeyUp 4 1
+LeftUp 1
+Delay 30
+KeyDown 26 1
+Delay 560 ms
+KeyUp 26 1
+Delay 70 ms
+LeftDown 1
+Delay 30
+KeyDown 7 1
+Delay 50500 ms
+KeyUp 7 1
+Delay 70 ms
+LeftUp 1
+Delay 30
+KeyDown 26 1
+Delay 560 ms
+KeyUp 26 1
+Delay 70 ms
+LeftDown 1
+KeyDown 4 1
+Delay 50500 ms
+KeyUp 4 1
+LeftUp 1
+Delay 30
+KeyDown 26 1
+Delay 560 ms
+KeyUp 26 1
+Delay 70 ms
+LeftDown 1
+Delay 30
+KeyDown 7 1
+Delay 50500 ms
+KeyUp 7 1
+Delay 70 ms
+LeftUp 1
+Delay 30
+KeyDown 26 1
+Delay 560 ms
+KeyUp 26 1
+Delay 70 ms
+LeftDown 1
+KeyDown 4 1
+Delay 50500 ms
+KeyUp 4 1
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro allows you to seamlessly edit single tile peices over and over again at the speed of light!
+        
+        -Set edit and to (G) and set select to (/)
+        -If not working right try turning on (Edit On Release)
+
+Thanks for using my script!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+KeyUp 10 1
+KeyDown 56 1
+KeyUp 56 1
+KeyDown 10 1
+KeyUp 10 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

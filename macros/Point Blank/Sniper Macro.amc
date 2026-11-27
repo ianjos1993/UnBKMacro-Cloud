@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Firing sniper without extension.
+Setting : 
+If you want to fire macro with RMB, make sure the RMB is not used for any use.
+And set the extension with different key.
+
+Its good enough without QC, but best with QC </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 25 ms
+LeftUp 1
+Delay 23 ms
+KeyDown 32 1
+Delay 25 ms
+KeyUp 32 1
+Delay 23 ms
+KeyDown 30 1
+Delay 25 ms
+KeyUp 30 1
+Delay 23 ms</Syntax>
+    </KeyDown>
+    <Software>Point Blank</Software>
+  </DefaultMacro>
+</Root>

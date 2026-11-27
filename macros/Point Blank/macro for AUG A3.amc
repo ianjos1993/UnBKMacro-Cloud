@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всем Привет!Данный макрос сделан для штурмовой винтовки AUG A3.
+Макрос подойдет для мониторов с частотой обновления 60-75 HZ.
+Ставим на боковые клавиши мыши либо на колесик мыши.
+Перки желательно +2,3,4 скорик и 2 перк на выбор.(главное не ставить отдачу так как будет уводить в бок при стрельбе и резать урон)
+Всем удачи!
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 22 ms
+LeftUp 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

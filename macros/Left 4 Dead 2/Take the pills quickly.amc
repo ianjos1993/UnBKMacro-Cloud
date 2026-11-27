@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос заставляет вас взять таблетки и почти сраху же их принять, переключась обратно на оружие. вам нужно всего лишь назначить макрос на клавишу и во время игры нажать на нее, тогда макрос сработает корректно. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 34 1
+Delay 30 ms
+KeyUp 34 1
+Delay 1 ms
+RightDown 1
+Delay 1 ms
+RightUp 1
+Delay 670 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 480 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Left 4 Dead 2</Software>
+  </DefaultMacro>
+</Root>

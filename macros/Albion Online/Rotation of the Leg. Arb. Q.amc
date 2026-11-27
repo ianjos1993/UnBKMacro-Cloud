@@ -1,0 +1,76 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Ротация скиллов для легкого арбалета, для наибольшего использования первого скила на оружее.
+
+Необходимо:
+   (Лег. арбалет):
+Q - Второй скилл
+W - Третий скилл
+Вторая пассивка
+
+Еще нужен плащ Карлеона.)
+
+Ротация: W, R, Q, Q, Q, W, E, Q, Q, D, W
+Если ваша цель не мертва после данной ротации, то продолжайте чередовать Q и W до полного востановления D и R
+                          </Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 106 ms
+KeyUp 26 1
+Delay 877 ms
+KeyDown 21 1
+Delay 108 ms
+KeyUp 21 1
+Delay 603 ms
+KeyDown 20 1
+Delay 115 ms
+KeyUp 20 1
+Delay 593 ms
+KeyDown 20 1
+Delay 110 ms
+KeyUp 20 1
+Delay 687 ms
+KeyDown 20 1
+Delay 103 ms
+KeyUp 20 1
+Delay 2085 ms
+KeyDown 26 1
+Delay 103 ms
+KeyUp 26 1
+Delay 879 ms
+KeyDown 8 1
+Delay 97 ms
+KeyUp 8 1
+Delay 610 ms
+KeyDown 20 1
+Delay 110 ms
+KeyUp 20 1
+Delay 619 ms
+KeyDown 20 1
+Delay 121 ms
+KeyUp 20 1
+Delay 1080 ms
+KeyDown 7 1
+Delay 116 ms
+KeyUp 7 1
+Delay 1530 ms
+KeyDown 26 1
+Delay 96 ms
+KeyUp 26 1
+Delay 122 ms
+KeyDown 26 1
+Delay 91 ms
+KeyUp 26 1
+Delay 646 ms</Syntax>
+    </KeyDown>
+    <Software>Albion online</Software>
+  </DefaultMacro>
+</Root>

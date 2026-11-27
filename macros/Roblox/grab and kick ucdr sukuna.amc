@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major>Untitled Combat Demo Rework</Major>
+    <Description>auto grab and kick авто qte для сукуны в UCDR (Untitled Combat Demo Rework)
+для использования надо дождатся cooldown на 1 чтобы сделать нормально
+1+(кнопка на которую забинжен макрос)</Description>
+    <Comment>Для тех кому лень или сложно прописать 2 слова в qte за 1.5 секунды</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyDown 5 1
+Delay 1 s
+KeyDown 14 1
+Delay 64
+KeyDown 12 1
+Delay 64
+KeyDown 6 1
+Delay 64
+KeyDown 14 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

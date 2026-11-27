@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major>Фаст панишь для маленьких минусов </Major>
+    <Description>V skill - любой           V trigger - Любой
+
+Кнопки для ударов(раскладка): Легкий панч - 7 num
+Средний панч - 8 num
+Сильный панч - 9 num
+Слабая нога - 4 num
+Средняя нога - 5 num
+Сильная нога - 6 num</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 89 ms
+KeyDown 92 1
+Delay 93 ms
+KeyUp 92 1
+Delay 33 ms
+KeyDown 22 1
+Delay 20 ms
+KeyUp 7 1
+Delay 48 ms
+KeyDown 97 1
+Delay 32 ms
+KeyDown 7 1
+Delay 28 ms
+KeyUp 22 1
+Delay 6 ms
+KeyUp 97 1
+Delay 57 ms
+KeyDown 97 1
+Delay 23 ms
+KeyUp 7 1
+Delay 5 ms
+KeyUp 97 1
+Delay 30 ms</Syntax>
+    </KeyDown>
+    <Software>Street Fighter V</Software>
+  </DefaultMacro>
+</Root>

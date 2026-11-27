@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос позволяет мгновенно сменить оружие в арсенале на саблю и мушкет в 1 и 2 слот соответственно. Подходит под любое разрешение. Скины выбираются по умолчанию.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 25 ms
+KeyUp 8 1
+Delay 25 ms
+KeyDown 88 1
+Delay 25 ms
+KeyUp 88 1
+Delay 25 ms
+KeyDown 30 1
+Delay 25 ms
+KeyUp 30 1
+Delay 25 ms
+KeyDown 8 1
+Delay 25 ms
+KeyUp 8 1
+Delay 25 ms
+KeyDown 8 1
+Delay 25 ms
+KeyUp 8 1
+Delay 25 ms
+KeyDown 88 1
+Delay 25 ms
+KeyUp 88 1
+Delay 25 ms
+KeyDown 31 1
+Delay 25 ms
+KeyUp 31 1
+Delay 25 ms</Syntax>
+    </KeyDown>
+    <Software>Sea of Thieves</Software>
+  </DefaultMacro>
+</Root>

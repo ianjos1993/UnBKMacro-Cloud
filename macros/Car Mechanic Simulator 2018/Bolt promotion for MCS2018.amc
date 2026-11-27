@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>Раскрутка болтов для достижения</Major>
+    <Description>Данный макрос создан для зарабатывания достижений связаных с раскруткой болтов в игре Car Mechanic Simulator 2018. Для начала вам нужно изменить клавишу отмены/назад c ESC на Enter, Найти машину  или собрать двигатель V8, снять крышку катушки зажигания, завести камеру за двигатель и нажать кнопку съема крышки головки блока цилиндров, выровнять камеру чтобы все болты были на одной линии, не выкручивая болты, отменить съем и включить макрос.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 1200 ms
+LeftUp 1
+Delay 300 ms
+LeftDown 1
+Delay 2000 ms
+LeftUp 1
+Delay 500 ms
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+GoWhile 1 100000</Syntax>
+    </KeyDown>
+    <Software>Car Mechanic Simulator 2018</Software>
+  </DefaultMacro>
+</Root>

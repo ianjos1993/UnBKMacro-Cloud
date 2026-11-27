@@ -1,0 +1,104 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Комба с проталкиванием себя вперед с помощью локтей. Дальше идёт микростан, связка со стрельбой и подбрасыванием. Затем пинаем чутка в воздухе оппонента и добиваем ногой.
+С макс ренджа порой стрельба не связывается, потому что микростан такой МИКРО, что чуть дальше начнешь кастоваться и оппонент успеет закрыться блоком (если сядет). Энергетический взрыв если попадет в блок, то мы отбросимся на -29, что точно карается. Потому надо быть уверенным, когда даешь эту комбу, что точно залетит. К слову этот шар я уже и сам ненавижу, отвратительный и беспонтовый пресет.
+
+Урон:258
+
+Пресет:
+-BLB-118: Энергетический взрыв
+-Сияющая нога в полете
+
+Старт: 11 кадров
+В блок: -29
+
+Управление:
+1-J
+2-K
+3-L
+4-:
+Захват - U
+AMP - SHIFT
+WASD (Вверх, влево, вниз, вправо)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//Стартер
+KeyDown 4 1
+Delay 64
+KeyDown 14 1
+Delay 64
+KeyUp 14 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 51 1
+Delay 64
+KeyUp 51 1
+Delay 64
+//Оглушение
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 51 1
+Delay 480 ms
+KeyDown 225 1
+Delay 20 ms
+KeyUp 225 1
+Delay 20 ms
+KeyUp 51 1
+Delay 470 ms
+//B13
+KeyDown 4 1
+Delay 30 ms
+KeyDown 13 1
+Delay 30 ms
+KeyUp 13 1
+Delay 30 ms
+KeyDown 15 1
+Delay 30 ms
+KeyUp 15 1
+Delay 10 ms
+KeyUp 4 1
+Delay 1050 ms
+//Локти
+KeyDown 4 1
+Delay 64
+KeyDown 14 1
+Delay 64
+KeyUp 14 1
+Delay 64
+KeyDown 51 1
+Delay 64
+KeyUp 51 1
+Delay 64
+KeyUp 4 1
+Delay 50 ms
+//Нога
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 7 1
+Delay 30 ms
+KeyUp 7 1
+Delay 30 ms
+KeyDown 15 1
+Delay 64
+KeyUp 15 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Mortal Kombat 11</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major>4 культурная ферма</Major>
+    <Description>1.Кнопку атаки/ломания поставьте на правую кнопку мыши(пкм)
+2.Настройте градусы камеры Yaw должен быть 90 или максимально приближенно
+3. Запускаете
+Как построить такую же ферму видео : Введите в ютубе : Гайд на постройку Мега фермы на 4 Культуры (Hypixel Skyblock) ссылку не дали вставить(
+Мои макрос автоматизирован не полностью собирает только общую часть и всё ставить на первоначальное место нужно самим
+Запомните макросы запрещены на данном сервере и вы используете их на свой страх и риск
+Оценку своему макросу могу дать 7/10 отнял 3 балла из за неполной автоматизации а 7 дал из за эксклюзивности потому что такой фермы я не нашел в базе макросов</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 426 ms
+KeyDown 7 1
+Delay 560 ms
+KeyDown 26 1
+Delay 24086 ms
+KeyUp 7 1
+Delay 1290 ms
+KeyDown 4 1
+Delay 24167 ms
+KeyUp 4 1
+Delay 1220 ms
+KeyDown 7 1
+Delay 24274 ms
+KeyUp 7 1
+Delay 1047 ms
+KeyDown 4 1
+Delay 24240 ms
+KeyUp 4 1
+Delay 1469 ms
+KeyUp 26 1
+Delay 231 ms
+RightUp 1
+GoWhile 1 10</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

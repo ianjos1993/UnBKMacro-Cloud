@@ -1,0 +1,58 @@
+<Root>
+  <DefaultMacro>
+    <Major>Anti AFK by Ivan Zolo</Major>
+    <Description>Макрос «Анти АФК» предназначен для эффективного фарма опыта в игре MTA Province. Он идеально подходит для выполнения заданий, таких как сон за РП, когда игроку требуется просто находиться в игре без активного участия. Просто оставьте вашего персонажа в людном месте, активируйте макрос и занимайтесь своими делами или отправляйтесь спать.
+
+Макрос позволяет накапливать опыт, не требуя вашего присутствия в игре. Однако, стоит отметить, что использование данного макроса не защищает вас от возможного кика администраторами. Хотя такие проверки осуществляются редко, имейте в виду этот риск.
+
+Важно отметить, что использование таких макросов может нарушать правила игры и привести к блокировке учетной записи. Поэтому рекомендуется использовать данный макрос с осторожностью и осознанно оценивать риски.
+
+Желаем вам успехов в фарме опыта и надеемся, что эта информация окажется полезной для вас!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 10111 ms
+KeyUp 26 1
+Delay 10153 ms
+KeyDown 4 1
+Delay 10134 ms
+KeyUp 4 1
+Delay 10174 ms
+KeyDown 22 1
+Delay 10139 ms
+KeyUp 22 1
+Delay 10205 ms
+KeyDown 7 1
+Delay 10155 ms
+KeyUp 7 1
+Delay 10210 ms
+KeyDown 26 1
+Delay 10116 ms
+KeyUp 26 1
+Delay 10274 ms
+KeyDown 4 1
+Delay 10138 ms
+KeyUp 4 1
+Delay 10172 ms
+KeyDown 22 1
+Delay 10133 ms
+KeyUp 22 1
+Delay 10187 ms
+KeyDown 7 1
+Delay 10151 ms
+KeyUp 7 1
+Delay 10201 ms
+KeyDown 26 1
+Delay 10144 ms
+KeyUp 26 1
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

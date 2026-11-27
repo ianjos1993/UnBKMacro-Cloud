@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>1.0</Major>
+    <Description>Get max power with this macro using the pull up bar at the beach gym on the GrandRP server.
+Make sure you are mounted onto the pull up bar before starting.
+GET RIPPED REAL QUICK!!!!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 101 ms
+KeyUp 8 1
+Delay 5597 ms
+KeyDown 8 1
+Delay 64 ms
+KeyUp 8 1
+Delay 5456 ms
+KeyDown 8 1
+Delay 79 ms
+KeyUp 8 1
+Delay 5779 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

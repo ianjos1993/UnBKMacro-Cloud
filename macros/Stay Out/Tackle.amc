@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>Быстрый подкат</Major>
+    <Description>Позволяет одним нажатием клавиши делать быстрый удобный подкат, Что бы подкат делался ещё быстрее, нужно упасть с небольшой высоты. Так же можете паралельно нажимать клавиши A D для манса в пвп.</Description>
+    <Comment>Не зажимайте клавишу активирующую макрос, так он работать не будет. Одно нажатие = 1 подкат. </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 5 ms
+KeyDown 225 1
+Delay 5 ms
+KeyUp 225 1
+Delay 5 ms
+KeyDown 6 1
+Delay 5
+KeyUp 6 1
+Delay 5
+KeyDown 225 1
+Delay 1 s
+KeyUp 225 1
+Delay 5
+KeyDown 44 1
+Delay 5 ms
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>Stay Out</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,163 @@
+<Root>
+  <DefaultMacro>
+    <Major>Heihachi combo</Major>
+    <Description>Макрос позволяет выполнять stable combo за Heihachi.
+Видео демонстрации работы макроса: https://youtu.be/xg5DTQoo7jM
+
+Хейхачи Мишима — один из главных героев серии Tekken. Он дебютировал в первой игре серии и возвращался во всех последующих титулах. Хотя он считается главным героем и антизлодеем второй игры, он является главным антагонистом игры и почти всегда несет ответственность за катастрофические события. Он играл центральную роль в историях Tekken 5 и Tekken 6, но вернулся в качестве центрального антагониста Tekken 7. Хейхачи — сын Джинпачи Мигимы, муж Казуми Мишимы, отец Казуи Мишимы и Ларса Александерссона, приёмный отец Ли Чаолана и дедушка по отцовской линии Джина Казамы. В отличие от Кадуи, у Хейхачи нет проблем с давлением на противника тыканиями, и, как и у любого Мишимы, у него отличные наказания, хотя у Казуи и Дьявола Джина гораздо более разнообразны и полезны. Помимо этого Хейхачи сражается, используя боевое каратэ в стиле Мишима. Его стиль похож на Годзюрю каратэ.
+
+Тестирование макроса проводились на последнем патче игры на 10.11.2023 (5.01 патч)
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#heihachitekken7 #tekken7 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 79 ms
+KeyUp 7 1
+Delay 50 ms
+KeyDown 7 1
+Delay 30 ms
+KeyDown 74 1
+Delay 90 ms
+KeyUp 74 1
+Delay 0 ms
+KeyUp 7 1
+Delay 69 ms
+KeyDown 22 1
+Delay 40 ms
+KeyDown 7 1
+Delay 489 ms
+KeyUp 22 1
+Delay 60 ms
+KeyUp 7 1
+Delay 120 ms
+KeyDown 7 1
+Delay 60 ms
+KeyUp 7 1
+Delay 29 ms
+KeyDown 22 1
+Delay 40 ms
+KeyDown 7 1
+Delay 9 ms
+KeyDown 77 1
+Delay 50 ms
+KeyUp 22 1
+Delay 20 ms
+KeyUp 77 1
+Delay 30 ms
+KeyUp 7 1
+Delay 30 ms
+KeyDown 77 1
+Delay 60 ms
+KeyUp 77 1
+Delay 649 ms
+KeyDown 4 1
+Delay 50 ms
+KeyDown 7 1
+Delay 40 ms
+KeyUp 4 1
+Delay 40 ms
+KeyDown 74 1
+Delay 130 ms
+KeyDown 76 1
+Delay 20 ms
+KeyUp 7 1
+Delay 40 ms
+KeyUp 74 1
+Delay 40 ms
+KeyUp 76 1
+Delay 109 ms
+KeyDown 22 1
+Delay 10 ms
+KeyDown 7 1
+Delay 700 ms
+KeyUp 22 1
+Delay 60 ms
+KeyUp 7 1
+Delay 160 ms
+KeyDown 7 1
+Delay 70 ms
+KeyUp 7 1
+Delay 59 ms
+KeyDown 7 1
+Delay 120 ms
+KeyUp 7 1
+Delay 30 ms
+KeyDown 22 1
+Delay 50 ms
+KeyDown 7 1
+Delay 39 ms
+KeyDown 77 1
+Delay 79 ms
+KeyDown 73 1
+Delay 9 ms
+KeyUp 22 1
+Delay 20 ms
+KeyUp 7 1
+Delay 10 ms
+KeyUp 77 1
+Delay 40 ms
+KeyUp 73 1
+Delay 70 ms
+KeyDown 73 1
+Delay 80 ms
+KeyUp 73 1
+Delay 190 ms
+KeyDown 7 1
+Delay 79 ms
+KeyDown 22 1
+Delay 390 ms
+KeyUp 22 1
+Delay 119 ms
+KeyUp 7 1
+Delay 180 ms
+KeyDown 4 1
+Delay 80 ms
+KeyDown 76 1
+Delay 90 ms
+KeyUp 4 1
+Delay 30 ms
+KeyUp 76 1
+Delay 39 ms
+KeyDown 74 1
+Delay 529 ms
+KeyDown 73 1
+Delay 100 ms
+KeyUp 73 1
+Delay 90 ms
+KeyDown 73 1
+Delay 80 ms
+KeyUp 73 1
+Delay 50 ms
+KeyDown 73 1
+Delay 100 ms
+KeyUp 73 1
+Delay 90 ms
+KeyUp 74 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 7</Software>
+  </DefaultMacro>
+</Root>

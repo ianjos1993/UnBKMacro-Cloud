@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Фастузм на Kar98K
+
+повышает комфорт стрельбы
+
+желетельно использовать "удерживать пкм" в настройках прицеливания для более качественной работы макроса 
+всем удачи ^-^
+
+
+
+
+
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 24 ms
+RightUp 1
+Delay 24 ms
+LeftDown 1
+Delay 24 ms
+LeftUp 1
+KeyDown 32 1
+Delay 24 ms
+KeyUp 32 1
+KeyDown 30 1
+Delay 24 ms</Syntax>
+    </KeyDown>
+    <Software>Warface</Software>
+  </DefaultMacro>
+</Root>

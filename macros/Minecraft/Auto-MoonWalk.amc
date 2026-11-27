@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Привет! Это макрос на строительство видом Moon-Walk.Это один из самых быстрых видов строительства,помогает в таких режимах как: BedWars,SkyWars и т.д.Как использовать: наведитесь на второй пиксель шерсти по высоте,и зажмите кнопку макроса.Удачного использования!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+KeyDown 22 1
+Delay 6 ms
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 4 1
+Delay 6 ms
+KeyUp 4 1
+Delay 6 ms
+KeyDown 4 1
+Delay 1 ms
+KeyUp 4 1
+Delay 6 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

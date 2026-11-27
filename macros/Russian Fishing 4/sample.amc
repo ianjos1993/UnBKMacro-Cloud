@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>этот макрос позволит комфортно рыбачить на р. Яма в игре Русская рыбалка 4,для работы макроса требуется разрешение экрана 1920х1080, для рыбалки в проброс есть все необходимое,автоподнятие рыбы,самозаброс. Нет ни единых макросов для русской рыбалки 4,но этот будет первым.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+LeftDown 1
+Delay 1000 ms
+KeyUp 225 1
+Delay 64
+Delay 64
+LeftUp 1
+Delay 3400 ms
+LeftDown 1
+Delay 70700 ms
+LeftUp 1
+RightDown 1
+Delay 4000 ms
+Delay 64
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 829 976
+Delay 500 ms
+LeftDown 1
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+Delay 2000 ms
+Delay 3000 ms
+Delay 64 ms
+LeftUp 1
+Delay 64
+Delay 64
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Russian Fishing 4</Software>
+  </DefaultMacro>
+</Root>

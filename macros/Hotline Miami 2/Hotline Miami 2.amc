@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Фарм киллов на 17 сцене, акт 5. В основном полезно для получения достижения "Геноцид"
+Ролим лвл пока у типа за дверью не будет винтовка, включаем и ждём.
+Фармит по 4-6 киллов(с эмкой) или 4 килла(с калаша) за жизнь, но также может не взять винтовку (раз в 20+- траев)  или что ещё хуже убить всех, из-за чего придётся рестартить вручную, но такое случается крайне редко.
+
+Вот как-то так:)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 300 ms
+KeyUp 26 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+LeftDown 1
+Delay 400 ms
+LeftUp 1
+Delay 1 s
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+GoWhile 1 9999</Syntax>
+    </KeyDown>
+    <Software>Hotline Miami 2</Software>
+  </DefaultMacro>
+</Root>

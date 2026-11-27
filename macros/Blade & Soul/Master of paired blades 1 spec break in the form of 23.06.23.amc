@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major>66600013</Major>
+    <Description>билд на врыв у мастера парных клинков 23.06.23
+1) 3--3--2--3--2
+2) Кулон на G
+это бинд на врыв без 4 и без F</Description>
+    <Comment>Макрос писал сам под своего перса</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+Delay 64 ms
+KeyUp 10 1
+Delay 64 ms
+KeyDown 30 1
+Delay 200 ms
+KeyUp 30 1
+Delay 64 ms
+KeyDown 6 1
+Delay 64 ms
+KeyUp 6 1
+Delay 200 ms
+KeyDown 6 1
+Delay 64 ms
+KeyUp 6 1
+Delay 64 ms
+KeyDown 8 1
+Delay 64 ms
+KeyUp 8 1
+Delay 1 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

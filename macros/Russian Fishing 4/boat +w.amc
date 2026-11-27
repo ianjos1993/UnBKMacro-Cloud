@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>It's a script for Russinan fishing 4 .
+How to use: Just sit in the boat, turn the engine on and  launch the script. 
+The script drives doat forward so you don't need to do it.
+You do not need to use any specific resolution to use the script.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+KeyDown 225 1
+Delay 2000 min
+KeyUp 26 1
+Delay 2000
+Delay 2000
+KeyUp 225 1
+Delay 2000</Syntax>
+    </KeyDown>
+    <Software>Russian Fishing 4</Software>
+  </DefaultMacro>
+</Root>

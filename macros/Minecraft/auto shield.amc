@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Авто щит, оч классный, удобный макросс, поможет вам 
+
+биндим шифт на R 
+биндим 7 слот на G и ложим туда щит
+
+макросс маленький, но это его полная форма, он действительно удобный
+
+Наслаждайтесь !</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+Delay 15
+KeyUp 10 1
+Delay 15
+KeyDown 21 1
+Delay 15
+KeyUp 21 1
+Delay 15</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

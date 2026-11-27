@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Плавный макрос на M39
+1. Чувствительность - 0.6 - 0.8
+2. Ближние расстояния без прицела ( 50 м ) 0.6 - 0.63
+3. Дальние расстояния 8x ( 100-150  ) 0.8 - 0.82
+Макрос от Сладкого!
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         </Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 18 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 2
+Delay 19 ms
+MoveR 0 2
+Delay 19 ms
+MoveR 0 2
+Delay 19 ms
+MoveR 0 2
+Delay 19 ms
+MoveR 0 2
+Delay 19 ms
+MoveR 0 2
+Delay 19 ms
+MoveR 0 2
+Delay 19 ms
+MoveR 0 2
+Delay 18 ms
+MoveR 0 2
+LeftUp 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

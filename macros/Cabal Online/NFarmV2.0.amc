@@ -1,0 +1,55 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Новая версия автоматического фарма "AutoFarm"
+` - Смена цели
+2,3,4 - Активные навыки 
+Space - "Подобрать"</Description>
+    <Comment>BY: SNX</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 53 1
+Delay 150 ms
+KeyUp 53 1
+Delay 150 ms
+KeyDown 31 1
+Delay 150 ms
+KeyUp 31 1
+Delay 2400 ms
+KeyDown 44 1
+Delay 150 ms
+KeyUp 44 1
+Delay 150 ms
+KeyDown 53 1
+Delay 150 ms
+KeyUp 53 1
+Delay 150 ms
+KeyDown 32 1
+Delay 150 ms
+KeyUp 32 1
+Delay 2050 ms
+KeyDown 44 1
+Delay 100 ms
+KeyUp 44 1
+Delay 100 ms
+KeyDown 53 1
+Delay 150 ms
+KeyUp 53 1
+Delay 150 ms
+KeyDown 33 1
+Delay 150 ms
+KeyUp 33 1
+Delay 1720 ms
+KeyDown 44 1
+Delay 100 ms
+KeyUp 44 1
+Delay 100 ms</Syntax>
+    </KeyDown>
+    <Software>Cabal Online</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>Лёгкая антиотдача для всех видов оружий</Major>
+    <Description>Настройки для данного макроса носят рекомендательный характер, так полное соответствие отдачи конкретного оружия будет зависеть от целого ряда факторов,  начиная от используемых модификаций и заканчивая установленным в настройках игры углом обзора и ускорением мыши.
+Из-за того что снайперские винтовки не имеют отдачи, рекомендую поставить бинд на боковую копку мыши.
+Чувствительность мыши: 5.00.
+Чувствительность мыши при прицеливании: Относительная.
+Ускорение мыши: 0.00.
+Угол обзора (FOV): 90-100.
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+MoveR 0 4
+Delay 15 ms
+MoveR 0 4
+Delay 15 ms
+MoveR 0 3
+Delay 15 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Call of Duty: War Zone</Software>
+  </DefaultMacro>
+</Root>

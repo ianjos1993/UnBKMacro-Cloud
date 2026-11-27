@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro is specifically for 1920x1080 and 144fps if you are planning on using a different screen resolution, all you need to do is right click the "Move cursor X0 Y695 (relatively)" and change the Y to a lower number if you are playing on streched for example.
+
+Mantle near a zipline to use it, click the assigned button
+
+1920x1080 = X0 Y695
+1720x1080 = X0 Y650
+1680x1080 = X0 Y540
+1440x1080 = X0 Y495
+1280x1080 = X0 Y440
+
+Here above I premade the mouse movement for some of the most common streched resolutions so you in luck if you use any of these, have tested on 1920x1080 and 1440x1080. And im pretty sure it works on all other resolutions, if not please message me on here and report the problem to me and I could work it out with you and fix it.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 50 ms
+KeyUp 26 1
+Delay 200 ms
+KeyDown 22 1
+Delay 50 ms
+KeyUp 22 1
+Delay 5 ms
+MoveR 0 695
+Delay 1 ms
+KeyDown 9 1
+KeyUp 9 1
+Delay 5 ms
+WheelUp 1
+Delay 50 ms
+MoveR 0 -695</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

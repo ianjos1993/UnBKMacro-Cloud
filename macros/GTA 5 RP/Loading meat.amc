@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос для автоматической загрузки мясо в машину. Главное что бы машина стояло перед вами! Загружает мясо за 2 минуты просто остовляете и все. </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 78 ms
+KeyUp 8 1
+Delay 9175 ms
+KeyDown 10 1
+Delay 88 ms
+KeyUp 10 1
+Delay 328 ms
+KeyDown 8 1
+Delay 80 ms
+KeyUp 8 1</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

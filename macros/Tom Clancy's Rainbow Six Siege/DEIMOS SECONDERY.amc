@@ -1,0 +1,53 @@
+<Root>
+  <DefaultMacro>
+    <Major>DEIMOS PISTAL RCxRF</Major>
+    <Description>DEIMOS RECOIL DELETE x RAPID FIRE
+
+SETUP
+
+Bind macro to left mouse key. Make sure the operation mode is set to the second option. (HOLD UNTIL RELEASED
+
+)
+
+FYI
+
+Macro will not work if Keyran Drivers are not installed/activated!
+
+
+
+GAME SETTINGS
+
+Resolution-1920x1080
+
+FOV-84
+
+SenseHorizontal-13
+
+SenseVertical-13
+
+DPI-800
+
+Created by HOODIExSZN
+Enjoy!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 5 ms
+MoveR 0 5
+Delay 5 ms
+MoveR -5 5
+Delay 5 ms
+MoveR 5 5
+LeftUp 1
+Delay 10 ms
+GoWhile 1 2</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

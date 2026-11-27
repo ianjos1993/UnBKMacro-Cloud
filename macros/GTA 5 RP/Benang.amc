@@ -1,0 +1,211 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Makro ini dirancang khusus untuk otomatisasi pekerjaan Tailor (Penjahit) di IDP Server (Indonesia Pride / Indonesia Roleplay Server) pada game FiveM (GTA V). Makro ini dikonfigurasi secara presisi menggunakan koordinat kursor yang dioptimalkan khusus untuk pengguna monitor dengan resolusi layar 1920 x 1080.
+
+Fungsi Utama
+Otomatisasi Penuh (Full Loop): Meniru input keyboard dan pergerakan klik mouse secara berulang untuk menyelesaikan seluruh siklus menjahit (mengambil bahan, memproses kain, hingga memproduksi pakaian) tanpa interaksi manual.
+
+Presisi Koordinat (1920x1080): Setiap pergerakan kursor dan klik pada menu UI pekerjaan Tailor telah disesuaikan agar pas dengan tata letak menu pada resolusi Full HD (1080p).
+
+Fitur Anti-AFK: Menjaga karakter Anda tetap terdeteksi aktif oleh sistem server, sehingga aman dari otomatisasi kick akibat diam terlalu lama (idle).
+
+Efisiensi Farming: Membantu mengumpulkan poin pekerjaan atau uang (farming duit) di dalam server secara konsisten saat Anda sedang jauh dari komputer.
+
+Spesifikasi &amp; Persyaratan
+Game / Platform: FiveM (GTA V)
+
+Resolusi Layar: 1920 x 1080 (Wajib diatur ke resolusi ini di dalam game dan Windows agar koordinat klik tidak meleset).
+
+Mode Game: Disarankan menggunakan Windowed Borderless atau Fullscreen (sesuai standar kestabilan makro).</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 394 ms
+LeftDown 1
+Delay 115 ms
+LeftUp 1
+Delay 96 ms
+MoveTo 960 540
+Delay 6 ms
+MoveTo 960 540
+Delay 13 ms
+MoveTo 963 540
+Delay 9 ms
+MoveTo 965 540
+Delay 6 ms
+MoveTo 968 540
+Delay 6 ms
+MoveTo 972 540
+Delay 9 ms
+MoveTo 980 540
+Delay 7 ms
+MoveTo 985 540
+Delay 8 ms
+MoveTo 991 541
+Delay 7 ms
+MoveTo 997 541
+Delay 7 ms
+MoveTo 1002 542
+Delay 8 ms
+MoveTo 1007 542
+Delay 6 ms
+MoveTo 1011 542
+Delay 9 ms
+MoveTo 1016 542
+Delay 7 ms
+MoveTo 1021 543
+Delay 6 ms
+MoveTo 1024 544
+Delay 9 ms
+MoveTo 1029 544
+Delay 7 ms
+MoveTo 1034 544
+Delay 6 ms
+MoveTo 1037 544
+Delay 7 ms
+MoveTo 1039 544
+Delay 10 ms
+MoveTo 1041 544
+Delay 10 ms
+MoveTo 1041 544
+Delay 62 ms
+LeftDown 1
+Delay 103 ms
+LeftUp 1
+Delay 192 ms
+MoveTo 1041 544
+Delay 34 ms
+MoveTo 1041 543
+Delay 7 ms
+MoveTo 1041 542
+Delay 9 ms
+MoveTo 1041 541
+Delay 8 ms
+MoveTo 1042 539
+Delay 8 ms
+MoveTo 1044 536
+Delay 6 ms
+MoveTo 1045 533
+Delay 8 ms
+MoveTo 1046 529
+Delay 7 ms
+MoveTo 1048 524
+Delay 7 ms
+MoveTo 1051 519
+Delay 8 ms
+MoveTo 1053 513
+Delay 7 ms
+MoveTo 1055 506
+Delay 7 ms
+MoveTo 1058 500
+Delay 8 ms
+MoveTo 1061 492
+Delay 8 ms
+MoveTo 1064 485
+Delay 8 ms
+MoveTo 1067 476
+Delay 7 ms
+MoveTo 1071 467
+Delay 8 ms
+MoveTo 1075 458
+Delay 7 ms
+MoveTo 1080 447
+Delay 10 ms
+MoveTo 1085 434
+Delay 5 ms
+MoveTo 1089 426
+Delay 9 ms
+MoveTo 1094 414
+Delay 6 ms
+MoveTo 1100 405
+Delay 10 ms
+MoveTo 1104 397
+Delay 5 ms
+MoveTo 1107 391
+Delay 7 ms
+MoveTo 1110 385
+Delay 7 ms
+MoveTo 1113 378
+Delay 9 ms
+MoveTo 1116 372
+Delay 6 ms
+MoveTo 1120 366
+Delay 6 ms
+MoveTo 1123 361
+Delay 9 ms
+MoveTo 1129 352
+Delay 7 ms
+MoveTo 1133 346
+Delay 8 ms
+MoveTo 1136 341
+Delay 8 ms
+MoveTo 1139 336
+Delay 7 ms
+MoveTo 1141 333
+Delay 9 ms
+MoveTo 1142 330
+Delay 9 ms
+MoveTo 1143 328
+Delay 5 ms
+MoveTo 1144 328
+Delay 12 ms
+MoveTo 1145 325
+Delay 3 ms
+MoveTo 1145 325
+Delay 12 ms
+MoveTo 1146 324
+Delay 11 ms
+MoveTo 1146 323
+Delay 0 ms
+MoveTo 1146 323
+Delay 6 ms
+MoveTo 1151 317
+Delay 5 ms
+MoveTo 1151 317
+Delay 8 ms
+MoveTo 1152 316
+Delay 11 ms
+MoveTo 1154 314
+Delay 4 ms
+MoveTo 1154 313
+Delay 9 ms
+MoveTo 1157 311
+Delay 8 ms
+MoveTo 1158 309
+Delay 7 ms
+MoveTo 1159 307
+Delay 10 ms
+MoveTo 1161 305
+Delay 10 ms
+MoveTo 1162 304
+Delay 4 ms
+MoveTo 1162 304
+Delay 14 ms
+MoveTo 1163 303
+Delay 58 ms
+MoveTo 1163 303
+Delay 1 ms
+MoveTo 1163 302
+Delay 9 ms
+MoveTo 1164 302
+Delay 13 ms
+MoveTo 1165 301
+Delay 149 ms
+LeftDown 1
+Delay 47 ms
+KeyUp 56 1
+Delay 44 ms
+LeftUp 1
+Delay 321 ms
+Delay 9800 ms</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major>For Savezones only to Farm FP with a Bow</Major>
+    <Description>This is a Macro to farm FP in Scum. You need to go in a Savezone, have a Teammate, a Bow and many Arrows ind youre backpack. After he Stand in front of you, You need only Start the Programm and press the Keybind, then it will automaticly shoot arrows and you farm 1 FP evrey 3 shoots. Have FUN!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 1 s
+LeftUp 1
+Delay 1 s
+GoWhile 1 1000</Syntax>
+    </KeyDown>
+    <Software>Scum</Software>
+  </DefaultMacro>
+</Root>

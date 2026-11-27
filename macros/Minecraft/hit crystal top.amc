@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Для кристального пвп, бьешь нажимаешь макрос и убиваешь противника, также нужно поставить кнопку рядом под обсидиан</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 10 ms
+RightDown 1
+Delay 10
+RightUp 1
+Delay 10
+RightDown 1
+Delay 10
+RightUp 1
+Delay 10
+WheelUp 1
+Delay 10
+RightDown 1
+Delay 10
+RightUp 1
+Delay 10
+RightDown 1
+Delay 10
+RightUp 1
+Delay 10</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

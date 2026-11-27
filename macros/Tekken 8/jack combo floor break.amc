@@ -1,0 +1,121 @@
+<Root>
+  <DefaultMacro>
+    <Major>jack combo floor break</Major>
+    <Description>Комбо макрос для персонажа Jack-8 в игре Tekken 8
+
+Джек 8 - это последняя и наиболее совершенная модель в линейке боевых андроидов «Джек», разрабатываемых корпорацией G. Он создан как универсальная платформа для ведения боя в условиях высокой интенсивности и демонстрирует значительное технологическое превосходство над предшественниками. Конструктор проекта, инженер по имени Джейн, посвятила работу этой версии совершенствованию боевых алгоритмов и тактической адаптивности, что позволило Jack-8 эффективно действовать как в ближнем, так и в средне-дальнем диапазоне.
+
+
+Видео демонстрация макроса -https://youtu.be/9W9n3iRwCgo
+Тестировалось на последней версии игры.
+
+Настройки в программе для корректного выполнения макроса:
+1. Использовать драйвер.
+2. Отключить использование минимальной задержки.
+
+
+Настройки управления в игре:
+1 - Num 4
+2 - Num 5
+3 - Num 1
+4 - Num 2
+Up - W
+Down - S
+Left - A
+Right - D
+
+Если макрос не работает обращаться - https://keyran.net/discord
+Либо к автору макроса, также по вопросам написания макросов - hersonaep (discord)
+
+#tekken #tekken8 #jack8 #keyran</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 82 ms
+KeyDown 77 1
+Delay 115 ms
+KeyUp 77 1
+Delay 58 ms
+KeyDown 77 1
+Delay 103 ms
+KeyUp 77 1
+Delay 63 ms
+KeyDown 77 1
+Delay 105 ms
+KeyUp 77 1
+Delay 51 ms
+KeyDown 77 1
+Delay 122 ms
+KeyUp 77 1
+Delay 46 ms
+KeyDown 77 1
+Delay 152 ms
+KeyUp 77 1
+Delay 91 ms
+KeyUp 4 1
+Delay 1696 ms
+KeyDown 74 1
+Delay 157 ms
+KeyDown 76 1
+Delay 152 ms
+KeyUp 76 1
+Delay 80 ms
+KeyDown 76 1
+Delay 105 ms
+KeyUp 76 1
+Delay 80 ms
+KeyDown 76 1
+Delay 115 ms
+KeyUp 76 1
+Delay 76 ms
+KeyDown 76 1
+Delay 127 ms
+KeyUp 76 1
+Delay 69 ms
+KeyDown 76 1
+Delay 116 ms
+KeyUp 76 1
+Delay 63 ms
+KeyDown 76 1
+Delay 138 ms
+KeyUp 76 1
+Delay 81 ms
+KeyDown 76 1
+Delay 132 ms
+KeyUp 76 1
+Delay 111 ms
+KeyDown 76 1
+Delay 121 ms
+KeyUp 76 1
+Delay 92 ms
+KeyDown 76 1
+Delay 128 ms
+KeyUp 76 1
+Delay 81 ms
+KeyDown 76 1
+Delay 122 ms
+KeyUp 76 1
+Delay 80 ms
+KeyDown 76 1
+Delay 117 ms
+KeyUp 76 1
+Delay 86 ms
+KeyDown 76 1
+Delay 115 ms
+KeyUp 76 1
+Delay 87 ms
+KeyDown 76 1
+Delay 145 ms
+KeyUp 76 1
+Delay 190 ms
+KeyUp 74 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,80 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Добрый день!
+
+Данный макрос поможет вам стоять в два окна вместе с вашим подхилом, и так же пп будет кидать дебаф по откату (важно что бы была прокачена кд навыков у пп)
+
+Настройки
+
+Кидаем метку на основного персонажа,игровым макросом создаем /target(по метке на дд)и зацикливаем его пкм
+
+ВАЖНО!!!
+
+Именно пкм (НЕ АВТОБОЙ)иначе пп будет кидать таргет по кругу.
+
+Так же пп будет подбирать лут.
+
+F1- хил
+
+Alt+F1- дебаф
+
+F2-подбор предметов 
+
+A+F3-мерцание
+
+F3-просветление
+
+F4-F6- лимиты (главное высчитать ваш кд что бы скилы не юзались одновременно)так как у пп они не накладываются друг с другом</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 58 1
+Delay 64
+KeyUp 58 1
+Delay 64
+KeyDown 226 1
+Delay 64
+KeyUp 226 1
+Delay 64
+KeyDown 58 1
+Delay 64
+KeyUp 58 1
+Delay 64
+KeyDown 59 1
+Delay 64
+KeyUp 59 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 60 1
+Delay 64
+KeyUp 60 1
+Delay 64
+KeyDown 60 1
+Delay 64
+KeyUp 60 1
+Delay 64
+KeyDown 61 1
+Delay 64
+KeyUp 61 1
+Delay 64
+KeyDown 62 1
+Delay 64
+KeyUp 62 1
+Delay 64
+KeyDown 63 1
+Delay 64
+KeyUp 63 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

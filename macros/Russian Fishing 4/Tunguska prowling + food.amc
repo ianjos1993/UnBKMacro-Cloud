@@ -1,0 +1,68 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос написан под Ульро лайт спининг "Рыскание+Shift" + поесть и поппить
+1.Подходим к выбраной точке
+2. Делаем шаг или 2 от берега
+3. Достаем спининг ставим скорость 50 и фрикцион под вашу снасть
+4. Ставим в ячейку 4 и 5 еду и чай (кофе)
+5. Запускаем макрос и отдыхаем 
+ПРИМЕЧАНИЕ: если Вам необходимо сделать меньше скорость, то отредактируйте время вытаскивания с 25 секунд на 30-35
+
+Макрос тестировался на реку тангуска и река белая на катушке Zeiman Jet-Series JSGHS-R 8.6 кг
+Приятной игры, если нужна будет помощь по настройке вы знаете куда писать)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1000 ms
+KeyDown 225 1
+Delay 64
+LeftDown 1
+Delay 150 ms
+LeftUp 1
+Delay 64
+KeyUp 225 1
+Delay 3500 4500 ms
+KeyDown 225 1
+Delay 64
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 850 ms
+GoWhile 12 15
+LeftDown 1
+Delay 64 ms
+RightDown 1
+Delay 25 s
+KeyUp 225 1
+Delay 800 ms
+Delay 64 ms
+LeftUp 1
+KeyDown 44 1
+Delay 2 s
+KeyUp 44 1
+Delay 64
+KeyDown 44 1
+Delay 20 ms
+KeyUp 44 1
+Delay 64
+RightUp 1
+GoWhile 1 10
+Delay 64
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 500 ms
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 500 ms</Syntax>
+    </KeyDown>
+    <Software>Русская рыбалка 4</Software>
+  </DefaultMacro>
+</Root>

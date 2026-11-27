@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>Макрос</Major>
+    <Description>Макрос предназначен чтобы тебя не кикнуло или тебя не убили, а засчитали как за игрока в данной игре.
+Макрос выполняет задачу нажимания на топор + взятия яблока в руку. Использование- забиндить на любую клавишу или мышь макрос, и назначить режим работы до повторного нажатия, тем самым можно отойти от рабочего стола.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+Delay 18 ms
+KeyDown 44 1
+KeyUp 44 1
+KeyDown 20 1
+KeyUp 20 1</Syntax>
+    </KeyDown>
+    <Software>Takemine.io</Software>
+  </DefaultMacro>
+</Root>

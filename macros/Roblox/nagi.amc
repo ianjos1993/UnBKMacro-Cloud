@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major>LOCKED</Major>
+    <Description>This macro for Locked on Roblox does multiple actions. First, you flick the ball up into the air, activate your Nagi, and then once it ends, you chestbump it. This macro ensures you get the optimal timing for the chestbump. In order for this to work, you need 3 things that are not optional at all. First, you need the Nagi weapon. Second, you need the height 6'3, and last, you need the exclusive vevohub autoflick, with 1.3 on Flick Power and 1.3 on Flick Height. Now, on to the things that you don't really need, like the sensitivity of 0.171 on Roblox and 800 DPI. Why that doesn't matter is that the flick is just visuals. The resolution is 1920x1080p, but you can use whatever you want.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+KeyUp 6 1
+MoveR 0 -225
+Delay 12 ms
+MoveR 0 -225
+Delay 12 ms
+MoveR 0 -225
+Delay 12 ms
+MoveR 0 -225
+Delay 12 ms
+MoveR 0 -225
+Delay 12 ms
+MoveR 0 -225
+Delay 12 ms
+MoveR 0 -225
+Delay 12 ms
+MoveR 0 -225
+Delay 12 ms
+MoveR 0 -225
+Delay 12 ms
+MoveR 0 -225
+Delay 8 ms
+MoveR 0 875 1 890
+Delay 8 ms
+MoveR 0 875 1 890
+Delay 575 ms
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+KeyDown 21 1
+KeyUp 21 1
+Delay 1850 ms
+LeftDown 1
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

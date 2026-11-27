@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>F4 - темное влечение
+F5 - цепкое проклятие
+Поставили на эти кнопки и готово
+Враг испытывает боль, на нем стольтко дебафов что даже не снилось
+По сути сразу 3 (3й - боль) хотя я хзаметил есть 4, пожар</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 61 1
+Delay 64
+KeyUp 61 1
+Delay 1 s
+KeyDown 62 1
+Delay 64
+KeyUp 62 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Icarus</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>IcantTapstrafe</Major>
+    <Description>Hi Friends!!
+
+I made a new macro for apex legends which allows you to easy bunnyhow and tapstrafe with it.
+
+This is how it works:
+
+1. Bind the macro to a mousebutton or space.
+2. Go into the apex settings and bind jump to scroll wheel down.
+3. Go in the apex settings again and bind move forward to scroll wheel up.
+4. Hold the button you got the macro on.
+
+Try the macro in the firing range first to get used to it!! </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>WheelUp 1
+Delay 5 ms
+WheelDown 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

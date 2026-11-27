@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>я сделал этот макрос для облегчения теча "kyoto" в The strongest battlegrounds, для его выполнения подойдите к противнику сделайте 1 удар и аквтируйте макрос, если у противника высокий пинг возможно, что у вас не получится.
+
+Пинг-60-90
+Расширение экрана-1600x900 (или которое вам доступно, макрос будет работать)
+
+Примечание: макрос желательно использовать против игроков, так как у манекена ( Weakest Dummy ) пинг 0, из-за чего выполнение макроса на нем будет трудно выполнить, но возможно.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+MoveR 500 0
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,98 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>AHK для ловли саженцев ростений в фермерском магазине родина рп
+Разрешение экрана: 1920x1080
+AHK само скупает первые 8 слотов!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 100 ms
+MoveTo 612 380
+Delay 10 ms
+LeftDown 1
+Delay 20 ms
+LeftUp 1
+Delay 10 ms
+KeyDown 88 1
+Delay 10 ms
+KeyUp 88 1
+Delay 20 ms
+MoveTo 691 382
+Delay 10 ms
+LeftDown 1
+Delay 20 ms
+LeftUp 1
+Delay 50 ms
+KeyDown 88 1
+Delay 10 ms
+KeyUp 88 1
+Delay 20 ms
+MoveTo 810 379
+Delay 10 ms
+LeftDown 1
+Delay 20 ms
+LeftUp 1
+Delay 50 ms
+KeyDown 88 1
+Delay 10 ms
+KeyUp 88 1
+Delay 20 ms
+MoveTo 881 389
+Delay 10 ms
+LeftDown 1
+Delay 20 ms
+LeftUp 1
+Delay 50 ms
+KeyDown 88 1
+Delay 10 ms
+KeyUp 88 1
+Delay 20 ms
+MoveTo 967 389
+Delay 10 ms
+LeftDown 1
+Delay 20 ms
+LeftUp 1
+Delay 50 ms
+KeyDown 88 1
+Delay 10 ms
+KeyUp 88 1
+Delay 20 ms
+MoveTo 1084 385
+Delay 10 ms
+LeftDown 1
+Delay 20 ms
+LeftUp 1
+Delay 50 ms
+KeyDown 88 1
+Delay 10 ms
+KeyUp 88 1
+Delay 20 ms
+MoveTo 1168 385
+Delay 10 ms
+LeftDown 1
+Delay 20 ms
+LeftUp 1
+Delay 100 ms
+KeyDown 88 1
+Delay 10 ms
+KeyUp 88 1
+Delay 20 ms
+MoveTo 1283 384
+Delay 10 ms
+LeftDown 1
+Delay 20 ms
+LeftUp 1
+Delay 100 ms
+KeyDown 88 1
+Delay 50 ms
+GoWhile 1 10</Syntax>
+    </KeyDown>
+    <Software>GTA: Criminal Russia (CRMP)</Software>
+  </DefaultMacro>
+</Root>

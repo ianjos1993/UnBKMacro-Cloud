@@ -1,0 +1,86 @@
+<Root>
+  <DefaultMacro>
+    <Major>Mystic</Major>
+    <Description>Идеальный макрос для дальнего боя, создан для класса Mystic Muse. Суть макроса состоит в том, что бьем врага двумя стихиями водой и святой атакой. Обычно против класса Mystic Muse бафают резисты на сопротивление атакам воды, а от резисты к сопротивлению священным атакам не бафают. А скилл Solar Flare, как раз наносит урон священной атакой. Макрос для автоматического использования скилов Surrender To Water, Hydro Blast, Solar Flare. Для сражений на пвп серверах (где есть полный баф) подойдет идеально. Рекомендую ставить минимальную задержку.
+
+
+6.	Surrender To Water
+7.	Hydro Blast
+8.	Solar Flare
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 35 1
+Delay 1 ms
+KeyUp 35 1
+Delay 1 ms
+KeyDown 36 1
+Delay 1 ms
+KeyUp 36 1
+Delay 1 ms
+KeyDown 36 1
+Delay 1 ms
+KeyUp 36 1
+Delay 1 ms
+KeyDown 37 1
+Delay 1 ms
+KeyUp 37 1
+Delay 1 ms
+KeyDown 36 1
+Delay 1 ms
+KeyUp 36 1
+Delay 1 ms
+KeyDown 36 1
+Delay 1 ms
+KeyUp 36 1
+Delay 1 ms
+KeyDown 36 1
+Delay 1 ms
+KeyUp 36 1
+Delay 1 ms
+KeyDown 37 1
+Delay 1 ms
+KeyUp 37 1
+Delay 1 ms
+KeyDown 35 1
+Delay 1 ms
+KeyUp 35 1
+Delay 1 ms
+KeyDown 36 1
+Delay 1 ms
+KeyUp 36 1
+Delay 1 ms
+KeyDown 36 1
+Delay 1 ms
+KeyUp 36 1
+Delay 1 ms
+KeyDown 37 1
+Delay 1 ms
+KeyUp 37 1
+Delay 1 ms
+KeyDown 36 1
+Delay 1 ms
+KeyUp 36 1
+Delay 1 ms
+KeyDown 36 1
+Delay 1 ms
+KeyUp 36 1
+Delay 1 ms
+KeyDown 36 1
+Delay 1 ms
+KeyUp 36 1
+Delay 1 ms
+KeyDown 37 1
+Delay 1 ms
+KeyUp 37 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

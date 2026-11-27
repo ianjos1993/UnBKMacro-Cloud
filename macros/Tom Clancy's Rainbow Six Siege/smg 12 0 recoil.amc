@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>this macro removes pretty mutch all of the vertical and most horizantal recoil with high risk high reward guns.
+in game settings:
+fov 84
+1920x1080
+sens 6
+dpi 800
+1x 40
+2.5x 50
+
+
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 6 ms
+MoveR 2 11
+Delay 6 ms
+MoveR 2 12
+Delay 6 ms
+MoveR 1 12
+Delay 6 ms
+MoveR 1 11
+Delay 6 ms
+MoveR 1 10
+Delay 6 ms
+MoveR -1 10
+Delay 10 ms
+MoveR -1 12
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

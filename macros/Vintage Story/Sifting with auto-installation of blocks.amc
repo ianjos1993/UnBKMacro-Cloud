@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major>Vintage Story</Major>
+    <Description>Макрос для просеивания и установки блоков.
+Лоток всегда должен быть слева, а блок для установки справа. (Например на первом слоте ЛОТОК, а на втором БЛОКИ). </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+
+
+Мой телеграм для помощи или разработке макросов на заказ https://t.me/DarkXand</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>WheelDown 1
+Delay 100
+RightDown 1
+Delay 100
+RightUp 1
+Delay 100
+WheelUp 1
+Delay 100
+RightDown 1
+Delay 200 ms
+RightUp 1
+Delay 100
+RightDown 1
+Delay 5 s
+RightUp 1
+Delay 100
+GoWhile 8 8
+Delay 2 s
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Vintage Story</Software>
+  </DefaultMacro>
+</Root>

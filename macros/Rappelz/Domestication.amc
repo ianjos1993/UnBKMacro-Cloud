@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Просто и удобный макрос для приручения питомцев. На клавишу 1 ставим скилл приручения, а на клавишу 2 автоатаку или любой атакующий скилл. Все задержки выставлены что бы легко и без заминок можно было афк приручать массу петов для дальнейшего чарования или же для продажи. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+Delay 5 s
+KeyDown 31 1
+KeyUp 31 1
+Delay 15 s</Syntax>
+    </KeyDown>
+    <Software>Rappelz</Software>
+  </DefaultMacro>
+</Root>

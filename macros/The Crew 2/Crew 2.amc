@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major>Накрутка очков талантов</Major>
+    <Description>Предназначен для накрутки очков талантов "Комфорт". Для того, чтобы появилась возможность накручивать нужно: 1) Пройти гонку с расстоянием 0 км, 2) Перевести игру в оконный режим в настройках видео, 3) Зайти в очки талантов и навестись курсором на нужный талант, 4) Включить макрос. Могут быть накручены популярность, а также золотоискатель и удачливый. После накрутки необходимо направиться на событие Monster Truck "Долина смерти", выше Лас-Вегаса. Найти там двухсторонний трамплин, и кататься по нему выполняя сальто до получения желаемого уровня.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 229 1
+Delay 20 ms
+KeyUp 229 1
+Delay 20 ms
+KeyDown 229 1
+Delay 20 ms
+KeyUp 229 1
+Delay 20 ms
+KeyDown 229 1
+Delay 20 ms
+KeyUp 229 1
+Delay 20 ms
+KeyDown 229 1
+Delay 20 ms
+KeyUp 229 1
+Delay 20 ms
+KeyDown 229 1
+Delay 20 ms
+KeyUp 229 1
+Delay 20 ms
+KeyDown 229 1
+Delay 20 ms
+KeyUp 229 1
+Delay 20 ms
+GoWhile 1 100000</Syntax>
+    </KeyDown>
+    <Software>The Crew 2</Software>
+  </DefaultMacro>
+</Root>

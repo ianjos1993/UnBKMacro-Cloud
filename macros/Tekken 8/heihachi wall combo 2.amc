@@ -1,0 +1,238 @@
+<Root>
+  <DefaultMacro>
+    <Major>Heihachi wall combo 2</Major>
+    <Description>Макрос позволяет выполнять комбо за Heihachi комбинацию возле стены без heat системы.
+Видео демонстрации работы макроса: https://youtu.be/ZClfsFrPjXE
+
+Хейхачи Мишима — мужчина японского происхождения, возраст около 75 лет. Физически мощный, с широкой грудью, седыми взъерошенными волосами и толстыми бровями. Обычно одет в традиционные штаны, на теле бронзовый оттенок кожи и множество боевых шрамов. Его голос низкий и грубый, движения демонстрируют выученную жесткость. Лицо выражает смесь презрения и решительности, особенно в боевой ситуации. Он появлялся начиная с первой части в роли главного злодея.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 03.06.2025
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ.
+
+#heihachittekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 35 ms
+KeyDown 77 1
+Delay 156 ms
+KeyUp 77 1
+Delay 406 ms
+KeyUp 4 1
+Delay 138 ms
+KeyDown 7 1
+Delay 87 ms
+KeyUp 7 1
+Delay 69 ms
+KeyDown 7 1
+Delay 127 ms
+KeyDown 22 1
+Delay 41 ms
+KeyDown 73 1
+Delay 121 ms
+KeyUp 73 1
+Delay 39 ms
+KeyUp 22 1
+Delay 80 ms
+KeyUp 7 1
+Delay 261 ms
+KeyDown 22 1
+Delay 0 ms
+KeyDown 7 1
+Delay 34 ms
+KeyDown 73 1
+Delay 151 ms
+KeyUp 73 1
+Delay 68 ms
+KeyUp 22 1
+Delay 64 ms
+KeyUp 7 1
+Delay 296 ms
+KeyDown 22 1
+Delay 5 ms
+KeyDown 7 1
+Delay 23 ms
+KeyDown 73 1
+Delay 191 ms
+KeyUp 73 1
+Delay 11 ms
+KeyUp 22 1
+Delay 157 ms
+KeyUp 7 1
+Delay 86 ms
+KeyDown 4 1
+Delay 93 ms
+KeyDown 73 1
+Delay 91 ms
+KeyUp 73 1
+Delay 93 ms
+KeyDown 77 1
+Delay 76 ms
+KeyUp 77 1
+Delay 74 ms
+KeyDown 77 1
+Delay 81 ms
+KeyUp 77 1
+Delay 51 ms
+KeyDown 77 1
+Delay 87 ms
+KeyUp 77 1
+Delay 45 ms
+KeyDown 77 1
+Delay 134 ms
+KeyUp 77 1
+Delay 73 ms
+KeyUp 4 1
+Delay 35 ms
+KeyDown 7 1
+Delay 5 ms
+KeyDown 22 1
+Delay 319 ms
+KeyUp 22 1
+Delay 75 ms
+KeyUp 7 1
+Delay 135 ms
+KeyDown 7 1
+Delay 79 ms
+KeyUp 7 1
+Delay 63 ms
+KeyDown 22 1
+Delay 34 ms
+KeyDown 7 1
+Delay 158 ms
+KeyDown 77 1
+Delay 81 ms
+KeyUp 77 1
+Delay 52 ms
+KeyDown 77 1
+Delay 110 ms
+KeyDown 73 1
+Delay 29 ms
+KeyUp 77 1
+Delay 4 ms
+KeyUp 22 1
+Delay 17 ms
+KeyUp 7 1
+Delay 35 ms
+KeyUp 73 1
+Delay 63 ms
+KeyDown 73 1
+Delay 92 ms
+KeyUp 73 1
+Delay 69 ms
+KeyDown 73 1
+Delay 69 ms
+KeyUp 73 1
+Delay 70 ms
+KeyDown 73 1
+Delay 80 ms
+KeyUp 73 1
+Delay 162 ms
+KeyDown 4 1
+Delay 174 ms
+KeyDown 7 1
+Delay 22 ms
+KeyUp 4 1
+Delay 58 ms
+KeyUp 7 1
+Delay 98 ms
+KeyDown 7 1
+Delay 63 ms
+KeyUp 7 1
+Delay 80 ms
+KeyDown 7 1
+Delay 75 ms
+KeyUp 7 1
+Delay 57 ms
+KeyDown 7 1
+Delay 116 ms
+KeyDown 22 1
+Delay 47 ms
+KeyDown 76 1
+Delay 0 ms
+KeyDown 77 1
+Delay 92 ms
+KeyUp 76 1
+Delay 5 ms
+KeyUp 77 1
+Delay 51 ms
+KeyUp 22 1
+Delay 5 ms
+KeyUp 7 1
+Delay 12 ms
+KeyDown 73 1
+Delay 0 ms
+KeyDown 74 1
+Delay 85 ms
+KeyUp 73 1
+Delay 6 ms
+KeyUp 74 1
+Delay 63 ms
+KeyDown 73 1
+Delay 0 ms
+KeyDown 74 1
+Delay 80 ms
+KeyUp 73 1
+Delay 6 ms
+KeyUp 74 1
+Delay 62 ms
+KeyDown 73 1
+Delay 0 ms
+KeyDown 74 1
+Delay 75 ms
+KeyUp 73 1
+Delay 5 ms
+KeyUp 74 1
+Delay 69 ms
+KeyDown 73 1
+Delay 6 ms
+KeyDown 74 1
+Delay 68 ms
+KeyUp 74 1
+Delay 5 ms
+KeyUp 73 1
+Delay 58 ms
+KeyDown 73 1
+Delay 5 ms
+KeyDown 74 1
+Delay 87 ms
+KeyUp 73 1
+Delay 0 ms
+KeyUp 74 1
+Delay 40 ms
+KeyDown 73 1
+Delay 4 ms
+KeyDown 74 1
+Delay 93 ms
+KeyUp 73 1
+Delay 0 ms
+KeyUp 74 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

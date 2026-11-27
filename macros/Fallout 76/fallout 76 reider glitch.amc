@@ -1,0 +1,68 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на глитч для прокачки репцтации у рейдеров. (без банов и детекта)
+описание и прицнип самого глитча с видео: (ЮТУБ)
+https://www.youtube.com/watch?v=_vbisFohXAQ
+
+Инструкция:
+1)  Встать возле НПС Геолог в краторе (предварительно выполнить квест убив рейдера САМОМУ)
+2)  Направить камеру на геолога и включить макрос.
+
+P.S
+Тайминги активации гуи могут зависить от пинга. Если ваш персонаж прыгает и открывает пип бой, значит вам надо увеличить время нажантие кнопки E и ожидание после нее и до. для всех остальных НЕ РЕКОМЕНДУЕТСЯ так делать
+
+Что бы добиться максимальной репутации может потребоваться около 20-40 минут.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1285 ms
+KeyDown 8 1
+Delay 87 ms
+KeyUp 8 1
+Delay 463 ms
+KeyDown 44 1
+Delay 80 ms
+KeyUp 44 1
+Delay 471 ms
+KeyDown 81 1
+Delay 79 ms
+KeyUp 81 1
+Delay 488 ms
+KeyDown 88 1
+Delay 87 ms
+KeyUp 88 1
+Delay 639 ms
+KeyDown 43 1
+Delay 87 ms
+KeyUp 43 1
+Delay 1624 ms
+KeyDown 8 1
+Delay 103 ms
+KeyUp 8 1
+Delay 752 ms
+KeyDown 44 1
+Delay 71 ms
+KeyUp 44 1
+Delay 736 ms
+KeyDown 81 1
+Delay 135 ms
+KeyUp 81 1
+Delay 383 ms
+KeyDown 88 1
+Delay 95 ms
+KeyUp 88 1
+Delay 560 ms
+KeyDown 43 1
+Delay 96 ms
+KeyUp 43 1
+GoWhile 1 50</Syntax>
+    </KeyDown>
+    <Software>Fallout 76</Software>
+  </DefaultMacro>
+</Root>

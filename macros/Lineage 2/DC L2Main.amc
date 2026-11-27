@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Фарм по клавишам
+
+Выставляем предпочтенные скилы на панели, которые задействованы в макросе
+Позволяет эффективно фармить афк без всяких проблем.
+
+Если всего хватает, то есть буста и мана не кончается, выставляем и дэш и все массухи.
+
+не забываем включить АГР, потому что будем скакать туда сюда и собирать приличные кучки мобов, которые только и надо разбирать массухами.
+
+Желательно использовать на любом афк фарме, чтобы скиллы вжимались без особой задержки, также если не устраивает задержка в 30мс, то ставьте 20 или даже 10.
+Макрос подходит на ДК, да и на другие классы, можно чуть видоизменить, а так нечего особенного.
+спасибо за выбор этого макроса.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 59 1
+Delay 30 ms
+KeyUp 59 1
+Delay 30 ms
+KeyDown 31 1
+Delay 30 ms
+KeyUp 31 1
+Delay 30 ms
+KeyDown 32 1
+Delay 30 ms
+KeyUp 32 1
+Delay 30 ms
+KeyDown 33 1
+Delay 30 ms
+KeyUp 33 1
+Delay 30 ms
+KeyDown 34 1
+Delay 30 ms
+KeyUp 34 1
+Delay 30 ms</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

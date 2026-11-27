@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>you will automatically select random spawn and quickly pick ash so nobody can beat you to it or if youre on defence it will automatically select no vote and castle</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 88 1
+Delay 45 ms
+KeyUp 88 1
+Delay 80 ms
+KeyDown 79 1
+Delay 45 ms
+KeyUp 79 1
+Delay 65 ms
+KeyDown 79 1
+Delay 45 ms
+KeyUp 79 1
+Delay 65 ms
+KeyDown 79 1
+Delay 45 ms
+KeyUp 79 1
+Delay 65 ms
+KeyDown 88 1
+Delay 45 ms
+KeyUp 88 1
+Delay 250 ms
+KeyDown 88 1
+Delay 45 ms
+KeyUp 88 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

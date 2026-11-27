@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для длительного приседания или duck clicker. Упрощает нажатие ктрл и избавляет от потребности скролить колёсиком мыши. Для работы макроса установите бинд на приседания на специальной карте в мастерской. 
+Установка и использование: Установить макрос, назначить на ctrl по зажатию и использовать в игре для получения преймущества
+---------------
+Macros for a long squat or duck clicker. Makes it easier to click on the ktrl and eliminates the need to scroll with the mouse wheel. To use the macro, set the squat band on a special map in the workshop. 
+Installation and use: Install the macro, assign it to ctrl by pressing and use it in the game to get the advantage</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 9
+KeyUp 224 1
+Delay 9
+KeyDown 224 1
+Delay 9
+KeyUp 224 1
+Delay 9
+KeyDown 224 1
+Delay 9
+KeyUp 224 1
+Delay 9
+KeyDown 21 1
+Delay 9
+KeyUp 21 1
+Delay 9
+KeyDown 224 1
+Delay 9
+KeyUp 224 1
+Delay 9</Syntax>
+    </KeyDown>
+    <Software>CS: GO</Software>
+  </DefaultMacro>
+</Root>

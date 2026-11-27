@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Авто-фарм на лука
+
+Идеальный макрос для фарма луком мобов вокруге
+
+Работает даже при заполненом инвентаре
+
+Нужно нажначить авто-атаку на Q ( Нужно в настройках обязательно поставить авто-комбо )
+
+И поворот экрана  на право на NumPad 3
+
+Призыв петов на Z
+
+Работает естествено с авто-лутом
+ 
+По желанию можно изменить бинды в макросе под свои, если имеются знания</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+KeyDown 91 1
+KeyDown 29 1
+Delay 64 120
+KeyUp 29 1
+Delay 3 s</Syntax>
+    </KeyDown>
+    <Software>Icarus</Software>
+  </DefaultMacro>
+</Root>

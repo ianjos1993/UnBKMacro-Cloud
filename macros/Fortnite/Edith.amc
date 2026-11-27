@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>Free build</Major>
+    <Description>Быстрое редактирование пола и конуса (редактирование на g). это макро сделан просто для красоты может кому-то он понравится</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+Delay 32 ms
+KeyUp 10 1
+Delay 32 ms
+LeftDown 1
+Delay 32 ms
+LeftUp 1
+Delay 32 ms
+KeyDown 10 1
+Delay 32 ms
+KeyUp 10 1
+Delay 32 ms
+RightDown 1
+Delay 32 ms
+RightUp 1
+Delay 32 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

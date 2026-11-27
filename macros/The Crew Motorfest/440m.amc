@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Для Ralli Raid на мотоцикле в побеге на 440м. Данный побег находится на северо западе, между трассами Остров Бездорожья и Серебряная Тень</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 750 ms
+KeyDown 26 1
+Delay 3879 ms
+KeyDown 225 1
+Delay 1420 ms
+KeyUp 225 1
+Delay 1166 ms
+KeyDown 225 1
+Delay 1421 ms
+KeyUp 225 1
+Delay 993 ms
+KeyDown 225 1
+Delay 1700 ms
+KeyUp 225 1
+Delay 2219 ms
+KeyDown 21 1
+Delay 2669 ms
+KeyUp 26 1
+Delay 4194 ms
+KeyUp 21 1
+Delay 1519 ms
+KeyDown 41 1
+Delay 96 ms
+KeyUp 41 1</Syntax>
+    </KeyDown>
+    <Software>The Crew Motofest</Software>
+  </DefaultMacro>
+</Root>

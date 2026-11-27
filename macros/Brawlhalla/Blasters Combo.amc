@@ -1,0 +1,119 @@
+<Root>
+  <DefaultMacro>
+    <Major>Blasters Combo</Major>
+    <Description>This combo was made for blaster
+My commands are : M1 ( Neutral Light)
+                                WASD ( movement )
+                                Space ( Jump)
+                                M2 ( Sig)
+                                Shift ( Dodge/Sprint)
+You need to setup the keys like that for the sucess of macro.
+The combo that is in that macro is : Neutral Light -&gt; Jump-Chase-Dodge -&gt; DLight -&gt; Recovery -&gt; Neutral Light -&gt; M2+W
+The combo works perfectly to finish opponent with light orange life , if the opponent have less or more than orange life the combo can fail because the distance of the blaster shots
+If the enemie is light orange you can finish him with only 1 press on your macro key =)
+
+That macro was made by : Away#7646 on day 24/05/2023
+PS: I tested and made that macro on Diana </Description>
+    <Comment>Discord : Away#7646</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 143 ms
+KeyUp 4 1
+Delay 30 ms
+LeftDown 1
+Delay 1 ms
+KeyDown 22 1
+Delay 69 ms
+LeftUp 1
+Delay 201 ms
+KeyUp 22 1
+Delay 193 ms
+KeyDown 4 1
+Delay 255 ms
+KeyDown 44 1
+Delay 158 ms
+KeyUp 44 1
+Delay 17 ms
+KeyDown 22 1
+Delay 46 ms
+LeftDown 1
+Delay 17 ms
+KeyUp 4 1
+Delay 78 ms
+LeftUp 1
+Delay 53 ms
+LeftDown 1
+Delay 66 ms
+LeftUp 1
+Delay 87 ms
+KeyUp 22 1
+Delay 651 ms
+KeyDown 225 1
+Delay 41 ms
+LeftDown 1
+Delay 91 ms
+LeftUp 1
+Delay 33 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 35 ms
+LeftDown 1
+Delay 89 ms
+LeftUp 1
+Delay 41 ms
+LeftDown 1
+Delay 57 ms
+KeyUp 225 1
+Delay 32 ms
+KeyDown 4 1
+Delay 14 ms
+LeftUp 1
+Delay 15 ms
+LeftDown 1
+Delay 110 ms
+LeftUp 1
+Delay 547 ms
+KeyDown 44 1
+Delay 40 ms
+RightDown 1
+Delay 119 ms
+KeyUp 44 1
+Delay 46 ms
+RightUp 1
+Delay 207 ms
+KeyUp 4 1
+Delay 82 ms
+KeyDown 7 1
+Delay 110 ms
+KeyUp 7 1
+Delay 303 ms
+KeyDown 7 1
+Delay 175 ms
+KeyUp 7 1
+Delay 95 ms
+KeyDown 44 1
+Delay 94 ms
+LeftDown 1
+Delay 33 ms
+KeyUp 44 1
+Delay 28 ms
+LeftUp 1
+Delay 50 ms
+LeftDown 1
+Delay 82 ms
+LeftUp 1
+Delay 51 ms
+LeftDown 1
+Delay 54 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Brawlhalla</Software>
+  </DefaultMacro>
+</Root>

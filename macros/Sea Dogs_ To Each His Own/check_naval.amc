@@ -1,0 +1,82 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для игры Sea Dogs Корсары Каждому Свое.
+Слив доплытия к враждебному порту.
+Позволяют загружать сохранение, доплывать до необходимой локации, проверять успешность маскировки. В случае успеха открытие меню, в случае неудачи цикл запускается снова.
+Возможно необходима подстройка при большом количестве объектов до которых можно доплыть (на 24 строке добавить нажатия rightArrow).
+
+Обновлено: задокументировано, оптимизировано, добавлена вариативность количества объектов флота и стартовой позиции.</Description>
+    <Comment>игра Sea Dogs Корсары Каждому Свое отутствует в общем списке.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 66 1
+//quick load 
+Delay 64
+KeyUp 66 1
+Delay 2500 ms
+KeyDown 88 1
+//open menu
+Delay 40 ms
+KeyUp 88 1
+Delay 40 ms
+GoColor 15 0 251,250,239 255,255,255 1 208 62 999 999 1 0
+KeyDown 79 1
+Delay 40 ms
+KeyUp 79 1
+Delay 40 ms
+//open quick go to
+KeyDown 88 1
+Delay 40 ms
+KeyUp 88 1
+Delay 40 ms
+//!!! here u need to add/delete rightArr for right destination; for default twice
+KeyDown 79 1
+Delay 40 ms
+KeyUp 79 1
+Delay 64 ms
+GoColor 43 1 239,205,134 255,255,255 1 217 55 999 999 1 0
+Delay 1164 ms
+KeyDown 79 1
+Delay 40 ms
+KeyUp 79 1
+Delay 40 ms
+GoColor 43 1 210,217,188 255,255,255 1 275 63 995 997 1 0
+KeyDown 79 1
+Delay 40 ms
+KeyUp 79 1
+GoColor 43 1 146,59,34 255,255,255 1 340 69 998 999 1 0
+Delay 40 ms
+KeyDown 79 1
+Delay 40 ms
+KeyUp 79 1
+GoColor 43 1 153,61,33 255,255,255 1 397 70 999 999 1 0
+Delay 64
+KeyDown 88 1
+Delay 40 ms
+KeyUp 88 1
+Delay 1400 ms
+KeyDown 88 1
+Delay 40 ms
+KeyUp 88 1
+//wait for probably change status
+Delay 1500 ms
+//check 1th icon as anchor &lt;- u need to go to port
+GoColor 1 3 0,14,14 3,3,3 1 157 81 994 952 1 0
+//exit from choice menu and open game menu
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 64
+KeyDown 41 1
+Delay 64
+KeyUp 41 1</Syntax>
+    </KeyDown>
+    <Software>Sea Dogs: To Each His Own</Software>
+  </DefaultMacro>
+</Root>

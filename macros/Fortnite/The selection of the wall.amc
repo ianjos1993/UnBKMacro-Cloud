@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Как только вы берёте этот макрос вы должны поставить дополнительную кнопку стенки на Page Up после этого запустить макрос. При нажатии на клавишу Е "T" Сделает один удар и поставит стенку. Но заметьте, что он делает один удар. Итак процесс: 1 Ударить один раз по стенки противника самим. 2 Нажать на клавишу Е "T".  3. Стенка ваша=) Я надеюсь будет полезно.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 56 ms
+KeyDown 75 1
+Delay 32 ms
+KeyUp 75 1
+Delay 64 ms
+LeftDown 1
+Delay 56 ms
+LeftUp 1
+Delay 64 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

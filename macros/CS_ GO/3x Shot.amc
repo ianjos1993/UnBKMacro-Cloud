@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простенький макрос на тройной клик, при бинде на любую из кнопок последовательно и быстро выстреливает три патрона. (можно использовать как импровизацию для автаматичесого режима огня, задержка между выстрелами равна 121 МС, что если перевести в скорострел.. будет равна задержке при стрельбе с оружимя с фаер рейтом в 500 выстрелов в минуту</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+Delay 121 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+Delay 121 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>CS: GO</Software>
+  </DefaultMacro>
+</Root>

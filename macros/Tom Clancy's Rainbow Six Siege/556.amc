@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>this macro removes pretty mutch all of the 556 recoil thermite etc.
+in game settings:
+fov 84
+1920x1080
+sens 6
+dpi 800
+1x 40
+2.5x 50
+
+
+556 compensator vertical grip 1.5</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 6 ms
+MoveR 1 14
+Delay 10 ms
+MoveR 1 13
+Delay 10 ms
+MoveR 1 14
+Delay 10 ms
+MoveR 2 14
+Delay 10 ms
+MoveR 1 13
+Delay 10 ms
+MoveR 1 14
+Delay 10 ms
+MoveR 1 13
+Delay 10 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

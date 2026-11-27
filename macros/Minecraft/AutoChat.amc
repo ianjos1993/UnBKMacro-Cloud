@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>_K3nan</Major>
+    <Description>This Macro Opening Chat And Pasting Texy From Clipboard!
+
+1) Add Thinks On Your Clipboard
+2) Run Macro
+3) Enjoy!
+
+This Macro Created By _K3nan</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+KeyUp 23 1
+Delay 64 ms
+KeyDown 224 1
+KeyDown 25 1
+Delay 64 ms
+KeyUp 224 1
+KeyUp 25 1
+Delay 64 ms
+KeyDown 88 1
+KeyUp 88 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

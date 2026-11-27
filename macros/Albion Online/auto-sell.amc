@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>The Auto Sell Black Market macro automatically sells items on the Black Market in Albion Online, saving time and maximizing profits. It’s recommended to sell up to 100 different items per day to avoid market saturation, as oversupplying the same item type can reduce demand and make sales much slower.
+
+Screen settings are borderless fullscreen window with 1920x1080.
+
+Mouse settings are the same.
+
+HUD scale 80%</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//Converted script file 02 listopada 2025 12:06:40
+MoveTo 1281  425
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+LeftDown 1
+LeftUp 1
+Delay 500 ms
+//Купить первый лот
+MoveTo 564 630
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+LeftDown 1
+LeftUp 1
+Delay 500 ms
+//Выбрать максимальное значение количества
+MoveTo 888  733
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+LeftDown 1
+LeftUp 1
+Delay 500 ms
+//Подтвердить покупку </Syntax>
+    </KeyDown>
+    <Software>Albion online</Software>
+  </DefaultMacro>
+</Root>

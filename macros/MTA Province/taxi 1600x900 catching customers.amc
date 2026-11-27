@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>Я)</Major>
+    <Description>Простой кликер для ловли клиентов
+использование крайне простое 
+устраиваемся в такси 
+садимся в автомобиль
+нажимаем "2"
+и прожимаем кнопку макроса
+кликер берет первого по счету клиента
+настроенно для разрешения 1600х900
+Пользуйтесь))</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 659 316
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 664 615
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Прокачка приготовления наживки с выбросом за ненадобностью.
+Разрешение экрана 1920х1080
+Закупили компоненты, поместили в слот, запустили макрос. Не забудте поставить повтор</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 870 994
+Delay 162 ms
+LeftDown 1
+Delay 127 ms
+LeftUp 1
+Delay 4295 ms
+KeyDown 42 1
+Delay 94 ms
+KeyUp 42 1
+Delay 339 ms
+LeftDown 1
+Delay 19 ms
+MoveTo 870 994
+Delay 59 ms
+LeftUp 1
+Delay 3569 ms
+KeyDown 42 1
+Delay 119 ms
+KeyUp 42 1</Syntax>
+    </KeyDown>
+    <Software>Русская Рыбалка 4</Software>
+  </DefaultMacro>
+</Root>

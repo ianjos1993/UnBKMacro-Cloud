@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>баг на большой боевой стиль за будду v2 
+Инструкция:
+1.Включить 1 способность у будды в2
+2.Взять в гл руку будду
+3.использовать макрос
+p.s 
+иногда может не сработать это из-за лагов или других багов
+
+Боевой стиль должен быт в 1 слоту</Description>
+    <Comment>потом и на меч скину</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+KeyUp 29 1
+Delay 16 ms
+KeyDown 30 1
+KeyUp 30 1</Syntax>
+    </KeyDown>
+    <Software>Blox Fruits</Software>
+  </DefaultMacro>
+</Root>

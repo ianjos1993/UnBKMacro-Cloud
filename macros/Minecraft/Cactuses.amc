@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Хороший Макрос для добычи кактусов на Hypixel Skyblock. Все что нужно, это встать в нужную точку, нацелить в F3 75 градусов, зажать ЛКМ и запустить Макрос. Макрос абсолютно автономный, поэтому, удачного пользования!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 300 ms
+KeyDown 22 1
+Delay 150 ms
+KeyUp 22 1
+Delay 5000 ms
+KeyUp 7 1
+KeyDown 26 1
+Delay 707 ms
+KeyUp 26 1
+KeyDown 4 1
+Delay 301 ms
+KeyDown 26 1
+Delay 150 ms
+KeyUp 26 1
+Delay 5000 ms
+KeyUp 4 1
+KeyDown 26 1
+Delay 700 ms
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

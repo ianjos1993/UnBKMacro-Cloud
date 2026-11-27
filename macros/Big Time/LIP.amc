@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос на прыжок ниндзя джет, коротко лип, на дальнюю дистанцию, руками сделать его очень тяжело, с макросом на одну лишь кнопку</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 0 ms
+KeyUp 20 1
+Delay 0 ms
+KeyDown 44 1
+Delay 1 ms
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>big time</Software>
+  </DefaultMacro>
+</Root>

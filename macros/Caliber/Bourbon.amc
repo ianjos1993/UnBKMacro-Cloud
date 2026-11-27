@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для контроля отдачи оперативника SEAL БУРБОН
+
+Отключите вертикальную синхронизацию.
+
+Чувствительность — 50.
+
+Разрешение — 1920x1080.
+
+Забиндите на удобную клавишу и в бой!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 32 ms
+MoveR 0 7
+Delay 32 ms
+MoveR 1 0
+Delay 32 ms
+Goto 3</Syntax>
+    </KeyDown>
+    <Software>Caliber</Software>
+  </DefaultMacro>
+</Root>

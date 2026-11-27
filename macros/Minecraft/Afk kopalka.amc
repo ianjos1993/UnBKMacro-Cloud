@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос для копания шахт в crystal hollow на сервере hypixel режим skyblock, для запуска надо навестись на
+блок на уровне головы так что бы при его ломании следущим сломался нижний и запустить макрос.
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 26 1
+MoveR -307 -165
+Delay 0 ms
+MoveR 4 0
+Delay 1 ms
+GoWhile 5 175
+MoveR -4 0
+Delay 1 ms
+GoWhile 8 175
+GoWhile 4 86400000</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

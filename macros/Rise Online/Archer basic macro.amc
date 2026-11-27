@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>Basic combo macro</Major>
+    <Description>it's automatic select mobs with z button
+It's running 1 and 4 buttons for multiple shot and basic shot(basic shot isn't consuming mana point)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 100 ms
+KeyUp 29 1
+Delay 64
+KeyDown 30 1
+Delay 100 ms
+KeyUp 30 1
+Delay 64
+KeyDown 33 1
+Delay 100 ms
+KeyUp 33 1
+Delay 64
+Delay 1001 ms</Syntax>
+    </KeyDown>
+    <Software>Rise Online</Software>
+  </DefaultMacro>
+</Root>

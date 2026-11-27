@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Мой макрос создан для быстрого подсоса вещей с земли на клавишу &lt;E&gt; В игре Dynast.io
+Он довольно быстрый, но вы можете сделать его еще быстрее сменив задержку 7мс на 0
+Надеюсь мой макрос всем понравится, спасибо всем кто скачал!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 7 ms
+KeyUp 8 1
+Delay 7 ms
+KeyDown 8 1
+Delay 7 ms
+KeyUp 8 1
+Delay 7 ms
+KeyDown 8 1
+Delay 7 ms
+KeyUp 8 1
+Delay 7 ms</Syntax>
+    </KeyDown>
+    <Software>Dynast.IO</Software>
+  </DefaultMacro>
+</Root>

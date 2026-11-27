@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>для телеграмм бота @CasinoXRobot, нажимает на /play, подтверждает, и ждет, потом цикл. Может фармить много денег (в боте), если через поиск не удаётся найти бота (у меня такое было), то напишите в лс @Danzeva</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 64
+MoveTo 966 492
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 448 660
+Delay 1000 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 10 s
+GoWhile 1 10000</Syntax>
+    </KeyDown>
+    <Software>Telegram</Software>
+  </DefaultMacro>
+</Root>

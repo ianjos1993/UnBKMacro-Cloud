@@ -1,0 +1,57 @@
+<Root>
+  <DefaultMacro>
+    <Major>anti afk</Major>
+    <Description>Anti afk macro. Bind it to any button and change the mode of macro to run untill pressed again. 
+Use it when you want to go afk.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 263 ms
+KeyDown 7 1
+KeyUp 26 1
+Delay 263 ms
+MoveR 584 -213
+Delay 263 ms
+KeyDown 4 1
+Delay 73 ms
+KeyUp 7 1
+Delay 73 ms
+KeyUp 26 1
+Delay 263 ms
+KeyUp 4 1
+KeyDown 7 1
+MoveR 341 -27
+Delay 73 ms
+KeyUp 7 1
+Delay 263 ms
+KeyDown 4 1
+Delay 73 ms
+KeyUp 4 1
+Delay 263 ms
+KeyDown 22 1
+Delay 73 ms
+KeyUp 22 1
+MoveR 584 -213
+Delay 263 ms
+KeyDown 7 1
+Delay 73 ms
+KeyUp 7 1
+Delay 263 ms
+KeyDown 26 1
+Delay 73 ms
+KeyDown 26 1
+MoveR 341 -27
+KeyUp 26 1
+Delay 263 ms
+MoveTo 870 495
+Goto 5</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

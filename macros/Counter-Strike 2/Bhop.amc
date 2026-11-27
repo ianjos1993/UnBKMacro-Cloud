@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Idealy it is just a quick bhop script. primarily should be used for quick succession bhops around corners and certain lanes. this is my first macro being utilized on Keyran as of this moment so any input would be greatly appreciated. thank you for utilizing it if you did</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 250 ms
+KeyDown 44 1
+Delay 250 ms
+KeyDown 44 1
+Delay 250 ms
+KeyDown 44 1</Syntax>
+    </KeyDown>
+    <Software>Counter-Strike 2</Software>
+  </DefaultMacro>
+</Root>

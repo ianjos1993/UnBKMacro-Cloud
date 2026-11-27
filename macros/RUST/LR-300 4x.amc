@@ -1,0 +1,173 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Чувствительность - 0.66; (Выставить чувствительность можно консольной командой input.sensitivity 0.66)
+самодельный прицел - 0.53;
+голографический прицел - 0.80.
+
+Поле зрения (FOV) 85;
+
+Значение FPS - не менее 50;
+
+Глушитель - по желанию;
+
+Лазерный прицел - по желанию;
+
+Подствольный фонарь - по желанию.
+
+Идеально работает в положении стоя, сидя и при движении
+
+Если вы хотите использовать дополнительные модули, Вам нужно настроить под них чувствительность в игре. Настраивается в зависимости куда уводит прицел по вертикали, Вы увеличиваете либо уменьшаете чувствительность. Если прицел уводит вверх - увеличиваете, если вниз - уменьшаете!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>
+LeftDown 1
+Delay 25 ms
+MoveR -1 20
+Delay 25 ms
+MoveR -3 18
+Delay 25 ms
+MoveR -3 18
+Delay 25 ms
+MoveR 0 21
+Delay 15 ms
+Delay 25 ms
+MoveR -4 19
+Delay 25 ms
+MoveR -5 25
+Delay 25 ms
+MoveR -5 25
+Delay 25 ms
+MoveR -5 25
+Delay 15 ms
+Delay 25 ms
+MoveR -7 25
+Delay 25 ms
+MoveR -7 26
+Delay 25 ms
+MoveR -9 26
+Delay 25 ms
+MoveR -8 24
+Delay 15 ms
+Delay 25 ms
+MoveR -12 21
+Delay 25 ms
+MoveR -12 20
+Delay 25 ms
+MoveR -10 27
+Delay 25 ms
+MoveR -10 27
+Delay 15 ms
+Delay 25 ms
+MoveR -12 20
+Delay 25 ms
+MoveR -12 19
+Delay 25 ms
+MoveR -12 20
+Delay 25 ms
+MoveR -12 20
+Delay 15 ms
+Delay 25 ms
+MoveR -10 15
+Delay 25 ms
+MoveR -10 15
+Delay 25 ms
+MoveR -12 15
+Delay 25 ms
+MoveR -11 17
+Delay 15 ms
+Delay 25 ms
+MoveR -8 13
+Delay 25 ms
+MoveR -7 15
+Delay 25 ms
+MoveR -7 15
+Delay 25 ms
+MoveR -8 13
+Delay 15 ms
+Delay 25 ms
+MoveR -2 10
+Delay 25 ms
+MoveR -2 11
+Delay 25 ms
+MoveR -2 11
+Delay 25 ms
+MoveR -1 13
+Delay 15 ms
+Delay 25 ms
+MoveR 8 9
+Delay 25 ms
+MoveR 8 9
+Delay 25 ms
+MoveR 6 11
+Delay 25 ms
+MoveR 6 9
+Delay 15 ms
+Delay 25 ms
+MoveR 12 8
+Delay 25 ms
+MoveR 14 9
+Delay 25 ms
+MoveR 14 8
+Delay 25 ms
+MoveR 12 8
+Delay 15 ms
+Delay 25 ms
+MoveR 15 7
+Delay 25 ms
+MoveR 15 6
+Delay 25 ms
+MoveR 15 6
+Delay 25 ms
+MoveR 16 7
+Delay 15 ms
+Delay 25 ms
+MoveR 13 6
+Delay 25 ms
+MoveR 14 5
+Delay 25 ms
+MoveR 14 5
+Delay 25 ms
+MoveR 13 6
+Delay 15 ms
+Delay 25 ms
+MoveR 7 5
+Delay 25 ms
+MoveR 7 4
+Delay 25 ms
+MoveR 9 4
+Delay 25 ms
+MoveR 7 4
+Delay 15 ms
+Delay 25 ms
+MoveR 0 4
+Delay 25 ms
+MoveR 0 4
+Delay 25 ms
+MoveR 0 4
+Delay 25 ms
+MoveR 0 2
+Delay 15 ms
+Delay 25 ms
+MoveR -5 5
+Delay 25 ms
+MoveR -5 3
+Delay 25 ms
+MoveR -3 3
+Delay 25 ms
+MoveR -4 4
+Delay 15 ms
+LeftUp 1
+Delay 150 ms
+GoWhile 4 2
+DelayS 2 s</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос предназназчен для быстрой стрельбы со снайперки(включение прицела делает выстрел намного более точным, что сильно помогает)также это можно использовать для некоторых дробовиков(для всех, если ничего не назначено на ПКМ, однако, в этом случае не будет работать для снапы, тут выбирайте сами)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 1 ms
+Delay 2 ms
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+Delay 2 ms
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+Delay 2 ms
+Delay 1 ms
+RightUp 1
+Delay 1 ms
+Delay 2 ms
+Delay 1 ms
+KeyDown 20 1
+Delay 1 ms
+Delay 2 ms
+Delay 1 ms
+KeyUp 20 1
+Delay 1 ms
+Delay 2 ms
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major>Parkour Double Wallrun Helper</Major>
+    <Description>used to help double wallrun for you. Works perfectly all  ping
+Steps:
+1. use and dash and do your first wallrun dash
+2. press the button
+3. press your movement keys to change your dash direction
+4.keep holding it
+5.done</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 3
+KeyDown 45 1
+Delay 10 ms
+KeyUp 45 1
+Delay 70 ms
+KeyDown 44 1
+Delay 3
+KeyDown 45 1
+KeyUp 45 1
+Delay 100 ms
+KeyUp 22 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

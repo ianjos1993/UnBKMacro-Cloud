@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>помогает по бинду быстро активировать эмоцию</Major>
+    <Description>использовать макрос только имея эмоцию moon walk в роблоксе!!!!
+этот макрос по бинду будет юзать эмоцию и самое главное нужно скопировать команду
+/emote moon walk и все биндите на нужную кнопку и юзаете
+разрешение экрана 1920 x1080
+настройки мыши в виндовс 
+скорость указателя 8
+в свойствах мыши скорость указателя 5 </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 205 356
+LeftDown 1
+LeftUp 1
+KeyDown 224 1
+KeyDown 25 1
+KeyUp 25 1
+KeyUp 224 1
+MoveTo 457 352
+LeftDown 1
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

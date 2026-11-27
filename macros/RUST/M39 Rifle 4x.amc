@@ -1,0 +1,54 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Чувствительность - 0.66; (Выставить чувствительность можно консольной командой input.sensitivity 0.66)
+самодельный прицел - 0.53;
+голографический прицел - 0.80.
+
+Поле зрения (FOV) 85;
+
+Значение FPS - не менее 50;
+
+Глушитель - по желанию;
+
+Лазерный прицел - по желанию;
+
+Подствольный фонарь - по желанию.
+
+Идеально работает в положении стоя, сидя и при движении
+
+Если вы хотите использовать дополнительные модули, Вам нужно настроить под них чувствительность в игре. Настраивается в зависимости куда уводит прицел по вертикали, Вы увеличиваете либо уменьшаете чувствительность. Если прицел уводит вверх - увеличиваете, если вниз - уменьшаете!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+MoveR 0 15
+Delay 15 ms
+MoveR 0 15
+Delay 15 ms
+MoveR 0 15
+Delay 15 ms
+MoveR 0 15
+Delay 15 ms
+MoveR 0 15
+Delay 15 ms
+MoveR 0 15
+Delay 15 ms
+MoveR 0 10
+Delay 15 ms
+MoveR 0 10
+Delay 15 ms
+LeftUp 1
+Delay 20 ms
+GoWhile 1 20
+DelayS 2 s</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

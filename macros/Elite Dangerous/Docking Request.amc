@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Simple docking command. Make sure you're within 7,500 Km before submitting docking requests. Change keys as needed to fit your scheme.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//Switch to your external panel look bind (under general keybinds)
+KeyDown 18 1
+Delay 80 ms
+KeyUp 18 1
+Delay 80 ms
+//Switch to your page right bind (under general keybinds)
+KeyDown 46 1
+Delay 80 ms
+KeyUp 46 1
+Delay 80 ms
+KeyDown 46 1
+Delay 80 ms
+KeyUp 46 1
+Delay 1 s
+KeyDown 48 1
+//Switch to your right menu keybind (Under general keybinds)
+Delay 80 ms
+KeyUp 48 1
+Delay 80 ms
+KeyDown 52 1
+//Switch to confirm keybind (Under general keybinds)
+Delay 80 ms
+KeyUp 52 1</Syntax>
+    </KeyDown>
+    <Software>Elite Dangerous</Software>
+  </DefaultMacro>
+</Root>

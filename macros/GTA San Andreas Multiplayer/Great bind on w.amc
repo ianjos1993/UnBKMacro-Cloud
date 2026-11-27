@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос который за вас зажимает кнопку W для быстрой езды на велике.
+Не банят, тестировал на разных серверах Даймонд РП, Аризона РП, Монсер ДМ.
+Удачного пользования.
+Автор: Scripter228</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 40 ms
+KeyUp 26 1
+Delay 40 ms
+KeyDown 26 1
+Delay 40 ms
+KeyUp 26 1
+Delay 40 ms
+KeyDown 26 1
+Delay 40 ms
+KeyUp 26 1
+Delay 40 ms
+KeyDown 26 1
+Delay 40 ms
+KeyUp 26 1
+Delay 40 ms</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

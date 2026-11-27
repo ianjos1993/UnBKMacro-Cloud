@@ -1,0 +1,86 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>При использовании наковальни курсор бегает по твердо заданным координатам, поэтому советую их перенастроить под себя.
+Генратор булыжника должен быть 5 блоков в длинну и 1 ширину.
+Во время процесса персоонаж копает - идет в бок пару блоков - открывает наковальню и чинит инструмент с последющим повторением цикла.
+Делал для себя и все прекрастно работает, проблема может возникнуть только при изменении положения окна и разрешения монитора ( у меня 1920 на 1080 и окно находится в левом нижнем углу) ( с отосительным положением курсора возиться не стал) 
+играл на VimeWorld</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 30 min
+//советую не перегибать со временем ибо у меня кирка алмазная на прочность 3, если с этим же таймером запусть макрос но на железной простой, то она просто сломается и персоонаж будет долбить рукой или тем что подберет и чинить хз что
+LeftUp 1
+//процесс копания
+KeyDown 4 1
+Delay 500 ms
+KeyUp 4 1
+//поход до наковальни
+Delay 500 ms
+RightDown 1
+Delay 500 ms
+RightUp 1
+//открывает наковальню
+Delay 500 ms
+MoveTo 648 880
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+MoveTo 398 691
+Delay 500 ms
+LeftUp 1
+LeftUp 1
+//берет инструмент в 9 ячейке быстрого доступа
+Delay 500 ms
+MoveTo 361 767
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+MoveTo 497 687
+Delay 500 ms
+LeftUp 1
+LeftUp 1
+//берет материал для починки в 1 ячейке инвентаря
+Delay 500 ms
+MoveTo 614 686
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+MoveTo 651 882
+Delay 500 ms
+LeftUp 1
+LeftUp 1
+//починенный инструмент перемещает в 9 ячеку  быстрого доступа
+Delay 500 ms
+MoveTo 498 689
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+MoveTo 361 763
+Delay 500 ms
+LeftUp 1
+LeftUp 1
+//возвращает остатки материала в 1 ячейку инвентаря
+Delay 500 ms
+KeyDown 8 1
+Delay 500 ms
+KeyUp 8 1
+//закрывает наковальню
+Delay 500 ms
+KeyDown 7 1
+Delay 500 ms
+KeyUp 7 1
+//идет пару блоков в право
+Delay 500 ms
+GoWhile 1 3</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

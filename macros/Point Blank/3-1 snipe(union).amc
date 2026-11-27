@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Author: UnionSctipts INC
+Version:1.0.3
+
+Всем привет, давно не обновлял макрос на снайперскую винтовку.
+Пришло время, макрос почти ничем не отлечается от своих собратов.
+В данном макросе изменено следующее: Тайминги, тайминги улучшены, чуть отрегулированны под физику самой игры и урегулированны так, чтобы вас не прокручивало при быстрых нажатиях, ибо в большенстве макросов такое бывает.
+
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15
+LeftUp 1
+Delay 15
+LeftDown 1
+Delay 15
+LeftUp 1
+Delay 15
+KeyDown 32 1
+Delay 15
+KeyUp 32 1
+Delay 15
+KeyDown 30 1
+Delay 15
+KeyUp 30 1
+Delay 15</Syntax>
+    </KeyDown>
+    <Software>PointBlank</Software>
+  </DefaultMacro>
+</Root>

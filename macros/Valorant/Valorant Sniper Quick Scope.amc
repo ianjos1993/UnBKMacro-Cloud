@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>update
+Bind your melee weapon to "3" key and main weapon to "1" key
+practice this at the range first
+enjoy</Description>
+    <Comment>nosouNdValorantV2.5
+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightUp 1
+Delay 40 ms
+LeftDown 1
+Delay 20 ms
+KeyDown 32 1
+Delay 12 ms
+KeyUp 32 1
+Delay 12 ms
+KeyDown 30 1
+Delay 12 ms
+KeyUp 30 1
+Delay 12 ms</Syntax>
+    </KeyDown>
+    <Software>Valorant</Software>
+  </DefaultMacro>
+</Root>

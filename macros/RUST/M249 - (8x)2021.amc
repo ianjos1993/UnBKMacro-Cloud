@@ -1,0 +1,81 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Привет.Данный макрос сделан под пулемет М249 с прицелом 8х.
+У макроса отсутсвует отдача при установлении команд если в игре установлены настройки ниже:
+SENS 1.0
+FOV 75
+Данный макрос был сделан совсем не давно и был куплен и вот я сливаю его вам.
+Удачного использования!</Description>
+    <Comment>DEADXMACRO.STORE
+</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

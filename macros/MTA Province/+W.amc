@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>+W +Shift</Major>
+    <Description>((Ставим W на ЛКМ а Шифт на ПКМ)). Данный макрос, очень полезен для таких робот как ЖБК и Лесопилка, он заживает клавишу W с бегом и ваш главный герой игры начинает автоматичски бегать, скрипт зациклен практически до бесконечности, что помогает нам не палится перед админами, только сиди у ПК, смотри кино, попивай чай и крути мышкой, с данным макросом я могу заработать от 1.5 до 3 млн в день на МТА Провинция, желаю вам всем хорошего дня иди вечера, с вами был ваш любимый мистер Джокер, хейтеры - люблю вас.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 14 ms
+RightDown 1
+Delay 72343 ms
+RightUp 1
+Delay 1 ms
+LeftUp 1
+Delay 1807 ms
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

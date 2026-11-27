@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major>Uno2506</Major>
+    <Description>This macro allow you to fish with sp fisherman automatically.
+Place your game in window mode, res 1024x700. Place the window on the UP LEFT corner of your monitor.
+Put skills in this way: 1- start fish, 2- stop fish, 3- bait buff
+
+It's easy to use and work very good for me. 
+GG</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 350 ms
+KeyDown 32 1
+Delay 5 ms
+KeyUp 32 1
+Delay 2000 ms
+KeyDown 30 1
+Delay 5 ms
+KeyUp 30 1
+Delay 2000 ms
+Goto 13
+Delay 10 ms
+GoColor 14 2 44,44,45 94,83,138 2 568 387 15 40 1 0
+GoWhile 11 100000
+KeyDown 31 1
+Delay 14 ms
+KeyUp 31 1
+Delay 5500 ms
+GoColor 1 1 238,221,255 255,255,255 2 541 682 32 33 1 0
+Goto 5
+//Set Nostale Window to Minimum size, place nostlae window to the very top left of your screen, if resolution is 1440p no changes needed, if 1080p you'll need to change the area of detection on line 8. Have fun!
+//Remember to take your armor off, otherwise it will affect the macro and wold reel too soon!!</Syntax>
+    </KeyDown>
+    <Software>NosTale</Software>
+  </DefaultMacro>
+</Root>

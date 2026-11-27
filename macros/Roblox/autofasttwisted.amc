@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>данный макрос создан для игры The Strongest Battlegrounds,персонаж гароу
+что бы автоматически делать рывок с поворотом назад и вперед
+как его использовать?
+4m1 максимально близко к противнику и почти моментально после 4 клика макрос
+настройки
+чуствительность-сенса 1
+1500 dpi
+1980x1080
+fullscreen off</Description>
+    <Comment>радуйтесь</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR 360 0
+Delay 15 ms
+KeyDown 20 1
+KeyUp 20 1
+Delay 115 ms
+MoveR -360 0</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

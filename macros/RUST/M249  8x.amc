@@ -1,0 +1,75 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>M249 8x 150 metreye kadar çok az sekme yapar hassasiyet 0.90 görüş alanı FOV 80dir çözünürlüğü kendinize göre ayarlayabilirisniz.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 1
+Delay 6 ms
+MoveR 0 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

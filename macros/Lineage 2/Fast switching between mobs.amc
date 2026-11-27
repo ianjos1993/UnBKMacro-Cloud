@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>ничего не меняем</Major>
+    <Description>Скрипт для быстрого переклацивания между мобов,  и вместо 1-2 моба, к вам будет бегать толпа мобов, и у вас увеличивается фарм, это лучше чем спичка между клавиш!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 59 1
+Delay 64
+KeyUp 59 1
+Delay 64
+KeyDown 60 1
+Delay 64
+KeyUp 60 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

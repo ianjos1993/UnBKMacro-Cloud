@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на авто берданку без отдачи, сенса в игре 0.86, угол обзора 85. Очень точная, работает так же на пешке! сенсу можно выставить через консоль (F1) команда "sensitivity 0.86" без кавычек!
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 12 ms
+MoveR 0 3
+Delay 12 ms
+MoveR 0 3
+Delay 12 ms
+MoveR 0 4
+Delay 12 ms
+MoveR 0 3
+Delay 12 ms
+MoveR 0 3
+Delay 12 ms
+LeftUp 1
+Delay 24 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

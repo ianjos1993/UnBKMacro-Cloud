@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>Sagiri</Major>
+    <Description>Кликер на рыбалку был протестирован 13 раз и настроен идеально
+
+Установка 
+1) Скачиваете 
+2) Ставити настройки Работа макрома зажимать
+3) устонавливаете на кнопку левой мыши
+4) при улове зажать кнопку мыши
+
+ВНИМАНИЕ: Поставьте горячую клавишу на запуск Keyran потому что кликер на мышку думаю вы сами понимаетет что будет</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 25 ms
+LeftDown 1
+Delay 20 ms
+LeftDown 1
+Delay 30 ms
+LeftDown 1
+Delay 25 ms
+LeftDown 1
+Delay 20 ms
+LeftDown 1</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

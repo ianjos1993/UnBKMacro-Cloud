@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для полуавто фарма фермы на 1 клавишу, не переживая за выход за шкалу усталости, при данных настройках шкала не выйдет за рамки</Description>
+    <Comment>макрос для фермы в гта5рп</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 350 ms
+KeyUp 4 1
+Delay 350 ms
+KeyDown 7 1
+Delay 350 ms
+KeyUp 7 1
+Delay 350 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

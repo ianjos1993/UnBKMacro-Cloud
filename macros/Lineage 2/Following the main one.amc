@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Отличный макрос для игры в 3 окна:
+
+1. Окна с игрой должны быть расположены 4, 5 и 6 на панели задач.
+
+2. 4 это окно основного персонажа
+
+3. Для персонажей в окнах 5и6 на клавишу 1 задаём макрос в lineage 2:
+
+/target &lt;имя персонажа основного&gt;
+/attack
+
+4. В настройках игры в рвзделе видео убираем галочку "Снизить нагрузку на систему" и включаем "Использовать GPU" (для слабых компов увеличить отклик до 125&gt;250 мс)
+
+5. Привязываем макрос на удобную кнопку
+
+6. Радуемся! </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 227 1
+KeyDown 34 1
+KeyUp 34 1
+KeyUp 227 1
+Delay 125 ms
+KeyDown 30 1
+KeyUp 30 1
+Delay 25 ms
+KeyDown 227 1
+KeyDown 35 1
+KeyUp 35 1
+KeyUp 227 1
+Delay 125 ms
+KeyDown 30 1
+KeyUp 30 1
+Delay 25 ms
+KeyDown 227 1
+KeyDown 33 1
+KeyUp 33 1
+KeyUp 227 1</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

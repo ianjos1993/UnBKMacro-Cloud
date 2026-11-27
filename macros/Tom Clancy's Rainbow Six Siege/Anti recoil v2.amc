@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>Regular Recoil pull down</Major>
+    <Description>Just assign it to your shoot button or key, all it does is pull down at a constant rate. producing semi vertical recoil control. Its pretty good in my opinon</Description>
+    <Comment>:)</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 15 ms
+MoveR 0 1
+Delay 15 ms
+MoveR 0 2
+Delay 15 ms
+MoveR 0 2
+Delay 15 ms
+MoveR -1 1
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

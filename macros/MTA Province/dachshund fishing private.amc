@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Самая быстрая, полностью автоматическая ловля таксы для провинции, 
+Просто жмем бинд макроса при появлении нового заказа и он полностью сам открывает панельку, выбирает заказ и подтверждает его. Все задержки оптимизированы и выбраны так, что бы это было максимально быстро, но регало всегда, даже на не самом мощном железе и не лучшем пинге.
+Разрешение экрана - 1366x768
+Всем вкусных заказов с чаем)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 50 ms
+KeyUp 31 1
+Delay 250 ms
+MoveTo 532 247
+Delay 50 ms
+LeftDown 1
+Delay 50 ms
+MoveTo 563 542
+Delay 50 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

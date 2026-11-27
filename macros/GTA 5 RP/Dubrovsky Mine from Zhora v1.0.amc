@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>GTA5 RP v1.67 Dubrovskiy</Major>
+    <Description>Макрос для работы на шахте, теперь не нужно стирать в кровь клавишу Е, работает на сервере RAGE MP (Dubrovskiy)  Дубровский синдикат, для удобности устанавливайте горячую клавишу на среднее колесико мыши! Как подбежали к отметке нажимаете на назначенную вами клавишу и макрос автоматически поработает за вас киркой! Всем желаю хорошего пользования!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 2 1 92,0,90 204,94,251 2 530 800 850 200 1 0
+KeyDown 8 1
+Delay 20 40 ms
+KeyUp 8 1
+Delay 20 40 ms
+Delay 3 5 ms
+GoColor 6 1 168,76,76 255,255,255 2 530 800 850 200 1 0
+GoWhile 1 35</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот файл можно быстро отредактировать нажатием выбранной вами кнопки, это очень хороший файл. И это хорошо, потому что некоторые могут просто не работать из-за того, что у вас версия Windows или что-то в этом роде, но здесь все в порядке</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+KeyUp 225 1
+Delay 10 ms
+WheelDown 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

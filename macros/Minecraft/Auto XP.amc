@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>И всем снова привет! Сегодня в честь праздника (День защитника Отечества) я решил написать для вас новенький макрос. Этот макрос подойдет как для локальной игры, так и для публичной. В чем суть макроса? Он позволяет автоматически выдать игроку некоторое количество опыта (этот макрос выдает 100 очков опыта). Это нужно для того, чтобы зачаровывать вещи на столе зачарования. Макрос автоматически напишет за вас эту команду. Ведь это гораздо проще, чем вручную разбивать бутыльки опыта. Надеюсь, вам понравится!
+
+Инструкция по настройке данного макроса:
+1)Установите файл данного макроса на свой компьютер.
+2)Закройте редактор макросов.
+3)Откройте панель клавиатуры Keyran.
+4)Выбираете удобную для вас клавишу или кнопку мыши.
+5)Назначаете на нее макрос.
+6)Сохраняете и используете.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 32 ms
+KeyUp 56 1
+Delay 32 ms
+KeyDown 27 1
+Delay 32 ms
+KeyUp 27 1
+Delay 32 ms
+KeyDown 19 1
+Delay 32 ms
+KeyUp 19 1
+Delay 32 ms
+KeyDown 44 1
+Delay 32 ms
+KeyUp 44 1
+Delay 32 ms
+KeyDown 30 1
+Delay 32 ms
+KeyUp 30 1
+Delay 32 ms
+KeyDown 39 1
+Delay 32 ms
+KeyUp 39 1
+Delay 32 ms
+KeyDown 39 1
+Delay 32 ms
+KeyUp 39 1
+Delay 32 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

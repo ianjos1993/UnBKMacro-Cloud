@@ -1,0 +1,106 @@
+<Root>
+  <DefaultMacro>
+    <Major>2 спота на Сумма универсальный</Major>
+    <Description>цикл атака - бежим к пету 1 - цикл атак - бежим к пету 2
+
+с 1 по 29 строку цикл атак и хила, колво можно выставлять по вашему бксту и тому, как быстро вы убиваете пачку
+скиллы:
+F7 - некст такргет
+1 - сумм атак
+2 - масс 1 
+3 - масс 2
+9 - масс 3
+= - баланс хил
+0 - групп хил
+
+далее берем в таргет питомца F2 (на этой кнопке макрос на взялтив таргет питомца 1)
+таргет специально сделан в цикле по 0,5 секунды, для того, если во время бега нужно ребафнуться, чтоб потом продолжать бежать
+получается что бег к питомцу это цикл задержкой в 0,5с со строки 30 по 35
+
+после того как прибежали к питомцу - повторяется цикл атак, что описан выше
+
+далее опять в таргет питомца F8 (тут уже вторйо макрос на таргет питомца 2)
+
+p.s. тайминги регулиются чисто итерациями циклов
+атака - увеличиваем/уменьшаем в зависимости от буста
+бег - увеличиваем/уменьшаем в зависимости от дальности
+
+можно конечно еще вскакивать на лошадь,но проще выучить 30 скорости бега за СП скиллы</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 64 1
+Delay 64
+KeyUp 64 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 38 1
+Delay 64
+KeyUp 38 1
+Delay 64
+KeyDown 46 1
+Delay 64
+KeyUp 46 1
+Delay 64
+KeyDown 39 1
+Delay 64
+KeyUp 39 1
+Delay 64
+GoWhile 1 12
+KeyDown 59 1
+Delay 64
+KeyUp 59 1
+Delay 64
+Delay 500 ms
+GoWhile 30 16
+KeyDown 66 1
+Delay 64
+KeyUp 66 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 46 1
+Delay 64
+KeyUp 46 1
+Delay 64
+KeyDown 39 1
+Delay 64
+KeyUp 39 1
+Delay 64
+GoWhile 36 12
+KeyDown 65 1
+Delay 64
+KeyUp 65 1
+Delay 64
+Delay 500 ms
+GoWhile 61 16</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

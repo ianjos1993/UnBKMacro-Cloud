@@ -1,0 +1,2414 @@
+<Root>
+  <DefaultMacro>
+    <Major>Roblox Piano</Major>
+    <Description>Данный макрос приспособлен для игры в Roblox на пианино или же других игр в которых возможно использовать данный макрос.
+
+Макрос играет песню: Wham! -  Last Christmas 
+
+Инструкция по использованию.
+
+1) - Заходим в игру где можно использовать Пианино.
+
+2) - Запускаем макрос через Keyran в игре.
+
+3) - Получаем хорошее настроение от сыграной песни.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 37 1
+Delay 0
+KeyUp 37 1
+Delay 0
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 26 1
+Delay 0
+KeyUp 26 1
+Delay 300 ms
+KeyDown 28 1
+Delay 0
+KeyUp 28 1
+Delay 300 ms
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 23 1
+Delay 0
+KeyUp 23 1
+Delay 0
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 300 ms
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 300 ms
+KeyDown 37 1
+Delay 0
+KeyUp 37 1
+Delay 0
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 26 1
+Delay 0
+KeyUp 26 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 23 1
+Delay 0
+KeyUp 23 1
+Delay 0
+KeyDown 9 1
+Delay 0
+KeyUp 9 1
+Delay 300 ms
+KeyDown 28 1
+Delay 0
+KeyUp 28 1
+Delay 0
+KeyDown 9 1
+Delay 0
+KeyUp 9 1
+Delay 300 ms
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 300 ms
+KeyDown 28 1
+Delay 0
+KeyUp 28 1
+Delay 300 ms
+KeyDown 23 1
+Delay 0
+KeyUp 23 1
+Delay 0
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 300 ms
+KeyDown 39 1
+Delay 0
+KeyUp 39 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 300 ms
+KeyDown 35 1
+Delay 0
+KeyUp 35 1
+Delay 0
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 39 1
+Delay 0
+KeyUp 39 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 8 1
+Delay 0
+KeyUp 8 1
+Delay 0
+KeyDown 9 1
+Delay 0
+KeyUp 9 1
+Delay 300 ms
+KeyDown 21 1
+Delay 0
+KeyUp 21 1
+Delay 300 ms
+KeyDown 23 1
+Delay 0
+KeyUp 23 1
+Delay 0
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 0
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 300 ms
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 35 1
+Delay 0
+KeyUp 35 1
+Delay 0
+KeyDown 23 1
+Delay 0
+KeyUp 23 1
+Delay 0
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 0
+KeyDown 4 1
+Delay 0
+KeyUp 4 1
+Delay 300 ms
+KeyDown 39 1
+Delay 0
+KeyUp 39 1
+Delay 0
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 8 1
+Delay 0
+KeyUp 8 1
+Delay 0
+KeyDown 4 1
+Delay 0
+KeyUp 4 1
+Delay 300 ms
+KeyDown 21 1
+Delay 0
+KeyUp 21 1
+Delay 0
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 300 ms
+KeyDown 23 1
+Delay 0
+KeyUp 23 1
+Delay 300 ms
+KeyDown 21 1
+Delay 0
+KeyUp 21 1
+Delay 300 ms
+KeyDown 8 1
+Delay 0
+KeyUp 8 1
+Delay 300 ms
+KeyDown 39 1
+Delay 0
+KeyUp 39 1
+Delay 300 ms
+KeyDown 38 1
+Delay 0
+KeyUp 38 1
+Delay 0
+KeyDown 12 1
+Delay 0
+KeyUp 12 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 0
+KeyDown 9 1
+Delay 0
+KeyUp 9 1
+Delay 300 ms
+KeyDown 8 1
+Delay 0
+KeyUp 8 1
+Delay 300 ms
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 300 ms
+KeyDown 12 1
+Delay 0
+KeyUp 12 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 8 1
+Delay 0
+KeyUp 8 1
+Delay 300 ms
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 300 ms
+KeyDown 38 1
+Delay 0
+KeyUp 38 1
+Delay 0
+KeyDown 12 1
+Delay 0
+KeyUp 12 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 0
+KeyDown 9 1
+Delay 0
+KeyUp 9 1
+Delay 300 ms
+KeyDown 8 1
+Delay 0
+KeyUp 8 1
+Delay 0
+KeyDown 10 1
+Delay 0
+KeyUp 10 1
+Delay 300 ms
+KeyDown 28 1
+Delay 0
+KeyUp 28 1
+Delay 0
+KeyDown 9 1
+Delay 0
+KeyUp 9 1
+Delay 300 ms
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 12 1
+Delay 0
+KeyUp 12 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 300 ms
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 26 1
+Delay 0
+KeyUp 26 1
+Delay 0
+KeyDown 28 1
+Delay 0
+KeyUp 28 1
+Delay 0
+KeyDown 12 1
+Delay 0
+KeyUp 12 1
+Delay 0
+KeyDown 4 1
+Delay 0
+KeyUp 4 1
+Delay 300 ms
+KeyDown 4 1
+Delay 0
+KeyUp 4 1
+Delay 300 ms
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 4 1
+Delay 0
+KeyUp 4 1
+Delay 300 ms
+KeyDown 26 1
+Delay 0
+KeyUp 26 1
+Delay 300 ms
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 34 1
+Delay 0
+KeyUp 34 1
+Delay 0
+KeyDown 26 1
+Delay 0
+KeyUp 26 1
+Delay 0
+KeyDown 28 1
+Delay 0
+KeyUp 28 1
+Delay 0
+KeyDown 12 1
+Delay 0
+KeyUp 12 1
+Delay 0
+KeyDown 4 1
+Delay 0
+KeyUp 4 1
+Delay 300 ms
+KeyDown 39 1
+Delay 0
+KeyUp 39 1
+Delay 300 ms
+KeyDown 34 1
+Delay 0
+KeyUp 34 1
+Delay 300 ms
+KeyDown 35 1
+Delay 0
+KeyUp 35 1
+Delay 300 ms
+KeyDown 36 1
+Delay 0
+KeyUp 36 1
+Delay 300 ms
+KeyDown 37 1
+Delay 0
+KeyUp 37 1
+Delay 0
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 26 1
+Delay 0
+KeyUp 26 1
+Delay 300 ms
+KeyDown 28 1
+Delay 0
+KeyUp 28 1
+Delay 300 ms
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 23 1
+Delay 0
+KeyUp 23 1
+Delay 0
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 300 ms
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 300 ms
+KeyDown 37 1
+Delay 0
+KeyUp 37 1
+Delay 0
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 26 1
+Delay 0
+KeyUp 26 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 23 1
+Delay 0
+KeyUp 23 1
+Delay 0
+KeyDown 9 1
+Delay 0
+KeyUp 9 1
+Delay 300 ms
+KeyDown 28 1
+Delay 0
+KeyUp 28 1
+Delay 0
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 300 ms
+KeyDown 28 1
+Delay 0
+KeyUp 28 1
+Delay 300 ms
+KeyDown 23 1
+Delay 0
+KeyUp 23 1
+Delay 0
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 300 ms
+KeyDown 39 1
+Delay 0
+KeyUp 39 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 300 ms
+KeyDown 35 1
+Delay 0
+KeyUp 35 1
+Delay 0
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 39 1
+Delay 0
+KeyUp 39 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 8 1
+Delay 0
+KeyUp 8 1
+Delay 0
+KeyDown 9 1
+Delay 0
+KeyUp 9 1
+Delay 300 ms
+KeyDown 21 1
+Delay 0
+KeyUp 21 1
+Delay 300 ms
+KeyDown 23 1
+Delay 0
+KeyUp 23 1
+Delay 0
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 0
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 300 ms
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 35 1
+Delay 0
+KeyUp 35 1
+Delay 0
+KeyDown 23 1
+Delay 0
+KeyUp 23 1
+Delay 0
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 0
+KeyDown 4 1
+Delay 0
+KeyUp 4 1
+Delay 300 ms
+KeyDown 39 1
+Delay 0
+KeyUp 39 1
+Delay 0
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 8 1
+Delay 0
+KeyUp 8 1
+Delay 0
+KeyDown 4 1
+Delay 0
+KeyUp 4 1
+Delay 300 ms
+KeyDown 21 1
+Delay 0
+KeyUp 21 1
+Delay 0
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 300 ms
+KeyDown 23 1
+Delay 0
+KeyUp 23 1
+Delay 300 ms
+KeyDown 21 1
+Delay 0
+KeyUp 21 1
+Delay 300 ms
+KeyDown 8 1
+Delay 0
+KeyUp 8 1
+Delay 300 ms
+KeyDown 39 1
+Delay 0
+KeyUp 39 1
+Delay 300 ms
+KeyDown 38 1
+Delay 0
+KeyUp 38 1
+Delay 0
+KeyDown 12 1
+Delay 0
+KeyUp 12 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 0
+KeyDown 9 1
+Delay 0
+KeyUp 9 1
+Delay 300 ms
+KeyDown 8 1
+Delay 0
+KeyUp 8 1
+Delay 300 ms
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 300 ms
+KeyDown 12 1
+Delay 0
+KeyUp 12 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 8 1
+Delay 0
+KeyUp 8 1
+Delay 300 ms
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 300 ms
+KeyDown 38 1
+Delay 0
+KeyUp 38 1
+Delay 0
+KeyDown 12 1
+Delay 0
+KeyUp 12 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 0
+KeyDown 9 1
+Delay 0
+KeyUp 9 1
+Delay 300 ms
+KeyDown 8 1
+Delay 0
+KeyUp 8 1
+Delay 0
+KeyDown 10 1
+Delay 0
+KeyUp 10 1
+Delay 300 ms
+KeyDown 28 1
+Delay 0
+KeyUp 28 1
+Delay 0
+KeyDown 9 1
+Delay 0
+KeyUp 9 1
+Delay 300 ms
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 12 1
+Delay 0
+KeyUp 12 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 300 ms
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 26 1
+Delay 0
+KeyUp 26 1
+Delay 0
+KeyDown 28 1
+Delay 0
+KeyUp 28 1
+Delay 0
+KeyDown 12 1
+Delay 0
+KeyUp 12 1
+Delay 0
+KeyDown 4 1
+Delay 0
+KeyUp 4 1
+Delay 300 ms
+KeyDown 4 1
+Delay 0
+KeyUp 4 1
+Delay 300 ms
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 4 1
+Delay 0
+KeyUp 4 1
+Delay 300 ms
+KeyDown 26 1
+Delay 0
+KeyUp 26 1
+Delay 300 ms
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 34 1
+Delay 0
+KeyUp 34 1
+Delay 0
+KeyDown 26 1
+Delay 0
+KeyUp 26 1
+Delay 0
+KeyDown 28 1
+Delay 0
+KeyUp 28 1
+Delay 0
+KeyDown 12 1
+Delay 0
+KeyUp 12 1
+Delay 0
+KeyDown 4 1
+Delay 0
+KeyUp 4 1
+Delay 300 ms
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 300 ms
+KeyDown 34 1
+Delay 0
+KeyUp 34 1
+Delay 300 ms
+KeyDown 35 1
+Delay 0
+KeyUp 35 1
+Delay 300 ms
+KeyDown 36 1
+Delay 0
+KeyUp 36 1
+Delay 300 ms
+KeyDown 37 1
+Delay 0
+KeyUp 37 1
+Delay 0
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 26 1
+Delay 0
+KeyUp 26 1
+Delay 300 ms
+KeyDown 28 1
+Delay 0
+KeyUp 28 1
+Delay 300 ms
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 28 1
+Delay 0
+KeyUp 28 1
+Delay 0
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 23 1
+Delay 0
+KeyUp 23 1
+Delay 300 ms
+KeyDown 26 1
+Delay 0
+KeyUp 26 1
+Delay 0
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 300 ms
+KeyDown 37 1
+Delay 0
+KeyUp 37 1
+Delay 0
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 0
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 0
+KeyDown 11 1
+Delay 0
+KeyUp 11 1
+Delay 300 ms
+KeyDown 26 1
+Delay 0
+KeyUp 26 1
+Delay 300 ms
+KeyDown 28 1
+Delay 0
+KeyUp 28 1
+Delay 300 ms
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 0
+KeyDown 9 1
+Delay 0
+KeyUp 9 1
+Delay 300 ms
+KeyDown 28 1
+Delay 0
+KeyUp 28 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 23 1
+Delay 0
+KeyUp 23 1
+Delay 0
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 0
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 26 1
+Delay 0
+KeyUp 26 1
+Delay 300 ms
+KeyDown 35 1
+Delay 0
+KeyUp 35 1
+Delay 0
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 300 ms
+KeyDown 39 1
+Delay 0
+KeyUp 39 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 8 1
+Delay 0
+KeyUp 8 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 21 1
+Delay 0
+KeyUp 21 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 23 1
+Delay 0
+KeyUp 23 1
+Delay 0
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 21 1
+Delay 0
+KeyUp 21 1
+Delay 0
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 8 1
+Delay 0
+KeyUp 8 1
+Delay 300 ms
+KeyDown 39 1
+Delay 0
+KeyUp 39 1
+Delay 0
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 35 1
+Delay 0
+KeyUp 35 1
+Delay 0
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 0
+KeyDown 9 1
+Delay 0
+KeyUp 9 1
+Delay 0
+KeyDown 13 1
+Delay 0
+KeyUp 13 1
+Delay 300 ms
+KeyDown 39 1
+Delay 0
+KeyUp 39 1
+Delay 0
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 0
+KeyDown 9 1
+Delay 0
+KeyUp 9 1
+Delay 0
+KeyDown 13 1
+Delay 0
+KeyUp 13 1
+Delay 300 ms
+KeyDown 8 1
+Delay 0
+KeyUp 8 1
+Delay 300 ms
+KeyDown 21 1
+Delay 0
+KeyUp 21 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 0
+KeyDown 4 1
+Delay 0
+KeyUp 4 1
+Delay 0
+KeyDown 9 1
+Delay 0
+KeyUp 9 1
+Delay 300 ms
+KeyDown 23 1
+Delay 0
+KeyUp 23 1
+Delay 300 ms
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 39 1
+Delay 0
+KeyUp 39 1
+Delay 300 ms
+KeyDown 28 1
+Delay 0
+KeyUp 28 1
+Delay 0
+KeyDown 12 1
+Delay 0
+KeyUp 12 1
+Delay 0
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 38 1
+Delay 0
+KeyUp 38 1
+Delay 300 ms
+KeyDown 8 1
+Delay 0
+KeyUp 8 1
+Delay 300 ms
+KeyDown 28 1
+Delay 0
+KeyUp 28 1
+Delay 0
+KeyDown 12 1
+Delay 0
+KeyUp 12 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 0
+KeyDown 9 1
+Delay 0
+KeyUp 9 1
+Delay 300 ms
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 300 ms
+KeyDown 12 1
+Delay 0
+KeyUp 12 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 0
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 8 1
+Delay 0
+KeyUp 8 1
+Delay 0
+KeyDown 28 1
+Delay 0
+KeyUp 28 1
+Delay 0
+KeyDown 12 1
+Delay 0
+KeyUp 12 1
+Delay 300 ms
+KeyDown 38 1
+Delay 0
+KeyUp 38 1
+Delay 0
+KeyDown 12 1
+Delay 0
+KeyUp 12 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 0
+KeyDown 9 1
+Delay 0
+KeyUp 9 1
+Delay 300 ms
+KeyDown 8 1
+Delay 0
+KeyUp 8 1
+Delay 0
+KeyDown 9 1
+Delay 0
+KeyUp 9 1
+Delay 300 ms
+KeyDown 9 1
+Delay 0
+KeyUp 9 1
+Delay 300 ms
+KeyDown 28 1
+Delay 0
+KeyUp 28 1
+Delay 0
+KeyDown 12 1
+Delay 0
+KeyUp 12 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 300 ms
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 4 1
+Delay 0
+KeyUp 4 1
+Delay 300 ms
+KeyDown 12 1
+Delay 0
+KeyUp 12 1
+Delay 0
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 0
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 26 1
+Delay 0
+KeyUp 26 1
+Delay 0
+KeyDown 28 1
+Delay 0
+KeyUp 28 1
+Delay 0
+KeyDown 12 1
+Delay 0
+KeyUp 12 1
+Delay 0
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 0
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 26 1
+Delay 0
+KeyUp 26 1
+Delay 0
+KeyDown 28 1
+Delay 0
+KeyUp 28 1
+Delay 0
+KeyDown 12 1
+Delay 0
+KeyUp 12 1
+Delay 0
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 0
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 26 1
+Delay 0
+KeyUp 26 1
+Delay 0
+KeyDown 28 1
+Delay 0
+KeyUp 28 1
+Delay 0
+KeyDown 12 1
+Delay 0
+KeyUp 12 1
+Delay 300 ms
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 26 1
+Delay 0
+KeyUp 26 1
+Delay 0
+KeyDown 28 1
+Delay 0
+KeyUp 28 1
+Delay 0
+KeyDown 12 1
+Delay 0
+KeyUp 12 1
+Delay 0
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 0
+KeyDown 4 1
+Delay 0
+KeyUp 4 1
+Delay 300 ms
+KeyDown 4 1
+Delay 0
+KeyUp 4 1
+Delay 300 ms
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 26 1
+Delay 0
+KeyUp 26 1
+Delay 0
+KeyDown 28 1
+Delay 0
+KeyUp 28 1
+Delay 0
+KeyDown 12 1
+Delay 0
+KeyUp 12 1
+Delay 0
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 0
+KeyDown 4 1
+Delay 0
+KeyUp 4 1
+Delay 300 ms
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 300 ms
+KeyDown 26 1
+Delay 0
+KeyUp 26 1
+Delay 0
+KeyDown 21 1
+Delay 0
+KeyUp 21 1
+Delay 0
+KeyDown 12 1
+Delay 0
+KeyUp 12 1
+Delay 300 ms
+KeyDown 37 1
+Delay 0
+KeyUp 37 1
+Delay 0
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 300 ms
+KeyDown 26 1
+Delay 0
+KeyUp 26 1
+Delay 300 ms
+KeyDown 23 1
+Delay 0
+KeyUp 23 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 28 1
+Delay 0
+KeyUp 28 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 23 1
+Delay 0
+KeyUp 23 1
+Delay 0
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 300 ms
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 37 1
+Delay 0
+KeyUp 37 1
+Delay 0
+KeyDown 26 1
+Delay 0
+KeyUp 26 1
+Delay 0
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 0
+KeyDown 4 1
+Delay 0
+KeyUp 4 1
+Delay 300 ms
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 4 1
+Delay 0
+KeyUp 4 1
+Delay 300 ms
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 4 1
+Delay 0
+KeyUp 4 1
+Delay 300 ms
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 36 1
+Delay 0
+KeyUp 36 1
+Delay 300 ms
+KeyDown 35 1
+Delay 0
+KeyUp 35 1
+Delay 0
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 300 ms
+KeyDown 39 1
+Delay 0
+KeyUp 39 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 8 1
+Delay 0
+KeyUp 8 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 21 1
+Delay 0
+KeyUp 21 1
+Delay 0
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 0
+KeyDown 4 1
+Delay 0
+KeyUp 4 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 23 1
+Delay 0
+KeyUp 23 1
+Delay 300 ms
+KeyDown 21 1
+Delay 0
+KeyUp 21 1
+Delay 0
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 8 1
+Delay 0
+KeyUp 8 1
+Delay 0
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 0
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 39 1
+Delay 0
+KeyUp 39 1
+Delay 0
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 35 1
+Delay 0
+KeyUp 35 1
+Delay 0
+KeyDown 39 1
+Delay 0
+KeyUp 39 1
+Delay 0
+KeyDown 8 1
+Delay 0
+KeyUp 8 1
+Delay 0
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 0
+KeyDown 4 1
+Delay 0
+KeyUp 4 1
+Delay 300 ms
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 0
+KeyDown 4 1
+Delay 0
+KeyUp 4 1
+Delay 300 ms
+KeyDown 35 1
+Delay 0
+KeyUp 35 1
+Delay 0
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 39 1
+Delay 0
+KeyUp 39 1
+Delay 300 ms
+KeyDown 8 1
+Delay 0
+KeyUp 8 1
+Delay 300 ms
+KeyDown 38 1
+Delay 0
+KeyUp 38 1
+Delay 0
+KeyDown 12 1
+Delay 0
+KeyUp 12 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 0
+KeyDown 9 1
+Delay 0
+KeyUp 9 1
+Delay 300 ms
+KeyDown 8 1
+Delay 0
+KeyUp 8 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 12 1
+Delay 0
+KeyUp 12 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 8 1
+Delay 0
+KeyUp 8 1
+Delay 0
+KeyDown 12 1
+Delay 0
+KeyUp 12 1
+Delay 0
+KeyDown 9 1
+Delay 0
+KeyUp 9 1
+Delay 300 ms
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 0
+KeyDown 9 1
+Delay 0
+KeyUp 9 1
+Delay 300 ms
+KeyDown 38 1
+Delay 0
+KeyUp 38 1
+Delay 0
+KeyDown 12 1
+Delay 0
+KeyUp 12 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 0
+KeyDown 9 1
+Delay 0
+KeyUp 9 1
+Delay 300 ms
+KeyDown 8 1
+Delay 0
+KeyUp 8 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 12 1
+Delay 0
+KeyUp 12 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 28 1
+Delay 0
+KeyUp 28 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 21 1
+Delay 0
+KeyUp 21 1
+Delay 0
+KeyDown 12 1
+Delay 0
+KeyUp 12 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 8 1
+Delay 0
+KeyUp 8 1
+Delay 0
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 26 1
+Delay 0
+KeyUp 26 1
+Delay 0
+KeyDown 28 1
+Delay 0
+KeyUp 28 1
+Delay 0
+KeyDown 12 1
+Delay 0
+KeyUp 12 1
+Delay 0
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 0
+KeyDown 4 1
+Delay 0
+KeyUp 4 1
+Delay 300 ms
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 11 1
+Delay 0
+KeyUp 11 1
+Delay 300 ms
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 34 1
+Delay 0
+KeyUp 34 1
+Delay 0
+KeyDown 20 1
+Delay 0
+KeyUp 20 1
+Delay 0
+KeyDown 26 1
+Delay 0
+KeyUp 26 1
+Delay 0
+KeyDown 28 1
+Delay 0
+KeyUp 28 1
+Delay 0
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 0
+KeyDown 4 1
+Delay 0
+KeyUp 4 1
+Delay 300 ms
+KeyDown 4 1
+Delay 0
+KeyUp 4 1
+Delay 300 ms
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 34 1
+Delay 0
+KeyUp 34 1
+Delay 300 ms
+KeyDown 35 1
+Delay 0
+KeyUp 35 1
+Delay 300 ms
+KeyDown 36 1
+Delay 0
+KeyUp 36 1
+Delay 300 ms
+KeyDown 37 1
+Delay 0
+KeyUp 37 1
+Delay 0
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 26 1
+Delay 0
+KeyUp 26 1
+Delay 300 ms
+KeyDown 28 1
+Delay 0
+KeyUp 28 1
+Delay 300 ms
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 300 ms
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 23 1
+Delay 0
+KeyUp 23 1
+Delay 300 ms
+KeyDown 28 1
+Delay 0
+KeyUp 28 1
+Delay 0
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 300 ms
+KeyDown 37 1
+Delay 0
+KeyUp 37 1
+Delay 0
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 4 1
+Delay 0
+KeyUp 4 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 26 1
+Delay 0
+KeyUp 26 1
+Delay 0
+KeyDown 4 1
+Delay 0
+KeyUp 4 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 23 1
+Delay 0
+KeyUp 23 1
+Delay 0
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 0
+KeyDown 9 1
+Delay 0
+KeyUp 9 1
+Delay 300 ms
+KeyDown 28 1
+Delay 0
+KeyUp 28 1
+Delay 0
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 0
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 300 ms
+KeyDown 28 1
+Delay 0
+KeyUp 28 1
+Delay 300 ms
+KeyDown 23 1
+Delay 0
+KeyUp 23 1
+Delay 0
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 300 ms
+KeyDown 39 1
+Delay 0
+KeyUp 39 1
+Delay 0
+KeyDown 28 1
+Delay 0
+KeyUp 28 1
+Delay 0
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 300 ms
+KeyDown 35 1
+Delay 0
+KeyUp 35 1
+Delay 0
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 39 1
+Delay 0
+KeyUp 39 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 8 1
+Delay 0
+KeyUp 8 1
+Delay 0
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 0
+KeyDown 9 1
+Delay 0
+KeyUp 9 1
+Delay 300 ms
+KeyDown 21 1
+Delay 0
+KeyUp 21 1
+Delay 300 ms
+KeyDown 23 1
+Delay 0
+KeyUp 23 1
+Delay 0
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 0
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 300 ms
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 0
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 35 1
+Delay 0
+KeyUp 35 1
+Delay 0
+KeyDown 23 1
+Delay 0
+KeyUp 23 1
+Delay 0
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 0
+KeyDown 4 1
+Delay 0
+KeyUp 4 1
+Delay 300 ms
+KeyDown 39 1
+Delay 0
+KeyUp 39 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 0
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 8 1
+Delay 0
+KeyUp 8 1
+Delay 0
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 0
+KeyDown 4 1
+Delay 0
+KeyUp 4 1
+Delay 300 ms
+KeyDown 21 1
+Delay 0
+KeyUp 21 1
+Delay 0
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 300 ms
+KeyDown 23 1
+Delay 0
+KeyUp 23 1
+Delay 300 ms
+KeyDown 21 1
+Delay 0
+KeyUp 21 1
+Delay 300 ms
+KeyDown 8 1
+Delay 0
+KeyUp 8 1
+Delay 300 ms
+KeyDown 39 1
+Delay 0
+KeyUp 39 1
+Delay 300 ms
+KeyDown 38 1
+Delay 0
+KeyUp 38 1
+Delay 0
+KeyDown 12 1
+Delay 0
+KeyUp 12 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 0
+KeyDown 9 1
+Delay 0
+KeyUp 9 1
+Delay 300 ms
+KeyDown 8 1
+Delay 0
+KeyUp 8 1
+Delay 300 ms
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 300 ms
+KeyDown 12 1
+Delay 0
+KeyUp 12 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 8 1
+Delay 0
+KeyUp 8 1
+Delay 300 ms
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 300 ms
+KeyDown 38 1
+Delay 0
+KeyUp 38 1
+Delay 0
+KeyDown 12 1
+Delay 0
+KeyUp 12 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 0
+KeyDown 9 1
+Delay 0
+KeyUp 9 1
+Delay 300 ms
+KeyDown 8 1
+Delay 0
+KeyUp 8 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 0
+KeyDown 10 1
+Delay 0
+KeyUp 10 1
+Delay 300 ms
+KeyDown 28 1
+Delay 0
+KeyUp 28 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 0
+KeyDown 9 1
+Delay 0
+KeyUp 9 1
+Delay 300 ms
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 12 1
+Delay 0
+KeyUp 12 1
+Delay 0
+KeyDown 19 1
+Delay 0
+KeyUp 19 1
+Delay 300 ms
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 26 1
+Delay 0
+KeyUp 26 1
+Delay 0
+KeyDown 28 1
+Delay 0
+KeyUp 28 1
+Delay 0
+KeyDown 12 1
+Delay 0
+KeyUp 12 1
+Delay 0
+KeyDown 4 1
+Delay 0
+KeyUp 4 1
+Delay 300 ms
+KeyDown 4 1
+Delay 0
+KeyUp 4 1
+Delay 300 ms
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 4 1
+Delay 0
+KeyUp 4 1
+Delay 300 ms
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 26 1
+Delay 0
+KeyUp 26 1
+Delay 300 ms
+KeyDown 34 1
+Delay 0
+KeyUp 34 1
+Delay 0
+KeyDown 26 1
+Delay 0
+KeyUp 26 1
+Delay 0
+KeyDown 28 1
+Delay 0
+KeyUp 28 1
+Delay 0
+KeyDown 12 1
+Delay 0
+KeyUp 12 1
+Delay 0
+KeyDown 4 1
+Delay 0
+KeyUp 4 1
+Delay 300 ms
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 300 ms
+KeyDown 34 1
+Delay 0
+KeyUp 34 1
+Delay 300 ms
+KeyDown 35 1
+Delay 0
+KeyUp 35 1
+Delay 300 ms
+KeyDown 36 1
+Delay 0
+KeyUp 36 1
+Delay 300 ms
+KeyDown 37 1
+Delay 0
+KeyUp 37 1
+Delay 0
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 0
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 0
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 300 ms
+KeyDown 26 1
+Delay 0
+KeyUp 26 1
+Delay 300 ms
+KeyDown 23 1
+Delay 0
+KeyUp 23 1
+Delay 300 ms
+KeyDown 28 1
+Delay 0
+KeyUp 28 1
+Delay 300 ms
+KeyDown 24 1
+Delay 0
+KeyUp 24 1
+Delay 300 ms
+KeyDown 18 1
+Delay 0
+KeyUp 18 1
+Delay 300 ms
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 300 ms
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 0 ms
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 0
+KeyDown 9 1
+Delay 0
+KeyUp 9 1
+Delay 0
+KeyDown 11 1
+Delay 0
+KeyUp 11 1
+Delay 0
+KeyDown 29 1
+Delay 0
+KeyUp 29 1
+Delay 0 ms
+KeyDown 7 1
+Delay 0
+KeyUp 7 1
+Delay 0
+KeyDown 29 1
+Delay 0
+KeyUp 29 1
+Delay 0 ms
+KeyDown 22 1
+Delay 0
+KeyUp 22 1
+Delay 0
+KeyDown 15 1
+Delay 0
+KeyUp 15 1
+Delay 0 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

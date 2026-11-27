@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для того чтобы вы могли стоять на АФК в игре и вас не будет кикать.
+Ссылка на видео: https://youtu.be/9EqVsbXDAeg</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 100000 ms
+LeftUp 1
+Delay 1 ms
+LeftDown 1
+Delay 86400000 ms
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

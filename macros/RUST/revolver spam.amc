@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос для спама револьвером. разрешение 2080*1440, FOV 90
+сделан для стрельбы стоя.  чувствительность 0.9 во всех трех пунктах</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 10 ms
+MoveR 0 3
+LeftDown 1
+Delay 10 ms
+MoveR 0 3
+LeftDown 1
+Delay 10 ms
+MoveR 0 3
+LeftDown 1
+Delay 10 ms
+MoveR 0 2
+LeftDown 1
+Delay 10 ms
+MoveR 0 2
+LeftDown 1
+Delay 10 ms
+MoveR 0 2
+LeftDown 1
+Delay 10 ms
+MoveR 0 3
+LeftDown 1
+Delay 10 ms
+MoveR 0 3
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

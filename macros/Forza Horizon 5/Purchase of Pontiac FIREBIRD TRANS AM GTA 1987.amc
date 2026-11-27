@@ -1,0 +1,167 @@
+<Root>
+  <DefaultMacro>
+    <Major>ZloyParkur</Major>
+    <Description>Макрос передназначен для покупки Pontiac FIREBIRD TRANS AM GTA 1987 и для 
+получения с помощью супервиллспина.
+1. Для его работы вам надо быть в своём доме/фестивале
+2. Открываем вкладку Гараж -&gt; Колекция машин
+3. Дальше вам надо сделать так, чтобы перед активацией макроса ваш курсор был активирован на машине Pontiac 1965 GTO
+4. Запускаем макрос на кнопку которую вы назначили.
+
+Для покупки одной машины требуется: 25000 кредитов; 14 автоталантов. = 1 повторение (цикл)
+
+По умолчанию установлено 5 повторений.
+Вы можете настроить макрос на определенное кол-тво циклов (повторений), чтобы не следить за программой. В редакторе макросов поменяйте количество повторений в последней (141-ой) строке. </Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 2669 ms
+KeyDown 79 1
+Delay 130 ms
+KeyUp 79 1
+Delay 273 ms
+KeyDown 79 1
+Delay 113 ms
+KeyUp 79 1
+Delay 262 ms
+KeyDown 79 1
+Delay 114 ms
+KeyUp 79 1
+Delay 596 ms
+KeyDown 88 1
+Delay 86 ms
+KeyUp 88 1
+Delay 776 ms
+KeyDown 81 1
+Delay 116 ms
+KeyUp 81 1
+Delay 512 ms
+KeyDown 88 1
+Delay 94 ms
+KeyUp 88 1
+Delay 1963 ms
+KeyDown 88 1
+Delay 86 ms
+KeyUp 88 1
+Delay 4264 ms
+KeyDown 28 1
+Delay 134 ms
+KeyUp 28 1
+Delay 949 ms
+KeyDown 88 1
+Delay 135 ms
+KeyUp 88 1
+Delay 1455 ms
+KeyDown 88 1
+Delay 126 ms
+KeyUp 88 1
+Delay 738 ms
+KeyDown 88 1
+Delay 145 ms
+KeyUp 88 1
+Delay 14963 ms
+KeyDown 41 1
+Delay 85 ms
+KeyUp 41 1
+Delay 1406 ms
+KeyDown 80 1
+Delay 131 ms
+KeyUp 80 1
+Delay 223 ms
+KeyDown 80 1
+Delay 122 ms
+KeyUp 80 1
+Delay 686 ms
+KeyDown 88 1
+Delay 85 ms
+KeyUp 88 1
+Delay 1257 ms
+KeyDown 79 1
+Delay 108 ms
+KeyUp 79 1
+Delay 329 ms
+KeyDown 79 1
+Delay 136 ms
+KeyUp 79 1
+Delay 471 ms
+KeyDown 81 1
+Delay 106 ms
+KeyUp 81 1
+Delay 679 ms
+KeyDown 88 1
+Delay 126 ms
+KeyUp 88 1
+Delay 2180 ms
+KeyDown 88 1
+Delay 126 ms
+KeyUp 88 1
+Delay 1093 ms
+KeyDown 79 1
+Delay 103 ms
+KeyUp 79 1
+Delay 299 ms
+KeyDown 88 1
+Delay 84 ms
+KeyUp 88 1
+Delay 816 ms
+KeyDown 79 1
+Delay 114 ms
+KeyUp 79 1
+Delay 555 ms
+KeyDown 88 1
+Delay 88 ms
+KeyUp 88 1
+Delay 802 ms
+KeyDown 82 1
+Delay 125 ms
+KeyUp 82 1
+Delay 641 ms
+KeyDown 88 1
+Delay 130 ms
+KeyUp 88 1
+Delay 805 ms
+KeyDown 79 1
+Delay 125 ms
+KeyUp 79 1
+Delay 578 ms
+KeyDown 88 1
+Delay 118 ms
+KeyUp 88 1
+Delay 788 ms
+KeyDown 82 1
+Delay 144 ms
+KeyUp 82 1
+Delay 844 ms
+KeyDown 88 1
+Delay 146 ms
+KeyUp 88 1
+Delay 1922 ms
+KeyDown 41 1
+Delay 112 ms
+KeyUp 41 1
+Delay 2260 ms
+KeyDown 41 1
+Delay 103 ms
+KeyUp 41 1
+Delay 1273 ms
+KeyDown 79 1
+Delay 152 ms
+KeyUp 79 1
+Delay 206 ms
+KeyDown 79 1
+Delay 108 ms
+KeyUp 79 1
+Delay 633 ms
+KeyDown 88 1
+Delay 79 ms
+KeyUp 88 1
+GoWhile 1 5</Syntax>
+    </KeyDown>
+    <Software>Forza Horizon 5</Software>
+  </DefaultMacro>
+</Root>

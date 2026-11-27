@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>sledge ar macro U got 0 recoil</Major>
+    <Description>AR sledge with 1.5 scope, silencer
+-4:3 with 90fov
+-800 DPI
+-4X /4Y
+-ADS x1    : 40
+-ADS x1.5 : 50
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+MoveR 12 30
+Delay 15 ms
+MoveR -3 15
+Delay 15 ms
+MoveR 0 12
+Delay 15 ms
+MoveR 9 24
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

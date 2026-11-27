@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major>MAGIC TRAINING - Duro</Major>
+    <Description>Скрипт на игру MAGIC TRAINING, для Roblox, нажимая на кнопку пишется команда " duro " которая фризит или же замораживает ваших противников.. Автоматическое открытие чата и нажатие ENTER что дает вам огромный буст и преимущество над другими игроками</Description>
+    <Comment>MAGIC TRAINING действуйщий имбовый макрос </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 10 ms
+KeyUp 56 1
+Delay 10 ms
+KeyDown 7 1
+Delay 10 ms
+KeyUp 7 1
+Delay 10 ms
+KeyDown 24 1
+Delay 10 ms
+KeyUp 24 1
+Delay 10 ms
+KeyDown 21 1
+Delay 10 ms
+KeyUp 21 1
+Delay 10 ms
+KeyDown 18 1
+Delay 10 ms
+KeyUp 18 1
+Delay 10 ms
+KeyDown 88 1
+Delay 10 ms
+KeyUp 88 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

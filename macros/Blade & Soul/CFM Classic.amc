@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>
+Макрос на КФМа Classic первая ветка
+
+Рекомендую использовать в режиме "Активен только при нажатии"
+
+В зависимости от пинга необходимо настроить время реакции.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 64 ms
+KeyUp 31 1
+Delay 64 ms
+KeyDown 9 1
+Delay 64 ms
+KeyUp 9 1
+Delay 64 ms
+KeyDown 9 1
+Delay 64 ms
+KeyUp 9 1
+Delay 64 ms</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

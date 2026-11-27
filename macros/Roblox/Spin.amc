@@ -1,0 +1,111 @@
+<Root>
+  <DefaultMacro>
+    <Major>Spin</Major>
+    <Description>Activate this macro script to quickly spin your character in Roblox.
+Only works in 3rd-person camera as 1st-person camera requires the mouse to spin while this macro script uses the keyboard to spin.
+
+To Spin: Activate macro
+To Stop: Deactivate macro (will continue to spin until you stop it)
+
+Screen Resolution: 1920 x 1080
+Game: Roblox
+Works on: Any experience that allows 3-rd person camera.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 30 ms
+KeyUp 7 1
+Delay 6 ms
+KeyDown 4 1
+Delay 30 ms
+KeyUp 26 1
+Delay 60 ms
+KeyDown 22 1
+Delay 43 ms
+KeyDown 7 1
+Delay 9 ms
+KeyUp 4 1
+Delay 42 ms
+KeyUp 22 1
+Delay 69 ms
+KeyDown 26 1
+Delay 56 ms
+KeyDown 4 1
+Delay 42 ms
+KeyUp 7 1
+Delay 112 ms
+KeyUp 26 1
+Delay 82 ms
+KeyDown 22 1
+Delay 42 ms
+KeyUp 4 1
+Delay 42 ms
+KeyDown 7 1
+Delay 42 ms
+KeyUp 22 1
+Delay 76 ms
+KeyDown 26 1
+Delay 52 ms
+KeyUp 7 1
+Delay 3 ms
+KeyDown 4 1
+Delay 56 ms
+KeyUp 26 1
+Delay 59 ms
+KeyDown 22 1
+Delay 44 ms
+KeyDown 7 1
+Delay 23 ms
+KeyUp 4 1
+Delay 26 ms
+KeyUp 22 1
+Delay 69 ms
+KeyDown 26 1
+Delay 86 ms
+KeyUp 7 1
+Delay 1 ms
+KeyDown 4 1
+Delay 51 ms
+KeyUp 26 1
+Delay 55 ms
+KeyDown 22 1
+Delay 59 ms
+KeyUp 4 1
+Delay 3 ms
+KeyDown 7 1
+Delay 59 ms
+KeyUp 22 1
+Delay 68 ms
+KeyDown 26 1
+Delay 65 ms
+KeyDown 4 1
+Delay 9 ms
+KeyUp 7 1
+Delay 75 ms
+KeyUp 26 1
+Delay 41 ms
+KeyDown 7 1
+Delay 20 ms
+KeyDown 22 1
+Delay 43 ms
+KeyUp 4 1
+Delay 39 ms
+KeyUp 22 1
+Delay 55 ms
+KeyDown 26 1
+Delay 69 ms
+KeyUp 7 1
+Delay 45 ms
+KeyDown 4 1
+Delay 62 ms
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

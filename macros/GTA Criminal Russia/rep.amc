@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Rodina rp - автомат.сбор урожая родина рп. зажиаете f3 и фарм пошёл. Подходите к урожаю - зажимаете F3 и урожай собирается в щитаные секунды. Полезно для фармил с фермерским чаем. Этот макрос для Rodina role-play, на других проектах не активен. Заранее включите инкогнито режим приложения для коректной игры нв сервере.ФУЛЛ ВЕРСИЯ
+</Description>
+    <Comment>Rodina rp - автомат.сбор урожая родина рп. зажиаете f3 и фарм пошёл.</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 60 1
+Delay 20
+KeyUp 60 1
+Delay 20</Syntax>
+    </KeyDown>
+    <Software>GTA: Criminal Russia (CRMP)</Software>
+  </DefaultMacro>
+</Root>

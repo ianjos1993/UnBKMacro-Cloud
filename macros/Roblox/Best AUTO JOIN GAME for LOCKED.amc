@@ -1,0 +1,72 @@
+<Root>
+  <DefaultMacro>
+    <Major>Neluaxe</Major>
+    <Description>makes it so that u auto matically join the game and move around a little so that u wont get detected. works best with 1280x1080 res</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 35 1
+Delay 64
+KeyUp 35 1
+Delay 64
+KeyDown 35 1
+Delay 64
+KeyUp 35 1
+Delay 64
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 64
+GoWhile 1 5
+Delay 64 ms
+Delay 64 ms
+KeyDown 16 1
+Delay 64
+KeyUp 16 1
+Delay 64
+KeyDown 37 1
+Delay 64
+KeyUp 37 1
+Delay 64
+KeyDown 37 1
+Delay 64
+KeyUp 37 1
+Delay 64
+KeyDown 37 1
+Delay 64
+KeyUp 37 1
+Delay 64
+KeyDown 36 1
+Delay 64
+KeyUp 36 1
+Delay 64
+KeyDown 35 1
+Delay 64
+KeyUp 35 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64
+GoWhile 1 5</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

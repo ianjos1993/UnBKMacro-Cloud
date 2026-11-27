@@ -1,0 +1,82 @@
+<Root>
+  <DefaultMacro>
+    <Major>macro for pvp</Major>
+    <Description>Макрос для класса Mystic Muse. Автоматическое использование скилов Hydro Blast, Blizzard, Solar Flare, Surrender To Water и Ice Vortex для пвп. На пвп серверах с полным бафом можно спокойно, как и фармить мобов так и драться в пвп. Задержку лучше выбирать минимальную.
+1. Hydro Blast
+2. Blizzard 
+3. Solar Flare
+4. Ice Vortex
+5. Surrender To Water
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 34 1
+Delay 1 ms
+KeyUp 34 1
+Delay 1 ms
+KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+Delay 1 ms
+KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+Delay 1 ms
+KeyDown 32 1
+Delay 1 ms
+KeyUp 32 1
+Delay 1 ms
+KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+Delay 1 ms
+KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+Delay 1 ms
+KeyDown 33 1
+Delay 1 ms
+KeyUp 33 1
+Delay 1 ms
+KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+Delay 1 ms
+KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+Delay 1 ms
+KeyDown 31 1
+Delay 1 ms
+KeyUp 31 1
+Delay 1 ms
+KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+Delay 1 ms
+KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+Delay 1 ms
+KeyDown 32 1
+Delay 1 ms
+KeyUp 32 1
+Delay 1 ms
+KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+Delay 1 ms
+KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

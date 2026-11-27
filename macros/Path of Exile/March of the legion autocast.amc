@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Autocast the 4 auras in your March of the legion boots. Change the interval between clicks depending on your cast speed</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 226 1
+Delay 10 15 ms
+KeyDown 20 1
+Delay 10 30 ms
+KeyUp 20 1
+Delay 580 600 ms
+KeyDown 26 1
+Delay 10 30 ms
+KeyUp 26 1
+Delay 580 600 ms
+KeyDown 8 1
+Delay 25 30 ms
+KeyUp 8 1
+Delay 580 600 ms
+KeyDown 21 1
+Delay 10 30 ms
+KeyUp 21 1
+Delay 10 15 ms
+KeyUp 226 1</Syntax>
+    </KeyDown>
+    <Software>Path of Exile</Software>
+  </DefaultMacro>
+</Root>

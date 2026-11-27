@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>conFL1cT</Major>
+    <Description>Очень полезный макрос для любителей работать мотыгой на полях) Нажмите 1 раз на кнопку - чтобы включить макрос - второй раз, чтобы выключить. ВАЖНО активировать мотыгу с быстрой ячейки, предоствращает поломку мыши и чрезмерное использование сил)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 50 90
+LeftUp 1
+Delay 50 90
+LeftDown 1
+Delay 50 90
+LeftUp 1
+Delay 50 90
+LeftDown 1
+Delay 50 90
+LeftUp 1
+Delay 50 90
+LeftDown 1
+Delay 50 90
+LeftUp 1
+Delay 50 90</Syntax>
+    </KeyDown>
+    <Software>Myth of Empires</Software>
+  </DefaultMacro>
+</Root>

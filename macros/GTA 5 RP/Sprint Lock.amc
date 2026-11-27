@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>Sprint Lock</Major>
+    <Description>Sprint Lock is to run toard ur destination without holding the key of shift and W. Just activate and move your mouse to change direction to far distance you want to go. just like you want to take ur car without paying a taxi cab. this is for you! 
+Just activate and press shift one it'll start the script. to Cancel press deactivate.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+KeyDown 225 1
+Delay 15 min
+KeyUp 26 1
+Delay 64
+Delay 15 min
+KeyUp 225 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

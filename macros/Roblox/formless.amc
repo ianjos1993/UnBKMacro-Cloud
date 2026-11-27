@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос который использует фичу на формлессе с шифтом
+разрешение экрана 1568x1080
+в локеде стоит 0.5 а в роблоксе 1 </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 20 ms
+RightDown 1
+LeftDown 1
+Delay 20 ms
+MoveR 180 0
+MoveR 180 0
+Delay 20 ms
+RightUp 1
+LeftUp 1
+Delay 60 ms
+KeyDown 224 1
+Delay 20 ms
+MoveR 0 -90
+Delay 20 ms
+RightDown 1
+Delay 20 ms
+KeyDown 21 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

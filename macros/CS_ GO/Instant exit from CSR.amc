@@ -1,0 +1,99 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос открывает окно "Выполнить" пишет cmd.exe, потом в командной строке пишет taskkill /f /im csgo.exe и игра закрываеться. ВАЖНО! У вас должна стоять английская раскладка клавиатуры и ставить задержку в соответствии как открывается у вас окно "Выполнить" и командная строка. </Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 227 1
+KeyDown 21 1
+KeyUp 21 1
+KeyUp 227 1
+Delay 20 ms
+KeyDown 6 1
+KeyUp 6 1
+KeyDown 16 1
+KeyUp 16 1
+KeyDown 7 1
+KeyUp 7 1
+KeyDown 55 1
+KeyUp 55 1
+KeyDown 8 1
+KeyUp 8 1
+KeyDown 27 1
+KeyUp 27 1
+KeyDown 8 1
+KeyUp 8 1
+KeyDown 88 1
+KeyUp 88 1
+Delay 120 ms
+KeyDown 23 1
+KeyDown 4 1
+KeyUp 23 1
+KeyUp 4 1
+KeyDown 22 1
+KeyUp 22 1
+KeyDown 14 1
+KeyUp 14 1
+KeyDown 14 1
+KeyUp 14 1
+KeyDown 12 1
+KeyUp 12 1
+KeyDown 15 1
+KeyUp 15 1
+KeyDown 15 1
+KeyUp 15 1
+KeyDown 44 1
+KeyUp 44 1
+KeyDown 56 1
+KeyUp 56 1
+KeyDown 9 1
+KeyUp 9 1
+KeyDown 44 1
+KeyUp 44 1
+KeyDown 56 1
+KeyUp 56 1
+KeyDown 12 1
+KeyUp 12 1
+KeyDown 16 1
+KeyUp 16 1
+KeyDown 44 1
+KeyUp 44 1
+KeyDown 6 1
+KeyUp 6 1
+KeyDown 22 1
+KeyUp 22 1
+KeyDown 10 1
+KeyUp 10 1
+KeyDown 18 1
+KeyUp 18 1
+KeyDown 55 1
+KeyUp 55 1
+KeyDown 8 1
+KeyUp 8 1
+KeyDown 27 1
+KeyUp 27 1
+KeyDown 8 1
+KeyUp 8 1
+KeyDown 88 1
+KeyUp 88 1
+Delay 20 ms
+KeyDown 8 1
+KeyUp 8 1
+KeyDown 27 1
+KeyUp 27 1
+KeyDown 12 1
+KeyUp 12 1
+KeyDown 23 1
+KeyUp 23 1
+KeyDown 88 1
+KeyUp 88 1</Syntax>
+    </KeyDown>
+    <Software>CS: GO</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Практически идеально откалиброванный макрос на M39, пользуйтесь. Для игры RUST.
+При наличии вопросов можете отписаться в соответствующей теме,отвечу.
+
+</Description>
+    <Comment>7helpers.com
+</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 20 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 4
+LeftUp 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

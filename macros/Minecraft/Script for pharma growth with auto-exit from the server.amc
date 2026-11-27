@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major>LordDarkEvil</Major>
+    <Description>Скрипт нужен для Афк фермы Нароста Картофеля Пшеницы и Моркови  на хайпиксель скайблок 
+Скрипт работает так ты бежишь справа на лева, в конце падаешь и бежишь справа налево (Время бега подберается идвидуально) рекомендуемая скорость 115) 
+скрипт повторяет действие бег вправо, бег влево(с нажатием ЛКМ) после чего выходит с сервера
+Количество повторений настраивается идивидуально</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 7 1
+Delay 32 s
+KeyUp 7 1
+Delay 64
+KeyDown 4 1
+Delay 32 s
+KeyUp 4 1
+Delay 64
+GoWhile 2 1560
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 64
+MoveTo 644 425
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

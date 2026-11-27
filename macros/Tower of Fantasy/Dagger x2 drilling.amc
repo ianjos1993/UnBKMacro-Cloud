@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Двойной прыжок с высоким фаст бурением от </Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 70 100 ms
+KeyUp 44 1
+Delay 70 100 ms
+KeyDown 44 1
+Delay 70 100 ms
+KeyUp 44 1
+Delay 100 ms
+KeyDown 20 1
+Delay 70 100 ms
+KeyUp 20 1
+Delay 70 100 ms
+LeftDown 1
+Delay 99 150 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Tower of Fantasy</Software>
+  </DefaultMacro>
+</Root>

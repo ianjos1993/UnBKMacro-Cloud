@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major>Super Zipline Jump</Major>
+    <Description>2 Buttons in 1 Macro for your Zipline Jump can be combine for Mantle Jump 
+
+Need Jump Binded to Mousewheel DOWN
+
+Now just go in Game Run at Full Speed to your next Zipline and use that Macro  now you Jump high Enough to Get into Buildings or Roofs.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 2 ms
+KeyUp 9 1
+Delay 2 ms
+WheelDown 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

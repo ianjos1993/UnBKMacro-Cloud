@@ -1,0 +1,56 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос автоматически вводит команду /getos в Minecraft Bedrock Edition, позволяя мгновенно узнать, с какой операционной системы подключён игрок. Это полезно для администраторов серверов, модераторов и технических специалистов, которые хотят быстро определить платформу (Windows, Android, iOS, Xbox и т. д.) игрока. Быстрое получение информации об ОС игрока одним нажатием.
+Полезно для выявления мобильных и консольных пользователей.
+Упрощает поддержку игроков и настройку серверных правил. 
+
+Инструкция по установке данного макроса:
+
+
+1. Загрузите файл макроса.
+2. 
+Назначьте его на удобную для вас клавишу.
+
+3. Всё готово! Теперь вы всегда будете знать, с какого устройства подключился игрок!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>SetLang en-US
+KeyDown 56 1
+Delay 10
+KeyUp 56 1
+Delay 10
+KeyDown 10 1
+Delay 10
+KeyUp 10 1
+Delay 10
+KeyDown 8 1
+Delay 10
+KeyUp 8 1
+Delay 10
+KeyDown 23 1
+Delay 10
+KeyUp 23 1
+Delay 10
+KeyDown 18 1
+Delay 10
+KeyUp 18 1
+Delay 10
+KeyDown 22 1
+Delay 10
+KeyUp 22 1
+Delay 10
+KeyDown 44 1
+Delay 10
+KeyUp 44 1
+Delay 10</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

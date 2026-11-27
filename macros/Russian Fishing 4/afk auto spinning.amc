@@ -1,0 +1,49 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>ИНСТРУКЦИЯ:
+
+1:Открыть клавиатуру, назначить кнопу для работы макроса.
+
+2:Запустить макрос.
+
+
+СОВЕТЫ ПО ИСПОЛЬЗЫВАНИЮ:
+
+1: Работает на спиннинг ( только на него ).
+
+2: Не ставте фрикцыонный тормоз на максимум (может сломать катушку)
+
+3: Скорость подмотки от 12-∞</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 3 s
+KeyDown 225 1
+Delay 1 s
+KeyUp 225 1
+Delay 10 ms
+LeftUp 1
+Delay 3 s
+LeftDown 1
+Delay 80 s
+LeftUp 1
+Delay 30 ms
+RightDown 1
+Delay 5 s
+RightUp 1
+Delay 1 s
+KeyDown 44 1
+Delay 10 ms
+KeyUp 44 1
+Delay 5 s</Syntax>
+    </KeyDown>
+    <Software>Russian Fishing 4</Software>
+  </DefaultMacro>
+</Root>

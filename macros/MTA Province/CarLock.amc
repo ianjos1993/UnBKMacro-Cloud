@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Позволяет открывать и закрывать двери авто через Tab по нажатию назначенной вами клавиши. Ни может быть наказуемо. 1920x1080</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 150 ms
+MoveTo 967 352
+LeftDown 1
+Delay 64
+LeftUp 1
+KeyUp 43 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

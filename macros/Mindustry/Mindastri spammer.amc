@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот файл создан для мода на игру миндастри shem size для спама создаными ракeтами для уничтожeниe волн идеалное разрешение экрана 1920 × 1080 ипользовать спамер толко когда игра в режиме окна</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 226 1
+KeyDown 59 1
+Delay 64
+KeyUp 59 1
+Delay 64
+KeyUp 226 1
+MoveR -546 17
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveR -595 -426
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+GoWhile 1 100</Syntax>
+    </KeyDown>
+    <Software>Mindustry</Software>
+  </DefaultMacro>
+</Root>

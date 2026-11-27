@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Destroyer R+T combo 
+
+For DESTROYER’s left-click skill, we only need to use Bone Shaving (R) (if you click more, you can release other unrelated skills)
+
+Next, let’s quickly insert and destroy (T) in the bone-cutting (R), infinite RTRT... keep going.
+
+If you press Milling (R) or Destruction (T) too many times, the cycle may be messed up.
+
+In addition, we also need a back-to-back weapon, which when combined can give the warrior unlimited card attack cycles!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 220 ms
+KeyUp 21 1
+Delay 150 ms
+KeyDown 23 1
+Delay 250 ms
+KeyUp 23 1</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

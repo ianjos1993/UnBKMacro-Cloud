@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>Grand Ticket Auto Search</Major>
+    <Description>Auto Search For Grand ticket Press G and 2 and 3 automatic best bot for search just afk and search player for get grand ticket</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+Delay 600 ms
+KeyUp 10 1
+Delay 300 ms
+KeyDown 31 1
+Delay 600 ms
+KeyUp 31 1
+Delay 300 ms
+KeyDown 32 1
+Delay 600 ms
+KeyUp 32 1
+Delay 300 ms
+KeyDown 41 1
+Delay 600 ms
+KeyUp 41 1
+Delay 300 ms
+GoWhile 1 500</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

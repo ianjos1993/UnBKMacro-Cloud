@@ -1,0 +1,97 @@
+<Root>
+  <DefaultMacro>
+    <Major>King Sample Combo</Major>
+    <Description>Макрос позволяет выполнять комбо за King с лаунчера.
+Видео демонстрации работы макроса: https://youtu.be/i8ZE_dEr8Fg
+
+King — имя, которое носили двое персонажей из серии игр Tekken. Даже несмотря на то, что так называются два разных бойца, в соответствующей игре каждый из них называется просто Кинг, хотя иногда им даётся порядковый номер, чтобы отделить их как разных персонажей (равно как и Армор Кингов). И Кинг I, и Кинг II являются лучадорами из Мексики и поддерживают сирот по всему миру. В играх их невозможно увидеть без их масок ягуаров. Кинг (технически как два разных человека) появился во всех основных играх Tekken, что делает его одним из самых узнаваемых персонажей серии. В своем арсенале он имеет огромный запас рестлерских приемов различной степени сложности. Кинг входит в список лучших рестлеров в видеоиграх под номером пять.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 15.02.2024
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#kingtekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 6 ms
+KeyDown 26 1
+Delay 32 ms
+KeyDown 77 1
+Delay 296 ms
+KeyUp 7 1
+Delay 15 ms
+KeyUp 26 1
+Delay 16 ms
+KeyUp 77 1
+Delay 279 ms
+KeyDown 27 1
+Delay 95 ms
+KeyUp 27 1
+Delay 63 ms
+KeyDown 27 1
+Delay 72 ms
+KeyUp 27 1
+Delay 72 ms
+KeyDown 27 1
+Delay 79 ms
+KeyUp 27 1
+Delay 151 ms
+KeyDown 27 1
+Delay 95 ms
+KeyUp 27 1
+Delay 143 ms
+KeyDown 27 1
+Delay 96 ms
+KeyUp 27 1
+Delay 96 ms
+KeyDown 27 1
+Delay 87 ms
+KeyUp 27 1
+Delay 95 ms
+KeyDown 27 1
+Delay 103 ms
+KeyUp 27 1
+Delay 104 ms
+KeyDown 27 1
+Delay 96 ms
+KeyUp 27 1
+Delay 103 ms
+KeyDown 27 1
+Delay 96 ms
+KeyUp 27 1
+Delay 103 ms
+KeyDown 27 1
+Delay 80 ms
+KeyUp 27 1
+Delay 80 ms
+KeyDown 27 1
+Delay 87 ms
+KeyUp 27 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

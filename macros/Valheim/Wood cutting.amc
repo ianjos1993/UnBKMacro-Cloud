@@ -1,0 +1,64 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Прокачка навыка рубки древесины.
+
+1. Найти дерево которое не ломается кремниевым топором. (Дуб, берёза и т.д.).
+2. Быть возле костра.
+3. Подойти к примеру к Дубу и начать рубить его кремниевым топором.
+3. Запустить Макрос.
+
+Кол-во выносливости не важно. Задержка такая, что выносливость будет восстанавливаться быстрей, чем тратится. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 1000
+LeftUp 1
+Delay 1000
+LeftDown 1
+Delay 1000
+LeftUp 1
+Delay 1000
+LeftDown 1
+Delay 1000
+LeftUp 1
+Delay 1000
+LeftDown 1
+Delay 1000
+LeftUp 1
+Delay 1000
+LeftDown 1
+Delay 1000
+LeftUp 1
+Delay 1000
+LeftDown 1
+Delay 1000
+LeftUp 1
+Delay 1000
+LeftDown 1
+Delay 1000
+LeftUp 1
+Delay 1000
+LeftDown 1
+Delay 1000
+LeftUp 1
+Delay 1000
+LeftDown 1
+Delay 1000
+LeftUp 1
+Delay 1000
+LeftDown 1
+Delay 1000
+LeftUp 1
+Delay 1000
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Valheim</Software>
+  </DefaultMacro>
+</Root>

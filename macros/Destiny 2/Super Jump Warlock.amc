@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>Allow Warlock to do super jump</Major>
+    <Description>This is to allow warlock to do super jump with just 1 click. You will need to be a fire warlock to use it and you need to select under fire as your mega power to be able to use this correctly. This requires a height difference so would recommand you stand on somewhere higher and get close to the edge. Then enjoy your fly across the map!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 50
+KeyUp 32 1
+Delay 400 ms
+RightDown 1
+Delay 50
+RightUp 1
+Delay 30 ms
+KeyDown 44 1
+Delay 50
+KeyUp 44 1
+Delay 30 ms
+KeyDown 25 1
+Delay 50
+KeyUp 25 1
+Delay 30 ms
+KeyDown 44 1
+Delay 50
+KeyUp 44 1
+Delay 50</Syntax>
+    </KeyDown>
+    <Software>Destiny 2</Software>
+  </DefaultMacro>
+</Root>

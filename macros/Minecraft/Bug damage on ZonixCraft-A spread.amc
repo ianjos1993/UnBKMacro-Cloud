@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Баг урон на ZOnixCraft.
+1 меч которым бьем
+4 меч которым баг уроните
+Удачи на пвп бойцы -10 в спину залетит убиваешь за 4-5 сек</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+Delay 1 ms
+LeftDown 1
+Delay 11 ms
+LeftUp 1
+Delay 11 ms
+LeftDown 1
+Delay 7 ms
+LeftUp 1
+Delay 7 ms
+LeftDown 1
+Delay 4 ms
+LeftUp 1
+Delay 4 ms
+KeyDown 33 1
+Delay 1 ms
+KeyUp 33 1
+Delay 1 ms
+LeftDown 1
+Delay 13 ms
+LeftUp 1
+Delay 13 ms
+LeftDown 1
+Delay 8 ms
+LeftUp 1
+Delay 8 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

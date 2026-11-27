@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>A macro designed to bring ease to supergliding
+
+1. Set macro to C
+2. In apex set crouch to C
+
+AND DONE!!! have fun!!!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 1 ms
+KeyUp 44 1
+Delay 1 ms
+KeyDown 224 1
+Delay 4 ms
+KeyUp 224 1
+Delay 5 ms
+KeyDown 224 1
+Delay 5 ms
+KeyUp 224 1
+Delay 6 ms
+KeyDown 44 1
+Delay 5 ms
+KeyUp 44 1
+Delay 3 ms</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

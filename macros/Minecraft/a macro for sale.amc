@@ -1,0 +1,59 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос автоматический продаёт вещи селлеру/скупщику 
+макрос был написан на сервер gribland но может подойти к любому серверу с /sell all
+он прописывает данну команду с небольшим кд чтобы не кикало за спам</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 200 ms
+KeyDown 56 1
+Delay 20 ms
+KeyUp 56 1
+Delay 20 ms
+KeyDown 22 1
+Delay 20 ms
+KeyDown 8 1
+Delay 20 ms
+KeyUp 22 1
+Delay 20 ms
+KeyUp 8 1
+Delay 20 ms
+KeyDown 15 1
+Delay 20 ms
+KeyUp 15 1
+Delay 20 ms
+KeyDown 15 1
+Delay 20 ms
+KeyUp 15 1
+Delay 20 ms
+KeyDown 44 1
+Delay 20 ms
+KeyUp 44 1
+Delay 20 ms
+KeyDown 4 1
+Delay 20 ms
+KeyUp 4 1
+Delay 20 ms
+KeyUp 15 1
+Delay 20 ms
+KeyDown 15 1
+Delay 20 ms
+KeyUp 15 1
+Delay 20 ms
+KeyDown 88 1
+Delay 20 ms
+KeyDown 15 1
+Delay 20 ms
+KeyUp 88 1
+Delay 200 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

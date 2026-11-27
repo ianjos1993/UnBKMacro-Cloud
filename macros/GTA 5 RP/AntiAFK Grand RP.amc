@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос позволят не быть в афк в GTA V RP server Grand 
+
+Вы 2 сек идёте просто вперёд затем 2 сек назат. Открываете телефон стоите 1 мин, закрываете телефон и 5 мин стоите потом по новой.
+
+Советую стоять в безлюдных местах либо у себя дома. Очень просто макрос, но очень силбно помогает для фарма.
+
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 2 s
+KeyUp 26 1
+Delay 10 s
+KeyDown 22 1
+Delay 2 s
+KeyUp 22 1
+KeyDown 14 1
+KeyUp 14 1
+Delay 60 s
+KeyDown 41 1
+KeyUp 41 1
+Delay 5 min
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

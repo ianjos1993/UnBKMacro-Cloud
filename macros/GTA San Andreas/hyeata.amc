@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>Быстпый бег для SAMP`a</Major>
+    <Description>
+                                                                         !Правила установки макроса!
+1. Скачиваем данный макрос.
+2. Выбираем кнопку мыши или клавиши на которой будет работать макрос.
+3. Нажимаем на вкладку "Присвоить AMC макрос".
+4. Выбираем макрос "hyeata".
+5. Далее заходим во вкладку "Режим работы"
+6. Выбираем как вам удобно будет использовать его.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 75
+KeyUp 44 1
+Delay 75
+KeyDown 44 1
+Delay 75
+KeyUp 44 1
+Delay 75
+KeyDown 44 1
+Delay 75
+KeyUp 44 1
+Delay 75</Syntax>
+    </KeyDown>
+    <Software>GTA San Andreas</Software>
+  </DefaultMacro>
+</Root>

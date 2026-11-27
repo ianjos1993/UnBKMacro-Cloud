@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос сделан для пвп в халитках з4
+Но и так же можно пвп в не чарках.
+Приятного использования</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+Delay 1 ms
+LeftDown 1
+Delay 14 ms
+LeftUp 1
+Delay 14 ms
+LeftDown 1
+Delay 8 ms
+LeftUp 1
+Delay 8 ms
+LeftDown 1
+Delay 4 ms
+LeftUp 1
+Delay 4 ms
+KeyDown 32 1
+Delay 1 ms
+KeyUp 32 1
+Delay 1 ms
+RightDown 1
+Delay 13 ms
+RightUp 1
+Delay 13 ms
+RightDown 1
+Delay 13 ms
+RightUp 1
+Delay 13 ms</Syntax>
+    </KeyDown>
+    <Software>HCS</Software>
+  </DefaultMacro>
+</Root>

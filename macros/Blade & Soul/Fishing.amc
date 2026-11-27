@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Позволяет использовать не автаматическую наживку автоматически.
+Иснструкция-----------------------------------------
+1.Поместите наживку в  5 слот.
+2.Активировать макрос.
+Примечание------------------------------------------
+Макрос работает не идельно из 100 наживок было поймано 93 рыбы, т.к время ловли варьируются от 17 да 26 секунд, макрос ипользует оптимальную задержку для максимальной шанса  ловли рыбы.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 34 1
+Delay 50 ms
+KeyUp 34 1
+Delay 22800 ms
+KeyDown 9 1
+Delay 50 ms
+KeyUp 9 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

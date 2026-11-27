@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Здраствуйте дорогие макросеры, хочу предоставить вам отличный макрос для VimeWorld .
+Особеность  етого макроса , вы сможете отлично играть в скай варс т.к. етот макрос хорошо заводит в комбо.
+1.скачиваем макрос.
+2.открываем вкладку A4tech, нажимаем добавить файл и проводим путь к скачаному макросу, затем нажимаем ОК
+3. открываем вкладку "клавиши" и стави любую подходящую букву для бинда макроса.
+4.заходи на сервер и наслождаемся игрой.
+5.всем хорошего настроение , и лучшей комбы.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+LeftDown 1
+Delay 8 ms
+LeftUp 1
+Delay 8 ms
+LeftDown 1
+Delay 7 ms
+LeftUp 1
+Delay 6 ms
+LeftDown 1
+Delay 11 ms
+LeftUp 1
+Delay 12 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

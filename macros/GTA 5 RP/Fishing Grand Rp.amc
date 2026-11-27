@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос используется на проекте Grand Role Play
+
+Данный макрос позволяет фармить рыбой и не поподать под афк тем самым фармить зп.
+
+При использовании макроса не надо переключаться между экранами </Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 7000 ms
+KeyUp 8 1
+Delay 7000 ms
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

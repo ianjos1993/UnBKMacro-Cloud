@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Point Blank Shotgun automatic macros
+bind to your right click mouse, usually point blank shotgun player bind into right click
+enjoy the macros
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+KeyDown 32 1
+Delay 7 ms
+KeyDown 20 1
+Delay 7 ms
+KeyDown 30 1
+Delay 7 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major>macro ak 2.0 high sens</Major>
+    <Description>this macro for ak47 work only with high sens and dpi 1200
+sens 1.2+
+fov90
+dpi 1200-1400
+1920x1080
+
+enjoy the macro and support me thanks</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 40 ms
+MoveR 4 50
+Delay 40 ms
+MoveR 5 45
+Delay 40 ms
+MoveR 4 50
+Delay 40 ms
+MoveR 5 45
+Delay 40 ms
+MoveR 6 49
+Delay 40 ms
+MoveR 5 46
+Delay 40 ms
+MoveR 6 48
+Delay 40 ms
+LeftUp 1
+Delay 40 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

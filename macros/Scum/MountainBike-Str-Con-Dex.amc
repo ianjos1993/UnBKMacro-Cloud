@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>MountainBike-Str-Con-Dex</Major>
+    <Description>This will level up your Strenght, Constitution and Dexterity
+
+
+1. Get your character heavy. (put logs, rocks or gravel bags)
+2. Eat and drink (Foods with lots of Protein help too)
+3. Get your MountainBike and find a field that its generally straight.
+4. Run the macro. Your character will cycle in circles for 60 min. 
+(Note that your character will get hungry before the 60min!)
+Tip: Keep your food between 50% to 20% for passive Dex points.
+
+Enjoy</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+KeyDown 4 1
+Delay 60 min
+KeyUp 4 1
+KeyUp 26 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Scum</Software>
+  </DefaultMacro>
+</Root>

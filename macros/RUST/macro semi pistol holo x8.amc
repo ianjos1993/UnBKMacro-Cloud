@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major>semi pistol holo x8</Major>
+    <Description>this is the best macro for semi pistol with holo x8, you will be the best with this pistol from long distance
+1920 x 1080
+fov 90
+dpi 1350
+sens 0.5
+
+enjoy the best macros on keyran!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 49 ms
+MoveR 0 -37
+Delay 49 ms
+MoveR 0 -39
+Delay 49 ms
+MoveR 0 -38
+Delay 49 ms
+MoveR 0 -36
+Delay 49 ms
+MoveR 0 -36
+Delay 49 ms
+MoveR 0 -37
+Delay 49 ms
+MoveR 0 -37
+Delay 49 ms
+LeftUp 1
+Delay 49 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

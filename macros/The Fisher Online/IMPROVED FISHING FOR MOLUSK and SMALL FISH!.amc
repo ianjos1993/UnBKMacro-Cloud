@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Вообщем можно ловить мелку рыбку, молюска , рака и пьявку! вполне не заменимая вещь для ловли крафтовой наживки!!!!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 100 ms
+KeyUp 30 1
+Delay 100 ms
+KeyDown 225 1
+Delay 100 ms
+LeftDown 1
+Delay 100 ms
+RightDown 1
+Delay 10000 ms
+LeftUp 1
+Delay 100 ms
+RightUp 1
+Delay 100 ms
+KeyUp 225 1
+Delay 500 ms
+KeyDown 44 1
+Delay 100 ms
+KeyUp 44 1
+Delay 100 ms
+KeyDown 23 1
+Delay 100 ms
+KeyUp 23 1
+Delay 4000 ms
+KeyDown 28 1
+Delay 100 ms
+KeyUp 28 1
+Delay 3000 ms</Syntax>
+    </KeyDown>
+    <Software>The Fisher Online</Software>
+  </DefaultMacro>
+</Root>

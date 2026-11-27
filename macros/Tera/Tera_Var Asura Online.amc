@@ -1,0 +1,131 @@
+<Root>
+  <DefaultMacro>
+    <Major>15М - 25М</Major>
+    <Description>Макрос написан только для Вара (Воина). 
+Основные его атакующие умения, это умения воина: Режущий удар 25% - 53М, Рваная рана 22% - 48М и Коса 20% - 40М. 
+При этом: 
+- Режущий удар, надо ставить на клавишу - 3, 
+- Косу на клавишу - 4. 
+- Рваная рана на клавишу 2.
+Второй порядок клавиш макроса можете расставить по желанию, у меня это (в процентном соотношении от 100% урона)
+- Град ударов 14%
+- Двойной танец с мечами 10%
+- Нарастающая ярость 4% (альтернатива - Удар воина)
+- Отравленный клинок 2%
+
+Все эти умения второго порядка накапливают /преимушество воина/. И при запуске макроса (с уячотом ротации) выдают, /преимущество воина/ для Косы - 10 порядков для Режущего удара 8 порядков. 
+
+Все умения, за исключением /рваной раны/ должны проходить с полной анимацией (не слушайте никаких горе воинов которые режут ее) Или "типа" режут)).
+
+Макрос не выдаст нормального ДД если в Талантах воина не будет прокачено;
+- Коса 100%
+- Рваная рана 100%
+- Смертельная игра два таланта 100%
+
+Глифы расписывать здесь не буду. Основной принцип сокращение времени каста. 
+
+Как то так. Удачи тебе воин. 
+
+И жирных боссов)))
+
+  </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 58 1
+Delay 164 180
+KeyUp 58 1
+Delay 164 180
+KeyDown 59 1
+Delay 164 180
+KeyUp 59 1
+Delay 164 180
+KeyDown 59 1
+Delay 164 180
+KeyUp 59 1
+Delay 164 180
+KeyDown 59 1
+Delay 164 180
+KeyUp 59 1
+Delay 164 180
+KeyDown 60 1
+Delay 564 ms
+KeyUp 60 1
+Delay 764 ms
+KeyDown 60 1
+Delay 564 ms
+KeyUp 60 1
+Delay 564 ms
+KeyDown 30 1
+Delay 542 ms
+KeyUp 30 1
+Delay 537 ms
+KeyDown 30 1
+Delay 542 ms
+KeyUp 30 1
+Delay 537 ms
+KeyDown 31 1
+Delay 164 180
+KeyUp 31 1
+Delay 666 ms
+KeyDown 32 1
+Delay 529 ms
+KeyUp 32 1
+Delay 580 ms
+KeyDown 32 1
+Delay 529 ms
+KeyUp 32 1
+Delay 580 ms
+KeyDown 58 1
+Delay 164 180
+KeyUp 58 1
+Delay 164 180
+KeyDown 59 1
+Delay 164 180
+KeyUp 59 1
+Delay 164 180
+KeyDown 59 1
+Delay 164 180
+KeyUp 59 1
+Delay 164 180
+KeyDown 59 1
+Delay 164 180
+KeyUp 59 1
+Delay 164 180
+KeyDown 60 1
+Delay 564 ms
+KeyUp 60 1
+Delay 764 ms
+KeyDown 60 1
+Delay 564 ms
+KeyUp 60 1
+Delay 564 ms
+KeyDown 61 1
+Delay 164 180
+KeyUp 61 1
+Delay 164 180
+KeyDown 30 1
+Delay 542 ms
+KeyUp 30 1
+Delay 537 ms
+KeyDown 30 1
+Delay 542 ms
+KeyUp 30 1
+Delay 537 ms
+KeyDown 31 1
+Delay 164 180
+KeyUp 31 1
+Delay 666 ms
+KeyDown 33 1
+Delay 164 180
+KeyUp 33 1
+Delay 999 ms</Syntax>
+    </KeyDown>
+    <Software>Тера Асура Онлайн</Software>
+  </DefaultMacro>
+</Root>

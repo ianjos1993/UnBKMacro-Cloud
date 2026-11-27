@@ -1,0 +1,85 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Последоваельное сохранение большого числа графических файлов, открытых в Photoshop, в формате JPG с заменой существующих фалов.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyUp 224 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 1 s
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 1 s
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 1 s
+KeyDown 80 1
+Delay 64
+KeyUp 80 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 1 s
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+GoWhile 1 15</Syntax>
+    </KeyDown>
+    <Software>Adobe Photoshop</Software>
+  </DefaultMacro>
+</Root>

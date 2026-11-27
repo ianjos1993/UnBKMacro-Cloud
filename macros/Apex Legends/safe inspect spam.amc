@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>Easy inspect spam melee</Major>
+    <Description>Hello , added my own spin on a inspect spam macro i saw , by playing around with the delay and adding a small loop. Use:
+Map this to a button like F and have it refference another bind like N where your in-game bind for inspecting a weapon is. So you can use F for inspect spamming and N for actual inspect animations.
+
+Nice with heirlooms like raptor claw and wraith's kunai , because pressing it once spins it 5 times but with a small delay so that if you have to swap back to your weapon you arent stuck spamming inspect.
+
+The delay times that work for me are : 
+Wraith's kunai 130ms
+Raptor claw 100ms
+(Can't test other heirlooms since i don't own them)
+
+Default is 130 so that you can use it with both although i would suggest trying 100ms if you are gonna be using it with the raptor claw. 
+
+Cycle by default is 5 , again , feel free to play around and see what works for you but 5 for me is a good midle ground. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 17 1
+Delay 120 ms
+KeyUp 17 1
+Delay 120 ms
+GoWhile 1 5</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

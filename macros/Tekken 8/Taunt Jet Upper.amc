@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major>Bryan Fury's Taunt Jet Upper (LEFT SIDE)</Major>
+    <Description>This is a macro for Bryan Fury's iconic taunt, which is great for putting pressure on an opponent against a wall in Tekken 8. This script works with a high probability of successful triggers, giving you an advantage in battle. To set up the macro correctly, follow the steps for key binding:
+
+ In the keyboard settings of the game Tekken 8:
+   - I = Triangle / Y / Input 2
+   - O = Circle / B / Input 4
+   - J = Square / X / Input 1
+   - K = X / A / Input 3
+
+After that, go to the controller settings and assign the U button to the combination 1+3+4 (the button for the taunt). Make sure that all the settings are correct, and then this macro will function flawlessly! Please note that it only works on the left side of the screen.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 24 1
+Delay 440 ms
+KeyUp 24 1
+Delay 24 ms
+KeyDown 7 1
+Delay 13 ms
+KeyUp 7 1
+Delay 14 ms
+KeyDown 4 1
+Delay 1 ms
+KeyDown 12 1
+Delay 18 ms
+KeyUp 12 1
+Delay 22 ms
+KeyUp 4 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,55 @@
+<Root>
+  <DefaultMacro>
+    <Major>double edit для нового редакта by каспи чапчик</Major>
+    <Description>Главное: X - пол, C - лестница, V - крыша.
+
+Как работает?
+Вам надо держать прицел под определенным углом и найти для себя тайминг чтобы по очереди спамить клавишу редакта и клавишу макроса.
+У меня: Mouse5 - макрос, F - редакт.
+
+Привыкните поиграв во FREE BUILD пол часа.
+
+Если перебарщивать с прокликиванием может получаться криво, но опять же. Поиграв - привыкните.
+
+macros by каспи чапчик</Description>
+    <Comment>Главное: X - пол, C - лестница, V - крыша.
+
+Как работает?
+Вам надо держать прицел под определенным углом и найти для себя тайминг чтобы по очереди спамить клавишу редакта и клавишу макроса.
+У меня: Mouse5 - макрос, F - редакт.
+
+Привыкните поиграв во FREE BUILD пол часа.
+
+Если перебарщивать с прокликиванием может получаться криво, но опять же. Поиграв - привыкните.
+
+macros by каспи чапчик</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 20 ms
+KeyDown 6 1
+Delay 40 ms
+KeyUp 6 1
+Delay 20 ms
+KeyDown 25 1
+Delay 40 ms
+KeyUp 25 1
+Delay 20 ms
+KeyDown 27 1
+Delay 40 ms
+KeyUp 27 1
+Delay 20 ms
+LeftUp 1
+KeyDown 6 1
+Delay 20 ms
+KeyUp 6 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

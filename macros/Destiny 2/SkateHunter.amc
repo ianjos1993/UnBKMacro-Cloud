@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Позволяет "скользить" на мече
+Вам нужен: Подкласс Стазисного охотника и аспект "Раскалывающее пике"(по умолчанию на X), меч "Полуправда" или "Вторая половина" с перком "Резвый клинок"экипированный в третий слот
+Встаньте на край, активируйте макрос и летите вперёд!=)</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 87 ms
+KeyUp 32 1
+Delay 183 ms
+KeyDown 26 1
+Delay 280 ms
+RightDown 1
+Delay 31 ms
+KeyDown 44 1
+Delay 135 ms
+KeyDown 27 1
+Delay 23 ms
+KeyUp 44 1
+Delay 32 ms
+RightUp 1
+Delay 87 ms
+KeyUp 27 1</Syntax>
+    </KeyDown>
+    <Software>Destiny 2</Software>
+  </DefaultMacro>
+</Root>

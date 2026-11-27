@@ -1,0 +1,59 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>How to Use
+Bind the macro to any key
+
+Align your car so the ball is level with your windshield
+
+Press the macro key once
+
+Stop touching controls until the move finishes
+
+Important Notes
+Works only if:
+
+Game runs at 360 FPS
+
+Ping stays below 70
+
+Test in free play first
+
+Do NOT press other buttons while active. Let go of controls completely.
+
+Enjoy XD</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+RightDown 1
+Delay 150 ms
+RightUp 1
+Delay 150 ms
+KeyUp 7 1
+Delay 12 ms
+KeyDown 8 1
+KeyDown 22 1
+Delay 50 ms
+KeyUp 8 1
+Delay 50 ms
+KeyUp 22 1
+Delay 12 ms
+KeyDown 4 1
+KeyDown 22 1
+Delay 12 ms
+RightDown 1
+Delay 12 ms
+RightUp 1
+Delay 12 ms
+KeyUp 22 1
+KeyUp 4 1</Syntax>
+    </KeyDown>
+    <Software>Rocket League</Software>
+  </DefaultMacro>
+</Root>

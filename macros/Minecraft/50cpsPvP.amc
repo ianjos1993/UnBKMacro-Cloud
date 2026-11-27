@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос позволит вам кликать со скоростью 50cps.Идеально подходит под PvP или PvE.Можно спокойно использовать на официальных серверах,так как макросы не являются читами.Работает лучше если поставить режим:выполнять пока клавиша нажата.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 6 ms
+LeftUp 1
+Delay 6 ms
+LeftDown 1
+Delay 6 ms
+LeftUp 1
+Delay 6 ms
+LeftDown 1
+Delay 6 ms
+LeftUp 1
+Delay 6 ms
+LeftDown 1
+Delay 6 ms
+LeftUp 1
+Delay 6 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

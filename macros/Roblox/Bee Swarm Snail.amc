@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос для афк убийства улитки, настроенный на переодическое движение для избежания вылета за бездействие</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 26 1
+Delay 128
+KeyUp 26 1
+Delay 2048 ms
+KeyDown 4 1
+Delay 128
+KeyUp 4 1
+Delay 2048 ms
+KeyDown 22 1
+Delay 128
+KeyUp 22 1
+Delay 2048 ms
+KeyDown 7 1
+Delay 128
+KeyUp 7 1
+Delay 16384 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

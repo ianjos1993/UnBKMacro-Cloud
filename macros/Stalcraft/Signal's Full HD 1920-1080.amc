@@ -1,0 +1,64 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Переписанный макрос Для кнопки (X)
+Бинд ставьте на любую удобную кнопку но я лично вам советую его ставить на (СКМ - Среднюю кнопку мыши)
+
+Разрешение 1920-1080
+
+макрос Переписывался 1 раз могут быть недочеты 
+
+макрос теститься 
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 27 1
+Delay 120 350 ms
+KeyUp 27 1
+MoveTo 1079 785
+Delay 10 ms
+LeftDown 1
+Delay 10
+LeftUp 1
+GoColor 19 0 42,64,38 255,255,255 1 689 790 999 291 1 0
+Delay 50 90 ms
+GoColor 19 0 42,64,38 255,255,255 1 689 790 999 291 1 0
+Delay 50 90 ms
+GoColor 19 0 42,64,38 255,255,255 1 689 790 999 291 1 0
+KeyDown 27 1
+Delay 190 230 ms
+KeyUp 27 1
+Delay 63 350 ms
+Goto 1
+MoveTo 1079 785
+LeftDown 1
+Delay 10
+LeftUp 1
+Delay 10
+Delay 10
+LeftDown 1
+Delay 10
+MoveTo 1344 783
+LeftUp 1
+Delay 10
+MoveTo 731 487
+Delay 10
+LeftDown 1
+Delay 10
+LeftUp 1
+Delay 10
+MoveTo 625 581
+LeftDown 1
+Delay 10
+LeftUp 1
+Delay 10</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

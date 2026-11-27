@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Удочку биндим на клавишу =. Запасаемся наживкой, встаём на место ловли рыбы и включаем макрос. Далее наблюдаем, раз в 20 рыб просит ввести капчу. Следим за количеством места  в инвентаре, что бы рыба не выпадала на землю. 
+Протестирвоано на разрешении 1440х900, если разрешение иное, подправить положение мышки. Она должна находиться точно над нарисованной левой кнопкой мыши при шкале поимки.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 815 755
+Delay 50 ms
+KeyDown 46 1
+Delay 50 ms
+KeyUp 46 1
+Delay 50 ms
+KeyDown 46 1
+Delay 50 ms
+KeyUp 46 1
+Delay 50 ms
+GoColor 16 0 193,0,0 255,255,255 0 1053 903 1 1 1 0
+LeftDown 1
+Delay 2 12 ms
+LeftUp 1
+Delay 2 12 ms
+GoColor 7 0 193,193,193 221,229,242 0 1053 903 1 1 1 0</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

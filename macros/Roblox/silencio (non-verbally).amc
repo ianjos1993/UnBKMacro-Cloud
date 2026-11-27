@@ -1,0 +1,70 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>The script is intended for use in Magic Training mode. Casts the Silencio spell.
+
+The opponent cannot cast a spell for a short time</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 10 ms
+KeyUp 56 1
+Delay 10 ms
+KeyDown 56 1
+Delay 10
+KeyUp 56 1
+Delay 10
+KeyDown 8 1
+Delay 10
+KeyUp 8 1
+Delay 10
+KeyDown 44 1
+Delay 10
+KeyUp 44 1
+Delay 10
+KeyDown 22 1
+Delay 10
+KeyUp 22 1
+Delay 10
+KeyDown 12 1
+Delay 10
+KeyUp 12 1
+Delay 10
+KeyDown 15 1
+Delay 10
+KeyUp 15 1
+Delay 10
+KeyDown 8 1
+Delay 10
+KeyUp 8 1
+Delay 10
+KeyDown 17 1
+Delay 10
+KeyUp 17 1
+Delay 10
+KeyDown 6 1
+Delay 10
+KeyUp 6 1
+Delay 10
+KeyDown 12 1
+Delay 10
+KeyUp 12 1
+Delay 10
+KeyDown 18 1
+Delay 10
+KeyUp 18 1
+Delay 10
+KeyDown 40 1
+Delay 10 ms
+KeyUp 40 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

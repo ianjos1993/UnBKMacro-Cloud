@@ -1,0 +1,312 @@
+<Root>
+  <DefaultMacro>
+    <Major>Solo Leveling: ARISE OVERDRIVE Semi-AFK Farm Macro [Offline Only]</Major>
+    <Description>Semi-AFK макрос для Solo Leveling: ARISE OVERDRIVE, разработанный для автоматического прохождения стадии с бесконечным циклом фарма и автоповтором сражений.
+
+
+Тестирование проводилось на следующей конфигурации:
+
+Steam версия игры → Настройки:
+
+1.Разрешение: 1920x1080;
+2.Качество графики: Medium.
+
+Конфигурация системы:
+
+1.GPU: NVIDIA GeForce GTX 1660TI 6GB;
+2.RAM: 32GB 2667MT/s;
+3.CPU: Intel Core i7-9750H;
+4.SSD: Intel SSDPEKNW010T8;
+5.Monitor: Lenovo T2324pA.
+
+Локация фарма:
+Глава 8 Бой мертвых → Хранитель Сияющего света Люксис Основной → 85 уровень / 10 прохождение.
+
+Особенности макроса:
+1.Автоматический запуск повторного боя;
+2.Авто-рестарт этапа после завершения;
+3.Непрерывный цикл фарма;
+4.Автоматический вход в следующий матч;
+5.Ускоренный фарм опыта и золота.
+
+Необходимые параметры:
+1.God Mode;
+2.One Hit Kill;
+3.x5 Speed.
+
+Условия использования:
+1.Минимальные графические настройки;
+2.Запуск только на PC версии;
+3.Курсор должен оставаться неподвижным;
+4.Перед использованием необходимо пройти стадию вручную;
+5.Старт макроса выполнять с экрана “Repeat Battle”;
+6.Не перемещать мышь во время работы.
+
+ВАЖНО:
+Макрос предназначен исключительно для OFFLINE MODE.
+Использование в онлайн режиме может привести к блокировке аккаунта.</Description>
+    <Comment>Макрос создавался для автоматизированного офлайн-фарма и стабильного повторения стадии. Для текущей версии игры подобных решений практически нет. В отдельных случаях персонаж может отклоняться от маршрута, поэтому рекомендуется время от времени проверять процесс фарма. Маршрут постепенно оптимизируется для максимально стабильной и полностью автоматической работы.
+
+Перед запуском:
+1. Завершите бой вручную;
+2. Вернитесь на экран “Repeat Battle”;
+3. Не двигайте курсор;
+4. Активируйте макрос горячей клавишей.</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 2500 ms
+MoveTo 959 538
+Delay 14 ms
+MoveTo 959 542
+Delay 7 ms
+MoveTo 961 546
+Delay 7 ms
+MoveTo 963 551
+Delay 8 ms
+MoveTo 966 559
+Delay 8 ms
+MoveTo 969 566
+Delay 7 ms
+MoveTo 971 571
+Delay 9 ms
+MoveTo 974 577
+Delay 7 ms
+MoveTo 976 583
+Delay 8 ms
+MoveTo 978 588
+Delay 7 ms
+MoveTo 980 592
+Delay 7 ms
+MoveTo 981 598
+Delay 8 ms
+MoveTo 983 604
+Delay 8 ms
+MoveTo 985 609
+Delay 6 ms
+MoveTo 986 613
+Delay 8 ms
+MoveTo 987 618
+Delay 8 ms
+MoveTo 988 621
+Delay 8 ms
+MoveTo 989 623
+Delay 9 ms
+MoveTo 989 625
+Delay 9 ms
+MoveTo 990 626
+Delay 4 ms
+MoveTo 990 626
+Delay 12 ms
+MoveTo 990 629
+Delay 8 ms
+MoveTo 990 632
+Delay 6 ms
+MoveTo 990 635
+Delay 7 ms
+MoveTo 990 639
+Delay 8 ms
+MoveTo 990 641
+Delay 7 ms
+MoveTo 990 644
+Delay 8 ms
+MoveTo 990 649
+Delay 8 ms
+MoveTo 989 653
+Delay 8 ms
+MoveTo 989 661
+Delay 7 ms
+MoveTo 989 666
+Delay 7 ms
+MoveTo 989 671
+Delay 7 ms
+MoveTo 988 676
+Delay 8 ms
+MoveTo 988 683
+Delay 8 ms
+MoveTo 988 689
+Delay 8 ms
+MoveTo 988 693
+Delay 6 ms
+MoveTo 987 697
+Delay 8 ms
+MoveTo 987 702
+Delay 7 ms
+MoveTo 986 707
+Delay 8 ms
+MoveTo 985 712
+Delay 7 ms
+MoveTo 985 715
+Delay 8 ms
+MoveTo 985 720
+Delay 8 ms
+MoveTo 984 725
+Delay 7 ms
+MoveTo 984 729
+Delay 7 ms
+MoveTo 984 733
+Delay 8 ms
+MoveTo 983 739
+Delay 8 ms
+MoveTo 983 744
+Delay 7 ms
+MoveTo 982 748
+Delay 7 ms
+MoveTo 982 752
+Delay 8 ms
+MoveTo 982 758
+Delay 7 ms
+MoveTo 981 762
+Delay 8 ms
+MoveTo 981 767
+Delay 7 ms
+MoveTo 980 771
+Delay 8 ms
+MoveTo 979 777
+Delay 8 ms
+MoveTo 978 782
+Delay 8 ms
+MoveTo 976 786
+Delay 8 ms
+MoveTo 975 790
+Delay 5 ms
+MoveTo 974 793
+Delay 8 ms
+MoveTo 972 798
+Delay 8 ms
+MoveTo 970 803
+Delay 6 ms
+MoveTo 968 806
+Delay 8 ms
+MoveTo 966 811
+Delay 8 ms
+MoveTo 965 815
+Delay 8 ms
+MoveTo 964 819
+Delay 6 ms
+MoveTo 961 822
+Delay 8 ms
+MoveTo 960 825
+Delay 7 ms
+MoveTo 960 829
+Delay 7 ms
+MoveTo 958 833
+Delay 7 ms
+MoveTo 956 835
+Delay 8 ms
+MoveTo 956 837
+Delay 8 ms
+MoveTo 954 840
+Delay 9 ms
+MoveTo 953 843
+Delay 8 ms
+MoveTo 952 843
+Delay 11 ms
+MoveTo 952 844
+Delay 5 ms
+MoveTo 952 844
+Delay 33 ms
+MoveTo 952 845
+Delay 11 ms
+MoveTo 951 847
+Delay 11 ms
+MoveTo 951 848
+Delay 9 ms
+MoveTo 950 848
+Delay 9 ms
+MoveTo 950 848
+Delay 11 ms
+MoveTo 950 848
+Delay 61 ms
+MoveTo 950 849
+Delay 14 ms
+MoveTo 950 852
+Delay 6 ms
+MoveTo 950 854
+Delay 10 ms
+MoveTo 950 856
+Delay 6 ms
+MoveTo 949 858
+Delay 7 ms
+MoveTo 949 860
+Delay 9 ms
+MoveTo 949 862
+Delay 6 ms
+MoveTo 949 863
+Delay 8 ms
+MoveTo 949 865
+Delay 7 ms
+MoveTo 949 867
+Delay 8 ms
+MoveTo 949 870
+Delay 7 ms
+MoveTo 950 874
+Delay 8 ms
+MoveTo 951 879
+Delay 7 ms
+MoveTo 951 881
+Delay 56 ms
+MoveTo 951 883
+Delay 54 ms
+MoveTo 952 883
+Delay 166 ms
+MoveTo 952 883
+Delay 11 ms
+MoveTo 952 882
+Delay 7 ms
+MoveTo 952 881
+Delay 14 ms
+MoveTo 952 880
+Delay 0 ms
+MoveTo 951 880
+Delay 6 ms
+MoveTo 951 880
+Delay 15 ms
+MoveTo 949 879
+Delay 20 ms
+MoveTo 949 878
+Delay 79 ms
+MoveTo 949 878
+Delay 56 ms
+MoveTo 949 877
+Delay 30 ms
+MoveTo 949 877
+Delay 60 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 10000 ms
+MoveTo 948 877
+Delay 341 ms
+MoveTo 948 877
+Delay 10000 ms
+KeyDown 26 1
+Delay 664 ms
+KeyUp 26 1
+Delay 411 ms
+MoveTo 959 539
+Delay 354 ms
+LeftDown 1
+Delay 1500 ms
+MoveTo 960 540
+Delay 2293 ms
+MoveTo 959 539
+Delay 1925 ms
+MoveTo 960 540
+Delay 376 ms
+MoveTo 959 539
+Delay 362 ms
+LeftUp 1
+Delay 6400 ms
+KeyDown 10 1
+Delay 111 ms
+KeyUp 10 1
+Delay 10000 ms</Syntax>
+    </KeyDown>
+    <Software>Solo Leveling: ARISE OVERDRIVE</Software>
+  </DefaultMacro>
+</Root>

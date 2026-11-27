@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Double Pump Mastiff macro for Apex Legends. Fires the Mastiff and times the follow-up shot and pump so you can fire twice in quick succession with a single key press. Timings are tuned for the Mastiff’s fire rate. Bind it to a mouse button or key of your choice, and test it in the Firing Range before using it in a match. Adjust the delays in the file if your ping or settings differ.(purple stock and bolt requried)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 30 ms
+KeyUp 30 1
+Delay 30 ms
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 30 ms
+KeyDown 31 1
+Delay 30 ms
+KeyUp 31 1
+Delay 30 ms
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 30 ms
+KeyDown 30 1
+Delay 30 ms
+KeyUp 30 1
+Delay 30 ms
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 30 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

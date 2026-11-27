@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автосвап на кнопках панели F1 F2 F3 F4 F5 свап 4 шмоток с скилла на аспд) я юзаю для вара пухи свапать проще рукой)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 58 1
+Delay 60 ms
+KeyUp 58 1
+Delay 60 ms
+KeyDown 59 1
+Delay 60 ms
+KeyUp 59 1
+Delay 60 ms
+KeyDown 60 1
+Delay 60 ms
+KeyUp 60 1
+Delay 60 ms
+KeyDown 61 1
+Delay 60 ms
+KeyUp 61 1
+Delay 60 ms
+KeyDown 62 1
+Delay 60 ms
+KeyUp 62 1</Syntax>
+    </KeyDown>
+    <Software>Perfect World</Software>
+  </DefaultMacro>
+</Root>

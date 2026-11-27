@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Посадка урожая на Arizona V RP. Присваиваете данному макросу удобную клавишу. И при нажатии на E когда появится круг нажатий не надо расходовать ресурсы вашей клавиатуры, а просто нажать на одну клавишу.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+KeyUp 26 1
+Delay 30 ms
+KeyDown 7 1
+KeyUp 7 1
+Delay 30 ms
+KeyDown 22 1
+KeyUp 22 1
+Delay 30 ms
+KeyDown 4 1
+KeyUp 4 1
+Delay 30 ms
+KeyDown 26 1
+KeyUp 26 1
+Delay 30 ms
+KeyDown 7 1
+KeyUp 7 1
+Delay 30 ms
+KeyDown 22 1
+KeyUp 22 1
+Delay 30 ms
+KeyDown 4 1
+KeyUp 4 1</Syntax>
+    </KeyDown>
+    <Software>GTA V</Software>
+  </DefaultMacro>
+</Root>

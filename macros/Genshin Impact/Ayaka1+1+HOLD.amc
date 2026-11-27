@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>атака +атака + холда для аяки можете дабить еще 2 атаки и будет супер простенко и со вкусом так же можно добавить пробел для срыва анимации</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 100 ms
+LeftDown 1
+Delay 150 ms
+LeftUp 1
+Delay 150 ms
+LeftDown 1
+Delay 400 ms
+LeftUp 1
+Delay 500 ms</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

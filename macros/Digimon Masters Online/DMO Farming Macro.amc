@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major>My Way of things</Major>
+    <Description>Hey guys, so this is my way of doing things, I have Vaccine Master in F2, Organic Banana in F6 and XAI Rechargeable Energy in F7, also i use Digimon boosts and EXP Boosts, sorry i dont have it set in the macro, but i use it before i start the macro so i can get more out of it. Well i basically use this at Kaiser Domain so i can try to get more levels as fast as i can. but people can also use this for Tera Farming, It all depends if you have the resources to keep it up.
+
+I Wish you all luck with this, and i hope you guys get what you want from this macro, if not than i am sorry for wasting your time on something so silly.
+
+Sincerely, Ninjafreak</Description>
+    <Comment>https://botmek.com - Free macros download</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 1 s
+KeyUp 43 1
+Delay 64
+KeyDown 59 1
+Delay 64
+KeyUp 59 1
+Delay 64
+KeyDown 58 1
+Delay 64
+KeyUp 58 1
+Delay 64
+GoWhile 1 20
+KeyDown 26 1
+Delay 1 s
+KeyUp 26 1
+Delay 30 ms
+KeyDown 22 1
+Delay 1 s
+KeyUp 22 1
+Delay 30 ms
+KeyDown 63 1
+Delay 64
+KeyUp 63 1
+Delay 64
+KeyDown 64 1
+Delay 64
+KeyUp 64 1
+Delay 64
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Digimon Masters Online</Software>
+  </DefaultMacro>
+</Root>

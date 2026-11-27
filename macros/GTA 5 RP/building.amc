@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для стройки на проекте GTA5RP. Почти все делает за вас. Все что вам надо - это крутить мышкой в направлении метки. Есть небольшой минус - это персонаж может немного пробегать метку и только потом останавливаться, поэтому желательно заранее смотреть куда упретесь. Биндите на клавишу которой не пользуетесь, иначе при случайном нажатии заспамит строку, что комп может зависнуть!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 5 ms
+KeyDown 225 1
+Delay 5 ms
+KeyDown 8 1
+Delay 5 ms
+KeyUp 8 1
+Delay 5 ms
+KeyDown 28 1
+Delay 5 ms
+KeyUp 28 1
+Delay 5 ms
+KeyDown 9 1
+Delay 5 ms
+KeyUp 9 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

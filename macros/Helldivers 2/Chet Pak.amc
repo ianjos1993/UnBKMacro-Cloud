@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major>призыв рпакетного ранца </Major>
+    <Description>призыв стратогемы ракетного ранца на одну кнопку!!!  работеат только если стратогемы используются на WASD</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 10 ms
+KeyDown 22 1
+Delay 10 ms
+KeyUp 22 1
+Delay 10 ms
+KeyDown 26 1
+Delay 10 ms
+KeyUp 26 1
+Delay 10 ms
+KeyDown 26 1
+Delay 10 ms
+KeyUp 26 1
+Delay 10 ms
+KeyDown 22 1
+Delay 10 ms
+KeyUp 22 1
+Delay 10 ms
+KeyDown 26 1
+Delay 10 ms
+KeyUp 26 1
+Delay 10 ms
+KeyUp 224 1</Syntax>
+    </KeyDown>
+    <Software>Helldivers 2</Software>
+  </DefaultMacro>
+</Root>

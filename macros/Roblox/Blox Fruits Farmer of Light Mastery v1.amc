@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Фармер мастерства Света v1 в Blox Fruits
+Стоит учитывать что макрос использует только клики и 2 спобности, также стоит иметь логию на врага, что-бы тот вас не убил.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+LeftUp 1
+Delay 30 ms
+LeftDown 1
+LeftUp 1
+Delay 30 ms
+LeftDown 1
+LeftUp 1
+Delay 30 ms
+KeyDown 29 1
+KeyUp 29 1
+Delay 2 s
+KeyDown 27 1
+KeyUp 27 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

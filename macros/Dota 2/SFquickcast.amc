@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>SF quick cast is consisted of Dagger in + euls ult combo.This needs Kaya and Yasha to work well with the timings.
+
+ Make sure the quick cast in skills and items are turned on also don't forget to buy BKB to have no interruption during the casting period.
+
+Feel free to customize the settings on your own timings and hotkeys. 
+DM @trigago on Forums for suggestions and feedbacks.
+
+Enjoy!
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+Delay 4 ms
+KeyUp 6 1
+Delay 4 ms
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 1 s
+Delay 248 ms
+KeyDown 21 1
+KeyUp 21 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,53 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос создан для автоматической продажи вещей на аукицоне.
+1)С помощью этого макроса вы сможете автоматически продать вещи на аукционе.
+2)Биндите макрос на удобную для вас клавишу или кнопку мыши.
+3)После нажатия на клавишу или кнопку мыши макрос автоматически напишет команду.
+4)После того как вы нажали на клавишу и макрос написал команду вам будет необходимо написать цену по которой вы продаете вещь,а затем нажать на клавишу Enter.
+5)Не используйте макрос на серверах где макросы и сторонние программы запрещены.</Description>
+    <Comment> </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 32 ms
+KeyUp 56 1
+Delay 32 ms
+KeyDown 4 1
+Delay 32 ms
+KeyUp 4 1
+Delay 32 ms
+KeyDown 11 1
+Delay 32 ms
+KeyUp 11 1
+Delay 32 ms
+KeyDown 44 1
+Delay 32 ms
+KeyUp 44 1
+Delay 32 ms
+KeyDown 22 1
+Delay 32 ms
+KeyUp 22 1
+Delay 32 ms
+KeyDown 8 1
+Delay 32 ms
+KeyUp 8 1
+Delay 32 ms
+KeyDown 15 1
+Delay 32 ms
+KeyUp 15 1
+Delay 32 ms
+KeyDown 15 1
+Delay 32 ms
+KeyUp 15 1
+Delay 32 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

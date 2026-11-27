@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Советы по использованию:
+
+    Приоритет целей: Идеально ловить на The Box неподвижных врагов (например, пока они добивают крипов) или заднюю линию (магов, кэрри).
+
+    Безопасность: Главная хитрость комбо – использование World для возврата. Не используйте его для входа, если он на кулдауне, иначе вас легко убьют.
+
+    Скорость: Вся связка должна выполняться максимально быстро, чтобы враги не успели среагировать и нанести вам урон до возврата.
+
+Выберите вариант, который лучше всего подходит под стиль общения в вашей команде. Удачи в игре
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 8 ms
+KeyUp 29 1
+Delay 4 ms
+KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+Delay 421 ms
+KeyDown 29 1
+Delay 3 ms
+KeyUp 29 1
+Delay 7 ms
+KeyDown 27 1
+Delay 2 ms
+KeyUp 27 1
+Delay 4 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

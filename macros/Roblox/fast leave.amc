@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major>Быстрый выход </Major>
+    <Description>Данный макрос предназначен для быстрого выхода с сервера. Примечание: можно использовать на любом разрешении экрана</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 41 1
+Delay 5 ms
+KeyUp 41 1
+Delay 5 ms
+KeyDown 15 1
+Delay 5 ms
+KeyUp 15 1
+Delay 5 ms
+KeyDown 88 1
+Delay 5 ms
+KeyUp 88 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

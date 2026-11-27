@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major>Danny</Major>
+    <Description>This macro is an anti afk macro
+--------------------------------------------------------
+Press a key to start and the same key to stop the macro
+------------------------------------------------------------------------------------------
+Thanks for dowloading</Description>
+    <Comment>Enjoy it </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 727 ms
+KeyDown 224 1
+Delay 76 ms
+KeyUp 224 1
+Delay 1328 ms
+KeyDown 224 1
+Delay 104 ms
+KeyUp 224 1
+Delay 1108 ms
+KeyDown 224 1
+Delay 109 ms
+KeyUp 224 1
+Delay 1067 ms
+KeyDown 224 1
+Delay 114 ms
+KeyUp 224 1
+Delay 1112 ms
+KeyDown 224 1
+Delay 115 ms
+KeyUp 224 1
+Delay 1004 ms
+KeyDown 224 1
+Delay 168 ms
+KeyUp 224 1
+Delay 995 ms</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

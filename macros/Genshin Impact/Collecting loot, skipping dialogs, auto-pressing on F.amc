@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматическое нажатие на F и прокрутка мыши с рандомным ожиданием от 1 до 60 мс. 
+Удобно собирать лут с сундуков, по территории, во время битв, при беге (или использовании Саю) быстрый сбор ягод и т.д.
+Так же, фактический скипп диологов, остаётся лишь нажимать на варианты ответов.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 1 60 ms
+WheelDown 1
+Delay 1 60 ms
+KeyUp 9 1
+Delay 1 60 ms</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

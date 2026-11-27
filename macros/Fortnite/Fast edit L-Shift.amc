@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос позволяет Очень быстро редактировать если есть проблемы с макросом напишите мне я вам помогу
+чтобы этот макрос работал надо забиндить на любую клавишу и все, очень круто!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 5 ms
+KeyUp 225 1
+Delay 5 ms
+LeftDown 1
+Delay 14 ms
+LeftUp 1
+Delay 14 ms
+KeyDown 225 1
+Delay 5 ms
+KeyUp 225 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

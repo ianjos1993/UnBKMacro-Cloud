@@ -1,0 +1,79 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro is for cracking at the Smelter in GTA5 RP. 
+
+Stand near the drill press and enable macro. 
+
+Macro will use Third Eye to drill stones on a loop, 25 times. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoWhile 2 57
+KeyDown 226 1
+RightDown 1
+Delay 94 ms
+RightUp 1
+Delay 9 ms
+MoveR 1 0
+Delay 383 ms
+MoveR 0 1
+Delay 12 ms
+MoveR 2 1
+Delay 5 ms
+MoveR 1 1
+Delay 6 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 2 1
+Delay 8 ms
+MoveR 1 1
+Delay 7 ms
+MoveR 1 1
+Delay 11 ms
+MoveR 3 1
+Delay 3 ms
+MoveR 0 1
+Delay 14 ms
+MoveR 5 1
+Delay 8 ms
+MoveR 3 1
+Delay 8 ms
+MoveR 3 1
+Delay 6 ms
+MoveR 2 1
+Delay 7 ms
+MoveR 2 0
+Delay 9 ms
+MoveR 1 1
+Delay 8 ms
+MoveR 2 0
+Delay 11 ms
+MoveR 1 0
+Delay 17 ms
+MoveR 1 1
+Delay 46 ms
+MoveR 1 1
+Delay 15 ms
+MoveR 1 0
+Delay 47 ms
+MoveR 1 1
+Delay 434 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 137 ms
+MoveR 1 0
+Delay 1174 ms
+Delay 150 ms
+KeyUp 226 1
+Delay 26500 ms</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

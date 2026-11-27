@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос для дробовика убица зомби, очень быстро стреляет макросом, ставлю на кнопку alt очень удобно и быстро , советую! </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 11 ms
+LeftUp 1
+Delay 11 ms
+KeyDown 32 1
+Delay 9 ms
+KeyUp 32 1
+Delay 9 ms
+KeyDown 30 1
+Delay 9 ms
+KeyUp 30 1
+Delay 9 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

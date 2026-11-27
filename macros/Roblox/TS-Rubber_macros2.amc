@@ -1,0 +1,49 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Фарм фрукта TS-Rubber в игре Roblox режиме в fruit battlegrounds. Он полностью автономный и работает сам, вы можете спокойно стоять в АФК и отдыхать пока уровни сами фармятся. Этот макрос хорош именно для TS-Rubber, но он может пригодиться и для других фруктов
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 1000 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyUp 30 1
+Delay 1000 ms
+KeyDown 31 1
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+KeyUp 31 1
+Delay 1000 ms
+KeyDown 32 1
+Delay 1000 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyUp 32 1
+Delay 1000 ms
+KeyDown 33 1
+Delay 1000 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyUp 33 1
+Delay 1000 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

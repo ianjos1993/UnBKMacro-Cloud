@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major>Clicker casino</Major>
+    <Description>Кликер для Гта 5 Рп Маджестик ,
+Кликер для казино ,а именно для автоматов игровых ,позволяет 
+нажимать клавишу F 
+вы можете активировать макрос и уйти куда нибудь 
+за это не кикает фармиться опыт деньги,не банят что самое главное
+циклов добавил свыше 1 миллиона чтоб он постоянно кликал вам лишь достаточно нажать клавишу F ,такого я еще не видел хотя сам давно искал пользуйтесь)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы  Администраторы кто будет проверять ,чисто из интереса можете такой кликер поискать ,ибо я не находил а он очень полезен ,для многих квестов и для фарма)</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 64
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>GTA 5RP Majestic</Software>
+  </DefaultMacro>
+</Root>

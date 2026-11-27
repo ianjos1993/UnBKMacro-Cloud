@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>Roblox</Major>
+    <Description>Макрос для фарма уровня на предметах в Ono fruit simulator.
+
+Просто запустите макрос и он сделает всё за вас.
+
+Главное: выбрать предмет для фарма уровня и переместить курсор под TAB.
+
+Макрос дополнительно фармит Королевскую волю.
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 11 1
+Delay 1 ms
+KeyUp 11 1
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

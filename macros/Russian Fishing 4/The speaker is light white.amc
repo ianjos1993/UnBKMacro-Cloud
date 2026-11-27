@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major>рр4</Major>
+    <Description>Отличный макрос(ахк) для ловли хариуса, форели на реке белой на спининг линеар 68мл
+ката метеор на скорость подмота 27
+приманка спикер 2 018 с крючком серым на 0.8гр
+разрешение full hd 1920x1080 полный экран</Description>
+    <Comment>Приятной рыбалки, в случае размота не вытягивает, увы) 
+Всем приятной игры!</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 68 ms
+KeyUp 68 1
+Delay 76 ms
+KeyUp 225 1
+Delay 548 ms
+LeftDown 1
+Delay 62 ms
+KeyDown 225 1
+Delay 497 ms
+KeyUp 225 1
+Delay 307 ms
+LeftUp 1
+Delay 4831 ms
+LeftDown 1
+Delay 32741 ms
+RightDown 1
+Delay 3155 ms
+KeyDown 44 1
+Delay 117 ms
+KeyUp 44 1
+Delay 361 ms
+LeftUp 1
+Delay 144 ms
+RightUp 1
+Delay 831 ms
+MoveTo 959 540
+Delay 451 ms
+KeyDown 225 1
+Delay 103 ms
+KeyDown 68 1</Syntax>
+    </KeyDown>
+    <Software>Русская Рыбалка 4</Software>
+  </DefaultMacro>
+</Root>

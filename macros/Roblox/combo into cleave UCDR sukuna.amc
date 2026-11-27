@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major>Untitled Combat Demo rework</Major>
+    <Description>Makes a combo with using 3 moves and hitting cleave (18 dmg)    
+Need to have atleast 65 ping 
+Need to have atleast 9 % Shrine Meter
+Game - Untitled Combat Demo Rework
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 20 ms
+KeyUp 44 1
+Delay 64
+KeyDown 30 1
+Delay 950 1000 ms
+KeyDown 31 1
+Delay 1250 ms
+KeyDown 34 1
+Delay 100 ms
+KeyDown 6 1
+Delay 95 ms
+KeyDown 15 1
+Delay 95 ms
+KeyDown 8 1
+Delay 95 ms
+KeyDown 4 1
+Delay 95 ms
+KeyDown 25 1
+Delay 95 ms
+KeyDown 8 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

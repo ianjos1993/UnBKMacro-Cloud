@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Space - Blink
+c - Shiva
+1 Soul Ring
+w Ракеты
+R rearm
+Приятного пользования, надеюсь что вы будете побеждать всяких нубиков)</Description>
+    <Comment>Space - Blink
+c - Shiva
+1 Soul Ring
+w Ракеты
+R rearm</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 30 ms
+KeyDown 6 1
+Delay 64
+KeyUp 6 1
+Delay 30 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

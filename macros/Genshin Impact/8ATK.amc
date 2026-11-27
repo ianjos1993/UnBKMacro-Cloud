@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Auto attack macro for hutao in genshin impact. You dont need to dodge when your macro working. And it works better for hutao with 0 talents.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 70 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 200 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 20 ms
+LeftDown 1
+Delay 300 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 44 1
+Delay 500 ms
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

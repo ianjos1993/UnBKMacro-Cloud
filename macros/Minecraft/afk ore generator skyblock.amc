@@ -1,0 +1,89 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Best on skyblock servers wtih cobble generator that spawn various ore
+
+
+
+  -  Fill in all 9 slots with the iron pickaxe
+
+  -  Stand in front of the cobble generator and start it
+
+  -  It will automatically switch to another pickaxe when the pickaxe you are holding will break
+
+  -  If the last pickaxe breaks, macro will stop
+
+--------------------------------------------
+
+Only works with the setting: 
+
+GUI Scale: Normal
+No texture packs
+
+--------------------------------------------
+
+
+
+It's important that hungry bar is full
+
+
+If there will be downloads, I will add auto feed
+
+Screen res: 1960x1080</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+LeftDown 1
+GoColor 3 1 255,255,255 255,255,255 1 796 1049 997 32 1 0
+LeftUp 1
+KeyDown 31 1
+KeyUp 31 1
+LeftDown 1
+GoColor 8 1 255,255,255 255,255,255 1 836 1049 936 32 1 0
+LeftUp 1
+KeyDown 32 1
+KeyUp 32 1
+LeftDown 1
+GoColor 13 1 255,255,255 255,255,255 1 876 1049 740 32 1 0
+LeftUp 1
+KeyDown 33 1
+KeyUp 33 1
+LeftDown 1
+GoColor 18 1 255,255,255 255,255,255 1 916 1049 700 32 1 0
+LeftUp 1
+KeyDown 34 1
+KeyUp 34 1
+LeftDown 1
+GoColor 23 1 255,255,255 255,255,255 1 956 1049 611 32 1 0
+LeftUp 1
+KeyDown 35 1
+KeyUp 35 1
+LeftDown 1
+GoColor 28 1 255,255,255 255,255,255 1 996 1049 571 32 1 0
+LeftUp 1
+KeyDown 36 1
+KeyUp 36 1
+LeftDown 1
+GoColor 33 1 255,255,255 255,255,255 1 1036 1049 531 32 1 0
+LeftUp 1
+KeyDown 37 1
+KeyUp 37 1
+LeftDown 1
+GoColor 38 1 255,255,255 255,255,255 1 1076 1049 491 32 1 0
+LeftUp 1
+KeyDown 38 1
+KeyUp 38 1
+LeftDown 1
+GoColor 43 1 255,255,255 255,255,255 1 1116 1049 451 32 1 0
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

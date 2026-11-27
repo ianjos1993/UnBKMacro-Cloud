@@ -1,0 +1,117 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Бот на трамвай номер 2 ИСПРАВЛЕ ВСЕХ БАГИ. Были убраны все баги с камерой + теперь он сам нажимает на кнопку продолжить так что его теперь можно оставить и так фармить(рекомендую днем и ночью), Брать трамвай который второй от выезда из депо. Есть баг на последней остановке может не засчитатся.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 3 s
+KeyDown 22 1
+Delay 1896 ms
+KeyUp 22 1
+Delay 1008 ms
+KeyDown 22 1
+Delay 2529 ms
+KeyUp 22 1
+Delay 1568 ms
+KeyDown 31 1
+Delay 152 ms
+KeyUp 31 1
+Delay 4208 ms
+KeyDown 31 1
+Delay 184 ms
+KeyUp 31 1
+Delay 3440 ms
+KeyDown 26 1
+Delay 32815 ms
+KeyUp 26 1
+Delay 32 ms
+KeyDown 22 1
+Delay 2864 ms
+KeyUp 22 1
+Delay 1304 ms
+KeyDown 22 1
+Delay 1512 ms
+KeyUp 22 1
+Delay 2048 ms
+KeyDown 31 1
+Delay 168 ms
+KeyUp 31 1
+Delay 3528 ms
+KeyDown 31 1
+Delay 183 ms
+KeyUp 31 1
+Delay 2329 ms
+KeyDown 26 1
+Delay 41688 ms
+KeyUp 26 1
+Delay 144 ms
+KeyDown 22 1
+Delay 2127 ms
+KeyUp 22 1
+Delay 1816 ms
+KeyDown 22 1
+Delay 2248 ms
+KeyUp 22 1
+Delay 1480 ms
+KeyDown 31 1
+Delay 128 ms
+KeyUp 31 1
+Delay 5576 ms
+KeyDown 31 1
+Delay 136 ms
+KeyUp 31 1
+Delay 1584 ms
+KeyDown 26 1
+Delay 32680 ms
+KeyUp 26 1
+Delay 24 ms
+KeyDown 22 1
+Delay 3000 ms
+KeyUp 22 1
+Delay 1912 ms
+KeyDown 22 1
+Delay 1377 ms
+KeyUp 22 1
+Delay 1336 ms
+KeyDown 31 1
+Delay 127 ms
+KeyUp 31 1
+Delay 4567 ms
+KeyDown 31 1
+Delay 169 ms
+KeyUp 31 1
+Delay 1871 ms
+KeyDown 26 1
+Delay 36039 ms
+KeyUp 26 1
+Delay 97 ms
+KeyDown 22 1
+Delay 4463 ms
+KeyUp 22 1
+Delay 2569 ms
+KeyDown 31 1
+Delay 216 ms
+KeyUp 31 1
+Delay 4183 ms
+KeyDown 31 1
+Delay 176 ms
+KeyUp 31 1
+Delay 2296 ms
+KeyDown 26 1
+Delay 7954 ms
+LeftDown 1
+Delay 144 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

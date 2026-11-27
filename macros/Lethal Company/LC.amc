@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Пишет команду "switch" которая дает возможность менять игроков за компьютером, что бы не выходить из монитора и не кликать на кнопку, экономит много времени и облегчает процесс мониторинга за командой.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 1 ms
+KeyUp 22 1
+Delay 1 ms
+Delay 1 ms
+KeyDown 26 1
+Delay 1 ms
+KeyUp 26 1
+Delay 1 ms
+KeyDown 12 1
+Delay 1 ms
+KeyUp 12 1
+Delay 1 ms
+KeyDown 23 1
+Delay 1 ms
+KeyUp 23 1
+Delay 1 ms
+KeyDown 6 1
+Delay 1 ms
+KeyUp 6 1
+Delay 1 ms
+KeyDown 11 1
+Delay 1 ms
+KeyUp 11 1
+Delay 1 ms
+KeyDown 88 1
+Delay 1 ms
+KeyUp 88 1</Syntax>
+    </KeyDown>
+    <Software>Lethal Company</Software>
+  </DefaultMacro>
+</Root>

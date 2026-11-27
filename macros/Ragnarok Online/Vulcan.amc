@@ -1,0 +1,92 @@
+<Root>
+  <DefaultMacro>
+    <Major>Ragnarok Online - Private or IRO</Major>
+    <Description>Spam skill for Bard with Arrow Shower.
+
+Hold 1 ot use, until mana runs out.
+
+Increadible speed without any risk, 10ms for safer spam.
+
+Just press de button to start using on mouse point, no need for click.
+
+Assign any key from your keyboard or mouse this macro, or use defalt number 1.
+
+To stop the skill spam, just release the key, no need for reactivation.
+
+Thank you, any question message me!</Description>
+    <Comment>Free to Use!</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 10 ms
+KeyUp 31 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+KeyDown 31 1
+Delay 10 ms
+KeyUp 31 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+KeyDown 31 1
+Delay 10 ms
+KeyUp 31 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+KeyDown 31 1
+Delay 10 ms
+KeyUp 31 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+KeyDown 31 1
+Delay 10 ms
+KeyUp 31 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+KeyDown 31 1
+Delay 10 ms
+KeyUp 31 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+KeyDown 31 1
+Delay 10 ms
+KeyUp 31 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+KeyDown 31 1
+Delay 10 ms
+KeyUp 31 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Ragnarok</Software>
+  </DefaultMacro>
+</Root>

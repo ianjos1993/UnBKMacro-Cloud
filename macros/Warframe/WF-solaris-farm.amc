@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major>авто-атака</Major>
+    <Description>Нужно одеть холодное оружие солярис или подобное ему что можно швырять, автоматически будет запускать холодное оружие солярис и подрывать его, можно использовать как на ходу так и стоя</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 2000 ms
+MiddleDown 1
+Delay 120 ms
+MiddleUp 1
+KeyUp 8 1
+Delay 64 ms</Syntax>
+    </KeyDown>
+    <Software>Warframe</Software>
+  </DefaultMacro>
+</Root>

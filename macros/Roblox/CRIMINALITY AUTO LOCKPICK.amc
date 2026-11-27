@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>Criminality autolockpick (all locks)</Major>
+    <Description>Данный макрос предназначен для игры Roblox.
+Макрос самостоятельно открывает двери в игре с помощью отмычки.
+Макрос только подходит на двойные замки (не одинарные не тройные)
+Требуется подойти к закрытой двери, навестисть  на замок (или сейф) чтоб появилась зеленая табличка
+"LOCKPICK" и включить макрос, он сам откроет за вас дверь.</Description>
+    <Comment>Gameplay on crim be like.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 73 ms
+LeftUp 1
+Delay 780 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+Delay 307 ms
+LeftDown 1
+Delay 74 ms
+LeftUp 1
+Delay 193 ms
+LeftDown 1
+Delay 77 ms
+LeftUp 1
+Delay 430 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

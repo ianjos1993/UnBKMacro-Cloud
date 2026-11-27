@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Создает 50 овощных смузи за 1 макрос после запуска. После установки необходимо поправить абсолютное перемещение курсора под свой экран. Создавался на 1920х1080</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1168 293
+Delay 80 ms
+RightDown 1
+Delay 80 ms
+RightUp 1
+Delay 80 ms
+MoveTo 1069 297
+Delay 80 ms
+RightDown 1
+Delay 80 ms
+RightUp 1
+Delay 80 ms
+MoveTo 810 585
+Delay 80 ms
+RightDown 1
+Delay 80 ms
+RightUp 1
+Delay 80 ms
+MoveTo 838 682
+Delay 80 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 6500 ms
+GoWhile 1 50</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

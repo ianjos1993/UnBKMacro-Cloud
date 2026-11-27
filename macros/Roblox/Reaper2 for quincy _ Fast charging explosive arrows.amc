@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major>Roblox</Major>
+    <Description>Макрос создан для быстрой зарядки взрывных / тройных стрел играя за рассу квинси. Может быть очень полезно во время пвп или фарма квестов</Description>
+    <Comment>Прошлый не работал корректно из-за маленькой задержки</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+LeftDown 1
+LeftUp 1
+Delay 1 s
+GoWhile 1 15</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

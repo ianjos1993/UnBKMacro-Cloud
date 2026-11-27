@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>Быстрый доступ до снаряжения q+3</Major>
+    <Description>Данный макрос делает привычный доступ до снаряжения.
+
+Ставить на любую клавишу нужную вам,у меня допустим на 4,5,6,7
+
+Соответствует первому слоту быстрого снаряжения в инвентаре (сочетание Q+3)
+
+Задержки стоят рандомные минимальные,но всё же,так как есть античит,то лучше хоть и минимальный но рандомайзер, на переключения не сказывается.
+
+Далее макросы на другие слоты.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 234 245 ms
+KeyDown 32 1
+Delay 64 71 ms
+KeyUp 32 1
+Delay 64 72 ms
+KeyUp 20 1</Syntax>
+    </KeyDown>
+    <Software>ARC Raiders</Software>
+  </DefaultMacro>
+</Root>

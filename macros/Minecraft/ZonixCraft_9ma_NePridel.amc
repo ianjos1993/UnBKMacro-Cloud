@@ -1,0 +1,132 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Свапает кнопки 1 и 3, вместе с этим нажимая лкм + пкм.
+---
+Описание:
+Макрос для игры Minecraft проекта ZonixCraft. Макрос хорошо себя показывает в пвп в яме - суше. 
+
+---
+Инструкция так сказатб:
+1. Запустить игру конечно же.
+2. Зайти в клавиши
+3. Поставить удобный вам бинд на любую кнопку
+4. И зажать эту кнопку на которую вы поставили бинд.
+5. Готово. Макрос работает
+
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 144 ms
+KeyUp 30 1
+Delay 3 ms
+KeyDown 32 1
+Delay 77 ms
+KeyUp 32 1
+Delay 26 ms
+KeyDown 30 1
+Delay 78 ms
+KeyUp 30 1
+Delay 3 ms
+KeyDown 32 1
+Delay 85 ms
+KeyDown 30 1
+Delay 16 ms
+KeyUp 32 1
+Delay 88 ms
+KeyUp 30 1
+Delay 6 ms
+KeyDown 32 1
+Delay 98 ms
+KeyUp 32 1
+Delay 5 ms
+KeyDown 30 1
+Delay 91 ms
+KeyUp 30 1
+Delay 12 ms
+KeyDown 32 1
+Delay 100 ms
+KeyUp 32 1
+Delay 5 ms
+KeyDown 30 1
+Delay 123 ms
+KeyDown 32 1
+Delay 24 ms
+KeyUp 30 1
+Delay 104 ms
+KeyDown 30 1
+Delay 16 ms
+KeyUp 32 1
+Delay 96 ms
+KeyDown 32 1
+Delay 32 ms
+KeyUp 30 1
+Delay 96 ms
+KeyUp 32 1
+Delay 12 ms
+KeyDown 30 1
+Delay 116 ms
+KeyUp 30 1
+Delay 5 ms
+KeyDown 32 1
+Delay 107 ms
+KeyUp 32 1
+Delay 32 ms
+KeyDown 30 1
+Delay 80 ms
+KeyDown 32 1
+Delay 32 ms
+KeyUp 30 1
+Delay 80 ms
+Delay 96 ms
+KeyDown 32 1
+Delay 10 ms
+KeyUp 30 1
+Delay 110 ms
+KeyUp 32 1
+Delay 5 ms
+KeyDown 30 1
+Delay 99 ms
+KeyDown 32 1
+Delay 11 ms
+KeyUp 30 1
+Delay 109 ms
+KeyDown 30 1
+Delay 11 ms
+KeyUp 32 1
+Delay 101 ms
+KeyUp 30 1
+Delay 11 ms
+KeyDown 32 1
+Delay 101 ms
+KeyDown 30 1
+Delay 32 ms
+KeyUp 32 1
+Delay 120 ms
+KeyUp 30 1
+Delay 24 ms
+KeyDown 32 1
+Delay 128 ms
+KeyUp 32 1
+Delay 11 ms
+KeyDown 30 1
+Delay 142 ms
+KeyDown 32 1
+Delay 56 ms
+KeyUp 30 1
+Delay 49 ms
+KeyUp 32 1
+KeyUp 32 1
+Delay 24 ms
+KeyDown 30 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

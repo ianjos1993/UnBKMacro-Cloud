@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Ассемблеры стреляют очень быстро что, позволяет легко найти милишников или других врагов которые юзали хамелеон. Не требуется радар верификатор или окулус можете спокойно экономить 1 энергию.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 20 ms
+LeftUp 1
+Delay 22 ms
+KeyDown 33 1
+Delay 20 ms
+KeyUp 33 1
+Delay 22 ms
+KeyDown 34 1
+Delay 20 ms
+KeyUp 34 1
+Delay 22 ms
+//Это можно забиндить правую кнопку мышь чтобы стрелять быстро вы можете скачать мой файл Assembler #2 чтобы стрелять сильно и без перегрев</Syntax>
+    </KeyDown>
+    <Software>Crossout</Software>
+  </DefaultMacro>
+</Root>

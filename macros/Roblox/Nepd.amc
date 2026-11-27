@@ -1,0 +1,57 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Для тех кто хочет заработать робуксы не трятя время на вставку текста в чат роблокса.
+
+Данный макрос спамит в чате тот текст который был скопирован. Этот макрос подходит для Pls Donate.
+Инструкция:
+Скопируйтие текст для чата
+Запустите макрос и наслождайтесь</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1932 ms
+KeyDown 84 1
+Delay 94 ms
+KeyUp 84 1
+Delay 3319 ms
+KeyDown 224 1
+Delay 256 ms
+KeyDown 25 1
+Delay 128 ms
+KeyUp 25 1
+Delay 111 ms
+KeyUp 224 1
+Delay 1807 ms
+KeyDown 88 1
+Delay 88 ms
+KeyUp 88 1
+Delay 7135 ms
+KeyDown 84 1
+Delay 103 ms
+KeyUp 84 1
+Delay 1952 ms
+KeyDown 224 1
+Delay 487 ms
+KeyDown 25 1
+Delay 128 ms
+KeyUp 25 1
+Delay 56 ms
+KeyUp 224 1
+Delay 1487 ms
+KeyDown 88 1
+Delay 103 ms
+KeyUp 88 1
+Delay 3904 ms
+KeyDown 225 1
+Delay 127 ms
+KeyDown 68 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

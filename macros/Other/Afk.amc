@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description> Простой в использовании анти-афк макрос (для ЛЮБОЙ игры)
+ Раз в 10 секунд персонаж ходит вправо/влево.
+ (Биндить на любую клавишу и ставить галочку "Выполнять до повторного нажатия" в режиме работы)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+Delay 10000 ms
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64
+Delay 64 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

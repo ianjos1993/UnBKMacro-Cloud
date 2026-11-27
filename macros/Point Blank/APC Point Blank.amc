@@ -1,0 +1,58 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description> Макрос на APC Point Blank
+
+
+Макрос работает и убирает полностью отдачу на таком оружие как APC. 
+Все пули летят в одну точку.
+
+
+Так же нужно ставить перки:
+
+                                                     +4 скорострел
+                                                      -4 отдача
+
+
+
+Всем приятной игры.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 13 ms
+LeftUp 1
+Delay 2 ms
+MoveTo 960 540
+Delay 13 ms
+LeftDown 1
+Delay 13 ms
+LeftUp 1
+Delay 2 ms
+MoveTo 960 540
+Delay 13 ms
+LeftDown 1
+Delay 13 ms
+LeftUp 1
+Delay 2 ms
+MoveTo 960 540
+Delay 13 ms
+LeftDown 1
+Delay 13 ms
+LeftUp 1
+Delay 2 ms
+MoveTo 960 540
+Delay 13 ms
+LeftDown 1
+Delay 13 ms
+LeftUp 1
+Delay 2 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

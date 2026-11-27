@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>Быстрый выход в меню в игре Deepwoken</Major>
+    <Description>с данным макросом вы сможете быстро выходить в меню, в ситуациях когда на вас нападают в плохих ситуациях, также этот макрос поможет вам если на вас нападут не желательные мобы и т.д
+разрешение экрана 1920 на 1080</Description>
+    <Comment>я не смог переиминовать название макроса</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 164 21
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 904 594
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Джиговая ступенька на раптор 20. Скокрость 50. Забросили приманку, подождите пока упадёт на дно. Запустите скрипт.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+LeftDown 1
+Delay 701 997 ms
+LeftUp 1
+Delay 21 101 ms
+KeyDown 88 1
+Delay 2498 3513 ms</Syntax>
+    </KeyDown>
+    <Software>Русская Рыбалка 4</Software>
+  </DefaultMacro>
+</Root>

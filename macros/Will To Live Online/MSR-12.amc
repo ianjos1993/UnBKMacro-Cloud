@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на автоматическую стрельбу из MSR-12 в игре Will To Live Online с перезорядкой при полностю прокаченом владении данным оружием и оружием этого класса, теперь фарм мобов стал еще легче</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 28 ms
+LeftUp 1
+Delay 203 ms
+GoWhile 1 9
+Delay 15 ms
+KeyDown 21 1
+Delay 18 ms
+KeyUp 21 1
+Delay 2100 ms</Syntax>
+    </KeyDown>
+    <Software>Will To Live Online</Software>
+  </DefaultMacro>
+</Root>

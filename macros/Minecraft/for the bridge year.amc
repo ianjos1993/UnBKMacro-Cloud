@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>для строительства год бриджом</Major>
+    <Description>Установить: открыть файл в редакторе
+1. постаить на правую кнопку макрос инструкция: https://keyran.net/ru/wiki/?p=hotkey#create
+2. поставить на режим работы  "Выполнять пока зажата клавиша" инструкция: https://keyran.net/ru/wiki/?p=hotkey#mode
+3: установить драйвер инструкция: https://keyran.net/ru/wiki/?p=settings#driver</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 9
+RightUp 1
+Delay 9
+RightDown 1
+Delay 9
+RightUp 1
+Delay 9
+RightDown 1
+Delay 9
+RightUp 1
+Delay 9
+RightDown 1
+Delay 9
+RightUp 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

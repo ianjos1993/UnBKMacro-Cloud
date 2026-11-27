@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Довольно простой, но одновременно хороший макрос на мачете или кукри упростит Вам игру и сделает ее более запоминающейся из-за большого количества убийств врагов с помощью программы. Как же получить макрос? Все просто:
+1. Скачайте файл.
+2. Поставьте макрос на определенную клавишу (лично я рекомендую ставить на Q, но можно и на другую любую клавишу - выбор за Вами).
+3. Зайдите в игру и наслаждайтесь.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 15 ms
+KeyDown 34 1
+Delay 15 ms
+KeyUp 34 1
+Delay 15 ms
+KeyDown 32 1
+Delay 15 ms
+KeyUp 32 1
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>Point Blank</Software>
+  </DefaultMacro>
+</Root>

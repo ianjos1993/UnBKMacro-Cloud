@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major>apex no recoil</Major>
+    <Description>Simple recoil control for Flatline. Bind to left click button. DPI 800 recommended ,But you will need to play with it for your sensitivity.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 3 3
+Delay 10 ms
+MoveR 3 -3
+Delay 10 ms
+MoveR -3 -3
+Delay 10 ms
+MoveR -3 3
+Delay 10 ms
+Goto 2</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

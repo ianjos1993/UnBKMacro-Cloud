@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос создавал под свое разрешения 1920x1080 + в игре масштаб на 3 включаете и он заполняет инвентарь книгами открывая кейсы </Description>
+    <Comment>Макрос создавал под свое разрешения 1920x1080 + в игре масштаб на 3 включаете и он заполняет инвентарь книгами открывая кейсы</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 64 ms
+RightUp 1
+Delay 150 ms
+MoveTo 959 419
+Delay 64 ms
+RightDown 1
+Delay 64 ms
+RightUp 1
+Delay 13 s
+GoWhile 1 36</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

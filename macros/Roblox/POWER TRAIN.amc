@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>Jujutsu Chronicles</Major>
+    <Description>Автоматически Атакует Цель, тем самым прокачивая силу (Макрос настроен так, что бы не Откидывать Врага (Улучшая геймплей))</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 300 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 300 ms
+LeftDown 1
+Delay 100
+LeftUp 1
+Delay 300 ms
+LeftDown 1
+Delay 100
+LeftUp 1
+Delay 2 s
+GoWhile 1 999</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

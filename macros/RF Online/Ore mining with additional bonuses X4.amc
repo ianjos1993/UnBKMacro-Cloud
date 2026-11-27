@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос создан для рудодобычи в краговых шахташ с допингом X4. (3600 сек)
+Макрос автоматически до конца рудодобычи КАЖДЫЙ ЧАС  ипользует доппинг - КНОПКА 5 - на панели быстрого доступа.
+
+Для использования макроса неободимо в игре перетащить допинг на 5 номер панели быстродействия и включить раскладку (0-9). Встать на копку и запустить макрос. Готово.
+
+В конце копки будет около 60 стаков руды,</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 36000 s
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 36000 s
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 36000 s
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 36000 s</Syntax>
+    </KeyDown>
+    <Software>RF-Online</Software>
+  </DefaultMacro>
+</Root>

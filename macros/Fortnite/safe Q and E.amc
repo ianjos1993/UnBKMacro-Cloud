@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос позволит вам ставить перед собой рампу и стенку, поможет не только в box fights.Но и в обычной игре.Такие макросы уже есть, но на Q и E я ещё не видел. что бы макрос работал заходим в Фортнайт-Параметры-Раскладка клавиатуры-Строения-Стена на Q и Лестница на E</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 3 ms
+KeyUp 8 1
+Delay 3 ms
+KeyDown 20 1
+Delay 3 ms
+KeyUp 20 1
+Delay 3 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

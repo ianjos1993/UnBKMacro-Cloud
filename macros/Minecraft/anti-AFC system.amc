@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major>Анти-афк система для майнинга</Major>
+    <Description>Данный макрос поможет вам не быть выкинутым с сервера, а также не останавливать процесс копания ни на одну секунду! 
+
+Для этого необходимо встать в шахте, подпрыгнуть и запустить макрос, желательно до этого забиндив его.
+
+После этого можно отойти и попить горяченького чаю, макрос все сделает за вас ^_^</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoWhile 18 5
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 6000 ms
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

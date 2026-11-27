@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major>Нубсайбот</Major>
+    <Description>Комбинация для персонажа "нубсайбот" которая выпускает клон в сторону Вашего противника
+
+Данная комбинация собрана в одну кнопку для Вашего удобства</Description>
+    <Comment>для тех кто играет на эмуляторе SEGA или MAME+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 80 1
+Delay 9 ms
+KeyUp 80 1
+KeyDown 80 1
+Delay 9 ms
+KeyUp 80 1
+KeyDown 26 1
+Delay 9 ms
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>Mortal kombat 3 ultimatum</Software>
+  </DefaultMacro>
+</Root>

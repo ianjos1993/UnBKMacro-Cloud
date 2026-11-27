@@ -1,0 +1,53 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Я скачал подобный скрипт из общей базы, попробовал пару дней, и решил что нужно сделать свой, но доработать.
+Тот скрипт срабатывал слишком быстро из-за чего иногда  не срабатывал, потому что телефон не  успевал реагировать(авторам таким говорю, в играх есть КД).
+Я доработал этот скрипт, он хоть и не срабатывает за секунду, но работает отлично. Помогает при погонях(чаще всего за это бан). Оплата происходит за 2-3 секунды.
+Как использовать:
+1)Для этого у вас должно быть разрешение 1920x1080
+2)Качаем скрипт и ставим его на любую кнопку(на U ставить не желательно).
+3)Заходим в  игру и нажимаем на заданную кнопку.
+Всё, ничего сложного!
+Мой промокод на 5 сервере: Podolsky1
+Мой промокод на 7 сервере: beznika
+Удачного использования!
+
+Использование скрипта на видео(для тех кто не верит в нормальную работу) - https://youtu.be/lsCVD5pmuO4</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 24 1
+KeyUp 24 1
+Delay 250 ms
+MoveTo 1706 662
+Delay 250 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1770 911
+Delay 250 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1760 981
+Delay 250 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1747 854
+Delay 250 ms
+LeftDown 1
+LeftUp 1
+Delay 15 ms
+KeyDown 24 1
+KeyUp 24 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

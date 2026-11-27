@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Берёте ведьмака ( Волшебство + Гнев + Скрытность ) и проворство в Эфе Рунде на "огонь" и фаеры электрические.
+Сгустки гнева на  Q
+Фаеры на E
+Бафаете проворство и запускаете макрос.
+
+Цель в таргет берёт сам, нужно лишь двигаться.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 30 ms
+KeyUp 20 1
+Delay 30 ms
+KeyDown 8 1
+Delay 30 ms
+KeyUp 8 1
+Delay 30 ms
+KeyDown 20 1
+Delay 30 ms
+KeyUp 20 1
+Delay 30 ms
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Archeage</Software>
+  </DefaultMacro>
+</Root>

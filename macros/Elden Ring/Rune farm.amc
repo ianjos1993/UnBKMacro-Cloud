@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>A macro just as it named. All the keys are default binds, you should reset your keybinds to default. The sacred relic sword is a must-have.Equip the Great-Jar's Arsenal (or other arsenals which boost your damage) to get enough damage, otherwise this macro will get glitched.
+(The 5 sec. delay after the E key is adjusted depending on your disk speed. I suggest you change it.)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+Delay 146 ms
+KeyUp 10 1
+Delay 671 ms
+KeyDown 9 1
+Delay 153 ms
+KeyUp 9 1
+Delay 300 ms
+KeyDown 8 1
+Delay 87 ms
+KeyUp 8 1
+Delay 320 ms
+KeyDown 8 1
+Delay 113 ms
+KeyUp 8 1
+Delay 5 s
+KeyDown 26 1
+Delay 4 s
+KeyUp 26 1
+KeyDown 4 1
+Delay 1 s
+KeyUp 4 1
+Delay 101 ms
+KeyDown 26 1
+Delay 1 s
+KeyUp 26 1
+Delay 100 ms
+KeyDown 225 1
+Delay 100 ms
+RightDown 1
+Delay 136 ms
+RightUp 1
+Delay 100 ms
+KeyUp 225 1
+Delay 6 s</Syntax>
+    </KeyDown>
+    <Software>Elden Ring</Software>
+  </DefaultMacro>
+</Root>

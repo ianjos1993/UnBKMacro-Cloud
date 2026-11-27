@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major>Макрос для поддержки баффа на урон ХРОМА</Major>
+    <Description>Вечная проблема хромы это утеря баффа на урон.
+С этим макросом можно забыть про это.
+Сделана рандомная задержка что бы обезопасить себя.
+
+Удачного фарма тенно!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+//Задержка расчитывается индивидуально от билда
+Delay 40000 44400 ms</Syntax>
+    </KeyDown>
+    <Software>Warframe</Software>
+  </DefaultMacro>
+</Root>

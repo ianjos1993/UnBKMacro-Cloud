@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>обычный макрос который позволит сделать автоматически схемы, из минусов только то что автоматически не едет и не сдает только делает, а так макрос позволит отойти в туалет пока делает схемы или просто по отдыхать, макрос автоматически нажимает Е и в нужный тайминг прокликиват еще раз Е что бы забрать схему, этот макрос для разрешения 16:9, 1920 x 1080, можно в окне или в полноэкранном режиме</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 30 ms
+KeyUp 8 1
+GoColor 6 1 126,211,33 255,255,255 2 965 476 89 37 1 0
+GoColor 4 0 126,211,33 255,255,255 2 965 476 89 37 1 0
+KeyDown 8 1
+Delay 30 ms
+KeyUp 8 1
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>tuchka</Major>
+    <Description>Fortnite edit macro : G=edit  7=select building
+
+Its really fast so if it lags i assume no liability
+so be carefu
+
+set the macro mode to "execute until the key is pressed again ", otherwise you will not turn it off</Description>
+    <Comment>The delay is 0.5 seconds or 5milliseconds</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 5 ms
+Delay 5 ms
+KeyDown 10 1
+Delay 5 ms
+KeyUp 10 1
+Delay 5 ms
+KeyDown 36 1
+Delay 5 ms
+KeyUp 36 1
+Delay 5 ms
+GoWhile 1 10000000</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

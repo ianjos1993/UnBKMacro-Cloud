@@ -1,0 +1,53 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>1280\1080  0.8      зажимать с приседа   беспалевный желаю хорошей игры с моим первым макросом
+
+до 100 метров</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR -437 344
+Delay 64
+Delay 64
+LeftUp 1
+Delay 64
+MoveR 0 0
+Delay 32 ms
+MoveR 0 0
+Delay 64
+MoveR 0 0
+Delay 64
+MoveTo 1036 578
+MoveR -369 225
+Delay 64
+MoveR -378 253
+Delay 64
+MoveR -383 265
+Delay 64
+MoveR -383 284
+Delay 64
+MoveR -393 237
+Delay 64
+MoveR -392 270
+Delay 64
+MoveR -395 287
+Delay 64
+MoveR -392 293
+Delay 64
+MoveR -414 335
+Delay 64
+MoveR -415 339
+Delay 64
+MoveR -430 344
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>Данный макрос  помогает быстро брать тотем во втопую  руку</Major>
+    <Description>Данный макрос автоматически перекладывает тотем во вторую руку при малом количестве хп
+Для использования нажать Е, затем 3 и левую кнопку мыши</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+KeyDown 32 1
+Delay 25
+KeyUp 32 1
+Delay 25
+LeftDown 1
+Delay 25
+LeftUp 1
+Delay 25
+KeyDown 8 1
+Delay 25
+KeyUp 8 1
+Delay 25
+Delay 25
+KeyUp 8 1
+Delay 25</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

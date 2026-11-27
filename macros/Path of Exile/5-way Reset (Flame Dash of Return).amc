@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major>5-Way Resetter (with Flame Dash of Return)</Major>
+    <Description>This is a macro for resetting the 5-way in Path of Exile. You should purchase your Flame Dash of Return gem and level it up before using this macro to avoid any cast speed issues. Thankfully this version of the gem doesn't have any built-in cooldown so you can use it as a 1-link in your unset ring. 
+
+For optimal result please use your Haste Divine Blessing and avoid Vaal Haste.</Description>
+    <Comment>https://keyran.net - Free macros download</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 2218 ms
+GoWhile 1 300</Syntax>
+    </KeyDown>
+    <Software>Path of Exile</Software>
+  </DefaultMacro>
+</Root>

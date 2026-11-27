@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Благодаря этому макросу, вы сможете быстро заменить вашу броню, на броню, которая находится в десбоксе. Работает при разрешении экрана 1920x1080.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1 1
+Delay 5 ms
+MoveTo 391 700
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+KeyDown 41 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

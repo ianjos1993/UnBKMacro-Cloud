@@ -1,0 +1,112 @@
+<Root>
+  <DefaultMacro>
+    <Major>Трамвай 2</Major>
+    <Description>Макрос на 90 рейсов трамвая №2 в депо №1 Приволжска. Трамвай ЗАДНИЙ.
+Начинаете с места, работает самостоятельно
+Светофоров на пути нет, за них не беспокойтесь
+Расчитан на 90 циклов - ровно на задание 8 уровня бп.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 28840 ms
+KeyUp 26 1
+Delay 567 ms
+KeyDown 22 1
+Delay 4456 ms
+KeyUp 22 1
+Delay 456 ms
+KeyDown 31 1
+Delay 87 ms
+KeyUp 31 1
+Delay 5456 ms
+KeyDown 31 1
+Delay 64 ms
+KeyUp 31 1
+Delay 455 ms
+KeyDown 26 1
+Delay 32600 ms
+KeyUp 26 1
+Delay 47 ms
+KeyDown 22 1
+Delay 4488 ms
+KeyUp 22 1
+Delay 623 ms
+KeyDown 31 1
+Delay 87 ms
+KeyUp 31 1
+Delay 5416 ms
+KeyDown 31 1
+Delay 96 ms
+KeyUp 31 1
+Delay 279 ms
+KeyDown 26 1
+Delay 42712 ms
+KeyUp 26 1
+Delay 184 ms
+KeyDown 22 1
+Delay 839 ms
+KeyUp 22 1
+Delay 399 ms
+KeyDown 22 1
+Delay 3520 ms
+KeyUp 22 1
+Delay 791 ms
+KeyDown 31 1
+Delay 79 ms
+KeyUp 31 1
+Delay 5512 ms
+KeyDown 31 1
+Delay 111 ms
+KeyUp 31 1
+Delay 383 ms
+KeyDown 26 1
+Delay 33047 ms
+KeyUp 26 1
+Delay 160 ms
+KeyDown 22 1
+Delay 4479 ms
+KeyUp 22 1
+Delay 575 ms
+KeyDown 31 1
+Delay 96 ms
+KeyUp 31 1
+Delay 6247 ms
+KeyDown 31 1
+Delay 111 ms
+KeyUp 31 1
+Delay 215 ms
+KeyDown 26 1
+Delay 35519 ms
+KeyUp 26 1
+Delay 432 ms
+KeyDown 22 1
+Delay 4456 ms
+KeyUp 22 1
+Delay 751 ms
+KeyDown 31 1
+Delay 80 ms
+KeyUp 31 1
+Delay 5639 ms
+KeyDown 31 1
+Delay 103 ms
+KeyUp 31 1
+Delay 376 ms
+KeyDown 26 1
+Delay 7456 ms
+KeyUp 26 1
+Delay 695 ms
+LeftDown 1
+Delay 65 ms
+LeftUp 1
+Delay 2447 ms
+GoWhile 1 90</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

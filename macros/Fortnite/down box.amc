@@ -1,0 +1,77 @@
+<Root>
+  <DefaultMacro>
+    <Major>full down box somone low delay</Major>
+    <Description>whit this scrpt u can down box somone very fast, set these keys as ur secondary bijld, edit and select edit binds: 
+all notepad keys:
+2: floor
+6: build(normal left mouse button)
+7: edit 
+8: select edit (i use edit on release, but u can modify the script to add non edit on release
+1: wall
+b: shotgun (optional)
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 90 1
+Delay 64
+KeyUp 90 1
+Delay 64
+KeyDown 94 1
+Delay 64
+KeyUp 94 1
+Delay 64
+KeyDown 92 1
+Delay 64
+KeyUp 92 1
+Delay 64
+KeyDown 94 1
+Delay 64
+KeyUp 94 1
+Delay 64
+KeyDown 95 1
+Delay 64
+KeyUp 95 1
+Delay 64
+KeyDown 96 1
+Delay 64
+KeyUp 96 1
+Delay 64
+KeyDown 95 1
+Delay 64
+KeyUp 95 1
+Delay 64
+KeyDown 96 1
+Delay 64
+KeyUp 96 1
+Delay 150 ms
+KeyDown 89 1
+Delay 64
+KeyUp 89 1
+Delay 64
+KeyDown 94 1
+Delay 500 ms
+//hold wall
+KeyUp 94 1
+Delay 64
+KeyDown 92 1
+Delay 64
+KeyUp 92 1
+Delay 64
+KeyDown 94 1
+Delay 64
+KeyUp 94 1
+Delay 64
+KeyDown 5 1
+Delay 64
+KeyUp 5 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

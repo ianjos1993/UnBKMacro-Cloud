@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro optimizes the Valkirye and warden MPX weapon for minimal recoil when using a telescopic sight at a resolution of 1920x1440 with a refresh rate of 165 Hz and an aspect ratio of 3:4. FOV of any width is recommended, except for 90, as well as the use of attachments: long barrel, straight handle, telescopic sight. Without the use of all required attachments, the return will be negative.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1 ms
+MoveR 0 10
+Delay 3 ms
+Delay 6 ms
+Delay 9 ms</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

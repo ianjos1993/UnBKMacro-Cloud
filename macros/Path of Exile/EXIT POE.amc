@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major>Immortal</Major>
+    <Description>Авто-выход на кнопку (Чат сам открывается и прописывается команда /exit (20мс задержка)) он не должен быть замечен, пользуюсь им давно играя на ХК</Description>
+    <Comment>Пользуйтесь. </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 88 1
+Delay 20
+KeyUp 88 1
+Delay 20
+KeyDown 56 1
+Delay 20
+KeyUp 56 1
+Delay 20
+KeyDown 8 1
+Delay 20
+KeyUp 8 1
+Delay 20
+KeyDown 27 1
+Delay 20
+KeyUp 27 1
+Delay 20
+KeyDown 12 1
+Delay 20
+KeyUp 12 1
+Delay 20
+KeyDown 23 1
+Delay 20
+KeyUp 23 1
+Delay 20
+KeyDown 88 1
+Delay 20
+KeyUp 88 1
+Delay 20</Syntax>
+    </KeyDown>
+    <Software>Path of Exile</Software>
+  </DefaultMacro>
+</Root>

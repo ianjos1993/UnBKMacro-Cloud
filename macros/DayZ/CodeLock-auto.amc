@@ -1,0 +1,284 @@
+<Root>
+  <DefaultMacro>
+    <Major>Авто-подбор замка в дейз</Major>
+    <Description>СРЕДНЕЕ ВРЕМЯ ПОДБОРА 1000 КОМБИНАЦИЙ 19 МИНУТ 20 СЕКУНД - ЭТО ВСЕГО НА 1 МИНУТУ МЕДЛЕННЕЙ, ЧЕМ ВРУЧНУЮ.У ДРУГИХ СКРИПТОВ ИЗ-ЗА ИХ ОСОБЕННОСТЕЙ СРЕДНЕЕ ВРЕМЯ 20-25 МИНУТ.
+ОЧЕНЬ ВАЖНО,ЧТОБ ИГРА РАБОТАЛА БЕЗ ЛАГОВ
+1.Требуется изменить привязку клавиши прокрута замка на левую кнопку мыши(по стандарту F)
+2.Выбор цифры должен находится на X0[0]0 для 4-ёх значного и на 0[0]0 для 3-ёх значного замка.
+3.Запускаем скрипт и кликаем в игре на левую кнопку мыши!Всё,авто подбор замка пошёл,он полностью прокрутит тысячу.
+4.Дальше останавливаем скрипт,меняем тысячу(X) и снова повторяем алгоритм действий(если замок 4-ёх значный)
+</Description>
+    <Comment>27.10.2023 после часа тестов я могу уверить,что код полностью исправлен и больше не имеет недостатков и лагов.Для корректной работы скрипта всё ещё требуется хороший интернет без пролагов.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 400 ms
+Delay 64 ms
+LeftDown 1
+Delay 5879 ms
+LeftUp 1
+Delay 928 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 408 ms
+LeftDown 1
+Delay 159 ms
+LeftUp 1
+Delay 536 ms
+LeftDown 1
+Delay 120 ms
+LeftUp 1
+Delay 527 ms
+LeftDown 1
+Delay 1559 ms
+LeftUp 1
+Delay 775 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 456 ms
+LeftDown 1
+Delay 5815 ms
+LeftUp 1
+Delay 792 ms
+LeftDown 1
+Delay 160 ms
+LeftUp 1
+Delay 343 ms
+LeftDown 1
+Delay 144 ms
+LeftUp 1
+Delay 432 ms
+LeftDown 1
+Delay 151 ms
+LeftUp 1
+Delay 383 ms
+LeftDown 1
+Delay 1496 ms
+LeftUp 1
+Delay 640 ms
+LeftDown 1
+Delay 143 ms
+LeftUp 1
+Delay 335 ms
+LeftDown 1
+Delay 5888 ms
+LeftUp 1
+Delay 744 ms
+LeftDown 1
+Delay 128 ms
+LeftUp 1
+Delay 655 ms
+LeftDown 1
+Delay 143 ms
+LeftUp 1
+Delay 383 ms
+LeftDown 1
+Delay 144 ms
+LeftUp 1
+Delay 463 ms
+LeftDown 1
+Delay 1567 ms
+LeftUp 1
+Delay 784 ms
+LeftDown 1
+Delay 127 ms
+LeftUp 1
+Delay 296 ms
+LeftDown 1
+Delay 5920 ms
+LeftUp 1
+Delay 759 ms
+LeftDown 1
+Delay 168 ms
+LeftUp 1
+Delay 399 ms
+LeftDown 1
+Delay 192 ms
+LeftUp 1
+Delay 432 ms
+LeftDown 1
+Delay 175 ms
+LeftUp 1
+Delay 279 ms
+LeftDown 1
+Delay 1600 ms
+LeftUp 1
+Delay 648 ms
+LeftDown 1
+Delay 151 ms
+LeftUp 1
+Delay 288 ms
+LeftDown 1
+Delay 5936 ms
+LeftUp 1
+Delay 719 ms
+LeftDown 1
+Delay 143 ms
+LeftUp 1
+Delay 352 ms
+LeftDown 1
+Delay 176 ms
+LeftUp 1
+Delay 431 ms
+LeftDown 1
+Delay 151 ms
+LeftUp 1
+Delay 312 ms
+LeftDown 1
+Delay 1623 ms
+LeftUp 1
+Delay 616 ms
+LeftDown 1
+Delay 151 ms
+LeftUp 1
+Delay 279 ms
+LeftDown 1
+Delay 5920 ms
+LeftUp 1
+Delay 799 ms
+LeftDown 1
+Delay 168 ms
+LeftUp 1
+Delay 376 ms
+LeftDown 1
+Delay 199 ms
+LeftUp 1
+Delay 360 ms
+LeftDown 1
+Delay 167 ms
+LeftUp 1
+Delay 263 ms
+LeftDown 1
+Delay 1664 ms
+LeftUp 1
+Delay 687 ms
+LeftDown 1
+Delay 176 ms
+LeftUp 1
+Delay 256 ms
+LeftDown 1
+Delay 5944 ms
+LeftUp 1
+Delay 711 ms
+LeftDown 1
+Delay 160 ms
+LeftUp 1
+Delay 407 ms
+LeftDown 1
+Delay 192 ms
+LeftUp 1
+Delay 431 ms
+LeftDown 1
+Delay 168 ms
+LeftUp 1
+Delay 287 ms
+LeftDown 1
+Delay 1576 ms
+LeftUp 1
+Delay 727 ms
+LeftDown 1
+Delay 151 ms
+LeftUp 1
+Delay 400 ms
+LeftDown 1
+Delay 5904 ms
+LeftUp 1
+Delay 631 ms
+LeftDown 1
+Delay 176 ms
+LeftUp 1
+Delay 296 ms
+LeftDown 1
+Delay 176 ms
+LeftUp 1
+Delay 248 ms
+LeftDown 1
+Delay 159 ms
+LeftUp 1
+Delay 215 ms
+LeftDown 1
+Delay 1599 ms
+LeftUp 1
+Delay 712 ms
+LeftDown 1
+Delay 151 ms
+LeftUp 1
+Delay 368 ms
+LeftDown 1
+Delay 5900 ms
+LeftUp 1
+Delay 711 ms
+LeftDown 1
+Delay 168 ms
+LeftUp 1
+Delay 359 ms
+LeftDown 1
+Delay 175 ms
+LeftUp 1
+Delay 319 ms
+LeftDown 1
+Delay 144 ms
+LeftUp 1
+Delay 263 ms
+LeftDown 1
+Delay 1552 ms
+LeftUp 1
+Delay 935 ms
+LeftDown 1
+Delay 135 ms
+LeftUp 1
+Delay 352 ms
+LeftDown 1
+Delay 5951 ms
+LeftUp 1
+Delay 744 ms
+LeftDown 1
+Delay 159 ms
+LeftUp 1
+Delay 352 ms
+LeftDown 1
+Delay 184 ms
+LeftUp 1
+Delay 350 ms
+LeftDown 1
+Delay 1599 ms
+LeftUp 1
+Delay 592 ms
+LeftDown 1
+Delay 159 ms
+LeftUp 1
+Delay 350 ms
+LeftDown 1
+Delay 1583 ms
+LeftUp 1
+Delay 736 ms
+LeftDown 1
+Delay 168 ms
+LeftUp 1
+Delay 150 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 250 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 250 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 250 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+GoWhile 1 10</Syntax>
+    </KeyDown>
+    <Software>DayZ</Software>
+  </DefaultMacro>
+</Root>

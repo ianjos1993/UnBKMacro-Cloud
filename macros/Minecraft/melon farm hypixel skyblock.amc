@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Скрипт для автоматизации добывания арбузов на hypixel режим skyblock.
+Что делает макрос:
+1.Зажимает A W ЛКМ
+2. Каждый 50 секунд переходит на новый ярус (время поставьте то, за которое вы проходите 1 ряд фермы и +1-2 секунды)
+Примечание:
+Ферма должна быть трехярусная вверх, ознакомьтесь на ютубе.
+Угол 58-59 градусов (чтобы ломал 3 арбуза сразу)
+Желательно версия 1.8.9
+Внимание!!!
+Макросы запрещены на режиме skyblock coop rpg.
+Используйте только если вы сидите около компьютера и можете среагировать на неожиданную проверку 
+на макросы. 
+Не советую оставлять на ночь, всегда следите как ваш персонаж добывает, иначе вас могут забанить 
+и почистить полностью аккаунт, и вам придется начинать все с самого начала.
+Удачного фарма!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+LeftDown 1
+KeyDown 26 1
+Delay 49 s
+KeyUp 4 1
+LeftUp 1
+KeyDown 4 1
+Delay 300 ms
+KeyUp 4 1
+KeyDown 7 1
+LeftDown 1
+Delay 49 s
+LeftUp 1
+KeyUp 7 1
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

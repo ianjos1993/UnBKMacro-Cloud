@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major>RF Online</Major>
+    <Description>Будет работать на сервах RF Online, где есть функиця TAB TARGET и Autoloot. В моем случае использовал на мобах, которые падают с пары ударов/скилов. Смысл такой. Во внутренний макрос игры добавляем все используемые заклинания/скилы. Иконку макроса добавляем на панель быстрого доступа. Моем случае это восьмая ячейка. Ей соответствует кнопка 8 или F8. В макросе сейчас стоит кнопка 8. В разных версиях игры порой по разному работает. Алгоритм макроса такой. Ваш персонаж выбирает противника (кнопка таб), атакует его магией/скилами (кнопка макроса на панели задач). Моб с пары ударов падает, а ваш персонаж уже бежит к следующему. Весь процесс зацикливается.Тестировалось на мобах которые падают быстро. Фарм-мобы)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+KeyDown 37 1
+Delay 64
+KeyUp 37 1
+Delay 2 s
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+KeyDown 37 1
+Delay 64
+KeyUp 37 1
+Delay 2 s
+KeyDown 37 1
+Delay 64
+KeyUp 37 1
+Delay 2 s
+GoWhile 1 9999</Syntax>
+    </KeyDown>
+    <Software>RF Online</Software>
+  </DefaultMacro>
+</Root>

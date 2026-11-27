@@ -1,0 +1,144 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всем доброго времени суток! Сегодня я вновь решил порадовать вас новым макросом. Этот макрос пригодится не только на публичных серверах, но и на локальных. В чем суть макроса? Она заключается в том, чтобы автоматически включать сохранение инвентаря. Он прописывает команду /gamerule keepInventory true. Именно она включает сохранение на серверах. Например, когда вы решаете подраться с друзьями на своем локальном сервере и не хотите по-новой зачаровывать вещи после их потери, или когда на открытых серверах администрация проводит какие-либо тесты.
+
+Инструкция по настройке макроса:
+1)Установите файл данного макроса.
+2)Откройте панель управления клавиатуры Keyran.
+3)Выбираете удобную для вас клавишу или кнопку мыши.
+4)Нажимаете по ней правой кнопкой мыши и назначаете макрос.
+5)Сохраняете и используете.
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 29 ms
+KeyUp 56 1
+Delay 29 ms
+KeyDown 10 1
+Delay 29 ms
+KeyUp 10 1
+Delay 29 ms
+KeyDown 4 1
+Delay 29 ms
+KeyUp 4 1
+Delay 29 ms
+KeyDown 16 1
+Delay 29 ms
+KeyUp 16 1
+Delay 29 ms
+KeyDown 8 1
+Delay 29 ms
+KeyUp 8 1
+Delay 29 ms
+KeyDown 21 1
+Delay 29 ms
+KeyUp 21 1
+Delay 29 ms
+KeyDown 24 1
+Delay 29 ms
+KeyUp 24 1
+Delay 29 ms
+KeyDown 15 1
+Delay 29 ms
+KeyUp 15 1
+Delay 29 ms
+KeyDown 8 1
+Delay 29 ms
+KeyUp 8 1
+Delay 29 ms
+KeyDown 44 1
+Delay 29 ms
+KeyUp 44 1
+Delay 29 ms
+KeyDown 14 1
+Delay 29 ms
+KeyUp 14 1
+Delay 29 ms
+KeyDown 8 1
+Delay 29 ms
+KeyUp 8 1
+Delay 29 ms
+KeyDown 8 1
+Delay 29 ms
+KeyUp 8 1
+Delay 29 ms
+KeyDown 19 1
+Delay 29 ms
+KeyUp 19 1
+Delay 29 ms
+KeyDown 57 1
+Delay 29 ms
+KeyUp 57 1
+Delay 29 ms
+KeyDown 12 1
+Delay 29 ms
+KeyUp 12 1
+Delay 29 ms
+KeyDown 57 1
+Delay 29 ms
+KeyUp 57 1
+Delay 29 ms
+KeyDown 17 1
+Delay 29 ms
+KeyUp 17 1
+Delay 29 ms
+KeyDown 25 1
+Delay 29 ms
+KeyUp 25 1
+Delay 29 ms
+KeyDown 8 1
+Delay 29 ms
+KeyUp 8 1
+Delay 29 ms
+KeyDown 17 1
+Delay 29 ms
+KeyUp 17 1
+Delay 29 ms
+KeyDown 23 1
+Delay 29 ms
+KeyUp 23 1
+Delay 29 ms
+KeyDown 18 1
+Delay 29 ms
+KeyUp 18 1
+Delay 29 ms
+KeyDown 21 1
+Delay 29 ms
+KeyUp 21 1
+Delay 29 ms
+KeyDown 28 1
+Delay 29 ms
+KeyUp 28 1
+Delay 29 ms
+KeyDown 44 1
+Delay 29 ms
+KeyUp 44 1
+Delay 29 ms
+KeyDown 23 1
+Delay 29 ms
+KeyUp 23 1
+Delay 29 ms
+KeyDown 21 1
+Delay 29 ms
+KeyUp 21 1
+Delay 29 ms
+KeyDown 24 1
+Delay 29 ms
+KeyUp 24 1
+Delay 29 ms
+KeyDown 8 1
+Delay 29 ms
+KeyUp 8 1
+Delay 29 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

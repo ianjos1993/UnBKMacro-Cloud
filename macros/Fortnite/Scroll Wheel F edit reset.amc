@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Bind the key for the marco This is fortnite only, not any others. (could be possible for strucid in roblox)</Description>
+    <Comment>Scroll Wheel reset edit but with the F keybind for editin it</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 5 ms
+KeyUp 9 1
+Delay 5 ms
+WheelUp 1
+Delay 5 ms
+WheelDown 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

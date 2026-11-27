@@ -1,0 +1,71 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Инвокер
+Прокаст - Ветра + катклизм + метеор + бласт + рефрешер + метеор + бласт.
+
+Квас - q
+Векс - e
+екзорт - r
+первый слот - T
+второй слот - G
+Ульт - F
+
+Должны быть включени квикасты
+рефрешер должен быть в слоте - v
+
+Тайминги и задержки расчитаны на 30 лвл инвока. (0.5 сек каста инвока)
+
+Для полной картины можно дополнить каст хексом и етериалом (Но нажимать его самим)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+KeyUp 10 1
+Delay 100 ms
+KeyDown 9 1
+KeyUp 9 1
+Delay 1700 ms
+KeyDown 226 1
+KeyDown 10 1
+KeyUp 10 1
+Delay 45 ms
+KeyUp 226 1
+Delay 600 ms
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 500 ms
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 64
+KeyDown 25 1
+Delay 64
+KeyUp 25 1
+Delay 64
+KeyDown 10 1
+Delay 64
+KeyUp 10 1
+Delay 350 ms
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

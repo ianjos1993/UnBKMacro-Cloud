@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Как использовть:
+1. Зажимаем клавишу  которую забиндили, прожмутся  скиллы c v tab 2 4
+2. Удерживать пкм. (в упрощеном режиме) для прожатия F   
+3. 2,4,V прожимаем  по откату.
+Макрос  пока сырой</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+Delay 20
+KeyUp 6 1
+Delay 20
+KeyDown 25 1
+Delay 20
+KeyUp 25 1
+Delay 20
+KeyDown 43 1
+Delay 20
+KeyUp 43 1
+Delay 20
+KeyDown 31 1
+Delay 20
+KeyUp 31 1
+Delay 20
+KeyDown 33 1
+Delay 20
+KeyUp 33 1
+Delay 20
+KeyDown 31 1
+Delay 20
+KeyUp 31 1</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

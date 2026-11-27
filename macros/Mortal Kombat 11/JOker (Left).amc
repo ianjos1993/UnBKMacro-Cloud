@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Начальное комбо за джокера с левой стороны, выполнять вблизи с противником.
+Управление:
+Легкий удар рукой (1) - end
+Сильный удар рукой (2) - home
+Легкий удар ногой (3) - pageDown
+Сильный удар ногой (4) - pageUp</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+KeyUp 4 1
+Delay 24 ms
+KeyDown 77 1
+KeyUp 77 1
+Delay 12 ms
+KeyDown 74 1
+KeyUp 74 1
+Delay 12 ms
+KeyDown 77 1
+KeyUp 77 1
+Delay 9 ms
+KeyDown 7 1
+KeyUp 7 1
+Delay 3 ms
+KeyDown 74 1
+KeyUp 74 1
+Delay 9 ms
+KeyDown 4 1
+Delay 12 ms
+KeyUp 4 1
+Delay 12 ms
+KeyDown 7 1
+KeyUp 7 1
+Delay 3 ms
+KeyDown 74 1
+KeyUp 74 1</Syntax>
+    </KeyDown>
+    <Software>Mortal Kombat 11</Software>
+  </DefaultMacro>
+</Root>

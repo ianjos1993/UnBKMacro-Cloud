@@ -1,0 +1,70 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простой макрос для игры RF online. На фарм спецом с быстром заливом мобов через туры с помощью TAB. Подходит под фарм мобов с автовыдачей ресурсов или с авто-лутом на сервере. Макрос очень просто, при использовании не собьется (единственое, если вы умрете или убежите куда-то, фарм прекратится).</Description>
+    <Comment>Актуально на серверах с TAB-таргетом, где таб нет - работать не будет макрос.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 90 ms
+Delay 194 ms
+KeyUp 43 1
+Delay 330 ms
+KeyUp 226 1
+Delay 192 ms
+KeyDown 226 1
+Delay 85 ms
+KeyDown 43 1
+Delay 154 ms
+KeyUp 43 1
+Delay 26 ms
+KeyUp 226 1
+Delay 929 ms
+KeyDown 43 1
+Delay 138 ms
+KeyUp 43 1
+Delay 488 ms
+KeyDown 44 1
+Delay 117 ms
+KeyUp 44 1
+Delay 4144 ms
+KeyDown 43 1
+Delay 106 ms
+KeyUp 43 1
+Delay 718 ms
+KeyDown 44 1
+Delay 133 ms
+KeyUp 44 1
+Delay 4918 ms
+KeyDown 43 1
+Delay 138 ms
+KeyUp 43 1
+Delay 304 ms
+KeyDown 44 1
+Delay 111 ms
+KeyUp 44 1
+Delay 3830 ms
+KeyDown 43 1
+Delay 127 ms
+KeyUp 43 1
+Delay 698 ms
+KeyDown 44 1
+Delay 122 ms
+KeyUp 44 1
+Delay 4669 ms
+KeyDown 43 1
+Delay 133 ms
+KeyUp 43 1
+Delay 324 ms
+KeyDown 44 1
+Delay 133 ms
+KeyUp 44 1
+GoWhile 1 99999</Syntax>
+    </KeyDown>
+    <Software>RF online</Software>
+  </DefaultMacro>
+</Root>

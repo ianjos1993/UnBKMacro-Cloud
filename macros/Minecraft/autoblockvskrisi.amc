@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Ещё 1 дополнение к макросу на кристаллы. Часто происходит, что вас бахают просто из-за того что ты не успел поставить обсидиан(кто не знает в бою на кристаллах если видишь что тебя хотят взорвать, нужно успеть поставить обсидиан перед человеком, тогда весь урон от кристалла поглотится). Так вот, скачиваем, биндим, целимся на блок, нажимаем 1 кнопку, обсидиан сам достаётся, ставится и переключается на 1 горячую клавишу. Очень удобный макрос. Для адекватной работы требуеться держать обсидиан в 8 горячем слоте.
+
+Удачи</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 37 1
+Delay 30 ms
+KeyUp 37 1
+Delay 30 ms
+RightDown 1
+Delay 30 ms
+RightUp 1
+Delay 30 ms
+KeyDown 30 1
+Delay 30 ms
+KeyUp 30 1
+Delay 30 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

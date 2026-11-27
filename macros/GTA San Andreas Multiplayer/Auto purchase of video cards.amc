@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макросс предназначен для автоматичиской закупке видеокарт с магазина карт, очень удобный макрос не нужно бегать к компу каждые 10минут, для начало закупки встаньте на пикап магазина и запустите файл.
+ОБЕЗАТЕЛЬНО ВКЛЮЧИТЕ ДРАЙВЕР В KEYRUN иначе не будет работать Alt</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 226 1
+Delay 123 ms
+KeyUp 226 1
+Delay 156 ms
+KeyDown 88 1
+Delay 63 ms
+KeyUp 88 1
+Delay 456 ms
+KeyDown 88 1
+Delay 127 ms
+KeyUp 88 1
+Delay 15 s
+GoWhile 1 200</Syntax>
+    </KeyDown>
+    <Software>Samp</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,69 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>A macro for the Digimon Master Online 
+simple macro can be use on every map
+
+
+Screen Resolution : Full Screen 1920x1080
+
+Shortcut in game setting:
+Skill shortcut is F1 and F2
+HP shortcut is F6
+DS shortcut is 8
+Pick up shortcut is 2 
+
+line 1 for find digimon
+line 7 for check digimon health
+line 25 to heal HP
+line 29 to heal DS
+line 35 for check if target digimon die or not
+</Description>
+    <Comment>https://keyran.net - Free macros download</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 10 1 177,48,35 255,255,255 2 969 52 5 7 1 0
+KeyDown 43 1
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+Delay 111 ms
+KeyUp 43 1
+Delay 111 ms
+KeyDown 59 1
+Delay 111 ms
+KeyUp 59 1
+Delay 111 ms
+KeyDown 58 1
+Delay 111 ms
+KeyUp 58 1
+Delay 111 ms
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+GoWhile 18 6
+GoColor 25 1 0,0,51 255,255,255 2 197 124 3 7 1 0
+Goto 29
+KeyDown 63 1
+Delay 111 ms
+KeyUp 63 1
+Delay 111 ms
+GoColor 36 0 0,0,51 255,255,255 2 131 138 3 7 1 0
+KeyDown 37 1
+Goto 36
+Delay 111 ms
+KeyUp 37 1
+Delay 111 ms
+GoColor 14 0 0,0,51 255,255,255 2 829 52 1 8 1 0
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Digimon Masters Online</Software>
+  </DefaultMacro>
+</Root>

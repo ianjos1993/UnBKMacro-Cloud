@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный скрипт помогает стоять в лавке на центральном рынке даже когда ты не дома. Скрипт работает таким образом каждые  5 мин автоматически нажимается еск и после чего через 1 сек еще раз нажимается еск таким образом вас не смогут кикнуть с лавки за афк 50+ или за афк но еск </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 41 1
+Delay 5 min
+KeyDown 41 1
+Delay 1 s
+KeyDown 41 1</Syntax>
+    </KeyDown>
+    <Software>GTA San Andreas</Software>
+  </DefaultMacro>
+</Root>

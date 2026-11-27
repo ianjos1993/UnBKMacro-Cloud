@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Bhop при net_graph "1" при fps_override "1" fps_max "144" rate "100000" cl_updaterate "102" cl_cmdrate "102"
+
+Джампы в движке кс 1.6  устроены так, что данный макрос идеален лишь не более чем при 144 ФПС, т.е. не будет обрываться распрыжка при зажатой клавише, если играть на фпс_мах 200, 300-500-1000, то джампы не будут так распрыгиваться и будет персонаж стопориться
+
+Сторого такие тайминги задержки, ни больше ни меньше.Даже если поставить в конце макроса на 1 мс больше или меньше, то скорость юнитов будет обываться при каком-либо из fps_max.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 1 ms
+KeyUp 44 1
+Delay 16 ms</Syntax>
+    </KeyDown>
+    <Software>CS 1.6</Software>
+  </DefaultMacro>
+</Root>

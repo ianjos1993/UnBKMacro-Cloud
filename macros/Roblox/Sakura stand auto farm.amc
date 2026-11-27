@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос предназначен для выполнения автоматического фарма денег и опыта но не прокачивает мастери просто открывает боксы в игре с помощью программы Keyran. Он имеет следующую конструкцию:
+
+-Для работы макроса советуется выбрать Standless
+- Работает только на мониторах с разрешением 1980x1080
+-Так же этот макрос имеет анти АФК и авто фарм лвла
+
+Примечание: Пожалуйста, помните о правилах использования макросов и учитывайте политику игровой платформы.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 767 ms
+KeyDown 8 1
+Delay 1976 ms
+KeyUp 8 1
+Delay 3136 ms
+KeyDown 8 1
+Delay 1511 ms
+KeyUp 8 1
+Delay 2960 ms
+KeyDown 8 1
+Delay 1583 ms
+KeyUp 8 1
+Delay 2415 ms
+KeyDown 8 1
+Delay 1352 ms
+KeyUp 8 1
+Delay 1000 ms
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

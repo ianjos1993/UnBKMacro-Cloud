@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>snap + speed</Major>
+    <Description>speedboost (alc) + coldsnap, press once with course over enemy and you'll first coldsnap then alc ourself</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyDown 7 1
+Delay 64
+KeyUp 44 1
+Delay 64 ms
+KeyUp 7 1
+Delay 64
+KeyDown 9 1
+Delay 64
+KeyUp 9 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

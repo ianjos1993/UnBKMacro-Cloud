@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Single click DAKKA burst using right and left clicks to mask the macro a bit. 
+
+Setup your weapons with both the 1 and 2 section with sequentional shots selected for each. This maco will make you look like a pro with your duel clicking</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 30 60 ms
+LeftUp 1
+Delay 30 60 ms
+RightDown 1
+Delay 30 65 ms
+RightUp 1
+Delay 30 65 ms
+GoWhile 1 8</Syntax>
+    </KeyDown>
+    <Software>Mech Warrior Online</Software>
+  </DefaultMacro>
+</Root>

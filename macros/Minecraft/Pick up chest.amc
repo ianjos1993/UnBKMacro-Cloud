@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Вроде бы этот макрос для тех кому лень нажимать на шифт с лкм но мой макрос нажимает на шифт за вас *только в первый раз его нажмите не ленитесь)* Управление легкое:Нажимаем шифт в меню сундука активируется сам шифт + лкм кнопка все что вам надо делать наводиться на предметы в слоте сундука и они автоматически будут забираться + это неплохой кликер?</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

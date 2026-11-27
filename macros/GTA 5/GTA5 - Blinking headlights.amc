@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Доброго времени суток. 
+Макрос больше для эстетики и стиля. 
+
+На колесико мышки биндим вкл/выкл фары. Запускаем макрос и вы катаетесь со страбаскопами, которые очень быстро моргают и эффектно выглядят.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MiddleDown 1
+Delay 48 ms
+MiddleUp 1
+Delay 48 ms</Syntax>
+    </KeyDown>
+    <Software>GTA V</Software>
+  </DefaultMacro>
+</Root>

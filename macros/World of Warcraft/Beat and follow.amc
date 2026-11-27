@@ -1,0 +1,57 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Отличный макрос для спота на котором не постоять афк ! Если к примеру Вас постоянно откидывает от пака с мобами &lt; то этот макрос отлично подойдет ! Суть в том что вы делаете привязку к главному персанажу  путем макроса в игре /follow  ( такой то ник )  Дальше если вы раставите кнопки в игре под кнопки моего макроса , то таким  образом ваш чар  будет сам подходить к главной цели сам бить цели и подбирать лут ! </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 200 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 200 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 200 ms
+KeyDown 31 1
+Delay 64 ms
+KeyUp 31 1
+Delay 200 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 200 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 200 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 200 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 200 ms
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 210 ms
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 200 ms
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>World of Warcraft</Software>
+  </DefaultMacro>
+</Root>

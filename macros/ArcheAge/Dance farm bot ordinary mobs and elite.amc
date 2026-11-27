@@ -1,0 +1,141 @@
+<Root>
+  <DefaultMacro>
+    <Major>фарм танец рабочий бот</Major>
+    <Description>Бот для фарма таней+исцеление.
+
+!!!НАСТРАИВАТЬ В РЕДАКТОРЕ *ЦВЕТА*(цветная капля) КООРДИНАТЫ(слева на право) СИНИЕ -  мана, ставим в начало полоски МАНЫ моба. КРАСНАЯ - ставим в конец полоски ХП моба. ЗЕЛЕНАЯ - ставим у себя на здоровье, где хотим, чтобы он хилился. !!!ЕСЛИ НЕ РАБОТАЕТ - то возможно цвет не тот. СТАВИМ цвет того места, куда поставили координаты.!!!
+
+Ставишь перса на спот и включаешь.
+
+Перс хиляется, берет таргет, бегает от моба к мобу, ЛУТ через питомца.
+
+При отсутствии мобов меняет место положение начиная бегать небольшими отрывками в определенном радиусе и ищет их же(мобов).
+
+!Возможен баг, что нужно кликнуть мышью - иначе через +-30мин перестает брать в таргет. Я добавил клик мышью, но у меня мышь через Макрос не работает(возможно из-за драйвера Макроса).
+
+По вопросам(если что-то не получается) в ЛС. Спасибо за внимание.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+vk:jiiitiit</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+varE = 0
+varF = 0
+GoColor 13 3 101,150,23 103,152,23 1 217 39
+Goto 57
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64 ms
+Goto 57
+KeyDown 7 1
+Delay 64 ms
+KeyUp 26 1
+Delay 64
+varF = 0
+Goto 47
+KeyUp 7 1
+Delay 64
+KeyDown 85 1
+Delay 64
+KeyUp 85 1
+Delay 64
+varE = 0
+KeyDown 26 1
+Delay 64
+KeyDown 46 1
+Delay 64
+KeyUp 46 1
+Delay 64
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+GoColor 67 2 33,96,162 34,100,170 1 592 54
+GoColor 67 2 33,96,162 34,100,170 1 506 52
+varF = varF + 1
+if varF == 20 Goto 18
+Goto 37
+Delay 64
+varE = varE + 1
+Goto 57
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 64
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 43 1
+Delay 64 ms
+KeyUp 43 1
+Delay 100 150 ms
+if varE == 13 Goto 24
+GoColor 64 3 33,96,162 34,100,170 1 592 54
+Goto 65
+GoColor 18 3 33,96,162 34,100,170 1 506 52
+KeyUp 7 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 30 1
+Delay 150 ms
+GoColor 73 3 167,68,49 169,68,49 1 807 37
+Goto 74
+GoColor 97 3 167,68,49 186,75,54 1 862 42
+KeyDown 83 1
+Delay 64
+KeyUp 83 1
+Delay 64
+varE = 0
+Delay 64
+KeyDown 30 1
+Delay 64 ms
+KeyUp 30 1
+varE = varE + 1
+if varE == 20 Goto 49
+GoColor 79 2 167,68,49 169,68,49 1 807 37
+GoColor 79 2 167,68,49 186,75,54 1 862 42
+KeyDown 83 1
+Delay 64
+KeyUp 83 1
+Delay 64
+Goto 97
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64 100 ms
+GoColor 92 2 33,98,166 40,116,197 1 560 55
+GoColor 92 2 33,96,162 34,100,170 1 506 52
+KeyUp 30 1
+Delay 64
+KeyDown 27 1
+Delay 64
+KeyUp 27 1
+Delay 64
+KeyDown 225 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyUp 225 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Archeage</Software>
+  </DefaultMacro>
+</Root>

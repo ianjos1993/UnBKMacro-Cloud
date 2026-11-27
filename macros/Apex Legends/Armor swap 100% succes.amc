@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>(v1.0)
+
+Interact key is F, use it on a key on a deathbox and it should swap youre armor
+made for apex season post season 20 in 1080p 240 fps (works with every average fps)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 600 ms
+KeyUp 9 1
+MoveTo 1 1
+Delay 5 ms
+MoveTo 391 758
+Delay 64
+Delay 10 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 41 1
+Delay 10
+KeyUp 41 1
+Delay 10</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

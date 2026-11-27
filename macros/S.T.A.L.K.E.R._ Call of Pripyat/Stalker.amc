@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос был создан для СЕРИИ ИГР Stalker он позволяет очень быстро поднимать предметы (Я его создал для того чтобы кучу вещей быстро поднимать)  (Примечание макрос поднимает только лежащие предметы на карте) Для начала вам нужно пройти первые задания чтобы открыть свободный режим вам придется зачистить несколько локации.
+Инструкция - Скачать программку Keyran. 2.Скачать мой макрос. 3. запустить программу Keyran. 4.Запустить редактор макросов. 5.Нажать открыть файл. 6. И выйти с редактора. 7. Забиндить макрос. 8. Наслаждаться игрой.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 5 ms
+KeyUp 9 1
+Delay 5 ms
+KeyDown 9 1
+Delay 5 ms
+KeyUp 9 1
+Delay 5 ms
+KeyDown 9 1
+Delay 5 ms
+KeyUp 9 1</Syntax>
+    </KeyDown>
+    <Software>S.T.A.L.K.E.R. Call of Pripyat</Software>
+  </DefaultMacro>
+</Root>

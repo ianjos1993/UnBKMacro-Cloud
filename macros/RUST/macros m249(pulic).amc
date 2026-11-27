@@ -1,0 +1,80 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос сделан под М249 с обвесом 8х.
+У макроса можно сказать отсуствует отдача
+Для макроса использовать сенсу 1.0 FOV 75  DPI попробуйте разный
+FOV 75
+Использовать режим драйвера и инкгогнито
+Удачного использования!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

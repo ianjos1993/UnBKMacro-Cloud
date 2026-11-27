@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>подходит для поекта sqarlend
+на версию 1.4.7 перед использование макроса заходи на проект
+ставим меч на 1 хил на 3 после этого заходим в keyran 
+выбирайте клавишу на мышке ставте на неё мой макрос и зажимайте 
+эту клавишу на которой стаит макрос
+всем приятного пользования;)
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 5 ms
+KeyUp 30 1
+Delay 6 ms
+LeftDown 1
+Delay 1
+LeftUp 1
+Delay 1
+LeftDown 1
+Delay 1
+LeftUp 1
+Delay 1
+KeyDown 32 1
+Delay 5 ms
+KeyUp 32 1
+Delay 6 ms
+RightDown 1
+Delay 1
+RightUp 1
+Delay 1
+RightDown 1
+Delay 1
+RightUp 1
+Delay 1
+RightDown 1
+Delay 1
+RightUp 1
+Delay 1</Syntax>
+    </KeyDown>
+    <Software>minecraft</Software>
+  </DefaultMacro>
+</Root>

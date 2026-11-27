@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>Loki Katars SL+SS</Major>
+    <Description>macro automates a side light into side signature combo for Loki using katars, with default keyboard and mouse settings. 
+It uses M1 (left mouse button) for the side light and M2 (right mouse button) for the side signature.
+
+Must be on left side of opponent, facing right to execute correctly.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 40 ms
+LeftDown 1
+Delay 40 ms
+LeftUp 1
+Delay 0 ms
+RightDown 1
+Delay 40 ms
+RightUp 1
+Delay 71 ms
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Brawlhalla</Software>
+  </DefaultMacro>
+</Root>

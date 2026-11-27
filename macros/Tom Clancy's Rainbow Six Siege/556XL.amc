@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major>Near Perfect 556XL recoil</Major>
+    <Description>Near perfect 556XL recoil for Thermite and Osa. At 10m, spread is within head area without moving the mouse
+
+Loadout. Acog, Vertical, Compensator
+
+sens: 6, 6, 800 dpi 
+
+res: 1920 x1080
+
+aspect ratio: 16:10, 90 fov</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+MoveR 5 15
+Delay 15 ms
+MoveR 0 20
+Delay 15 ms
+MoveR 5 15
+Delay 15 ms
+MoveR 0 15
+Delay 15 ms
+MoveR 1 35
+Delay 15 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

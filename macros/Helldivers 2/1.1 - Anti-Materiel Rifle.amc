@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Macro for the Support Weapon: Anti-Materiel Rifle. The ultimate precision instrument to deliver justice from a distance. With its unmatched stopping power and pinpoint accuracy, liberty is just a well-placed shot away.
+
+In the game settings, use CTRL and the arrow keys to prepare the Stratagem.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 40 ms
+KeyDown 81 1
+Delay 40 ms
+KeyUp 81 1
+Delay 40 ms
+KeyDown 80 1
+Delay 40 ms
+KeyUp 80 1
+Delay 40 ms
+KeyDown 79 1
+Delay 40 ms
+KeyUp 79 1
+Delay 40 ms
+KeyDown 82 1
+Delay 40 ms
+KeyUp 82 1
+Delay 40 ms
+KeyDown 81 1
+Delay 40 ms
+KeyUp 81 1
+Delay 40 ms
+KeyUp 224 1</Syntax>
+    </KeyDown>
+    <Software>Helldivers 2</Software>
+  </DefaultMacro>
+</Root>

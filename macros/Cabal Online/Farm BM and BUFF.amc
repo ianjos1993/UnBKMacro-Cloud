@@ -1,0 +1,66 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Фарм мобов с БМ и применением бафов
+
+Для чего?:
+Можно использовать как для прокачки экспы и аэкспы, так и для фарма на ивентах полезных вещей которые падают в данжах
+
+Как настроить:
+В слоты Alt+ 1, 2, 3, 4, 5 устанавливаем бафы без кд и третий БМ
+В слоты 1, 2, 3, 4 вставляем обычные атаки а в слот 5 атаку третьего БМа
+Лут автоматически подбирается
+Триггер на мобов тоже автоматический, если не работает то проверьте в настройках игры кнопку которая отвечает за это, она должна стоять на букве Z
+
+
+Примечание: 
+1. В Alt+ слоты можно вместо бафов установить ХП для регена здоровья
+2. В место третьего БМа можно использовать любой, но с третьим работает лучше всего </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 226 1
+KeyDown 30 1
+KeyUp 30 1
+KeyDown 31 1
+KeyUp 31 1
+KeyDown 32 1
+KeyUp 32 1
+KeyDown 33 1
+KeyUp 33 1
+KeyDown 34 1
+KeyUp 34 1
+KeyUp 226 1
+KeyDown 29 1
+KeyUp 29 1
+KeyDown 30 1
+KeyUp 30 1
+Delay 64 ms
+KeyDown 31 1
+KeyUp 31 1
+Delay 64 ms
+KeyDown 32 1
+KeyUp 32 1
+Delay 64 ms
+KeyDown 33 1
+KeyUp 33 1
+Delay 64 ms
+KeyDown 34 1
+KeyUp 34 1
+KeyDown 44 1
+KeyUp 44 1
+KeyDown 44 1
+KeyUp 44 1
+KeyDown 44 1
+KeyUp 44 1
+KeyDown 44 1
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>Cabal Online</Software>
+  </DefaultMacro>
+</Root>

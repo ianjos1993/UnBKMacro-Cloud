@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>позволяет летать в игре блокс фрутс без зажимания кнопки    F 
+очень хорошо помогает в побеге на хер 
+кстати я им пользуюсь помогает очень :)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+KeyUp 31 1
+KeyDown 9 1
+Delay 64
+Delay 64
+Delay 100 min
+KeyUp 9 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

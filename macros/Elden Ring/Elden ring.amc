@@ -1,0 +1,90 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Прокачка на камне в локации "Крутая дорога, ведущая к лесу", подходит для тех, кто играет на NG+ и обменял меч священной реликвии
+Прокачка на камне в локации "Крутая дорога, ведущая к лесу", подходит для тех, кто играет на NG+ и обменял меч священной реликвии
+
+- Берем в обе руки "меч священной реликвии"
+- Телепортируемся на локацию "Крутая дорога, ведущая к лесу"
+- Запускаем скрипт
+
+Windows 11: драйвер только под клавиатуру, макрос мышь не использует
+При использовании мышь не трогать, иначе измените бег персрнада
+
+Скрипт отрабатывает около 18 секунд, не считая загрузки локации
+На NG+ выходит 90.000 за заход
+Если PC слабый/сильный, и телепортирование грузится медленно/бытро, измените первую строку макроса (увиличте/уменьшите время ожидания)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 889 ms
+KeyDown 26 1
+Delay 127 ms
+KeyDown 44 1
+Delay 943 ms
+KeyDown 4 1
+Delay 432 ms
+KeyUp 4 1
+Delay 487 ms
+KeyDown 4 1
+Delay 24 ms
+KeyUp 4 1
+Delay 167 ms
+KeyDown 4 1
+Delay 184 ms
+KeyUp 4 1
+Delay 591 ms
+KeyUp 26 1
+Delay 88 ms
+KeyUp 44 1
+Delay 88 ms
+KeyDown 224 1
+Delay 119 ms
+KeyUp 224 1
+Delay 1047 ms
+KeyDown 26 1
+Delay 127 ms
+KeyDown 44 1
+Delay 2920 ms
+KeyDown 4 1
+Delay 119 ms
+KeyUp 4 1
+Delay 512 ms
+KeyDown 4 1
+Delay 87 ms
+KeyUp 4 1
+Delay 1551 ms
+KeyUp 44 1
+Delay 24 ms
+KeyUp 26 1
+Delay 16 ms
+KeyDown 224 1
+Delay 167 ms
+KeyUp 224 1
+Delay 1519 ms
+KeyDown 10 1
+Delay 104 ms
+KeyUp 10 1
+Delay 991 ms
+KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 1456 ms
+KeyDown 8 1
+Delay 88 ms
+KeyUp 8 1
+Delay 751 ms
+KeyDown 8 1
+Delay 71 ms
+KeyUp 8 1
+Delay 4527 ms
+GoWhile 1 10208</Syntax>
+    </KeyDown>
+    <Software>Elden Ring</Software>
+  </DefaultMacro>
+</Root>

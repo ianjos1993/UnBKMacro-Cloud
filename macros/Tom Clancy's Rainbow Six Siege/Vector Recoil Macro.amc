@@ -1,0 +1,54 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>A macro that gets rid of recoil for the Vector in Rainbow Six Siege.
+
+
+
+Aspect ratio: 4:3 (ingame setting for aspect ratio)
+
+Resolution: 1920x1080
+
+
+
+Attachments: HOLO A, Compensator, Vertical Grip, Laser
+
+
+
+FOV 90
+
+Sensitivity 19
+
+DPI 1250
+
+1x Sensitivity 55
+
+2.5x Sensitivity 35
+
+
+
+Instructions:
+
+Set a macro enable and disable button
+Set this macro as the one you want to use on your left mouse button
+
+Set it to run while holding
+
+Enable when you in the round and disable when you aren't</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1 ms
+MoveR 0 6
+Delay 3 ms
+Delay 6 ms
+Delay 9 ms</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

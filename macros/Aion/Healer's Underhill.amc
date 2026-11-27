@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на подхил цилителем, выставляем хилящие скиллы на клавиши Q E R (от самого мощного подхила к самому слабому) </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+KeyUp 20 1
+Delay 30 ms
+KeyDown 8 1
+KeyUp 8 1
+Delay 35 ms
+KeyDown 21 1
+KeyUp 21 1
+Delay 35 ms</Syntax>
+    </KeyDown>
+    <Software>AION</Software>
+  </DefaultMacro>
+</Root>

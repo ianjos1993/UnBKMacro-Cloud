@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>ОЧЕНЬ качественный макрос на любой нож поинт бланка, его используют большинство ножеров! 
+Лучше всего ставить на левую кнопку мыши!
+
+Макрос работает так:
+1. Когда вы видите что рано замахнулись ножом, можете нажать лкм и макрос сработает и вы убьете противника!(после нажатия лкм замахнитесь еще раз)
+2. Если сбивается анимация замаха новым замахом на повторе, то это значит макрос успешно работает! :D
+ 
+
+Удачной игры :)
+</Description>
+    <Comment>d
+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 34 1
+Delay 1 ms
+KeyDown 8 1
+Delay 1 ms
+KeyUp 8 1
+Delay 1 ms
+KeyDown 8 1
+Delay 1 ms
+KeyUp 8 1
+Delay 1 ms
+KeyDown 8 1
+Delay 1 ms
+KeyUp 8 1
+Delay 1 ms
+KeyDown 32 1
+Delay 1 ms
+KeyDown 8 1
+Delay 1 ms
+KeyUp 8 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

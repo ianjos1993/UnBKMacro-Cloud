@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Позволяет летать на гидравлике автомобиля в ремикс сезоне 2 главы
+Летать можно на машине Снуп Догга и обычной машине с вашим скином</Description>
+    <Comment>С этим макросом вы не получите блокировок в игре. Используйте для развлечения и получения удовольствия при полете на авто.</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>WheelDown 1
+//Забинди: Транспорт:Автомобиль - Тормоз на прокрут колеса мыши вверх и вниз (Первая ячейка вверх, вторая вниз)
+Delay 1 ms
+//Если поставить 0 мс, то ты улетишь в барьер карты и умрешь. Поэтому 1 идеальный взлет
+WheelUp 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,152 @@
+<Root>
+  <DefaultMacro>
+    <Major>Eddy Wall break</Major>
+    <Description>Макрос позволяет выполнять комбо за Eddy комбинацию Wall Break/Bounce.
+Видео демонстрации работы макроса: https://youtu.be/qw29e3kxjRY
+
+Эдди Гордо является мастером капоэйры и официальным представителем школы Гордо. Его боевой стиль основан на непрерывном движении, работе с низких позиций, резких сменах темпа. В Tekken 8 Эдди демонстрирует более собранную и выверенную манеру боя, сохраняя при этом традиционную для него пластичность и импровизацию.
+
+Внешне Эдди выглядит зрелым и уверенным. Его образ сочетает спортивную практичность и элементы уличной культуры, что подчеркивает связь с реальной средой, в которой формировался его стиль. Он действует осознанно, без излишней бравады, концентрируясь на результате и контроле ситуации.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 01.01.2026
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ.
+
+#Eddytekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 41 ms
+KeyDown 90 1
+Delay 110 ms
+KeyUp 90 1
+Delay 63 ms
+KeyDown 90 1
+Delay 112 ms
+KeyUp 90 1
+Delay 379 ms
+KeyUp 4 1
+Delay 177 ms
+KeyDown 89 1
+Delay 75 ms
+KeyUp 89 1
+Delay 87 ms
+KeyDown 89 1
+Delay 72 ms
+KeyUp 89 1
+Delay 385 ms
+KeyDown 89 1
+Delay 74 ms
+KeyUp 89 1
+Delay 80 ms
+KeyDown 89 1
+Delay 81 ms
+KeyUp 89 1
+Delay 124 ms
+KeyDown 89 1
+Delay 49 ms
+KeyUp 89 1
+Delay 117 ms
+KeyDown 89 1
+Delay 96 ms
+KeyUp 89 1
+Delay 76 ms
+KeyDown 89 1
+Delay 111 ms
+KeyUp 89 1
+Delay 62 ms
+KeyDown 89 1
+Delay 100 ms
+KeyUp 89 1
+Delay 54 ms
+KeyDown 89 1
+Delay 199 ms
+KeyUp 89 1
+Delay 143 ms
+KeyDown 89 1
+Delay 124 ms
+KeyUp 89 1
+Delay 90 ms
+KeyDown 89 1
+Delay 112 ms
+KeyUp 89 1
+Delay 204 ms
+KeyDown 4 1
+Delay 68 ms
+KeyUp 4 1
+Delay 68 ms
+KeyDown 4 1
+Delay 92 ms
+KeyUp 4 1
+Delay 5 ms
+KeyDown 89 1
+Delay 0 ms
+KeyDown 93 1
+Delay 216 ms
+KeyUp 89 1
+Delay 0 ms
+KeyUp 93 1
+Delay 169 ms
+KeyDown 4 1
+Delay 79 ms
+KeyUp 4 1
+Delay 92 ms
+KeyDown 4 1
+Delay 80 ms
+KeyUp 4 1
+Delay 49 ms
+KeyDown 89 1
+Delay 110 ms
+KeyUp 89 1
+Delay 267 ms
+KeyDown 4 1
+Delay 96 ms
+KeyUp 4 1
+Delay 79 ms
+KeyDown 4 1
+Delay 79 ms
+KeyUp 4 1
+Delay 10 ms
+KeyDown 89 1
+Delay 148 ms
+KeyUp 89 1
+Delay 39 ms
+KeyDown 4 1
+Delay 105 ms
+KeyUp 4 1
+Delay 203 ms
+KeyDown 89 1
+Delay 0 ms
+KeyDown 93 1
+Delay 130 ms
+KeyUp 89 1
+Delay 14 ms
+KeyUp 93 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

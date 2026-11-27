@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>1 for auto pet attack and 2 for pet healing skill.let the magic do its thing. 
+this work perfeclty for armed pet and ranged attack. no need to move the charecter , you have to stand in a good point.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//Converted macro file 16 September 2022 18:07:51
+KeyDown 30 1
+Delay 64 ms
+KeyUp 30 1
+Delay 64 ms
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+GoWhile 2 86400001</Syntax>
+    </KeyDown>
+    <Software>Rappelz</Software>
+  </DefaultMacro>
+</Root>

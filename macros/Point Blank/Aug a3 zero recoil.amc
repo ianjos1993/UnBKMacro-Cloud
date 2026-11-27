@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major>Younglostik</Major>
+    <Description>Самый адекватный макрос на данный момент в игре ставишь на лкм и все отдача пропадает.
+Скачай установи и пользуйся реально самый адекватный макрос.
+Походят любые настроики игры. Разрешение 1920х1080. Подходит под любую мышь. Сенса в игре 2.2 dpi 400</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 8 ms
+MoveR 0 10
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 9 ms
+MoveR 0 10
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 14 ms
+MoveR 0 10
+LeftDown 1
+Delay 70 ms
+LeftUp 1
+Delay 14 ms
+MoveR 0 10</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

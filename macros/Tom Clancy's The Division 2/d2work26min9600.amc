@@ -1,0 +1,89 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Для новой оптимизации нужно много пластика для 3D принтера. Выгоднее всего покупать вставки и разбирать их. Макрос покупает вставку у торговца (8-ю сверху) по 100шт и разбирает их, так 16 раз. За 26 минут фармится 9600 пластика!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 250 ms
+KeyUp 9 1
+Delay 200 ms
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 100 ms
+GoWhile 5 8
+KeyDown 44 1
+Delay 600 ms
+KeyUp 44 1
+Delay 50 ms
+KeyDown 44 1
+Delay 50 ms
+KeyUp 44 1
+Delay 50 ms
+GoWhile 10 100
+KeyDown 44 1
+Delay 100 ms
+KeyUp 44 1
+Delay 100 ms
+KeyDown 41 1
+Delay 100 ms
+KeyUp 41 1
+Delay 500 ms
+KeyDown 12 1
+Delay 200 ms
+KeyUp 12 1
+Delay 200 ms
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 100 ms
+GoWhile 31 4
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 100 ms
+GoWhile 36 2
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 100 ms
+GoWhile 45 3
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 150 ms
+KeyDown 25 1
+Delay 64
+KeyUp 25 1
+Delay 64
+GoWhile 54 100
+KeyDown 43 1
+Delay 3 s
+KeyUp 43 1
+Delay 2 s
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 1 s
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 100 ms
+GoWhile 67 3
+Delay 300 ms
+GoWhile 1 16</Syntax>
+    </KeyDown>
+    <Software>Division 2</Software>
+  </DefaultMacro>
+</Root>

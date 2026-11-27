@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Ложим пёрку во 2 слот и биндин его на Е
+
+Нажимаем на Е и у вас быстрая автопёрка
+
+Наслаждайтесь удобным для лива макроса</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 15
+KeyUp 8 1
+Delay 15
+RightDown 1
+Delay 15
+RightUp 1
+Delay 15</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major>Locked</Major>
+    <Description>Godspeed full 360 degree change for instant steals for the game Locked on Roblox.
+I suggest using a 0.5 sens with 1820x1900.
+thanks to this macro u can steal the ball from anyone without having to rotate on ur own and it automatically locks in the player :D
+this was the 4th part of the first form script btw have fun !!!
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+MoveTo 1020 651
+MoveR 0 0
+MoveTo 1019 659
+RightDown 1
+Delay 15 ms
+RightUp 1
+KeyUp 21 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

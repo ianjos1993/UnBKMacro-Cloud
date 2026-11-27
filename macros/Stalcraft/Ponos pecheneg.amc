@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Анти отдача на Понош печенег (на вротекс 2х) Макрос очень легкий без заморочек, работает хорошо но нужно доконтрить немного самому отдачу в лево. </Description>
+    <Comment>Анти отдача на Понош печенег (на вротекс 2х) Макрос очень легкий без заморочек, работает хорошо но нужно доконтрить немного самому отдачу в лев</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 0 5
+Delay 22 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос думаю похож на макрос из видосов Tweek или Aveo.
+Он автоматически опускает голову вниз и садится, этим и делая хитбокс в два раза меньше!
+
+Думаю понравится)
+
+Sensitivity - 1.5.
+Dpi - 800.
+Разрешение в игре - 1080 x 960
+
+У меня работает с такими настройками или немного другими)
+
+Я обновил теперь всё норм.
+
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR 16000 2666
+Delay 1 ms
+KeyDown 224 1
+Delay 333 ms
+KeyUp 224 1
+Delay 1 ms
+MoveR -16000 -2666</Syntax>
+    </KeyDown>
+    <Software>Counter-Strike 2</Software>
+  </DefaultMacro>
+</Root>

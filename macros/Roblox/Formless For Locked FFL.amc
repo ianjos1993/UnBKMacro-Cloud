@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для игры Locked
+1. Разрешение:1920x1080
+2. Dpi 1200
+3. Sens в роблкосе 0.36
+4. Sens в Locked 0.4
+
+Как использовать?
+Смотрите на ворота и нажимаете клавишу на которую забиндили (советую X)
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR 1250 0
+MoveR 0 -1000
+Delay 1 ms
+RightDown 1
+Delay 1 ms
+RightUp 1
+Delay 1 ms
+KeyDown 21 1
+Delay 1 ms
+KeyUp 21 1
+Delay 1 ms
+MoveR 1250 0
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

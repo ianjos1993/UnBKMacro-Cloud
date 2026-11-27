@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>conFL1cT</Major>
+    <Description>Автоматическое использование ячейки быстрого доступа 0 (важно перетащить используемый предмет в ячейку быстрого доступа 0), очень полезно при удобрении грядок всевозможными удобрениями на полях. Пользуйтесь на здоровье=)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 39 1
+Delay 40 80
+KeyUp 39 1
+Delay 40 80
+KeyDown 39 1
+Delay 40 80
+KeyUp 39 1
+Delay 40 80</Syntax>
+    </KeyDown>
+    <Software>Myth of Empires</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на авто князь+имунка
+1) Ставьте умениен джина на букву - ю 
+2)Имунка на букву F
+или меняйте свое значение, задержку на имунки можете ставить на 0-5</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 25
+KeyUp 56 1
+Delay 25
+KeyDown 9 1
+Delay 25
+KeyUp 9 1
+Delay 25</Syntax>
+    </KeyDown>
+    <Software>Perfect World</Software>
+  </DefaultMacro>
+</Root>

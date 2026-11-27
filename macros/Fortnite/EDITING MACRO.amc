@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major>My editing macro (SUPER FAST!)</Major>
+    <Description>My editing macro for fn! (Just change keybinds!)
+10MS Delay!
+
+INFO :
+
+Must set the M key to a key that you dont have binded in fortnite!
+The Q key must be your edit key in fortnite!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 10 ms
+KeyDown 20 1
+Delay 10 ms
+KeyUp 20 1
+Delay 10 ms
+KeyDown 16 1
+Delay 10 ms
+KeyUp 16 1
+Delay 10 ms
+KeyDown 20 1
+Delay 10 ms
+KeyUp 20 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

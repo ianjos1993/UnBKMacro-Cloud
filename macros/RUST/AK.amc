@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на раст, на штурмовую винтовку AK-47 с голографическим прицелом, полностью убирает отдачу, прекрасно подойдёт как для стрельбы на ближние дистанции, так и на дальние. Чуствительность 0.66, также можно использовать без обвесов но точность будет меньше, эффективная дистанция 25-150 метров, разрешение экрана 1920-1080, fow 50,dpi 800</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 0 97
+Delay 143 ms
+MoveR -20 97
+Delay 143 ms
+MoveR -20 99
+Delay 143 ms
+MoveR -15 97
+Delay 93 ms
+MoveR -45 97
+Delay 143 ms
+MoveR -45 102
+Delay 143 ms
+MoveR -25 92
+Delay 143 ms
+MoveR -80 87
+Delay 143 ms
+MoveR -40 92
+Delay 143 ms
+MoveR -60 82
+Delay 80 ms
+MoveR -70 97
+Delay 200 ms
+MoveR -70 97
+Delay 140 ms
+MoveR -35 99
+Delay 135 ms
+MoveR -30 97
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

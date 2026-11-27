@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простой автокликер F1 и F2 для l2. Ставим .attack в ячейку F1 и /nexttarget в ячейку F2. Ставим /pickup на F3. Наслаждаемся автофармом. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 58 1
+Delay 280 ms
+KeyUp 58 1
+Delay 244 ms
+KeyDown 59 1
+Delay 230 ms
+KeyUp 59 1
+Delay 240 ms
+KeyDown 60 1
+Delay 125 ms
+KeyUp 60 1
+Delay 245 ms
+GoWhile 4 86400000</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

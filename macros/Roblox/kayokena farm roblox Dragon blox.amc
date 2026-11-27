@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос для фарма кайокена в режиме Dragon Blox, работает без перебоев, поставлен на кайокен х100 до кайокен анлишед, за использование макроса забанить не должны</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 16 1
+KeyUp 16 1
+Delay 44 ms
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 7 s
+KeyDown 16 1
+Delay 44 ms
+KeyUp 16 1
+Delay 7 s
+GoWhile 1 470</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

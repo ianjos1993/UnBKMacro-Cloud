@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>В макрос ставим 5 видов банок
+
+Безоткатные банки. Ставим банки на клавиши Num1.Num2.Num3.Num4.Num5.  И наслаждаемся)
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 89 1
+Delay 32
+KeyUp 89 1
+Delay 32
+KeyDown 90 1
+Delay 32
+KeyUp 90 1
+Delay 32
+KeyDown 91 1
+Delay 32
+KeyUp 91 1
+Delay 32
+KeyDown 92 1
+Delay 32
+KeyUp 92 1
+Delay 32
+KeyDown 93 1
+Delay 32
+KeyUp 93 1
+Delay 32</Syntax>
+    </KeyDown>
+    <Software>Karos Online</Software>
+  </DefaultMacro>
+</Root>

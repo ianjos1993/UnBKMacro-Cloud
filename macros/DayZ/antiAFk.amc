@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major>AlEl</Major>
+    <Description>Макрос для обхода автокика по афк. 
+Раз в две минуты персонаж двигается влево и вправо по паре шагов.
+Обеспечьте свободное пространство для этого движение.</Description>
+    <Comment>Включайте и курите\кушайте\принимайте туалет, без страха быть выгнанными с сервера и необходимости торчать час в очереди.
+https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 400 ms
+KeyUp 4 1
+Delay 2 min
+KeyDown 7 1
+Delay 400 ms
+KeyUp 7 1
+Delay 2 min</Syntax>
+    </KeyDown>
+    <Software>DayZ</Software>
+  </DefaultMacro>
+</Root>

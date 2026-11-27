@@ -1,0 +1,81 @@
+<Root>
+  <DefaultMacro>
+    <Major>DELETE </Major>
+    <Description>Автоудаление машин из гаража
+Нужно в том случае если у вас к примеру много jeep willys и вас это раздражает как меня)
+макрос начнём сам удалять машины 
+Единственное следите за компом,потому что макрос может удалить и другие машины</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1397 ms
+KeyDown 88 1
+Delay 70 ms
+KeyUp 88 1
+Delay 647 ms
+KeyDown 81 1
+Delay 92 ms
+KeyUp 81 1
+Delay 101 ms
+KeyDown 81 1
+Delay 72 ms
+KeyUp 81 1
+Delay 80 ms
+KeyDown 81 1
+Delay 71 ms
+KeyUp 81 1
+Delay 93 ms
+KeyDown 81 1
+Delay 84 ms
+KeyUp 81 1
+Delay 238 ms
+KeyDown 88 1
+Delay 73 ms
+KeyUp 88 1
+Delay 721 ms
+KeyDown 88 1
+Delay 80 ms
+KeyUp 88 1
+Delay 2511 ms
+KeyDown 88 1
+Delay 75 ms
+KeyUp 88 1
+Delay 468 ms
+KeyDown 81 1
+Delay 95 ms
+KeyUp 81 1
+Delay 81 ms
+KeyDown 81 1
+Delay 80 ms
+KeyUp 81 1
+Delay 75 ms
+KeyDown 81 1
+Delay 102 ms
+KeyUp 81 1
+Delay 55 ms
+KeyDown 81 1
+Delay 89 ms
+KeyUp 81 1
+Delay 171 ms
+KeyDown 88 1
+Delay 81 ms
+KeyUp 88 1
+Delay 432 ms
+KeyDown 81 1
+Delay 82 ms
+KeyUp 81 1
+Delay 262 ms
+KeyDown 88 1
+Delay 72 ms
+KeyUp 88 1
+Delay 576 ms
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Forza Horizon 5</Software>
+  </DefaultMacro>
+</Root>

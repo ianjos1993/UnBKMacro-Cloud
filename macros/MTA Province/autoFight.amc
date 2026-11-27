@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автодрака в MTA Province
+При активации прожимается левая кнопка мыши
+Разрешение экрана и FPS не имеет значения
+Приятной игры :)</Description>
+    <Comment>
+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 100 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

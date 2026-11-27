@@ -1,0 +1,81 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>1 - атакующий макрос
+F1- подбор лута
+2- ассист(помощь в атаке)
+
+Для правильной работы макроса Пл должен быть открыт 1м окном.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 2337 ms
+KeyDown 43 1
+Delay 69 ms
+KeyUp 43 1
+Delay 3419 ms
+KeyDown 30 1
+Delay 136 ms
+KeyUp 30 1
+Delay 238 ms
+KeyDown 227 1
+Delay 263 ms
+KeyDown 33 1
+Delay 132 ms
+KeyUp 33 1
+Delay 287 ms
+KeyDown 33 1
+Delay 111 ms
+KeyUp 33 1
+Delay 37 ms
+KeyUp 227 1
+Delay 805 ms
+KeyDown 225 1
+Delay 200 ms
+KeyDown 30 1
+Delay 76 ms
+KeyUp 225 1
+Delay 40 ms
+KeyUp 30 1
+Delay 448 ms
+KeyDown 31 1
+Delay 131 ms
+KeyUp 31 1
+Delay 487 ms
+KeyDown 30 1
+Delay 104 ms
+KeyUp 30 1
+Delay 1761 ms
+KeyDown 227 1
+Delay 488 ms
+KeyDown 33 1
+Delay 112 ms
+KeyUp 33 1
+Delay 822 ms
+KeyUp 227 1
+Delay 9905 ms
+KeyDown 30 1
+Delay 870 ms
+KeyUp 30 1
+Delay 3000 ms
+Delay 64 ms
+Delay 64 ms
+KeyDown 58 1
+Delay 3000
+Delay 3000
+Delay 2165 ms
+KeyUp 58 1
+Delay 2489 ms
+KeyDown 58 1
+Delay 3586 ms
+KeyUp 58 1
+GoWhile 1 10000</Syntax>
+    </KeyDown>
+    <Software>Perfect World</Software>
+  </DefaultMacro>
+</Root>

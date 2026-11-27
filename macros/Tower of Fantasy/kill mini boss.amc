@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major>auto kill The Vermin Brothers</Major>
+    <Description>auto kill The Vermin Brothers
+use the Pummeler weapon
+stay on the Astra location (Spacerift: Mega Arena)</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 4100 ms
+LeftUp 1
+Delay 850 ms</Syntax>
+    </KeyDown>
+    <Software>Tower of Fantasy</Software>
+  </DefaultMacro>
+</Root>

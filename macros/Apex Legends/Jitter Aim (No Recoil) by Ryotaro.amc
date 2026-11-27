@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>Jitter Aim (No Recoil) by Ryotaro</Major>
+    <Description>Jitter Aim (No Recoil) by Ryotaro
+
+1. Установите макрос на компьютер;
+2. Назначьте макрос в программе Кейран на ЛКМ; 
+3. Наслаждайтесь игрой.
+
+Для удобства рекомендую назначить отдельную клавишу на запуск самой программы Кейран ( например, Caps Lock).
+
+Играл на разрешении 2560x1440 (16:9) при игровой чувствительности 5.0, 400 DPI. 
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR -2 2
+Delay 6 ms
+MoveR 2 -2
+Delay 6 ms
+MoveR -2 2
+Delay 6 ms
+MoveR 2 -2
+Delay 6 ms</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

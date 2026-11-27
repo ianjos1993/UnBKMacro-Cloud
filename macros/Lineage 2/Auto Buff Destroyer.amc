@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major>Auto Baff</Major>
+    <Description>Авото бафф для фама не отвлекаясь на время одката бафа на фарме.
+F9 Rage
+F10 Infernal Form
+F11 Battle Roar
+F1 Attack</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 66 1
+Delay 300
+KeyUp 66 1
+Delay 80 s
+KeyDown 58 1
+Delay 300
+KeyUp 58 1
+Delay 300
+KeyDown 66 1
+Delay 300
+KeyUp 66 1
+Delay 80 s
+KeyDown 67 1
+Delay 300
+KeyUp 67 1
+Delay 300
+KeyDown 68 1
+Delay 300
+KeyUp 68 1
+Delay 300
+KeyDown 58 1
+Delay 300
+KeyUp 58 1
+Delay 300
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

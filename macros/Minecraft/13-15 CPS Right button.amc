@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>С этом файлом вы сможете быстро строиться , потому что у вас будет большой CPS 
+Вам надо:
+1. Установить файл
+2. В Разделе "клавиши" нажать на правую кнопки мыши и выбрать данный файл
+3. Запустить по нажатию клавишь (это можно сделать в настройках) или в ручную нажать кнопку "Запуск"
+-Cовет: лучше сделать по нажатию клавишь-
+4. Зайти в майн и зажать правую кнопку мыши
+(Теперь ваш персонаж сам будет кликать :) )
+5. Радоваться данному макросу</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 0
+RightUp 1
+Delay 0</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

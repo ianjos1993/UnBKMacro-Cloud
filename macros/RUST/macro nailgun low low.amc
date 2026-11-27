@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>macro nailgun</Major>
+    <Description>this macro is for nailgan low sense 0.5
+dpi 2800
+fov 80
+1920 x 1080
+
+enjoy it and support me
+
+BlackMamba</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 19 ms
+MoveR 0 7
+Delay 19 ms
+MoveR 0 8
+Delay 19 ms
+MoveR 0 7
+Delay 19 ms
+MoveR 0 8
+Delay 19 ms
+LeftUp 1
+Delay 19 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

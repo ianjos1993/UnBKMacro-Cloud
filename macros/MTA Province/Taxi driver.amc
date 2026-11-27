@@ -1,0 +1,61 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Наконец-то руки дошли сделать нормальный скрипт, без этих бесконечных перемещний курсора, без задержки по секунде на каждом действии - все сделано быстро и эффективно, так, чтобы быстро забирать заказы (принимать клиентов) - то есть ради основной цели софта. </Description>
+    <Comment>Если мне дадут за этот скрипт всего 1 день в keyran, то придется клепать полурабочую хрень, как описал выше.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 150 ms
+KeyDown 31 1
+Delay 50 ms
+KeyUp 31 1
+Delay 300 ms
+MoveTo 791 408
+Delay 3 ms
+MoveTo 790 408
+Delay 3 ms
+MoveTo 790 407
+Delay 3 ms
+MoveTo 790 407
+Delay 3 ms
+MoveTo 790 407
+Delay 3 ms
+MoveTo 789 407
+Delay 10 ms
+MoveTo 789 407
+Delay 50 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 10 ms
+MoveTo 773 694
+Delay 10 ms
+MoveTo 773 694
+Delay 10 ms
+MoveTo 773 695
+Delay 30 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 50 ms
+MoveTo 1073 711
+Delay 10 ms
+MoveTo 1074 711
+Delay 3 ms
+MoveTo 1075 711
+Delay 3 ms
+MoveTo 1075 711
+Delay 3 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>MTA Провинция РП, скрипт на принятие клиента в работе такси</Software>
+  </DefaultMacro>
+</Root>

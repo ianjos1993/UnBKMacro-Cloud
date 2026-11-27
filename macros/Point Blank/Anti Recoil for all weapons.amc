@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Анти Отдача для всех видов оружия (P90, AUG, AUG HBAR и т.д)
+Советую ставить на левую кнопку мыши (лкм).</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 30 ms
+LeftDown 1
+Delay 45 ms
+LeftUp 1
+Delay 45 ms
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 30 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

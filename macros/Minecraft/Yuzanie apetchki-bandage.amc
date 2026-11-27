@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>Лучший макрос на апетчку и бинт</Major>
+    <Description>Этот макрос позволит вам всего за 1 кнопкуи время менее чем секунда использовать аптечку и бинт, а так же переключит вас на джет пак</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 33 1
+Delay 22 ms
+KeyUp 33 1
+Delay 22 ms
+RightDown 1
+Delay 22 ms
+RightUp 1
+Delay 22 ms
+KeyDown 34 1
+Delay 22 ms
+KeyUp 34 1
+Delay 22 ms
+RightDown 1
+Delay 22 ms
+RightUp 1
+Delay 22 ms
+KeyDown 30 1
+Delay 22 ms
+KeyUp 30 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major>flybug</Major>
+    <Description>Скрипт для фарма на блеснении для разрешения 1920x1080 в поноэкранном режиме.
+
+Нужно поставить персонажа напротив воды и запустить скрипт.
+В зависимости от тяжести блесны, идет либо ступенчатая с подтяжкой либо твич. 
+За счет твича, реализована подсечка рыбы в момент поклевки.
+Глубину проводки можно регулировать изменяя скорость подмотки.
+При поимке рыбы, она автоматически забирается в садок.  
+ВНИМАНИЕ! Мусор не забирается и не выбрасывается, необходимо это делать вручную.
+
+Работает на всех водоемах и большинстве видах приманок и на всех рыбах, клюющих  на приманки, от окуня до тайменя.
+
+
+Желательно уберить пробел с горячих клавиш в игре при наматывании. 
+
+A script for farming on a spinner for a resolution of 1920x1080 in full-screen mode.
+
+You need to put the character in front of the water and run the script.
+Depending on the weight of the spinner, there is either a stepped one with a suspender or a twitch. 
+Due to the twitch, the fish is cut at the moment of biting.
+The depth of the wiring can be adjusted by changing the winding speed.
+When catching a fish, it automatically climbs into the cage. 
+Attention! Garbage is not collected or thrown away, it must be done manually.
+
+It works on all reservoirs and most types of baits and on all fish that bite on baits, from perch to taimen.
+
+
+It is advisable to remove the space bar from the hotkeys in the game when winding.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1087 959 1088 965
+Delay 64
+LeftDown 1
+Delay 1895 2011 ms
+LeftUp 1
+Delay 150 200 ms
+RightDown 1
+Delay 64
+RightUp 1
+Delay 150 200 ms</Syntax>
+    </KeyDown>
+    <Software>Fishing Planet</Software>
+  </DefaultMacro>
+</Root>

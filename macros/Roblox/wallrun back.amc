@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major>Used to wallrun behind (S) for parkour roblox</Major>
+    <Description>do the first dash and then press the macro u will wallrun back
+its pretty easy and i dont really need to explain any more the wallrun delay is better that way please dont change it
+if u want it to work</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 45 1
+Delay 10 ms
+KeyUp 45 1
+Delay 70 ms
+KeyDown 44 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

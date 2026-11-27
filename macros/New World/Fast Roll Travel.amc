@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major>Fast Roll Traveling / Light Armor</Major>
+    <Description>With this macro you can fast roll travel through the map.
+It will continuously roll in perfect time (2 times), so your stamina is recharging fast again.
+You have to have light armor roll equipped, that's important.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 10 ms
+KeyDown 225 1
+KeyUp 225 1
+Delay 280 ms
+KeyDown 225 1
+KeyUp 225 1
+Delay 3400 ms</Syntax>
+    </KeyDown>
+    <Software>New World</Software>
+  </DefaultMacro>
+</Root>

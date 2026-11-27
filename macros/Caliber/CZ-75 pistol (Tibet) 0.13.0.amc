@@ -1,0 +1,144 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на Пистолет CZ-75 для Казахстанского подразделения «Арыстан»
+
+(Поддержка Тибет)
+
+Настройки: Управление -&gt; Чувствительность "Любая" (Чувствительность в режиме прицеливания "Любая")
+
+Примечение: Рекомендуем использовать навык «Прицельная нарезка ствола»
+
+Для правильной работы макроса частота кадров «FPS» должна придерживаться свыше 60.</Description>
+    <Comment>Макрос ориентирован на 6 выстрелов в секунду. За свой интревал вы совершаете 26 выстрелов за 4.33 секунды. Увеличение скорости проклика вызывают подтормащивания в выстрелах (3 -1 -3)</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax>rm</Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 98 ms
+LeftUp 1
+Delay 98 ms
+LeftDown 1
+Delay 98 ms
+LeftUp 1
+Delay 98 ms
+LeftDown 1
+Delay 98 ms
+LeftUp 1
+Delay 98 ms
+LeftDown 1
+Delay 98 ms
+LeftUp 1
+Delay 98 ms
+LeftDown 1
+Delay 98 ms
+LeftUp 1
+Delay 98 ms
+LeftDown 1
+Delay 98 ms
+LeftUp 1
+Delay 98 ms
+LeftDown 1
+Delay 98 ms
+LeftUp 1
+Delay 98 ms
+LeftDown 1
+Delay 98 ms
+LeftUp 1
+Delay 98 ms
+LeftDown 1
+Delay 98 ms
+LeftUp 1
+Delay 98 ms
+LeftDown 1
+Delay 98 ms
+LeftUp 1
+Delay 98 ms
+LeftDown 1
+Delay 98 ms
+LeftUp 1
+Delay 98 ms
+LeftDown 1
+Delay 98 ms
+LeftUp 1
+Delay 98 ms
+LeftDown 1
+Delay 98 ms
+LeftUp 1
+Delay 98 ms
+LeftDown 1
+Delay 98 ms
+LeftUp 1
+Delay 98 ms
+LeftDown 1
+Delay 98 ms
+LeftUp 1
+Delay 98 ms
+LeftDown 1
+Delay 98 ms
+LeftUp 1
+Delay 98 ms
+LeftDown 1
+Delay 98 ms
+LeftUp 1
+Delay 98 ms
+LeftDown 1
+Delay 98 ms
+LeftUp 1
+Delay 98 ms
+LeftDown 1
+Delay 98 ms
+LeftUp 1
+Delay 98 ms
+LeftDown 1
+Delay 98 ms
+LeftUp 1
+Delay 98 ms
+LeftDown 1
+Delay 98 ms
+LeftUp 1
+Delay 98 ms
+LeftDown 1
+Delay 98 ms
+LeftUp 1
+Delay 98 ms
+LeftDown 1
+Delay 98 ms
+LeftUp 1
+Delay 98 ms
+LeftDown 1
+Delay 98 ms
+LeftUp 1
+Delay 98 ms
+LeftDown 1
+Delay 98 ms
+LeftUp 1
+Delay 98 ms
+LeftDown 1
+Delay 98 ms
+LeftUp 1
+Delay 98 ms
+LeftDown 1
+Delay 98 ms
+LeftUp 1
+Delay 98 ms
+LeftDown 1
+Delay 98 ms
+LeftUp 1
+Delay 98 ms
+LeftDown 1
+Delay 98 ms
+LeftUp 1
+Delay 98 ms
+LeftDown 1
+Delay 98 ms
+LeftUp 1
+Delay 98 ms</Syntax>
+    </KeyDown>
+    <Software>Caliber</Software>
+  </DefaultMacro>
+</Root>

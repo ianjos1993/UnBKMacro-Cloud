@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Позволяет фармить билетики в парке атракционов на летающем острове. Билеты пригодятся в ивенте, который будет в феврале, где их можно будет поменять на коробки конфет с бафами. Сейчас билеты можно потратить на персонализацию своей аватарки + карнавальный стиль для окна диалога в чате. Продавец девочка стоит слева от главной палатки.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 70 s
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Tower of Fantasy</Software>
+  </DefaultMacro>
+</Root>

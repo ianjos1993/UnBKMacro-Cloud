@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Кастует W а затем W на кровопуске. Вам остается лишь держать курсор на цели и окончательный удар дорезание ешкой сделает за вас макрос. Потом буду выпускать реально полезные макросы. Т.к этот не смог протестить.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 580 ms
+KeyDown 26 1
+Delay 280 ms
+KeyUp 26 1
+Delay 400 ms
+KeyDown 8 1
+Delay 567 ms
+KeyUp 8 1
+Delay 272 ms
+KeyDown 226 1
+Delay 31 ms
+KeyDown 43 1
+Delay 95 ms
+KeyUp 226 1
+Delay 16 ms
+KeyUp 43 1</Syntax>
+    </KeyDown>
+    <Software>Albion Onlinw</Software>
+  </DefaultMacro>
+</Root>

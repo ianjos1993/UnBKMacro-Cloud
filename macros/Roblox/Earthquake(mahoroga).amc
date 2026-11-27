@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>Earthquake(mahoroga) JJS</Major>
+    <Description>Макрос позволяющий использовать полный Earthquake третий скилл на махароге полезно для комбо и тому подобного в Jujutsu Shenanigans
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 64 ms
+KeyUp 225 1
+Delay 12 ms
+KeyDown 68 1
+Delay 64 ms
+KeyUp 68 1
+Delay 100 ms
+KeyDown 32 1
+Delay 930 ms
+KeyUp 32 1
+Delay 100 ms
+KeyDown 225 1
+Delay 64 ms
+KeyUp 225 1
+Delay 143 ms
+KeyDown 68 1
+Delay 64 ms
+KeyUp 68 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

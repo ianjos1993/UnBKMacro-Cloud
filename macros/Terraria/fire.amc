@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматичеки ствит факел у персонажа в темноте (персонаж должен быть в ПОЛНОЙ темноте)
+
+- Ставить факел в слот 0, т.к. через шифт нельзя почему-то пользоваться факелом
+- Рекомундую использовать режим освещения "ретро" для более быстрого определения темноты без мягкости</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 14 0 0,0,0 255,255,255 1 661 395
+KeyDown 39 1
+Delay 64
+KeyUp 39 1
+Delay 64
+MoveTo 663 404
+Delay 64
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 200 ms</Syntax>
+    </KeyDown>
+    <Software>Terraria</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>1. Ставите на ЛКМ
+2. Режим Работы - "Выполнять пока нажата клавиша"
+3. Зажимаете ЛКМ и прыгаете, удары сами будут востанавливаться по КД
+=================================
+Данный макрос был создан для ПвП в Майнкрафт 1.12. и выше, так как с данной версии, а если быть точнее то с 1.9+ ПвП в игре стал с задержкой.
+=================================
+Это 2 версия макроса ну уже с АВТО ПРЫЖКОМ. Прыжок дает крит удар по игроку и на носить намного больше урона</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+LeftDown 1
+Delay 700 ms
+KeyDown 44 1
+LeftDown 1
+Delay 700 ms
+KeyDown 44 1
+LeftDown 1
+Delay 700 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

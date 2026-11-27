@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>this is a combo for the strongest battlegrounds used for the character "garou" this macro replicates the kyoto combo.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Button4down 1
+Delay 64
+Button4Up 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 20 1
+Delay 3 s
+KeyUp 20 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

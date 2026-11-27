@@ -1,0 +1,69 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Shinobi life 2, autofarm Kurama.
+Макрос подходит чем лучше всего с статами 3к чакры и 3к нинджутсу, а также применяется лишь только с одним хвостом. Еще важно стоять у бревна.
+В случае если у вас не эти статы, то или настройте макрос под себя, или настройте статы как предписано повыше .
+Руководство по настройке макроса под себя:
+1. Определите сколько секунд продолжается ваш биджу мод
+2. Поделите получившееся время на 20, без остатка
+3. Напишите повторяющиеся команды в макросе столько раз сколько вышло в этапе повыше .
+4. Определите сколько секунд продолжается восстановление мода.
+5. Напишите в конце вместо 70, свое количество и прибавьте 4
+6.Запускайте макрос</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 4 s
+KeyUp 29 1
+KeyDown 29 1
+Delay 64
+KeyUp 29 1
+Delay 21 s
+KeyDown 29 1
+Delay 64
+KeyUp 29 1
+Delay 21 s
+KeyDown 29 1
+Delay 64 ms
+KeyUp 29 1
+Delay 21 s
+KeyDown 29 1
+Delay 64 ms
+KeyUp 29 1
+Delay 21 s
+KeyDown 29 1
+Delay 64
+KeyUp 29 1
+Delay 21 s
+KeyDown 29 1
+Delay 64
+KeyUp 29 1
+Delay 21 s
+KeyDown 29 1
+Delay 64
+KeyUp 29 1
+Delay 21 s
+KeyDown 29 1
+Delay 64
+KeyUp 29 1
+KeyDown 29 1
+Delay 4 s
+KeyUp 29 1
+KeyDown 29 1
+Delay 4 s
+KeyUp 29 1
+KeyDown 29 1
+Delay 4 s
+KeyUp 29 1
+Delay 70 s</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

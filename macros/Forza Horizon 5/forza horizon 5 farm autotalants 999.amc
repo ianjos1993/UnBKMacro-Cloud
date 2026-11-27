@@ -1,0 +1,57 @@
+<Root>
+  <DefaultMacro>
+    <Major>фарм автоталантов</Major>
+    <Description>нам понадобится lamborgini sesto elemento forza edition полностью вкаченая по автоталантам
+
+заходим в творческий центр,далее  eventlab, схемы заездов, поиск (Backspace),  в поиске нижняя строчка (код публикации), туда вписываем - 223483284
+
+далее заходим в гонку, настраиваем сложность 
+драйверы-непобедимый
+уровень помощи в вождении-индивидуальный
+торможение-АБС выкл
+управление-авторуление
+противобуксовочная система-вкл
+контроль устойчивости-вкл
+переключение передач-автомат
+траектория движения-откл
+повреждения и износ шин-косметические
+перемотка-вкл
+
+сохраняем сложность и выходим назад и нНЕ нажимаем старт 
+открываем макрос в редакторе, далее нажимаем ТЕСТ и резко переходим в игру. 
+далее МЫШКУ НЕ ДВИГАЕМ так как ею  нажимается старт гонки
+
+не знаю что это глюк или защита от таких программ, но у меня перестал работать enter после нескольких заездов. </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 437 412
+Delay 1616 ms
+LeftDown 1
+Delay 135 ms
+LeftUp 1
+Delay 4563 ms
+KeyDown 82 1
+Delay 27905 ms
+KeyUp 82 1
+Delay 13826 ms
+KeyDown 27 1
+Delay 124 ms
+KeyUp 27 1
+Delay 1394 ms
+KeyDown 88 1
+Delay 96 ms
+KeyUp 88 1
+Delay 6688 ms
+MoveTo 437 412
+Delay 568 ms
+GoWhile 1 140</Syntax>
+    </KeyDown>
+    <Software>Forza Horizon 5</Software>
+  </DefaultMacro>
+</Root>

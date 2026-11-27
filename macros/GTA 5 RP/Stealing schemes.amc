@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Скрипт для кражи схем по контракту "Долгожданная встреча"
+Работает очень просто, подходите к месту сбора схем, вклучаете макрос, идёте по своим делам!
+Логика работы: Нажимается Е до момента появления полосы сбора, ожидает пока зеленая полоска окажется в середине, нажимает Е для сбора. Повтор)
+Протестировано и работает в разрешении 1400Х900, в будующих обновлениях добавлю другие разрешения экрана.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 2 0 231,33,57 255,255,255 1 710 384 14 36 1 0
+KeyDown 8 1
+KeyUp 8 1
+Delay 1 ms
+GoColor 1 0 231,33,57 255,255,255 1 710 384 14 36 1 0
+GoColor 7 1 126,211,33 255,255,255 1 712 410 13 17 1 0
+KeyDown 8 1
+Delay 299 ms
+KeyUp 8 1
+Goto 5</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

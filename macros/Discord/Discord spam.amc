@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Авто спам в дискорд, заранее скопируйте любое сообщение/текст для работы макроса,
+затем нажмите любую назначенную клавишу что-бы начать и повторно что-бы закончить</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 104 ms
+KeyDown 25 1
+Delay 48 ms
+KeyUp 224 1
+Delay 56 ms
+KeyUp 25 1
+Delay 96 ms
+KeyDown 88 1
+Delay 48 ms
+KeyUp 88 1</Syntax>
+    </KeyDown>
+    <Software>Discord</Software>
+  </DefaultMacro>
+</Root>

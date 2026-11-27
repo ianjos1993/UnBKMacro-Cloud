@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос который помогает крутиться в 360 градусов и поможет вам для различных ферм и призон серверов!
+Разрешения экрана:1920х1080, Чувствительность: 100, dpi: 1000</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 2 ms
+MoveR 1 0
+Delay 1 ms
+MoveR 3 0
+GoWhile 2 832
+GoWhile 1 14
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

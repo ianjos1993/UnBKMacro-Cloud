@@ -1,0 +1,66 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос предназначен для автоматизации использования навыков в игре Раппелз, где горячие клавиши привязаны к ряду цифр от 1 до 0. Макрос последовательно эмулирует нажатие этих клавиш, позволяя игроку эффективнее использовать свои способности в бою.
+
+Функционал:
+• Последовательное нажатие клавиш: 1 → 2 → 3 → 4 → 5 → 6 → 7 → 8 → 9 → 0
+• Настройка задержки между нажатиями для оптимального использования навыков
+• Циклическое выполнение (может быть настроено на бесконечную или ограниченную итерацию)
+
+Применение:
+
+Включите макрос перед началом боя
+Убедитесь, что ваши основные навыки привязаны к соответствующим цифровым клавишам
+Настраивайте задержку между нажатиями в зависимости от времени восстановления навыков
+Отключите макрос после завершения боя</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 64 120 ms
+KeyUp 30 1
+KeyDown 31 1
+Delay 64 120 ms
+KeyUp 31 1
+KeyDown 32 1
+Delay 64 120
+KeyUp 32 1
+Delay 64 120
+KeyDown 33 1
+Delay 64 120
+KeyUp 33 1
+Delay 64 120
+KeyDown 34 1
+Delay 64 120
+KeyUp 34 1
+Delay 64 120
+KeyDown 35 1
+Delay 64
+KeyUp 35 1
+Delay 64
+KeyDown 36 1
+Delay 64
+KeyUp 36 1
+Delay 64
+KeyDown 37 1
+Delay 64
+KeyUp 37 1
+Delay 64
+KeyDown 38 1
+Delay 64
+KeyUp 38 1
+Delay 64
+KeyDown 39 1
+Delay 64
+KeyUp 39 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Rappelz</Software>
+  </DefaultMacro>
+</Root>

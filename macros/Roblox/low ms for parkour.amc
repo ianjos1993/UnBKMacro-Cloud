@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Позволяет высоко прыгать и делать wallclimb boost  забиндить нужно на space 
+(!ПРЕДУПРЕЖДЕНИЕ!)
+Есть риск получения бана на всегда пользуйтесь на свой страх и риск</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 5 ms
+KeyUp 44 1
+Delay 5 ms
+KeyDown 44 1
+Delay 5 ms
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

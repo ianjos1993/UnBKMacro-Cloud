@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>лучший макрос для бхопа в роблоксе в плейсе никос некстботс. разгоняет скорость до 78.9! нужно только поворачивать мышкой</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 1 s
+KeyDown 44 1
+Delay 3 ms
+KeyUp 44 1
+Delay 3 ms
+GoWhile 3 86400000
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

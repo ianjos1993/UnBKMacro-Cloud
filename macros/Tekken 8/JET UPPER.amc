@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос создан для использования сложной техники, как тунт джет аппер(TUNT JET UPPER) нажтием одной кнопки. + все игрют на разной раскладке клавиатуры, так вот вам и альтернатива для атких же как и я!)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 79 1
+Delay 440 ms
+KeyUp 79 1
+Delay 24 ms
+KeyDown 7 1
+Delay 13 ms
+KeyUp 7 1
+Delay 14 ms
+KeyDown 4 1
+Delay 1 ms
+KeyDown 75 1
+Delay 18 ms
+KeyUp 75 1
+Delay 22 ms
+KeyUp 4 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для фарма гладом
+
+Что делаем:
+
+1. Выставляем на 2ю панель в ячейки с 6 по 8 такие скилы :
+
+6 - некст таргет
+7 - ближняя массуха
+8- дальняя массуха
+
+2. Запускаем, фармим</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 35 1
+KeyUp 35 1
+KeyDown 36 1
+KeyUp 36 1
+KeyDown 37 1
+KeyUp 37 1</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

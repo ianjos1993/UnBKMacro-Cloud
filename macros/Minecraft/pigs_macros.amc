@@ -1,0 +1,58 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Моштабный макрос сразу на сушу яму и жиму , он просто везде великолепен и только на CubixCraft , писали 2 дня , и нашли идиал . 20-21 удар и 7 хила , на суше выхиливает очень хорошо , в жиме пилит убивает за 3-4 секунды , в яме главное попадайте и убьёте легко .
+1 - меч
+3 - фрост</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 0 ms
+Delay 0 ms
+Delay 0 ms
+Delay 4 ms
+LeftUp 1
+KeyDown 30 1
+KeyUp 30 1
+RightDown 1
+Delay 0 ms
+Delay 0 ms
+Delay 4 ms
+Delay 8 ms
+LeftDown 1
+Delay 5 ms
+Delay 5 ms
+LeftUp 1
+Delay 6 ms
+Delay 2 ms
+LeftUp 1
+Delay 8 ms
+Delay 12 ms
+RightUp 1
+Delay 2 ms
+LeftDown 1
+Delay 9 ms
+LeftUp 1
+Delay 11 ms
+RightDown 1
+LeftUp 1
+KeyDown 32 1
+KeyUp 32 1
+RightDown 1
+Delay 8 ms
+Delay 6 ms
+LeftDown 1
+Delay 15 ms
+Delay 14 ms
+
+</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

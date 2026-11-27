@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Суть макроса в том, что в игре чем дольше зажатие кнопки движения, тем больше скорость. С этим макросом будет идеально устранена задержка между движением, вашими выстрелами и перезарядкой. Настроить можно его на дополнительные кнопки мыши и использовать при зажатии. Макрос сам передвинет вашего персонажа, а после ваших выстрелов сам перезарядит оружие с оптимальной задержкой (этот макрос для движения ВЛЕВО)
+--------------------------
+The essence of the macro is that in the game, the longer the movement button is pressed, the greater the speed. With this macro, the delay between movement, your shots, and reloading will be perfectly eliminated. You can configure it with additional mouse buttons and use it when clamped. The macro itself will move your character, and after your shots, it will reload the weapon with an optimal delay.(that macros only for move LEFT)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 112 ms
+KeyDown 4 1
+Delay 35
+KeyUp 4 1
+KeyDown 21 1
+Delay 12 ms
+KeyUp 21 1</Syntax>
+    </KeyDown>
+    <Software>CS: GO</Software>
+  </DefaultMacro>
+</Root>

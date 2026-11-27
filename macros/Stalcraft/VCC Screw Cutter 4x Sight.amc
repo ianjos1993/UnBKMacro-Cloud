@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>ИНСТРУКЦИЯ ПО УСТАНОВКЕ - -  -
+1 шаг - установите горячую клавишу ( та которая вам удобна) . 
+2 шаг - войдите в прицел и зажмите горячую клавишу. отдачи не будет.
+Макрос создан под 4x прицел на всс - винторез.
+разрешение - 1920x1080
+чувствительность - 7.39
+удачи !</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 0 17
+Delay 64
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

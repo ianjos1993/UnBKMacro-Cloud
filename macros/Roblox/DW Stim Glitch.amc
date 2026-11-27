@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major>Decaying Winter Stim Dupe</Major>
+    <Description>Decaying Winter is a survival FPS inside of Roblox where you and a team of four other individuals have to survive for 10 nights, each night getting more difficult to battle your way through. As of making this (pre-re-upload/early re-upload of the game), the Decaying Winer stim glitch is still at large. This glitch is performed when you both use a stim and drop it at the same time, gaining the effects of the stim whilst not actually using it. This task is very difficult as it requires exact, down to the milisecond, percision. This macro is designed and configures to help you perform this glitch.
+
+Instructions:
+ - Equip the stim you want to use and then activate the macro using a hotkey or a delayed activation. 
+
+Notes:
+ - Don't put the hotkey of this macro as a number or another letter that does something in the game. I would reccomend Y, G, or U as hotkeys.
+ - If you need references for how long it takes for each stim to be used, use the Decaying Winter Wiki.
+ - If you have any questions, comments, concerns, or feedback, feel free to contact the developer of this macro (me) using Keyran's built in messaging feature.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 57 ms
+//You may have to tweak this part if your FPS is below 50 or above 90
+KeyDown 27 1
+Delay 64
+KeyUp 27 1
+Delay 5000 ms
+//You may have to tweak this part depending on the type of stim
+LeftUp 1
+Delay 64 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

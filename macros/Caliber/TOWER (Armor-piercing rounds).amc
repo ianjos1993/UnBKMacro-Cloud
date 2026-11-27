@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для контроля отдачи оперативника ТАУЭР. Обязательно ставьте навык "Бронебойные патроны" АРЧЕРА.
+
+Отключите вертикальную синхронизацию.
+
+Чувствительность — 50.
+
+Разрешение — 1920x1080.
+
+Забиндите на удобную клавишу и в бой!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 18 ms
+MoveR 0 0
+MoveR 0 3
+Delay 18 ms
+MoveR -3 0
+Delay 18 ms
+MoveR 1 0
+Delay 18 ms
+Goto 4</Syntax>
+    </KeyDown>
+    <Software>Caliber</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,435 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>The following Macro file allows you to perform the enchantment either for armor or weapons in quantities. Allowing you to speed up time when combining with the lucky fortune cubes.
+
+You just have to open your inventory (leave it as is in the default position).y you may have to adjust the inventory to the cursor selection. The inventory to be enchanted must also be organized as follows:
+
+Knowing that the inventory is 9 columns per row:
+In the first row, first column, the cube to be entered will be located.
+Starting from the second row, the armor or weapons that will be enchanted will be located.
+Finally, to start executing the macro, you must open the enchantment window and start the program
+You can modify the number of times you want it to stay in the loop.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 500 ms
+MoveTo 847 260
+Delay 66 ms
+LeftDown 1
+Delay 66 ms
+LeftUp 1
+Delay 66 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 100 ms
+MoveTo 843 217
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 63 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 100 ms
+MoveTo 753 619
+Delay 140 ms
+LeftDown 1
+Delay 63 ms
+LeftUp 1
+Delay 98 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 1500 ms
+MoveTo 503 559
+Delay 64 ms
+LeftDown 1
+Delay 48 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 100 ms
+MoveTo 877 249
+Delay 20 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+MoveTo 843 217
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 63 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 100 ms
+MoveTo 753 619
+Delay 140 ms
+LeftDown 1
+Delay 63 ms
+LeftUp 1
+Delay 98 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 1500 ms
+MoveTo 503 559
+Delay 64 ms
+LeftDown 1
+Delay 48 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 100 ms
+MoveTo 914 256
+Delay 59 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+Delay 80 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+Delay 100 ms
+MoveTo 843 217
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 63 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 100 ms
+MoveTo 753 619
+Delay 140 ms
+LeftDown 1
+Delay 63 ms
+LeftUp 1
+Delay 98 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 1500 ms
+MoveTo 503 559
+Delay 64 ms
+LeftDown 1
+Delay 48 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 100 ms
+MoveTo 948 257
+Delay 59 ms
+LeftDown 1
+Delay 63 ms
+LeftUp 1
+Delay 59 ms
+LeftDown 1
+Delay 63 ms
+LeftUp 1
+Delay 100 ms
+MoveTo 843 217
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 63 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 100 ms
+MoveTo 753 619
+Delay 140 ms
+LeftDown 1
+Delay 63 ms
+LeftUp 1
+Delay 98 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 1500 ms
+MoveTo 503 559
+Delay 64 ms
+LeftDown 1
+Delay 48 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 100 ms
+MoveTo 985 253
+Delay 60 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+Delay 63 ms
+LeftDown 1
+Delay 63 ms
+LeftUp 1
+Delay 100 ms
+MoveTo 843 217
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 63 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 100 ms
+MoveTo 753 619
+Delay 140 ms
+LeftDown 1
+Delay 63 ms
+LeftUp 1
+Delay 98 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 1500 ms
+MoveTo 503 559
+Delay 64 ms
+LeftDown 1
+Delay 48 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 100 ms
+MoveTo 1022 255
+Delay 164 ms
+LeftDown 1
+Delay 97 ms
+LeftUp 1
+Delay 47 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 100 ms
+MoveTo 843 217
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 63 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 100 ms
+MoveTo 753 619
+Delay 140 ms
+LeftDown 1
+Delay 63 ms
+LeftUp 1
+Delay 98 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 1500 ms
+MoveTo 503 559
+Delay 64 ms
+LeftDown 1
+Delay 48 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 100 ms
+MoveTo 1053 258
+Delay 64 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+Delay 96 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+Delay 100 ms
+MoveTo 843 217
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 63 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 100 ms
+MoveTo 753 619
+Delay 140 ms
+LeftDown 1
+Delay 63 ms
+LeftUp 1
+Delay 98 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 1500 ms
+MoveTo 503 559
+Delay 64 ms
+LeftDown 1
+Delay 48 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 100 ms
+MoveTo 1092 255
+Delay 64 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 47 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 100 ms
+MoveTo 843 217
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 63 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 100 ms
+MoveTo 753 619
+Delay 140 ms
+LeftDown 1
+Delay 63 ms
+LeftUp 1
+Delay 98 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 1500 ms
+MoveTo 503 559
+Delay 64 ms
+LeftDown 1
+Delay 48 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 100 ms
+MoveTo 1124 255
+Delay 64 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 95 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 100 ms
+MoveTo 843 217
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 63 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 100 ms
+MoveTo 753 619
+Delay 140 ms
+LeftDown 1
+Delay 63 ms
+LeftUp 1
+Delay 98 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 1500 ms
+MoveTo 503 559
+Delay 64 ms
+LeftDown 1
+Delay 48 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 100 ms
+Delay 100 ms
+MoveTo 853 228
+Delay 693 ms
+LeftDown 1
+Delay 464 ms
+MoveTo 850 227
+Delay 3 ms
+MoveTo 850 227
+Delay 11 ms
+MoveTo 850 231
+Delay 4 ms
+MoveTo 847 241
+Delay 11 ms
+MoveTo 847 241
+Delay 4 ms
+MoveTo 846 246
+Delay 11 ms
+MoveTo 846 249
+Delay 3 ms
+MoveTo 845 250
+Delay 12 ms
+MoveTo 845 250
+Delay 3 ms
+MoveTo 845 251
+Delay 284 ms
+MoveTo 845 252
+Delay 3 ms
+MoveTo 845 252
+Delay 429 ms
+MoveTo 845 252
+Delay 3 ms
+MoveTo 845 255
+Delay 12 ms
+MoveTo 845 258
+Delay 4 ms
+MoveTo 847 265
+Delay 387 ms
+LeftUp 1
+Delay 100 ms
+MoveTo 1150 590
+Delay 64 ms
+LeftDown 1
+Delay 97 ms
+LeftUp 1
+Delay 32 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 100 ms
+GoWhile 1 18</Syntax>
+    </KeyDown>
+    <Software>Rappelz</Software>
+  </DefaultMacro>
+</Root>

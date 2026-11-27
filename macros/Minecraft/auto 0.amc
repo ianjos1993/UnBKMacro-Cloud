@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос используется чтобы вы легко и быстро смогли выписать игроку 0 после пвп или дуэли.Всего 1 нажатием кнопки вы легко и быстро сможете выписывать другим пвп игрокам на серверах</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 34 ms
+KeyUp 23 1
+Delay 34 ms
+KeyDown 39 1
+Delay 34 ms
+KeyUp 39 1
+Delay 34 ms
+KeyDown 88 1
+Delay 34 ms
+KeyUp 88 1
+Delay 34 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

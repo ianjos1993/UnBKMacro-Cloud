@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос Hypixel Skyblock Garden на новый вид фермы тыквы ( сразу 3 тыквы ломает). Скорость 155. Размер фермы 2 полота. Сенса и DPI не важен, угол -90 или 90 градусов ( Смотра с какой стороны начало).
+Разрешение экрана 1920x1080p</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 7 1
+Delay 30 s
+KeyDown 26 1
+KeyUp 7 1
+Delay 4 s
+KeyUp 26 1
+KeyDown 4 1
+Delay 30 s
+KeyUp 4 1
+LeftUp 1
+GoWhile 1 9999</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

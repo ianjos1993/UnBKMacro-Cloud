@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматичесткая команда для танца в Roblox.
+Я хотел-бы сказать что тут нету команд /e dance1-3!
+НЕзнаю, кому это нужно...
+(Я обновил это, из-за поломки кода)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+KeyUp 56 1
+Delay 60 ms
+KeyDown 56 1
+KeyUp 56 1
+Delay 60 ms
+KeyDown 8 1
+KeyUp 8 1
+Delay 60 ms
+KeyDown 44 1
+KeyUp 44 1
+Delay 60 ms
+KeyDown 7 1
+KeyUp 7 1
+Delay 60 ms
+KeyDown 4 1
+KeyUp 4 1
+Delay 60 ms
+KeyDown 17 1
+KeyDown 8 1
+KeyUp 8 1
+KeyUp 17 1
+KeyDown 6 1
+KeyUp 6 1
+Delay 60 ms
+KeyDown 8 1
+KeyUp 8 1
+Delay 60
+KeyDown 88 1
+KeyUp 88 1
+Delay 60
+GoWhile 1 105</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

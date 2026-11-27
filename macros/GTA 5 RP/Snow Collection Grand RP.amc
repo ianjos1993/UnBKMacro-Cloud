@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>!Собирает снег для ивента1 на GRAND RP.  Поставьте лопатку в первый слот или поменяйте в макросе цифру.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 5 s
+KeyUp 30 1
+Delay 1 s
+KeyDown 30 1
+Delay 7 s
+KeyUp 30 1
+Delay 1 s
+KeyDown 26 1
+Delay 1 s
+KeyUp 26 1
+Delay 1 s
+GoWhile 1 840000</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

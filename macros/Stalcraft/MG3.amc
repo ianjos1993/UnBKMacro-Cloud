@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>GlintingWanderer</Major>
+    <Description>Макрос для гашения отдачи на пулемёте MG3 в Stalzone.
+Макрос проверялся на 1.8 и 1.5 прицелах и чувствительностью 3.5.
+Если для вас слишком сильно или слабо уводит мышку вниз или вверх, изменяйте по Y. Макрос пытался быть сделан максимально плавным в вертикальной отдаче.
+Желательно больше 11 не ставить! Добавьте ещё задержку и перемещение курсора, иначе движения мыши будут рваными!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 20 ms
+LeftDown 1
+Delay 1 ms
+MoveR 0 9
+Delay 1 ms
+MoveR 0 9
+Delay 1 ms
+MoveR 0 9
+Delay 1 ms
+MoveR 0 9
+Delay 1 ms
+MoveR 0 9
+Delay 1 ms
+LeftUp 1
+Delay 20 ms
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

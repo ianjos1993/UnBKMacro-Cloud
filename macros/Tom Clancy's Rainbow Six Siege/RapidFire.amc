@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major>RapidFire for any semi-automatic gun</Major>
+    <Description>RapidFire Macro by Pixze
+
+[IMPORTANT] Settings :
+
+- Operating Mode -&gt;&gt; Run while you hold the key
+
+RapidFire for any semi-automatic gun</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 25 ms
+MoveR 0 0
+LeftUp 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

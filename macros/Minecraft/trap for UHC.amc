@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос создан исключительно для игры в режим игры дуэли UHC. обязатально чтобы он работал корректно нужно иметь разрешение 1920х1080 и расположение слотов 1-меч 2-блоки 3-кирка -4 лава 5-вода
+когда вы загнали человека в угол то можете смело нажимать на клавишу на которую вы поставили  данный макрос и он сделает свое дело! То есть закроет соперника в обсидиан! Но говорю сразу к макросу нужно привыкать поэтому советую тренироватся на зомби в одиночной игре, что бы не произошло  проблем в дуэли, желаю удачной игры!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

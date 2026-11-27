@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>делает лонгшот за перк Arbiter в Decaying Winter.
+
+чем лонгшот лучше обычного шота?
+у лонгшота дмг 200 и с помощью этого ты сможешь легко отдефать волну, но 1 ньюанс, если использовать лонгшот близко, то шот нанесет тебе дмг(90)
+у обычного шота дмг 20, и нету вероятности того что шот как-то тебя задамажит</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 50
+KeyUp 9 1
+Delay 50
+Delay 450 ms
+KeyDown 9 1
+Delay 50
+KeyUp 9 1
+Delay 50</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

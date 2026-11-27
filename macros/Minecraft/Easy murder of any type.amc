@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major>Omega 1.7.10</Major>
+    <Description>СОЗДАН ДЛЯ ОМЕГИ 1.7.10. ЛИБО 1.4.7
+Этот макрос позволяет убивать любого игрока без каких-либо проблем! 
+1-ставите свой меч(желательно хороших чар;O5,О7 и тд)
+3-Ставите фростик/массик или любую другую хилку
+Биндите макрос, нажимаете на запуск, заходите в майнкрафт, нажимаете эту кнопку и у вас все работает!
+Поздравляю, теперь вы макросер!
+Удачных файтов и побольше з4/з5 сетов!</Description>
+    <Comment>Для приятной игры на Омеге)</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+KeyDown 32 1
+KeyUp 32 1
+RightDown 1
+Delay 5 ms
+RightUp 1
+Delay 5 ms
+RightDown 1
+Delay 5 ms
+RightUp 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Вызов стратагемы "ЭМ-миномёт"
+Макрос работает при управление стратагемами на стрелочки и удержания Ctrl.
+Для этого измените вызов с "WASD" на стрелочки (Настройки -&gt; Мышь и клавитура -&gt; Изменить привязку -&gt; Стратагема).
+После чего остаётся лишь кинуть маяк вызова</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 65 ms
+KeyDown 81 1
+Delay 65 ms
+KeyUp 81 1
+Delay 65 ms
+KeyDown 82 1
+Delay 65 ms
+KeyUp 82 1
+Delay 65 ms
+KeyDown 79 1
+Delay 65 ms
+KeyUp 79 1
+Delay 65 ms
+KeyDown 81 1
+Delay 65 ms
+KeyUp 81 1
+Delay 65 ms
+KeyDown 79 1
+Delay 65 ms
+KeyUp 79 1
+Delay 65 ms
+KeyUp 224 1</Syntax>
+    </KeyDown>
+    <Software>Helldivers 2</Software>
+  </DefaultMacro>
+</Root>

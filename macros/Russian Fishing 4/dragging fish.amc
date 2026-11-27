@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>It's a easy to use script for Russinan fishing 4 .
+How to use: Just set the hook into a fish and launch the script. 
+The script drags the fish  so you don't need to do it.
+You do not need to use any specific resolution to use the script.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+RightDown 1
+Delay 64
+RightUp 1
+KeyUp 224 1
+Delay 64
+KeyDown 225 1
+LeftDown 1
+Delay 26000 min
+RightDown 1
+GoWhile 7 5</Syntax>
+    </KeyDown>
+    <Software>Russian Fishing 4</Software>
+  </DefaultMacro>
+</Root>

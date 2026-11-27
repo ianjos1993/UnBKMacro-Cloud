@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Ротация под Ёимию при которой вы делаете 3 раза подряд 4 обычной атаки, отменяя последнюю сдвоенную прицелом и заканчивая спамом  обычной атаки.
+Это ротация на 10 ур руки нанесет 2482,74%, что на 8% больше спамом обычной атаки.
+Тестил на 60фпс, 58-61мс
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 250 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64 ms
+GoWhile 5 16
+Delay 68 ms
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+GoWhile 5 3
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+GoWhile 20 18</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

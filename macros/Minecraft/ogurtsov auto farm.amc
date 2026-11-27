@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос который поможет быстро нафармить морские огурцы в майнкрафт. для работы необходимо поставить живой коралловый блок, на него воду, и уже после этого на коралловом блоке фармить огурцы. в 1-й слот необходимо поместить огурец, а во второй костную муку</Description>
+    <Comment>для работы необходимо поставить живой коралловый блок, на него воду, и уже после этого на коралловом блоке фармить огурцы (драйвер используется)</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64 ms
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64 ms
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

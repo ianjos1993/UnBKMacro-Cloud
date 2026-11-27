@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматически открывает меню GPS на сервере RPM roleplay.
+Разрешение: 1920x1080, 2560x1080
+НУЖНО ДЕРЖАТЬ КНИГУ ВЫЗОВА МЕНЮ В РУКЕ!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+LeftUp 1
+Delay 850 ms
+MoveTo 1342 387
+Delay 200 ms
+LeftDown 1
+Delay 64
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

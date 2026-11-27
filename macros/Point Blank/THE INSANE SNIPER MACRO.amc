@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>Point Blank - Shotgun Macro</Major>
+    <Description>This macro is designed to be used with any shotgun/sniper as long as it has a high FPS (400+) within PointBlank. I won't tell you how to unlock it, but you can find it on the internet. The macro is set to change weapon on the left mouse button, but you can reconfigure it the way you use it and leave the same timings set. Enjoy, peace.                                                                                 
+RECONFIGURED, MUCH MORE RESPONSIVE</Description>
+    <Comment>If necessary, you can change the keys or the timing of the weapon change if you're having trouble shooting.</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 29 ms
+KeyUp 20 1
+LeftDown 1
+Delay 3 ms
+LeftUp 1
+Delay 3 ms
+KeyDown 32 1
+Delay 3 ms
+KeyUp 32 1
+RightDown 1
+Delay 3 ms
+RightUp 1
+Delay 590 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

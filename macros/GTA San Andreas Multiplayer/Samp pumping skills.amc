@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Биндим на шифт или пробел, режим роботы "повторять до следуйщего нажатия" садимся за любой тренажор в сампе, в идеале на гантели и нажымаем шифт или пробел. Готово, идём пить чай пока перс сам качаеться.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 6 ms
+KeyUp 225 1
+Delay 7 ms</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,73 @@
+<Root>
+  <DefaultMacro>
+    <Major>ATEpast</Major>
+    <Description>Описание: 
+ Макрос для мыши, 
+ Который выполняет повороты камеры игрока несколько раз, 1 поворот происходит ровно на 90 градусов вправо, 2 поворот происходит обратно в центр, 3 поворот идёт также ровно на 90 градусов влево, 4 поворот происходит обратно в центр, 5 поворот происходит назад, 6 поворот происходит в центр где в конце всех поворотов делает удар
+ Этот макрос полезен, если ты хочешь похвастаться перед друзьями.
+ НЕ ЗЛОУПОТРЕБЛЯЙ ЭТИМ МАКРОСОМ НА СЕРВЕРАХ, Т.К. ОН НАПОМИНАЕТ УДАРЫ ЧИТЕРА
+
+Характеристика, где проводился макрос: 
+ Разрешение 1366x768
+ Чувствительность мыши в игре: 70%
+ DPI на мыши 1200
+
+Кастомизация макроса: 
+ Вы можете кастомизировать этот макрос, изменяя параметры координат по X чтобы оно соответствовало вашей чувствительности мыши в игре и в жизни</Description>
+    <Comment>Макрос для нескольких поворотов и финального удара</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR 345 0
+Delay 10 ms
+MoveR 345 0
+Delay 10 ms
+MoveR 345 0
+Delay 10 ms
+MoveR 345 0
+Delay 10 ms
+MoveR 43 0
+Delay 10 ms
+MoveR -539 0
+Delay 10 ms
+MoveR -539 0
+Delay 60 ms
+MoveR -345 0
+Delay 10 ms
+MoveR -345 0
+Delay 10 ms
+MoveR -345 0
+Delay 10 ms
+MoveR -345 0
+Delay 10 ms
+MoveR -43 0
+Delay 10 ms
+MoveR 1423 0
+Delay 10 ms
+MoveR 540 0
+Delay 10 ms
+MoveR 540 0
+Delay 10 ms
+MoveR 540 0
+Delay 10 ms
+MoveR 540 0
+Delay 10 ms
+MoveR 540 0
+Delay 10 ms
+MoveR 540 0
+Delay 10 ms
+MoveR 540 0
+Delay 10 ms
+MoveR 533 0
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

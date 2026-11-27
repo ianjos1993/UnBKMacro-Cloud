@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major>auto attack of mass skills</Major>
+    <Description>Автоматическое использование скилов Aura Bolt, Aqua Splash, Aura Flare и Aura Flash для уничтожения охраны рейдбосов. Макрос подойдет для таких классов: Spellsinger. Создан для PvP серверов с полным бафом, и автоматическим использованием банок маны.
+O Aura Bolt
+P  Aqua Splash
+[ Aura Flare
+] Aura Flash
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 18 1
+Delay 1 ms
+KeyUp 18 1
+Delay 1 ms
+KeyDown 19 1
+Delay 1 ms
+KeyUp 19 1
+Delay 1 ms
+KeyDown 47 1
+Delay 1 ms
+KeyUp 47 1
+Delay 1 ms
+KeyDown 48 1
+Delay 1 ms
+KeyUp 48 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

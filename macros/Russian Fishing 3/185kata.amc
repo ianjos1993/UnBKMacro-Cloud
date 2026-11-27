@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос предназначен на ловлю китов или финов. Для катушек от 180 мощности. Работает хорошо с титановым поясом и проф. перчатками. До красной шкалы не доходит!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+Delay 250 ms
+KeyUp 10 1
+KeyDown 11 1
+Delay 170 ms
+KeyUp 11 1
+SayString </Syntax>
+    </KeyDown>
+    <Software>Русская рыбалка 3</Software>
+  </DefaultMacro>
+</Root>

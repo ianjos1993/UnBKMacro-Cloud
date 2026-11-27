@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Анти афк кик для фарма опыта дома или на вокзале, или для фракционников для фарма ЗП.
+Макроса хватит на долго настроил на 9999 циклов, просто включаете макрос и оставляете компьютер на ночь. Настройки графики максимальные, заменены партиклы,эффекты и vehicle.txd. Использовать в 1920x1080x32.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 602 ms
+KeyDown 32 1
+Delay 108 ms
+KeyUp 32 1
+Delay 1019 ms
+KeyDown 33 1
+Delay 121 ms
+KeyUp 33 1
+Delay 167 ms
+KeyDown 34 1
+Delay 112 ms
+KeyUp 34 1
+Delay 153 ms
+KeyDown 35 1
+KeyUp 35 1
+Delay 30 s
+GoWhile 1 9999</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

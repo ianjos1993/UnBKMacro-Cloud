@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major>mass attack</Major>
+    <Description>Макрос для класса Archmage. Автоматическое использование скилов Blazing Circle, Aura Flare, Aura Flash и Rain of Fire для фарма. На пвп серверах с полным бафом можно спокойно фармить массово мобов на дино острове. Задержку лучше выбирать минимальную.
+]. Blazing Circle
+[. Aura Flare
+P. Aura Flash
+O. Rain of Fire
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 18 1
+Delay 1 ms
+KeyUp 18 1
+Delay 1 ms
+KeyDown 47 1
+Delay 1 ms
+KeyUp 47 1
+Delay 1 ms
+KeyDown 19 1
+Delay 1 ms
+KeyUp 19 1
+Delay 1 ms
+KeyDown 47 1
+Delay 1 ms
+KeyUp 47 1
+Delay 1 ms
+KeyDown 48 1
+Delay 1 ms
+KeyUp 48 1
+Delay 1 ms
+KeyDown 47 1
+Delay 1 ms
+KeyUp 47 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

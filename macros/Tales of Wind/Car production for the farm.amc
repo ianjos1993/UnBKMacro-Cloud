@@ -1,0 +1,98 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Не хотите тратить свое время впустую? Вы очень устали, но хотите отдохнуть?
+Я представлю вам совершенно новый макрос для автоматической добычи ресурсов на вашей любимой ферме.
+
+Макрос выполняет:
+Рыбалку - 45 раз;
+Добычу руды - 45 раз;
+Рубку дров - 45 раз.
+
+Также, для корректного выполнения:
+убедитесь, что разрешение игры составляет 1920х1080 ;
+вам нужно заранее отправиться на ферму;
+При необходимости, вы можете увеличить или уменьшить задержку и кол-во повторений.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//Рыба
+Delay 5 s
+MoveTo 1823 158
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 s
+MoveTo 969 577
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 15 s
+MoveTo 1337 722
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 15 s
+GoWhile 15 45
+//Руда
+Delay 2 s
+MoveTo 1823 158
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 s
+MoveTo 1234 435
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 15 s
+MoveTo 1823 158
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 s
+MoveTo 1053 215
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 10 s
+MoveTo 1337 722
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 13 s
+GoWhile 45 45
+//Дерево
+Delay 2 s
+MoveTo 1823 158
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 s
+MoveTo 971 338
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 10 s
+MoveTo 1337 722
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 13 s
+GoWhile 65 45</Syntax>
+    </KeyDown>
+    <Software>Tales of Wind</Software>
+  </DefaultMacro>
+</Root>

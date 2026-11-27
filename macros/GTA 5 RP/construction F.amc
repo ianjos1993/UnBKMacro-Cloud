@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для стройки на клавишу F. Для выполнения достижения "Заслуженный строитель", за которое дают 50DP
+Когда выпадает эта клавиша на точке, просто зажимайте ту клавишу, на которую поставлен макрос. Теперь не нужно изнурительно тыкать определенную клавишу. Просто зажимайте, и отпускайте, когда закончите действие
+ps. Админы, умоляю, дайте хотя-бы день бесплатно :( Неудобно очень тратить много времени для фарма ачивок. Пожалуйста</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 30 ms
+KeyUp 9 1
+Delay 30 ms
+KeyDown 9 1
+Delay 30 ms
+KeyUp 9 1
+Delay 30 ms</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

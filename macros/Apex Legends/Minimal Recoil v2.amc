@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major>Recoil Reduction</Major>
+    <Description>New updated recoil script.
+
+Resolution 1680x1050 any 16:10 ration will work, or stretch res
+
+Shakes screen miniumly to cut back on visual interference, while still providing enough recoil reduction to be effective.
+
+NOTE: R99 and CAR have ridiculous recoil patterns, for these two weapons, YOU STILL NEED TO CONTROL SOME VERTICAL RECOIL. It's not perfect but its 80% easier, you shouldnt be trying to beam someone from 30m w a r99 or car regardless. Any AR or LMG will essentially have zero recoil, devo and havoc have some intial but none you cant handle. Good luck!
+
+Tip: Higher mag scopes amplify the effect, lower one do the opposite, not to a major degree but noticeable. Also dont be that guy and beam someone across the map with a 4x havoc, just looks suscpious. use a 301 or lmg. dont get reported
+
+Going to release another one with different patterns, stay tuned, happy macroing!</Description>
+    <Comment>micro cross/circle pattern - increased vertical, 1ms delay</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 1 0
+Delay 1 ms
+MoveR 1 0
+Delay 0 ms
+MoveR 1 0
+Delay 1 ms
+MoveR 0 2
+Delay 0 ms
+MoveR 0 2
+Delay 1 ms
+MoveR 0 2
+Delay 0 ms
+MoveR -1 0
+Delay 1 ms
+MoveR -1 0
+Delay 0 ms
+MoveR -1 0
+Delay 1 ms
+MoveR 0 -2
+Delay 0 ms
+Delay 1 ms
+MoveR 0 -2
+Delay 0 ms
+MoveR 0 -2
+Goto 2</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

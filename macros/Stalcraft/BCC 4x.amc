@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на "антиотдачу" подходит для оружия ВСС-М "Винторез" с любым 4x прицелом
+Условия для корректной работы:
+Разрешешение экрана - 1920x1080
+dpi мыши - 800dpi
+Чувствительность миши в игре - 7.0
+Рукоятка на оружие - РК-1 или рукоятка с аналогичными параметрами</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 20 ms
+MoveR 0 7
+Delay 20 ms
+MoveR 0 7
+Delay 20 ms
+MoveR 0 7
+Delay 20 ms
+MoveR 0 7
+Delay 20 ms
+MoveR 0 7
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

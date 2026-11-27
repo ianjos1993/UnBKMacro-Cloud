@@ -1,0 +1,71 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Фарм за любой класс в мелких локациях (озеро времени, мантикоры), без хилла, каждые 15 мин юзает скорость на клавишу 1. На клавишу q крит или активное умение
+на место не возвращается, желательно не юзать в данже</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 73 1
+Delay 400 ms
+KeyUp 73 1
+KeyDown 74 1
+Delay 400 ms
+KeyUp 74 1
+Delay 5000 ms
+KeyDown 20 1
+Delay 500 ms
+KeyUp 20 1
+Delay 500 ms
+KeyDown 8 1
+Delay 500 ms
+KeyUp 8 1
+KeyDown 8 1
+Delay 500 ms
+KeyUp 8 1
+KeyDown 8 1
+KeyDown 8 1
+Delay 500 ms
+KeyUp 8 1
+KeyDown 8 1
+Delay 500 ms
+KeyUp 8 1
+KeyDown 8 1
+Delay 500 ms
+KeyUp 8 1
+Delay 64
+KeyDown 8 1
+Delay 500 ms
+KeyUp 8 1
+KeyDown 8 1
+Delay 500 ms
+KeyUp 8 1
+KeyDown 8 1
+Delay 500 ms
+KeyUp 8 1
+Delay 2000 ms
+MoveTo 120 946
+Delay 64
+GoColor 49 0 210,4,4 255,255,255 0 1920 1080
+GoWhile 1 50
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+Delay 64
+RightDown 1
+MoveTo 1071 545
+Delay 64
+Delay 64
+RightUp 1
+Delay 64
+GoWhile 1 1050000</Syntax>
+    </KeyDown>
+    <Software>R2 online</Software>
+  </DefaultMacro>
+</Root>

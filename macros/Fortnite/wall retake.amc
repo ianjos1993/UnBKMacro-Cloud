@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>have pickaxe binded to T and wall binded to side button down or u can copy it and do it with your keybinds have fun!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 10 ms
+KeyUp 23 1
+Delay 1 ms
+LeftDown 1
+Delay 120 ms
+LeftUp 1
+Delay 70 ms
+Button5Down 1
+Delay 1 ms
+Button5up 1
+Delay 10 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 1 ms
+KeyDown 23 1
+Delay 1 ms
+KeyUp 23 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

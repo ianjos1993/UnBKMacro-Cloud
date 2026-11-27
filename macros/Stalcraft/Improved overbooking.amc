@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>Улучшенный спамер - перекуп</Major>
+    <Description>Первым делом отправляете в чат свое сообщение, через 10-15 секунд запускаете скрипт. Он повторяет последнее отправленное вами сообщение в чат. Отправляет в диапазоне 11-13 секунд(рандом, за это время исчезает ваше прошлое сообщение в чате, из-за этого получается что ваше объявление будет видно в чате всегда)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 88 1
+Delay 88 ms
+KeyUp 88 1
+Delay 88 ms
+KeyDown 82 1
+Delay 119 ms
+KeyUp 82 1
+Delay 152 ms
+KeyDown 88 1
+Delay 88 ms
+KeyUp 88 1
+Delay 674 ms
+Delay 11000 13000 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

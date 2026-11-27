@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>this macro have a 60%chance to do 1 telly to use it you need o look at 0;0 and jump out of the map and use it
+
+you need a screen resolution of 1680x1050 and a ingame mouse speed of 105</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1 ms
+MoveR 0 23
+MoveR 0 24
+Delay 4 ms
+GoWhile 1 4
+Delay 1 ms
+MoveR 24 0
+MoveR 23 0
+Delay 4 ms
+GoWhile 6 13
+Delay 10 ms
+RightDown 1
+Delay 1 ms
+RightUp 1
+RightDown 1
+Delay 1 ms
+RightUp 1
+Delay 15 ms
+MoveR 0 15
+Delay 15 ms
+RightDown 1
+Delay 1 ms
+RightUp 1
+GoWhile 12 100
+Delay 64 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

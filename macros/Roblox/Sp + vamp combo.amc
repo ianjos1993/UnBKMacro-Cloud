@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Комбо SP + VAMP — это последовательность действий, которая использует способность SP (специальную атаку или умение) и способность VAMP (вампирский эффект или восстановление здоровья). Обычно оно включает активацию SP, затем использование VAMP для восстановления здоровья или усиления.
+
+Пример описания:
+
+    Активировать SP — выполнить специальную атаку или умение.
+    После успешного удара или в определённый момент активировать VAMP — способность, которая восстанавливает здоровье или наносит урон врагам, поглощая их энергию.
+    В зависимости от игры, можно добавить дополнительные действия для усиления комбо или быстрого восстановления.
+
+Если нужно, я подготовлю конкретный сценарий или код для этого комбо.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 23 1
+Delay 1 ms
+KeyUp 23 1
+Delay 1 ms
+KeyDown 30 1
+Delay 1 ms
+KeyDown 27 1
+Delay 64
+KeyUp 27 1
+Delay 64
+KeyUp 30 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

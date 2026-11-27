@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>Спам Open/Lock Doors (F3) 2560х1080</Major>
+    <Description>Спам кнопки "Открыть" и "Закрыть" двери авто в панели F3 под разрешение 2560х1080. Возможен кик с сервера за слишком большое количество запросов.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1499 552
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Рубик через дагон. Обычная расскладка QWERDR ZXCVBN. Рубик поднимает врага теликинезем, дает ему фейд болт и дагон. Дагон должен быть в слоте Z</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 12
+KeyUp 20 1
+Delay 12
+LeftDown 1
+Delay 12
+LeftUp 1
+Delay 12
+KeyDown 26 1
+Delay 12
+KeyUp 26 1
+Delay 12
+LeftDown 1
+Delay 12
+LeftUp 1
+Delay 12
+KeyDown 29 1
+Delay 12
+KeyUp 29 1
+Delay 12
+LeftDown 1
+Delay 12
+LeftUp 1
+Delay 12
+KeyDown 21 1
+Delay 12
+KeyUp 21 1
+Delay 12
+LeftDown 1
+Delay 12
+LeftUp 1
+Delay 12</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

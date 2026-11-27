@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Самый простой авто-бег на AION 
+
+Всё просто, биндим на клавишу и нажимаем на клавишу и всё готово!
+
+P.S Если не работает, бежит не в том направлении, делаем настройки игры по умолчанию</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 7 ms
+KeyUp 26 1
+Delay 7 ms
+LeftDown 1
+Delay 7 ms
+LeftUp 1
+Delay 7 ms</Syntax>
+    </KeyDown>
+    <Software>AION</Software>
+  </DefaultMacro>
+</Root>

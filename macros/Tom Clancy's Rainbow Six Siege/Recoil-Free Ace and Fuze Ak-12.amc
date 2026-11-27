@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro is designed for players who use the Ak-12 gun in Rainbow Six Siege and want to nullify the recoil completely. The recommended resolution is 1920x1080px, although stretched res can also be used. The macro is suitable for use by Ace and Fuze characters.
+
+The Ak-12 is equipped with a suppressor, which is compatible with the macro. This means that players do not need to worry about recoil while using the gun. The sensitivity setting for the macro is 10 in-game and 600dpi.
+
+The macro is designed to nullify the recoil completely, including the side recoil. This makes it easier for players to aim accurately and fire their shots with precision. To use the macro, players simply need to activate it before playing the game.
+
+Overall, this macro is an excellent tool for players who want to improve their accuracy and performance in Rainbow Six Siege while using the Ak-12 gun. It simplifies the aiming process and eliminates the need for players to manually control recoil, allowing them to focus on other aspects of the game.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 8 ms
+Delay 16 ms
+MoveR -2 17
+Delay 8 ms
+Delay 16 ms
+MoveR -2 17
+Delay 8 ms
+Delay 16 ms
+MoveR -2 17
+Delay 8 ms
+Delay 16 ms
+MoveR -2 17
+Delay 8 ms
+Delay 16 ms
+MoveR -2 17
+Delay 8 ms
+Delay 16 ms
+MoveR -2 17
+Delay 8 ms
+Delay 16 ms
+MoveR -2 17
+Delay 16 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

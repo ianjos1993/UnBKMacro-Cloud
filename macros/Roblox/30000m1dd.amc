@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>30000m1dd is an advanced movement technique that allows players to glide smoothly across the stage while maintaining control over their character’s attacks. It is performed by air dodging diagonally into the ground just after jumping, causing the character to slide instead of walking or running. This technique enhances mobility, allowing for quick mix-ups, spacing adjustments, and unpredictable approaches. Skilled players use wave dashing to evade attacks, close the distance rapidly, or create pressure by seamlessly transitioning into grabs or attacks.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+LeftUp 1
+Delay 280 ms
+KeyDown 7 1
+KeyDown 20 1
+KeyUp 20 1
+KeyUp 7 1
+Delay 490 ms
+KeyDown 26 1
+KeyDown 20 1
+KeyUp 20 1
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

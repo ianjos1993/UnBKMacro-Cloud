@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос делет лайт атаку после нажатия кнопки скилла, чем самым сохраняем жизнь своей мышке, ну или нерадивому дд подспорье так-как не придется постоянно кликать мышь макрос сделает это для вас. </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>The Elder Scrolls Online (TESO)</Software>
+  </DefaultMacro>
+</Root>

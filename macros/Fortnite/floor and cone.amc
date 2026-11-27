@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос моментально ставит пол и конус,  всё что вам нужно -  это поставить его на удобную вам клавишу (кроме F2 и F4). Данный макрос будет очень полезен в файтах, как для новичков, так и для опытных игроков. Желаю хорошей игры)
+The macro instantly puts the floor and the cone, all you need is to put it on a convenient key (except F2 and F4). This macro will be very useful in fighting, both for beginners and experienced players. I wish you a good game)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 61 1
+Delay 14 ms
+KeyUp 61 1
+Delay 14 ms
+LeftDown 1
+Delay 14 ms
+LeftUp 1
+Delay 14 ms
+KeyDown 59 1
+Delay 14 ms
+KeyUp 59 1
+Delay 14 ms
+LeftDown 1
+Delay 14 ms
+LeftUp 1
+Delay 14 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

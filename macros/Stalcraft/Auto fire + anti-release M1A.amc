@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major>Автоматический огонь + антиотдача M1FA</Major>
+    <Description>Элементарный зацикленный макрос
+Разрешение 1920x1080
+Прицел Leupold
+Случайная компенсация отдачи по оси X, может уводить
+Бинд на левую кнопку мыши
+Приятной игры!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 9 ms
+MoveR 0 5
+MoveR -1 0 1 1
+Delay 9 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,136 @@
+<Root>
+  <DefaultMacro>
+    <Major>Dark Horse</Major>
+    <Description>Make sure you are standing next to the chest spawn at the dolam to hit the [E] CHEST prompt.
+
+I recomend having your companion out running heal skills, 
+During my use i have had 24hr runs AFK  
+
+
+1 skill Spray of arrows)
+3 skill Hidden Armour (quick call)
+5 skills for passive buffs (Green Dragon blood) 
+1 skill spray of arrows (spam)
+3 skill Hidden Armour 
+5 skills for passive buffs (Green Dragon blood) 
+
+
+Fantasic way to Farm this chest</Description>
+    <Comment>Make sure you have heal passives in skill slot 3,</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 34 1
+Delay 85 ms
+KeyUp 34 1
+Delay 430 ms
+LeftDown 1
+Delay 85 ms
+LeftUp 1
+Delay 400 ms
+KeyDown 31 1
+Delay 85 ms
+KeyUp 31 1
+Delay 410 ms
+LeftDown 1
+Delay 85 ms
+LeftUp 1
+Delay 80 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 410 ms
+KeyDown 32 1
+Delay 85 ms
+KeyUp 32 1
+Delay 410 ms
+LeftDown 1
+Delay 85 ms
+LeftUp 1
+Delay 410 ms
+KeyDown 34 1
+Delay 85 ms
+KeyUp 34 1
+Delay 410 ms
+LeftDown 1
+Delay 85 ms
+LeftUp 1
+Delay 410 ms
+KeyDown 30 1
+Delay 85 ms
+KeyUp 30 1
+Delay 410 ms
+LeftDown 1
+Delay 85 ms
+LeftUp 1
+Delay 410 ms
+KeyDown 30 1
+Delay 85 ms
+KeyUp 30 1
+Delay 410 ms
+LeftDown 1
+Delay 85 ms
+LeftUp 1
+Delay 410 ms
+KeyDown 30 1
+Delay 85 ms
+KeyUp 30 1
+Delay 410 ms
+LeftDown 1
+Delay 85 ms
+LeftUp 1
+Delay 410 ms
+KeyDown 30 1
+Delay 85 ms
+KeyUp 30 1
+Delay 410 ms
+LeftDown 1
+Delay 85 ms
+LeftUp 1
+Delay 410 ms
+KeyDown 30 1
+Delay 85 ms
+KeyUp 30 1
+Delay 410 ms
+LeftDown 1
+Delay 85 ms
+LeftUp 1
+Delay 410 ms
+KeyDown 30 1
+Delay 85 ms
+KeyUp 30 1
+Delay 410 ms
+LeftDown 1
+Delay 85 ms
+LeftUp 1
+Delay 410 ms
+KeyDown 30 1
+Delay 85 ms
+KeyUp 30 1
+Delay 410 ms
+LeftDown 1
+Delay 2200 ms
+LeftUp 1
+Delay 430 ms
+LeftDown 1
+Delay 2200 ms
+LeftUp 1
+Delay 410 ms
+KeyDown 34 1
+Delay 85 ms
+KeyUp 34 1
+Delay 80 ms
+Delay 5 s
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 5 s
+GoWhile 105 86400000</Syntax>
+    </KeyDown>
+    <Software>The Elder Scrolls Online (TESO)</Software>
+  </DefaultMacro>
+</Root>

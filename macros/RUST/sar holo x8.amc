@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major>macro sar holo x8</Major>
+    <Description>this is the best macro for sar holo x8, you will be the best in pvp with this macro
+fov 90
+1920 x 1080
+dpi 1300
+sensitivity 0.7
+
+enjoy the best macros on the server!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 49 ms
+MoveR 0 -35
+Delay 49 ms
+MoveR 0 -31
+Delay 49 ms
+MoveR 0 -32
+Delay 49 ms
+MoveR 0 -33
+Delay 49 ms
+MoveR 0 -34
+Delay 49 ms
+MoveR 0 -35
+Delay 49 ms
+MoveR 0 -31
+Delay 49 ms
+MoveR 0 -32
+Delay 49 ms
+MoveR 0 -33
+Delay 49 ms
+LeftUp 1
+Delay 49 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

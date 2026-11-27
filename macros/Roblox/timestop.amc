@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>timestop battlegrounds</Major>
+    <Description>нужен чтобы автоматически останавливать время в игре timestop battlegrounds. В первой задержке отпускания F, требуется поставить столько секунд на скольво вы можете останавливать время с учетом кулдауна. x - остановка времени, x+20= значение в задержке. Приятного пользования!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 140 s
+KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 64
+GoWhile 1 999999</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

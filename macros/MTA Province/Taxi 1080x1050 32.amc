@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для ловли заказвов в такси, Можно установить на цифру 1 и за секунду принимать заказы в такси. Макрос расчитан под Разрешение экрана 1680x1050 32.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макрос. В общей базе не было этого макроса пришлось делать самому под мое разрешение экрана, думаю многоим понадобится</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR -705 -258
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveR -726 27
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

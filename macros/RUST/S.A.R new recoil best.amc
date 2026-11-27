@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>yarı otomatik tüfek yeni güncellemeye göre ayarlanmıştır fakat hassasiyet 0.33 görüş alanı FOV 80 dir ve oturarak sıkmanız gerekmektedir.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 3 ms
+MoveR 0 4
+Delay 9 ms
+MoveR 0 4
+Delay 9 ms
+MoveR 0 4
+Delay 9 ms
+MoveR 0 4
+Delay 9 ms
+MoveR 0 3
+Delay 9 ms
+MoveR 0 3
+Delay 3 ms
+LeftUp 1
+Delay 9 ms
+LeftDown 1
+Delay 3 ms
+MoveR 0 4
+Delay 9 ms
+MoveR 0 4
+Delay 9 ms
+MoveR 0 4
+Delay 9 ms
+MoveR 0 4
+Delay 9 ms
+MoveR 0 5
+Delay 9 ms
+MoveR 0 5
+Delay 3 ms
+LeftUp 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

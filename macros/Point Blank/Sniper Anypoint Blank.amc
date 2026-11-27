@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major>Снайперка макрос V3</Major>
+    <Description>Данный макрос подходит для игр на любых снайперках.
+
+макрос работает по принципу,прицел.выстрел,смена
+
+
+Ставим на любую кнопку у меня стоит на левую кнопку мыши
+
+
+
+Если есть вопросы пишите</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 15 ms
+RightUp 1
+Delay 15 ms
+LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 15 ms
+KeyUp 32 1
+Delay 15 ms
+KeyDown 30 1
+Delay 15 ms
+RightDown 1
+Delay 15 ms
+RightUp 1
+Delay 15 ms
+LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 15 ms
+KeyUp 32 1
+Delay 15 ms
+KeyDown 30 1</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

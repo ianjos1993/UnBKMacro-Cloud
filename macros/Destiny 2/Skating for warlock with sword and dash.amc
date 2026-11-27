@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>(RU)Данный макрос предназначен для очень быстрого передвижения на варлоке с мечем. Для этого Вам понадобиться огненный варлок с верхней веткой подкласса и меч. Вы начинаете бег и просто нажимаете на кнопку привязнную к макросу, после чего варлок подпрыгивает и делает удар мечом задавая себе импульс,незамедлительно за ударом следует рывок варлока, спустя некоторое кол-во (мс), Ваш персонаж приземляется на землю и сразу же выполняет второй рывок. ( с каждым рывком скорость возрастает).
+(EN)This macro is designed for very fast movement on a warlock with a sword. To do this, you need a fire warlock with the upper branch of the subclass and a sword. You start the run and simply press the button tied to the macro, after which the warlock jumps up and makes a hit with the sword giving itself an impulse, immediately after the hit there is a warlock jerk, after a certain amount (ms), your character lands on the ground and immediately performs the second jerk. (speed increases with every jerk)
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 64 ms
+KeyUp 44 1
+Delay 250 ms
+KeyDown 14 1
+Delay 1 ms
+KeyUp 14 1
+Delay 400 ms
+KeyDown 44 1
+Delay 200 ms
+KeyUp 44 1
+Delay 200 ms
+KeyDown 13 1
+Delay 64 ms
+KeyUp 13 1
+Delay 650 ms
+KeyDown 44 1
+Delay 1 ms
+KeyUp 44 1
+Delay 30 ms
+KeyDown 44 1
+Delay 50 ms
+KeyUp 44 1
+Delay 50 ms
+KeyDown 13 1
+Delay 64
+KeyUp 13 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Destiny 2 Warlock Skating</Software>
+  </DefaultMacro>
+</Root>

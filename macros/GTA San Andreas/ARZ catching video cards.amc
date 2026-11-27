@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Цель данного макроса помочь игрокам приобрести видеокарты на сервере Arizona RP. Игроков много по этому не каждый успевает в нужное время прожать нужные клавиши для приобретения товара. Но благодаря данному максросу покупка видеокарт становится очень легкой задачей, вы будете покупать их быстрее чем остальные игроки.
+Использование : данный макрос нужно поставить на зажатие любой клавиши и примерно за пару секунд до слета видеокарт примерно в 59 минут и 57 секунд зажать клавишу на которую вы поставили макрос, вы купите видеокарту быстрее чем остальные, рекомендую для использования!!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 226 1
+Delay 1
+KeyUp 226 1
+Delay 1
+KeyDown 40 1
+Delay 1
+KeyUp 40 1
+Delay 1
+KeyDown 226 1
+Delay 1
+KeyUp 226 1
+Delay 1
+KeyDown 40 1
+Delay 1
+KeyUp 40 1
+Delay 1
+KeyDown 226 1
+Delay 1
+KeyUp 226 1
+Delay 1
+KeyDown 40 1
+Delay 1
+KeyUp 40 1
+Delay 1</Syntax>
+    </KeyDown>
+    <Software>GTA San Andreas / Arizona RP Покупка видеокарт</Software>
+  </DefaultMacro>
+</Root>

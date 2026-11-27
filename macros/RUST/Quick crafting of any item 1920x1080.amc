@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major>Быстрый крафт любого предмета 1920x1080</Major>
+    <Description>И так всем здравствуйте, чтобы пользоваться скриптом вы должны открыть меню крафта, затем выбрать любой предмет и нажать клавишу включения скрипта.
+Режим работы "До повторного нажатия" 
+Разрешение 1920x1080. 
+Так же есть скрипты для 1440x900,1680x1050, 1600x900, 1280x1024.
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1223 875
+Delay 100 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 100 ms
+MoveTo 1771 871
+Delay 100 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 100 ms
+MoveTo 1223 875
+Delay 100 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 100 ms
+MoveTo 1771 871
+Delay 100 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 100 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

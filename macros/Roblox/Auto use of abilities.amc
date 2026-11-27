@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот скрипт был создан для игры A Hero's Destiny и он  позволяет автоматически использовать способности героев на буквы E,R,C,F в начале на спавне вы выбераете себе класс а потом вам дается первая кнопка чтобы получить все кнопки надо достичь 200 уровня.
+Инструкция - Скачать программку Keyran. 2.Скачать мой макрос. 3. запустить программу Keyran. 4.Запустить редактор макросов. 5.Нажать открыть файл. 6. И выйти с редактора. 7. Забиндить макрос. 8. Наслаждаться игрой.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 5 ms
+KeyUp 8 1
+Delay 5 ms
+KeyDown 21 1
+Delay 5 ms
+KeyUp 21 1
+Delay 5 ms
+KeyDown 6 1
+Delay 5 ms
+KeyUp 6 1
+Delay 5 ms
+KeyDown 9 1
+Delay 5 ms
+KeyUp 9 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

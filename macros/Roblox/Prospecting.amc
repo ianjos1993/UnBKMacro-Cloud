@@ -1,0 +1,64 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос я сделал для игры Prospecting для того что бы афк просеивать песок в этом симуляторе.
+Макрос будет сам заполнять песок, сам идти в воду, сам просеивать и возвращаться на исходное место. 
+Для того что бы он у вас работал вам нужно сначала установить драйвер keyran далее зайти в игру поменять задержки (если требуется) и просто запустить макрос.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 60 ms
+LeftDown 1
+Delay 546 ms
+LeftUp 1
+Delay 1317 ms
+LeftDown 1
+Delay 546 ms
+LeftUp 1
+Delay 1317 ms
+LeftDown 1
+Delay 546 ms
+LeftUp 1
+Delay 1317 ms
+LeftDown 1
+Delay 546 ms
+LeftUp 1
+Delay 1317 ms
+LeftDown 1
+Delay 546 ms
+LeftUp 1
+Delay 1317 ms
+LeftDown 1
+Delay 546 ms
+LeftUp 1
+Delay 1317 ms
+LeftDown 1
+Delay 546 ms
+LeftUp 1
+Delay 1317 ms
+KeyDown 26 1
+Delay 800 ms
+KeyUp 26 1
+Delay 300 ms
+LeftDown 1
+LeftUp 1
+Delay 300 ms
+LeftDown 1
+Delay 9 s
+LeftUp 1
+Delay 2500 ms
+KeyDown 22 1
+Delay 800 ms
+KeyUp 22 1
+Delay 500 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

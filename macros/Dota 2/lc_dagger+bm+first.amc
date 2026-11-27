@@ -1,0 +1,83 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Hero: Legion Commander
+
+
+Second skill (Press the Attack) must be set to Cast Mode = Quick Cast (W)
+
+Key Bindings Required
+Blink Dagger: Space
+
+
+Blade Mail: Alt + S
+
+
+First Skill (Overwhelming Odds): Q
+
+When the macro key is pressed, it performs the following sequence:
+1.
+
+Blink Dagger to target position
+2.
+
+Activate Blade Mail
+3.Cast Overwhelming Odds
+
+Manual Cast "R" or Duel as the timing ensures Blade Mail is activated before Duel, maximizing reflected damage during the duel.
+
+Usage:
+Press the assigned macro key.
+
+
+The script will automatically execute the combo in the correct order.
+
+
+Make sure your cursor is over the target when activating the macro.
+
+Notes
+
+:
+Designed for fast Legion Commander initiation combos.
+
+
+Helps reduce manual input delay during fights.
+
+
+Recommended to test in demo mode or bot matches first to verify key bindings.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 35 83 ms
+KeyUp 26 1
+Delay 35 83 ms
+KeyDown 26 1
+Delay 35 83 ms
+KeyUp 26 1
+Delay 35 83 ms
+KeyDown 226 1
+Delay 45 83 ms
+KeyDown 22 1
+Delay 45 83 ms
+KeyUp 226 1
+Delay 45 54 ms
+KeyUp 22 1
+Delay 45 54 ms
+KeyDown 44 1
+Delay 80 83 ms
+KeyUp 44 1
+Delay 80 83 ms
+KeyDown 20 1
+Delay 35 83 ms
+KeyUp 20 1
+Delay 35 83 ms</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

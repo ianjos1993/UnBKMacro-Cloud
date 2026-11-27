@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Авто-прыжок + прицеливание 
+
+прыгает и прицеливается  удобно стрилять со снайпы  во время раша ! 
+
+можно дороботать и прописать авто выстрел во время прицела!!
+
+
+прывыкнуть и все килы ваши)</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 14 ms
+KeyUp 44 1
+Delay 14 ms
+RightDown 1
+Delay 14 ms
+RightUp 1
+Delay 14 ms
+KeyDown 44 1
+Delay 14 ms
+KeyUp 44 1
+Delay 14 ms
+RightDown 1
+Delay 14 ms
+RightUp 1
+Delay 14 ms
+KeyDown 44 1
+Delay 14 ms
+KeyUp 44 1
+Delay 14 ms</Syntax>
+    </KeyDown>
+    <Software>Infestation: The New Z</Software>
+  </DefaultMacro>
+</Root>

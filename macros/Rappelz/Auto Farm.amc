@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>Auto Farm Macro</Major>
+    <Description>Game must be 1024x768 top left corner.
+It will do tab then press 1 then rotate camera for see other mobs.
+Easy to Use.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+MoveTo 453 327
+Delay 64
+RightDown 1
+Delay 64
+MoveTo 423 327
+Delay 64
+RightUp 1
+Delay 64
+GoWhile 1 5000</Syntax>
+    </KeyDown>
+    <Software>Rappelz</Software>
+  </DefaultMacro>
+</Root>

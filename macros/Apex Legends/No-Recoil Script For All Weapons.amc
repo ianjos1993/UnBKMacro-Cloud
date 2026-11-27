@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>Recoil</Major>
+    <Description>An no-recoil script for all weapons for season 21. Set the macro on LMB and to hold only.
+Resolution - 1920x1080 | I can't say the script will 100% work on other resolutions but I made a script that supports 4:3 resolutions.
+Sensitivity - 1.5 in game with 1x scope on 1 multiplier / 2x scope on 1.1 multiplier and 4x scope on 1.3 multiplier.
+Mouse Sensitivity - 800 or 1000 DPI
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 20 ms
+MoveR 3 3
+Delay 20 ms
+MoveR 3 -3
+Delay 20 ms
+MoveR -3 -3
+Delay 20 ms
+MoveR -3 3
+Delay 20 ms
+GoWhile 1 10</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

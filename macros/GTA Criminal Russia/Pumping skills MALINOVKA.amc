@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Чтобы прокачать скилы данным скриптом вам нужно:
+.Установить на удобную вами кнопку данный макрос
+Нажать ны выбранную вами кнопку
+И ваш макрос будет хорошо работать!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 123 ms
+KeyUp 224 1
+Delay 650 ms
+KeyDown 224 1
+Delay 106 ms
+KeyUp 224 1
+Delay 700 ms
+KeyDown 224 1
+Delay 151 ms
+KeyUp 224 1
+Delay 610 ms
+KeyDown 224 1
+Delay 107 ms
+KeyUp 224 1</Syntax>
+    </KeyDown>
+    <Software>Malinovka RP</Software>
+  </DefaultMacro>
+</Root>

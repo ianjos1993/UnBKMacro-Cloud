@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This fortnite macro allows you to make floors,walls and pyrimids invisble. In the keyran program you can adjust the MS on each command but warning, 1ms is not consistant. 2ms-4ms is best. In Fortnite, bind your edit key to E and thats it. Bind the macro to any key and come up to a floor and start macroing. Have fun! Also make sure you have edit on release on.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 4 ms
+KeyUp 8 1
+Delay 4 ms
+LeftDown 1
+Delay 4 ms
+LeftUp 1
+Delay 4 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Один из видов комбо на версии не выше 1.8.9. Макрос при котором игрок идёт вперёд, делает разворот на 360 и бьёт противника. Разрешение 1920 на 1080. Чувствительность 70+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+MoveR 23 2
+Delay 1
+LeftDown 1
+LeftUp 1
+Delay 1
+MoveR 23 2
+LeftDown 1
+LeftUp 1
+Delay 1
+MoveR 23 2
+LeftDown 1
+LeftUp 1
+Delay 1
+MoveR 23 2
+LeftDown 1
+LeftUp 1
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

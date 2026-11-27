@@ -1,0 +1,20 @@
+Send(I); 
+ #region // Бронь (1 слот 2 строка)
+    Sleep(200);
+    leftDOWN(1117,355);
+    Sleep(200);
+    leftUP(364,382);
+#endregion
+    #region // Оружие
+    Sleep(200);
+    leftDOWN(1305,644);
+    Sleep(200);
+    leftUP(462,380);
+#endregion
+    #region // Маска
+Sleep(200);
+    leftDOWN(1130,276);
+    Sleep(200);
+    leftUP(559,384);
+Sleep(200);
+ Send (I);

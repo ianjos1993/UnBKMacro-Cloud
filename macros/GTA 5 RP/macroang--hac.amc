@@ -1,0 +1,57 @@
+<Root>
+  <DefaultMacro>
+    <Major>GrandRP Angeln und Tagesbelohnung</Major>
+    <Description>Zum Angeln und gleichzeit läuft die Tagesbelohnungszeit weiter. Alle 6 Sek. drückt er für 6 sekunden E und ab und zu holt er kurz das Handy raus um nicht ein zu schlafen</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 6 s
+KeyUp 8 1
+Delay 6 s
+KeyDown 8 1
+Delay 6 s
+KeyUp 8 1
+Delay 6 s
+KeyDown 8 1
+Delay 6 s
+KeyUp 8 1
+Delay 6 s
+KeyDown 14 1
+Delay 64 ms
+KeyUp 14 1
+Delay 1 s
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 1 s
+KeyDown 8 1
+Delay 6 s
+KeyUp 8 1
+Delay 6 s
+KeyDown 8 1
+Delay 6 s
+KeyUp 8 1
+Delay 6 s
+KeyDown 8 1
+Delay 6 s
+KeyUp 8 1
+Delay 6 s
+KeyDown 8 1
+Delay 6 s
+KeyUp 8 1
+Delay 6 s
+KeyDown 8 1
+Delay 6 s
+KeyUp 8 1
+Delay 64 ms
+GoWhile 1 1000</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

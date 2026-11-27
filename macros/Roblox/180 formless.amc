@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>Roblox</Major>
+    <Description>This macro allows you to perform a very fast 180-degree rotation in the game with low sensitivity (in roblox 0.2) and pops a instant formless for the game named Locked. Its for 1920x1080 resolution and 0.5 in Locked sensivity. If yall are using another sensivity, its easily adjustable from curser movement and hard to detect due having several delays between turns.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR -500 0
+Delay 15 ms
+MoveR -300 0
+Delay 15 ms
+MoveR -798 0
+Delay 10 ms
+MoveR -200 0
+Delay 30 ms
+RightDown 1
+Delay 1 ms
+RightUp 1
+Delay 1 ms
+KeyDown 21 1
+Delay 1 ms
+KeyUp 21 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

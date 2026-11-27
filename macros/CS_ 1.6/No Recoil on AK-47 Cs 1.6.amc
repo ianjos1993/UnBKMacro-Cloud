@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major>Кс 1.6</Major>
+    <Description>Макрос для Кс 1.6 Предназначен для стрельбы с Калаша 47 без отдачи
+Хороший макрос работает и на фасткапе, можете проверить проверял сам все хорошо работает.
+
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 80
+LeftUp 1
+Delay 40 ms</Syntax>
+    </KeyDown>
+    <Software>CS 1.6</Software>
+  </DefaultMacro>
+</Root>

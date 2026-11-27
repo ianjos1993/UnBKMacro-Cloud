@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Устали бесконечно гриндить уровни Боевого Пропуска? Этот макрос полностью автоматизирует процесс получения опыта в Fortnite, пока вы отдыхаете, учитесь или спите! Он имитирует действия реального игрока, что позволяет обходить встроенную AFK-систему Epic Games, которая отключает получени опыта за афк.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+KeyDown 26 1
+Delay 50 ms
+KeyUp 225 1
+KeyUp 26 1
+Delay 5400 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major>Pumps oil automated, LVL3 and 4 hours dayplaytime needed. WQHD Resolution</Major>
+    <Description>This Macro is made for people who need to pump Oil from the oilpump at the Server Grand RP. This macro is fully automated except that the Capchas have to be solved manually every 15 minutes. But you can for example remote control your PC and solve the capchas via Remote control from your tablet (mobile i wouldnt recommend because of the screensize). This macro is made for Joblvl 3 with 4 hours playtime that day. For LVL 2 or 1 this macro woudnt work because with LVL 3 you can pump faster and the macro is optimized for that.
+
+PS: I didnt made the macro as fast as possible because the more "press time" you will take away, the more risk you will have to not get the pumpcycle to the end, because every time you need randomly slighly more or less press time. Why? IDK
+
+Made for 2560 x 1440 WQHD Resulution
+
+Capchas needs to be solved manually (every +-15 min)
+
+What you need: Oilpumper LVL 3 played time that day: 4 hours or more</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 404 1005
+LeftDown 1
+Delay 500 ms
+MoveTo 540 1006
+Delay 2000 ms
+LeftUp 1
+LeftDown 1
+Delay 500 ms
+MoveTo 685 1001
+Delay 2000 ms
+LeftUp 1
+LeftDown 1
+Delay 500
+MoveTo 820 1000
+Delay 2000 ms
+LeftUp 1
+LeftDown 1
+Delay 500 ms
+MoveTo 404 1005
+Delay 2000 ms
+LeftUp 1
+GoWhile 2 86400000</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

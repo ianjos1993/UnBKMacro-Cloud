@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>Auto Skil Click</Major>
+    <Description>Auto using skill with Click on Player without manual pointing. For example you are using Tuna Belly skill from Doram Job, you just push your skill wich is I choose "W" and this macro do automatically for you without you are using your mouse.
+You can adjust the position of auto click here depend of your monitor resolution. My screen resolution is 1920x1080.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>varE = 0
+GoColor 1 1 156,181,239 255,255,255 1 238 88 993 965 1 0
+varE = 1
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64 ms
+MoveTo 990 528
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 500 ms</Syntax>
+    </KeyDown>
+    <Software>Ragnarok</Software>
+  </DefaultMacro>
+</Root>

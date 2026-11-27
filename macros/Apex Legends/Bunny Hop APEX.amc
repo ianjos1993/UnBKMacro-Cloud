@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>easy bunny hopping for apex legends, Crouch: CTRL, Jump: SPACE, change them if you need to, make sure the macro is set up to "hold while clamped" have fun :)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 5 ms
+KeyDown 44 1
+Delay 2 ms
+KeyUp 44 1
+KeyDown 44 1
+Delay 2 ms
+KeyUp 44 1
+KeyDown 44 1
+Delay 2 ms
+KeyUp 44 1
+KeyDown 44 1
+Delay 2 ms
+KeyUp 44 1
+KeyUp 224 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

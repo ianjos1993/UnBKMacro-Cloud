@@ -1,0 +1,62 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>В этом макросе имеется множество плюсов т.к он настроен как для использование хилок так и для одновременной атаки либо массами либо одиночными атаками. Вы сможете стоять спокойно не боясь что вашего персонажа убьют т.к все кнопки нажимаются последовательно и вы можете просто поставить хилку на любую из кнопок и вас будет хилить по кд и в это же время бить мобов . Вам будет достаточно всего-лишь в 2 кнопки расположить предмет для хила хп и маны , а в остольные слоты поставить навыки массовые/одиночные и вуаля ваш персонаж обеспечен всем начиная от вашего счастья заканчивая его повышением лвла. Желаю удачи , макрос проверен лично мной всё работает отлично . Лутше всего работает на персонажах у которых есть множество массовых атак .</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1866 ms
+KeyDown 30 1
+KeyUp 33 1
+Delay 163 ms
+KeyUp 30 1
+KeyUp 36 1
+Delay 1216 ms
+KeyDown 33 1
+Delay 140 ms
+Delay 255 ms
+Delay 711 ms
+KeyDown 34 1
+Delay 199 ms
+KeyUp 34 1
+Delay 1560 ms
+KeyDown 34 1
+Delay 152 ms
+KeyUp 34 1
+Delay 1391 ms
+KeyDown 35 1
+Delay 111 ms
+KeyUp 35 1
+Delay 1123 ms
+KeyDown 36 1
+Delay 1008 ms
+KeyDown 37 1
+Delay 179 ms
+KeyUp 37 1
+Delay 924 ms
+KeyDown 37 1
+Delay 160 ms
+KeyUp 37 1
+Delay 1023 ms
+KeyDown 38 1
+Delay 167 ms
+KeyUp 38 1
+Delay 1607 ms
+KeyDown 31 1
+Delay 154 ms
+KeyUp 31 1
+Delay 935 ms
+KeyDown 32 1
+Delay 166 ms
+KeyUp 32 1
+Delay 2495 ms
+GoWhile 1 999999</Syntax>
+    </KeyDown>
+    <Software>Rappelz/Массухи/Лекалки/Приручение</Software>
+  </DefaultMacro>
+</Root>

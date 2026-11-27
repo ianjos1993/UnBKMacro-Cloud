@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major>Atomic shop fireworks + Scrap box glitch</Major>
+    <Description>use in Atomic Shop while aniversary event to buy fireworks
+
+They will give also Scrap boxes too
+
+use in Atomic Shop while aniversary event to buy fireworks
+
+They will give also Scrap boxes too
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+GoWhile 1 999999</Syntax>
+    </KeyDown>
+    <Software>Fallout 76</Software>
+  </DefaultMacro>
+</Root>

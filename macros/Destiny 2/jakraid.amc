@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простой прокаст на джакраида работает на дефолтных настройках удачи в использовании данного макроса.</Description>
+    <Comment>простой прокаст на джакраида работает на дефолтных настройках удачи в использовании данного макроса</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+KeyUp 29 1
+Delay 64 ms
+KeyDown 26 1
+KeyUp 26 1
+Delay 64 ms
+KeyDown 25 1
+KeyUp 25 1
+Delay 64 ms
+KeyDown 21 1
+KeyUp 21 1
+Delay 64 ms
+KeyDown 23 1
+KeyUp 23 1
+Delay 64 ms</Syntax>
+    </KeyDown>
+    <Software>Destiny 2</Software>
+  </DefaultMacro>
+</Root>

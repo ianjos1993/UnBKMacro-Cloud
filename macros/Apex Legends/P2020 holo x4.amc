@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major>P2020 holo x4</Major>
+    <Description>this is the best macro for P2020 with holo x4, press to start release to stop
+1920 x 1080
+dpi 1300
+sens 1++
+
+enjoy it</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 50 ms
+MoveR -2 -29
+Delay 50 ms
+MoveR -2 -31
+Delay 50 ms
+MoveR -2 -30
+Delay 50 ms
+MoveR -2 -31
+Delay 50 ms
+MoveR -2 -29
+Delay 50 ms
+MoveR -2 -28
+Delay 50 ms
+LeftUp 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>высокий бросок гранат для кс го. 
+инструкция
+1.смотрите туда куда нужно кинуть гранату
+2. берете в руки гранату которую надо кинуть
+3. нажимаете кнопку на которой макрос 
+4. выйгрываете в матче</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 401 ms
+KeyDown 44 1
+Delay 192 ms
+KeyUp 26 1
+Delay 181 ms
+LeftDown 1
+Delay 19 ms
+KeyUp 44 1
+Delay 152 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>CS: GO</Software>
+  </DefaultMacro>
+</Root>

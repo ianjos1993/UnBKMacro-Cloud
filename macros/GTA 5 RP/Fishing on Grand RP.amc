@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на Рыбалка на сервере Grand RP (2), Макрос сам нажимает за вас кнопку Е(Всё настроено под 2 уровень рыбалки). Удачи на рыбалке. Вам придётся все равно время от времени вводить капчу. Приятной игры :)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+//Повторять 
+Delay 5100 ms
+KeyUp 8 1
+Delay 8200 ms</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

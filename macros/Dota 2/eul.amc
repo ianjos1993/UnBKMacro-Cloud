@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Здраствуйте у меня появился новый макрос.Вот случает у вас момент в игре то что вам нужно скинуть сайленс или нажать еул мой макрос поможет вам с этим вам просто нужно навестись на себя и нажать кнопку бинда моего макроса и все.Слот с еулом у вас должен быть на кнопку x
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 226 1
+Delay 1 ms
+KeyDown 27 1
+Delay 1 ms
+KeyUp 27 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

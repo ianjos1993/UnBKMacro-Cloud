@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>Roblox</Major>
+    <Description>Automatically complete the QTE for the fifth shrine move. (This will only work if you have access to the sukuna character.)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+KeyUp 6 1
+Delay 50 ms
+KeyDown 15 1
+KeyUp 15 1
+Delay 50 ms
+KeyDown 8 1
+KeyUp 8 1
+Delay 50 ms
+KeyDown 4 1
+KeyUp 4 1
+Delay 50 ms
+KeyDown 25 1
+KeyUp 25 1
+Delay 50 ms
+KeyDown 8 1
+KeyUp 8 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,55 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Вообщем , макрос для кубикса , для ямы , нет хила но есть удары 20-25 ударов и 5-6 хила идиально для ямы
+Что-бы ним воспользоваться надо его скачать
+В редакторе выбрать открыть файл
+Выбрать Макрос
+Выбрать на какую кнопку он будет работать 
+И зайти в майнкрафт и наслождаться игрой
+И да не забываем что свапаеться 1 - 3
+Удачи!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+LeftDown 1
+Delay 13 ms
+LeftUp 1
+Delay 12 ms
+LeftDown 1
+Delay 4 ms
+LeftUp 1
+Delay 4 ms
+LeftDown 1
+Delay 3 ms
+LeftUp 1
+Delay 3 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyDown 32 1
+KeyUp 32 1
+RightDown 1
+Delay 11 ms
+RightUp 1
+Delay 6 ms
+RightDown 1
+Delay 12 ms
+RightUp 1
+Delay 10 ms
+RightDown 1
+Delay 6 ms
+RightUp 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

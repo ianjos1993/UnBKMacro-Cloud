@@ -1,0 +1,58 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматический коннект при забитых слотах, автоматически отсекает "Время подключения истекло".
+Разрешение 1280x1024
+Фпс не важен(ну по крайней мере я надеюсь что у вас минимум 60 фпс в главном меню ;3)
+ВАЖНО!
+При заходе в главное меню наводите на "Быстрое подключение" и усё, он сам заходит на первый сервер провинции.
+Но если вы играете на другом сервере провинции, то рекомендую подкорректировать макрос через абсолютный курсор. Идея реализовать авто коннект моя( по крайней мере других не видел), разрешаю использовать команды в своих макросах дабы зайти на другие сервера провинции.
+Попутного ветра!
+Ваш покорный слуга Orwasha.
+Промо 1 сервера моего великолепного знакомого: aus</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 456 ms
+LeftDown 1
+Delay 456 ms
+LeftUp 1
+Delay 456 ms
+LeftDown 1
+Delay 456 ms
+LeftUp 1
+Delay 3705 ms
+LeftDown 1
+Delay 456 ms
+LeftUp 1
+Delay 456 ms
+LeftDown 1
+Delay 456 ms
+LeftUp 1
+Delay 3705 ms
+LeftDown 1
+Delay 456 ms
+LeftUp 1
+Delay 456 ms
+LeftDown 1
+Delay 456 ms
+LeftUp 1
+Delay 3705 ms
+LeftDown 1
+Delay 456 ms
+LeftUp 1
+Delay 456 ms
+LeftDown 1
+Delay 456 ms
+LeftUp 1
+Delay 3705 ms
+GoWhile 1 120</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

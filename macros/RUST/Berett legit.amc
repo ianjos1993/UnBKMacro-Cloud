@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Здравствуйте! Хочу представить вам свой макрос для пистолета M92 в игре Rust. Этот макрос отличается своей уникальностью: он отлично подходит для игры в стиле legit. Для ваших противников вы будете казаться «чистым» игроком, и вероятность того, что они отправят на вас репорт, будет довольно низкой.
+
+Перейдём к настройке:
+
+FOV рекомендуется установить на 90;
+
+DPI — 700;
+
+оптимальное разрешение экрана — 1920×1080;
+
+чувствительность мыши в игре — 0.60;
+
+чувствительность при прицеливании — 0.70.
+
+Желаю удачи!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+MoveR 0 1
+Delay 64
+MoveR 0 2
+Delay 64
+MoveR 0 2
+Delay 64
+MoveR 0 2
+Delay 64
+MoveR 0 2
+Delay 64
+MoveR 0 2
+Delay 64
+MoveR 0 2
+Delay 64
+Delay 64
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

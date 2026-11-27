@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Не плохой макрос на M4A4, загружаем макрос, ставим сенсу 2.0-2.5 (подгоняем под свой dpi мыши вообщем)  и все, не даём никому продохнуть, нагибаем и выиигрываем) удачной игрый</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 88 ms
+MoveR 0 4
+Delay 88 ms
+MoveR 0 16
+Delay 88 ms
+MoveR 0 16
+Delay 88 ms
+MoveR 0 24
+Delay 88 ms
+MoveR -4 20
+Delay 88 ms
+MoveR 0 24
+Delay 88 ms
+LeftUp 1
+Delay 2000 ms</Syntax>
+    </KeyDown>
+    <Software>CS: GO</Software>
+  </DefaultMacro>
+</Root>

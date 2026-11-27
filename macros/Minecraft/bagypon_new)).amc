@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всем привет , незнаю выложился ли мой 1 баг урон , но это 2 немного отредачил , теперь свапы идут намного
+лучше , всё по сторинке
+1 - меч ( от 50 урона для хорошего урона)
+9- меч (45-50 урона но что-б был не похож на прошлый .)
+А так всё , всем удачи пользуйтесь)</Description>
+    <Comment>swap swap swap swap swap</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+LeftDown 1
+Delay 7 ms
+LeftUp 1
+Delay 5 ms
+LeftDown 1
+Delay 7 ms
+LeftUp 1
+Delay 5 ms
+LeftDown 1
+Delay 8 ms
+LeftUp 1
+Delay 8 ms
+LeftDown 1
+Delay 8 ms
+LeftUp 1
+Delay 5 ms
+KeyDown 38 1
+KeyUp 38 1
+LeftDown 1
+Delay 13 ms
+LeftUp 1
+Delay 11 ms
+LeftDown 1
+Delay 8 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

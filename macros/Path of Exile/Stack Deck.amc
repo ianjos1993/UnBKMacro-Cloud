@@ -1,0 +1,81 @@
+<Root>
+  <DefaultMacro>
+    <Major>Auto Stack Deck Opener of first column</Major>
+    <Description>This macro helps with opening the stacked decks in the inventory. It only opens the first row in the left of the inventory. You need to go to the menagerie or the delve to be able to open and not erase the cards. After some cards are dropped to the floor, it's necessary for you to move to another place because there will be a lot of cards on the floor and you'll not be able to drop any more cards. Works in 1920x1080 resolution.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1035 490
+Delay 20 ms
+RightDown 1
+Delay 20 ms
+RightUp 1
+Delay 20 ms
+MoveTo 975 490
+Delay 20 ms
+LeftDown 1
+Delay 20 ms
+LeftUp 1
+Delay 20 ms
+GoWhile 1 10
+MoveTo 1035 535
+Delay 20 ms
+RightDown 1
+Delay 20 ms
+RightUp 1
+Delay 20 ms
+MoveTo 975 535
+Delay 20 ms
+LeftDown 1
+Delay 20 ms
+LeftUp 1
+Delay 20 ms
+GoWhile 14 10
+MoveTo 1035 575
+Delay 20 ms
+RightDown 1
+Delay 20 ms
+RightUp 1
+Delay 20 ms
+MoveTo 975 575
+Delay 20 ms
+LeftDown 1
+Delay 20 ms
+LeftUp 1
+Delay 20 ms
+GoWhile 27 10
+MoveTo 1035 615
+Delay 20 ms
+RightDown 1
+Delay 20 ms
+RightUp 1
+Delay 20 ms
+MoveTo 975 615
+Delay 20 ms
+LeftDown 1
+Delay 20 ms
+LeftUp 1
+Delay 20 ms
+GoWhile 40 10
+MoveTo 1035 665
+Delay 20 ms
+RightDown 1
+Delay 20 ms
+RightUp 1
+Delay 20 ms
+MoveTo 975 665
+Delay 20 ms
+LeftDown 1
+Delay 20 ms
+LeftUp 1
+Delay 20 ms
+GoWhile 53 10</Syntax>
+    </KeyDown>
+    <Software>Path of Exile</Software>
+  </DefaultMacro>
+</Root>

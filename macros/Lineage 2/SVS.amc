@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для бафа свса
+
+1. Выставляем нужные сонги на 2ю панель в ячейки с 2 по 6
+2.Запускаем, бафаемся</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+KeyUp 31 1
+KeyDown 32 1
+KeyUp 32 1
+KeyDown 33 1
+KeyUp 33 1
+KeyDown 34 1
+KeyUp 34 1
+KeyDown 35 1
+KeyUp 35 1</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

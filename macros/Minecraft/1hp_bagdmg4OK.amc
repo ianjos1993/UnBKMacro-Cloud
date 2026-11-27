@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Баг урон для серверов 1.7.10 омега Elcana , с каждого баг урона вы оставляете игроку 1 хп , это не фейк , это не прикол , это реально . Свапните с 6 слота и все челика н е будет или 1 хп оставите , это действительно рабочая тема !
+1 меч
+9 меч аркан
+ПРЕДУПРЕЖДАЮ МОГУТ ВЫЗВАТЬ НА ПРОВЕРКУ В ПОДОЗРЕНИИ НА ЧИТЫ 
+ВСЕМ УДАЧИ!)</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+Delay 1 ms
+LeftDown 1
+Delay 12 ms
+LeftUp 1
+Delay 12 ms
+LeftDown 1
+Delay 12 ms
+LeftUp 1
+Delay 12 ms
+LeftDown 1
+Delay 6 ms
+LeftUp 1
+Delay 8 ms
+KeyDown 38 1
+Delay 1 ms
+KeyUp 38 1
+Delay 1 ms
+LeftDown 1
+Delay 13 ms
+LeftUp 1
+Delay 13 ms
+LeftDown 1
+Delay 12 ms
+LeftUp 1
+Delay 12 ms
+LeftDown 1
+Delay 7 ms
+LeftUp 1
+Delay 7 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major>Meepo poof</Major>
+    <Description>Макрос для героя Миппо в дота 2, а именно 2 скил "puff". Не важно сколько клонов миппо у вас в рукаве, при использование данного макроса , будет использоваться паф только на клоны, а затем выделятся все герои с переходом на главного. Это позволит вам пользоваться скилом, затем исспользовать даггер.</Description>
+    <Comment>Данный макрос будет работать в случае, если у вас устанновлен выбор всех юнитов на колесо мыши вверх + забиндить 5 меппо на боковую клавишу мыши mouse 4</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Button5Down 1
+Delay 20 ms
+KeyDown 43 1
+KeyUp 43 1
+Delay 20 ms
+KeyDown 26 1
+Delay 20 ms
+KeyUp 26 1
+Delay 20 ms
+KeyDown 43 1
+Delay 20 ms
+KeyUp 43 1
+Delay 20 ms
+KeyDown 26 1
+Delay 20 ms
+KeyUp 26 1
+Delay 20 ms
+KeyDown 43 1
+Delay 20 ms
+KeyUp 43 1
+Delay 20 ms
+KeyDown 26 1
+Delay 20 ms
+KeyUp 26 1
+Delay 20 ms
+KeyDown 43 1
+Delay 20 ms
+KeyUp 43 1
+Delay 20 ms
+KeyDown 26 1
+Delay 20 ms
+KeyUp 26 1
+Delay 20 ms
+WheelUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>dota 2</Software>
+  </DefaultMacro>
+</Root>

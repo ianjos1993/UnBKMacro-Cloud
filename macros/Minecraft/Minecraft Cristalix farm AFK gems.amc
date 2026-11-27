@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Бег+спринт подходит для фармов разных на кристаликсе в разных режимах где это требуется. Проверял несколько раз каждый раз поправлял как нужно работает без ошибок всё отлично до делал до ума.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+KeyDown 26 1
+Delay 64000 min
+KeyUp 26 1
+Delay 64
+Delay 64000 min
+KeyDown 224 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

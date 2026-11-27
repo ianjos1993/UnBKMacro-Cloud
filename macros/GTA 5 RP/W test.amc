@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major>Stay Connected: Anti-AFK Macro for GTA 5 RP Servers</Major>
+    <Description>Stay connected and never worry about losing your spot on a GTA 5 RP server with this powerful and reliable Anti-AFK macro, designed to keep your character active and engaged even when you're away from your keyboard. This tool is meticulously crafted to simulate natural in-game behaviors, such as subtle camera movements, walking, or triggering small animations, making it virtually undetectable while ensuring compliance with server rules. Whether you're stepping away for a short break, waiting for an RP event to unfold, grinding through in-game tasks, or holding your spot on a high-traffic server during peak hours, this macro works seamlessly to prevent inactivity kicks and keep you in the game. Fully customizable and adaptable, it can be tailored to meet the specific AFK detection mechanisms of different servers, giving you peace of mind and uninterrupted access to your favorite RP experiences. With an easy setup process, lightweight design, and a focus on maintaining immersion without drawing attention, this Anti-AFK macro is the ultimate tool for GTA 5 RP players who value their time and effort. Whether you’re a casual player or a dedicated RPer, this macro ensures you stay connected, engaged, and ready for action whenever you're back at your keyboard.
+
+
+
+
+
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 26 1
+Delay 1500 ms
+KeyUp 26 1
+Delay 64
+KeyDown 44 1
+Delay 1500 ms
+KeyUp 44 1
+Delay 64
+KeyDown 22 1
+Delay 1625 ms
+KeyUp 22 1
+Delay 64
+KeyDown 44 1
+Delay 1500 ms
+KeyUp 44 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 5 min
+GoWhile 1 1000</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

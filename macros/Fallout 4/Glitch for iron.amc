@@ -1,0 +1,63 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>для данного бага нужно переместится в убежище,надеть на себя защитный костюм.
+
+сворачиваем игру,заходим в диспетчер задач ставим процесс с игрой на самую низкую,в настройках игры включить сглаживание FXAA.
+
+назначить кнопку действия на клавишу M.
+
+заходим в режим редактирования и нажимаем клавишу макроса,смотрим и радуемся)
+
+
+ПРИМЕЧАНИЕ!!!!
+
+-в некоторых случаях может вылазить ошибка,рекомендации увеличить время задержки на 3 миле секунды.
+
+после чего должно все пройти.
+
+-так же не рекомендую использовать данный баг по времени больше чем 10 минут,нужно делать перерыв минимум на 2 минуты перед повторным использование.
+
+-так же изменить настройки графики на средние
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 16 1
+Delay 11 ms
+KeyUp 16 1
+Delay 138 ms
+KeyDown 229 1
+Delay 64 s
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 43 ms
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 64
+KeyDown 27 1
+Delay 64
+KeyUp 27 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+KeyUp 229 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>FallOut 4</Software>
+  </DefaultMacro>
+</Root>

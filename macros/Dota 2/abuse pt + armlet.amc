@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>изначально пт на силу. меняем пт в инт нажатием Z, используем армлет нажатием 1, снова пт в силу двойным нажатием Z, выключаем армлет нажатием Z, тем самым прибавляя себе около 60-80 хп</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 10 20 ms
+KeyUp 29 1
+Delay 60 90 ms
+KeyDown 30 1
+Delay 10 20 ms
+KeyUp 30 1
+Delay 60 90 ms
+KeyDown 29 1
+Delay 10 20 ms
+KeyUp 29 1
+Delay 60 90 ms
+KeyDown 29 1
+Delay 10 20 ms
+KeyUp 29 1
+Delay 60 90 ms
+KeyDown 30 1
+Delay 10 20 ms
+KeyUp 30 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

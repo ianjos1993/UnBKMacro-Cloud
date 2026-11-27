@@ -1,0 +1,73 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Мейн комбо для для пулеметчика
+Условия
+1)Быть в БМ3
+2)Спелл А на кнопке Q
+3) Спелл В на кнопке E
+4) Тригер( та же фаталка) на кнопке R</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 97 ms
+KeyUp 20 1
+Delay 773 ms
+KeyDown 20 1
+Delay 118 ms
+KeyUp 20 1
+Delay 817 ms
+KeyDown 8 1
+Delay 102 ms
+KeyUp 8 1
+Delay 778 ms
+KeyDown 20 1
+Delay 120 ms
+KeyUp 20 1
+Delay 817 ms
+KeyDown 20 1
+Delay 97 ms
+KeyUp 20 1
+Delay 773 ms
+KeyDown 8 1
+Delay 118 ms
+KeyUp 8 1
+Delay 817 ms
+KeyDown 20 1
+Delay 102 ms
+KeyUp 20 1
+Delay 778 ms
+KeyDown 20 1
+Delay 120 ms
+KeyUp 20 1
+Delay 817 ms
+KeyDown 8 1
+Delay 97 ms
+KeyUp 8 1
+Delay 773 ms
+KeyDown 20 1
+Delay 118 ms
+KeyUp 20 1
+Delay 817 ms
+KeyDown 20 1
+Delay 102 ms
+KeyUp 20 1
+Delay 778 ms
+KeyDown 8 1
+Delay 120 ms
+KeyUp 8 1
+Delay 817 ms
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 1500 ms</Syntax>
+    </KeyDown>
+    <Software>Cabal Online</Software>
+  </DefaultMacro>
+</Root>

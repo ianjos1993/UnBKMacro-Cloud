@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This Macro Allows you to Perfect Green anywhere in the 2 point Range, maybe just slighty out of the paint to on the 3 line but during testing i was having issues with long shots. 
+
+Make Sure you Player is a sharpshooter or this script may not work how it supposed to. 
+recommend using it on a mouse button like all my other shooting scripts but if you dont like that or dont have a mouse with side buttons use what ever you prefer</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 527 ms
+KeyDown 225 1
+Delay 69 ms
+KeyDown 4 1
+Delay 225 ms
+KeyDown 8 1
+Delay 625 ms
+KeyUp 8 1</Syntax>
+    </KeyDown>
+    <Software>ROBLOX</Software>
+  </DefaultMacro>
+</Root>

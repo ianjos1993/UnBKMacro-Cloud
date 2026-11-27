@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major>BY guns</Major>
+    <Description>Ставь на ЛКМ или сюбую другую кнопку
+Заходи в игру бери любую снайпу
+ПРИМЕЧАНИЕ:нужна быстрая смена оружие! что бы не было прокрутов!
+А так же можно взять маску на + урон и -отдачу для лучшей игры и упращения убийства!
+
+убавил задержку на минимум стреляет очень быстро и палевно! 
+
+НЕ ИГРАТЬ НА КВ СПАЛЯТ!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 24 ms
+RightUp 1
+Delay 24 ms
+LeftDown 1
+Delay 24 ms
+LeftUp 1
+Delay 24 ms
+KeyDown 32 1
+Delay 24 ms
+KeyUp 32 1
+Delay 24 ms
+KeyDown 30 1
+Delay 24 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

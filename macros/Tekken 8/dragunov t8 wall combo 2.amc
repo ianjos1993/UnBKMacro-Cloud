@@ -1,0 +1,130 @@
+<Root>
+  <DefaultMacro>
+    <Major>Dragunov T8 Wall Combo 2</Major>
+    <Description>Макрос позволяет выполнять альтернативное комбо у стены за Драгунова.
+Видео демонстрации работы макроса: https://youtu.be/TNqfmQaUJog
+
+Стиль боя Драгунова в Tekken 8 еще более динамичнен и адаптирован к новым условиям, с акцентом на дальние атаки, а также контрприемы, позволяющие ему эффективно бороться на всех дистанциях. Драгунов не спешит вблизи, предпочитая держать врагов на расстоянии и наносить удары с максимальной силой и точностью. Его длинные удары и ловкие перемещения сливаются в одно целое, позволяя ему эффективно отступать и сразу переходить в контратаку. Его фишка — особые комбинации, которые делают его опасным не только в дальнем бою, но и в ближнем, где его точные и быстрые удары становятся непредсказуемыми.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 26.02.2025
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ, обращайтесь в дискорд для этого.
+
+#dragunovtekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 0 ms
+KeyDown 22 1
+Delay 9 ms
+KeyDown 76 1
+Delay 239 ms
+KeyUp 76 1
+Delay 130 ms
+KeyUp 22 1
+Delay 90 ms
+KeyUp 4 1
+Delay 500 ms
+KeyDown 7 1
+Delay 79 ms
+KeyUp 7 1
+Delay 40 ms
+KeyDown 7 1
+Delay 80 ms
+KeyDown 76 1
+Delay 440 ms
+KeyUp 7 1
+Delay 0 ms
+KeyUp 76 1
+Delay 39 ms
+KeyDown 74 1
+Delay 589 ms
+KeyDown 76 1
+Delay 130 ms
+KeyUp 76 1
+Delay 100 ms
+KeyDown 76 1
+Delay 120 ms
+KeyUp 76 1
+Delay 110 ms
+KeyDown 76 1
+Delay 120 ms
+KeyUp 76 1
+Delay 110 ms
+KeyDown 76 1
+Delay 100 ms
+KeyUp 76 1
+Delay 90 ms
+KeyDown 76 1
+Delay 109 ms
+KeyUp 76 1
+Delay 69 ms
+KeyDown 76 1
+Delay 100 ms
+KeyUp 76 1
+Delay 60 ms
+KeyDown 76 1
+Delay 130 ms
+KeyUp 76 1
+Delay 40 ms
+KeyDown 76 1
+Delay 160 ms
+KeyUp 76 1
+Delay 80 ms
+KeyDown 76 1
+Delay 140 ms
+KeyUp 76 1
+Delay 80 ms
+KeyDown 76 1
+Delay 140 ms
+KeyUp 76 1
+Delay 89 ms
+KeyDown 76 1
+Delay 129 ms
+KeyUp 76 1
+Delay 80 ms
+KeyDown 76 1
+Delay 119 ms
+KeyUp 76 1
+Delay 90 ms
+KeyDown 76 1
+Delay 120 ms
+KeyUp 76 1
+Delay 80 ms
+KeyDown 76 1
+Delay 110 ms
+KeyUp 76 1
+Delay 39 ms
+KeyDown 76 1
+Delay 150 ms
+KeyUp 76 1
+Delay 60 ms
+KeyUp 74 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

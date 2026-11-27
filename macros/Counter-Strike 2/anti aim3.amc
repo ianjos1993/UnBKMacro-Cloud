@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>анти аим на ssg 08,awp,g3sg1 для counter strike 2. Разрешение экрана 1920X1080 на других работает не корректно</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR -1500 0
+Delay 15 ms
+MoveR 1500 0
+Delay 20 ms
+MoveR 1500 0
+Delay 15 ms
+MoveR -1500 0
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Counter-Strike 2</Software>
+  </DefaultMacro>
+</Root>

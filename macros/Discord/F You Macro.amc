@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major>Spamming</Major>
+    <Description>Just says F*** You and sends it lol
+Pretty easy, types it really fast, idk if something like this is already published but title is pretty self explanatory, useful for arguments i guess?</Description>
+    <Comment>pretty simple</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 1 ms
+KeyUp 9 1
+Delay 1 ms
+KeyDown 24 1
+Delay 2 ms
+KeyUp 24 1
+Delay 2 ms
+KeyDown 6 1
+Delay 3 ms
+KeyUp 6 1
+Delay 3 ms
+KeyDown 14 1
+Delay 4 ms
+KeyUp 14 1
+Delay 4 ms
+KeyDown 44 1
+Delay 5 ms
+KeyUp 44 1
+Delay 5 ms
+KeyDown 28 1
+Delay 6 ms
+KeyDown 18 1
+Delay 6 ms
+KeyUp 28 1
+Delay 7 ms
+KeyUp 18 1
+Delay 7 ms
+KeyDown 24 1
+Delay 8 ms
+KeyUp 24 1
+KeyDown 88 1
+Delay 1
+KeyUp 88 1
+Delay 1</Syntax>
+    </KeyDown>
+    <Software>Discord</Software>
+  </DefaultMacro>
+</Root>

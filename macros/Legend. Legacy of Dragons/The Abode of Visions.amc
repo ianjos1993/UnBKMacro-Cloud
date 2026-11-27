@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Инстанс Обитель видений для персонажей 16-го уровня, подходящий для фарма теней. Макрос совмещает 5 действий: "Сила гнева", переход в физическую стойку, включение пелены, использование стрелы для критического удара и сам удар.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 64
+KeyDown 11 1
+Delay 64
+KeyUp 11 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Легенда: Наследие Драконов</Software>
+  </DefaultMacro>
+</Root>

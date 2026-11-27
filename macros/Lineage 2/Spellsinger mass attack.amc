@@ -1,0 +1,59 @@
+<Root>
+  <DefaultMacro>
+    <Major>mass</Major>
+    <Description>В игре lineage 2 за частую есть очень большая потребность в фарме. На пвп серверах с полным бафом, данный макрос поможет хорошо фармить большое количество монстров. Скрипт написан для класса Spellsinger. Автоматическое использование скилов Aura Flare, Aqua Splash, Frost Wall, Aura Flash, Aura Bolt. Подобным макросом, очень хорошо фармится дино остров, собираете большую толпу монстров, и используете данный макрос, потом просто лечитесь, и так по кругу.
+
+[. Aura Flare
+]. Aqua Splash
+U. Frost Wall
+P. Aura Flash
+O. Aura Bolt
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 48 1
+Delay 1 ms
+KeyUp 48 1
+Delay 1 ms
+KeyDown 47 1
+Delay 1 ms
+KeyUp 47 1
+Delay 1 ms
+KeyDown 19 1
+Delay 1 ms
+KeyUp 19 1
+Delay 1 ms
+KeyDown 47 1
+Delay 1 ms
+KeyUp 47 1
+Delay 1 ms
+KeyDown 24 1
+Delay 1 ms
+KeyUp 24 1
+Delay 1 ms
+KeyDown 47 1
+Delay 1 ms
+KeyUp 47 1
+Delay 1 ms
+KeyDown 48 1
+Delay 1 ms
+KeyUp 48 1
+Delay 1 ms
+KeyDown 18 1
+Delay 1 ms
+KeyUp 18 1
+Delay 1 ms
+KeyDown 47 1
+Delay 1 ms
+KeyUp 47 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

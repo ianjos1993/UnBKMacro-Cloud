@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>Делает WallHop с поворотом на 90 градусов направо</Major>
+    <Description>Делает WallHop с поворотом на 90 градусов направо. Чтобы использовать, в тайминг падения нажмите кнопку которую назначили.
+400dpi
+сенса в рб 1
+сенса винды 12
+1920x1080.
+</Description>
+    <Comment>если не работает то поставьте на 5-15мс больше задержки (кроме 90мс)</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR 530 0
+Delay 15 ms
+KeyDown 4 1
+KeyDown 44 1
+Delay 15 ms
+KeyUp 4 1
+MoveR -530 0
+Delay 90 ms
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Удобный макрос для автоматического запивания зелий невидимости или любых других! Отлично подходит для анархий по типу фт, где зелья стакаются. Таймер настроен на одно запивание раз в 7 минут 50 сек.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 470000 ms
+KeyDown 30 1
+Delay 160 ms
+KeyUp 30 1
+Delay 468 ms
+RightDown 1
+Delay 1963 ms
+RightUp 1
+Delay 208 ms
+KeyDown 38 1
+Delay 148 ms
+KeyUp 38 1
+GoWhile 1 160</Syntax>
+    </KeyDown>
+    <Software>Minecraft </Software>
+  </DefaultMacro>
+</Root>

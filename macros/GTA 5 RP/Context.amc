@@ -1,0 +1,64 @@
+<Root>
+  <DefaultMacro>
+    <Major>Simple context action macro</Major>
+    <Description>Macro for one option, horizontal radial context menu using alt and mouse. 
+This version switches out context button from alt to 6 for better safety.
+Res: 1920x1080</Description>
+    <Comment>Use with caution.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 35 1
+Delay 400 600 ms
+LeftDown 1
+Delay 91 ms
+LeftUp 1
+Delay 80 ms
+MoveTo 961 540
+Delay 5 ms
+MoveTo 963 540
+Delay 5 ms
+MoveTo 965 540
+Delay 3 ms
+MoveTo 966 540
+Delay 6 ms
+MoveTo 968 540
+Delay 3 ms
+MoveTo 971 540
+Delay 3 ms
+MoveTo 973 540
+Delay 3 ms
+MoveTo 976 540
+Delay 3 ms
+MoveTo 981 540
+Delay 3 ms
+MoveTo 985 540
+Delay 3 ms
+MoveTo 988 540
+Delay 3 ms
+MoveTo 992 540
+Delay 3 ms
+MoveTo 996 539
+Delay 3 ms
+MoveTo 999 539
+Delay 3 ms
+MoveTo 1000 539
+Delay 3 ms
+MoveTo 1001 538
+Delay 3 10 ms
+MoveTo 1001 538 1010 539
+Delay 101 200 ms
+LeftDown 1
+Delay 90 100 ms
+LeftUp 1
+Delay 84 120 ms
+KeyUp 35 1
+Delay 2800 4000 ms</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

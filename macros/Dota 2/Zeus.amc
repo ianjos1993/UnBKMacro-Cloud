@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major>Zeus - Nimbus+Ult+Refresh</Major>
+    <Description>Zeus - Nimbus+Ult+Refresh+Nimbus+Ult.
+Биндить макрос желательно на отдельную клавишу. Применять стоит в замесах, когда все потратили бкб. 
+Минимум маны на прокаст способностей последнего уровня - 1940</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+//Nimbus
+Delay 64
+KeyUp 7 1
+Delay 300 ms
+KeyDown 21 1
+//Ult
+Delay 64
+KeyUp 21 1
+Delay 700 ms
+KeyDown 27 1
+//Refresh
+Delay 64
+KeyUp 27 1
+Delay 64
+KeyDown 7 1
+//Nimbus
+Delay 64
+KeyUp 7 1
+Delay 300 ms
+KeyDown 21 1
+//Ult
+Delay 64
+KeyUp 21 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

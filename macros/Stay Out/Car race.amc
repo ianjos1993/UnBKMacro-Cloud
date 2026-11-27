@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>Удобный автобег</Major>
+    <Description>Позволяет одним нажатием клавиши стоя на месте начать автоматически бежать, для тех кому лень прожимать много клавиш разом.</Description>
+    <Comment>Нажимать только стоя на месте, он сам начнёт бежать и ускоряться.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 1 s
+KeyDown 225 1
+Delay 400 ms
+KeyDown 88 1
+Delay 150 ms
+KeyUp 225 1
+Delay 15 ms
+KeyUp 26 1
+Delay 31 ms
+KeyUp 88 1
+Delay 192 ms
+KeyDown 41 1
+Delay 151 ms</Syntax>
+    </KeyDown>
+    <Software>Stay Out</Software>
+  </DefaultMacro>
+</Root>

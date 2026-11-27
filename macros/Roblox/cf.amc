@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>Azure Latch</Major>
+    <Description>This macro automatically chooses blue CF for you in the game Azure Latch. To use this macro, you need to be on 1366x768.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 560 732
+Delay 64
+LeftDown 1
+LeftUp 1
+Delay 850 ms
+MoveTo 341 374
+Delay 64
+LeftDown 1
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

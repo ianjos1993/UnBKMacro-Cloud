@@ -1,0 +1,88 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всем доброе утро.Решил написать макрос который будет полезен для администрации или сотрудников модерации на различных серверах.Концепция макроса состоит в том,что он по нажатию клавиши пишет команду,которая позволяет очистить инвентарь игроку.Например если вы обнаружили что у игрока ресурсы добыты нечестным путем,то вы можете автоматически удалить ему инвентарь.Главное после того как макрос написал команду,необходимо ввести ник игрока.
+
+Инструкция по настройке:
+1)Скачиваете макрос.
+2)Открываете панель клавиатуры Keyran.
+3)Ставите макрос на любую удобную клавишу.
+4)Сохраняете и используете.
+
+Спасибо за внимание и приятного использования.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 32 ms
+KeyUp 56 1
+Delay 32 ms
+KeyDown 6 1
+Delay 32 ms
+KeyUp 6 1
+Delay 32 ms
+KeyDown 15 1
+Delay 32 ms
+KeyUp 15 1
+Delay 32 ms
+KeyDown 8 1
+Delay 32 ms
+KeyUp 8 1
+Delay 32 ms
+KeyDown 4 1
+Delay 32 ms
+KeyUp 4 1
+Delay 32 ms
+KeyDown 21 1
+Delay 32 ms
+KeyUp 21 1
+Delay 32 ms
+KeyDown 44 1
+Delay 32 ms
+KeyUp 44 1
+Delay 32 ms
+KeyDown 12 1
+Delay 32 ms
+KeyUp 12 1
+Delay 32 ms
+KeyDown 17 1
+Delay 32 ms
+KeyUp 17 1
+Delay 32 ms
+KeyDown 25 1
+Delay 32 ms
+KeyUp 25 1
+Delay 32 ms
+KeyDown 8 1
+Delay 32 ms
+KeyUp 8 1
+Delay 32 ms
+KeyDown 17 1
+Delay 32 ms
+KeyUp 17 1
+Delay 32 ms
+KeyDown 23 1
+Delay 32 ms
+KeyUp 23 1
+Delay 32 ms
+KeyDown 18 1
+Delay 32 ms
+KeyUp 18 1
+Delay 32 ms
+KeyDown 21 1
+Delay 32 ms
+KeyUp 21 1
+Delay 32 ms
+KeyDown 28 1
+Delay 32 ms
+KeyUp 28 1
+Delay 32 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

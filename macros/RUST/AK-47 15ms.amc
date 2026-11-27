@@ -1,0 +1,141 @@
+<Root>
+  <DefaultMacro>
+    <Major>RUST MACROS 15ms</Major>
+    <Description>Чувствительность - 0.66; ( Команда input.sensitivity 0.66)
+самодельный прицел - 0.53;(Команда  input.sensitivity 0.53)
+голографический прицел - 0.79.(Команда  input.sensitivity 0.79)
+
+Поле зрения (FOV) 85;(Команда fov 90)
+
+DPI 800
+
+Значение FPS - не менее 50;
+
+Глушитель - по желанию;
+
+Лазерный прицел - по желанию;
+
+Подствольный фонарь - по желанию.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR -4 5
+Delay 16 ms
+MoveR -4 6
+Delay 17 ms
+MoveR -4 5
+Delay 17 ms
+MoveR -4 6
+Delay 17 ms
+MoveR -4 5
+Delay 17 ms
+MoveR -3 6
+Delay 17 ms
+MoveR -4 6
+Delay 39 ms
+MoveR 1 7
+Delay 17 ms
+MoveR 1 7
+Delay 17 ms
+MoveR 1 8
+Delay 17 ms
+MoveR 2 8
+Delay 17 ms
+MoveR 0 6
+Delay 56 ms
+MoveR -5 3
+Delay 15 ms
+MoveR -5 3
+Delay 15 ms
+MoveR -5 4
+Delay 15 ms
+MoveR -5 5
+Delay 15 ms
+MoveR -5 5
+Delay 15 ms
+MoveR -6 4
+Delay 15 ms
+MoveR -5 4
+Delay 15 ms
+MoveR -6 5
+Delay 25 ms
+MoveR -5 4
+Delay 15 ms
+MoveR -5 5
+Delay 15 ms
+MoveR -5 4
+Delay 15 ms
+MoveR -5 4
+Delay 15 ms
+MoveR -5 4
+Delay 15 ms
+MoveR -5 4
+Delay 15 ms
+MoveR -3 5
+Delay 33 ms
+MoveR -1 7
+Delay 15 ms
+MoveR 0 6
+Delay 15 ms
+MoveR 0 7
+Delay 15 ms
+MoveR 0 7
+Delay 88 ms
+MoveR 3 5
+Delay 15 ms
+MoveR 3 4
+Delay 15 ms
+MoveR 4 6
+Delay 15 ms
+MoveR 4 5
+Delay 81 ms
+MoveR 6 4
+Delay 17 ms
+MoveR 6 6
+Delay 17 ms
+MoveR 6 6
+Delay 17 ms
+MoveR 5 5
+Delay 72 ms
+MoveR 5 3
+Delay 16 ms
+MoveR 6 3
+Delay 16 ms
+MoveR 6 3
+Delay 16 ms
+MoveR 6 3
+Delay 16 ms
+MoveR 7 4
+Delay 71 ms
+MoveR 7 3
+Delay 16 ms
+MoveR 6 2
+Delay 16 ms
+MoveR 6 2
+Delay 16 ms
+MoveR 6 3
+Delay 16 ms
+MoveR 7 3
+Delay 60 ms
+MoveR 6 1
+Delay 17 ms
+MoveR 6 2
+Delay 17 ms
+MoveR 6 1
+Delay 17 ms
+MoveR 7 1
+Delay 17 ms
+MoveR 8 3
+Delay 63 ms
+LeftUp 1
+DelayS 2 s</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

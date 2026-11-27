@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major>PF SomeSqu1zee</Major>
+    <Description>Autoclicker for Phantom Forces gun AN-94 burst/Автокликер для АН-94 на режиме стрельбы очередями в игре Phantom Forces. Формула расчета для любого оружия с таким режимом стрельбы: (60000\RPM)*кол-во пуль(3 либо 2)+10</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 190 ms
+LeftUp 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

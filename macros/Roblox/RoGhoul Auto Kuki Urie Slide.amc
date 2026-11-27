@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major>Kuki Urie quinx </Major>
+    <Description>Kuki Urie quinx auto slide, while clicking G button. Very helpful in PvP, healing and dodging enemy shards at the same time. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+KeyDown 10 1
+Delay 20 ms
+KeyUp 10 1
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

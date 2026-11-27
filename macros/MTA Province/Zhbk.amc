@@ -1,0 +1,71 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Zhbk - уникальная версия макроса, которая используется в связке с другим макросом "Чилл бег". Для его корректной работы необходимо разбиндить все основные действия на ЛКМ в Провинции, затем назначить два макроса. "Чилл бег" будет опубликован на этом же сайте. Советую "Чилл бег" на ПКМ, а "Zhbk" на ЛКМ.
+
+Принцип работы: пока бежите за ящиком, жмёте ЛКМ и макрос за вас быстро бежит в сочетании с прыжками, между которыми установлена минимальная задержка для быстроты бега.
+Когда несёте ящик в коморку - прожимаете "Чилл бег", чтобы не стукаться прыжками об дверные проёмы. Также можете использовать "Чилл бег", когда подбегаете к чекпоинту для ящика, чтобы не перепрыгнуть через него.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 142 ms
+KeyDown 44 1
+Delay 2208 ms
+KeyDown 225 1
+Delay 750 ms
+KeyUp 225 1
+Delay 750 ms
+KeyDown 225 1
+Delay 750 ms
+KeyUp 225 1
+Delay 750 ms
+KeyDown 225 1
+Delay 750 ms
+KeyUp 225 1
+Delay 750 ms
+KeyDown 225 1
+Delay 750 ms
+KeyUp 225 1
+Delay 750 ms
+KeyDown 225 1
+Delay 750 ms
+KeyUp 225 1
+Delay 750 ms
+KeyDown 225 1
+Delay 750 ms
+KeyUp 225 1
+Delay 750 ms
+KeyDown 225 1
+Delay 750 ms
+KeyUp 225 1
+Delay 750 ms
+KeyDown 225 1
+Delay 750 ms
+KeyUp 225 1
+Delay 750 ms
+KeyDown 225 1
+Delay 750 ms
+KeyUp 225 1
+Delay 750 ms
+KeyDown 225 1
+Delay 750 ms
+KeyUp 225 1
+Delay 750 ms
+KeyDown 225 1
+Delay 750 ms
+KeyUp 225 1
+Delay 750 ms
+KeyDown 225 1
+Delay 750 ms
+KeyUp 225 1
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

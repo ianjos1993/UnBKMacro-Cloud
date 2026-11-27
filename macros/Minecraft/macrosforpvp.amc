@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major>Макрос для пвп + юз свичей</Major>
+    <Description>Здравствуйте, спасибо что выбрали этот макрос! Данный макрос сочитает в себе большое количество кликов и оптимальную задержку для безопасности. Скачивая этот макрос вы можете стать лучше! Также в макросе присутствует юз свичей (быстрая смена меча и топора)для его использования нужно положить меч в первую ячейку и топор во вторую</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 6 46 ms
+LeftDown 1
+KeyDown 30 1
+Delay 10 ms
+KeyUp 30 1
+Delay 10 ms
+LeftDown 1
+LeftDown 1
+LeftUp 1
+KeyDown 31 1
+Delay 10 ms
+KeyUp 31 1
+Delay 64
+LeftDown 1
+LeftDown 1
+LeftUp 1
+Delay 6 46 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

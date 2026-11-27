@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Макрос для ХКС Ленд ДивайнРПГ Суша/яма/зажим, выносит почти любого
+1. Поставить мечь на 1 хил на 3
+2. Забиндить на любую доступную клавишу, поставить режим работы "Пока зажата клавиша" ну или как вам удобно
+3. Нажимаем "Запустить" и играем!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+BY </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+LeftDown 1
+Delay 22 ms
+LeftUp 1
+Delay 17 ms
+LeftDown 1
+Delay 21 ms
+LeftUp 1
+Delay 17 ms
+KeyDown 32 1
+KeyUp 32 1
+RightDown 1
+Delay 12 ms
+RightUp 1
+Delay 7 ms
+RightDown 1
+Delay 12 ms
+RightUp 1
+Delay 8 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

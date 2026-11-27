@@ -1,0 +1,63 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Железный человек - выполнение 5  миссии. PS 4/
+Настройка клавиатуры:
+wasd - кнопки движения
+L - L ATK
+M - M ATK
+H - H ATK
+Spase - Special ATK
+
+PS^ нужно сделать небольшой шаг (преодолеть половину растояния между вами и противником) на встречу противнику, после чего активировать скрипт.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 64
+KeyDown 15 1
+Delay 64
+KeyUp 15 1
+Delay 64
+KeyDown 16 1
+Delay 64
+KeyUp 16 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 44 1
+Delay 300 ms
+KeyUp 44 1
+Delay 250 ms
+KeyDown 16 1
+Delay 64
+KeyUp 16 1
+Delay 64
+KeyDown 16 1
+Delay 64
+KeyUp 16 1
+Delay 250 ms
+KeyDown 11 1
+Delay 64
+KeyUp 11 1
+Delay 200 ms
+KeyDown 22 1
+Delay 64 ms
+KeyDown 11 1
+Delay 128 ms
+KeyUp 22 1
+KeyUp 11 1
+Delay 250 ms
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Ultimate Marvel vs. Capcom 3</Software>
+  </DefaultMacro>
+</Root>

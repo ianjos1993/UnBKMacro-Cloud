@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на нефтевышку 1.уровень после 4.часов расширения 4.К .
+Обновлённый макрос для нефтекачки на сервере Grand-rp. Разрешение: 3840x2160 Во весь экран
+Release: 19.04.2021</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 380 1000
+Delay 15 ms
+LeftDown 1
+Delay 3500 ms
+LeftUp 1
+Delay 15 ms
+MoveTo 520 1000
+Delay 15 ms
+LeftDown 1
+Delay 3500 ms
+LeftUp 1
+Delay 15 ms
+MoveTo 660 1000
+Delay 15 ms
+LeftDown 1
+Delay 3500 ms
+LeftUp 1
+Delay 15 ms
+MoveTo 800 1000
+Delay 15 ms
+LeftDown 1
+Delay 3500 ms
+LeftUp 1
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

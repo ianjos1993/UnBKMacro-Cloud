@@ -1,0 +1,23 @@
+<Root>
+  <!-- by Britan -->
+  <DefaultMacro>
+    <Major></Major>
+    <Description>НАЗВАНИЕ: Diablo 4 Potion Spam. ОПИСАНИЕ: Быстрое использование зелья здоровья: левый клик + Q (зелье) одновременно. Позволяет одновременно атаковать и пить зелье. РЕКОМЕНДУЕМАЯ КЛАВИША: Mouse 5 (Side). КАК ИСПОЛЬЗОВАТЬ: Привяжи макрос на кнопку Mouse 5. В бою зажми кнопку - макрос будет одновременно атаковать (ЛКМ) и пить зелье (Q). Пока зажата клавиша - повторяется. НАСТРОЙКА: Если зелье на другой клавише - замени KeyDown 81 (Q). АВТОР: by Britan. ЗАПРЕЩЕНО копировать без указания автора.</Description>
+    <Comment>Привязка: Mouse 5 (Side). Режим: повторяется пока зажата. Инструкция: зажми в бою - атака + зелье одновременно.</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 81 1
+Delay 50 ms
+KeyUp 81 1
+LeftUp 1
+Delay 100 ms</Syntax>
+    </KeyDown>
+    <Software>Diablo IV</Software>
+  </DefaultMacro>
+</Root>

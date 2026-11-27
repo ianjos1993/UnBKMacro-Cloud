@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматически подтягиваеться на турнике с учетом выносливости. 
+C увеличением выносливости просто увеличивайте количество повторений в первом цикле.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 75 ms
+KeyUp 44 1
+Delay 75 ms
+GoWhile 1 200
+KeyDown 94 1
+Delay 9 s
+KeyUp 94 1
+Delay 9 s
+GoWhile 1 200</Syntax>
+    </KeyDown>
+    <Software>GTA 5</Software>
+  </DefaultMacro>
+</Root>

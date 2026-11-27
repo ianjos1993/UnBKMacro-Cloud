@@ -1,0 +1,94 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Сложная комба на Бриггс с наскока из нейтрала. Одно усиление.
+Пресет:
+Смертельный захват
+Бионический прыжок
+Взрыв в воздухе (усиление)
+
+Старт: 18 кадров
+Восстановление: 24
+В блок: -10
+
+Управление:
+1-J
+2-K
+3-L
+4-:
+Захват - U
+AMP - SHIFT
+WASD (Вверх, влево, вниз, вправо)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 128 ms
+KeyDown 14 1
+Delay 159 ms
+KeyUp 4 1
+Delay 16 ms
+KeyUp 14 1
+Delay 40 ms
+KeyDown 22 1
+Delay 64 ms
+KeyUp 22 1
+Delay 95 ms
+KeyDown 26 1
+Delay 71 ms
+KeyUp 26 1
+Delay 64 ms
+//Прыжок
+KeyDown 22 1
+Delay 20 ms
+KeyUp 22 1
+Delay 20 ms
+KeyDown 4 1
+Delay 20 ms
+KeyUp 4 1
+Delay 20 ms
+KeyDown 13 1
+Delay 20 ms
+KeyDown 225 1
+Delay 64 ms
+KeyUp 225 1
+Delay 64
+KeyUp 13 1
+Delay 350 ms
+//Выстрел
+KeyDown 14 1
+Delay 64
+KeyUp 14 1
+Delay 160 ms
+//Рука
+KeyDown 7 1
+Delay 64
+KeyDown 15 1
+Delay 64
+KeyUp 15 1
+Delay 64
+KeyUp 7 1
+Delay 64
+KeyDown 13 1
+Delay 64
+KeyUp 13 1
+Delay 64
+KeyDown 51 1
+Delay 64
+KeyUp 51 1
+Delay 200 ms
+//Комба
+KeyDown 24 1
+Delay 64
+KeyUp 24 1
+Delay 64
+//Завершение</Syntax>
+    </KeyDown>
+    <Software>Mortal Kombat 11</Software>
+  </DefaultMacro>
+</Root>

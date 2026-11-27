@@ -1,0 +1,61 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос позволяет одним действием воспроизвести джаст фрейм технику Taunt F21232 с активированным Snake Eyes за персонажа Браян Фьюри. Макрос отличается от остальных таких же, тем что он воспроизводит нажатие таунта дважды, что делает его хоуминг мувом и дает возможность делать крайне сильные таунт сетапы у стены на oki. Убедитесь что вы забиндили нажатие таунта на NUM+ в настройках игры. 
+
+Макрос проверен в многочисленных боях при частоте кадров 60 FPS.
+</Description>
+    <Comment>Мое расположение клавиш:
+1-NUM 7
+2-NUM 8
+3-NUM4
+4-NUM 5
+
+Forward- D
+Back- A
+Down- S
+Up- W
+
+Если вы не хотите играть с моей раскладкой, то вам придется настроить макрос под свою путем переназначения клавиш в макросе на нужные вам. Это не сложно, просто нужно разобраться :)</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 87 1
+Delay 30 ms
+KeyUp 87 1
+Delay 150 ms
+KeyDown 87 1
+Delay 30 ms
+KeyUp 87 1
+Delay 260 ms
+KeyDown 7 1
+Delay 0 ms
+KeyDown 96 1
+Delay 93 ms
+KeyUp 96 1
+Delay 49 ms
+KeyDown 95 1
+Delay 137 ms
+KeyUp 95 1
+Delay 39 ms
+KeyDown 96 1
+Delay 130 ms
+KeyUp 96 1
+Delay 119 ms
+KeyDown 92 1
+Delay 125 ms
+KeyUp 92 1
+Delay 129 ms
+KeyDown 96 1
+Delay 122 ms
+KeyUp 96 1
+Delay 142 ms
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

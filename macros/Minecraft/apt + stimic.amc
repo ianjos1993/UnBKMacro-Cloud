@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос позволяет одной кнопкой юзать стимик и аптеку, аптечка должна быть в 2 слоте, а стимик в 4 слоте.
+Используй умом.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+Dayz batleground серв дурачков</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 32 ms
+RightDown 1
+Delay 32 ms
+RightUp 1
+Delay 32 ms
+KeyUp 31 1
+KeyDown 33 1
+Delay 32 ms
+KeyUp 33 1
+Delay 32 ms
+RightDown 1
+Delay 32 ms
+RightUp 1
+Delay 32 ms
+KeyDown 30 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

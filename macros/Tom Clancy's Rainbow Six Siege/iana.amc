@@ -1,0 +1,56 @@
+<Root>
+  <DefaultMacro>
+    <Major>Mirox</Major>
+    <Description>use a compensator and a scope of ur choice
+
+Screen resolution : 1920 x 1080
+
+fov: 90
+
+res ; 5:4 
+ads: 26
+x : 9
+y : 8</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 7 ms
+MoveR 4 11
+Delay 7 ms
+MoveR -1 12
+Delay 7 ms
+MoveR 3 10
+Delay 7 ms
+MoveR -1 10
+Delay 7 ms
+MoveR 3 9
+Delay 7 ms
+MoveR -1 10
+Delay 4 ms
+MoveR -2 10
+Delay 7 ms
+MoveR 4 9
+Delay 7 ms
+MoveR -1 10
+Delay 7 ms
+MoveR 3 10
+Delay 7 ms
+MoveR -1 10
+Delay 7 ms
+MoveR 3 10
+Delay 7 ms
+MoveR -1 11
+Delay 4 ms
+MoveR -2 11
+Delay 7 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

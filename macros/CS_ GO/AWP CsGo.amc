@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простой но и хороший макро для снайперки AWP в CsGo который подойдет и на "муху" 
+Суть макроса в том что вы просто стреляете а он за вас делает смену
+Ссылка на видео https://youtu.be/nMTMq6Sznj0</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 24 ms
+LeftUp 1
+KeyDown 32 1
+Delay 24 ms
+KeyUp 32 1
+KeyDown 30 1
+Delay 24 ms
+KeyUp 30 1
+Delay 30 ms
+Delay 395 ms</Syntax>
+    </KeyDown>
+    <Software>CS: GO</Software>
+  </DefaultMacro>
+</Root>

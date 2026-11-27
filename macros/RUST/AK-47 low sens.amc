@@ -1,0 +1,300 @@
+<Root>
+  <DefaultMacro>
+    <Major>lxmndf</Major>
+    <Description>Макрос для AK-47 Раст, для низкой чувствительности и рандомизироваными таймингами.
+Разрешение1920x1080p,
+Чувствительность: 0.4 ; 0.6.
+Поле зрения: 90.
+(ru)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+(eng)
+Macro for AK-47 Rust, for low sensitivity and randomized timings.
+RESOLUTION: 1920x1080p,
+Sensitivity: 0.4 ; 0.6.
+FOV: 90</Description>
+    <Comment>RU: Иногда потребуется контролировать горизонтальную отдачу.
+
+ENG: Sometimes you need to control the horizontal recoil.</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 0 3
+Delay 4 9 ms
+MoveR 0 3
+Delay 4 9 ms
+MoveR 0 3
+Delay 4 9 ms
+MoveR 0 3
+Delay 4 9 ms
+MoveR 0 3
+Delay 4 9 ms
+MoveR 0 3
+Delay 4 9 ms
+MoveR 0 3
+Delay 4 9 ms
+MoveR 0 3
+Delay 4 9 ms
+MoveR -1 3
+Delay 4 9 ms
+MoveR -1 3
+Delay 4 9 ms
+Delay 4 9 ms
+MoveR -1 3
+Delay 4 9 ms
+MoveR -1 3
+Delay 4 9 ms
+MoveR -1 3
+Delay 4 9 ms
+MoveR -1 3
+Delay 4 9 ms
+MoveR -1 3
+Delay 4 9 ms
+MoveR -1 3
+Delay 4 9 ms
+MoveR -1 3
+Delay 4 9 ms
+MoveR -1 3
+Delay 4 9 ms
+MoveR -1 3
+Delay 4 9 ms
+MoveR -1 3
+Delay 4 9 ms
+MoveR -1 3
+Delay 4 9 ms
+MoveR -1 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+MoveR -2 3
+Delay 4 9 ms
+LeftUp 1
+Delay 31 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

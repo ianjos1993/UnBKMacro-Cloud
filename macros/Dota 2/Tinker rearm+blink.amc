@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major>WhiteGoose</Major>
+    <Description>Нажмите один раз и тинкер повернётся в сторону мыши, нажмет реарм и проспамит блик.
+(Уровень реарма сам определит)
+
+Для применения не удерживайте клавишу макроса
+*Вместо боковой клавиши мыши вверх поставьте кнопку слота для блинка
+**Вместо боковой клавиши мыши вниз поставьте копку движения в направлении
+***Скрипт проверен на разрешении экрана 1920x1080 в режими окно без рамок</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Button5Down 1
+RightDown 1
+RightUp 1
+Button5up 1
+KeyDown 21 1
+KeyUp 21 1
+GoColor 10 0 180,162,107 255,255,255 1 1042 1005
+GoColor 12 0 180,162,107 255,255,255 1 1054 1005
+GoColor 14 1 180,162,107 255,255,255 1 1054 1005
+Delay 3550 ms
+Goto 16
+Delay 2050 ms
+Goto 16
+Delay 1300 ms
+Button4down 1
+Button4Up 1
+Button4down 1
+Button4Up 1
+Button4down 1
+Button4Up 1
+Button4down 1
+Button4Up 1
+GoWhile 15 2</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

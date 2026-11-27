@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>Combat Assult Rifle Recoil</Major>
+    <Description>Ставите Z на стенку P на потолок биндите на кнопку и зажимаете её и строитесь всё просто!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Description>
+    <Comment>25 scoped sens, 800 dpi, 28%, 24%</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 40 ms
+KeyUp 29 1
+Delay 43 ms
+KeyDown 19 1
+Delay 40 ms
+KeyUp 19 1
+Delay 43 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

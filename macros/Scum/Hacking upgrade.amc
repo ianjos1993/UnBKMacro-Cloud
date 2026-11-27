@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простой макрос для прокачки навыка взлома. Необходимо иметь тренажер, надеть на себя медвежьи перчатки, взять красную отвертку и самую простую отмычку. Запускаете тренажер и жмете макрос, макрос будет очень быстро качать навык, Обязательно соблюдайте условия, и качайте навык стоя. не сидя.
+Необходимо зациклить нажатие макроса в настройках кнопки активации. 
+Макрос НЕ  взламывает тренажер и можно смело оставлять его на длительное время.Проверено мной на просмотре 2 фильмов подряд. Для удобства можно привязать к окну игры и свернуть ее.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 24 ms
+KeyUp 44 1
+Delay 24 ms
+KeyDown 9 1
+Delay 130 ms
+KeyUp 9 1
+Delay 55 ms</Syntax>
+    </KeyDown>
+    <Software>Scum</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>Для некроманта с двойным магом.</Major>
+    <Description>Прожимка умений, когда стоят плечи на двух магов. в настрйоках дополнительными клавишами назначьте на умения такие кнопки как  caps lock, R, E, Q. Маг на кнопку R. Нажав на кнопку макроса вы запускаете цикл, повторное нажатие заканчивает его. ПОдойдет как для полуафк фарма, так и для Афк.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 57 1
+Delay 90 120
+KeyUp 57 1
+Delay 90 120
+KeyDown 8 1
+Delay 90 120
+KeyUp 8 1
+Delay 223 320 ms
+KeyDown 21 1
+Delay 90 120
+KeyUp 21 1
+Delay 119 333 ms
+KeyDown 21 1
+Delay 90 120
+KeyUp 21 1
+Delay 90 120
+KeyDown 20 1
+Delay 90 120
+KeyUp 20 1
+Delay 90 120</Syntax>
+    </KeyDown>
+    <Software>Diablo Immortal</Software>
+  </DefaultMacro>
+</Root>

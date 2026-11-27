@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Раш - способ безопасного перемещения по лестнице!
+Раш = Рампа + пол + стенка
+
+____________________________________________________
+
+
+Поможет напасть на противника с высоты, при этом с маленькой вероятностью что вас скинут!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 27 1
+Delay 64
+KeyUp 27 1
+KeyDown 6 1
+Delay 64
+KeyUp 6 1
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

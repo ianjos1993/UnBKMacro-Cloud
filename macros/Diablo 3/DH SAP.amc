@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>ДХ саппорт с луком Хашира на раскладку 1-2-3-4-ЛКМ
+1 - Залп
+2 - Метка смерти
+3 - Болас
+4 - Замедляющий выстрел
+ЛКМ - Питомец
+
+Включи макрос, зажми ПКМ и наслаждайся фастами в пати!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+KeyUp 32 1
+Delay 1 s
+KeyDown 30 1
+KeyUp 30 1
+KeyDown 33 1
+KeyUp 33 1
+Delay 50 ms
+KeyDown 32 1
+KeyUp 32 1
+KeyDown 225 1
+LeftDown 1
+LeftUp 1
+KeyUp 225 1
+Delay 50 ms
+KeyDown 31 1
+KeyUp 31 1
+Delay 1 s
+KeyDown 33 1
+KeyUp 33 1
+Delay 1 s</Syntax>
+    </KeyDown>
+    <Software>Diablo 3</Software>
+  </DefaultMacro>
+</Root>

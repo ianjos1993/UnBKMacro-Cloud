@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>авторыбалка для террарии
+вы должны встать над водой, поместить курсор слева от персонаж и запустить макрос
+вуаля рва ловиться автоматически</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 142 ms
+LeftUp 1
+Delay 3616 ms
+LeftDown 1
+Delay 120 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Terraria</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,58 @@
+<Root>
+  <DefaultMacro>
+    <Major> 3 Калаша до 0 процнтов авто!</Major>
+    <Description>Удобный макрос для разборки 3 калашей до 0% износа за 13 +/- минут.
+
+Разрешение: 1920x1080.
+
+Поместите калаши с 99% износом или ниже в слоты 8, 9 и 10 (если у вас есть калаши с 100% износом, возьмите их в руки, перезарядите, и они станут 99%-ными).
+
+Кладите в инвентарь хотя бы 100 патронов — и всё! ЗАПУСКАЕМ! Макрос сам заряжает и разряжает калаши через инвентарь. После первого калаша он переключается на второй и третий !
+
+Вы можете продавать калащи на Дарк Вито за 10-20k или использовать для задания в клубе Меривезер (сдать 3 оружия с 0% износа).</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1325 282
+LeftDown 1
+Delay 150 ms
+LeftUp 1
+MoveTo 1325 333
+Delay 199 ms
+LeftDown 1
+Delay 150 ms
+LeftUp 1
+Delay 150 ms
+GoWhile 1 340
+Delay 100 ms
+MoveTo 1402 279
+LeftDown 1
+Delay 150 ms
+LeftUp 1
+MoveTo 1402 334
+Delay 199 ms
+LeftDown 1
+Delay 150 ms
+LeftUp 1
+Delay 150 ms
+GoWhile 13 340
+Delay 100 ms
+MoveTo 1467 285
+Delay 150 ms
+LeftDown 1
+MoveTo 1472 333
+Delay 199 ms
+LeftDown 1
+Delay 150 ms
+LeftUp 1
+Delay 150 ms
+GoWhile 25 340</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

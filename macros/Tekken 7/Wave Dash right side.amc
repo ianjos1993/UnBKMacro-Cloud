@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Mishima's Wave dash movement for Mix Up (Jin, Kazuya, Heihaci, devil jin, armor king)
+
+Key mapping ;
+W = UP
+A = BACK
+S = DUCK
+D = FORWARD
+
+J = 1
+I = 2
+K= 3
+L= 4</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 25 ms
+KeyUp 4 1
+Delay 25 ms
+KeyDown 22 1
+Delay 25 ms
+KeyDown 4 1
+Delay 25 ms
+KeyUp 22 1
+Delay 25 ms
+KeyUp 4 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 7</Software>
+  </DefaultMacro>
+</Root>

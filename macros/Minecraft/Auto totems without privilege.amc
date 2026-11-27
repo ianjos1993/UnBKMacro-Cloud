@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос для тех у кого нету привелегии и надо авто-тотемы , что бы его активировать просто забиндите на любую вами удобную клавишу.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 54 ms
+KeyUp 8 1
+Delay 54 ms
+KeyDown 225 1
+Delay 54 ms
+KeyUp 225 1
+Delay 54 ms
+KeyDown 31 1
+Delay 54 ms
+KeyUp 31 1
+Delay 54 ms
+KeyDown 8 1
+Delay 54 ms
+KeyUp 8 1
+Delay 54 ms
+LeftDown 1
+Delay 54 ms
+LeftUp 1
+Delay 54 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

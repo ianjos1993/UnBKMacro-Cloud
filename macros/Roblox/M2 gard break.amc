@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major>M2 gard break- YBA</Major>
+    <Description>Macro for Roblox Your bizzare adventure. Usefull to PVP especially for guard break
+easy macro to block break combo (dash + m2) easy to use </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 10 ms
+KeyUp 31 1
+Delay 30 ms
+KeyDown 29 1
+Delay 33 ms
+KeyDown 4 1
+Delay 20 ms
+RightDown 1
+Delay 97 ms
+KeyUp 4 1
+Delay 5 ms
+RightUp 1
+Delay 40 ms
+RightDown 1
+Delay 109 ms
+RightUp 1
+Delay 400 ms
+KeyUp 29 1
+KeyDown 31 1
+Delay 10 ms
+KeyUp 31 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

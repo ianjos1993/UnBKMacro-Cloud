@@ -1,0 +1,238 @@
+<Root>
+  <DefaultMacro>
+    <Major>Armor King Combo 3</Major>
+    <Description>Макрос позволяет выполнять комбо за Armor King комбинацию у стены с HEAT.
+Видео демонстрации работы макроса: https://youtu.be/9o-ki4dUa18
+
+Армор Кинг, смелый и настойчивый человек, который никогда не отступает перед трудностями. Его характер сочетает храбрость и выдержку. Он внимательно оценивает соперника перед каждым действием и не позволяет себе ошибок. Армор Кинг верит, что сила и дисциплина являются ключом к успеху и уважению. Он уважает сильных соперников и извлекает уроки из каждого поражения. В его глазах видно стремление к совершенству и постоянный внутренний контроль.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 05.11.2025
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ.
+
+#ArmorKingekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 0 ms
+KeyDown 7 1
+Delay 53 ms
+KeyDown 90 1
+Delay 143 ms
+KeyUp 90 1
+Delay 101 ms
+KeyUp 26 1
+Delay 18 ms
+KeyUp 7 1
+Delay 334 ms
+KeyDown 7 1
+Delay 158 ms
+KeyDown 89 1
+Delay 132 ms
+KeyDown 93 1
+Delay 116 ms
+KeyUp 89 1
+Delay 25 ms
+KeyDown 22 1
+Delay 54 ms
+KeyUp 93 1
+Delay 56 ms
+KeyDown 92 1
+Delay 111 ms
+KeyUp 92 1
+Delay 80 ms
+KeyDown 92 1
+Delay 112 ms
+KeyUp 92 1
+Delay 89 ms
+KeyDown 92 1
+Delay 102 ms
+KeyUp 92 1
+Delay 61 ms
+KeyDown 92 1
+Delay 40 ms
+KeyUp 7 1
+Delay 11 ms
+KeyUp 22 1
+Delay 54 ms
+KeyUp 92 1
+Delay 125 ms
+KeyDown 4 1
+Delay 106 ms
+KeyDown 7 1
+Delay 35 ms
+KeyUp 4 1
+Delay 88 ms
+KeyUp 7 1
+Delay 73 ms
+KeyDown 7 1
+Delay 93 ms
+KeyUp 7 1
+Delay 56 ms
+KeyDown 7 1
+Delay 223 ms
+KeyUp 7 1
+Delay 5 ms
+KeyDown 22 1
+Delay 47 ms
+KeyUp 22 1
+Delay 114 ms
+KeyDown 4 1
+Delay 0 ms
+KeyDown 22 1
+Delay 79 ms
+KeyDown 93 1
+Delay 85 ms
+KeyDown 89 1
+Delay 56 ms
+KeyUp 93 1
+Delay 48 ms
+KeyUp 89 1
+Delay 55 ms
+KeyDown 89 1
+Delay 105 ms
+KeyUp 89 1
+Delay 13 ms
+KeyDown 7 1
+Delay 32 ms
+KeyUp 22 1
+Delay 5 ms
+KeyUp 4 1
+Delay 63 ms
+KeyUp 7 1
+Delay 67 ms
+KeyDown 7 1
+Delay 110 ms
+KeyUp 7 1
+Delay 62 ms
+KeyDown 7 1
+Delay 87 ms
+KeyUp 7 1
+Delay 79 ms
+KeyDown 7 1
+Delay 80 ms
+KeyUp 7 1
+Delay 87 ms
+KeyDown 7 1
+Delay 80 ms
+KeyUp 7 1
+Delay 55 ms
+KeyDown 7 1
+Delay 129 ms
+KeyUp 7 1
+Delay 0 ms
+KeyDown 225 1
+Delay 166 ms
+KeyUp 225 1
+Delay 764 ms
+KeyDown 4 1
+Delay 371 ms
+KeyUp 4 1
+Delay 187 ms
+KeyDown 22 1
+Delay 0 ms
+KeyDown 7 1
+Delay 46 ms
+KeyDown 92 1
+Delay 161 ms
+KeyUp 92 1
+Delay 41 ms
+KeyUp 22 1
+Delay 134 ms
+KeyUp 7 1
+Delay 142 ms
+KeyDown 4 1
+Delay 0 ms
+KeyDown 22 1
+Delay 35 ms
+KeyDown 93 1
+Delay 0 ms
+KeyDown 90 1
+Delay 98 ms
+KeyUp 93 1
+Delay 0 ms
+KeyUp 90 1
+Delay 49 ms
+KeyDown 93 1
+Delay 0 ms
+KeyDown 90 1
+Delay 49 ms
+KeyUp 22 1
+Delay 53 ms
+KeyUp 93 1
+Delay 0 ms
+KeyUp 90 1
+Delay 38 ms
+KeyDown 93 1
+Delay 0 ms
+KeyDown 90 1
+Delay 111 ms
+KeyUp 93 1
+Delay 0 ms
+KeyUp 90 1
+Delay 395 ms
+KeyDown 92 1
+Delay 92 ms
+KeyUp 92 1
+Delay 82 ms
+KeyDown 92 1
+Delay 87 ms
+KeyUp 92 1
+Delay 78 ms
+KeyDown 92 1
+Delay 69 ms
+KeyUp 92 1
+Delay 68 ms
+KeyDown 92 1
+Delay 85 ms
+KeyUp 92 1
+Delay 75 ms
+KeyDown 92 1
+Delay 80 ms
+KeyUp 92 1
+Delay 73 ms
+KeyDown 92 1
+Delay 99 ms
+KeyUp 92 1
+Delay 68 ms
+KeyDown 92 1
+Delay 73 ms
+KeyUp 92 1
+Delay 44 ms
+KeyDown 92 1
+Delay 93 ms
+KeyDown 93 1
+Delay 42 ms
+KeyUp 92 1
+Delay 88 ms
+KeyUp 93 1
+Delay 242 ms
+KeyUp 4 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

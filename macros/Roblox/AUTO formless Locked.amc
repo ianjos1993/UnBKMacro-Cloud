@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>Locked</Major>
+    <Description>Formless auto 180 degree for instant shots into goal for the game Locked on Roblox.
+I suggest using a 0.2 sens with 1820x1900.
+thanks to this macro u can shoot the ball into the net without having to rotate on ur own.
+I will try uploading a kunigami no look one aswell :D</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR -661 -19
+MoveTo 1901 600
+Delay 30 ms
+RightDown 1
+Delay 30 ms
+KeyDown 21 1
+Delay 15 ms
+RightUp 1
+Delay 30 ms
+KeyUp 21 1
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

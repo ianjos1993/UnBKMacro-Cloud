@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>для начала копируете 99999999 отсюда, либо же с браузера ( как вам удобнее).Вставите свои координаты на ставку и на поставить Затем просто ждете контейнер и запускаете макрос как только  начался аукцион.Удачи
+Разрешение экрана: 1920×1080</Description>
+    <Comment>для начала копируете 99999999 отсюда, либо же с браузера ( как вам удобнее).Вставите свои координаты на ставку и на поставить Затем просто ждете контейнер и запускаете макрос как только  начался аукцион.Удачи</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 5 ms
+KeyDown 224 1
+Delay 10 ms
+KeyDown 25 1
+Delay 13 ms
+MoveTo 803 482
+Delay 7 ms
+LeftDown 1
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+LeftUp 1
+Delay 4 ms
+LeftDown 1
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

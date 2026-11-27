@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>ВНИМАНИЕ! Этот элемент не всегда может получиться если вы не знаете как работает eurostep, ведь в зависимости от местоположения персонажа будет решаться выполниться ли этот элемент или нет.
+
+Макрос сделанный для режима "Basketball Legends" чтобы выполнить сложную комбинацию нажатий, А именно post + eurostep + eurostep + post + perfect. Этот макрос облегчит вам использование данного сложного элемента всего одним нажатием клавиши.
+
+Требования:
+1) 70 OVR
+2) Знание как работает Eurostep
+
+Макрос не требует стабильного FPS или же Ping, кроме последнего броска, ведь чтобы заполнить шкалу тайминга нужно чтобы все было стабильно.
+
+Записывал макрос под свои нужды, к слову, если вам не нужен post в начале вы можете убрать первые 4 строки макроса.
+
+В основном используеться в 1 на 1, в 2 на 2, 3 на 3 или же 5 на 5 не советую, перехитрить сразу большое количество людей сложно.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+Delay 150 ms
+KeyUp 10 1
+Delay 64
+KeyDown 9 1
+Delay 95 ms
+KeyUp 9 1
+Delay 42 ms
+KeyDown 9 1
+Delay 131 ms
+KeyUp 9 1
+Delay 143 ms
+KeyDown 10 1
+KeyDown 8 1
+Delay 328 ms
+KeyUp 8 1
+Delay 212 ms
+KeyUp 10 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

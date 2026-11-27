@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для создания самогона на аппарате в игре. Данный макрос позволяет вам сократитить время работы и позволить вам заняться своим делом пока у вас крафтиться </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 226 1
+Delay 98 ms
+KeyUp 226 1
+Delay 1008 ms
+RightDown 1
+Delay 135 ms
+RightUp 1
+Delay 4094 ms
+KeyDown 88 1
+Delay 78 ms
+KeyUp 88 1
+Delay 17361 ms</Syntax>
+    </KeyDown>
+    <Software>Red Dead Redemption 2 </Software>
+  </DefaultMacro>
+</Root>

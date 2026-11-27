@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Я сделал этот макрос за 20 минут, в нем есть куча дыр, но оно будет доробатываться.(После отката швейки)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+GoColor 6 0 255,255,255 255,255,255 0 1920 1080 1 1 1 0
+MoveTo 969 579
+GoColor 9 1 255,255,255 255,255,255 0 1920 1080 1 1 1 0
+GoColor 12 0 255,255,255 255,255,255 0 1920 1080 1 1 1 0
+KeyDown 4 1
+KeyUp 4 1
+GoColor 12 0 255,255,255 255,255,255 0 1920 1080 1 1 1 0
+MoveTo 956 580
+GoColor 15 1 255,255,255 255,255,255 0 1920 1080 1 1 1 0
+GoColor 18 0 255,255,255 255,255,255 0 1920 1080 1 1 1 0
+KeyDown 22 1
+KeyUp 22 1
+GoColor 18 0 255,255,255 255,255,255 0 1920 1080 1 1 1 0
+MoveTo 951 580
+GoColor 21 1 255,255,255 255,255,255 0 1920 1080 1 1 1 0
+GoColor 24 0 255,255,255 255,255,255 0 1920 1080 1 1 1 0
+KeyDown 7 1
+KeyUp 7 1
+GoColor 24 0 255,255,255 255,255,255 0 1920 1080 1 1 1 0
+MoveTo 975 560
+GoColor 27 1 255,255,255 255,255,255 0 1920 1080 1 1 1 0
+GoColor 6 0 255,255,255 255,255,255 0 1920 1080 1 1 1 0
+KeyDown 26 1
+KeyUp 26 1
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

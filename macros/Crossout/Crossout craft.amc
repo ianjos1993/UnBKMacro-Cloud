@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major>Быстрый крафт предметов в большом объеме</Major>
+    <Description>Макрос позволяющий упростить производство деталей в игре кроссаут. Работает даже если у вас переполнен склад. Можно использовать для деталей любой редкости. Проверялся через вкладкт "Производство" и "Станки" Работает для разрешения 1920x1080.</Description>
+    <Comment>Подправил тайминги. Может немного пропускать производство, но в целом работает стабильно.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1774 972
+LeftDown 1
+Delay 520 ms
+LeftUp 1
+Delay 64
+MoveTo 845 664
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1721 972
+Delay 200 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 858 625
+Delay 64
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 64
+MoveTo 1774 972
+Delay 200 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 500 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Crossout</Software>
+  </DefaultMacro>
+</Root>

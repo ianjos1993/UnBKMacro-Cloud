@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>Realistic human click macro for warden LC build 3-4 slot</Major>
+    <Description>Realistic click macro for warden LC build 3-4 slot. This script emulates click of human and random timing</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 3 17 ms
+KeyDown 33 1
+KeyUp 32 1
+Delay 5 42 ms
+KeyUp 33 1
+Delay 6503 6550 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Path of Exile</Software>
+  </DefaultMacro>
+</Root>

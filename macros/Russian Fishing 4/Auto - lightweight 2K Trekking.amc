@@ -1,0 +1,90 @@
+<Root>
+  <DefaultMacro>
+    <Major>АвтоМЛО - ЛегкийПилкинг 2K</Major>
+    <Description>Автоматическая ловля легким пилкингом в придонном слое на любой банке. Пилкинг активируется при появлении надписи "движение в придонном слое". Протестировано на Taiga LTD. Разрешение 2K. В настройках игры желательно выставить экспозиция -3 и контраст -10. Возможны проблемы при бликах воды у индикаторов, лучше встать сзади лодки, индикаторы на фон моторов. Запуск - встать у края, активировать макрос. Для ловли безынарционными катушками увеличить время в 29 строке на значение 500-550мс.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64 128
+LeftUp 1
+Delay 200 250 ms
+//проверка на клев
+GoColor 39 2 160,160,160 255,255,255 1 1323 1384 5 36 1 0
+//ожидать дно
+GoColor 4 3 160,160,160 255,255,255 1 1472 1391 1 1 1 0
+Delay 100 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//Пилкинг
+GoColor 39 2 160,160,160 255,255,255 1 1323 1384 1 1 1 0
+GoColor 28 2 160,160,160 255,255,255 1 1472 1391 197 49 1 0
+LeftDown 1
+Delay 1000 1100 ms
+LeftUp 1
+Delay 64 128
+KeyDown 88 1
+Delay 64 128
+KeyUp 88 1
+Delay 222 333 ms
+GoColor 39 2 160,160,160 255,255,255 1 1323 1384 1 1 1 0
+GoColor 8 2 160,160,160 255,255,255 1 1472 1391 1 1 1 0
+GoWhile 24 20
+RightDown 1
+Delay 325 375 ms
+RightUp 1
+//Пилкинг
+GoColor 39 2 160,160,160 255,255,255 1 1323 1384 1 1 1 0
+GoColor 38 3 160,160,160 255,255,255 1 1472 1391 1 1 1 0
+Delay 1275 1325 ms
+GoColor 39 2 160,160,160 255,255,255 1 1323 1384 1 1 1 0
+GoColor 38 3 160,160,160 255,255,255 1 1472 1391 1 1 1 0
+Delay 1275 1325 ms
+Goto 14
+//клев
+LeftDown 1
+Delay 222 333 ms
+KeyDown 225 1
+Delay 333 444 ms
+GoColor 48 2 160,160,160 255,255,255 1 1996 1370 40 60 1 0
+GoColor 43 2 160,160,160 255,255,255 1 1323 1384 1 1 1 0
+Delay 111 155 ms
+GoColor 51 3 160,160,160 255,255,255 1 1323 1384 1 1 1 0
+RightDown 1
+Goto 45
+Delay 500 ms
+GoColor 64 2 68,75,24 183,199,56 2 1617 1231 1 8 1 0
+Delay 222 ms
+KeyUp 225 1
+Delay 100 128 ms
+RightUp 1
+Delay 100 128 ms
+LeftUp 1
+Delay 555 666 ms
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+Goto 4
+Delay 555 ms
+KeyUp 225 1
+Delay 100 128 ms
+RightUp 1
+Delay 100 128 ms
+LeftUp 1
+Delay 700 750 ms
+KeyDown 44 1
+Delay 100 120 ms
+KeyUp 44 1
+Delay 700 750 ms</Syntax>
+    </KeyDown>
+    <Software>Русская Рыбалка 4</Software>
+  </DefaultMacro>
+</Root>

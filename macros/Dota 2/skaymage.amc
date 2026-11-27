@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>порядок скилов(Q W E R) и бинд атоса на (Z)</Major>
+    <Description>Топовий фул прокаст скай мага вместе с атосом порядок скилов(Q W E R) и бинд атоса на (Z) если не нравиться кнопка бинда отоса просто забиваем бинд перед буквой R и ставим себе удобный</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 128 ms
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 29 1
+Delay 64
+KeyUp 29 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

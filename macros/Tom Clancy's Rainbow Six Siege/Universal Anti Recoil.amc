@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>RECOMMENDED SETTINGS:
+Resolution: 1920x1080
+DPI: 800-1300 DPI mouse
+9-12 Horizontal &amp; Vertical Sensitivity (I use 9 horizontal 11 vertical)
+1.0x Magnification: 65
+1.5x Magnification: 50
+16:10 / 4:9 Aspect Ratio
+
+Works on:
+R-4C - Compensator
+P90 - Extended Barrel
+AK12 - Compensator
+Vector - Extended Barrel
+C7E - Compensator
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+MoveR -2 16
+Delay 15 ms
+MoveR -1 17
+Delay 15 ms
+MoveR -1 18
+Delay 15 ms
+MoveR -2 16
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

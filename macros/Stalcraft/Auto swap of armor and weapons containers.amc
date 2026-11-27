@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Привет , это макрос на свап контейнеров , оружия , брони . ВАЖНО : предмет должен находится в самой первой ячейке инвентаря. иначе макрос не сработает.
+расширение - 1440x1280 
+достаточно нажать на бинд макроса , и он сработает. удачи в использовании ! </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64 ms
+MoveTo 816 261
+Delay 64
+KeyDown 225 1
+Delay 64
+LeftDown 1
+Delay 64
+KeyUp 225 1
+Delay 64 ms
+LeftUp 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,79 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Предоставленный скрипт предназначен для использования в режиме Magic Training. Он позволяет по нажатию одной кнопки сделать все необходимые махинации для невербального каста заклинания Levicorpus.
+
+Заклинание Levicorpus заставляет вашего оппонента повиснуть в воздухе к верх ногами,
+после использования вряд ли кто-то захочет с вами спорить.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 10 ms
+KeyUp 56 1
+Delay 10 ms
+KeyDown 56 1
+Delay 10
+KeyUp 56 1
+Delay 10
+KeyDown 8 1
+Delay 10
+KeyUp 8 1
+Delay 10
+KeyDown 44 1
+Delay 10
+KeyUp 44 1
+Delay 10
+KeyDown 15 1
+Delay 10
+KeyUp 15 1
+Delay 10
+KeyDown 8 1
+Delay 10
+KeyUp 8 1
+Delay 10
+KeyDown 25 1
+Delay 10
+KeyUp 25 1
+Delay 10
+KeyDown 12 1
+Delay 10
+KeyUp 12 1
+Delay 10
+KeyDown 6 1
+Delay 10
+KeyUp 6 1
+Delay 10
+KeyDown 18 1
+Delay 10
+KeyUp 18 1
+Delay 10
+KeyDown 21 1
+Delay 10
+KeyUp 21 1
+Delay 10
+KeyDown 19 1
+Delay 10
+KeyUp 19 1
+Delay 10
+KeyDown 24 1
+Delay 10
+KeyUp 24 1
+Delay 10
+KeyDown 22 1
+Delay 10
+KeyUp 22 1
+Delay 10
+KeyDown 40 1
+Delay 10 ms
+KeyUp 40 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

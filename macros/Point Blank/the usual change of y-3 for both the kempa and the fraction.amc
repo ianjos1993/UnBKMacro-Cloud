@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>смена с выстрелом ставим на удобную вами кнопку и наслождаемся подходит как для кемпы так и для дроби                                                                                                                   </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 1 ms
+LeftUp 1
+KeyDown 32 1
+Delay 1 ms
+KeyUp 32 1
+KeyDown 20 1
+Delay 2 ms
+KeyUp 20 1
+Delay 340 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

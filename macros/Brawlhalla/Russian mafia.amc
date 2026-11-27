@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Начало комбо "Русская Мафия" (работает при 0 урона)
+Макрос для использования комбо в игре Brawlhalla (использует только клавиатуру).</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 81 1
+MoveR 0 0
+Delay 64
+MoveR 150 -415
+Delay 64
+KeyDown 6 1
+KeyUp 6 1
+KeyUp 81 1
+Delay 400 ms
+KeyDown 82 1
+KeyUp 82 1
+KeyDown 79 1
+KeyDown 29 1
+KeyUp 79 1
+Delay 64 ms
+KeyUp 29 1
+KeyDown 27 1
+Delay 64
+KeyUp 27 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Brawlhalla</Software>
+  </DefaultMacro>
+</Root>

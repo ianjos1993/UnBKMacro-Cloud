@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major>FastJump</Major>
+    <Description>Макрос на очень быстрый прыжок. Чтобы изменить направление прыжка, вы можете нажать A (влево), D (вправо) или любую другую кнопку для изменения направления движения. Иногда скрипт может ломаться  из-за нестабильного соединения или слишком быстрой смены направления.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+KeyDown 225 1
+KeyDown 44 1
+KeyDown 22 1
+KeyUp 44 1
+KeyUp 225 1
+Delay 135 ms
+KeyUp 22 1
+Delay 155 ms
+KeyDown 22 1
+KeyDown 225 1
+KeyDown 44 1
+KeyDown 22 1
+KeyUp 44 1
+KeyUp 225 1
+Delay 135 ms
+KeyUp 22 1
+Delay 155 ms
+KeyDown 22 1
+KeyDown 225 1
+KeyDown 44 1
+KeyDown 22 1
+KeyUp 44 1
+KeyUp 225 1
+Delay 135 ms
+KeyUp 22 1
+Delay 155 ms
+KeyDown 22 1
+KeyDown 225 1
+KeyDown 44 1
+KeyDown 22 1
+KeyUp 44 1
+KeyUp 225 1
+Delay 135 ms
+KeyUp 22 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Brawlhalla</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Полностью автоматический макрос для качалки. Для того что бы макрос работал, необходимо выставить разрешение экрана 1920 x 1080 формат 4:3 Оконный без рамки. После этого включаете макрос, подходите к тренажеру и он прекрасно работает. Но всегда сидите рядом с монитором, иногда макрос троит и его надо перезапускать, либо админ вызовет на проверку.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 4 ms
+KeyUp 8 1
+Delay 4 ms
+GoColor 7 1 209,255,193 255,255,255 2 774 591 377 364 1 0
+GoColor 5 0 209,255,193 255,255,255 2 774 591 377 364 1 0
+KeyDown 44 1
+Delay 1 ms
+KeyUp 44 1
+Delay 3 s
+GoWhile 4 15
+Delay 1 min</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

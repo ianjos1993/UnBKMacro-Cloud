@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>всем привет !
+данный макрос позваляет отправить сообщения в 1 клик !
+как работает макрос !
+f - запускает макрос 
+t - открывает чат 
+gg - сообщения отправленое в чат 
+примичание чтобы отправить gg в чат необходимо чтобы стоял английский язык 
+есле же не будет стоят будет отправлено сообщения пп !
+всем спасибо !</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 35 ms
+KeyDown 23 1
+Delay 35 ms
+KeyUp 23 1
+Delay 35 ms
+KeyDown 225 1
+Delay 35 ms
+KeyDown 30 1
+Delay 35 ms
+KeyUp 30 1
+Delay 35 ms
+KeyUp 225 1
+Delay 35 ms
+KeyDown 10 1
+Delay 35 ms
+KeyUp 10 1
+Delay 35 ms
+KeyDown 10 1
+Delay 35 ms
+KeyUp 10 1
+Delay 35 ms
+KeyDown 88 1
+Delay 35 ms
+KeyUp 88 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

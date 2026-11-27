@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Варуны заряжают снаряды затем стреляют, таким образом вы накапливаете перк варунов чтобы были сильнее и сильнее.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 1000 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 30 1
+Delay 1000 ms
+KeyUp 30 1
+Delay 20 ms
+KeyDown 31 1
+Delay 1000 ms
+KeyUp 31 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Crossout</Software>
+  </DefaultMacro>
+</Root>

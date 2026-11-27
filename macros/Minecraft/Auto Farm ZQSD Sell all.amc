@@ -1,0 +1,121 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro is use on the minecraft serveur play.vinlandmc.fr
+
+
+To use the macro you need to be looking at the angle -90.0 90.0 and have a farm of 9x3 chunk
+You also need to use ZQSD to move(can be change in the game menu) and you need to use a game launcher for macro and put the /sell all on the key "a"</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 10 ms
+KeyDown 224 1
+Delay 10 ms
+KeyDown 20 1
+Delay 3100 ms
+KeyUp 20 1
+Delay 10
+KeyDown 29 1
+Delay 400 ms
+KeyUp 29 1
+Delay 10
+KeyDown 7 1
+Delay 3100 ms
+KeyUp 7 1
+Delay 10
+KeyDown 29 1
+Delay 400 ms
+KeyUp 29 1
+Delay 10
+KeyDown 4 1
+Delay 100 ms
+KeyUp 4 1
+Delay 64
+GoWhile 4 4
+Delay 10 ms
+KeyDown 20 1
+Delay 3100 ms
+KeyDown 22 1
+Delay 10 ms
+KeyUp 22 1
+Delay 100 ms
+KeyUp 20 1
+Delay 100 ms
+KeyDown 44 1
+Delay 500 ms
+KeyUp 44 1
+Delay 10 ms
+KeyDown 29 1
+Delay 10 ms
+KeyUp 29 1
+Delay 10 ms
+KeyDown 7 1
+Delay 3100 ms
+KeyUp 7 1
+Delay 10 ms
+KeyDown 22 1
+Delay 400 ms
+KeyUp 22 1
+Delay 10 ms
+KeyDown 20 1
+Delay 3100 ms
+KeyUp 20 1
+Delay 10 ms
+KeyDown 22 1
+Delay 400 ms
+KeyUp 22 1
+Delay 10 ms
+KeyDown 4 1
+Delay 100 ms
+KeyUp 4 1
+Delay 64
+GoWhile 42 4
+Delay 10 ms
+KeyDown 7 1
+Delay 3100 ms
+KeyDown 29 1
+Delay 10
+KeyUp 29 1
+Delay 100 ms
+KeyUp 7 1
+Delay 10 ms
+KeyDown 44 1
+Delay 500 ms
+KeyUp 44 1
+GoWhile 2 7
+Delay 10
+KeyDown 22 1
+Delay 100 ms
+KeyUp 22 1
+Delay 64
+KeyDown 44 1
+Delay 50 ms
+KeyUp 44 1
+Delay 50 ms
+KeyDown 44 1
+Delay 50 ms
+KeyUp 44 1
+Delay 3000 ms
+KeyDown 29 1
+Delay 1000 ms
+KeyUp 29 1
+Delay 70 ms
+KeyDown 44 1
+Delay 70 ms
+KeyUp 44 1
+Delay 70 ms
+KeyDown 44 1
+Delay 70 ms
+KeyUp 44 1
+GoWhile 2 10</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

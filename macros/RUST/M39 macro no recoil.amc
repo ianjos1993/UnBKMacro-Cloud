@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major>perfect macro for m39 no Holo</Major>
+    <Description>this macro is for M39
+Fov 90
+1920x1080
+sens. 0.4
+DPI 800-1000
+ support me and enjoy!
+
+BlackMamba</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 10 ms
+MoveR -15 15
+LeftUp 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>rust</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,70 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Bryan Fury Sample combo 3(Left Side)
+This macro is designed to perform combos in a game called Tekken 7 with a single button. 
+To do this technique, you need to be to the left of your opponent and the control should be set by default with the shift settings like mine:
+1= U
+2=I
+3=J
+4=k
+The macro has been tested in numerous online battles. Problems can only be due to your unstable Internet connection with the enemy, as well as this macro works only at a stable frame rate of 59-60 fps.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 79 1
+KeyDown 81 1
+KeyDown 13 1
+Delay 246 ms
+KeyUp 79 1
+KeyUp 81 1
+KeyUp 13 1
+Delay 739 ms
+KeyDown 13 1
+Delay 50 ms
+KeyUp 13 1
+Delay 150 ms
+KeyDown 14 1
+Delay 212 ms
+KeyUp 14 1
+Delay 639 ms
+KeyDown 14 1
+Delay 54 ms
+KeyUp 14 1
+Delay 163 ms
+KeyDown 13 1
+Delay 58 ms
+KeyUp 13 1
+Delay 175 ms
+KeyDown 14 1
+Delay 263 ms
+KeyUp 14 1
+Delay 789 ms
+KeyDown 79 1
+Delay 50 ms
+KeyUp 79 1
+Delay 133 ms
+KeyDown 79 1
+Delay 235 ms
+KeyUp 79 1
+Delay 32 ms
+KeyDown 81 1
+KeyDown 13 1
+Delay 45 ms
+KeyUp 81 1
+KeyUp 13 1
+Delay 138 ms
+KeyDown 12 1
+Delay 41 ms
+KeyUp 12 1
+Delay 126 ms</Syntax>
+    </KeyDown>
+    <Software>TEKKEN</Software>
+  </DefaultMacro>
+</Root>

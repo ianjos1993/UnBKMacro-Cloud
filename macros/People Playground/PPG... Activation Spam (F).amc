@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Спамит активацией , например оружия. Если использовать например метатель дротиков, метатель кристаллов, то будет очень красиво, если долго спамить стрельбой  то его звук и выстрелы пропадут, но обратно появятся когда вы отпустите клавишу. Макрос довольно лёгкий, но полезный. ОБЯЗАТЕЛЬНО !!!Поставить режим "Выполнять пока нажата клавиша"!!! </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 1 ms
+KeyUp 9 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>People Play Ground</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный скрипт предназначен для быстрой стрельбы на пистолетах Акимо.
+Ваша задача просто поставить клавишу на которую будут произведены выстрелы и включить повторение.
+Хорошей стрельбы ковбой.</Description>
+    <Comment>Исправляюсь) затупил)</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+LeftUp 1
+Delay 8 ms
+RightDown 1
+RightUp 1
+Delay 8 ms
+LeftDown 1
+LeftUp 1
+Delay 8 ms
+RightDown 1
+RightUp 1
+Delay 8 ms
+LeftDown 1
+LeftUp 1
+Delay 8 ms
+RightDown 1
+RightUp 1
+Delay 8 ms</Syntax>
+    </KeyDown>
+    <Software>Call of Duty: War Zone</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,57 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Анти афк дергает мышку и не будет кикать используете вам понравится очень и еще персонаж будет двигаться автоматически</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 1 s
+KeyUp 26 1
+Delay 1 s
+KeyDown 4 1
+Delay 1 s
+KeyUp 4 1
+Delay 1 s
+KeyDown 22 1
+Delay 1 s
+KeyUp 22 1
+Delay 1 s
+KeyDown 7 1
+Delay 1 s
+KeyUp 7 1
+Delay 1 s
+LeftDown 1
+Delay 1 s
+LeftUp 1
+Delay 1 s
+LeftDown 1
+Delay 1 s
+LeftUp 1
+Delay 1 s
+LeftDown 1
+Delay 1 s
+LeftUp 1
+Delay 1 s
+MoveR 251 162
+Delay 64
+MoveTo 1067 674
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+GoWhile 1 999999</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

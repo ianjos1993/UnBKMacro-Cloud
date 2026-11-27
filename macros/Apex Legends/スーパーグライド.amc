@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>Super Glide + Bunny Hop</Major>
+    <Description>Perform a Super Glide followed by a Bunny Hop.
+Character control completed with just one key.
+The alt key is recommended.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 3 ms
+KeyUp 44 1
+Delay 3 ms
+KeyDown 25 1
+Delay 3 ms
+KeyUp 25 1
+Delay 5 ms
+KeyDown 44 1
+Delay 10 ms
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

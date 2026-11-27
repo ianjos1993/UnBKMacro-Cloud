@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>                                          Скрипт создан для Таксистов на сервере MTA Province.
+Запускаем Keyran после чего выбераем нужную вам клавишу на которую вы хотите чтобы активировался макрос.Потом заходим в провинцию и нажимаем эту клавишу. Панель такси должна стоять на F7 или можете изменить макрос под себя. Он сам откроет таблицу, примет заказ и закроет её. Можно поймать заказ даже на ходу.
+
+
+
+
+                                                                Удачного использования!</Description>
+    <Comment>https://botmek.com - Free macros download</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 64 1
+Delay 60 ms
+KeyUp 64 1
+Delay 100 ms
+MoveTo 1750 430
+Delay 100 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 60 ms
+MoveTo 1750 730
+Delay 100 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 60 ms
+KeyDown 64 1
+Delay 10 ms
+KeyUp 64 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

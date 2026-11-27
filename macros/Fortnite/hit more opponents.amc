@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Squat and get up quickly to aim without expansion
+This will help to hit more opponents from a distance with ARs.
+
+Keys used:
+Crouch = P
+Lift = SPACE key</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 19 1
+Delay 30 ms
+KeyUp 19 1
+Delay 30 ms
+KeyDown 44 1
+Delay 30 ms
+KeyUp 44 1
+Delay 30 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

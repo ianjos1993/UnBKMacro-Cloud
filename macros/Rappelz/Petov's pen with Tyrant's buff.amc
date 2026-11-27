@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description> ручкалка с бафом тира на 2- ставим ручалку на 1- ставим тиро баф и на 3- ставим атаку или петомцам или оружие дальнего боя для эфективного ручения. Также есть возможность поставить за место тира любой баф на себя. Все легко и просто!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+KeyDown 30 1
+Delay 4 s
+KeyUp 30 1
+Delay 65 ms
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 21 s
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Rappelz</Software>
+  </DefaultMacro>
+</Root>

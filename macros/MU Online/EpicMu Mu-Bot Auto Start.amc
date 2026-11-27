@@ -1,0 +1,56 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This Script is for EpicMU ( Private Server )
+Mu-Bot continous Run ( Mu-Bot normally does stop after 6 Hours )
+Rezolution Used : 1680 x 1050 ( 16:9 ) ( Wide ) -------&gt; USE THIS IN LAUNCHER OF EPICMU !
+My Monitor Resolution : 2560 x 1440
+When Pressing start on Launcher , the game opens and dont move it !
+This script will replay for 100 Times !
+
+What Script Does :
+Every 5 Hours ( Just in case ) while you have the Mu-Bot running already it will click twice on Mu-Bot to reset its time.
+That way , u can run continously Mu-Bot without worrying that Mu-Bot will stop at 6 Hours !</Description>
+    <Comment>Enjoy !</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1884 341
+Delay 218 ms
+LeftDown 1
+Delay 99 ms
+LeftUp 1
+Delay 1052 ms
+MoveTo 1885 341
+Delay 7 ms
+MoveTo 1885 340
+Delay 15 ms
+MoveTo 1886 339
+Delay 5 ms
+MoveTo 1886 338
+Delay 6 ms
+MoveTo 1887 338
+Delay 7 ms
+MoveTo 1887 338
+Delay 5 ms
+MoveTo 1887 338
+Delay 9 ms
+MoveTo 1888 338
+Delay 68 ms
+MoveTo 1889 337
+Delay 64 ms
+MoveTo 1889 337
+Delay 821 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 300 min
+GoWhile 1 10</Syntax>
+    </KeyDown>
+    <Software>MU Online</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,53 @@
+<Root>
+  <DefaultMacro>
+    <Major>SoulofCinder936</Major>
+    <Description>Fpunch=Home
+Bpunch=End
+Fkick=pageup
+Bkick=pagedown
+in=Space
+spawn macro for a simple combo you have to change your keys to what i have then simply bind your macro to a key and use it. for the right use of the macro you have to be on the right side of your opponents for it to work . this macro will be a simple one that you can mix with other spwan combos .</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 88 ms
+KeyDown 74 1
+Delay 88 ms
+KeyUp 74 1
+Delay 95 ms
+KeyDown 77 1
+Delay 103 ms
+KeyUp 77 1
+Delay 56 ms
+KeyUp 7 1
+Delay 935 ms
+KeyDown 77 1
+Delay 88 ms
+KeyUp 77 1
+Delay 16 ms
+KeyDown 26 1
+Delay 87 ms
+KeyDown 78 1
+Delay 71 ms
+KeyUp 78 1
+Delay 103 ms
+KeyDown 75 1
+Delay 63 ms
+KeyUp 75 1
+Delay 104 ms
+KeyDown 77 1
+Delay 87 ms
+KeyUp 77 1
+Delay 1135 ms
+KeyUp 26 1
+Delay 1200 ms</Syntax>
+    </KeyDown>
+    <Software>Mortal Kombat 11</Software>
+  </DefaultMacro>
+</Root>

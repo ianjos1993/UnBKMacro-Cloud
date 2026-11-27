@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос подходит для любого сампа. Он позволяет качать фитнес отходя от компьютера без проблем. Все что требуется это подойти к тренажеру, а именно: Гантели или Жим и активировать макрос и начать заниматься! Данный макрсо подходит только под разрешения 1366x768!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 5 0 255,255,255 255,255,255 1 772 640 398 264 1 0
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+GoColor 10 0 255,255,255 255,255,255 1 818 640 476 265 1 0
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+GoColor 15 0 255,255,255 255,255,255 1 864 640 368 266 1 0
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+GoColor 20 0 255,255,255 255,255,255 1 772 685 370 284 1 0
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+GoColor 25 0 255,255,255 255,255,255 1 819 685 456 282 1 0
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+GoColor 30 0 255,255,255 255,255,255 1 865 685 368 284 1 0
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

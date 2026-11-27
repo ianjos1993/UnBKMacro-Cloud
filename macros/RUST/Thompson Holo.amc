@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>BlackMamba0205</Major>
+    <Description>THOMPSON no HOLO BEST %90-95 For low sens
+
+(FOV ) : 90
+
+ ( 1920 x 1080 )
+
+Sensivity ( 0.4 )
+
+This macro is perfect to use without accessory on your Thompson
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 20 ms
+MoveR 0 10
+Delay 20 ms
+MoveR 0 10
+Delay 20 ms
+LeftUp 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

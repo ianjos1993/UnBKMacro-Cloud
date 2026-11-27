@@ -1,0 +1,101 @@
+<Root>
+  <DefaultMacro>
+    <Major>Ёрш на 87:87 (донка 3 шт)</Major>
+    <Description>Небольшой макрос для ловли ерша на координатах 87:87 
+
+как работает : Выставляем 3 донки рядом на клипсе 8м и запускаем макрос.
+ 
+P.S. сам лично использую его 3 дня полёт норм </Description>
+    <Comment>я не добавлял никаких копалок наживки и кормушек персонажа дабы новичкам было проще отредактировать макрос под себя.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 75 ms
+KeyUp 30 1
+Delay 649 ms
+LeftDown 1
+Delay 2986 ms
+KeyDown 225 1
+Delay 448 ms
+KeyUp 225 1
+Delay 544 ms
+RightDown 1
+Delay 6774 ms
+LeftUp 1
+Delay 32 ms
+RightUp 1
+Delay 1623 ms
+KeyDown 44 1
+Delay 87 ms
+KeyUp 44 1
+Delay 648 ms
+LeftDown 1
+Delay 984 ms
+LeftUp 1
+Delay 2888 ms
+KeyDown 39 1
+Delay 72 ms
+KeyUp 39 1
+Delay 2804 ms
+KeyDown 31 1
+Delay 72 ms
+KeyUp 31 1
+Delay 544 ms
+LeftDown 1
+Delay 867 ms
+RightDown 1
+Delay 9233 ms
+LeftUp 1
+Delay 20 ms
+RightUp 1
+Delay 982 ms
+KeyDown 44 1
+Delay 61 ms
+KeyUp 44 1
+Delay 1644 ms
+LeftDown 1
+Delay 924 ms
+LeftUp 1
+Delay 3258 ms
+LeftDown 1
+Delay 323 ms
+LeftUp 1
+Delay 641 ms
+KeyDown 32 1
+Delay 60 ms
+KeyUp 32 1
+Delay 2405 ms
+LeftDown 1
+Delay 2236 ms
+RightDown 1
+Delay 11294 ms
+LeftUp 1
+Delay 19 ms
+RightUp 1
+Delay 1451 ms
+KeyDown 44 1
+Delay 89 ms
+KeyUp 44 1
+Delay 1756 ms
+LeftDown 1
+Delay 1015 ms
+LeftUp 1
+Delay 2503 ms
+LeftDown 1
+Delay 191 ms
+LeftUp 1
+Delay 734 ms
+KeyDown 39 1
+Delay 67 ms
+KeyUp 39 1
+Delay 5 20 s
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Русская Рыбалка 4</Software>
+  </DefaultMacro>
+</Root>

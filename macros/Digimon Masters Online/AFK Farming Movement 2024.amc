@@ -1,0 +1,187 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro will make the tamer character move in a square path. The character will move the distance of 1 sec in a loop of 3 times and stop to do an attack sequencs of 3 times and then heal. This will repeat an x amount of time. Make sure that you have a Magnet ID attached so items can be picked up automatically.
+
+The moving aspect of this macro is so that you can move from one group of digimon to another,without having to wait until the same group spawns before attacking again and it will minize other players from seeing your character as a BOT.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 58 1
+Delay 64
+KeyUp 58 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 59 1
+Delay 64
+KeyUp 59 1
+Delay 64
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+GoWhile 21 5
+GoWhile 5 3
+GoWhile 1 3
+Goto 30
+Delay 1 s
+KeyDown 36 1
+KeyUp 36 1
+Delay 64 ms
+Goto 34
+KeyDown 26 1
+Delay 1 s
+KeyUp 26 1
+Delay 64
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 58 1
+Delay 64
+KeyUp 58 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 59 1
+Delay 64
+KeyUp 59 1
+Delay 64
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+GoWhile 58 3
+GoWhile 38 5
+GoWhile 34 3
+Goto 66
+KeyDown 36 1
+Delay 64 ms
+KeyUp 36 1
+KeyDown 4 1
+Delay 1 s
+KeyUp 4 1
+Delay 64
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 58 1
+Delay 64
+KeyUp 58 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 59 1
+Delay 64
+KeyUp 59 1
+Delay 64
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+GoWhile 93 3
+GoWhile 73 5
+GoWhile 69 3
+Goto 101
+KeyDown 36 1
+Delay 64 ms
+KeyUp 36 1
+Delay 64 ms
+Goto 106
+KeyDown 22 1
+Delay 1 s
+KeyUp 22 1
+Delay 64
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 58 1
+Delay 64
+KeyUp 58 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 59 1
+Delay 64
+KeyUp 59 1
+Delay 64
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+GoWhile 130 3
+GoWhile 110 5
+GoWhile 110 3
+Goto 138
+KeyDown 7 1
+Delay 3 s
+KeyUp 7 1
+Delay 64
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 58 1
+Delay 64
+KeyUp 58 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 59 1
+Delay 64
+KeyUp 59 1
+Delay 64
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+GoWhile 162 3
+GoWhile 142 5
+GoWhile 138 3
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Digimon Masters Online</Software>
+  </DefaultMacro>
+</Root>

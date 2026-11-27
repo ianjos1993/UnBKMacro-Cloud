@@ -1,0 +1,81 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Бот(Макрос) на картошку,который соберает только левую сторону в лаборатории. ТОЛЬКО ДЛЯ КЛАНОВ! 
+
+Для того чтобы установить макрос в главном меню выбирите нужную вам кнопку и нажмите на нее правой кнопкой мыши и нажмите на "присвоить AMC макрос" 
+И все можно спокойно пользоватся!
+Вам нужно будет встать как у старых ботов ahk, активировать, и наблюдать за ботом, иногда поправлять, так как он может сбится.
+
+Удачи)
+Сделан для NextRP
+Была исправлена хотьба, почти не сбивается. Но следить нужно!</Description>
+    <Comment>Дискорд для связи со мной: geniyus6
+Мой ник в игре:Оскар Кокс.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 550 ms
+KeyUp 26 1
+Delay 100 ms
+KeyDown 226 1
+Delay 100 ms
+KeyUp 226 1
+Delay 6 s
+KeyDown 26 1
+Delay 570 ms
+KeyUp 26 1
+Delay 100 ms
+KeyDown 226 1
+Delay 100 ms
+KeyUp 226 1
+Delay 6 s
+GoWhile 9 2
+KeyDown 26 1
+Delay 1200 ms
+KeyUp 26 1
+Delay 100 ms
+KeyDown 226 1
+Delay 100 ms
+KeyUp 226 1
+Delay 6 s
+KeyDown 26 1
+Delay 550 ms
+KeyUp 26 1
+Delay 100 ms
+KeyDown 226 1
+Delay 100 ms
+KeyUp 226 1
+Delay 6 s
+KeyDown 26 1
+Delay 600 ms
+KeyUp 26 1
+Delay 64
+Delay 64
+Delay 100 ms
+KeyDown 226 1
+Delay 6 s
+KeyUp 226 1
+Delay 100 ms
+KeyDown 7 1
+Delay 100 ms
+KeyUp 7 1
+Delay 100 ms
+KeyDown 22 1
+Delay 3200 ms
+KeyUp 22 1
+Delay 100 ms
+KeyDown 4 1
+Delay 100 ms
+KeyUp 4 1
+Delay 100 ms
+GoWhile 1 9999</Syntax>
+    </KeyDown>
+    <Software>NextRP</Software>
+  </DefaultMacro>
+</Root>

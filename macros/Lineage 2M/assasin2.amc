@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>Фарм кинжальщиком с самоотхилом</Major>
+    <Description>Фарм кинжальщиком с самоотхилом
+на 2 клавише незаметность (усиленная с отхилом) 
+на клавише F - автоохота
+поочередно включаются для периодического восстановления хп</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+KeyUp 31 1
+Delay 10 12 s
+KeyDown 9 1
+KeyUp 9 1
+Delay 40 60 s</Syntax>
+    </KeyDown>
+    <Software>Lineage 2 Mobile</Software>
+  </DefaultMacro>
+</Root>

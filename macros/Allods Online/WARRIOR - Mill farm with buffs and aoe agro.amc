@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для игры Аллоды онлайн. 
+Принцип работы: 
+Воин встает в мельницу тыкая по КД защитные бафы + баф на атаку. 
+А также агрит всех мобов в радиусе под мельницу. 
+
+Настройка: 
+[F] - Мельница
+[2] - АОЕ агро
+[3] - Защитный баф
+[5] - Баф на усиление атаки
+
+Пример, как использовать: 
+- Ставим на любую кнопку макрос. 
+- Идем туда, где есть мобы пачками и с быстрым ресом (ЦС, ЭДЕМ к примеру) 
+- Встаем в любую точку в центре пака мобов. 
+- Жмем макрос. 
+- Идем кушать, заниматься своими делами, спать... Ворона за вас соберет весь лут, а вы по возвращению просто будете считать нафармленные ценности.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+KeyUp 9 1
+Delay 1 s
+KeyDown 9 1
+KeyUp 9 1
+Delay 1 s
+KeyDown 31 1
+KeyUp 31 1
+KeyDown 35 1
+KeyUp 35 1
+Delay 500 ms
+KeyDown 34 1
+KeyUp 34 1
+Delay 64
+KeyDown 9 1
+KeyUp 9 1
+Delay 1 s
+KeyDown 32 1
+KeyUp 32 1</Syntax>
+    </KeyDown>
+    <Software>Аллоды онлайн</Software>
+  </DefaultMacro>
+</Root>

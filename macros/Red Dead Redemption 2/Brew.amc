@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос создан для РП сервера RedWest, в целях автоматизировать создание самогона и заняться своими делами</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 226 1
+Delay 64
+KeyUp 226 1
+Delay 64
+RightDown 1
+Delay 1 4 s
+RightUp 1
+Delay 4 8 s
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 20 24 s
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Red Dead Redemption 2</Software>
+  </DefaultMacro>
+</Root>

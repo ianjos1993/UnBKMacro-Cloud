@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>Currency Farm - Kaiser North map - any monster area</Major>
+    <Description>North Kaiser Area – AOE Farming Macro
+
+
+
+A simple and effective macro designed for AOE farming in the North Kaiser Area.
+
+
+
+Before using it, change your AOE skill from F2 or F3 to Q under Settings → Shortcuts. 
+Most AOE skills have a 7–9 second cooldown, so this setup should work with most AOE abilities.
+
+
+Make sure your character is positioned in the middle of the monster spawn area. 
+The macro uses TAB to select a monster before activating Q, so proper positioning is important to prevent targeting monsters from other areas and to maintain efficient farming.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+KeyUp 43 1
+Delay 60 ms
+KeyDown 20 1
+KeyUp 20 1
+Delay 10 s
+GoWhile 1 99999</Syntax>
+    </KeyDown>
+    <Software>Digimon Masters Online</Software>
+  </DefaultMacro>
+</Root>

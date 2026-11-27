@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Авто стрельба подойдёт больше к idle серверам где можно делать достижения и статтрэк
+Расскажу как это работает,вам для начала надо включить выполнять при нажатии клавиши и идти в кс го,там уже выбираем сервера сообщества и в длинной строке строке пишем !idle или idle и нажимаем на ту кнопку на которую биндили и можно сидеть в телефоне или купатся
+Удачи в idle с авто стрельбой!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 25 ms
+LeftUp 1
+Delay 25 ms</Syntax>
+    </KeyDown>
+    <Software>CS: GO</Software>
+  </DefaultMacro>
+</Root>

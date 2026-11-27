@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major>исправление отдачи у большинства оружия</Major>
+    <Description>хочеш играть как профи но из за серьезной отдачи или других проблем тебе трудно стрелять в цель макрос поможет в этом двигая курсор очень быстро он практически полностью нивелирует отдачу у большинства пушек                                                                                                                                                              предпочтительное разрешение 1920-1080 желательный Fov 90-100                                                                             при меньшем разрешении и меньшей дистанции обзора тряска экрана сильнее что не всем понравится            риск бана самый минимальный так как вы ничего не нарушаете а используете механнику игры  </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 4 ms
+MoveR 4 -4
+Delay 4 ms
+MoveR -4 4
+Delay 4 ms
+MoveR 4 -4
+Delay 4 ms
+MoveR -4 4
+Delay 4 ms</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,54 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос был создан специально для Малиновки РП. 
+
+Этот макрос автоматически нажимает на клавиши и прокачивает такие навыки, как максимальное количество жизней, а также максимальную силу, 
+
+Макрос был настроен специально под разрешение 1360x768, но также вы можете настроить его самостоятельно, с помощью других интернет ресурсов.
+
+Если вы будете прокачивать фитнес навыки с помощью данного макроса, то вы имеете минимальный шанс получить блокировку аккаунта.
+
+Желаю удачи в использовании!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 5 0 242,20,61 255,255,255 1 770 656 400 248 1 0
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+GoColor 10 0 242,20,61 255,255,255 1 817 652 477 253 1 0
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+GoColor 15 0 242,20,61 255,255,255 1 860 653 372 253 1 0
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+GoColor 20 0 242,20,61 255,255,255 1 771 700 371 269 1 0
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+GoColor 25 0 242,20,61 255,255,255 1 816 694 459 273 1 0
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+GoColor 30 0 242,20,61 255,255,255 1 861 698 372 271 1 0
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

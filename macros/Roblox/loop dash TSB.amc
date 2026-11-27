@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для теча "Loop Dash"  для игры TSB, он является экстендером, который трудно повторить.Инструкция по тому как использовать сам макрос: вы должны встать в упор к противнику, повернуть камеру немного направо и сразу же активировать макрос, желательно чтобы на сервере был пинг около 70-90, разрешение экрана при создании-1980x1080.Для работы макроса, пожалуйста, убдеитесь, что на самом сервере вы и ваш противник не лагает, макрос возможно повторить на Weakest Dummy, но будет трудно, если у вас не получилось, попробуйте отредактировать задержку.Не забывайте, что вы должны встать к противнику в правильном положении, если вы не поняли как, то посмотрите видеоролик.Макрос не работает на персонаже "Destructive Cyborg" и "Metal bat"</Description>
+    <Comment>Мини трюк для игры TSB который трудно повторить, если хочется узнать как делать этот трюк без макроса, то киньте заявку в друзья на самой платформе Roblox, ник-UnluckyElitex, попробую принять всех кого смогу, но не гарантирую,Удачи!</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+Delay 64
+MoveR 55 7
+Delay 2 ms
+MoveR 76 -15
+Delay 2 ms
+MoveR 86 -15
+Delay 6 ms
+MoveR 87 -52
+Delay 16 ms
+MoveR 114 -60
+Delay 46 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

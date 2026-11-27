@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>Grand RP simple Fishing Macro</Major>
+    <Description>Very simple fishing macro for Gta 5 Grand rp.
+
+All you have to do is solve the Captcha every ~6.5 mins and itll run perfectly.
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 6 s
+KeyUp 8 1
+Delay 7 s</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

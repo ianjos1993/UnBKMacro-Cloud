@@ -1,0 +1,62 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Бывает такое когда надо отойти на минут 15, а в игре вас кикает за бездействие, так вот этот макрос решает проблему, он немного двигает мышью, обманывая игру. макрос очень полезный
+Dpi:400
+Разрешение: 1920 х 1080 
+Чувствительность: 2.5</Description>
+    <Comment>по этой игре еще не было макросов примите его пожалуйста</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1895 1013
+Delay 64
+MoveTo 1878 1013
+Delay 64
+MoveTo 1915 1014
+Delay 64
+MoveTo 1881 1014
+Delay 64
+MoveTo 1922 1014
+Delay 64
+MoveTo 1873 1013
+Delay 64
+MoveTo 1902 991
+Delay 64
+MoveTo 1898 1057
+Delay 64
+MoveTo 1934 1011
+Delay 64
+MoveTo 1852 1008
+Delay 64
+MoveTo 1950 1013
+Delay 64
+MoveTo 1886 1044
+Delay 64
+MoveTo 1904 970
+Delay 64
+GoWhile 1 100
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Chivalry 2</Software>
+  </DefaultMacro>
+</Root>

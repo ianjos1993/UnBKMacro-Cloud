@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на Альбион Онлайн для авто-продажи предметов. (Должна быть открыта стрелочка с возрастанием цены и количеством продаж)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1268 432
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1 s
+MoveTo 882 736
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1 s
+GoWhile 1 666</Syntax>
+    </KeyDown>
+    <Software>Albion online</Software>
+  </DefaultMacro>
+</Root>

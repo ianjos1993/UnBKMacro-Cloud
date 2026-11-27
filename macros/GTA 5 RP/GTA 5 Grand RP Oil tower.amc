@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>100 % работает с первого уровня
+Не дает преимущества над другими игроками , просто берегёт вашу мышку ,капчу все равно нужно вводить .</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 198 540
+Delay 10 ms
+LeftDown 1
+Delay 5100 ms
+LeftUp 1
+MoveTo 272 544
+Delay 10 ms
+LeftDown 1
+Delay 5100 ms
+LeftUp 1
+MoveTo 340 544
+Delay 10 ms
+LeftDown 1
+Delay 5100 ms
+LeftUp 1
+MoveTo 410 540
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+Delay 10 ms
+LeftDown 1
+Delay 5100 ms
+LeftUp 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

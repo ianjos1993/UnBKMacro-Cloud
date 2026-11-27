@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Если вам лень делать подкат в варфэйсе на все 3 буквы, то это значительно облегчит вашу жизнь.
+
+При нажатии 1 из кнопок подкат сделается за вас
+
+Удачи!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы 
+Удачи!</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+KeyDown 26 1
+KeyDown 9 1
+Delay 2500 ms
+KeyUp 26 1
+KeyUp 225 1
+KeyUp 9 1</Syntax>
+    </KeyDown>
+    <Software>Warface</Software>
+  </DefaultMacro>
+</Root>

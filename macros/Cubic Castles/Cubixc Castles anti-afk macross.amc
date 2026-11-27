@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Приветсвую тебя дорогой искатель приключений!
+
+Данный макросс (скрипт) поможет тебе не получить кик из игры за отствие в игре.
+
+Как это работает? (FAQ) :
+
+Заходим в свой Realm ( ну или заходим в любой остров добычи) 
+
+Находим ровную местность где можно будет ходить по ней ( ну или же выкапываем область 6x6)
+
+Включаем и все готово.
+
+Данный скрипт сделан на очень долгое время, а это значит что вы можете отойти по своим делам и не беспокоиться что вас может кикнуть!
+
+Спасибо за внимание! Удачи искатель!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64
+GoWhile 1 99999</Syntax>
+    </KeyDown>
+    <Software>Cubic Castles</Software>
+  </DefaultMacro>
+</Root>

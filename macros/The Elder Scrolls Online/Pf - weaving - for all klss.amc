@@ -1,0 +1,68 @@
+<Root>
+  <DefaultMacro>
+    <Major>PF - плетенье для всех классов без исключенья</Major>
+    <Description>На первый взгляд простой макрос. Но это поверьте БОМБА!
+Теперь по сути. Макрос работает только с аддонм Perfect Weave, задача которого вставить в ваше плетенье лайт атаку с учётом вашего пинга. В 99% аддон просто нивелирует, выгрызает и убивает все  ваши ошибки при плетенье и все пинговые провалы. 
+В самом макросе:
+ - лайт атака = ё, 1 = любому скилу, 2 = любому скилу. Каждая клавиша прожимается три раза, это алгоритмика самого аддона, Паузы между нажатиями можно сократить если у вас топчик по пингу. Я оставил  по умолчанию 64 мс, мне подошло. Самое главное не сокращайте нажатий (типа не 3 а 2, ради святого ДД))) Кайран вот справится, а аддон PW начнет ошибатся - проверенно)) Не ставте лайт атаку на мыш - аддон почемуто ее не любит.
+В адонне в настойках есь два режима - лайт - для крабиков и хард для трудяг) ставте хард, потому как с функцией трудяги на 1000% справляется Кейран. Удачи и побед на просторах Сиродила и Имперского города.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 53 1
+Delay 64
+KeyUp 53 1
+Delay 64
+KeyDown 53 1
+Delay 64
+KeyUp 53 1
+Delay 64
+KeyDown 53 1
+Delay 64
+KeyUp 53 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 53 1
+Delay 64
+KeyUp 53 1
+Delay 64
+KeyDown 53 1
+Delay 64
+KeyUp 53 1
+Delay 64
+KeyDown 53 1
+Delay 64
+KeyUp 53 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>The Elder Scrolls Online (TESO)</Software>
+  </DefaultMacro>
+</Root>

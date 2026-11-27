@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Сам прыгает если забиндить его на пробел очень облегчает работу в скилле и особо не мешает в гемплеии</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 86400000 ms</Syntax>
+    </KeyDown>
+    <Software>kuboom</Software>
+  </DefaultMacro>
+</Root>

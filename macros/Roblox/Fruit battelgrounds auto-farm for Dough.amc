@@ -1,0 +1,67 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всем привет! Это новый авто-фармер для игры "Fruit Battelgrounds". Этот авто-фармер преднозначен ТОЛЬКО для фрукта "Тесто" ( может быть и для какого-то другого фрукта подойдёт). Я очень старался, прорабатывал каждую деталь, И да совсем забыл сказать тут присутствует восполнение стамины что удобно. И лучше спрячтесь где нибудь где вас не найдут, иначе вас могут убить и если у вас есть баунти, то они снимутся.
+Hi all! This is a new auto farmer for the game "Fruit Battelgrounds". This auto-farmer is intended ONLY for the Dough fruit (it may also be suitable for some other fruit). I tried very hard,worked through every detail, and I completely forgot to say that there is stamina replenishment here, which is convenient. And it's better to hide somewhere where they won't find you, otherwise you can be killed and if you have a bounty, they will be removed.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 31 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 32 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyUp 32 1
+KeyDown 33 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyUp 33 1
+Delay 64
+KeyDown 34 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyUp 34 1
+Delay 64
+KeyDown 35 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyUp 35 1
+Delay 64
+GoWhile 1 60
+Delay 55 s
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

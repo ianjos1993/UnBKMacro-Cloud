@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major>create elimitnal inMagicka 1</Major>
+    <Description>Вызывает элементаля из магики 1 
+можно получить в 11 главе
+если у вас нет этой магики то делать это до получение магики БЕСПОЛЕЗНО!</Description>
+    <Comment>если у вас нет этой магики то делать это до получение магики БЕСПОЛЕЗНО!</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64
+KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>Magicka 1</Software>
+  </DefaultMacro>
+</Root>

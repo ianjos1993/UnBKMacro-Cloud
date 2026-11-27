@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>Roblox</Major>
+    <Description>Это авто комбо на гинкуй. Работает в игре Роблокс, На режиме Ro ghoul. P.S Возможно работает на других Режимах.В этом макросе специальные задержки. Надо приблизиться к игроку и активировать макрос.Макрос делается легко. Нигде не копипастил делал сам, старался. А также гайд 1.Скачать программу Keyran. 2. Открыть программу Keyran. 3. Купить или получить ключ. 4. Открыть редактор макросов. 5. Нажать открыть файл. 6. Выбрать мой файл. 7. Закрыть редактор. 8. Назначить макрос на любую клавишу/мыши.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

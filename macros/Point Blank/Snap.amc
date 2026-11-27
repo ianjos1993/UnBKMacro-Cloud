@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Хороший макрос на любую снайперку в игре Point Blank. Ставится на любую кнопку, не зажимной. Я ставлю на боковую кнопку, нажал 1 раз - он стреляет, прицеливается и сменивает за вас. По всем вопросам - vk.com/r_mikailov</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 20 ms
+RightUp 1
+Delay 20 ms
+LeftDown 1
+Delay 22
+LeftUp 1
+Delay 22
+KeyDown 20 1
+Delay 19
+KeyUp 20 1
+Delay 19
+KeyDown 20 1
+Delay 19
+KeyUp 20 1</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

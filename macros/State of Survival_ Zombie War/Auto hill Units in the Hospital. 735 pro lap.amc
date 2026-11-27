@@ -1,0 +1,97 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Во время массовых событий приходится постоянно ставить солдат лечится с помощью союзников. Теперь можно сделать автоматически. 
+Обязательно посмотрите пару кругов до конца, чтобы быть уверенными, что больница стоит в правильном месте. Она должна быть по центру чуть нижу курсора, экран максимально приближен. Если союзники тапают недостаточно быстро - имеет мизерный шанс сломать цыкл, но это ммало-вероятно.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 802 383
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1000 ms
+MoveTo 930 633
+Delay 500 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 500 ms
+MoveTo 1192 599
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 858 355
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 640 ms
+KeyDown 36 1
+Delay 64
+KeyUp 36 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 64
+MoveTo 1453 803
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 500 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 700 ms
+MoveTo 716 178
+Delay 100 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 400 ms
+MoveTo 1099 809
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1000 ms
+MoveTo 873 713
+Delay 100 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 100 ms
+MoveTo 762 762
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 100 ms
+GoWhile 67 30
+Delay 64
+MoveTo 1514 47
+Delay 200 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+GoWhile 75 10
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>State of Survival: Zombie War</Software>
+  </DefaultMacro>
+</Root>

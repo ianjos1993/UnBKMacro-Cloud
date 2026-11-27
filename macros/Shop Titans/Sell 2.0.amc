@@ -1,0 +1,53 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматом продаёт вещи с 2й ставкой.Клацает болталку для энергии  и отсеивает вещи без 2й ставки. просто но удобно. Разрешение 1980 * 1080 оконный режим с рамкой на весь экран.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1000 ms
+Delay 1000 ms
+Delay 1000 ms
+Delay 1000 ms
+Delay 1000 ms
+GoColor 15 1 255,186,24 255,255,255 2 1193 549 18 15 1 0
+MoveTo 681 664
+Delay 1000
+LeftDown 1
+Delay 68
+LeftUp 1
+Delay 68
+Delay 15000 ms
+GoWhile 1 9999
+MoveTo 528 552
+Delay 1000 ms
+LeftDown 1
+Delay 68
+LeftUp 1
+Delay 68
+Delay 1000 ms
+MoveTo 1252 661
+Delay 1000 ms
+LeftDown 1
+Delay 68
+LeftUp 1
+Delay 68
+Delay 1000 ms
+GoColor 1 1 255,186,24 255,255,255 2 1199 560 5 7 1 0
+MoveTo 1249 557
+Delay 500 ms
+Delay 1000 ms
+LeftDown 1
+Delay 68
+LeftUp 1
+Delay 68
+Delay 11000 ms</Syntax>
+    </KeyDown>
+    <Software>Shop Titans/Продажа вещей</Software>
+  </DefaultMacro>
+</Root>

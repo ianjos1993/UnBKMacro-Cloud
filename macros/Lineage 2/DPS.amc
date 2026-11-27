@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для соло/пати кача лучником/магом. Макрос на бесконечном зацикливании клавиш: T F1 F2 F3 F4 F6 F7 F8 F9. Для включения нажать для отключения нажать на ту же клавишу. На клавише Т нужно ставить действие в игре (targetnext2)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 5
+KeyUp 23 1
+Delay 5
+KeyDown 58 1
+Delay 5
+KeyUp 58 1
+Delay 5
+KeyDown 59 1
+Delay 5
+KeyUp 59 1
+Delay 5
+KeyDown 60 1
+Delay 5
+KeyUp 60 1
+Delay 5
+KeyDown 61 1
+Delay 5
+KeyUp 61 1
+Delay 5
+KeyDown 63 1
+Delay 5
+KeyUp 63 1
+Delay 5
+KeyDown 64 1
+Delay 5
+KeyUp 64 1
+Delay 5
+KeyDown 65 1
+Delay 5
+KeyUp 65 1
+Delay 5
+KeyDown 66 1
+Delay 5
+KeyUp 66 1
+Delay 5</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

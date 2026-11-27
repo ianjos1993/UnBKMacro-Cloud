@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>быстрый хом макрос настолько прост, но полезен, почти на всех серверах есть команда для тп домой и она одинакова, чтобы ее не вводить используй этот макрос
+</Description>
+    <Comment>вводит команду /home за мгновение</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 88 1
+Delay 10 ms
+KeyUp 88 1
+Delay 10 ms
+KeyDown 56 1
+Delay 10 ms
+KeyUp 56 1
+Delay 10 ms
+KeyDown 11 1
+Delay 10 ms
+KeyUp 11 1
+Delay 10 ms
+KeyDown 18 1
+Delay 10 ms
+KeyUp 18 1
+Delay 10 ms
+KeyDown 16 1
+Delay 10 ms
+KeyUp 16 1
+Delay 10 ms
+KeyDown 8 1
+Delay 10 ms
+KeyUp 8 1
+Delay 10 ms
+KeyDown 88 1
+Delay 10 ms
+KeyUp 88 1</Syntax>
+    </KeyDown>
+    <Software>unturned</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This script allows for the character to automatically sleep. Useful for farming money with wind and solar generators. Used with the 9:00 wake up time. Used for 1920 x 1080 screen resolution.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64 ms
+MoveTo 532 551
+Delay 500 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 21 s
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Farming Simulator 22</Software>
+  </DefaultMacro>
+</Root>

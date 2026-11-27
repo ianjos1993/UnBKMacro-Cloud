@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос создан для снайперок,хотя в принципе на дроби его тоже можно использовать
+При выстреле идет смена оружия и вам не придется заморачиваться с этим</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 22 ms
+LeftUp 1
+KeyDown 32 1
+Delay 22 ms
+KeyUp 32 1
+KeyDown 30 1
+Delay 22 ms
+KeyUp 30 1
+Delay 32 ms
+Delay 440 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

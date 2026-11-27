@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>binds to q and e
+Use to quick peak corners with minimal effort  
+You might also need to change the side button input to your in game lean button bind if you dont have side buttons.
+This macro will get you easy kills and win you more gunfights!
+
+</Description>
+    <Comment>Good luck operator!</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Button5Down 1
+Delay 20 ms
+Button5up 1
+Delay 20 ms
+KeyDown 7 1
+Delay 120 ms
+KeyUp 7 1
+Delay 75 ms
+KeyDown 4 1
+Delay 20 ms
+Button5Down 1
+Delay 20 ms
+Button5up 1
+Delay 95 ms
+KeyUp 4 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,85 @@
+<Root>
+  <DefaultMacro>
+    <Major>GrandRP Divide items in house robbery 2 stars house</Major>
+    <Description>This tool splits the stuff you rob from the house robbery in GrandRP into 2 parts per slot, so you don't have to do this work and you only have to carry the stuff from the location and don't have to split it yourself. If you have a lv 4 backpack, you can of course change the macro to your desired size or use this macro in other areas outside of the house robbery. But this tool is actually meant for that, as it perfectly divides all 3 different items (furniture, box of stuff, TV) perfectly. I used Full HD</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1263 428
+Delay 80 ms
+LeftDown 1
+Delay 300 ms
+LeftUp 1
+Delay 500 ms
+MoveTo 1483 572
+Delay 300 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 500 ms
+KeyDown 31 1
+Delay 80 ms
+KeyUp 31 1
+Delay 300 ms
+MoveTo 924 723
+Delay 300 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 500 ms
+GoWhile 1 4
+MoveTo 1153 436
+Delay 300 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 500 ms
+MoveTo 1374 570
+Delay 300 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 500 ms
+KeyDown 31 1
+Delay 30 ms
+KeyUp 31 1
+Delay 300 ms
+MoveTo 924 723
+Delay 300 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 500 ms
+GoWhile 24 4
+MoveTo 1039 432
+Delay 300 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 500 ms
+MoveTo 1259 568
+Delay 300 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 500 ms
+KeyDown 31 1
+Delay 80 ms
+KeyUp 31 1
+Delay 300 ms
+MoveTo 924 723
+Delay 300 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 500 ms
+GoWhile 47 4</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

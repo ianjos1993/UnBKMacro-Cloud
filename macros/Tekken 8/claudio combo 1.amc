@@ -1,0 +1,86 @@
+<Root>
+  <DefaultMacro>
+    <Major>claudio combo 1</Major>
+    <Description>Комбо макрос для персонажа Claudio Serafino в игре Tekken 8
+
+Хейхачи Мишима, лидер Мишима Зайбацу, связался с Лучниками Сириуса, попросив их стать частью его конгломерата. Когда Клаудио отклонил просьбу, Хейхачи отправился на базу Лучников Сириуса, Дуомо ди Сирио, чтобы заставить Клаудио присоединиться к нему. Первоначально Клаудио отказался идти с ним; однако после поражения от Хейхачи в бою у него не было другого выбора, кроме как подчиниться. Хейхачи объяснил, что ему нужна помощь Клаудио в подчинении дьявольской формы Казуи Мишимы.
+
+Видео демонстрация макроса - https://youtu.be/2kgPSOitR6A
+Тестировалось на последней версии игры.
+
+Настройки в программе для корректного выполнения макроса:
+1. Использовать драйвер.
+2. Отключить использование минимальной задержки.
+
+
+Настройки управления в игре:
+1 - Num 4
+2 - Num 5
+3 - Num 1
+4 - Num 2
+Up - W
+Down - S
+Left - A
+Right - D
+
+Если макрос не работает обращаться - https://keyran.net/discord
+Либо к автору макроса, также по вопросам написания макросов - hersonaep (discord)
+
+#tekken #tekken8 #claudio #keyran</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 7 ms
+KeyDown 26 1
+Delay 32 ms
+KeyDown 90 1
+Delay 95 ms
+KeyUp 90 1
+Delay 40 ms
+KeyUp 26 1
+Delay 7 ms
+KeyUp 7 1
+Delay 576 ms
+KeyDown 4 1
+Delay 39 ms
+KeyDown 93 1
+Delay 104 ms
+KeyUp 4 1
+Delay 8 ms
+KeyUp 93 1
+Delay 575 ms
+KeyDown 7 1
+Delay 56 ms
+KeyUp 7 1
+Delay 63 ms
+KeyDown 7 1
+Delay 88 ms
+KeyUp 7 1
+Delay 47 ms
+KeyDown 89 1
+KeyDown 93 1
+Delay 87 ms
+KeyUp 89 1
+KeyUp 93 1
+Delay 1487 ms
+KeyDown 4 1
+Delay 24 ms
+KeyDown 90 1
+Delay 80 ms
+KeyUp 90 1
+Delay 39 ms
+KeyUp 4 1
+Delay 31 ms
+KeyDown 93 1
+Delay 88 ms
+KeyUp 93 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

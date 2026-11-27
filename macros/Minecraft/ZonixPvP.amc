@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Топовый макро для пвп на зониксе, OmegaRebirth и т.д. Вынесет любого. Надо зажимать клавишу что бы макро работало.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+RightDown 1
+Delay 13 ms
+RightUp 1
+Delay 13 ms
+RightDown 1
+Delay 8 ms
+RightUp 1
+Delay 8 ms
+KeyDown 32 1
+Delay 1 ms
+KeyUp 32 1
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 2 ms
+LeftDown 1
+Delay 6 ms
+LeftUp 1
+Delay 7 ms
+LeftDown 1
+Delay 11 ms
+LeftUp 1
+Delay 12 ms
+Delay 1 ms
+KeyUp 30 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Хотите быстро выпить колы? Вот что нужно сделать:
+
+
+1 Положите колу во второй слот.
+
+2 Нажмите кнопку, на которую вы назначили макрос.
+разрешение экрана 1920 x 1200
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 150 ms
+MoveTo 654 597
+Delay 30 ms
+LeftDown 1
+Delay 30 ms
+Goto 1
+GoWhile 1 5</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

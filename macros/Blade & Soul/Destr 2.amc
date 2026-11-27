@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Основная ротация для второго спека на Дестре учитывает откат скиллов при разрешении экрана 2560x1440 в оконном режиме без рамок (корректируйте условие цвета по мере необходимости).
+
+Назначьте макрос на клавишу по инструкции: https://keyran.net/ru/wiki/?p=hotkey#create
+Активируйте Keyran по инструкции: https://keyran.net/ru/wiki/?p=hotkey#start
+Нажмите клавишу, к которой привязан макрос.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 4 1 111,103,97 255,255,255 2 1008 1219 41 45 1 0
+KeyDown 8 1
+Delay 4 ms
+KeyUp 8 1
+Delay 4 ms
+GoColor 10 1 117,74,66 255,255,255 2 1240 1294 37 38 1 0
+KeyDown 27 1
+Delay 4 ms
+KeyUp 27 1
+Delay 4 ms
+RightDown 1
+Delay 4 ms
+RightUp 1
+GoColor 19 1 73,61,63 255,255,255 2 1288 1220 42 36 1 0
+GoColor 19 1 91,21,90 255,255,255 2 1288 1220 42 36 1 0
+KeyDown 32 1
+Delay 4 ms
+KeyUp 32 1
+Delay 4 ms
+GoColor 23 1 111,103,97 255,255,255 2 1008 1219 41 45 1 0
+KeyDown 8 1
+Delay 4 ms
+KeyUp 8 1
+RightDown 1
+Delay 4 ms
+RightUp 1
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

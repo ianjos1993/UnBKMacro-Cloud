@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>A better version of Shatter Skate for Hunter. Supposedly the timing also works for Warlock
+
+Video
+https://www.youtube.com/watch?v=pjuxX-zY1A8&amp;ab_channel=TheLegend</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 100 ms
+RightUp 1
+Delay 25 ms
+KeyDown 44 1
+Delay 30 ms
+KeyDown 27 1
+//Replace with the key that you use for Air Move
+Delay 30 ms
+KeyUp 44 1
+Delay 20 ms
+KeyUp 27 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Destiny 2</Software>
+  </DefaultMacro>
+</Root>

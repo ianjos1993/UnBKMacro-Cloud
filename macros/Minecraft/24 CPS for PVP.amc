@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major>24 CPS for PVP</Major>
+    <Description>Благодаря этого макросу у вас будет большое преимущество в пвп на серверах. Лично я забиндил его на кнопку X. Псоле нажатия то точке прицела будет нажиматься ЛКМ 24 раза в секунду, при этом можно свободно двигаться и перемещать прицел. Отключается макрос повторным нажатием на кнопку. Так же за этот макрос вас не забанят</Description>
+    <Comment>Проверял на VimeWorld</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 20 ms
+LeftUp 1
+Delay 20 ms
+GoWhile 1 5000</Syntax>
+    </KeyDown>
+    <Software>minecraft</Software>
+  </DefaultMacro>
+</Root>

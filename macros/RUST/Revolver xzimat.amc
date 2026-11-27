@@ -1,0 +1,55 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на револьвер от XZIMAT
+Хороший макрос зажимать на метров 20-30 очень полезно
+Для всех мышек
+Настройки игры
+Чувствительность мыши: 0.8
+Поле зрения игрока: 90
+
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 5 ms
+MoveR 0 3
+Delay 20 ms
+MoveR 0 3
+Delay 20 ms
+MoveR 0 2
+Delay 20 ms
+MoveR 0 2
+Delay 20 ms
+MoveR 0 2
+Delay 20 ms
+MoveR 0 2
+Delay 5 ms
+LeftUp 1
+Delay 20 ms
+LeftDown 1
+Delay 5 ms
+MoveR 0 2
+Delay 20 ms
+MoveR 0 2
+Delay 20 ms
+MoveR 0 2
+Delay 20 ms
+MoveR 0 2
+Delay 20 ms
+MoveR 0 3
+Delay 20 ms
+MoveR 0 3
+Delay 5 ms
+LeftUp 1
+Delay 61 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

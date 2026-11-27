@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Я предлагаю использовать этот макрос для оружия Formless в игре Locked. Макрос поворачивает вас на 180 градусов и активирует Formless. Для наилучшего результата рекомендую установить разрешение экрана 1920x1080, а чувствительность в Roblox — 0.5.  
+Для использования включите шифт-лок, наведите курсор на ворота и активируйте макрос.</Description>
+    <Comment>Я предлагаю использовать этот макрос для оружия Formless в игре Locked. Макрос поворачивает вас на 180 градусов и активирует Formless. Для наилучшего результата рекомендую установить разрешение экрана 1920x1080, а чувствительность в Roblox — 0.5.  
+Для использования включите шифт-лок, наведите курсор на ворота и активируйте макрос.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR -870 0
+MoveR 0 -360
+Delay 30 ms
+KeyDown 21 1
+Delay 15 ms
+RightDown 1
+Delay 15 ms
+KeyUp 21 1
+Delay 15 ms
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

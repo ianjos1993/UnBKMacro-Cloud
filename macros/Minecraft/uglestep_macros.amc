@@ -1,0 +1,60 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для Omega 1.7.10 , а точнее уже CubixCraft , так как там неизвестная пвп система написал как есть , в макросе много урона и создан для жима и только для неё , свапаеться с 9 слота и при свапе залетаете в жимуу и при заходе урон большой а хила не много , влево вправо мансите и урон колосальный и так можно очень легко убить .
+1 - меч
+3 - фрост
+20(21) , 6(7)</Description>
+    <Comment>fasdfasd</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 0 ms
+Delay 0 ms
+Delay 0 ms
+Delay 9 ms
+LeftUp 1
+KeyDown 30 1
+KeyUp 30 1
+RightDown 1
+Delay 0 ms
+Delay 4 ms
+Delay 0 ms
+Delay 6 ms
+LeftDown 1
+Delay 3 ms
+Delay 2 ms
+LeftUp 1
+Delay 3 ms
+Delay 2 ms
+LeftUp 1
+Delay 2 ms
+Delay 20 ms
+RightUp 1
+Delay 9 ms
+LeftDown 1
+Delay 11 ms
+LeftUp 1
+Delay 8 ms
+RightDown 1
+LeftUp 1
+KeyDown 32 1
+KeyUp 32 1
+RightDown 1
+Delay 11 ms
+Delay 7 ms
+LeftDown 1
+Delay 10 ms
+Delay 15 ms
+SayString 
+
+</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

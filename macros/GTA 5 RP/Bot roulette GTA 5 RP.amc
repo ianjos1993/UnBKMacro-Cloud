@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос при активации авоматически ставит указанные вами фишки на первый сектор и "19-36".
+Работает на разрешении 1920х1080 в формате 16:9, ОКОННЫЙ РЕЖИМ.
+Перед тем, как включить макрос:
+1. Встаём за стол.
+2. Вписываем кол-во фишек, на которое будем играть (советую ставить 1/10 от вашего общего кол-ва фишек).
+3. Активируем макрос.
+При выпадении первого сектора вы получаете х1.5 от ставки, а при выпадении "19-36" уходите в ноль.
+Можно поставить на долгое время.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1001 725
+Delay 150 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1439 779
+Delay 150 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 100 ms</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

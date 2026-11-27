@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для игры Roblox в плейсе The Stronghest Battleground, макрос предназначен для персонажа Hero Hunter. Макрос делает апперкот и после этого делает 3-ю способность.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 400 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 400 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 600 ms
+KeyDown 44 1
+Delay 10 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyUp 44 1
+LeftDown 1
+KeyDown 26 1
+Delay 450 ms
+KeyUp 26 1
+Delay 1 ms
+KeyDown 32 1
+Delay 20 ms
+KeyUp 32 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

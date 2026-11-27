@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Для прокаста вам нужно иметь предметы: либо потрошитель, либо костолом во 2 слоте, а так же клинок падшего короля и в рунах иметь решительное наступление, благодаря этим рунам и предметам вы шотните любого врага, у которого нет 3к брони)), под конец можно ещё кинуть игнайт, а можно и в начале прокаста, всё зависит от врага, на которого вы кастуете. опять же, кастуя всё, нужно что бы курсор был наведён на врага.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 444 ms
+KeyDown 26 1
+Delay 12 ms
+KeyUp 26 1
+Delay 895 ms
+KeyDown 31 1
+Delay 96 ms
+KeyUp 31 1
+Delay 232 ms
+KeyDown 20 1
+Delay 167 ms
+KeyUp 20 1
+Delay 335 ms
+KeyDown 8 1
+Delay 111 ms
+KeyUp 8 1</Syntax>
+    </KeyDown>
+    <Software>League of legends</Software>
+  </DefaultMacro>
+</Root>

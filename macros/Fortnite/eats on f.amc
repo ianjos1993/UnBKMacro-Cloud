@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>самый легитный макрос на редакт фортнайт с его помощью вы сможете играть в творку и  арену и показывать дикий трайхард друзьям</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 105 ms
+KeyUp 9 1
+Delay 105 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 55 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

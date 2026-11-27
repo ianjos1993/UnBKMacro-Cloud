@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>q-флакс
+e-спарка
+r-ультимейт
+tab- переключить героя
+Макрос позволяет активировать ультимейт на наведенную мышку и туда же ставить 2 спарки и кидает 2 флакса. Рекомендую наводиться сразу на цель.Работает на любое разрешение экрана</Description>
+    <Comment>Макрос позволяет активировать ультимейт на наведенную мышку и туда же ставить 2 спарки и кидает 2 флакса. Рекомендую наводиться сразу на цель.Работает на любое разрешение экрана</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+KeyUp 21 1
+KeyDown 20 1
+KeyUp 20 1
+KeyDown 43 1
+KeyUp 43 1
+KeyDown 20 1
+KeyUp 20 1
+KeyDown 8 1
+KeyUp 8 1
+KeyDown 43 1
+KeyUp 43 1
+KeyDown 8 1
+KeyUp 8 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

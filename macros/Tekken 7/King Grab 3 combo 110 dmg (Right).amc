@@ -1,0 +1,71 @@
+<Root>
+  <DefaultMacro>
+    <Major>King Grab 3 combo 110 dmg (Right Side)</Major>
+    <Description>King Grab 3 combo 110 dmg (Right Side) Этот макрос предназначен для выполнения комбо в игре под названием Теккен 7 с помощью одной кнопки. В данном случае это захват для персонажа Кинг. Чтобы сделать этот захват, нужно находиться справа от вашего противника и управление должно быть установлено по-умолчанию с настройкой шифтов как у меня (Бросок ЛР+ЛН - RB, Бросок ПН+ПР - RT, ЛР+ПР - LB, ЛН+ПН - LT, ЛР+ПН - R (stick), ЛН+ПР - L (stick). Так-же есть такой же макрос, но для левой стороны под названием King Grab (110 dmg) (Left SIde). Макрос проверен в многочисленных онлайн боях. Проблемы могут быть только из-за вашего не стабильного интернет соединения с противником, а так-же этот макрос работает только при стабильной частоте кадров игры 59-60 фпс. Вы можете посмотреть другие мои макросы для альтернативных бойцов.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 80 1
+Delay 64
+KeyUp 80 1
+Delay 64
+KeyDown 81 1
+Delay 28
+KeyDown 80 1
+Delay 28
+KeyUp 81 1
+KeyUp 80 1
+Delay 28
+KeyDown 17 1
+Delay 28 ms
+KeyUp 17 1
+Delay 28 ms
+KeyUp 6 1
+Delay 600 ms
+KeyDown 12 1
+Delay 28
+KeyUp 12 1
+Delay 28
+KeyDown 24 1
+Delay 28
+KeyUp 24 1
+Delay 28
+KeyDown 13 1
+KeyDown 24 1
+KeyDown 12 1
+Delay 28
+KeyUp 13 1
+KeyUp 24 1
+KeyUp 12 1
+Delay 1700 ms
+KeyDown 18 1
+Delay 28
+KeyUp 18 1
+Delay 28
+KeyDown 51 1
+Delay 28
+KeyUp 51 1
+Delay 28
+KeyDown 15 1
+Delay 28
+KeyUp 15 1
+Delay 28
+KeyDown 19 1
+Delay 28
+KeyUp 19 1
+Delay 28
+KeyDown 19 1
+KeyDown 13 1
+Delay 28
+KeyUp 13 1
+KeyUp 19 1
+Delay 28</Syntax>
+    </KeyDown>
+    <Software>Tekken 7</Software>
+  </DefaultMacro>
+</Root>

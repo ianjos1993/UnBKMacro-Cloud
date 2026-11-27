@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос предназначен для упрощения стрельбы. Поставьте сенсу в игре 0.7 и 1300dpi
+Забиндите макрос на левую кнопку мыши с выставленным режимом, "Повторять при нажатии". 
+Я использую разрешение 1728:1080. На обычном 16:9 макросс может не работать должным образом.
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 7 7
+Delay 6 ms
+MoveR 7 -7
+Delay 6 ms
+MoveR -7 -7
+Delay 6 ms
+MoveR -7 7
+Delay 6 ms</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

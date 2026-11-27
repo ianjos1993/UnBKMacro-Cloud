@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для режима Parkour. Делает wall climb boost. Чтобы сделать его вам нужно встать к стене и посмотреть вверх как можно ровнее, а дальше просто используете макрос. Чтобы сделать двойной, поверните голову обратно и используйте ещё раз. Разрешение 1920x1080.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы
+
+ </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 30
+KeyUp 44 1
+Delay 30
+MoveR 333 0
+Delay 30
+KeyDown 44 1
+Delay 30
+KeyUp 44 1
+Delay 30</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

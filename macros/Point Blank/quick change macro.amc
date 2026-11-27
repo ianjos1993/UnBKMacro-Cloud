@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>how to use this macro?
+
+use lmb button as the macro for more simple and etc,
+
+and you must use quick change or else it wont work beret will also make it more faster
+and for admin, yes you can use macro for shotgun/sniper/zombie killer</Description>
+    <Comment>for admin, and yes this is only for shotgun/sniper</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 297 ms
+KeyDown 32 1
+Delay 5 ms
+KeyUp 32 1
+Delay 0 ms
+KeyDown 30 1
+Delay 5 ms
+KeyUp 30 1
+Delay 5 ms
+KeyDown 32 1
+Delay 87 ms
+KeyDown 30 1</Syntax>
+    </KeyDown>
+    <Software>Point Blank</Software>
+  </DefaultMacro>
+</Root>

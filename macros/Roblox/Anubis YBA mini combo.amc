@@ -1,0 +1,79 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для игры "Your bizarre adventure" на стенд Anubis и стиль боя SwordStyle
+
+Прокачиваем анубис как вам удобно, но самое главное чтобы все способности были открыты.
+Переназначаем Enraged fury на Y, Cursed Blade на G и Afterimage на N.
+
+Прокачиваем SwordStyle на все способности и не переназначаем клавишу для Pierce Strike.
+
+Теперь ловим момент в пвп и юзаем макрос, противник не сможет выбраться из комбо(Если не использует Barrage и Dash назад, но это относится ко всем комбо)</Description>
+    <Comment>🍅Клубнику будешь?🍅</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 100
+LeftUp 1
+Delay 100
+LeftDown 1
+Delay 100
+LeftUp 1
+Delay 100
+LeftDown 1
+Delay 100
+LeftUp 1
+Delay 100
+LeftDown 1
+Delay 100
+LeftUp 1
+Delay 100
+LeftDown 1
+Delay 100
+LeftUp 1
+Delay 250 ms
+KeyDown 29 1
+Delay 100
+KeyUp 29 1
+Delay 250 ms
+KeyDown 23 1
+Delay 100
+KeyUp 23 1
+Delay 300 ms
+LeftDown 1
+Delay 100
+LeftUp 1
+Delay 100
+LeftDown 1
+Delay 100
+LeftUp 1
+Delay 100
+LeftDown 1
+Delay 100
+LeftUp 1
+Delay 100
+LeftDown 1
+Delay 100
+LeftUp 1
+Delay 100
+LeftDown 1
+Delay 100
+LeftUp 1
+Delay 100
+LeftDown 1
+Delay 100
+LeftUp 1
+Delay 100
+KeyDown 28 1
+Delay 100
+KeyUp 28 1
+Delay 2000 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

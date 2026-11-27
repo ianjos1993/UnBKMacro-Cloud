@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Ставь на Q!
+Заходи в игру !
+ПРИМЕЧАНИЕ:нужна быстрая смена оружие!
+А так же можно взять маску на + урон и -отдачу для лучшей игры и упращения убийства!
+НЕ ЗАБУДЬ ПРО ПЕРКИ!
+УДАЧИ И ХОРОШЕЙ ИГРЫ!                                                                                                                       </Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 16 ms
+KeyDown 32 1
+Delay 16 ms
+KeyUp 32 1
+KeyDown 30 1
+Delay 16 ms
+KeyUp 30 1
+Delay 475 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

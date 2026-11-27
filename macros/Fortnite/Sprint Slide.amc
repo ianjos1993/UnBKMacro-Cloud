@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major>[Fixed] Sprint Slide</Major>
+    <Description>[RU]
+[Улучшено] Оптимизирована задержка перед приседанием для плавной работы.
+Этот макрос помогает эффективно экономить выносливость при беге. Он чередует спринт и скольжение, позволяя покрывать большие расстояния с минимальными затратами энергии.
+
+
+
+Как это работает:
+
+Спринт: Макрос активирует бег, а затем скольжение для оптимального использования выносливости.
+
+
+Назначение клавиш:
+
+Бег: Caps Lock
+
+Скольжение: Shift
+
+
+Для наилучшего использования настройте переключение на удобное расстояние. Это обеспечит лучший контроль и плавные переходы движений.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 1 ms
+KeyUp 225 1
+Delay 50 ms
+KeyDown 57 1
+Delay 1 ms
+KeyUp 57 1
+Delay 1 s
+GoWhile 5 86400000</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

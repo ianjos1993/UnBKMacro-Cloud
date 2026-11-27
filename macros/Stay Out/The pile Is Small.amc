@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major>Быстрые удары для НГ ивента "куча мала"</Major>
+    <Description>Позволяет одним зажатием клавиши делать по 6+ ударов в секунду и убивать всех мгновенно, постоянно занимая 1 места в ивенте.</Description>
+    <Comment>На человеке макрос не работает, вам придётся сделать первое убийство без него.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 1 ms
+RightDown 1
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+RightDown 1
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+RightDown 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Stay Out</Software>
+  </DefaultMacro>
+</Root>

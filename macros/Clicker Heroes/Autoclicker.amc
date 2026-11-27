@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Быстрый автокликер, от вас требуется только развернуть игру на весь экран, назначить макрос на любую для вас удобную клавишу и навести прицел на монстра. Суть такова нужно навести на монстра, а затем нажать на кнопку которую вы назначили в качестве макроса.
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>Clicker Heroes</Software>
+  </DefaultMacro>
+</Root>

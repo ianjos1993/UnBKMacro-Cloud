@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major>Позволяет нажатием оджной клавиши закрыть любую вкладку браузера полезно для линивых людей :3</Major>
+    <Description>Позволяет нажатием оджной клавиши закрыть любую вкладку браузера полезно для линивых людей ставите на любую удобную вам клавишу позволяет заместо нажимания ctrl+w или наведения на крестик закрыть любую вкладку браузера (удачного использования)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyUp 224 1</Syntax>
+    </KeyDown>
+    <Software>Другие</Software>
+  </DefaultMacro>
+</Root>

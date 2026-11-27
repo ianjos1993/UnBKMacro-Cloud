@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Суперглайд рабочий в 22 сезоне 
+С минимальным таймингом и 90% шаносм 
+В папке C:\Users\Admin(или же имя ПК)\Saved Games\Respawn\Apex\local в файле settings
+Надо заменить две строчки на эти
+bind_US_standard "F10" "fps_max 30" 0
+bind_US_standard "F12" "fps_max 180" 0</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 67 1
+Delay 4 ms
+KeyDown 44 1
+Delay 38 ms
+KeyDown 6 1
+Delay 5 ms
+KeyDown 69 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,58 @@
+<Root>
+  <DefaultMacro>
+    <Major>Лучший макрос НА 34 Банку (Легкий пилкинг)</Major>
+    <Description>Работает только на 34 банке!
+Что нужно для коректной работы:
+1. Приехать на 34 банку
+2. Взять в руки удочку
+3. Запустить скрипт
+4. Радоваться пояманной рыбе!
+
+Обязательно ставим разрешение 1920х1080</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//Заброс
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+//Падение
+Delay 23000 ms
+GoColor 22 2 130,130,130 255,255,255 1 550 1010 999 71 1 0
+GoWhile 7 400
+//Закрытие катушки + Подмот (запас)
+LeftDown 1
+Delay 650 ms
+LeftUp 1
+Delay 3000 ms
+//Пилкинг
+RightDown 1
+Delay 290 310 ms
+RightUp 1
+Delay 2850 3150 ms
+GoColor 15 3 130,130,130 255,255,255 1 550 1010 999 71 1 0
+//Вытягивание
+GoColor 22 2 130,130,130 255,255,255 1 550 1010 999 71 1 0
+KeyDown 225 1
+LeftDown 1
+Delay 26500 ms
+//Поднятие рыбы
+RightDown 1
+Delay 3500 ms
+MoveTo 833 975
+Delay 100 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 3000 ms
+KeyUp 225 1
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Русская Рыбалка 4</Software>
+  </DefaultMacro>
+</Root>

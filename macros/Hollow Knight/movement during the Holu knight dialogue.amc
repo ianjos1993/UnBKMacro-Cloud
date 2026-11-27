@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>для использования подойдите к любому нпс у которого есть диалог и прожмите бинд и вы можете двигаться во время диалога</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 0 ms
+KeyUp 43 1
+Delay 0 ms
+KeyDown 26 1
+Delay 0 ms
+KeyUp 26 1
+Delay 0 ms
+KeyDown 43 1
+Delay 0 ms
+KeyUp 43 1
+Delay 0 ms</Syntax>
+    </KeyDown>
+    <Software>hollow knight</Software>
+  </DefaultMacro>
+</Root>

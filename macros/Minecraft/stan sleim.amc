@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>стан слейм. забиндите булаву на кнопку 5 в мышке. и держите в руках топор перед стан слеймом,и у вас получится стан слейм.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы,стан слейм. забиндите булаву на кнопку 5 в мышке. и держите в руках топор перед стан слеймом,и у вас получится стан слейм.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 9 ms
+Button5Down 1
+Delay 10 ms
+Button5up 1
+Delay 9 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

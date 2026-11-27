@@ -1,0 +1,55 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>добыча камня на автофармилке если окажеться что персонаж слишком рано идет в другую сторону можно переделать под свой стиль</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>
+//Конвертированный файл макроса 04 апреля 2022 10:18:11
+LeftDown 1
+Delay 600000 ms
+LeftUp 1
+Delay 64 ms
+KeyDown 56 1
+Delay 64 ms
+KeyUp 56 1
+Delay 64 ms
+KeyDown 21 1
+Delay 64 ms
+KeyUp 21 1
+KeyDown 8 1
+Delay 64 ms
+KeyUp 8 1
+Delay 64 ms
+KeyDown 19 1
+Delay 64 ms
+KeyUp 19 1
+Delay 64 ms
+KeyDown 4 1
+Delay 64 ms
+KeyUp 4 1
+Delay 64 ms
+KeyDown 12 1
+Delay 64 ms
+KeyUp 12 1
+Delay 64 ms
+KeyDown 21 1
+Delay 64 ms
+KeyUp 21 1
+Delay 64 ms
+KeyDown 88 1
+Delay 64 ms
+KeyUp 88 1
+Delay 64 ms
+GoWhile 2 1001
+</Syntax>
+    </KeyDown>
+    <Software>Sky block hypixel</Software>
+  </DefaultMacro>
+</Root>

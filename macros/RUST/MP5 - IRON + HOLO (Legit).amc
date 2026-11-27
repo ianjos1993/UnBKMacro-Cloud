@@ -1,0 +1,336 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Recoil Script for the MP5 in Rust. Works best with the Iron sight but can be used with the HOLO. This is meant to look legit so its not perfect. This assists your regular spray and makes it easier to perect the spray. 
+
+Instructions:
+
+1. Install the script
+2. Bind it to a key (I recommend MB1 or Scroll wheel)
+3. Set a bind to turn BotMek on and off so when you want to use it you press the key and hold Mouse1
+4. Have fun and destroy people in Rust!
+
+Works best with these settings:
+  - FOV 90 - 0.66
+
+This was tested on:
+  - 2080ti w/ 2700x
+  - 1920x1080
+  - Windows 10 20H2
+  - RUST via Steam
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 19 ms
+MoveR 0 4
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 4
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 3
+Delay 19 ms
+MoveR 0 5
+Delay 19 ms
+MoveR 0 5
+Delay 19 ms
+MoveR 0 4
+Delay 19 ms
+MoveR 0 5
+Delay 19 ms
+MoveR 0 4
+Delay 19 ms
+MoveR 0 5
+Delay 19 ms
+MoveR 0 5
+Delay 19 ms
+MoveR 0 5
+Delay 19 ms
+MoveR 0 5
+Delay 19 ms
+MoveR 0 6
+Delay 19 ms
+MoveR 2 5
+Delay 19 ms
+MoveR 2 5
+Delay 19 ms
+MoveR 2 5
+Delay 19 ms
+MoveR 2 5
+Delay 19 ms
+MoveR 1 5
+Delay 19 ms
+MoveR 6 6
+Delay 19 ms
+MoveR 5 5
+Delay 19 ms
+MoveR 5 4
+Delay 19 ms
+MoveR 4 4
+Delay 19 ms
+MoveR 4 4
+Delay 19 ms
+MoveR 5 4
+Delay 19 ms
+MoveR 5 4
+Delay 19 ms
+MoveR 6 4
+Delay 19 ms
+MoveR 5 3
+Delay 19 ms
+MoveR 4 3
+Delay 19 ms
+MoveR 4 2
+Delay 19 ms
+MoveR 4 2
+Delay 19 ms
+MoveR 4 2
+Delay 19 ms
+MoveR 3 2
+Delay 19 ms
+MoveR 4 2
+Delay 19 ms
+MoveR 0 2
+Delay 19 ms
+MoveR 0 2
+Delay 19 ms
+MoveR 0 2
+Delay 19 ms
+MoveR 0 2
+Delay 19 ms
+MoveR 0 1
+Delay 19 ms
+MoveR -3 2
+Delay 19 ms
+MoveR -3 2
+Delay 19 ms
+MoveR -4 2
+Delay 19 ms
+MoveR -2 1
+Delay 19 ms
+MoveR -2 1
+Delay 19 ms
+MoveR -4 2
+Delay 19 ms
+MoveR -4 2
+Delay 19 ms
+MoveR -4 1
+Delay 19 ms
+MoveR -4 1
+Delay 19 ms
+MoveR -4 2
+Delay 19 ms
+MoveR -3 1
+Delay 19 ms
+MoveR -3 1
+Delay 19 ms
+MoveR -3 1
+Delay 19 ms
+MoveR -3 1
+Delay 19 ms
+MoveR -4 2
+Delay 19 ms
+MoveR -1 1
+Delay 19 ms
+MoveR -1 1
+Delay 19 ms
+MoveR 0 1
+Delay 19 ms
+MoveR 0 1
+Delay 19 ms
+MoveR 0 1
+Delay 17 ms
+MoveR 2 2
+Delay 17 ms
+MoveR 1 1
+Delay 17 ms
+MoveR 1 1
+Delay 17 ms
+MoveR 1 1
+Delay 17 ms
+MoveR 1 0
+Delay 19 ms
+MoveR 2 1
+Delay 19 ms
+MoveR 2 1
+Delay 19 ms
+MoveR 2 1
+Delay 19 ms
+MoveR 2 0
+Delay 19 ms
+MoveR 2 0
+Delay 19 ms
+MoveR 3 1
+Delay 19 ms
+MoveR 3 1
+Delay 19 ms
+MoveR 3 1
+Delay 19 ms
+MoveR 2 1
+Delay 19 ms
+MoveR 2 0
+Delay 19 ms
+MoveR 3 1
+Delay 19 ms
+MoveR 3 1
+Delay 19 ms
+MoveR 2 1
+Delay 19 ms
+MoveR 2 0
+Delay 19 ms
+MoveR 2 0
+Delay 19 ms
+MoveR 2 1
+Delay 19 ms
+MoveR 2 0
+Delay 19 ms
+MoveR 2 0
+Delay 19 ms
+MoveR 2 0
+Delay 19 ms
+MoveR 1 0
+Delay 19 ms
+MoveR 2 1
+Delay 19 ms
+MoveR 1 1
+Delay 19 ms
+MoveR 1 0
+Delay 19 ms
+MoveR 1 0
+Delay 19 ms
+MoveR 1 0
+Delay 19 ms
+MoveR -1 1
+Delay 19 ms
+MoveR -1 0
+Delay 19 ms
+MoveR 0 0
+Delay 19 ms
+MoveR 0 0
+Delay 19 ms
+MoveR 0 0
+Delay 19 ms
+MoveR -1 1
+Delay 19 ms
+MoveR -1 0
+Delay 19 ms
+MoveR -1 0
+Delay 19 ms
+MoveR -1 0
+Delay 19 ms
+MoveR 0 0
+Delay 19 ms
+MoveR -1 1
+Delay 19 ms
+MoveR -1 0
+Delay 19 ms
+MoveR -1 0
+Delay 19 ms
+MoveR -1 0
+Delay 19 ms
+MoveR -1 0
+Delay 19 ms
+MoveR -2 0
+Delay 19 ms
+MoveR -2 0
+Delay 19 ms
+MoveR -2 0
+Delay 19 ms
+MoveR -1 0
+Delay 19 ms
+MoveR -1 0
+Delay 19 ms
+MoveR -2 0
+Delay 19 ms
+MoveR -2 0
+Delay 19 ms
+MoveR -2 0
+Delay 19 ms
+MoveR -2 0
+Delay 19 ms
+MoveR -2 0
+Delay 19 ms
+MoveR -2 -1
+Delay 19 ms
+MoveR -2 0
+Delay 19 ms
+MoveR -2 0
+Delay 19 ms
+MoveR -2 0
+Delay 19 ms
+MoveR -2 0
+Delay 19 ms
+MoveR -2 0
+Delay 19 ms
+MoveR -2 0
+Delay 19 ms
+MoveR -2 0
+Delay 19 ms
+MoveR -2 0
+Delay 19 ms
+MoveR -2 0
+Delay 17 ms
+MoveR -2 0
+Delay 17 ms
+MoveR -2 0
+Delay 17 ms
+MoveR -2 0
+Delay 17 ms
+MoveR -2 0
+Delay 17 ms
+MoveR -2 0
+Delay 19 ms
+MoveR -2 -1
+Delay 19 ms
+MoveR -2 0
+Delay 19 ms
+MoveR -2 0
+Delay 19 ms
+MoveR -1 0
+Delay 19 ms
+MoveR -1 0
+Delay 19 ms
+MoveR -2 0
+Delay 19 ms
+MoveR -2 0
+Delay 19 ms
+MoveR -1 0
+Delay 19 ms
+MoveR -1 0
+Delay 19 ms
+MoveR -1 0
+Delay 19 ms
+MoveR -1 0
+Delay 19 ms
+MoveR -1 0
+Delay 19 ms
+MoveR -1 0
+Delay 19 ms
+MoveR -1 0
+Delay 19 ms
+MoveR -1 0
+Delay 19 ms
+MoveR -1 0
+Delay 19 ms
+MoveR 0 0
+Delay 19 ms
+MoveR 0 0
+Delay 19 ms
+MoveR 0 0
+Delay 19 ms
+MoveR 0 0
+LeftUp 1
+DelayS 1 s</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

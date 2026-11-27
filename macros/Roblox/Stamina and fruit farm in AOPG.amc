@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Фарм статистики в A One Piece Game(стамина и фрукт) с помощью Ope Ope no mi(Операция).Для того что бы макрос работал,нужно встать в определённую позицию(Что бы первое положение курсора было на дереве;заборе;крыше и т.д.).
+P.S. мое разрешение экрана- 1920x1080</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1000 ms
+MoveTo 830 208
+Delay 1000 ms
+LeftDown 1
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+MoveTo 1376 220
+Delay 2000 ms
+KeyDown 21 1
+Delay 1000 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

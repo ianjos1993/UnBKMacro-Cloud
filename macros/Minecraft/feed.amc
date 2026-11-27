@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос для насышения во время фарма мобов чтобы вы не сгорели и не умерли от голода в случае чего то тогда вам нужен этот макрос </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 20 ms
+KeyUp 23 1
+Delay 20 ms
+KeyDown 84 1
+Delay 20 ms
+KeyUp 84 1
+Delay 20 ms
+KeyDown 9 1
+Delay 20 ms
+KeyUp 9 1
+Delay 20 ms
+KeyDown 8 1
+Delay 20 ms
+KeyUp 8 1
+Delay 20 ms
+KeyDown 8 1
+Delay 20 ms
+KeyUp 8 1
+Delay 20 ms
+KeyDown 7 1
+Delay 20 ms
+KeyUp 7 1
+Delay 20 ms
+KeyDown 88 1
+Delay 20 ms
+KeyUp 88 1
+Delay 5 min
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

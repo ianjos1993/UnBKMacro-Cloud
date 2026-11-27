@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>простой макрос для афк фарма пыльцы в Bee Swarm Simulator. Позволяет спокойно собирать пыльцу по прямой</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 700 ms
+KeyUp 26 1
+Delay 2000 ms
+KeyDown 26 1
+Delay 700 ms
+KeyUp 26 1
+Delay 2000 ms
+KeyDown 26 1
+Delay 700 ms
+KeyUp 26 1
+Delay 2000 ms
+KeyDown 26 1
+Delay 700 ms
+KeyUp 26 1
+Delay 2000 ms
+KeyDown 22 1
+Delay 700 ms
+KeyUp 22 1
+Delay 2000 ms
+KeyDown 22 1
+Delay 700 ms
+KeyUp 22 1
+Delay 2000 ms
+KeyDown 22 1
+Delay 700 ms
+KeyUp 22 1
+Delay 2000 ms
+KeyDown 22 1
+Delay 700 ms
+KeyUp 22 1
+Delay 2000 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

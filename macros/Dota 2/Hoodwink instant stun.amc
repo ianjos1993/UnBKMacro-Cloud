@@ -1,0 +1,56 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>НА БЕЛКЕ
+Моментально кидается желудь и сетка, что позволяет быстро поймать врага.
+1 - q
+2 - w
+(Курсор должен находится рядом с врагом.)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 226 1
+KeyDown 20 1
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 30 ms
+KeyUp 226 1
+KeyUp 20 1
+Delay 30 ms
+KeyDown 20 1
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 30 ms
+KeyUp 20 1
+Delay 30 ms
+KeyDown 26 1
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 30 ms
+KeyUp 26 1
+Delay 30 ms
+KeyDown 226 1
+KeyDown 20 1
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 30 ms
+KeyUp 226 1
+KeyUp 20 1
+Delay 30 ms</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

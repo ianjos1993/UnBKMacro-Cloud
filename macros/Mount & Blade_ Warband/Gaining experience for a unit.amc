@@ -1,0 +1,68 @@
+<Root>
+  <DefaultMacro>
+    <Major>Макрос начисляет опыт юниту во вкладке "Отряд".</Major>
+    <Description>Макрос начисляет опыт юниту во вкладке "Отряд".
+В игре M&amp;B Warband можно добавить опыт юниту(не спутнику) с помощью комбинации клавиш "CTRL"+"X", при этом выбрав нужный юнит во вкладке "Отряд".
+Данное сочетание начисляет 100 опыта юниту. По игровым меркам, для прокачки юнита на высокий уровень этого мало. Теперь вам не придется сотни раз повторят данную комбинацию,
+Данный макрос помогает при прокачке юнита до высокого ранга.
+Рекомендуется устанавливать настройку макроса "Активен при удержании клавиши".
+Также для работоспособности макроса требуется включить "Читы" в лаунчере игры перед запуском.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+KeyDown 27 1
+KeyUp 27 1
+KeyDown 27 1
+KeyUp 27 1
+KeyDown 27 1
+KeyUp 27 1
+KeyDown 27 1
+KeyUp 27 1
+KeyDown 27 1
+KeyUp 27 1
+KeyDown 27 1
+KeyUp 27 1
+KeyDown 27 1
+KeyUp 27 1
+KeyDown 27 1
+KeyUp 27 1
+KeyDown 27 1
+KeyUp 27 1
+KeyDown 27 1
+KeyUp 27 1
+KeyDown 27 1
+KeyUp 27 1
+KeyDown 27 1
+KeyUp 27 1
+KeyDown 27 1
+KeyUp 27 1
+KeyDown 27 1
+KeyUp 27 1
+KeyDown 27 1
+KeyUp 27 1
+KeyDown 27 1
+KeyUp 27 1
+KeyDown 27 1
+KeyUp 27 1
+KeyDown 27 1
+KeyUp 27 1
+KeyDown 27 1
+KeyUp 27 1
+KeyDown 27 1
+KeyUp 27 1
+KeyDown 27 1
+KeyUp 27 1
+KeyDown 27 1
+KeyUp 27 1
+GoWhile 1 10</Syntax>
+    </KeyDown>
+    <Software>Mount &amp; Blade: Warband</Software>
+  </DefaultMacro>
+</Root>

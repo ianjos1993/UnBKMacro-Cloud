@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для авто фарма очков автоталантов. Макрос расчитан для машины Subaru IMPREZA 22B-STI WRX, на нее надо установить тюнинг из сообщества с кодом 158 634 020. После покупки и прокачки авто заходим в Творческий центр→Eventlab→участвовать в заезде→ поиск, ищем карту с кодом 890169683.Перед запуском макроса проезжаем 1 раз, ждем таблицу  с нашим результатом и запускаем макрос. Макрос позволяет нам фармить автоталанты в среднем 900 за час.P.S. для полноценного фарма в автоталантах нашей импрезы нужно прокачать " Вот тут и начинается веселье" и "Минмаксинг". Удачного фарма!) </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 8393 ms
+KeyDown 27 1
+Delay 128 ms
+KeyUp 27 1
+Delay 648 ms
+KeyDown 88 1
+Delay 119 ms
+KeyUp 88 1
+Delay 9637 ms
+KeyDown 88 1
+Delay 143 ms
+KeyUp 88 1
+Delay 3319 ms
+KeyDown 26 1
+Delay 25440 ms
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>Forza Horizon 6</Software>
+  </DefaultMacro>
+</Root>

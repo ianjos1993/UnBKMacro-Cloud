@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Быстрый ручник для машины (БАГАЮЗ). Моментальный тормоз на машине. Машина должна быть 1 в списке авто. Разрешение 2560*1440*32. Использование этого макроса может привести к БАНУ.
+
+Чтобы подстроить под свое разрешение надо: 5 строчку переместить на строчку с названием авто, 11 строчку на кнопку ручника, 17 строчку на закрытие меню</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 60 1
+Delay 64
+KeyUp 60 1
+Delay 64
+MoveTo 1272 682
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1179 857
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1514 652
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

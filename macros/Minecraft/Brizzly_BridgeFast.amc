@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос создан исключительно для строительства, так как в нём присуствует нажание на шифт.
+Описание макроса:
+Данный макрос как уже я говорил создан для бризли строительства на искосок.
+Инструкция использования:
+1.Скачиваем макрос.
+2.Биндим на удобную вами клавишу.
+3.Ставим макросна зажатие.
+4.Захоодим в игру.
+5.Становимся на край блока на искосок,так что-бы прицел был по середине.
+6.Нажимаем на выбраную вами клавишу и сразу нажимаем на S+D или на S+A, зависит от того как вам удобно строиться, с правой стороны или же с левой.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//Последнее обновление было 30.11.2021
+KeyDown 225 1
+Delay 95 ms
+RightDown 1
+Delay 1 ms
+RightUp 1
+Delay 1 ms
+KeyUp 225 1
+Delay 195 ms</Syntax>
+    </KeyDown>
+    <Software>minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,68 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Запуск триальной версии BimsBot!
+Запускать через файл сохраненного профиля!
+
+Наведите курсор на файл профиля и запустите макрос.
+Макрос на 2х часовой цикл т.е 12 запусков по 10 минут, что при желании можно изменить!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+DelayS 5 s
+//Подтверждение
+KeyDown 40 1
+Delay 64 ms
+KeyUp 40 1
+DelayS 3 s
+//Запуск (Tab 32раза)
+KeyDown 43 1
+Delay 16 ms
+KeyUp 43 1
+Delay 16 ms
+GoWhile 15 32
+KeyDown 40 1
+Delay 64 ms
+KeyUp 40 1
+Delay 64 ms
+//tools (tab 2, Arrow 5)
+KeyDown 43 1
+Delay 16 ms
+KeyUp 43 1
+Delay 16 ms
+GoWhile 25 2
+KeyDown 79 1
+Delay 64 ms
+KeyUp 79 1
+Delay 64 ms
+GoWhile 30 5
+Delay 10 min
+//Выключение tab 20
+KeyDown 43 1
+Delay 16 ms
+KeyUp 43 1
+Delay 16 ms
+GoWhile 36 20
+KeyDown 40 1
+Delay 64 ms
+KeyUp 40 1
+Delay 64 ms
+DelayS 5 s
+//повтор действий
+GoWhile 1 12</Syntax>
+    </KeyDown>
+    <Software>World of Warcraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,91 @@
+<Root>
+  <DefaultMacro>
+    <Major>Bryan snake combo</Major>
+    <Description>Макрос позволяет выполнять snake combo за Брайана.
+Видео демонстрации работы макроса: https://youtu.be/dMQkxeHX4O8
+
+Брайан Фьюри (Bryan Fury) —  персонаж серии файтингов Tekken. Впервые появился в Tekken 3, и он возвращался во все последующие игры Tekken, т.к сильно полюбился фанатам. Брайан когда-то был полицейским детективом, но теперь он реанимированный киборг-зомби, лишенный морали и склонный к насилию. У Брайана схожая боевка с некоторыми персонажами игры, а сам он сражается в стиле кикбоксинга. 
+
+Тестирование макроса проводились на последнем патче игры на 08.04.2023 (5.01 патч)
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#bryantekken7 #tekken7 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 71 ms
+KeyUp 22 1
+Delay 216 ms
+KeyDown 22 1
+Delay 7 ms
+KeyDown 7 1
+Delay 56 ms
+KeyDown 76 1
+Delay 559 ms
+KeyUp 22 1
+Delay 32 ms
+KeyUp 7 1
+Delay 120 ms
+KeyUp 76 1
+Delay 207 ms
+KeyDown 76 1
+Delay 144 ms
+KeyDown 77 1
+Delay 159 ms
+KeyUp 76 1
+Delay 607 ms
+KeyUp 77 1
+Delay 200 ms
+KeyDown 77 1
+Delay 151 ms
+KeyDown 76 1
+Delay 120 ms
+KeyUp 77 1
+Delay 79 ms
+KeyUp 76 1
+Delay 56 ms
+KeyDown 77 1
+Delay 112 ms
+KeyDown 76 1
+Delay 47 ms
+KeyUp 77 1
+Delay 39 ms
+KeyUp 76 1
+Delay 983 ms
+KeyDown 7 1
+Delay 47 ms
+KeyUp 7 1
+Delay 88 ms
+KeyDown 7 1
+Delay 184 ms
+KeyDown 74 1
+Delay 63 ms
+KeyUp 7 1
+Delay 23 ms
+KeyUp 74 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 7</Software>
+  </DefaultMacro>
+</Root>

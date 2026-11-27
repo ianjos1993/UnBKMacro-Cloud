@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>auto hatch eggs в игре arm wrestle simulator(Использовать с режимом работы, до следующего нажатия клавиши)
+инструкция:
+1.подойти к яйцу
+2.активировать макрос
+3.отойти от компа и чилить
+
+
+</Description>
+    <Comment>KeyRan-одна из самых лучших программ для найстройки макросов</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+LeftDown 1
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

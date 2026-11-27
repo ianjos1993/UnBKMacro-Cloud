@@ -1,0 +1,19 @@
+<Root>
+  <DefaultMacro>
+    <Major>Archer  Minor No Macro Detect</Major>
+    <Description>Assign it to any key and use the minor skill to the maximum limit allowed by the game without encountering macro protection errors. It's very suitable for archers and can be used in conjunction with 3-5 skill sets.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 38 1
+Delay 35
+KeyUp 38 1</Syntax>
+    </KeyDown>
+    <Software>Rise Online</Software>
+  </DefaultMacro>
+</Root>

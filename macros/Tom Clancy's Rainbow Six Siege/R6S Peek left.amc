@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>To use you have to bind your lean bind on your mouse buton on the left of your mouse 
+Back= Lean right
+Left= Lean left 
+its not a shaiko peek or something but its easy to use its just a left n right lean or right n left lean 
+happy use </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Button5Down 1
+Delay 40 ms
+Button5up 1
+Delay 40 ms
+Button4down 1
+Delay 40 ms
+Button4Up 1
+Delay 40 ms</Syntax>
+    </KeyDown>
+    <Software>Rainbox Six Siege</Software>
+  </DefaultMacro>
+</Root>

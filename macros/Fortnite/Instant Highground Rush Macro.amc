@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major>Instant Highground Rush Macro</Major>
+    <Description>Want to master high ground retakes and professional tunneling without breaking your fingers. This macro is exactly what you need. It automates the entire advanced building and editing sequence in milliseconds. With a single click it perfectly sequences Ramp, Wall, Floor, Cone followed by an instant fluid Edit to keep you moving upwards flawlessly.
+
+Key Features:
+- Full Protection: Builds a complete secure tunnel while rushing.
+- Instant Edits: Perfectly timed with 100ms delays to prevent building blocks or getting stuck.
+- Zero Effort: Turns a complex 21 step key combo into a one button execution.
+
+Note: Make sure your in game keybinds match the macro keys V, Q, X, F, C for flawless execution.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 25 1
+KeyUp 25 1
+Delay 100 ms
+KeyDown 20 1
+KeyUp 20 1
+KeyDown 20 1
+KeyUp 20 1
+Delay 100 ms
+KeyDown 27 1
+KeyUp 27 1
+KeyDown 9 1
+KeyUp 9 1
+Delay 100 ms
+KeyDown 6 1
+KeyUp 6 1
+KeyDown 9 1
+KeyUp 9 1
+KeyDown 9 1
+KeyUp 9 1
+Delay 100 ms
+KeyDown 25 1
+KeyUp 25 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

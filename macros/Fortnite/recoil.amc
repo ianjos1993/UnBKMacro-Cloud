@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Sneak recoil thing. Just bind it to a key and u can use it. Shift space for fortnite you can just sneak faster then anyone else trust. its infinite cant get banned, Fast, made on 07.08.2020 (german time)...</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 200 ms
+KeyUp 225 1
+Delay 200 ms
+KeyDown 44 1
+Delay 200 ms
+KeyUp 44 1
+Delay 200 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

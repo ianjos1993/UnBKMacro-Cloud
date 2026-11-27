@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>Настройка: Зажать, чтобы запустить, отпустить, чтобы остановить (Второй значек в пенели настройки макросов, а после второй пункт)</Major>
+    <Description>Макрос позволяет зажимать с пистолетов + есть совсем не большое подавление отдачи с автоматов
+Можно забиндить на боковую клавишу мышки , либо ЛКМ, в общем как вам удобно
+
+
+Если что-то не корректно будет работать, вы можете обратиться ко мне:
+https://vk.com/idnikitusha</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 25 ms
+LeftUp 1
+Delay 25 ms
+LeftDown 1
+Delay 25 ms
+LeftUp 1
+Delay 25 ms</Syntax>
+    </KeyDown>
+    <Software>Super Animal Royale</Software>
+  </DefaultMacro>
+</Root>

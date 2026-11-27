@@ -1,0 +1,135 @@
+<Root>
+  <DefaultMacro>
+    <Major>Heihachi wall blast</Major>
+    <Description>Макрос позволяет выполнять комбо за Heihachi комбинацию у стены.
+Видео демонстрации работы макроса: https://youtu.be/dGDbMZmFPTQ
+
+Хэихати Мисима является основателем корпорации Mishima Zaibatsu и ключевой фигурой конфликта внутри семьи Мисима. Образ строится на принципах жесткой дисциплины, авторитарного управления и приоритета силы как универсального инструмента влияния. Характеризуется стратегическим мышлением, склонностью к манипулированию и готовностью применять крайние меры для достижения цели. 
+
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 24.02.2026
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ.
+
+#Heihachitekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 62 ms
+KeyDown 7 1
+Delay 97 ms
+KeyDown 93 1
+Delay 7 ms
+KeyUp 22 1
+Delay 235 ms
+KeyUp 7 1
+Delay 47 ms
+KeyUp 93 1
+Delay 126 ms
+KeyDown 7 1
+Delay 75 ms
+KeyUp 7 1
+Delay 73 ms
+KeyDown 7 1
+Delay 22 ms
+KeyDown 92 1
+Delay 74 ms
+KeyUp 7 1
+Delay 11 ms
+KeyUp 92 1
+Delay 76 ms
+KeyDown 7 1
+Delay 196 ms
+KeyDown 89 1
+Delay 211 ms
+KeyUp 89 1
+Delay 26 ms
+KeyDown 22 1
+Delay 5 ms
+KeyUp 7 1
+Delay 67 ms
+KeyDown 92 1
+Delay 99 ms
+KeyUp 92 1
+Delay 62 ms
+KeyDown 92 1
+Delay 102 ms
+KeyUp 92 1
+Delay 3 ms
+KeyDown 7 1
+Delay 6 ms
+KeyUp 22 1
+Delay 105 ms
+KeyUp 7 1
+Delay 16 ms
+KeyDown 89 1
+Delay 6 ms
+KeyDown 93 1
+Delay 86 ms
+KeyUp 93 1
+Delay 4 ms
+KeyUp 89 1
+Delay 82 ms
+KeyDown 89 1
+Delay 0 ms
+KeyDown 93 1
+Delay 67 ms
+KeyUp 89 1
+Delay 0 ms
+KeyUp 93 1
+Delay 65 ms
+KeyDown 7 1
+Delay 98 ms
+KeyUp 7 1
+Delay 85 ms
+KeyDown 7 1
+Delay 93 ms
+KeyUp 7 1
+Delay 49 ms
+KeyDown 7 1
+Delay 74 ms
+KeyUp 7 1
+Delay 29 ms
+KeyDown 93 1
+Delay 12 ms
+KeyDown 89 1
+Delay 62 ms
+KeyUp 89 1
+Delay 5 ms
+KeyUp 93 1
+Delay 56 ms
+KeyDown 89 1
+Delay 5 ms
+KeyDown 93 1
+Delay 80 ms
+KeyUp 89 1
+Delay 6 ms
+KeyUp 93 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

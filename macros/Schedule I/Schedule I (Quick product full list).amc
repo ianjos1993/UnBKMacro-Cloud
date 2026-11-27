@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Требование: разрешение экрана 1920×1080.
+
+Данный макрос аналогичен предыдущему, но выполняет обратное действие — он отбирает товар у скупщика и кладёт его обратно в первый слот вашего инвентаря.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы (на структуру не смотрите так то реально полезная вещь)</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 825 583
+Delay 25 ms
+RightDown 1
+Delay 30 ms
+MoveTo 482 1019
+Delay 25 ms
+RightUp 1
+Delay 30 ms</Syntax>
+    </KeyDown>
+    <Software>Schedule I</Software>
+  </DefaultMacro>
+</Root>

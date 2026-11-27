@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос позволит полностью автоматизировать выход из режима в роблоксе в главное меню, Главное примечание: нужное разрешение экрана для правильной работы макроса: 1920 х 1080</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 35 33
+Delay 64
+MoveTo 38 33
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 200 ms
+MoveTo 725 863
+Delay 64
+MoveTo 706 860
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 130 ms
+MoveTo 847 474
+Delay 64
+MoveTo 861 481
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>у кого подстветка не маргает а просто светится скрипт который будет делать все за подстветку сам мигать долго сиять делается еще и под музыку очень красиво смотрится.скрипт для китайских клав которые не настраивают RGB. режим работы ПОКА ЗАЖАТА КЛАВАШИ очень важно и желательно ее биндить на SL.подойдет для видосов в ВК.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 71 1
+Delay 75 ms
+KeyUp 71 1
+Delay 75 ms
+KeyDown 71 1
+Delay 75 ms
+KeyUp 71 1
+KeyDown 71 1
+Delay 120 ms
+KeyUp 71 1
+Delay 928 ms
+KeyDown 71 1
+Delay 136 ms
+KeyUp 71 1
+Delay 904 ms
+KeyDown 71 1
+Delay 144 ms
+KeyUp 71 1</Syntax>
+    </KeyDown>
+    <Software>подстведка для клавы</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,59 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос создан для плейса в роблоксе: Asura. 
+Требования для макроса:
+
+   1. Нужно передвинуть курсор на покупку тренажера (От разрешения монитора не зависит, делал на разрешение 1980х1080) .
+   2. В первом слоте должны стоять "кулаки" и во втором слоту тренажер (Можно поменять, отмечено комментарием в скрипте. Кулаки 15-18 строки, тренажер 6-9 строки).
+
+На это всё, если что-то не получаеться пишите, постараюсь помочь.
+Хорошего использования скрипта!
+
+Скоро сделаю поддерживание еды.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 175 ms
+LeftUp 1
+Delay 75 ms
+GoWhile 1 3
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+//Можете поменять, где будет храниться тренировка
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+//Тут находиться чем вы бьёте, так же можете перебиндить
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 1350 ms
+GoWhile 20 5
+RightDown 1
+Delay 64
+RightUp 1
+Delay 300 ms
+GoWhile 20 4
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 8 s</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

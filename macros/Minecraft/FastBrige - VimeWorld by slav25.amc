@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на ФастБридж. Биндишь на любую кнопку. Встаешь(с шифтом) на край блока и курсор на нижний край блок и нижимаешь клавишу назад "S". И все. 64 блока будут простроенны(Работает 99% если натренироватся). 
+Тайминги подбирал специально для проекта VimeWorld.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 109 ms
+RightDown 1
+RightUp 1
+Delay 1 ms
+KeyUp 225 1
+Delay 200 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

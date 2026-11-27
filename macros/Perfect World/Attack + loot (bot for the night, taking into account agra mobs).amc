@@ -1,0 +1,53 @@
+<Root>
+  <DefaultMacro>
+    <Major>Атака+лут(бот на ночь с учетом агра мобов) Comeback 136x</Major>
+    <Description>1 - выставляем атакующий макрос
+F1- подбор лута
+
+Вы так же можете редактировать макрос под себя. 
+Моя схема: Таб+атака+лут   атака+лут(персонаж выберет моба что сагрился или же, если его нет, будет простаивать это время) таб+атака+лут +зацикливание
+
+Не забудьте выставить хирки и свиток на опыт
+
+P.S. Новичек? Не знаешь как выставить атакующий макрос в игре? Нажми на R, затем Новый, перетяни стрелочку Повтор заданий в начало твоего макроса, затем перетяни скилы с панели Умения, для милишников рекомедуется добавить одну автоатаку в макрос, нажми сохранить и проверь его работу перетащив на панель. Удачи в игре!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 2188 ms
+KeyDown 43 1
+Delay 95 ms
+KeyUp 43 1
+Delay 844 ms
+KeyDown 30 1
+Delay 43 ms
+KeyUp 30 1
+Delay 20947 ms
+KeyDown 58 1
+Delay 340 ms
+KeyUp 58 1
+Delay 4622 ms
+KeyDown 30 1
+Delay 201 ms
+KeyUp 30 1
+Delay 10237 ms
+KeyDown 43 1
+Delay 187 ms
+KeyUp 43 1
+Delay 507 ms
+KeyDown 30 1
+Delay 94 ms
+KeyUp 30 1
+Delay 27036 ms
+KeyDown 58 1
+Delay 1865 ms
+KeyUp 58 1
+GoWhile 1 10000</Syntax>
+    </KeyDown>
+    <Software>Perfect World</Software>
+  </DefaultMacro>
+</Root>

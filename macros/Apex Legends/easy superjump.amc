@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro is for a superjump in apex, this can be done at a zipline to jump higher.
+
+1. set the macro to every button you like 
+2. hold the button 
+3. enjoy the superjump
+
+ try it on the training ground to get used to it!!!!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 3 ms
+KeyUp 8 1
+Delay 3 ms
+KeyDown 44 1
+Delay 3 ms
+KeyUp 44 1
+Delay 3 ms
+KeyDown 44 1
+Delay 3 ms
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

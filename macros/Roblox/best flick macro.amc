@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для поворота на 360(флик)во всех плейсах roblox чаще всего использую в YBA. Позволяет применить после разворота способность starfinger на стенде star platinum чтобы увеличить время продолжения хитбокса и застанить игрока для последующей способности(star finger).
+Camera sensitivity - 0.36 (настройки роблокса).
+
+</Description>
+    <Comment>разворот 360 для "flick-а" чтобы сделать способность knuckle sandwich лучшим комбоэкстендером в YBA</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+Delay 1 ms
+KeyDown 29 1
+KeyUp 29 1
+KeyDown 30 1
+KeyUp 30 1
+Delay 580 ms
+MoveR 700 0
+Delay 20 ms
+MoveR 700 0
+Delay 300 ms
+MoveR -700 0
+Delay 20 ms
+MoveR -700 0
+Delay 20 ms
+KeyDown 6 1
+KeyUp 6 1
+KeyDown 6 1
+KeyUp 6 1
+KeyDown 6 1
+KeyUp 6 1
+KeyDown 6 1
+KeyUp 6 1
+KeyDown 6 1
+KeyUp 6 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

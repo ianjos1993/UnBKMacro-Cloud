@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Отличный макрос для расплетения ткани в Драгонфлай ! Все что нужно это закупить фул сумки тканью открыть окно профессии и запустить макрос ! С помощью аддона и макроса вы можете переплести всю свою суммку ткани так же и с банка !  Аддон будет  подкидывать каждые 200 ткани в окно расплетения а макрос будет юзать за Вас кнопку расплести ) </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+LeftUp 1
+Delay 15 25 s
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>World of Warcraft</Software>
+  </DefaultMacro>
+</Root>

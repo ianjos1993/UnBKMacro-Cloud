@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>   р,Белая          монотонная проводка
+Катушка Syberia Thunderbolt ssp hs-s (полный тюнег катушки до теста 2,2)
+удилище- Kama Lait CSTSL 78ML тест 3-15 г
+скорость проводки 28
+Все приманки 3,5 гр</Description>
+    <Comment>при поклёвки желательно отключать ,,, всем удачи</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 64 ms
+LeftDown 1
+Delay 3461 ms
+LeftUp 1
+Delay 3712 ms
+LeftDown 1
+Delay 34816 ms
+RightDown 1
+Delay 4000 ms
+LeftUp 1
+Delay 2207 ms
+RightUp 1
+Delay 11 ms
+KeyDown 44 1
+Delay 192 ms
+KeyUp 44 1
+Delay 1845 ms
+GoWhile 1 50</Syntax>
+    </KeyDown>
+    <Software>Русская Рыбалка 4</Software>
+  </DefaultMacro>
+</Root>

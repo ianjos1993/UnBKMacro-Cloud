@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Allow to refresh Tarkov flea faster then as ushual refresh.
+With additional work you can buy things faster then other or bots, just be aware of high prices.
+Keep second item on the screen to refresh.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 888 331
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 965 285
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Escape From Tarkov</Software>
+  </DefaultMacro>
+</Root>

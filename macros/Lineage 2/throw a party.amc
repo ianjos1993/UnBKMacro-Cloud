@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>0 - макрос в игре (/invite Ник_персонажа)
+F8 - макрос в игре (target Ник_персонажа)
+F7 - макрос в игре (набор бафов)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//кидаем пати
+KeyDown 39 1
+KeyUp 39 1
+Delay 100 ms
+KeyDown 226 1
+KeyDown 43 1
+KeyUp 43 1
+KeyUp 226 1
+Delay 3000 ms
+//принять пати
+MoveTo 474 706
+Delay 0 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 100 ms
+//выделить Ару
+KeyDown 65 1
+KeyUp 65 1
+Delay 100 ms
+//баф ары
+KeyDown 64 1
+KeyUp 64 1
+Delay 100 ms
+KeyDown 226 1
+KeyDown 43 1
+KeyUp 43 1
+KeyUp 226 1
+Delay 3000 ms
+//конец бафа</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

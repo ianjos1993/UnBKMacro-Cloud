@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Фулл комбо Nyx Assassin. Должны быть включены квик касты.
+1 - Hex на клавише "C"
+2 - Etherial на клавише "Z"
+3 - Impale по стандарту "Q"
+4 - Dagon на клавише "X"
+5 - Mind Flare по стандарту "W".
+На 30 уровне по мимо трех перечислинных слотов, с аркан бутсами, кая-саша, и линза. 4-тир Timless Relic, выдает вполне сочные 4200 урона за секунду. Кастуется макрос именно в том порядке, как и написано, для достижения лучшего бурст урона.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+Delay 48
+KeyUp 6 1
+Delay 48
+KeyDown 29 1
+Delay 48
+KeyUp 29 1
+Delay 48
+KeyDown 20 1
+Delay 48
+KeyUp 20 1
+Delay 48
+KeyDown 27 1
+Delay 48
+KeyUp 27 1
+Delay 48
+KeyDown 26 1
+Delay 48
+KeyUp 26 1
+Delay 48</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>Maksim</Major>
+    <Description>Макрос для фарма картохи из видео Fishka скорость персонажа 154 попробуйте купить Speedster шмотки на аукционе</Description>
+    <Comment>Скорость придётся настроить самим</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 75000 ms
+KeyUp 4 1
+KeyDown 7 1
+Delay 150000 ms
+KeyUp 7 1
+KeyDown 4 1
+Delay 75000 ms
+KeyUp 4 1
+KeyDown 7 1
+Delay 150000 ms
+KeyUp 7 1
+KeyDown 4 1
+Delay 75000 ms
+KeyUp 4 1
+KeyDown 7 1
+Delay 75000 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

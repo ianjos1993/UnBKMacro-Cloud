@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>добывает руду от ближайшей точки сдачи руды, поставьте правильный ракурс и будет добывать без вашего участия.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 8 s
+KeyUp 26 1
+Delay 10 s
+KeyDown 22 1
+Delay 8 s
+KeyUp 22 1
+Delay 3 s
+GoWhile 1 100</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

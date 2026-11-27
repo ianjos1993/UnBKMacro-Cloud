@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для Semi-Automatic Rifle (вздох железа)
+
+Гуманизированный макрос с низкой скоростью срабатывания 100% без банов
+Простота в обращении и общая эффективность
+
+ 1.FOV 90 
+ 2.sens 0.66
+
+By: GMoura</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 34 ms
+MoveR 0 8
+Delay 34 ms
+MoveR 0 8
+Delay 34 ms
+MoveR 0 8
+Delay 34 ms
+MoveR 0 8
+Delay 34 ms
+MoveR 0 8
+Delay 34 ms
+LeftUp 1
+Delay 37 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

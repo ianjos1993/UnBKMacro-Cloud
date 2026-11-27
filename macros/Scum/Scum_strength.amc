@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>прокачка силы в SCUM
+
+В рюкзак 2-а мешка цемента, в руки топор.
+Подойти к дереву, навести курсор пока на нем не появится надпись срубить.  Запустить макрос.  
+Будет рубить до +/- 70%, остановится и начнет заново.  
+Топор и дерево не пострадают.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 11 12 s
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 1 2 s</Syntax>
+    </KeyDown>
+    <Software>Scum</Software>
+  </DefaultMacro>
+</Root>

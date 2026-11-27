@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>WORKS ANYWHERE THERE IS A 2 TO 4 MOB GROUP spawns
+
+Monk Skills
+Primary attack*DEADLY REACH*
+ will not work with fist of thunder because of constant teleportation
+*Mystic allies* (they will draw mobs to you no need foir movement)
+*shield of zen* Helps Keep yopu alive
+*Seven sided strike* (Crowd control)
+*wave of light*
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 30 1
+Delay 3000 ms
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyUp 30 1</Syntax>
+    </KeyDown>
+    <Software>Diablo Immortal</Software>
+  </DefaultMacro>
+</Root>

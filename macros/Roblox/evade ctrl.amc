@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>автоклик на ctrl для афк фарма ивентовой валюты в evade</Major>
+    <Description>автоклик на ctrl для афк фарма ивентовой валюты в evade. не вылетает! используется на карте flat в спец раунде mimic для фарма пряников и печенья  в evade с помощью бричера</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+Delay 111 222 ms
+KeyUp 6 1
+Delay 20 30 s
+KeyDown 224 1
+Delay 64
+KeyUp 224 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

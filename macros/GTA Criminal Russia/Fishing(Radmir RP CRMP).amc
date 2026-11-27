@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Эио один из лучших макросов на рыбалку на проекте Radmir RP CRMP. Данный макрос полностью автоматизирует рыбалку.
+Инструкция:
+Выбрать в инвентаре удочку и наживку(Предварительно намотайте леску на удочку) Включите макрос и ГОТОВО! Персонаж будет рыбачить сам. Никаких дополнительный условий по типу Разрешение экрана вам не требуется. Данный макрос сэкономит вам уйму времени и сил на фарм. Удачи!)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 226 1
+Delay 96 ms
+KeyUp 226 1
+Delay 8000 ms
+KeyDown 44 1
+Delay 80 ms
+KeyUp 44 1
+Delay 400 ms
+KeyDown 88 1
+Delay 96 ms
+KeyUp 88 1
+Delay 3600 ms</Syntax>
+    </KeyDown>
+    <Software>GTA: Criminal Russia (CRMP)</Software>
+  </DefaultMacro>
+</Root>

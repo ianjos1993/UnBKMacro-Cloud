@@ -1,0 +1,73 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос предназначен для штурмовой винтовки SC-2010.
+Преимущество данной штурмовой винтовки заключается в том что у нее хороший урон и практически нет отдачи в прицеле(зависит от поставленных вами перков)
+</Description>
+    <Comment>AUG A3
+</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 45 ms
+LeftUp 1
+Delay 45 ms
+MoveR 0 20
+LeftDown 1
+Delay 45 ms
+LeftUp 1
+Delay 45 ms
+MoveR 0 22
+LeftDown 1
+Delay 45 ms
+LeftUp 1
+Delay 45 ms
+MoveR 0 24
+LeftDown 1
+Delay 45 ms
+LeftUp 1
+Delay 45 ms
+MoveR 0 24
+LeftDown 1
+Delay 45 ms
+LeftUp 1
+Delay 45 ms
+MoveR 0 22
+LeftDown 1
+Delay 45 ms
+LeftUp 1
+Delay 45 ms
+MoveR 0 18
+LeftDown 1
+Delay 45 ms
+LeftUp 1
+Delay 45 ms
+MoveR 0 16
+LeftDown 1
+Delay 45 ms
+LeftUp 1
+Delay 45 ms
+MoveR 0 14
+LeftDown 1
+Delay 45 ms
+LeftUp 1
+Delay 45 ms
+MoveR 0 12
+LeftDown 1
+Delay 45 ms
+LeftUp 1
+Delay 45 ms
+MoveR 0 4
+LeftDown 1
+Delay 45 ms
+LeftUp 1
+Delay 45 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

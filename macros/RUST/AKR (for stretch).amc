@@ -1,0 +1,120 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос делал на заказ, строго разрешение 2080*1440, сенса 0.9, FOV 90
+зажимать сидя, жмет в точку на хорошем расстоянии</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+        Delay 10 ms
+MoveR 0 5
+Delay 20 ms
+MoveR 0 5
+Delay 28 ms
+MoveR -1 5
+Delay 26 ms
+MoveR -1 5
+Delay 29 ms
+MoveR -1 5
+Delay 24 ms
+MoveR -1 6
+Delay 30 ms
+MoveR -1 5
+Delay 31 ms
+MoveR -1 5
+Delay 28 ms
+MoveR -1 5
+Delay 32 ms
+MoveR -1 5
+Delay 24 ms
+MoveR -1 5
+Delay 30 ms
+MoveR -2 5
+Delay 29 ms
+MoveR -2 5
+Delay 22 ms
+MoveR -2 5
+Delay 33 ms
+MoveR -4 5
+Delay 20 ms
+MoveR -2 5
+Delay 28 ms
+MoveR -2 5
+Delay 30 ms
+MoveR -2 5
+Delay 20 ms
+MoveR -2 5
+Delay 34 ms
+MoveR -3 6
+Delay 28 ms
+MoveR -4 5
+Delay 30 ms
+MoveR -4 5
+Delay 22 ms
+MoveR -4 5
+Delay 29 ms
+MoveR -4 5
+Delay 29 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 4
+Delay 35 ms
+MoveR -4 5
+Delay 27 ms
+MoveR -4 5
+Delay 29 ms
+MoveR -4 5
+Delay 31 ms
+MoveR -4 5
+Delay 29 ms
+MoveR -4 5
+Delay 27 ms
+MoveR -4 5
+Delay 28 ms
+MoveR -4 5
+Delay 32 ms
+MoveR -3 5
+Delay 26 ms
+MoveR -3 5
+Delay 28 ms
+MoveR -3 5
+Delay 30 ms
+MoveR -4 5
+Delay 32 ms
+MoveR -3 5
+Delay 29 ms
+MoveR -3 6
+Delay 27 ms
+MoveR -3 5
+Delay 31 ms
+MoveR -3 5
+Delay 28 ms
+MoveR -3 5
+Delay 32 ms
+MoveR -3 5
+Delay 28 ms
+MoveR -4 5
+Delay 32 ms
+MoveR -4 5
+Delay 28 ms
+MoveR -4 5
+Delay 31 ms
+MoveR -4 6
+Delay 27 ms
+MoveR -4 5
+Delay 31 ms
+MoveR -4 5
+Delay 28 ms
+MoveR -4 5
+Delay 30 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

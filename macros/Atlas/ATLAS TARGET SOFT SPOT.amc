@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>target soft spot</Major>
+    <Description>macro for taget soft spot so you can use nuber 8 on side of mouse an when it eqwuips the mace it will auto press f9 witch you should have set taget soft spots too in game</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 37 1
+Delay 0 ms
+KeyUp 37 1
+Delay 64
+KeyDown 66 1
+Delay 0 ms
+KeyUp 66 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Atlas</Software>
+  </DefaultMacro>
+</Root>

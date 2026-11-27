@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос предназначен для кс го чтобы он стработал забиндите этот макрос на любую удобную клавишу.
+Макрос быстро закупает awp + deagle и делает англисскую расскладку.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 5 1
+SetLang en-US
+Delay 14 98 ms
+KeyUp 5 1
+KeyDown 30 1
+Delay 0 110 ms
+KeyUp 30 1
+KeyDown 34 1
+Delay 12 130 ms
+KeyUp 34 1
+KeyDown 5 1
+Delay 2 100 ms
+KeyUp 5 1
+KeyDown 33 1
+Delay 1 90 ms
+KeyUp 33 1
+KeyDown 34 1
+Delay 2 101 ms
+KeyUp 34 1
+KeyDown 5 1
+Delay 1 120 ms
+KeyUp 5 1
+KeyDown 5 1
+Delay 29 112 ms
+KeyUp 5 1</Syntax>
+    </KeyDown>
+    <Software>CS GO</Software>
+  </DefaultMacro>
+</Root>

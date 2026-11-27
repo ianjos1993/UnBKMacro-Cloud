@@ -1,0 +1,66 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос сделан для игры Blade and Soul на такой класс как Мастер призыва специализации Природное равновесие
+Макрос использует сочетания клавиш T(пкм), R (лкм) с F. Так же заместо вас юзает скилл на 2 и 3(Пчелу).
+Ничего руками вам прожимать больше не надо, за исключением контроли.
+Как используем макрос:
+1)Устанавливаем макрос из Базы данных
+2)Ставим на удобную для нас клавишу
+3)Радуемся дамагу!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 1 ms
+KeyUp 23 1
+Delay 1 ms
+KeyDown 21 1
+Delay 1 ms
+KeyUp 21 1
+Delay 1 ms
+KeyDown 9 1
+Delay 1 ms
+KeyUp 9 1
+Delay 1 ms
+KeyDown 32 1
+Delay 1 ms
+KeyUp 32 1
+Delay 1 ms
+KeyDown 31 1
+Delay 1 ms
+KeyUp 31 1
+Delay 1 ms
+KeyDown 23 1
+Delay 1 ms
+KeyUp 23 1
+Delay 1 ms
+KeyDown 9 1
+Delay 1 ms
+KeyUp 9 1
+Delay 1 ms
+KeyDown 31 1
+Delay 1 ms
+KeyUp 31 1
+Delay 1 ms
+KeyDown 21 1
+Delay 1 ms
+KeyUp 21 1
+Delay 1 ms
+KeyDown 23 1
+Delay 1 ms
+KeyUp 23 1
+Delay 1 ms
+KeyDown 9 1
+Delay 1 ms
+KeyUp 9 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

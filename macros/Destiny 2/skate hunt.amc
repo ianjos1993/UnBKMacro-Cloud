@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Почти идеальный скейт на ханта через пике. Становитесь почти на край, 1-1.5 метра от края, прожимаете кнопку которую зажали и идете вперед что бы пролететь чуть больше чем с места, при беге не работает</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 1 s
+RightDown 1
+Delay 1 ms
+RightUp 1
+Delay 100 ms
+KeyDown 44 1
+Delay 1 ms
+KeyUp 44 1
+Delay 50 ms
+KeyDown 27 1
+Delay 1 ms
+KeyUp 27 1
+Delay 100 ms</Syntax>
+    </KeyDown>
+    <Software>Destiny 2</Software>
+  </DefaultMacro>
+</Root>

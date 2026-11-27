@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на Gtm 2.0, лучшее комбо в пвп. Возьмите джет в первый слот, страйкер во второй  и третий, зажмите шифт и кнопку макроса, всё осталось только навестись во время пвп на игрока.
+Для удобства можете поменять кнопки, ТАЙМИНГИ настроены идеально, приятного использывания!
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 14 ms
+KeyUp 31 1
+Delay 14 ms
+RightDown 1
+Delay 14 ms
+RightUp 1
+Delay 14 ms
+KeyDown 32 1
+Delay 14 ms
+KeyUp 32 1
+Delay 14 ms
+RightDown 1
+Delay 14 ms
+RightUp 1
+Delay 14 ms
+KeyDown 30 1
+Delay 14 ms
+KeyUp 30 1
+Delay 14 ms
+RightDown 1
+Delay 14 ms
+RightUp 1
+Delay 14 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft gtm2.0</Software>
+  </DefaultMacro>
+</Root>

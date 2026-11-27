@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>Автоматический огонь + антиотдача M1FA</Major>
+    <Description>Разрешение 1920x1080
+Прицел любой( советую Leupold) 
+Бинд на левую кнопку мыши
+Чуствительность в игре стандартная
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 9 ms
+MoveR 0 2
+Delay 9 ms
+MoveR 0 2
+Delay 9 ms
+MoveR 0 0
+Delay 9 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

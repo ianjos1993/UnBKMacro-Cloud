@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для судьи в соло пвп(учтите, что сделан под 40+ фпс и 650+ сноровки)
+При желании можно поменять клавиши и тайминги под ваш пресет
+
+Рывок + молот гнева + боевой клич + камертон
+после него идет на ваш вкус (расправа например)
+
+Разрешение экрана не важно, но если прям надо, то 1600х900
+
+На всякий случай информирую, что не в коем случае не осуждаю, но макрос был сделан для парня 8 лет, которому "прикольно", так что выводы делайте сами, все-таки научиться нажимать 4-6 кнопок не сложно и в дальнейшем будет вам полезно</Description>
+    <Comment>Изи ММРы бу-хахахах</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//рывок
+KeyDown 31 1
+Delay 2 38 ms
+KeyUp 31 1
+Delay 250 320 ms
+//молот гнева
+KeyDown 225 1
+Delay 2 38 ms
+KeyDown 32 1
+Delay 2 38 ms
+KeyUp 32 1
+Delay 2 38 ms
+KeyUp 225 1
+Delay 250 320 ms
+//боевой клич
+KeyDown 225 1
+Delay 2 38 ms
+KeyDown 4 1
+Delay 2 38 ms
+KeyUp 4 1
+Delay 2 38 ms
+KeyUp 225 1
+Delay 250 320 ms
+//камертон
+KeyDown 20 1
+Delay 2 38 ms
+KeyUp 20 1
+Delay 250 320 ms</Syntax>
+    </KeyDown>
+    <Software>Archeage</Software>
+  </DefaultMacro>
+</Root>

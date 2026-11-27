@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос предназначен для автоматизации движения в режиме AFK (Away From Keyboard) в игре Fortnite, обеспечивая плавное и бесшумное перемещение вашего персонажа вперед и назад. Это идеальное решение для тех случаев, когда вам нужно занять положение в игре, не участвуя активно в процессе, но при этом оставаться видимым на поле боя.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 3272 ms
+KeyUp 26 1
+Delay 119 ms
+KeyDown 22 1
+Delay 8024 ms
+KeyUp 22 1
+Delay 135 ms
+KeyDown 26 1
+Delay 4071 ms
+KeyUp 26 1
+Delay 128 ms
+KeyDown 22 1
+Delay 7719 ms
+KeyUp 22 1
+Delay 128 ms
+KeyDown 26 1
+Delay 3943 ms
+KeyUp 26 1
+Delay 143 ms
+KeyDown 22 1
+Delay 3800 ms
+KeyUp 22 1
+Delay 119 ms
+KeyDown 26 1
+Delay 2128 ms
+KeyUp 26 1
+Delay 144 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>High Wiz using skill after teleporting on the same spot</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 226 1
+KeyDown 32 1
+Delay 150 ms
+Delay 150 ms
+KeyUp 226 1
+KeyUp 32 1
+Delay 150 ms
+Delay 150 ms
+KeyDown 26 1
+Delay 150 ms
+KeyUp 26 1
+Delay 150 ms
+LeftDown 1
+Delay 150 ms
+LeftUp 1
+Delay 64 ms</Syntax>
+    </KeyDown>
+    <Software>Ragnarok</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major>reworked sf combo</Major>
+    <Description>macro na hero shadowfiend zbinduj na jakis przycisk, najezdz myszka na target i odpal macro, po ult leca jeszcze 3x shadow razy.
+
+space blink
+2 eul
+3 shiva
+R ult</Description>
+    <Comment>combo magic sf</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+Delay 700 ms
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 600 ms
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

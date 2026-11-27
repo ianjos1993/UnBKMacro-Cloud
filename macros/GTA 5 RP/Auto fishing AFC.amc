@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>				           Инструкция 
+
+	• Назначаем на любую удобную клавишу
+	• Запускаем макрос
+	• Запомните, ненужно держать клавишу бинда до талого
+	• Когда нужно закинуть удочку, нажимаем один раз на назначенную клавишу
+
+ 
+Теперь можно не открывать каждый раз инвентарь и закидывать удочку!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 12 1
+Delay 64
+KeyUp 12 1
+Delay 300 ms
+MoveTo 375 421
+Delay 300 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 300 ms
+MoveTo 366 536
+Delay 300 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

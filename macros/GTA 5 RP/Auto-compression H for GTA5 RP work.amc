@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Кнопка H для стрйоки на GTA5 RP ставить "Работает Только когда зажата клавиша"|
+Данный Макрос Испльзуйте Для Стройки на GTA 5RP поставлен такой кд, чтобы не палилось при админах</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 11 1
+Delay 13 25 ms
+KeyUp 11 1
+Delay 15 28 ms
+KeyDown 11 1
+Delay 13 25 ms
+KeyUp 11 1
+Delay 23 25 ms
+KeyDown 11 1
+Delay 22 25 ms
+KeyUp 11 1
+Delay 15 22 ms</Syntax>
+    </KeyDown>
+    <Software>GTA5 RP</Software>
+  </DefaultMacro>
+</Root>

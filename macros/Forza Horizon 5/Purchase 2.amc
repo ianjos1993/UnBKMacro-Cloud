@@ -1,0 +1,57 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макром который сам покупает авто на аукционе.
+1. Заходим на аукцион выставляем фильтры на нужное нам авто
+2. Нажимаем подтвердить потов выходим в меню выбора( там где поиск аукционов )
+3. Запускаем макрос
+4. Желательно поставить графику на минимальную, а также купить машину меньшего размера</Description>
+    <Comment>Приятного пользования)</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 40 ms
+KeyDown 88 1
+Delay 40 ms
+KeyUp 88 1
+Delay 180 ms
+KeyDown 88 1
+Delay 40 ms
+KeyUp 88 1
+Delay 1200 ms
+KeyDown 28 1
+Delay 40 ms
+KeyUp 28 1
+Delay 180 ms
+KeyDown 81 1
+Delay 40 ms
+KeyUp 81 1
+Delay 200 ms
+KeyDown 88 1
+Delay 40 ms
+KeyUp 88 1
+Delay 400 ms
+KeyDown 88 1
+Delay 70 ms
+KeyUp 88 1
+Delay 5500 ms
+KeyDown 88 1
+Delay 70 ms
+KeyUp 88 1
+Delay 1450 ms
+KeyDown 41 1
+Delay 70 ms
+KeyUp 41 1
+Delay 500 ms
+KeyDown 41 1
+Delay 70 ms
+KeyUp 41 1
+Delay 1300 ms</Syntax>
+    </KeyDown>
+    <Software>Forza Horizon 5</Software>
+  </DefaultMacro>
+</Root>

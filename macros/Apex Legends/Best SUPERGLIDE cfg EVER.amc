@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>Movement</Major>
+    <Description>
+разрешение и dpi не важен! Биндите макрос на удобную кнопку и ВНИМАНИЕ!!! Вы должны прожать назначенную вами кнопку в тот момент, когда у персонажа ОКАНЧИВАЕТСЯ АНИМАЦИЯ ВСКАРАБКИВАНИЯ
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 3 ms
+KeyUp 44 1
+Delay 2 ms
+KeyDown 6 1
+Delay 3 ms
+KeyUp 6 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

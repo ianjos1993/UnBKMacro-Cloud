@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос создан для того чтобы легко использовать баг игры Roblox а именно Blox Fruits.Среди игроков баг называется"Click to move" т.к для использования бага используется система передвижения под названием Click to move.Баг заключается в том что надо в тайминги нажать 3 клавиши(Это довольно сложно) и тогда ваш персонаж очень высоко прыгнет.Но вы можете установить мой макрос,забиндить его на удобную вам клавишу и легко выполнять данный трюк.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 76 ms
+RightDown 1
+Delay 47 ms
+KeyUp 44 1
+Delay 44 ms
+RightUp 1
+Delay 888 ms
+KeyDown 20 1
+Delay 67 ms
+KeyUp 20 1
+Delay 2369 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

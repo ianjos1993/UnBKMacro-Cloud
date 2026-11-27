@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос автоматически вводит команду /log в Minecraft Bedrock Edition, позволяя мгновенно получить доступ к журналу событий сервера. Он полезен для администраторов и модераторов, которым нужно отслеживать действия игроков, системные сообщения и возможные нарушения.
+
+Инструкция по установке макроса:
+1. Скачайте файл макроса.
+
+
+2. Назначьте его на удобную вам клавишу для активации.
+
+
+3. Готово! Пользуйтесь.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>SetLang en-US
+KeyDown 56 1
+Delay 10
+KeyUp 56 1
+Delay 10
+KeyDown 15 1
+Delay 10
+KeyUp 15 1
+Delay 10
+KeyDown 18 1
+Delay 10
+KeyUp 18 1
+Delay 10
+KeyDown 10 1
+Delay 10
+KeyUp 10 1
+Delay 10
+KeyDown 88 1
+Delay 10
+KeyUp 88 1
+Delay 10
+SetLang ru-RU</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major>nathonks</Major>
+    <Description>This macro is for retaking walls very fast if you are on high ping.
+You have to bind your wall key to "E" and the keyran macro to "E"
+This macro is very simple, you just have to press E and you are taking every wall in fortnite</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 25 ms
+LeftUp 1
+Delay 150 ms
+KeyDown 27 1
+Delay 25 ms
+KeyUp 27 1
+Delay 25 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

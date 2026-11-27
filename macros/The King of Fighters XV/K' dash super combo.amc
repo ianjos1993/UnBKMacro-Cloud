@@ -1,0 +1,128 @@
+<Root>
+  <DefaultMacro>
+    <Major>K' dash combo</Major>
+    <Description>Комбо макрос для персонажа K' Dash в игре King of fighters XV.
+
+Видео демонстрация макроса - https://youtu.be/KWPb3WYINZM
+Тестировалось на версии игры - 1.34
+
+Настройки в программе для корректного выполнения макроса:
+1. Использовать драйвер.
+2. Отключить использование минимальной задержки.
+3. Работа без привязки к окну.
+
+Настройки управления в игре:
+Light Punch - Num 4
+Light Kick - Num 2
+Heavy Punch - Num 5
+Heavy Kick - Num 1
+Up - W
+Down - S
+Left - A
+Right - D
+
+Если макрос не работает обращаться - https://keyran.net/discord
+Либо к автору макроса - school_boy#3298 (discord)
+
+#kofxv #kingoffightersxv #k'dash
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 17 ms
+KeyDown 4 1
+Delay 17 ms
+KeyUp 22 1
+Delay 17 ms
+KeyUp 4 1
+Delay 17 ms
+KeyDown 22 1
+Delay 17 ms
+KeyDown 7 1
+Delay 17 ms
+KeyUp 22 1
+Delay 17 ms
+KeyUp 7 1
+Delay 17 ms
+KeyDown 89 1
+KeyDown 93 1
+Delay 17 ms
+KeyUp 89 1
+KeyUp 93 1
+Delay 247 ms
+KeyDown 22 1
+Delay 30 ms
+KeyDown 7 1
+Delay 39 ms
+KeyDown 92 1
+Delay 10 ms
+KeyUp 22 1
+Delay 49 ms
+KeyUp 7 1
+Delay 9 ms
+KeyUp 92 1
+Delay 110 ms
+KeyDown 7 1
+Delay 59 ms
+KeyDown 93 1
+Delay 70 ms
+KeyUp 93 1
+Delay 19 ms
+KeyUp 7 1
+Delay 432 ms
+KeyDown 4 1
+Delay 102 ms
+KeyDown 89 1
+Delay 81 ms
+KeyUp 4 1
+Delay 54 ms
+KeyUp 89 1
+Delay 71 ms
+KeyDown 7 1
+Delay 96 ms
+KeyUp 7 1
+Delay 79 ms
+KeyDown 7 1
+Delay 184 ms
+KeyDown 89 1
+Delay 15 ms
+KeyUp 7 1
+Delay 300 ms
+KeyDown 90 1
+Delay 88 ms
+KeyUp 89 1
+Delay 64 ms
+KeyUp 90 1
+Delay 900 ms
+KeyDown 22 1
+Delay 17 ms
+KeyDown 4 1
+Delay 17 ms
+KeyUp 22 1
+Delay 17 ms
+KeyUp 4 1
+Delay 17 ms
+KeyDown 22 1
+Delay 17 ms
+KeyDown 7 1
+Delay 17 ms
+KeyUp 22 1
+Delay 17 ms
+KeyUp 7 1
+Delay 17 ms
+KeyDown 89 1
+KeyDown 93 1
+Delay 17 ms
+KeyUp 89 1
+KeyUp 93 1
+Delay 17 ms</Syntax>
+    </KeyDown>
+    <Software>The King of Fighters XV</Software>
+  </DefaultMacro>
+</Root>

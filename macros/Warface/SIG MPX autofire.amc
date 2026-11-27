@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major>Автоматическая стрельба</Major>
+    <Description>Данный макрос будет за вас стрелять из оружия Sig MPX,
+
+Вам всеголишь потребуется нажать на 1 из кнопок и готово, оно само стреляет</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15
+LeftUp 1
+Delay 15
+LeftDown 1
+Delay 15
+LeftUp 1
+Delay 15
+LeftDown 1
+Delay 15
+LeftUp 1
+Delay 15
+Delay 15
+LeftDown 1
+Delay 15
+LeftUp 1
+Delay 15
+LeftDown 1
+Delay 15
+LeftUp 1
+Delay 15
+LeftDown 1
+Delay 15
+LeftUp 1
+Delay 15
+LeftDown 1
+Delay 15
+LeftUp 1
+Delay 15
+LeftDown 1
+Delay 15
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Warface</Software>
+  </DefaultMacro>
+</Root>

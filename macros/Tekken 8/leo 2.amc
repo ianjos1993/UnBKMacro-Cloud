@@ -1,0 +1,146 @@
+<Root>
+  <DefaultMacro>
+    <Major>Leo Combo 2</Major>
+    <Description>Макрос позволяет выполнять комбо за Leo комбинацию c HEAT.
+Видео демонстрации работы макроса: https://youtu.be/-rCo400jFTw
+
+Лео демонстрирует рациональный подход как в бою, так и во взаимодействии с окружающими. Стиль ведения поединка сбалансированный, без излишней агрессии, с упором на адаптацию к противнику. Отличается высокой обучаемостью и способностью быстро перестраивать тактику. Вне боевых условий ведет спокойный образ жизни, избегает конфликтов без необходимости, придерживается личных принципов и логического мышления.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 13.01.2026
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ.
+
+#Leotekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 67 ms
+KeyUp 7 1
+Delay 54 ms
+KeyDown 7 1
+Delay 127 ms
+KeyDown 93 1
+Delay 123 ms
+KeyUp 7 1
+Delay 46 ms
+KeyDown 92 1
+Delay 25 ms
+KeyDown 22 1
+Delay 23 ms
+KeyUp 93 1
+Delay 12 ms
+KeyDown 4 1
+Delay 0 ms
+KeyDown 7 1
+Delay 85 ms
+KeyUp 92 1
+Delay 4 ms
+KeyDown 93 1
+Delay 15 ms
+KeyUp 7 1
+Delay 69 ms
+KeyDown 7 1
+Delay 34 ms
+KeyDown 92 1
+Delay 2 ms
+KeyUp 4 1
+Delay 5 ms
+KeyUp 22 1
+Delay 49 ms
+KeyDown 22 1
+Delay 5 ms
+KeyDown 4 1
+Delay 48 ms
+KeyUp 93 1
+Delay 13 ms
+KeyUp 7 1
+Delay 36 ms
+KeyUp 92 1
+Delay 21 ms
+KeyUp 22 1
+Delay 4 ms
+KeyUp 4 1
+Delay 205 ms
+KeyDown 7 1
+Delay 81 ms
+KeyUp 7 1
+Delay 67 ms
+KeyDown 7 1
+Delay 80 ms
+KeyDown 22 1
+Delay 63 ms
+KeyDown 92 1
+Delay 90 ms
+KeyDown 93 1
+Delay 49 ms
+KeyUp 92 1
+Delay 14 ms
+KeyUp 22 1
+Delay 51 ms
+KeyUp 7 1
+Delay 23 ms
+KeyUp 93 1
+Delay 330 ms
+KeyDown 7 1
+Delay 63 ms
+KeyUp 7 1
+Delay 79 ms
+KeyDown 7 1
+Delay 334 ms
+KeyUp 7 1
+Delay 276 ms
+KeyDown 89 1
+Delay 0 ms
+KeyDown 93 1
+Delay 228 ms
+KeyUp 89 1
+Delay 6 ms
+KeyUp 93 1
+Delay 199 ms
+KeyDown 7 1
+Delay 75 ms
+KeyUp 7 1
+Delay 98 ms
+KeyDown 7 1
+Delay 69 ms
+KeyUp 7 1
+Delay 55 ms
+KeyDown 7 1
+Delay 160 ms
+KeyUp 7 1
+Delay 110 ms
+KeyDown 89 1
+Delay 6 ms
+KeyDown 93 1
+Delay 265 ms
+KeyUp 89 1
+Delay 18 ms
+KeyUp 93 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

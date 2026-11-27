@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Привет макросник!) Я сделал для тебя редактор 2-х клеток для более лёгкого DobleEdit (При нажимании на кнопку на которую ты биндил макрос редачится 1 клетка пола, и одна клетка конуса) (Кнопку редакта можешь поставить на ту на которую редачишь ты) Приятной игры с моим макросом)Просто пцшка всем советую</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 10 ms
+KeyUp 20 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+KeyDown 20 1
+Delay 10 ms
+KeyUp 20 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

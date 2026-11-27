@@ -1,0 +1,112 @@
+<Root>
+  <DefaultMacro>
+    <Major>Дюп предметов в Терарии</Major>
+    <Description>Чтобы он работал вам нужно на спавне мира поставить сундук, справа от него вырыть яму, куда вы будете спрыгивать, также справа от ямы постройте стену в которую упрётся персонаж, чтобы упасть в яму. Подходит для разрешения 1920х1080. Кладёте в сундук нужныу предметы и запускаете макрос. Возможно вам надо будет отредактировать время загрузки, в макросе стоит 8 секунд, но у вас Террария может грузиться дольше. Глубина ямы тоже имеет значение, проверьте за сколько секунд вы долетаете до дна и умираете, должно быть примерно 4 секунды.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+MoveTo 564 284
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1819 1058
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 709 747
+Delay 64
+LeftDown 1
+Delay 100
+LeftUp 1
+Delay 500 ms
+KeyDown 82 1
+Delay 100
+KeyUp 82 1
+Delay 100
+LeftDown 1
+Delay 100
+LeftUp 1
+Delay 100
+MoveTo 606 373
+Delay 100
+LeftDown 1
+Delay 100
+LeftUp 1
+Delay 200 ms
+LeftDown 1
+Delay 100
+LeftUp 1
+Delay 1 s
+MoveTo 953 549
+Delay 100
+RightDown 1
+Delay 100
+RightUp 1
+Delay 200 ms
+MoveTo 591 323
+Delay 100
+LeftDown 1
+Delay 100
+LeftUp 1
+Delay 100
+KeyDown 8 1
+Delay 100
+KeyUp 8 1
+Delay 100
+KeyDown 7 1
+Delay 1 s
+KeyUp 7 1
+Delay 5 s
+KeyDown 226 1
+Delay 100
+KeyDown 61 1
+Delay 100
+KeyUp 61 1
+Delay 100
+KeyUp 226 1
+Delay 100
+KeyDown 227 1
+Delay 100
+KeyUp 227 1
+Delay 100
+MoveTo 909 637
+Delay 100
+LeftDown 1
+Delay 100
+LeftUp 1
+Delay 8 s
+KeyDown 82 1
+Delay 100
+KeyUp 82 1
+Delay 100
+LeftDown 1
+Delay 100
+LeftUp 1
+Delay 100
+MoveTo 606 373
+Delay 100
+LeftDown 1
+Delay 100
+LeftUp 1
+Delay 200 ms
+LeftDown 1
+Delay 100
+LeftUp 1
+Delay 3 s</Syntax>
+    </KeyDown>
+    <Software>Terraria</Software>
+  </DefaultMacro>
+</Root>

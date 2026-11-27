@@ -1,0 +1,93 @@
+<Root>
+  <DefaultMacro>
+    <Major>Fizlik</Major>
+    <Description>Главная задача - наносить максимально возможное количество урона на группах мобов, за исключением случаев, когда рейд лидер сказал сфокусироваться на отдельно стоящем мобе.
+Используйте Взрывную стрелу (Q) и Капкан (W) вместе с пассивным навыком №2 для спама вашим Q навыком. Ваш Q навык - основной урон вашей роли.
+Ваша мантия друида (R) значительно повышает ваш общий урон.
+Есть два вида обуви для вашей роли: Любые кожанные ботинки (С выбранным навыком на откат кулдаунов), либо Ботинки упорства для сбрасывания агры с себя что бы дольше жить пока танк страдает =))
+Плащ Карлеона также помогает вам со спамом Q навыка.
+W - R - Q - Q - Q - W - E - Q - Q - F - W - Q - Q - D - W - Q - Q &gt; (скрипт цикличен)
+Для этой роли жизненно важно запомнить правильную комбинацию скиллов, старайтесь использовать именно эту ротацию, если хотите наносить достаточный урон.
+Рекомендую ставить скрипт на боковую клавишу мышки для более удобного контроля
+скрипт сделан под пинг 130-140 если у вась больше или меньше прийдется поменять задержки между нажатиями.</Description>
+    <Comment>Всем добра! ^^</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 60 65 ms
+KeyUp 26 1
+Delay 70 76 ms
+KeyDown 21 1
+Delay 60 65 ms
+KeyUp 21 1
+Delay 70 75 ms
+KeyDown 20 1
+Delay 60 65 ms
+KeyUp 20 1
+Delay 70 76 ms
+KeyDown 20 1
+Delay 60 65 ms
+KeyUp 20 1
+Delay 70 76 ms
+KeyDown 20 1
+Delay 60 65 ms
+KeyUp 20 1
+Delay 70 75 ms
+KeyDown 26 1
+Delay 60 65 ms
+KeyUp 26 1
+Delay 70 76 ms
+KeyDown 8 1
+Delay 60 65 ms
+KeyUp 8 1
+Delay 70 76 ms
+KeyDown 20 1
+Delay 60 65 ms
+KeyUp 20 1
+Delay 70 75 ms
+KeyDown 20 1
+Delay 60 65 ms
+KeyUp 20 1
+Delay 70 75 ms
+KeyDown 9 1
+Delay 60 65 ms
+KeyUp 9 1
+Delay 70 75 ms
+KeyDown 26 1
+Delay 60 65 ms
+KeyUp 26 1
+Delay 70 75 ms
+KeyDown 20 1
+Delay 60 65 ms
+KeyUp 20 1
+Delay 70 75 ms
+KeyDown 20 1
+Delay 60 65 ms
+KeyUp 20 1
+Delay 70 75 ms
+KeyDown 7 1
+Delay 60 65 ms
+KeyUp 7 1
+Delay 70 75 ms
+KeyDown 26 1
+Delay 60 65 ms
+KeyUp 26 1
+Delay 70 75 ms
+KeyDown 20 1
+Delay 60 65 ms
+KeyUp 20 1
+Delay 70 75 ms
+KeyDown 20 1
+Delay 60 65 ms
+KeyUp 20 1
+Delay 70 75 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Albion online</Software>
+  </DefaultMacro>
+</Root>

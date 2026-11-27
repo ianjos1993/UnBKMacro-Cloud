@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major>BlackMamba0205</Major>
+    <Description>FOV 90 Sensitivity 0.4
+DPI 800
+Resolution 1920x1080
+For best experiance with new macro on Mp5, perfectly use burst mode i only have it set up for burst mode
+</Description>
+    <Comment>https://keyran.net - Free macros download </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR -1 39
+Delay 55 ms
+MoveR -1 38
+Delay 55 ms
+MoveR -1 37
+Delay 55 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

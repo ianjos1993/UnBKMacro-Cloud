@@ -1,0 +1,69 @@
+<Root>
+  <DefaultMacro>
+    <Major>chainsaw glitch</Major>
+    <Description>Моя раскладка:
+
+Q - Использовать навык
+
+1 - Поставить блок
+
+Остальное все по старндарту
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Может получатся не с первого раза, в идеале необходимы стабильные 60 фпс
+
+В снаряжении, с этим макросом, цепь должна находится правее серпент хантера
+
+После того как все получилось, зажми клавишу навыка "Q"
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Это рука дьявола, что я даю тебе во владение</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 258 ms
+KeyDown 44 1
+Delay 70 ms
+KeyUp 44 1
+Delay 51 ms
+KeyUp 30 1
+Delay 31 ms
+KeyDown 20 1
+Delay 58 ms
+KeyUp 20 1
+Delay 48 ms
+KeyDown 41 1
+Delay 51 ms
+KeyUp 41 1
+Delay 46 ms
+KeyDown 8 1
+Delay 30 ms
+KeyUp 8 1
+Delay 30 ms
+KeyDown 8 1
+Delay 30 ms
+KeyUp 8 1
+Delay 30 ms
+KeyDown 80 1
+Delay 49 ms
+KeyUp 80 1
+Delay 30 ms
+KeyDown 8 1
+Delay 65 ms
+KeyUp 8 1
+Delay 38 ms
+KeyDown 41 1
+Delay 101 ms
+KeyUp 41 1
+Delay 101 ms
+KeyDown 20 1
+Delay 50 ms
+KeyUp 20 1</Syntax>
+    </KeyDown>
+    <Software>Elden Ring</Software>
+  </DefaultMacro>
+</Root>

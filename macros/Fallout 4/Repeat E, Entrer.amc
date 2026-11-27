@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>готовка мяса втрое быстрее чем просто кнопкой Е</Major>
+    <Description>я делал автоматизацию готовки мяса в игре получил втрое быстрый результат чем простое нажатие в макросе на кнопку Е</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 2 9 ms
+KeyUp 8 1
+Delay 2 9 ms
+KeyDown 88 1
+Delay 2 9 ms
+KeyUp 88 1
+Delay 2 9 ms</Syntax>
+    </KeyDown>
+    <Software>Fallout4</Software>
+  </DefaultMacro>
+</Root>

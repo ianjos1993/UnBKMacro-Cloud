@@ -1,0 +1,201 @@
+<Root>
+  <DefaultMacro>
+    <Major>L. Hellsweep Combo For Kazuya Mishima</Major>
+    <Description>Макрос позволяет выполнять комбо l. hellsweep за Kazuya.
+Видео демонстрации работы макроса: https://youtu.be/vrr9SXHkFY0
+
+По мере развития сюжета цели Казуи меняются. Он оказывается втянутым в глобальную борьбу за власть, в которой участвуют Мишима Дзайбацу, корпорация G (конкурирующая организация) и другие могущественные структуры. Его мотивы становятся все более сложными, в них смешиваются личная месть и стремление к власти и контролю в глобальном масштабе. Персонаж Казуи олицетворяет мрачные темы, присутствующие в серии Tekken, исследуя последствия власти, семейные отношения и внутреннюю борьбу между добром и злом. Его история является центральной нитью во всеобщем повествовании о семье Мишима, что делает его ключевым и знаковым персонажем во вселенной Tekken. В итоге с уверенностью можно заявить, что дьявольский ген дает невероятную силу, но за него приходится платить, так как он может привести к безумию и разрушению.
+
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+
+Тестирование макроса проводились на последнем патче игры на 26.12.2023 (5.01 патч)
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#kazuyaitekken7 #tekken7 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 15 ms
+KeyDown 26 1
+Delay 80 ms
+KeyUp 26 1
+Delay 7 ms
+KeyUp 7 1
+Delay 48 ms
+KeyDown 77 1
+Delay 55 ms
+KeyUp 77 1
+Delay 583 ms
+KeyDown 7 1
+Delay 71 ms
+KeyUp 7 1
+Delay 47 ms
+KeyDown 7 1
+Delay 48 ms
+KeyUp 7 1
+Delay 32 ms
+KeyDown 76 1
+Delay 71 ms
+KeyDown 73 1
+Delay 7 ms
+KeyUp 76 1
+Delay 72 ms
+KeyUp 73 1
+Delay 87 ms
+KeyDown 77 1
+Delay 72 ms
+KeyUp 77 1
+Delay 71 ms
+KeyDown 77 1
+Delay 79 ms
+KeyUp 77 1
+Delay 55 ms
+KeyDown 77 1
+Delay 64 ms
+KeyUp 77 1
+Delay 167 ms
+KeyDown 7 1
+Delay 343 ms
+KeyUp 7 1
+Delay 152 ms
+KeyDown 7 1
+Delay 55 ms
+KeyUp 7 1
+Delay 39 ms
+KeyDown 7 1
+Delay 56 ms
+KeyDown 73 1
+Delay 32 ms
+KeyUp 7 1
+Delay 32 ms
+KeyUp 73 1
+Delay 151 ms
+KeyDown 4 1
+Delay 120 ms
+KeyDown 77 1
+Delay 71 ms
+KeyUp 77 1
+Delay 64 ms
+KeyDown 77 1
+Delay 71 ms
+KeyUp 4 1
+Delay 8 ms
+KeyUp 77 1
+Delay 31 ms
+KeyDown 7 1
+Delay 7 ms
+KeyDown 22 1
+Delay 448 ms
+KeyUp 22 1
+Delay 39 ms
+KeyUp 7 1
+Delay 136 ms
+KeyDown 7 1
+Delay 63 ms
+KeyUp 7 1
+Delay 55 ms
+KeyDown 7 1
+Delay 271 ms
+KeyDown 22 1
+Delay 32 ms
+KeyDown 73 1
+Delay 72 ms
+KeyDown 77 1
+Delay 23 ms
+KeyUp 73 1
+Delay 48 ms
+KeyUp 22 1
+Delay 7 ms
+KeyUp 77 1
+Delay 16 ms
+KeyUp 7 1
+Delay 96 ms
+KeyDown 22 1
+Delay 15 ms
+KeyDown 7 1
+Delay 576 ms
+KeyUp 22 1
+Delay 55 ms
+KeyUp 7 1
+Delay 152 ms
+KeyDown 7 1
+Delay 80 ms
+KeyUp 7 1
+Delay 71 ms
+KeyDown 22 1
+Delay 31 ms
+KeyDown 7 1
+Delay 79 ms
+KeyUp 22 1
+Delay 39 ms
+KeyDown 77 1
+Delay 15 ms
+KeyUp 7 1
+Delay 40 ms
+KeyUp 77 1
+Delay 87 ms
+KeyDown 7 1
+Delay 47 ms
+KeyDown 22 1
+Delay 79 ms
+KeyDown 73 1
+Delay 88 ms
+KeyUp 73 1
+Delay 96 ms
+KeyDown 73 1
+Delay 111 ms
+KeyDown 77 1
+Delay 48 ms
+KeyUp 73 1
+Delay 88 ms
+KeyUp 77 1
+Delay 7 ms
+KeyUp 22 1
+Delay 15 ms
+KeyUp 7 1
+Delay 56 ms
+KeyDown 74 1
+Delay 199 ms
+KeyDown 73 1
+Delay 96 ms
+KeyUp 73 1
+Delay 119 ms
+KeyDown 73 1
+Delay 71 ms
+KeyUp 73 1
+Delay 96 ms
+KeyDown 73 1
+Delay 72 ms
+KeyUp 73 1
+Delay 79 ms
+KeyDown 73 1
+Delay 96 ms
+KeyUp 73 1
+Delay 399 ms
+KeyUp 74 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 7</Software>
+  </DefaultMacro>
+</Root>

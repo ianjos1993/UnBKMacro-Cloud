@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Very simple macro to combine a huge number of skills cards. You have to tick the spacebar in the menu.
+
+Just put the two cards and the tool for them and let the macro works, make a coffe and have fun !!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 64 ms
+KeyDown 44 1
+Delay 500 ms
+KeyUp 44 1
+Delay 64
+GoWhile 1 60</Syntax>
+    </KeyDown>
+    <Software>Rappelz</Software>
+  </DefaultMacro>
+</Root>

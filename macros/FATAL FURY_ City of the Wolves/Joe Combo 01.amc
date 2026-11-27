@@ -1,0 +1,113 @@
+<Root>
+  <DefaultMacro>
+    <Major>Joe Combo 01</Major>
+    <Description>Макрос позволяет выполнять оптимальное комбо за Joe Higashi.
+Видео демонстрации работы макроса: https://youtu.be/4jcjaVRMhLk
+
+Джо Хигаши сохраняет базовую концепцию муай-тай, однако его стиль переработан с учетом современной динамики боя. Основной упор сделан на быстрые входы в дистанцию, серийные атаки коленями и локтями, а также контроль пространства за счет вихревых техник. Поведенческая модель персонажа демонстрирует уверенность, граничащую с провокацией. В бою действует напористо, часто навязывает темп и вынуждает противника к ошибкам. Анимации подчеркивают резкость движений и физическую выносливость. Визуальный облик обновлен, но сохраняет узнаваемые элементы, включая повязку и характерную пластику движений.
+
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — Dodge
+ Z — Feint
+ V — REV Block
+
+Тестирование макроса проводились на последнем патче игры на 07.04.2026
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ.
+
+#JoeFatalFuryCotw #fatalfurycotw #fatalfury</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 122 ms
+KeyDown 7 1
+Delay 7 ms
+KeyUp 22 1
+Delay 79 ms
+KeyDown 26 1
+Delay 111 ms
+KeyUp 7 1
+Delay 6 ms
+KeyUp 26 1
+Delay 35 ms
+KeyDown 74 1
+Delay 105 ms
+KeyUp 74 1
+Delay 422 ms
+KeyDown 22 1
+Delay 129 ms
+KeyDown 4 1
+Delay 63 ms
+KeyUp 22 1
+Delay 122 ms
+KeyUp 4 1
+Delay 42 ms
+KeyDown 7 1
+Delay 49 ms
+KeyDown 76 1
+Delay 142 ms
+KeyUp 7 1
+Delay 72 ms
+KeyUp 76 1
+Delay 32 ms
+KeyDown 74 1
+Delay 14 ms
+KeyDown 4 1
+Delay 188 ms
+KeyUp 74 1
+Delay 0 ms
+KeyDown 22 1
+Delay 8 ms
+KeyUp 4 1
+Delay 124 ms
+KeyDown 7 1
+Delay 25 ms
+KeyUp 22 1
+Delay 136 ms
+KeyUp 7 1
+Delay 149 ms
+KeyDown 22 1
+Delay 92 ms
+KeyDown 4 1
+Delay 100 ms
+KeyUp 22 1
+Delay 59 ms
+KeyUp 4 1
+Delay 32 ms
+KeyDown 7 1
+Delay 77 ms
+KeyDown 22 1
+Delay 58 ms
+KeyUp 7 1
+Delay 123 ms
+KeyUp 22 1
+Delay 66 ms
+KeyDown 78 1
+Delay 136 ms
+KeyUp 78 1</Syntax>
+    </KeyDown>
+    <Software>FATAL FURY: City of the Wolves</Software>
+  </DefaultMacro>
+</Root>

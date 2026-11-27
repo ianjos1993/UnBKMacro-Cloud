@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major>Rust anti afk</Major>
+    <Description>This anti afk will let you go away from computer on any server. Bind it to any button and press it to start and press again to sto. GL HF!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы &lt;3</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 100 ms
+KeyUp 26 1
+Delay 100 ms
+KeyDown 22 1
+Delay 100 ms
+KeyUp 22 1
+Delay 100 ms
+KeyDown 4 1
+Delay 100 ms
+KeyUp 4 1
+Delay 100 ms
+KeyDown 7 1
+Delay 100 ms
+KeyUp 7 1
+Delay 100 ms
+MoveR 136 415
+Delay 100 ms
+MoveR 171 -140
+Delay 100 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

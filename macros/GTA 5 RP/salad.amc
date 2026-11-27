@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Крафт салата в гта 5 рп. на 40 овощей , разрешение 1920 на 1080, 4:3.
+
+
+Цикл состоит из 40 повторений. Когда будете готовить, выкладывайте все, кроме овощей. Иначе у вас ничего не получится</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1163 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 688 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+Delay 64
+MoveTo 1163 281
+MoveTo 1163 280
+MoveTo 1163 279
+MoveTo 1163 278
+GoWhile 1 40
+Delay 64
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

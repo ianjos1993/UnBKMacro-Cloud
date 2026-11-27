@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматически платит налог за квартиру на сервере RPM roleplay. Нужен чтобы квартира не слетела.
+Держать телефон в руке.
+Разрешение: 1920x1080, 2560x1080</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 64
+RightUp 1
+Delay 1000 ms
+MoveTo 1567 331
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1000 ms
+MoveTo 1275 324
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1000 ms
+MoveTo 982 198
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2000 ms
+KeyDown 41 1
+Delay 64 ms
+KeyUp 41 1
+Delay 60000 ms
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

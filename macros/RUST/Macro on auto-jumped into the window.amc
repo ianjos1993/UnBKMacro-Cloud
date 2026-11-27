@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для новичков , которые и вправду зашли в раст впервый раз.
+Уверяю вас , он хороший
+
+Хочу сказать , что я его немного подимзенил , потому что была слишком долгяа задержка</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 2 ms
+KeyDown 224 1
+Delay 2 ms
+KeyUp 224 1
+Delay 2 ms
+KeyDown 44 1
+Delay 2 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

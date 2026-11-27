@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>фарм падиков</Major>
+    <Description>Самый простой макрос на фарм падиков, садишся возле ящика направляеш свой взгляд на него и включаеш скрипт все можеш спокойно идти пить чай..) Макрос сам откроет ящик и переместит вещи в рюкзак и будет это делать и дальше)</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 15 s
+KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 5 s
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 5 s
+GoWhile 1 9999999</Syntax>
+    </KeyDown>
+    <Software>Stalker online</Software>
+  </DefaultMacro>
+</Root>

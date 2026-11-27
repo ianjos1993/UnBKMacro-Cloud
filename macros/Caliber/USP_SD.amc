@@ -1,0 +1,458 @@
+<Root>
+  <DefaultMacro>
+    <Major>DPI 2400, верт.синх OFF</Major>
+    <Description>Макрос для снижения отдачи для любого оперативника у которого есть USP SD получаемый из оружейного контейнера.
+
+Для правильной работоспособности нужно: 
+ Отключить вертикальную синхронизацию
+ Установить расширение монитора в игре 1920 x 1080.
+ Поставить чувствительность в игре 50.0
+
+Так же необходим навык от оперативника Вагабонд - чувствительный спусковой крючок </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR -1 -1
+Delay 7 ms
+LeftDown 1
+Delay 7 ms
+LeftUp 1
+Delay 7 ms
+MoveR 0 0
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+LeftDown 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+LeftUp 1
+Delay 7 ms
+MoveR 0 0
+Delay 7 ms
+MoveR 0 3
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+LeftDown 1
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 3
+Delay 7 ms
+MoveR -2 3
+Delay 7 ms
+LeftUp 1
+Delay 7 ms
+MoveR 0 4
+Delay 7 ms
+MoveR 0 3
+Delay 7 ms
+MoveR 0 4
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR -2 2
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+LeftDown 1
+Delay 7 ms
+LeftUp 1
+Delay 7 ms
+LeftDown 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+LeftUp 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR -1 3
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 5
+Delay 7 ms
+MoveR -1 1
+Delay 7 ms
+MoveR -1 5
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 6
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 7
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 6
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 6
+Delay 7 ms
+MoveR -1 1
+Delay 7 ms
+LeftDown 1
+Delay 7 ms
+LeftUp 1
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+LeftDown 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR -2 2
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR -1 1
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+LeftUp 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+LeftDown 1
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+LeftUp 1
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 3
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 3
+Delay 7 ms
+MoveR 0 4
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 3
+Delay 7 ms
+MoveR 0 4
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+LeftDown 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR -1 1
+Delay 7 ms
+LeftUp 1
+Delay 7 ms
+MoveR -1 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 3
+Delay 7 ms
+MoveR -1 2
+Delay 7 ms
+LeftDown 1
+Delay 7 ms
+MoveR 0 3
+Delay 7 ms
+MoveR -1 1
+Delay 7 ms
+MoveR -1 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+LeftUp 1
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 1 3
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 2 2
+Delay 7 ms
+MoveR 0 3
+Delay 7 ms
+MoveR 0 3
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+LeftDown 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+LeftUp 1
+Delay 7 ms
+MoveR 0 3
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 1 3
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+LeftDown 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+LeftUp 1
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 3
+Delay 7 ms
+MoveR 0 3
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+LeftDown 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+LeftUp 1
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+LeftDown 1
+Delay 7 ms
+MoveR -1 3
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR -1 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+LeftUp 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 4
+Delay 7 ms
+MoveR 0 3
+Delay 7 ms
+MoveR -1 1
+Delay 7 ms
+MoveR -1 2
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+LeftDown 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+LeftUp 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 3
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+LeftDown 1
+Delay 7 ms
+MoveR 0 2
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR -1 1
+Delay 7 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Caliber</Software>
+  </DefaultMacro>
+</Root>

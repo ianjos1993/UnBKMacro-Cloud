@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для мода calamity.
+Берешь криогеновую ауру и норм броню, в 1 слот ставишь призывалку бича, и он убивается 25 раз.
+</Description>
+    <Comment>Делал изначально для себя, думаю может кому понрав</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+WheelDown 1
+Delay 64
+WheelDown 1
+Delay 64
+WheelDown 1
+Delay 64
+WheelDown 1
+Delay 64
+WheelDown 1
+Delay 64
+WheelDown 1
+Delay 64
+WheelDown 1
+Delay 64
+WheelDown 1
+Delay 64
+WheelDown 1
+Delay 64
+WheelDown 1
+GoWhile 1 25
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Terraria</Software>
+  </DefaultMacro>
+</Root>

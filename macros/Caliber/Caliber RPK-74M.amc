@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для Рекрута поддержки. Возможно подойдет еще для кого то из поддержки, у кого схожие стрелковые ттх.
+ 		 
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR -1 1
+Delay 7 ms
+MoveR -1 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR -1 1
+Delay 7 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Caliber</Software>
+  </DefaultMacro>
+</Root>

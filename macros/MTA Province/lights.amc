@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major>Спам светом 2560х1080</Major>
+    <Description>Спам включением/выключением света в транспорте под разрешение 2560х1080. За большое количество запросов возможен кик с сервера!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>WheelUp 1
+Delay 1 ms
+WheelDown 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

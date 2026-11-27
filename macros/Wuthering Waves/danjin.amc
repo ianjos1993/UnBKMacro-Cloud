@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>DANJIN  ROTATION  NURMAL ATTACK AND SKILL
+
+- IF THE ROTATION FAIL JUST RELEASE THE BUTTON AND PRESS AGAIN.
+- THIS IS FOR SOLO DANJIN.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 150 ms
+KeyUp 8 1
+Delay 150 ms
+LeftDown 1
+Delay 150 ms
+LeftUp 1
+Delay 300 ms
+LeftDown 1
+Delay 300 ms
+LeftUp 1
+Delay 150 ms
+KeyDown 8 1
+Delay 300 ms
+KeyUp 8 1
+Delay 300 ms
+KeyDown 8 1
+Delay 300 ms
+KeyUp 8 1
+Delay 300 ms
+KeyDown 8 1
+Delay 300 ms
+KeyUp 8 1
+Delay 800 ms
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Wuthering Waves</Software>
+  </DefaultMacro>
+</Root>

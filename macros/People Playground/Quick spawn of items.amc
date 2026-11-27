@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Быстрый спавн предметов, можно использовать в замедленном режиме, только будьте аккуратны:
+При использовании макроса в режими замедления или без замедления, объекты могут спавниться "друг в друге". Ну и ественно спавнит предметы, которые будут "смотреть" в право </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 1 ms
+KeyUp 8 1</Syntax>
+    </KeyDown>
+    <Software>People PlayGround</Software>
+  </DefaultMacro>
+</Root>

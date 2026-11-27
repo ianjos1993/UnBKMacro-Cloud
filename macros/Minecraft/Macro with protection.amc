@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос бьёт противника, и нажимает ПКМ (Подставляя меч или щит, для защиты) Помогает в пвп                           </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+LeftUp 1
+Delay 35 ms
+LeftDown 1
+LeftUp 1
+Delay 35 ms
+LeftDown 1
+LeftUp 1
+Delay 35 ms
+LeftDown 1
+LeftUp 1
+Delay 35 ms
+LeftDown 1
+LeftUp 1
+Delay 35 ms
+LeftDown 1
+LeftUp 1
+RightDown 1
+RightUp 1
+Delay 35 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major>Пробная-любительскай пиналка манов</Major>
+    <Description>Штука чтобы крутить 360.
+В ознакомительных целях и чтобы выши пальчики не уставали.
+Так же можете чуть уменьшить основной мс нажатия и добавить +10мс на отпуск.(для тех у кого бывает меньше 30кадров)
+1. Привяжи к любой клавише.
+2. Зайди в нашу любимую дбд.
+3.Пикни сурва и иди развлекай манов.
+(Макрос работает на зажатой кнопке).</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 100 ms
+KeyUp 26 1
+Delay 1 ms
+KeyDown 4 1
+Delay 100 ms
+KeyUp 4 1
+Delay 1 ms
+KeyDown 22 1
+Delay 100 ms
+KeyUp 22 1
+Delay 1 ms
+KeyDown 7 1
+Delay 100 ms
+KeyUp 7 1
+Delay 1 ms
+KeyDown 26 1
+Delay 100 ms
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>Dead by daylight</Software>
+  </DefaultMacro>
+</Root>

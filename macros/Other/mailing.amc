@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Быстрая рассылка в вотсапп веб с помошью ctrl+v. 1 сообщение+1 секунда.
+надо открыть вотсапп веб на весь экран и запустить этот макрос он перематывает список вниз и сам вставляет и отправляет сообщение которое вы до этого скопировали</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 637 204
+Delay 100 ms
+LeftDown 1
+Delay 100 ms
+MoveTo 637 1012
+Delay 300 ms
+LeftUp 1
+Delay 100 ms
+MoveTo 407 905
+Delay 100 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 100 ms
+MoveTo 1094 989
+Delay 100 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 100 ms
+KeyDown 224 1
+Delay 100 ms
+KeyDown 25 1
+Delay 100 ms
+KeyUp 25 1
+Delay 100 ms
+KeyUp 224 1
+Delay 100 ms
+KeyDown 88 1
+Delay 100 ms
+KeyUp 88 1
+Delay 700 ms
+GoWhile 1 2900</Syntax>
+    </KeyDown>
+    <Software>вотсапп веб</Software>
+  </DefaultMacro>
+</Root>

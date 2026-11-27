@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Самый простой макрос на копатель червей онлайн. Разрешение 1920 х1080. Делайте инвентарь по середине, и лопату на верхний правый слот, запускаете, и готово, черви сами лезут к вам в инвентарь. Удачи</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 12 1
+Delay 64
+Delay 64
+Delay 64
+KeyUp 12 1
+Delay 64
+Delay 64
+MoveTo 941 384
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 16 s</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

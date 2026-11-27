@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>You can literally float on any building you made. 
+Follow this steps to the macro to work:
+
+1.- Change editing keybind to G (in fortnite)
+2.- Assign the macro to a keybind (keyran)
+3.- Start the macros
+4.- Everytime you press the assigned keybind it will work
+5.- Enjoy the macros
+
+if you have any issues with this, contact me or another macro creator.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+Delay 5 ms
+KeyUp 10 1
+Delay 5 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+KeyDown 10 1
+Delay 5 ms
+KeyUp 10 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

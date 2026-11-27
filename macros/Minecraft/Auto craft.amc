@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>И всем доброго утра.Сегодня я решил написать для вас новый макрос.Макрос называется Auto craft.Как вы уже поняли он автоматически пишет команду /craft.Данная команда позволяет вам открыть виртуальный верстак.По факту это самый обычный верстак,просто он открывается командой.Это значительно ускоряет процесс крафта.Вам не требуется тратить ресурсы и время на крафт верстака,а так же занимать для этого слот в инвентаре.Этот макрос автоматически напишет команду для его открытия за вас,чтобы вы не тратили время на ввод команды.
+
+Инструкция по настройке:
+1)Устанавливаете файл данного макроса на свой компьютер.
+2)Выбираете для себя удобную клавишу.
+3)Нажимаете по ней правой кнопкой мыши и назначаете макрос.
+4)Сохраняете и используете.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 32 ms
+KeyUp 56 1
+Delay 32 ms
+KeyDown 6 1
+Delay 32 ms
+KeyUp 6 1
+Delay 32 ms
+KeyDown 21 1
+Delay 32 ms
+KeyUp 21 1
+Delay 32 ms
+KeyDown 4 1
+Delay 32 ms
+KeyUp 4 1
+Delay 32 ms
+KeyDown 9 1
+Delay 32 ms
+KeyUp 9 1
+Delay 32 ms
+KeyDown 23 1
+Delay 32 ms
+KeyUp 23 1
+Delay 32 ms
+KeyDown 88 1
+Delay 32 ms
+KeyUp 88 1
+Delay 32 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>Авто кристалы 10-20 взрывов в секунду</Major>
+    <Description>Автоматическая установка и взрыв кристалов в майнкрафт.
+
+Для использования,нужно установить кнопку кристалов на E,после поставить обсидиан и смотря на него зажать назначенную клавишу макроса.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 1
+KeyUp 8 1
+Delay 1
+RightDown 1
+Delay 1
+RightUp 1
+Delay 50 ms
+LeftDown 1
+Delay 1
+LeftUp 1
+Delay 1
+GoWhile 5 50000000</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

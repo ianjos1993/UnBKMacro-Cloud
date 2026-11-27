@@ -1,0 +1,49 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос предназначен для автоматического лечения у медсестры в Террарии.
+Как использовать: назначаете макрос на любую удобную клавишу, после подходите к медсестре и нажимаете на эту кнопку ( кликать ПКМ по медсестре перед включением макроса не надо ).
+
+Макрос кликает в трех разных точках, где может располагаться кнопка лечения, поэтому не рекомендую держать в руках зелья и предметы для телепортации, после нажатия кнопки лечения окно медсестры закроется, а курсор вернется к персонажу.
+
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 589 175
+Delay 32 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 587 205
+Delay 32 ms
+LeftDown 1
+Delay 32 ms
+LeftUp 1
+Delay 32 ms
+MoveTo 586 237
+Delay 32 ms
+LeftDown 1
+Delay 32 ms
+LeftUp 1
+Delay 32 ms
+MoveTo 782 460
+Delay 32 ms
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Terraria</Software>
+  </DefaultMacro>
+</Root>

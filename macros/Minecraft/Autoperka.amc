@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Добрый день дорогие макросники,сегодня я сделал макрос на авто перку,чтобы вы могли легко и быстро всего 1 нажатием кнопки кидать эндерперл. На 4 слоте должна быть расположена перка а на 3 слоте любой предмет смотря на вашу раскладку (у меня стоит меч).Макрос можете забиндить на любую удобную для вас клавишу.На этом пока все,желаю вам интересной и удачной игры!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 33 1
+Delay 24 ms
+KeyUp 33 1
+Delay 24 ms
+RightDown 1
+Delay 24 ms
+RightUp 1
+Delay 24 ms
+KeyDown 32 1
+Delay 24 ms
+KeyUp 32 1
+Delay 24 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

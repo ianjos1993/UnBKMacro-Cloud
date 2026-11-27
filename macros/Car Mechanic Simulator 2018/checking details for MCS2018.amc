@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для выбивания достижения в стим в игре car mechanic simulator 2018, позволяет изучать деталь автомобиля 9к раз.  Пришлось к ней прибегунть ведь достижение на изучение 10к деталей слишком гриндовое. Нужно войти в режим проверки деталей, навестись на нужную деталь которую вы можете проверить и включить макрос и можете уходить на часа три.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 1200 ms
+LeftUp 1
+Delay 100 ms
+GoWhile 1 9000</Syntax>
+    </KeyDown>
+    <Software>car mechanic simulator 2018</Software>
+  </DefaultMacro>
+</Root>

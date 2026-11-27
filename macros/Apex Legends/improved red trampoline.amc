@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос нужен для новой мувмент техники на красном батут октейна
+Что бы его использовать биндем на любую удобную вам кнопку и когда заежаем на батут( во время полёта держим кнопку приседа)
+Если вам что то не понятно напишите мне</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1900 ms
+WheelDown 1
+Delay 1 ms
+KeyDown 22 1
+Delay 1 ms
+KeyUp 22 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Macro: Boogie Woogie (Switcher — Jujutsu Shenanigans)
+
+Objective: To simplify the process of activating the «Perfect Boogie Woogie» mechanics, which requires perfect precision when pressing buttons.
+
+Process: The installed macro initiates the technique with a single keystroke, ensuring its consistent execution.
+
+Prerequisites: You must support 120 FPS in the game on a public server, and also have a ping of no more than 100 ms. In addition, the character «Switcher» is used.
+
+Important: The macro can only be active if there is no recovery time for all the character's abilities.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 115 ms
+KeyUp 21 1
+Delay 376 ms
+LeftDown 1
+Delay 144 ms
+LeftUp 1
+Delay 304 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

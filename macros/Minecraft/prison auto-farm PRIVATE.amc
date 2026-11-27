@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос поможет вам афк копать шахту как в обычном мире майнкрафт как и на серверах майнкрафт ( призон )
+
+разширение екрана 1600 на 900</Description>
+    <Comment>
+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+LeftDown 1
+Delay 5000 ms
+MoveTo 200 450
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+Delay 5000 ms
+MoveTo 200 450
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+Delay 5000 ms
+MoveTo 200 450
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+Delay 5000 ms
+MoveTo 200 450
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+GoWhile 1 9999999</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

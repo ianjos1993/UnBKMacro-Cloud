@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для отматывания времени Гераса (На DSAE) справа.
+
+Скорость отклика кнопок низкая
+Активация при отпускании выкл.</Description>
+    <Comment>Макрос для отматывания времени Гераса (На DSAE) справа.
+
+Скорость отклика кнопок низкая
+Активация при отпускании выкл.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 25 ms
+KeyUp 4 1
+Delay 25 ms
+KeyDown 22 1
+Delay 25 ms
+KeyUp 22 1
+Delay 25 ms
+KeyDown 7 1
+Delay 25 ms
+KeyUp 7 1
+Delay 25 ms
+KeyDown 8 1
+Delay 25 ms
+KeyUp 8 1
+Delay 25 ms</Syntax>
+    </KeyDown>
+    <Software>Mortal Kombat 11</Software>
+  </DefaultMacro>
+</Root>

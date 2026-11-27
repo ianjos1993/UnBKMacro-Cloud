@@ -1,0 +1,67 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>И так подлетел долгожданный баг макрос который пилит менее секунды в  яме , 22 удара 5 хила свапаеться идиально и убивает онли 5 секунд крашка в селке , обыч пб за секу и се з4 в 0 умерают . 
+1)Что-бы воспользоваться макросом вам стоит его скачать.
+2)после загрузить куда вам нужно
+3)зайти в Keyran(botmek)в редактор
+4)найти слева снизу чуть чуть правее папочку
+5)зайти в неё 
+6) найти мой макрос 
+7) установить на удобную вам кнопку 
+И вуаля яма ваша (вылаживаю потому-что никто не может убить . И так на какие-же он слоты.
+1 - меч о5(7)
+3 - фрост
+9 - меч (острота 4-5)
+Удачного Попиливания вв яме!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+RightDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+RightUp 1
+Delay 2 ms
+LeftDown 1
+Delay 6 ms
+LeftUp 1
+KeyDown 32 1
+Delay 1 ms
+KeyUp 32 1
+RightDown 1
+Delay 12 ms
+RightUp 1
+Delay 8 ms
+RightDown 1
+Delay 16 ms
+KeyDown 38 1
+Delay 1 ms
+KeyUp 38 1
+LeftDown 1
+Delay 8 ms
+LeftDown 1
+Delay 4 ms
+LeftUp 1
+Delay 2 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 1 ms
+LeftDown 1
+Delay 6 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major>bazooka extend gpo</Major>
+    <Description>Для того чтобы реализовать дополнительный комбо экстенд, вам нужно иметь rokushiki(необязательно), базуку. Устанавливаете на любую удобную кнопку, у меня это "v" после делаем 2 удара и включаем макрос, макрос сделает работу, а вам останется переключиться на тот слот которым вы хотите ударить, если понравиться сделаю такой эе макрос для 2,3, слота. Конкретно этот макрос нужен для первого слота и в 4 слоте у вас должна лежать базука. Приятной игры:)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 1
+LeftUp 1
+Delay 10 ms
+KeyDown 33 1
+Delay 5 ms
+KeyUp 33 1
+Delay 15 ms
+LeftDown 1
+Delay 1
+LeftUp 1
+Delay 10 ms
+KeyDown 30 1
+KeyUp 30 1
+LeftDown 1
+Delay 1
+LeftUp 1
+Delay 15 ms
+KeyDown 33 1
+Delay 1
+KeyUp 33 1
+LeftDown 1
+Delay 1
+LeftUp 1
+LeftDown 1
+Delay 1
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major>IcantTapstrafe</Major>
+    <Description>Hey everyone!
+This macro allows you to swap weapons very easily.
+
+Here is how it works:
+
+1.Bind this macro on a key of your choice.
+2.press the key once to switch the weapons 1 time.
+
+Try the macro on the training ground first and i prefer using double shotgun ingame!!
+
+Enjoy!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 50 ms
+KeyUp 30 1
+Delay 50 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 50 ms
+KeyDown 31 1
+Delay 50 ms
+KeyUp 31 1
+Delay 50 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

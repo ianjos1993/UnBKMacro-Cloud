@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major>macro LR 2.0 for high sens</Major>
+    <Description>this macro work for LR with high sensibility
+1920x1080
+fov90
+sens 1.2+
+dpi 1200-1400
+
+try it and enjoy the macro</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 50 ms
+MoveR 0 23
+Delay 50 ms
+MoveR 0 23
+Delay 50 ms
+MoveR 0 23
+Delay 50 ms
+MoveR 0 23
+Delay 50 ms
+LeftUp 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Выбираете контейнер и запускаете,будет автоматом открывать пока не выключите. Открывал так кейсы макларен 150+ штук,очень удобно, разрешение 1920х1080 формат 5;4</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1290 693
+Delay 64
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 882 665
+Delay 64
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 5 s
+MoveTo 955 833
+Delay 64
+Delay 1 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 2 s</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

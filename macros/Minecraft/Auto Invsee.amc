@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всем привет.Недавно я публиковал макрос.который называется "Auto Clear Inventory",который позволяет вам автоматически очистить инвентарь игрока.И вот я решил опубликовать еще 1 макрос под названием Auto Invsee.Эта команда позволяет автоматически проверить инвентарь игрока,вам лишь нужно сразу же после того как макрос напишет команду написать ник игрока.
+
+Инструкция по настройке:
+1)Скачиваете макрос.
+2)Отрываете панель клавиатуры Keyran.
+3)Выбираете удобную для вас клавишу.
+4)Назначаете на нее макрос.
+5)Сохраняете и используете.</Description>
+    <Comment> </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 32 ms
+KeyUp 56 1
+Delay 32 ms
+KeyDown 12 1
+Delay 32 ms
+KeyUp 12 1
+Delay 32 ms
+KeyDown 17 1
+Delay 32 ms
+KeyUp 17 1
+Delay 32 ms
+KeyDown 25 1
+Delay 32 ms
+KeyUp 25 1
+Delay 32 ms
+KeyDown 22 1
+Delay 32 ms
+KeyUp 22 1
+Delay 32 ms
+KeyDown 8 1
+Delay 32 ms
+KeyUp 8 1
+Delay 32 ms
+KeyDown 8 1
+Delay 32 ms
+KeyUp 8 1
+Delay 32 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

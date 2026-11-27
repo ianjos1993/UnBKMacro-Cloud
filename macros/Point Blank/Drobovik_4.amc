@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>не зажимной макрос на перевертыш, советую ставить на лкм
+ Как пользоваться – нажимаете правую кнопку мышки, отпускаете, нажимаете левую кнопку мыши, отпускаете, каждый раз происходит задержка 20 мс.
+
+Нажимаете левую кнопку мышки, затем клавишу 3, клавишу 2, задержка везде 20 мс.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                                                                                                      </Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+//http://vk.com/ultracore3 Скрипты и макросы!
+Delay 20 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 32 1
+Delay 20 ms
+KeyUp 32 1
+Delay 20 ms
+KeyDown 30 1
+Delay 20 ms
+KeyUp 30 1</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

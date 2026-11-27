@@ -1,0 +1,136 @@
+<Root>
+  <DefaultMacro>
+    <Major>Макрос без привязки к окну, прочитайте инструкцию в описании. Только для серверов с резетом на споте без реконнекта!</Major>
+    <Description>Перед использованием убедиться:
+1. Версия игры поддерживает упрощенный режим (Ctrl+F)
+2. На сервере достурен резет на споте
+3. Не происходит реконнект после резета.
+4. Макрос не раскидывает статы
+
+Настройка окна перед использованием:
+1. Забиндить на alt+1 команду для резета персонажа (/1 /reset) на каждом из 3х окон
+2. Кроме окон му не должно быть больше ничего доступно для alt+tab
+3. Перед запуском макроса все окна должны быть в упрощенном режиме(ctrl+f)
+
+Макрос снимает упрощенный режим, прожимает Alt+1, ставит упрощенный режим, меняет окно, повторяет действия, меняет окно, повторяет, возвращается на 1е окно. Ждет минуту и повторяет всю последовательность</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 3535 ms
+KeyDown 224 1
+Delay 379 ms
+KeyDown 9 1
+Delay 181 ms
+KeyUp 9 1
+Delay 34 ms
+KeyUp 224 1
+Delay 1197 ms
+KeyDown 226 1
+Delay 225 ms
+KeyDown 30 1
+Delay 173 ms
+KeyUp 30 1
+Delay 50 ms
+KeyUp 226 1
+Delay 668 ms
+KeyDown 224 1
+Delay 302 ms
+KeyDown 9 1
+Delay 183 ms
+KeyUp 9 1
+Delay 62 ms
+KeyUp 224 1
+Delay 515 ms
+KeyDown 226 1
+Delay 163 ms
+KeyDown 43 1
+Delay 150 ms
+KeyUp 43 1
+Delay 804 ms
+KeyDown 43 1
+Delay 170 ms
+KeyUp 43 1
+Delay 993 ms
+KeyUp 226 1
+Delay 796 ms
+KeyDown 224 1
+Delay 324 ms
+KeyDown 9 1
+Delay 210 ms
+KeyUp 9 1
+Delay 518 ms
+KeyUp 224 1
+Delay 544 ms
+KeyDown 226 1
+KeyDown 30 1
+Delay 213 ms
+KeyUp 30 1
+Delay 211 ms
+Delay 308 ms
+KeyUp 226 1
+Delay 2448 ms
+KeyDown 224 1
+Delay 581 ms
+KeyDown 9 1
+Delay 218 ms
+KeyUp 9 1
+Delay 113 ms
+KeyUp 224 1
+Delay 1238 ms
+KeyDown 226 1
+Delay 229 ms
+KeyDown 43 1
+Delay 140 ms
+KeyUp 43 1
+Delay 302 ms
+KeyDown 43 1
+Delay 138 ms
+KeyUp 43 1
+Delay 61 ms
+KeyUp 226 1
+Delay 684 ms
+KeyDown 224 1
+Delay 459 ms
+KeyDown 9 1
+Delay 215 ms
+KeyUp 9 1
+Delay 208 ms
+KeyUp 224 1
+Delay 969 ms
+KeyDown 226 1
+Delay 858 ms
+KeyDown 30 1
+Delay 187 ms
+KeyUp 30 1
+Delay 64 ms
+KeyUp 226 1
+Delay 724 ms
+KeyDown 224 1
+Delay 637 ms
+KeyDown 9 1
+Delay 222 ms
+KeyUp 9 1
+Delay 35 ms
+KeyUp 224 1
+KeyDown 226 1
+Delay 229 ms
+KeyDown 43 1
+Delay 140 ms
+KeyUp 43 1
+Delay 302 ms
+KeyDown 43 1
+Delay 138 ms
+KeyUp 43 1
+Delay 61 ms
+KeyUp 226 1
+Delay 1 min
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>MU Online</Software>
+  </DefaultMacro>
+</Root>

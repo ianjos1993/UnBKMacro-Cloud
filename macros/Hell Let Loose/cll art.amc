@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Идеальный тайминг для артилеристов. Макрос сам пересаживается на заряжающего производит заряжание и пересаживается на стрелка.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 59 1
+Delay 1400 ms
+KeyUp 59 1
+KeyDown 21 1
+KeyUp 21 1
+Delay 3500 ms
+KeyDown 58 1
+Delay 1400 ms
+KeyUp 58 1</Syntax>
+    </KeyDown>
+    <Software>Hell Let Loose</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простой макрос который создан для режима Basketball Legends чтобы облегчить жизнь игрокам с ноутбука.
+Нажать быстро Z X сложно так как вам нужно засовывать палец под руку.
+
+В макросе я так же сделал чтобы при нажатии клавиши (например в чате) X стиралась, чтобы не было ошибок когда вы пишите.
+
+Макрос не зависит от FPS или же от Ping'a.
+
+Удачи!
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 5 ms
+KeyUp 29 1
+Delay 64
+KeyDown 27 1
+Delay 20 ms
+KeyDown 42 1
+KeyUp 42 1
+KeyUp 27 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

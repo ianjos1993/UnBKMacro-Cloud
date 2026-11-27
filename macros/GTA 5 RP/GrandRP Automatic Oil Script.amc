@@ -1,0 +1,54 @@
+<Root>
+  <DefaultMacro>
+    <Major>Grand RP Automatic Oil Script</Major>
+    <Description>Oil Script for GrandRP
+Resolution: 1920x1080
+Put the Game in Borderless Windowed mode
+Dont forget to Check Verify/Captcha while using this Script</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 302 752
+Delay 15 ms
+MoveTo 303 752
+Delay 34 ms
+MoveTo 303 751
+Delay 125 ms
+LeftDown 1
+Delay 1408 ms
+MoveTo 402 749
+Delay 7 ms
+MoveTo 402 750
+Delay 2715 ms
+LeftUp 1
+Delay 60 ms
+LeftDown 1
+Delay 243 ms
+MoveTo 508 753
+Delay 5 ms
+MoveTo 509 753
+Delay 4184 ms
+LeftUp 1
+Delay 72 ms
+LeftDown 1
+Delay 218 ms
+MoveTo 616 755
+Delay 87 ms
+MoveTo 617 755
+Delay 4465 ms
+LeftUp 1
+Delay 85 ms
+LeftDown 1
+Delay 5181 ms
+LeftUp 1
+Delay 156 ms
+GoWhile 1 9999</Syntax>
+    </KeyDown>
+    <Software>Grand RP</Software>
+  </DefaultMacro>
+</Root>

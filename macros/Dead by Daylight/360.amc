@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>авто 360 инструкция по использыванию 
+1. забиндь на любую клавишу
+2. зайди в dbd
+3. удерживаю клавишу и используй макрос</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 1 ms
+KeyUp 26 1
+Delay 1 ms
+KeyDown 4 1
+Delay 1 ms
+KeyUp 4 1
+Delay 1 ms
+KeyDown 22 1
+Delay 1 ms
+KeyUp 22 1
+Delay 1 ms
+KeyDown 7 1
+Delay 1 ms
+KeyUp 7 1
+Delay 1 ms
+KeyDown 26 1
+Delay 1 ms
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>Dead by daylight</Software>
+  </DefaultMacro>
+</Root>

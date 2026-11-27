@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This is a destiny 2 macro for well skating, need to pick up a sword with eager edge and press the key one time</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 40 ms
+RightUp 1
+Delay 5 ms
+KeyDown 44 1
+Delay 20 ms
+KeyUp 44 1
+Delay 5 ms
+KeyDown 9 1
+Delay 1 ms
+KeyUp 9 1</Syntax>
+    </KeyDown>
+    <Software>Destiny 2</Software>
+  </DefaultMacro>
+</Root>

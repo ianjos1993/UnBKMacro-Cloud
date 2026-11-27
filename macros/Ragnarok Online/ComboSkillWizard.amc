@@ -1,0 +1,796 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>A macro for using a mage's skill by using two skills at the same time.
+
+How to use
+F1 will use the skill twice.
+F2 will use the skill after F1 once.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+KeyDown 58 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 58 1
+Delay 3 ms
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 59 1
+Delay 3 ms
+KeyDown 59 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 59 1
+Delay 3 ms
+KeyDown 59 1
+Delay 10 ms
+LeftDown 1
+KeyDown 59 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 59 1
+Delay 3 ms
+KeyDown 59 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 59 1
+Delay 3 ms
+KeyDown 59 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 59 1
+Delay 3 ms
+KeyDown 59 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 59 1
+Delay 3 ms
+KeyDown 59 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 59 1
+Delay 3 ms
+KeyDown 59 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 59 1
+Delay 3 ms
+KeyDown 59 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 59 1
+Delay 3 ms
+KeyDown 59 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 59 1
+Delay 3 ms
+KeyDown 59 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 59 1
+Delay 3 ms
+KeyDown 59 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 59 1
+Delay 3 ms
+KeyDown 59 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 59 1
+Delay 3 ms
+KeyDown 59 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 59 1
+Delay 3 ms
+KeyDown 59 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 59 1
+Delay 3 ms
+KeyDown 59 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 59 1
+Delay 3 ms
+KeyDown 59 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 59 1
+Delay 3 ms
+KeyDown 59 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 59 1
+Delay 3 ms
+KeyDown 59 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 59 1
+Delay 3 ms
+KeyDown 59 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 59 1
+Delay 3 ms
+KeyDown 59 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 59 1
+Delay 3 ms
+KeyDown 59 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 59 1
+Delay 3 ms
+KeyDown 59 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 59 1
+Delay 3 ms
+KeyDown 59 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 59 1
+Delay 3 ms
+KeyDown 59 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 59 1
+Delay 3 ms
+KeyDown 59 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 59 1
+Delay 3 ms
+KeyDown 59 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 59 1
+Delay 3 ms
+KeyDown 59 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 59 1
+Delay 3 ms
+KeyDown 59 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 59 1
+Delay 3 ms
+KeyDown 59 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 59 1
+Delay 3 ms
+KeyDown 59 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 59 1
+Delay 3 ms
+KeyDown 59 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 59 1
+Delay 3 ms
+KeyDown 59 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 59 1
+Delay 3 ms
+KeyDown 59 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 59 1
+Delay 3 ms
+KeyDown 59 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 59 1
+Delay 3 ms
+KeyDown 59 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 59 1
+Delay 3 ms
+KeyDown 59 1
+Delay 10 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 59 1
+Delay 3 ms</Syntax>
+    </KeyDown>
+    <Software>Ragnarok</Software>
+  </DefaultMacro>
+</Root>

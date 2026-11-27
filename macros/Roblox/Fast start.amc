@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Только для CB:RO. Вы можете сразу начать играть за какую нибудь из команд.
+-------------------------------------------------------------------------------------------------------------------------------------------
+1) Скачать макрос.
+2) Во вкладке клавиши биндите макрос.
+3) Заходите в CB:RO и нажимайте на забинджиную кнопку.
+4) Выбираете команду за которую будете играть.
+5) Profit.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 386 251
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

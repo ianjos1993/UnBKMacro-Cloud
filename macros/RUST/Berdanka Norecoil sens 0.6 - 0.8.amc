@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на берданку
+1. Ограничение по сенсе 06 - 0.8
+2. Макрос является Norecoil версией, т.е вы можете не стрелять по пульке, а зажать всю обойму.
+3. FOV - 90.
+
+
+ -</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 20 ms
+MoveR 0 5
+Delay 20 ms
+MoveR 0 5
+Delay 20 ms
+MoveR 0 5
+Delay 20 ms
+MoveR 0 5
+Delay 20 ms
+MoveR 0 5
+Delay 20 ms
+LeftUp 1
+Delay 101 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

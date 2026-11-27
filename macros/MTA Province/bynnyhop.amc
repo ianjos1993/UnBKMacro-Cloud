@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>данный скрипт нужен что бы не убивать клавишу пробел, шифт и вперед. устанавливаете его на определенную клавишу и вперед баннихопить подравнивая все это дело мышкой. заходите в клавиши в программе, ставите мой скрипт на определенную кнопку, нажимаете, и попрыгали. </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+KeyDown 225 1
+KeyDown 44 1
+Delay 256 ms
+KeyUp 44 1
+Delay 752 ms
+KeyDown 44 1
+Delay 152 ms
+KeyUp 44 1
+Delay 984 ms</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

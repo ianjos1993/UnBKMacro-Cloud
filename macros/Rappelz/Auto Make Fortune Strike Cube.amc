@@ -1,0 +1,83 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>I find it better if you make Fortune 1-5 Strike manually as it gives more yield than letting the Coin Exchanger NPC do it in bulk.
+
+How to use: 
+1. Recommended resolution is 1400x1050 (windowed mode)
+2. Put the Inventory + the enchant window on the Top Right corner. Like this --&gt; https://ibb.co/vrdJZnF
+3. Put the Fortune Chip on the first slot and the Extreme Power on the second slot.Like this ---&gt;&gt; https://ibb.co/gMZ4vyG1
+4. Start the macro and Enjoy!
+
+
+PS: This only works for Fortune Strike Cubes 
+</Description>
+    <Comment>Feel free to message me!</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1347 89
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 36 1
+Delay 64
+KeyUp 36 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+MoveTo 1309 93
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 64
+KeyDown 35 1
+Delay 64
+KeyUp 35 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+MoveTo 1220 495
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64 ms
+MoveTo 1017 439
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+LeftDown 1
+Delay 1000 ms
+LeftUp 1
+Delay 64
+GoWhile 1 9999</Syntax>
+    </KeyDown>
+    <Software>Rappelz</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,147 @@
+<Root>
+  <DefaultMacro>
+    <Major>Victor Combo 10</Major>
+    <Description>Макрос позволяет выполнять комбо за Victor комбинацию с HEAT.
+Видео демонстрации работы макроса: https://youtu.be/rb8HOIxKmCA
+
+Виктор строгий и расчетливый человек, обладающий железной дисциплиной и аналитическим умом. Он предпочитает действовать методично, не поддаваясь эмоциям. Его решения всегда взвешены и направлены на достижение цели. Виктор умеет сохранять спокойствие в критических ситуациях и требует того же от окружающих. В коллективе он проявляет себя как надежный и последовательный сотрудник, способный организовать процесс и контролировать его выполнение.
+
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 28.08.2025
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ.
+
+#victortekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 77 1
+Delay 2 ms
+KeyDown 26 1
+Delay 0 ms
+KeyDown 7 1
+Delay 106 ms
+KeyUp 77 1
+Delay 136 ms
+KeyUp 26 1
+Delay 18 ms
+KeyUp 7 1
+Delay 574 ms
+KeyDown 7 1
+Delay 104 ms
+KeyUp 7 1
+Delay 87 ms
+KeyDown 7 1
+Delay 92 ms
+KeyUp 7 1
+Delay 68 ms
+KeyDown 7 1
+Delay 88 ms
+KeyUp 7 1
+Delay 69 ms
+KeyDown 7 1
+Delay 69 ms
+KeyUp 7 1
+Delay 64 ms
+KeyDown 7 1
+Delay 167 ms
+KeyDown 22 1
+Delay 23 ms
+KeyDown 73 1
+Delay 115 ms
+KeyUp 73 1
+Delay 40 ms
+KeyUp 22 1
+Delay 41 ms
+KeyUp 7 1
+Delay 323 ms
+KeyDown 73 1
+Delay 87 ms
+KeyUp 73 1
+Delay 237 ms
+KeyDown 7 1
+Delay 69 ms
+KeyUp 7 1
+Delay 46 ms
+KeyDown 7 1
+Delay 115 ms
+KeyUp 7 1
+Delay 11 ms
+KeyDown 73 1
+Delay 75 ms
+KeyUp 73 1
+Delay 232 ms
+KeyDown 7 1
+Delay 69 ms
+KeyUp 7 1
+Delay 52 ms
+KeyDown 7 1
+Delay 98 ms
+KeyUp 7 1
+Delay 6 ms
+KeyDown 73 1
+Delay 57 ms
+KeyUp 73 1
+Delay 248 ms
+KeyDown 7 1
+Delay 69 ms
+KeyUp 7 1
+Delay 51 ms
+KeyDown 7 1
+Delay 93 ms
+KeyUp 7 1
+Delay 35 ms
+KeyDown 76 1
+Delay 4 ms
+KeyDown 74 1
+Delay 81 ms
+KeyUp 74 1
+Delay 7 ms
+KeyUp 76 1
+Delay 764 ms
+KeyDown 74 1
+Delay 349 ms
+KeyDown 7 1
+Delay 80 ms
+KeyUp 7 1
+Delay 87 ms
+KeyDown 7 1
+Delay 63 ms
+KeyUp 7 1
+Delay 45 ms
+KeyDown 7 1
+Delay 87 ms
+KeyUp 7 1
+Delay 24 ms
+KeyDown 76 1
+Delay 75 ms
+KeyUp 76 1
+Delay 463 ms
+KeyUp 74 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

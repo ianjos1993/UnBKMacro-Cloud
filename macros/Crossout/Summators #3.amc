@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос удерживает левую кнопку мышь из-за этого оружие наносит больше урона это оружие будет использована в близи</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 2700 ms
+LeftUp 1
+Delay 120 ms
+LeftDown 1
+Delay 2700 ms
+LeftUp 1
+Delay 120 ms
+LeftDown 1
+Delay 2700 ms
+LeftUp 1
+Delay 120 ms
+LeftDown 1
+Delay 2700 ms
+LeftUp 1
+Delay 120 ms
+LeftDown 1
+Delay 2700 ms
+LeftUp 1
+Delay 120 ms
+LeftDown 1
+Delay 2700 ms
+LeftUp 1
+Delay 120 ms
+LeftDown 1
+Delay 2700 ms
+LeftUp 1
+Delay 120 ms
+LeftDown 1
+Delay 2700 ms
+LeftUp 1
+Delay 120 ms</Syntax>
+    </KeyDown>
+    <Software>Crossout</Software>
+  </DefaultMacro>
+</Root>

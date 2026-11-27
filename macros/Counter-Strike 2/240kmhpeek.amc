@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматически делает пик.
+Для Counter-Strike 2, думаю подойдёт для новичков или просто для какого-то челленджа).
+
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 787 ms
+KeyUp 7 1
+Delay 1 ms
+KeyDown 4 1
+Delay 1 ms
+KeyUp 4 1
+Delay 5 ms
+KeyDown 224 1
+Delay 1555 ms
+KeyUp 224 1</Syntax>
+    </KeyDown>
+    <Software>Counter-Strike 2</Software>
+  </DefaultMacro>
+</Root>

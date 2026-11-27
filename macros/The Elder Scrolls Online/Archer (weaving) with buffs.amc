@@ -1,0 +1,49 @@
+<Root>
+  <DefaultMacro>
+    <Major>Быстрая атака (плетенье)) + бафы</Major>
+    <Description> 9 - Проникющий выстрел ( анимашка идёт 800 млс  - прерывание на 50% с дипазоном от + - 12 млс)
+
+ 0 - дайт атака
+
+Далее цикл  - от 6 до12 повторений в зависимости от анимации усиденной атаки. В редакторе можно установить. 
+
+После цикла:
+
+4 - баф на усиление оружия (они как првило без анимации!)
+
+3 - баф на усидение оружия ( --)
+
+Работает на ура. Если лучник стаминный - стамина не кончается! - только если бафы жрут магию.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 38 1
+Delay 64
+KeyUp 38 1
+Delay 400 417 ms
+KeyDown 39 1
+Delay 64
+KeyUp 39 1
+Delay 64
+KeyDown 39 1
+Delay 64
+KeyUp 39 1
+Delay 64
+GoWhile 1 9
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 200 ms
+KeyDown 32 1
+Delay 64 ms
+KeyUp 32 1
+Delay 200</Syntax>
+    </KeyDown>
+    <Software>The Elder Scrolls Online (TESO)</Software>
+  </DefaultMacro>
+</Root>

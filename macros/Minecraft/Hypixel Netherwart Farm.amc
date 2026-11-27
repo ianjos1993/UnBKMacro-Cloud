@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major>Netherwart farm for Hypixel Garden</Major>
+    <Description>This will Automatically farm netherwart in hypixel
+
+It needs a vertical farm
+
+It will move left  for 1 garden plot length
+
+Then
+
+It will moveright for 1 garden plot length
+</Description>
+    <Comment>https://botmek.com - Free macros download</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 26 1
+KeyDown 4 1
+Delay 16700 ms
+KeyUp 4 1
+Delay 64
+KeyDown 7 1
+Delay 16700 ms
+KeyUp 7 1
+Delay 64
+GoWhile 3 9
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,81 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос от edice
+Сенса 1.0
+С прицелом 0.8
+По установке все просто:
+Заходим в bm, потом в a4tech (вкладка) и открываем файл!
+
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 97 ms
+MoveR 0 9
+Delay 24 ms
+MoveR 0 0
+Delay 24 ms
+MoveR 0 0
+Delay 24 ms
+MoveR 0 0
+Delay 24 ms
+MoveR 0 14
+Delay 24 ms
+MoveR 0 14
+Delay 24 ms
+MoveR 0 14
+Delay 24 ms
+MoveR 0 3
+Delay 24 ms
+MoveR 0 3
+Delay 24 ms
+MoveR 0 3
+Delay 24 ms
+MoveR 1 1
+Delay 24 ms
+MoveR 1 1
+Delay 24 ms
+MoveR 1 1
+Delay 24 ms
+MoveR 1 1
+Delay 24 ms
+MoveR 5 5
+Delay 24 ms
+MoveR 5 5
+Delay 24 ms
+MoveR 5 5
+Delay 24 ms
+MoveR 5 5
+Delay 24 ms
+MoveR 4 3
+Delay 24 ms
+MoveR 4 3
+Delay 24 ms
+MoveR 4 3
+Delay 24 ms
+MoveR 4 3
+Delay 24 ms
+MoveR 2 1
+Delay 24 ms
+MoveR 2 1
+Delay 24 ms
+MoveR 2 1
+Delay 24 ms
+MoveR 2 1
+Delay 97 ms
+Delay 97 ms
+MoveR -2 4
+Delay 97 ms
+LeftUp 1
+Delay 2250 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

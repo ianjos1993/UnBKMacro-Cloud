@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос ускоряет процесс сброса редактирования, минимизируя игровые задержки. Чтобы настроить его, замените в макросе F на вашу кнопку редактирования. В настройках игры для функции "Сбросить редакт постройки" назначьте Del или другую клавишу, которая будет нажиматься автоматически с помощью макроса. Важно, чтобы в игре в разделе Игра было установлено автоматическое подтверждение изменений на "Оба варианта" или "Сброс", чтобы все работало корректно.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 5 ms
+KeyDown 76 1
+Delay 10 ms
+KeyDown 31 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

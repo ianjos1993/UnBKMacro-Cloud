@@ -1,0 +1,57 @@
+<Root>
+  <DefaultMacro>
+    <Major>добыча наживки</Major>
+    <Description>макрос для добычи голднаживки. Берем лопату в руки, биндим чай или кофе на клавишу 5, запускаем макрос и ложимся спать. за ночь накопает)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 3600 ms
+KeyDown 44 1
+Delay 5 ms
+KeyUp 44 1
+Delay 15 s
+KeyDown 34 1
+Delay 5 ms
+KeyUp 34 1
+Delay 35 s
+KeyDown 34 1
+Delay 5 ms
+KeyUp 34 1
+Delay 35 s
+KeyDown 34 1
+Delay 5 ms
+KeyUp 34 1
+Delay 15 s
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 3600 ms
+KeyDown 44 1
+Delay 5 ms
+KeyUp 44 1
+Delay 15 s
+KeyDown 34 1
+Delay 5 ms
+KeyUp 34 1
+Delay 35 s
+KeyDown 34 1
+Delay 5 ms
+KeyUp 34 1
+Delay 35 s
+KeyDown 34 1
+Delay 5 ms
+KeyUp 34 1
+Delay 15 s
+GoWhile 1 500</Syntax>
+    </KeyDown>
+    <Software>Русская Рыбалка 4</Software>
+  </DefaultMacro>
+</Root>

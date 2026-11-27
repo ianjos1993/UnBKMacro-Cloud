@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>S</Major>
+    <Description>as of 7/18/2025, This will ground shatterskate unlike any of the other macros published. Enjoy! Airdive is x, shatterdive and Eager edge required. This macro goes from weapon 2, skates, then back to weapon 2.                                                                                                                                                                                                                                                                </Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 10 ms
+KeyUp 32 1
+Delay 420 ms
+KeyDown 44 1
+Delay 16 ms
+LeftDown 1
+Delay 10 ms
+KeyUp 44 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+KeyDown 44 1
+KeyDown 27 1
+Delay 141 ms
+KeyUp 44 1
+KeyUp 27 1
+KeyDown 31 1
+Delay 8 ms
+KeyUp 31 1</Syntax>
+    </KeyDown>
+    <Software>Destiny 2</Software>
+  </DefaultMacro>
+</Root>

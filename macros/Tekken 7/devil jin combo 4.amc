@@ -1,0 +1,155 @@
+<Root>
+  <DefaultMacro>
+    <Major>Devil Jin Combo 2 w/wall</Major>
+    <Description>Макрос позволяет выполнять combo за Devil Jin.
+Видео демонстрации работы макроса: https://youtu.be/zYhAX1rJr1Q
+
+Боевой стиль Дьявола Джина использует лично отвергнутую и подавленную смесь боевого каратэ в стиле Мишима и традиционных боевых искусств в стиле Казама, используемых Джином в Tekken 3 и Tekken Tag Tournament. На протяжении всей игры некоторый приемы были изменены и стали более грубыми и жестокими по сравнению с набором приемов Джина из Tekken 3, чтобы отразить демоническую природу Дьявола, а также некоторые его собственные демонические способности. В Tekken 7 он также получил некоторые приемы, позаимствованные у Ангела (персонаж TTT2). Кроме этого есть один интересный факт. Хотя сам он не появляется в игре, боевой стиль Дьявола Джина доступен в Soulcalibur V в качестве опции в режиме создания персонажа. Пользователи этого стиля не только смогут использовать его лазерные атаки, но также смогут отращивать черные полупрозрачные крылья при использовании определенных приемов.
+
+Тестирование макроса проводились на последнем патче игры на 09.12.2023 (5.01 патч)
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#deviljintekken7 #tekken7 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 55 ms
+KeyDown 7 1
+Delay 31 ms
+KeyUp 4 1
+Delay 48 ms
+KeyDown 74 1
+Delay 104 ms
+KeyDown 73 1
+Delay 56 ms
+KeyUp 74 1
+Delay 48 ms
+KeyUp 73 1
+Delay 7 ms
+KeyDown 22 1
+Delay 72 ms
+KeyDown 74 1
+Delay 88 ms
+KeyUp 74 1
+Delay 95 ms
+KeyDown 74 1
+Delay 72 ms
+KeyUp 74 1
+Delay 79 ms
+KeyDown 74 1
+Delay 63 ms
+KeyUp 74 1
+Delay 72 ms
+KeyDown 74 1
+Delay 95 ms
+KeyUp 74 1
+Delay 319 ms
+KeyUp 22 1
+Delay 47 ms
+KeyUp 7 1
+Delay 152 ms
+KeyDown 7 1
+Delay 55 ms
+KeyUp 7 1
+Delay 63 ms
+KeyDown 7 1
+Delay 127 ms
+KeyUp 7 1
+Delay 7 ms
+KeyDown 73 1
+Delay 56 ms
+KeyUp 73 1
+Delay 239 ms
+KeyDown 4 1
+Delay 39 ms
+KeyDown 7 1
+Delay 40 ms
+KeyUp 4 1
+Delay 63 ms
+KeyDown 74 1
+Delay 128 ms
+KeyDown 73 1
+Delay 80 ms
+KeyUp 74 1
+Delay 47 ms
+KeyUp 73 1
+Delay 71 ms
+KeyDown 22 1
+Delay 128 ms
+KeyDown 74 1
+Delay 96 ms
+KeyUp 74 1
+Delay 96 ms
+KeyDown 74 1
+Delay 71 ms
+KeyUp 74 1
+Delay 79 ms
+KeyDown 74 1
+Delay 111 ms
+KeyUp 74 1
+Delay 47 ms
+KeyUp 22 1
+Delay 39 ms
+KeyUp 7 1
+Delay 127 ms
+KeyDown 7 1
+Delay 64 ms
+KeyUp 7 1
+Delay 120 ms
+KeyDown 7 1
+Delay 64 ms
+KeyUp 7 1
+Delay 96 ms
+KeyDown 7 1
+Delay 47 ms
+KeyUp 7 1
+Delay 72 ms
+KeyDown 7 1
+Delay 112 ms
+KeyUp 7 1
+Delay 48 ms
+KeyDown 4 1
+Delay 47 ms
+KeyDown 7 1
+Delay 24 ms
+KeyUp 4 1
+Delay 32 ms
+KeyDown 74 1
+Delay 104 ms
+KeyDown 73 1
+Delay 47 ms
+KeyUp 74 1
+Delay 40 ms
+KeyUp 73 1
+Delay 671 ms
+KeyDown 74 1
+Delay 87 ms
+KeyUp 74 1
+Delay 224 ms
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 7</Software>
+  </DefaultMacro>
+</Root>

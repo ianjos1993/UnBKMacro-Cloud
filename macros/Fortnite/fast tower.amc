@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Это макрос поможет тем, кто не умеет строиться в форт найт. Редактор на кнопку q Остальные настройки, стандарты для форт найта. Просто крутишься Во все стороны. прыгаешь и нажимаешь q.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Button4down 1
+Delay 5 ms
+KeyDown 30 1
+Delay 10 ms
+LeftDown 1
+Delay 15 ms
+KeyDown 31 1
+Delay 20 ms
+LeftDown 1
+Delay 25 ms
+KeyDown 32 1
+Delay 30 ms
+LeftDown 1
+Delay 35 ms
+Button5Down 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

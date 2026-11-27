@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>это макрос который активирует нажатие на букву Z в режимах роблокса. Я предпочитаю использовать этот макрос в AFS- anime fighting simulator.
+ШАГ 1: получите стенд
+ШАГ 2 : идите на любого NPC и активируйте рядом с ним макрос,
+(это позволит вам активировать на NPC способность barrag- шквал ударов
+ШАГ 3: идите спите или отдыхайте когда за вас работает макрос
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoWhile 86400000 86400000
+KeyDown 29 1
+Delay 6 s
+KeyUp 29 1</Syntax>
+    </KeyDown>
+    <Software>Roblox:AnimeFightingSimulator</Software>
+  </DefaultMacro>
+</Root>

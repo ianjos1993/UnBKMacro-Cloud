@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Rage quitter which is super fast (0.1 seconds rage quit for rage quitters like me)  please use my macro.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 41 1
+Delay 0 ms
+KeyDown 15 1
+Delay 64
+KeyUp 15 1
+Delay 0 ms
+KeyUp 41 1
+Delay 0 ms
+KeyDown 88 1
+Delay 0 ms
+KeyUp 88 1
+Delay 0 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major>Apex Legends</Major>
+    <Description>имитирует круговые движения курсора мыши и практически полностью нивелирует отдачу (R-99,хаос не проверялись но тоже должны снижать.
+
+мой DPI 1200 чувствительность в игре 2.30
+разрешение 3840-2160 
+рекомендуемый фпс не ниже 70
+
+убедительная прозьба перед использованием протестируйте и настроите макрос под себя на стрельбище.
+Риск БАНА ОТСУТСВУЕТ, никакие фаилы игры не затрагиваются только использование механники игры.
+рекомендую настроить кнопку включения макроса так чтобы ее было удобно отключать и подключать во время матча в противном случае будет неудобно лутатся,приятной игры)
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 5 5
+Delay 4 ms
+MoveR 5 -5
+Delay 4 ms
+MoveR -5 -5
+Delay 4 ms
+MoveR -5 5
+Delay 4 ms
+MoveR 5 5
+Delay 4 ms
+MoveR 5 -5
+Delay 4 ms
+MoveR -5 -5
+Delay 4 ms
+MoveR -5 5
+Delay 4 ms</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Z - блинк
+X - соуринг
+C - шива
+W - 2 скилл
+R - реарм
+
+Если вы смогли на тинкере на фармить деньги на шиву попутно пролив пиво на клаве и осталась 1 робочая клавиша используйте этот макрос и играйте 0,5 пальца левой ноги</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 150 ms
+KeyDown 27 1
+Delay 150 ms
+KeyDown 6 1
+Delay 5 ms
+KeyDown 26 1
+Delay 5 ms
+KeyDown 21 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

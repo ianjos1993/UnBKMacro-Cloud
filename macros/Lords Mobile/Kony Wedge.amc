@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Смена фаланги на кавалерийский клин. В игре lords mobile. Авто смена, быстро и бесплатно. Меняет фалангу за считанные секунды.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 117 167
+Delay 30 ms
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 210 1010
+Delay 30 ms
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 1037 996
+Delay 64
+LeftDown 1
+Delay 120 ms
+LeftUp 1
+Delay 120 ms
+MoveTo 1477 919
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 1818 104
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 1856 103
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Lords Mobile</Software>
+  </DefaultMacro>
+</Root>

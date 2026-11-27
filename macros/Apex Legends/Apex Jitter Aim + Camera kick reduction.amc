@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>Apex Legends Jitter Aim + slight camera kick reduction</Major>
+    <Description>- Jitter Aim reduces horizontal recoil
+- Added slight pull down on the mouse to reduce camera kick while spraying
+
+Resolution used when making the script: 16:9 //can be used in any resolution
+
+Sensitivity: 2.00 ingame and 1000CPI on mouse software //if used on other sens settings screen can get a bit more shakey
+
+Charge Rifle: Need to pull up a little due to the camera kick reduction
+
+Hotkey ON/OFF: recommended on Mouse1 Button</Description>
+    <Comment>Single/Burst shot weapons works with no changes  //there is a small recoil improvement on g7 scout and 30-30</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 4 1
+Delay 5 ms
+MoveR -4 0
+Delay 5 ms
+MoveR 4 0
+Delay 5 ms
+MoveR -4 0
+Delay 5 ms
+Goto 2</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

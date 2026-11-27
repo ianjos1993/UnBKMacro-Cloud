@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major>macro prototype holo</Major>
+    <Description>this is the best macro for prototype, (press to start and release to stop,
+this macro work with these sensitivity
+1920 x 1080
+sens 0.8
+fov 90
+dpi 1500
+
+enjoy the best macros server!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 50 ms
+MoveR 0 -23
+Delay 50 ms
+MoveR 0 -22
+Delay 50 ms
+MoveR 0 -23
+Delay 50 ms
+MoveR 0 -23
+Delay 50 ms
+MoveR 0 -22
+Delay 50 ms
+MoveR 0 -23
+Delay 50 ms
+MoveR 0 -17
+Delay 50 ms
+LeftUp 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

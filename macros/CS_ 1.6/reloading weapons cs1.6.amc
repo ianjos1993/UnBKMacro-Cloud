@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major>Karyk</Major>
+    <Description>макрос для перезарядки оружия , как пользоваться? биндите кнопку активации макроса советую букву f4 ,после переходим в клавиши биндим на лкм или на боковые кнопки и жмем f4 и ваш бинд с клавиш.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 8 ms
+KeyUp 21 1
+Delay 6 ms</Syntax>
+    </KeyDown>
+    <Software>CS 1.6</Software>
+  </DefaultMacro>
+</Root>

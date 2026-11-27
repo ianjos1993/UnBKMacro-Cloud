@@ -1,0 +1,61 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Подойти Вплотную снизу к Миранде. Если можете заваншотить с одного навыка, скорость 3000+. 
+
+Макрос автомачитески скипает все диалоги и использует любой ваш ваншотящий навык на ваш выбор. Макрос сбивается при наличии доп. действий. Работает на любой сложности пока вы можете Ваншотить. 
+
+
+(Пример: сложность 0, 10000+ магии (Демонический катализатор +5, Ковенант Хатти макс. ур., Любые предметы на повышение магии), 3000 скорости (Души у Нод, Души Внешних Богов в подземелье Хаоса), навык Тяжелый залп души. Советую взять любой предмет на реген. маны, чтобы не отвлекаться на ману) </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 100 ms
+KeyDown 224 1
+Delay 25 ms
+KeyDown 225 1
+Delay 288 ms
+KeyDown 29 1
+Delay 113 ms
+KeyUp 29 1
+Delay 542 ms
+KeyDown 81 1
+Delay 99 ms
+KeyUp 81 1
+Delay 170 ms
+KeyDown 29 1
+Delay 75 ms
+KeyUp 29 1
+Delay 2351 ms
+KeyDown 81 1
+Delay 86 ms
+KeyUp 81 1
+Delay 108 ms
+KeyDown 29 1
+Delay 95 ms
+KeyUp 29 1
+Delay 557 ms
+KeyDown 29 1
+Delay 95 ms
+KeyUp 29 1
+Delay 3842 ms
+KeyDown 81 1
+Delay 116 ms
+KeyUp 81 1
+Delay 137 ms
+KeyDown 29 1
+Delay 86 ms
+KeyUp 29 1
+Delay 594 ms
+KeyUp 225 1
+Delay 5 ms
+KeyUp 224 1</Syntax>
+    </KeyDown>
+    <Software>Black Souls 2</Software>
+  </DefaultMacro>
+</Root>

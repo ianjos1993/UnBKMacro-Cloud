@@ -1,0 +1,374 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Итак это полностью рабочий бот на рыбалку с пирса (не уверен как хорошо он может работать на Кайо)
+Суть работы. Вы приходите на пирс ставите удочку в быстрый слот под номером 7 и вкл макрос. Бот будет рыбачить за вас но изза новых систем с борьбой лучше вам следить за ботом так как админы могут прочекать тут ли вы, так же на боте стоит 20 повторов потому что после 20 раза выскакивает защита от ботов и вам надо в ручную вписать то что на картинке и после этого опять можете вкл бота. 
+Будьте аккуратными. 
+
+Бот был сделан для пирса и на экране 1920x1080</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 487 ms
+KeyDown 36 1
+Delay 55 ms
+KeyUp 36 1
+Delay 17880 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 103 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 87 ms
+LeftDown 1
+Delay 120 ms
+LeftUp 1
+Delay 71 ms
+LeftDown 1
+Delay 103 ms
+LeftUp 1
+Delay 96 ms
+LeftDown 1
+Delay 119 ms
+LeftUp 1
+Delay 88 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 103 ms
+LeftUp 1
+Delay 88 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 88 ms
+LeftDown 1
+Delay 103 ms
+LeftUp 1
+Delay 95 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 87 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 103 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 87 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 87 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 80 ms
+LeftDown 1
+Delay 135 ms
+LeftUp 1
+Delay 63 ms
+LeftDown 1
+Delay 120 ms
+LeftUp 1
+Delay 88 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 95 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 95 ms
+LeftDown 1
+Delay 120 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 104 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 96 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 96 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 96 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 103 ms
+LeftUp 1
+Delay 88 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 87 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 119 ms
+LeftUp 1
+Delay 80 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 80 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 120 ms
+LeftUp 1
+Delay 72 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 87 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 80 ms
+LeftDown 1
+Delay 119 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 87 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 88 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 87 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 87 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 88 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 95 ms
+LeftDown 1
+Delay 120 ms
+LeftUp 1
+Delay 56 ms
+LeftDown 1
+Delay 88 ms
+LeftUp 1
+Delay 95 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 87 ms
+LeftDown 1
+Delay 103 ms
+LeftUp 1
+Delay 96 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 96 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 96 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 103 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 95 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 95 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 87 ms
+LeftDown 1
+Delay 103 ms
+LeftUp 1
+Delay 95 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 87 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 96 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 96 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 71 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 128 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 88 ms
+LeftDown 1
+Delay 120 ms
+LeftUp 1
+Delay 87 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 88 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 87 ms
+LeftDown 1
+Delay 103 ms
+LeftUp 1
+Delay 88 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 87 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 87 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 87 ms
+LeftDown 1
+Delay 103 ms
+LeftUp 1
+Delay 103 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 87 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 103 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 87 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 80 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 88 ms
+LeftUp 1
+Delay 88 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 95 ms
+LeftDown 1
+Delay 47 ms
+LeftUp 1
+Delay 64 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 791 ms
+GoWhile 1 20</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP авто рыбалка</Software>
+  </DefaultMacro>
+</Root>

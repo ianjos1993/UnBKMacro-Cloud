@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Забываешь нажимать стики/меку? Теперь это не проблема. Расположи в слот (который активируется клавишей "space") сейвовый предмет и он автоматически активируется при малом количестве хп!
+
+Для работы нужно:
+Разрешение 1600x1050. Режим дальтонизма.
+Активация слота на "Space".</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 6 1 29,40,17 24,33,13 2 758 937 88 21 1 0
+//Постоянно проверяем количество ХП нашего героя.
+Delay 20 ms
+Goto 1
+Delay 20 ms
+KeyDown 44 1
+//Нажимаем на пробел, если здоровье героя стало меньше ~25%
+Delay 72 ms
+KeyUp 44 1
+Delay 10 s</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

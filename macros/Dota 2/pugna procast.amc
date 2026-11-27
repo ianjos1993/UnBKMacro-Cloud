@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>достаточно просто забиндить кнопку, навести на врага и нажать (на Z должен быть ROD OF ATOS)
+(обязательно включи быстрые скиллы)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 150 ms
+KeyDown 29 1
+Delay 103 ms
+KeyUp 29 1
+Delay 152 ms
+KeyDown 20 1
+Delay 120 ms
+KeyUp 20 1
+Delay 167 ms
+KeyDown 21 1
+Delay 143 ms
+KeyUp 21 1
+Delay 656 ms
+KeyDown 26 1
+Delay 120 ms
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>dota 2</Software>
+  </DefaultMacro>
+</Root>

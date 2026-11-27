@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major>Skill runs without interruptions</Major>
+    <Description>• Meepo, the Geomancer, is renowned for his ability to clone himself and control multiple Meepo units simultaneously in Dota 2. In the 7.34b update, Meepo gains a new and exciting skill called "Dig," which allows him to burrow underground and navigate beneath the battlefield. This game-changing skill is enabled by Aghanim's Fragment, and in this text, we'll explore how to optimize its use through a clever macro, including the "S" key to stop the action.
+
+• Aghanim's Fragment is an essential item for Meepo players looking to unlock the potential of the "Dig" skill. With this item, Meepo can burrow into the ground and move freely beneath the surface, avoiding obstacles and enemy vision.
+
+• To activate "Dig" efficiently using your macro, you'll want to configure your keyboard or macro software to press the skill button for "Dig" followed by the "S" key. This combination allows Meepo to initiate the "Dig" skill and stop it immediately, bypassing the cooldown of another skill called "Puff."
+
+• The typical macro sequence for "Dig" includes "D (for Dig) + S" and can be executed in rapid succession. This allows Meepo to burrow quickly and surface without waiting for the cooldown of "Puff." It's a powerful tactic that gives Meepo players an edge in terms of mobility and positioning.
+
+• With "Dig" and your macro setup, Meepo can maneuver through the terrain, escape dangerous situations, or initiate surprise attacks with ease. Remember to practice your macro execution to ensure seamless integration into your gameplay.
+
+• Meepo, like all heroes in Dota 2, demands skill and practice. By mastering the "Dig" skill and incorporating it into your repertoire, you can outmaneuver opponents, control the battlefield, and lead your team to victory.
+
+• Dota 2 is a dynamic and strategic game, and Meepo's "Dig" skill with your macro can elevate your gameplay to new heights. Practice, adapt, and embrace the versatility of Meepo as you uncover new opportunities and tactics with this hero.
+
+• Please note that the main settings for performing the 'Dig' skill are based on the Dota 1 settings. "T" button
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 1 ms
+KeyUp 22 1
+Delay 1 ms
+KeyDown 23 1
+Delay 1 ms
+KeyUp 23 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

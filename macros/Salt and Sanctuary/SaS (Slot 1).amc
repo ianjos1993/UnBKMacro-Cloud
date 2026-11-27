@@ -1,0 +1,74 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Авто использование заклинания и последующий релог из игры для предотвращения бага.
+
+После исспользования заклинания определленного кол-во раз перезаходит на персонажа на 1 слоте
+
+Для корректной работы надо зайти  на персонажа и выйти в главное меню с последующим заходом снова
+
+За качество не знаю я 1 раз делал :&gt; </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+Delay 64
+KeyUp 6 1
+Delay 800 ms
+KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 800 ms
+KeyDown 6 1
+Delay 64
+KeyUp 6 1
+Delay 800 ms
+GoWhile 1 40
+Goto 15
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 1 s
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 1 s
+KeyDown 88 1
+Delay 64 ms
+KeyUp 88 1
+Delay 1 s
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 5 s
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 3 s
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 1 s
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 3 s
+Delay 1 s
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 1 s
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+GoWhile 15 1
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Salt and Sanctuary</Software>
+  </DefaultMacro>
+</Root>

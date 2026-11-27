@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Заходите в настройки сложности и ставите такие настройки:
+Уровень драйватаров: Непобедимый
+Торможение: Помощь
+Управление: Авторуление
+Противобукс. сис: Включено
+Контроль устойчивости: Включено
+Передачи: Автоматически
+Заходите в творческий центр и ищите карту под названием 10 SP IN 30 SECONDS SP FARM
+Заходитке в гонку, до момента начала гонки и включаете скрипт. За 6 часов получаю где-то 75 круток и 999+ автоталантов. Примерное время проезда трассы должно быть не больше 35 сек
+Разрешение экрана 1920x1080 в полноэкранном режиме</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 5 s
+MoveTo 340 347
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 26 1
+Delay 50 s
+KeyUp 26 1
+Delay 1 s
+KeyDown 27 1
+Delay 64
+KeyUp 27 1
+Delay 5 s
+KeyDown 88 1
+Delay 500 ms
+KeyUp 88 1
+Delay 10 s
+GoWhile 2 500000</Syntax>
+    </KeyDown>
+    <Software>Forza Horizon 5</Software>
+  </DefaultMacro>
+</Root>

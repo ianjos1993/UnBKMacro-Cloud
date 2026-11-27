@@ -1,0 +1,68 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description> Фастузм на Любое оружие. 
+
+Работает на ПКМ, выставлена минимальная задержка выстрела для входа в прицел. 
+
+Нажимаем ,,Пкм'' и сразу входит в прицел и моментальный выстрел. 
+
+
+Для удобства рекомендую тем у кого стоит на прицел ,,нажать кнопку'' изменить на ,,ужерживать''. 
+
+
+Удобство в том что если вы вошли в прицел и ждете противника, при выстреле не получится так, что вышел из прицела и произошёл выстрел. 
+
+
+В случае если стоит ,,нажать кнопку'' и вы находитесь в прицеле вас выбросит из прицела а потом произойдет выстрел. 
+
+
+И после фаст выстрела вы будете автоматически входить обратно в прицел, и вам придется отжимать ПКМ что бы выйти из него.
+
+В случае если стоит ,,удерживать кнопку'' этого всего не будет происходить и макрос будет работать идеально.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Fast food for Any weapon. 
+
+It works on the PCM, the minimum delay of the shot is set to enter the sight. 
+
+Press ,,Pcm" and immediately enters the sight and instant shot. 
+
+
+For convenience, I recommend those who have a sight ,, to click the "change to ,,hold" button. 
+
+
+The convenience is that if you entered the sight and wait for the enemy, when you shoot, it will not turn out that you left the sight and a shot occurred. 
+
+
+If it is worth,, press the button" and you are in the sight, you will be thrown out of the sight and then a shot will occur. 
+
+
+And after a fast shot, you will automatically enter back into the sight, and you will have to press the PCM to get out of it.
+
+If it is worth ,,holding the button" this will not happen and the macro will work perfectly.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 24 ms
+RightUp 1
+Delay 24 ms
+LeftDown 1
+Delay 24 ms
+LeftUp 1
+KeyDown 32 1
+Delay 24 ms
+KeyUp 32 1
+KeyDown 30 1
+Delay 24 ms</Syntax>
+    </KeyDown>
+    <Software>Warface</Software>
+  </DefaultMacro>
+</Root>

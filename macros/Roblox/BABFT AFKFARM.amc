@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major>Anti-AFK</Major>
+    <Description>this macro stops you from getting kicked from the game (it does this by pressing a then random time then d then left clicks once)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 100 ms
+KeyUp 4 1
+Delay 30 80 ms
+KeyDown 7 1
+Delay 100 ms
+KeyUp 7 1
+LeftDown 1
+Delay 1 6 ms
+LeftUp 1
+Delay 100 300 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

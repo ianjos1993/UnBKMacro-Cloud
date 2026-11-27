@@ -1,0 +1,67 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всем доброго времени суток.И вот в очередной раз я пишу для вас новый макрос.Этот макрос будет полезен на многих серверах Minecraft.Даже для локальной игры с друзьями этот макрос пригодится.Данный макрос устанавливает точку вашего сохранения.Тоесть если вы каким либо образом погибнете то появетесь на точке где была прописана команд /spawnpoint.Так же этот макрос будет служить быстрым возвратом на точку дома,ведь многие люди играя на локальных серверах включают сохранение инвентаря.И после смерти вы окажетесь дома не потеряв свои вещи.
+
+Инструкция по настройке:
+1)Скачиваете на свое устройство макрос,который я предоставил ниже.
+2)Открываете программу Keyran и у вас сразу же появляется клавиатура Keyran.
+3)После этого выберите удобную для вас клавишу или кнопку мыши.
+4)Нажмите правой кнопкой мыши на выбранную вами клавишу или кнопку мыши и назначьте этот макрос.
+5)И в конце сохраните все изменения.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 32 ms
+KeyUp 56 1
+Delay 32 ms
+KeyDown 22 1
+Delay 32 ms
+KeyUp 22 1
+Delay 32 ms
+KeyDown 19 1
+Delay 32 ms
+KeyUp 19 1
+Delay 32 ms
+KeyDown 4 1
+Delay 32 ms
+KeyUp 4 1
+Delay 32 ms
+KeyDown 26 1
+Delay 32 ms
+KeyUp 26 1
+Delay 32 ms
+KeyDown 17 1
+Delay 32 ms
+KeyUp 17 1
+Delay 32 ms
+KeyDown 19 1
+Delay 32 ms
+KeyUp 19 1
+Delay 32 ms
+KeyDown 18 1
+Delay 32 ms
+KeyUp 18 1
+Delay 32 ms
+KeyDown 12 1
+Delay 32 ms
+KeyUp 12 1
+Delay 32 ms
+KeyDown 17 1
+Delay 32 ms
+KeyUp 17 1
+Delay 32 ms
+KeyDown 23 1
+Delay 32 ms
+KeyUp 23 1
+Delay 32 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

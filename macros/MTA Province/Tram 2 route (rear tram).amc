@@ -1,0 +1,101 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Бот на 2 маршрут в Привожске. Хорошй макрос, работает отлично. 
+Использоване: 
+Садимся во второй  трамвай (задний), запускаем макрос! (Рассчитан на 1 рейс)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 29264 ms
+KeyUp 26 1
+Delay 127 ms
+KeyDown 22 1
+Delay 4449 ms
+KeyUp 22 1
+Delay 823 ms
+KeyDown 31 1
+Delay 105 ms
+KeyUp 31 1
+Delay 5727 ms
+KeyDown 31 1
+Delay 72 ms
+KeyDown 26 1
+Delay 64 ms
+KeyUp 31 1
+Delay 32968 ms
+KeyDown 22 1
+Delay 17 ms
+KeyUp 26 1
+Delay 4384 ms
+KeyUp 22 1
+Delay 1656 ms
+KeyDown 31 1
+Delay 120 ms
+KeyUp 31 1
+Delay 5801 ms
+KeyDown 31 1
+Delay 96 ms
+KeyDown 26 1
+Delay 48 ms
+KeyUp 31 1
+Delay 42688 ms
+KeyDown 22 1
+Delay 56 ms
+KeyUp 26 1
+Delay 4360 ms
+KeyUp 22 1
+Delay 1248 ms
+KeyDown 31 1
+Delay 136 ms
+KeyUp 31 1
+Delay 6536 ms
+KeyDown 31 1
+Delay 127 ms
+KeyDown 26 1
+Delay 40 ms
+KeyUp 31 1
+Delay 32752 ms
+KeyDown 22 1
+Delay 24 ms
+KeyUp 26 1
+Delay 4400 ms
+KeyUp 22 1
+Delay 1344 ms
+KeyDown 31 1
+Delay 104 ms
+KeyUp 31 1
+Delay 7320 ms
+KeyDown 31 1
+Delay 80 ms
+KeyDown 26 1
+Delay 56 ms
+KeyUp 31 1
+Delay 35800 ms
+KeyDown 22 1
+Delay 41 ms
+KeyUp 26 1
+Delay 4424 ms
+KeyUp 22 1
+Delay 1272 ms
+KeyDown 31 1
+Delay 112 ms
+KeyUp 31 1
+Delay 5687 ms
+KeyDown 31 1
+Delay 177 ms
+KeyUp 31 1
+Delay 344 ms
+KeyDown 26 1
+Delay 7623 ms
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

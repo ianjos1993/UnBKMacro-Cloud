@@ -1,0 +1,111 @@
+<Root>
+  <DefaultMacro>
+    <Major>Eddy Combo 11</Major>
+    <Description>Макрос позволяет выполнять комбо за Eddy сокрушительное комбо.
+Видео демонстрации работы макроса: https://youtu.be/drzkDNap8aw
+
+Если битва — это музыка, то Эдди Гордо играет её лучше всех. Он двигается так, будто сцена под ним — не арена, а танцпол, а враги — всего лишь фон для его смертельного перформанса. Но за его лёгкостью скрывается тяжёлый путь: тюремные стены, потерянное наследие и жажда справедливости. Капоэйра — не просто стиль, это его душа, его язык. Он не рубит с плеча, не бросается в ярость, а убаюкивает противника, прежде чем нанести решающий удар. Пока ты думаешь, что он просто танцует, Эдди уже выигрывает бой.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 30.01.2025
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ.
+
+
+#eddytekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 0 ms
+KeyDown 7 1
+Delay 9 ms
+KeyDown 76 1
+Delay 79 ms
+KeyUp 76 1
+Delay 89 ms
+KeyDown 76 1
+Delay 80 ms
+KeyUp 76 1
+Delay 80 ms
+KeyDown 76 1
+Delay 90 ms
+KeyUp 76 1
+Delay 70 ms
+KeyDown 76 1
+Delay 160 ms
+KeyUp 76 1
+Delay 290 ms
+KeyUp 26 1
+Delay 79 ms
+KeyUp 7 1
+Delay 689 ms
+KeyDown 7 1
+Delay 140 ms
+KeyDown 76 1
+Delay 9 ms
+KeyDown 77 1
+Delay 319 ms
+KeyUp 76 1
+Delay 9 ms
+KeyUp 77 1
+Delay 559 ms
+KeyUp 7 1
+Delay 9 ms
+KeyDown 4 1
+Delay 20 ms
+KeyDown 22 1
+Delay 30 ms
+KeyDown 77 1
+Delay 110 ms
+KeyUp 77 1
+Delay 70 ms
+KeyDown 77 1
+Delay 90 ms
+KeyUp 77 1
+Delay 69 ms
+KeyDown 77 1
+Delay 99 ms
+KeyUp 77 1
+Delay 59 ms
+KeyDown 77 1
+Delay 110 ms
+KeyUp 77 1
+Delay 50 ms
+KeyDown 77 1
+Delay 120 ms
+KeyUp 77 1
+Delay 40 ms
+KeyDown 77 1
+Delay 120 ms
+KeyUp 77 1
+Delay 190 ms
+KeyUp 4 1
+Delay 0 ms
+KeyUp 22 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

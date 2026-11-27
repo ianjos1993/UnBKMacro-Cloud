@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматически быстро заходит в меню выбора еды.
+Все что остается делать Вам - выбрать еду и нажать Enter, сколько Вам нужно раз.
+Очень полезно как и в повседневе, так и в перестрелках.
+Во время работы скрипта не нажимайте UpArrow, DownArrow, ЛКМ, ПКМ, Enter.
+
+Cовет: Используйте еду в укрытиях (Q) или в машине, так не будет анимации.
+
+Активация по назначенной клавише следовательно инструкциям на сайте.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 16 1
+Delay 40 ms
+KeyUp 16 1
+Delay 40 ms
+KeyDown 81 1
+Delay 40 ms
+KeyUp 81 1
+Delay 40 ms
+KeyDown 81 1
+Delay 40 ms
+KeyUp 81 1
+Delay 40 ms
+KeyDown 88 1
+Delay 40 ms
+KeyUp 88 1
+Delay 40 ms
+KeyDown 81 1
+Delay 40 ms
+KeyUp 81 1
+Delay 40 ms
+KeyDown 81 1
+Delay 40 ms
+KeyUp 81 1
+Delay 40 ms
+KeyDown 88 1
+Delay 40 ms
+KeyUp 88 1</Syntax>
+    </KeyDown>
+    <Software>GTA V</Software>
+  </DefaultMacro>
+</Root>

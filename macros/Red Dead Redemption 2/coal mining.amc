@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>манрос на добычу руды</Major>
+    <Description>МАКРОС НА СБОР УГЛЯ
+Red Dead Redemption 2
+Макрос для добычи угля в игре. Данный макрос позволяет вам сократитить время работы и позволить вам заняться своим делом пока у вас крафтиться </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 56 ms
+KeyUp 68 1
+Delay 104 ms
+KeyUp 225 1
+Delay 1034 ms
+LeftDown 1
+Delay 99 ms
+LeftUp 1
+Delay 32004 ms
+KeyDown 225 1
+Delay 470 ms
+KeyDown 68 1</Syntax>
+    </KeyDown>
+    <Software>Red Dead Redemption 2</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>зажатие кнопки мыши, после чего слэш,ап, энтер.Идеально подходит для фарм серверов,где ресурсы копаються, после чего автоматически продаются</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 2 min
+LeftUp 1
+KeyDown 56 1
+Delay 61 ms
+KeyUp 56 1
+Delay 95 ms
+KeyDown 82 1
+Delay 144 ms
+KeyUp 82 1
+Delay 95 ms
+KeyDown 88 1
+Delay 80 ms
+KeyUp 88 1</Syntax>
+    </KeyDown>
+    <Software>MInecraft(OneBlock)</Software>
+  </DefaultMacro>
+</Root>

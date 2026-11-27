@@ -1,0 +1,24 @@
+<Root>
+  <!-- by Britan -->
+  <DefaultMacro>
+    <Major></Major>
+    <Description>НАЗВАНИЕ: Brawl Stars Super Spam. ОПИСАНИЕ: Быстрое использование суперспособности: Super (H) -&gt; атака (Left Click). Позволяет моментально использовать супер в ближнем бою. РЕКОМЕНДУЕМАЯ КЛАВИША: Mouse 4 (Side). КАК ИСПОЛЬЗОВАТЬ: Привяжи макрос на кнопку Mouse 4. Когда супер готов нажми Mouse 4 - макрос активирует супер и сразу кликнет для атаки. Однократное выполнение. НАСТРОЙКА: Если супер на другой клавише - замени KeyDown 72 (H). АВТОР: by Britan. ЗАПРЕЩЕНО копировать без указания автора.</Description>
+    <Comment>Привязка: Mouse 4 (Side). Режим: однократное. Инструкция: когда супер готов нажми - супер + атака.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 72 1
+Delay 30 ms
+KeyUp 72 1
+Delay 60 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Brawl Stars</Software>
+  </DefaultMacro>
+</Root>

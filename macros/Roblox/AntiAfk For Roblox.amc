@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>AntiAfk FOr Roblox
+Нажимает на  WASD с рандомным делайом
+Очень полезно например в Built THe Boat For Treasure .......</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 500 ms
+KeyUp 26 1
+Delay 1 3 s
+KeyDown 4 1
+Delay 500 ms
+KeyUp 4 1
+Delay 1 3 s
+KeyDown 22 1
+Delay 500 ms
+KeyUp 22 1
+Delay 1 3 s
+KeyDown 7 1
+Delay 500 ms
+KeyUp 7 1
+Delay 1 10 min</Syntax>
+    </KeyDown>
+    <Software>AntiAFk Roblox</Software>
+  </DefaultMacro>
+</Root>

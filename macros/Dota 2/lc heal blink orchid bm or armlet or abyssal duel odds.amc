@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description> функцию применения на себя настроил через АЛТ. Наводимся на цель, нажимаем макрос (у меня это пробел):
+автоматически прожимается 2 скилл, используется блинк (цифра 2), дается бладторн (цифра 3), дается бм или армлет или абиссал (цифра 1), дается дуэль (R), даются стрелы (Q)
+заспамил кнопки R и Q, чтоб дать эти скиллы в 100% случаях (иногда после блинка и бладторна первым ударом может прилететь баш и тд)
+Задержки между кнопки установлены таким образом, чтоб наверняка использовать все скиллы. За весь день на ЛК данный макрос ни разу не подвел.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 226 1
+KeyDown 26 1
+Delay 10 20 ms
+KeyUp 226 1
+KeyUp 26 1
+Delay 300 330 ms
+KeyDown 31 1
+Delay 10 20 ms
+KeyUp 31 1
+Delay 10 20 ms
+KeyDown 32 1
+Delay 10 20 ms
+KeyUp 32 1
+Delay 60 90 ms
+KeyDown 30 1
+Delay 10 20 ms
+KeyUp 30 1
+Delay 60 90 ms
+KeyDown 21 1
+Delay 10 20 ms
+KeyUp 21 1
+Delay 60 90 ms
+KeyDown 21 1
+Delay 10 20 ms
+KeyUp 21 1
+Delay 180 210 ms
+KeyDown 20 1
+Delay 10 20 ms
+KeyUp 20 1
+Delay 150 180 ms
+KeyDown 20 1
+Delay 10 20 ms
+KeyUp 20 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

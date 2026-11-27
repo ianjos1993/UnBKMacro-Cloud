@@ -1,0 +1,170 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Описание:
+Макрос для Fishing Planet,одним нажатием заброс ,проводка, забор рыбы,проводка примерно минута.И повтор на 40 забросов.
+Расчитана на 1 скорость, 10г
+
+ИНСТРУКЦИЯ:
+1.Запустите игру
+2.Присвойте макрос на удобную клавишу клавиатуры в программе
+3.Встаньте на место для рыбалки и  выберите направление заброса
+4.Нажмите клавишу на которую присвоили макрос
+5.Ловим бассов</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 2000 ms
+KeyUp 44 1
+Delay 1000 ms
+LeftDown 1
+Delay 1736 ms
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 553 ms
+RightDown 1
+Delay 199 ms
+RightUp 1
+Delay 872 ms
+RightDown 1
+Delay 152 ms
+RightUp 1
+Delay 840 ms
+RightDown 1
+Delay 200 ms
+RightUp 1
+Delay 880 ms
+RightDown 1
+Delay 208 ms
+RightUp 1
+Delay 800 ms
+RightDown 1
+Delay 192 ms
+RightUp 1
+Delay 831 ms
+RightDown 1
+Delay 176 ms
+RightUp 1
+Delay 840 ms
+RightDown 1
+Delay 160 ms
+RightUp 1
+Delay 775 ms
+RightDown 1
+Delay 200 ms
+RightUp 1
+Delay 816 ms
+RightDown 1
+Delay 193 ms
+RightUp 1
+Delay 872 ms
+RightDown 1
+Delay 192 ms
+RightUp 1
+Delay 848 ms
+RightDown 1
+Delay 217 ms
+RightUp 1
+Delay 824 ms
+RightDown 1
+Delay 216 ms
+RightUp 1
+Delay 856 ms
+RightDown 1
+Delay 167 ms
+RightUp 1
+Delay 856 ms
+RightDown 1
+Delay 208 ms
+RightUp 1
+Delay 896 ms
+RightDown 1
+Delay 239 ms
+RightUp 1
+Delay 864 ms
+RightDown 1
+Delay 192 ms
+RightUp 1
+Delay 800 ms
+RightDown 1
+Delay 201 ms
+RightUp 1
+Delay 840 ms
+RightDown 1
+Delay 200 ms
+RightUp 1
+Delay 864 ms
+RightDown 1
+Delay 184 ms
+RightUp 1
+Delay 832 ms
+RightDown 1
+Delay 168 ms
+RightUp 1
+Delay 807 ms
+RightDown 1
+Delay 209 ms
+RightUp 1
+Delay 840 ms
+RightDown 1
+Delay 184 ms
+RightUp 1
+Delay 863 ms
+RightDown 1
+Delay 168 ms
+RightUp 1
+Delay 10000 ms
+LeftUp 1
+Delay 551 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 72 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 48 ms
+LeftDown 1
+Delay 89 ms
+LeftUp 1
+Delay 72 ms
+LeftDown 1
+Delay 89 ms
+LeftUp 1
+Delay 72 ms
+LeftDown 1
+Delay 89 ms
+LeftUp 1
+Delay 72 ms
+LeftDown 1
+Delay 89 ms
+LeftUp 1
+Delay 72 ms
+LeftDown 1
+Delay 89 ms
+LeftUp 1
+Delay 72 ms
+LeftDown 1
+Delay 15 s
+LeftUp 1
+Delay 376 ms
+LeftDown 1
+Delay 10 s
+LeftUp 1
+Delay 376 ms
+KeyDown 44 1
+Delay 2000 ms
+KeyUp 44 1
+Delay 6000 ms
+GoWhile 1 40</Syntax>
+    </KeyDown>
+    <Software>Fishing Planet</Software>
+  </DefaultMacro>
+</Root>

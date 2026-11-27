@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для спойла в афк определенных мобов.
+
+Что делаем :
+
+1. Прописываем макрос в игре /target mob, где "mob" - ник моба которого будем спойлить. 
+
+2. Выставляем этот макрос на вторую панель в ячейку 1
+
+3. Выставляем спойл на вторую панель в ячейку 2
+
+4. Выставляем атаку на вторую панель в ячейку 3
+
+5. Выставляем сбор спойла на вторую панель в ячейку 4.
+
+6. Выставляем чтобы макрос работал до повторного нажатия горячей клавиши.
+
+7.Запускаем макрос, уходим в афк :)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+KeyDown 31 1
+KeyUp 31 1
+KeyDown 32 1
+KeyUp 32 1
+KeyDown 33 1
+KeyUp 33 1</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

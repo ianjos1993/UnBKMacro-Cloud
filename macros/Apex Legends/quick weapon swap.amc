@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro helps with swapping faster between both of your weapons . Make sure that swapping weapons in your settings is "T" or change the key in the script. Also make sure that "3" is holstering weapon in game settings or change in the script. Last step is to set a Hotkey that you are comfortable with.
+Enjoy!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 10 ms
+KeyUp 23 1
+Delay 10 ms
+KeyDown 32 1
+Delay 5 ms
+KeyUp 32 1
+Delay 10 ms
+KeyDown 23 1
+Delay 5 ms
+KeyUp 23 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

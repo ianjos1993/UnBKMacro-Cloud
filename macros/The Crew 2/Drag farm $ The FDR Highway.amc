@@ -1,0 +1,186 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для фарма славы и баксов в Драг Рейсинг на трассе "Магистраль ФДР".
+ВАЖНО:
+-Старт макроса начинать во время пробуксовки, когда остаётся РОВНО 5 секунд. 
+-На машине должны быть установлены все детали максимального уровня.
+
+P.S. т.к. трасса имеет поворот, то по многим причинам, машина может врезаться и "сломать" макрос, поэтому советую использовать для длительного фарма маккрос для трассы "Солончаки".</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 5264 ms
+KeyUp 26 1
+Delay 3294 ms
+KeyDown 26 1
+Delay 960 ms
+KeyDown 8 1
+Delay 137 ms
+KeyUp 8 1
+Delay 361 ms
+KeyDown 8 1
+Delay 141 ms
+KeyUp 8 1
+Delay 623 ms
+KeyDown 8 1
+Delay 134 ms
+KeyUp 8 1
+Delay 1366 ms
+KeyDown 8 1
+Delay 99 ms
+KeyDown 225 1
+Delay 50 ms
+KeyUp 8 1
+Delay 124 ms
+KeyUp 225 1
+Delay 176 ms
+KeyDown 4 1
+Delay 220 ms
+KeyUp 4 1
+Delay 254 ms
+KeyDown 4 1
+Delay 201 ms
+KeyUp 4 1
+Delay 512 ms
+KeyDown 7 1
+Delay 109 ms
+KeyUp 7 1
+Delay 577 ms
+KeyDown 4 1
+Delay 82 ms
+KeyUp 4 1
+Delay 306 ms
+KeyDown 7 1
+Delay 76 ms
+KeyUp 7 1
+Delay 287 ms
+KeyDown 4 1
+Delay 119 ms
+KeyUp 4 1
+Delay 297 ms
+KeyDown 7 1
+Delay 84 ms
+KeyUp 7 1
+Delay 3386 ms
+KeyUp 26 1
+Delay 6671 ms
+KeyDown 41 1
+Delay 991 ms
+KeyUp 41 1
+Delay 7520 ms
+KeyDown 26 1
+Delay 5020 ms
+KeyUp 26 1
+Delay 4412 ms
+KeyDown 26 1
+Delay 936 ms
+KeyDown 8 1
+Delay 137 ms
+KeyUp 8 1
+Delay 297 ms
+KeyDown 8 1
+Delay 138 ms
+KeyUp 8 1
+Delay 564 ms
+KeyDown 8 1
+Delay 172 ms
+KeyUp 8 1
+Delay 1536 ms
+KeyDown 4 1
+Delay 0 ms
+KeyDown 8 1
+Delay 58 ms
+KeyUp 4 1
+Delay 18 ms
+KeyDown 4 1
+Delay 68 ms
+KeyUp 8 1
+Delay 31 ms
+KeyDown 225 1
+Delay 127 ms
+KeyUp 4 1
+Delay 15 ms
+KeyUp 225 1
+Delay 1993 ms
+KeyDown 4 1
+Delay 140 ms
+KeyUp 4 1
+Delay 962 ms
+KeyDown 7 1
+Delay 111 ms
+KeyUp 7 1
+Delay 1267 ms
+KeyDown 4 1
+Delay 75 ms
+KeyUp 4 1
+Delay 2464 ms
+KeyUp 26 1
+Delay 5576 ms
+KeyDown 41 1
+Delay 912 ms
+KeyUp 41 1
+Delay 7762 ms
+KeyDown 26 1
+Delay 5870 ms
+KeyUp 26 1
+Delay 3164 ms
+KeyDown 26 1
+Delay 787 ms
+KeyDown 8 1
+Delay 148 ms
+KeyUp 8 1
+Delay 383 ms
+KeyDown 8 1
+Delay 140 ms
+KeyUp 8 1
+Delay 489 ms
+KeyDown 8 1
+Delay 205 ms
+KeyUp 8 1
+Delay 1428 ms
+KeyDown 8 1
+Delay 159 ms
+KeyUp 8 1
+Delay 32 ms
+KeyDown 4 1
+Delay 264 ms
+KeyDown 225 1
+Delay 3 ms
+KeyUp 4 1
+Delay 129 ms
+KeyUp 225 1
+Delay 588 ms
+KeyDown 4 1
+Delay 147 ms
+KeyUp 4 1
+Delay 627 ms
+KeyDown 7 1
+Delay 97 ms
+KeyUp 7 1
+Delay 594 ms
+KeyDown 4 1
+Delay 72 ms
+KeyUp 4 1
+Delay 4474 ms
+KeyUp 26 1
+Delay 6050 ms
+KeyDown 41 1
+Delay 860 ms
+KeyUp 41 1
+Delay 9396 ms
+KeyDown 17 1
+Delay 1136 ms
+KeyUp 17 1
+Delay 17662 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>The Crew 2</Software>
+  </DefaultMacro>
+</Root>

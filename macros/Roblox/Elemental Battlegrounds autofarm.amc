@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Elemental Battlegrounds автофарм на афк. он работает на ножатии цифор от 1 до 3 и нажатием LKM. Таким способом у тебя фармиться на афк с максимальной скоростью.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+LeftDown 1
+LeftUp 1
+KeyDown 31 1
+KeyUp 31 1
+LeftDown 1
+LeftUp 1
+KeyDown 32 1
+KeyUp 32 1
+LeftDown 1
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

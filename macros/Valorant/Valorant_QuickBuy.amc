@@ -1,0 +1,33 @@
+<Root>
+  <!-- by Britan -->
+  <DefaultMacro>
+    <Major></Major>
+    <Description>НАЗВАНИЕ: Valorant Quick Buy. ОПИСАНИЕ: Быстрая покупка оружия и брони за один клик. Автоматически покупает полную экипировку: шлем (F3), броню (F4), оружие (B -&gt; номер слота). РЕКОМЕНДУЕМАЯ КЛАВИША: F5. КАК ИСПОЛЬЗОВАТЬ: Привяжи макрос на клавишу F5. В начале раунда когда открылся магазин нажми F5 - макрос автоматически купит шлем, броню и оружие. Экономит время на покупке. Однократное выполнение. НАСТРОЙКА: Если хочешь купить только броню без оружия - убери строки с KeyDown 66 (клавиша B). АВТОР: by Britan. ЗАПРЕЩЕНО копировать без указания автора.</Description>
+    <Comment>Привязка: F5. Режим: однократное. Инструкция: нажми F5 в начале раунда - купит шлем, броню и оружие автоматически.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 114 1
+Delay 30 ms
+KeyUp 114 1
+Delay 50 ms
+KeyDown 114 1
+Delay 30 ms
+KeyUp 114 1
+Delay 50 ms
+KeyDown 66 1
+Delay 30 ms
+KeyUp 66 1
+Delay 50 ms
+KeyDown 50 1
+Delay 30 ms
+KeyUp 50 1
+Delay 30 ms</Syntax>
+    </KeyDown>
+    <Software>Valorant</Software>
+  </DefaultMacro>
+</Root>

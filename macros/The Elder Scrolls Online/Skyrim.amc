@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Находите шит, одинокого врага с одноручным оружие, экипируете щит выбераете базовое заклинание востановления, одеваете броню с самым высоким классом, заходите угл так что бы враг не мог вас обойти, и активируете скрип, он длится ~25 минут, за эти 25 минут при самом базовом кол-ве здоровья вас невозможно убить, и у вас качается ВОСТАНОВЛЕНИЕ и БЛОКИРОВАНИЕ, расскладку с базовой не менять, после 1-го круга, вас уже не возможно убить, выставляете в макросе большее кол-во циклов и уходите заниматься своими делами пока у вас пасивно прокачивается БЛОКИРОВАНИЕ и ВОСТАНОВЛЕНИЕ, это буквально афк гринд этих навыков</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 64
+Delay 20 s
+RightUp 1
+Delay 15 s
+LeftDown 1
+Delay 3 s
+LeftUp 1
+Delay 600 ms
+GoWhile 1 100</Syntax>
+    </KeyDown>
+    <Software>The Elder Scrolls Online (TESO)</Software>
+  </DefaultMacro>
+</Root>

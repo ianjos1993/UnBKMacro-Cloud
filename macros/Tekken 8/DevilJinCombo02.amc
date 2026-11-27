@@ -1,0 +1,106 @@
+<Root>
+  <DefaultMacro>
+    <Major>Devi lJin Combo 02</Major>
+    <Description>Макрос позволяет выполнять sample 2 комбо за Devil Jin в Tekken 8.
+Видео демонстрации работы макроса: https://youtu.be/uCo8XPT0m1k
+
+Девил Джин является проявлением Дьявольского гена, который полностью раскрывает скрытую силу Джина Кадзамы. В этой форме он теряет большую часть человеческих эмоций, уступая место холодной расчетливости и неудержимой жажде доминирования. Его внешний облик дополняют черные крылья, рога и демоническая аура, подчеркивающие нечеловеческое происхождение этой силы. В сражении Девил Джин сочетает разрушительные удары, высокую мобильность и смертоносные лазерные атаки, оказывая постоянное давление на противника.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 02.07.2026
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ.
+
+#DevilJintekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 65 ms
+KeyDown 94 1
+Delay 157 ms
+KeyUp 94 1
+Delay 45 ms
+KeyUp 22 1
+Delay 135 ms
+KeyDown 7 1
+Delay 66 ms
+KeyDown 93 1
+Delay 125 ms
+KeyUp 93 1
+Delay 87 ms
+KeyUp 7 1
+Delay 198 ms
+KeyDown 7 1
+Delay 116 ms
+KeyDown 92 1
+Delay 88 ms
+KeyUp 7 1
+Delay 9 ms
+KeyUp 92 1
+Delay 113 ms
+KeyDown 4 1
+Delay 73 ms
+KeyDown 93 1
+Delay 98 ms
+KeyUp 93 1
+Delay 86 ms
+KeyDown 92 1
+Delay 148 ms
+KeyUp 92 1
+Delay 138 ms
+KeyUp 4 1
+Delay 179 ms
+KeyDown 7 1
+Delay 90 ms
+KeyDown 93 1
+Delay 156 ms
+KeyUp 93 1
+Delay 137 ms
+KeyUp 7 1
+Delay 110 ms
+KeyDown 92 1
+Delay 105 ms
+KeyUp 92 1
+Delay 155 ms
+KeyDown 7 1
+Delay 80 ms
+KeyUp 7 1
+Delay 63 ms
+KeyDown 7 1
+Delay 64 ms
+KeyDown 93 1
+Delay 108 ms
+KeyUp 7 1
+Delay 4 ms
+KeyUp 93 1
+Delay 194 ms
+KeyDown 27 1
+Delay 97 ms
+KeyUp 27 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

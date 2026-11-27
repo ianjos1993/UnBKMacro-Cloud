@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос автоматически вводит команду /lobby в Minecraft Bedrock Edition, позволяя игроку мгновенно вернуться в главное лобби сервера. Это особенно полезно на мини-игровых серверах, где игрокам часто нужно быстро покинуть арену или выйти из текущей сессии и попасть в основное меню или хаб.
+
+Инструкция по установке макроса:
+1. Скачайте файл макроса.
+2. Назначьте его на удобную для вас клавишу.
+3. Готово.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>SetLang en-US
+KeyDown 56 1
+Delay 9
+KeyUp 56 1
+Delay 9
+KeyDown 15 1
+Delay 9
+KeyUp 15 1
+Delay 9
+KeyDown 18 1
+Delay 9
+KeyUp 18 1
+Delay 9
+KeyDown 5 1
+Delay 9
+KeyUp 5 1
+Delay 9
+KeyDown 5 1
+Delay 9
+KeyUp 5 1
+Delay 9
+KeyDown 28 1
+Delay 9
+KeyUp 28 1
+Delay 9
+KeyDown 88 1
+Delay 9
+KeyUp 88 1
+Delay 9
+SetLang ru-RU</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

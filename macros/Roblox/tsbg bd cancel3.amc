@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>tsbg bd cancel3</Major>
+    <Description>The Strongest Battlegrounds. Backdash cancel for third skill. Best Character to use - the strongest hero.
+Usage: after doing a hook dash u hold S and press button u binded the macro and u will be able to combo extend/end based on skill u use ( mostly used on the strongest hero bcz of low chance of getting punished cuz shove endlag is small)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 1 ms
+KeyUp 32 1
+Delay 5 ms
+KeyDown 20 1
+Delay 1 ms
+KeyUp 20 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

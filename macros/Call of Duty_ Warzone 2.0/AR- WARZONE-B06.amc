@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>AR NO RECOIL PRECISION</Major>
+    <Description>MY SETTINGS ARE AS FOLLOWS
+MOUSE SENSITIVITY - 13.50
+ADS -STANDARD
+SET AS LEFT CLICK DURING GAMEPLAY ONLY, EVEN PAUSE MENU
+OPERATION MODE- WHILE KEY IS PRESSED 
+
+this is the most standard for ARs with Blandwell 7x Optic</Description>
+    <Comment>Disregard previous,major was incorrect</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 30 ms
+MoveR -1 3
+Delay 30 ms
+MoveR -1 4
+Delay 30 ms
+MoveR -2 3
+Delay 30 ms
+MoveR -1 3
+Delay 30 ms
+MoveR -1 4
+Delay 30 ms
+MoveR -2 3</Syntax>
+    </KeyDown>
+    <Software>Call of Duty: Warzone 2.0</Software>
+  </DefaultMacro>
+</Root>

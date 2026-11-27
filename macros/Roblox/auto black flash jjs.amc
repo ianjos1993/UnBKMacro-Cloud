@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для игры в роблокс с названием jjs что позволяет делать прием black flash на персонаже юджи без особых усилий</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 318 ms
+KeyDown 32 1
+Delay 128 ms
+KeyUp 32 1
+Delay 367 ms
+KeyDown 32 1
+Delay 144 ms
+KeyUp 32 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

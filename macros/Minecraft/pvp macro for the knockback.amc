@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос отлично заводит в комбо, тут встроен клик мышкой и движение вперед , можете зажать ctrl чтобы догонять врага которого оттолкнули.
+
+1.Скачиваете макрос .amc файл
+2.Зайдите в BotMek и открываете вкладку A4tech
+3.Открываете amc.файл который скачали
+4.Открываете вкладку Клавиши
+5.Выбираете любую удобную клавишу, присваиваете amc макрос, и ставите режим работы выполнять до повторного нажатия , или выполнять пока клавиша удерживается
+6.Запускаете программу</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+LeftUp 1
+Delay 1 ms
+LeftDown 1
+LeftUp 1
+KeyUp 26 1
+Delay 19 ms
+KeyDown 26 1
+Delay 179 ms
+LeftDown 1
+LeftUp 1
+Delay 1 ms
+LeftDown 1
+LeftUp 1
+KeyUp 26 1
+Delay 19 ms
+Delay 179 ms
+KeyDown 26 1
+Delay 179 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

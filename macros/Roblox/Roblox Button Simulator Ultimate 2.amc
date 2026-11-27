@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос для игры Button Simulator Ultimate 2, позволяет покупать все кнопки на данный момент (multi-grass), для работы требуется скоость 60+, может работать и без 60, но возможно менее эффективно.
+Метод применения: надо встать на 1-ю кнопку multi, сделать так что бы камера смотрела ровно в сторону других кнопок (другие кнопки: rebirth, prestige и другие), после чего включить макрос.
+P.S. макрос больше подходит для лейт гейм стадии, при наличии 10+ dirt</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 4 s
+KeyUp 26 1
+KeyDown 22 1
+Delay 4 s
+KeyUp 22 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

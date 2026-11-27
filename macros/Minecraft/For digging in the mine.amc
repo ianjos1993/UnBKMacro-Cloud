@@ -1,0 +1,58 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для шахты в майнкрафте,но не для вального майнкрафта,а для индустриальных сборок.С его помощью,вы сможете копать в шахте не задумываясь о том,что попадёте в ловушку из блоков.С таким макросом можно копать продвинутым буром,киркой Виверны,Драконьей киркой и конечно же посохом силы.Если же вы будете копать продвинутым буром или киркой Виверны,то возмите с собой Ваджару и поставьте справа от слота с буром или киркой,так как на некоторых проектах у них урезан функционал и они не ломают землю и гравий.Надеюсь он вам хорошо послужит:)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 530 ms
+KeyDown 26 1
+Delay 43 ms
+LeftDown 1
+Delay 10 s
+MoveTo 683 371
+Delay 54 ms
+LeftUp 1
+Delay 150 ms
+MoveTo 683 372
+Delay 34 ms
+WheelDown 1
+Delay 1 ms
+MoveTo 683 372
+Delay 150 ms
+LeftDown 1
+Delay 372 ms
+MoveTo 682 372
+Delay 21 ms
+LeftUp 1
+Delay 46 ms
+WheelUp 1
+Delay 310 ms
+LeftDown 1
+Delay 10 s
+LeftUp 1
+Delay 108 ms
+KeyUp 26 1
+Delay 64 ms
+KeyDown 22 1
+Delay 200 ms
+KeyUp 22 1
+Delay 64
+KeyDown 4 1
+Delay 100 ms
+KeyUp 4 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+GoWhile 1 1000</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

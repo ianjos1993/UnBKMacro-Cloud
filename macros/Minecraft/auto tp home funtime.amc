@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всем привет! Сегодня я вам представлю макрос, который позволяет быстро прописать команду на телепортацию на точку дома! Просто введите имя вашего дома в чате, учитывая свои привилегии, или измените название непосредственно в настройках макроса. Не забудьте тщательно протестировать его до начала игры, чтобы убедиться в его правильности и надежности!
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 1 ms
+KeyUp 56 1
+Delay 1 ms
+KeyDown 11 1
+Delay 1 ms
+KeyUp 11 1
+Delay 1 ms
+KeyDown 18 1
+Delay 1 ms
+KeyUp 18 1
+Delay 1 ms
+KeyDown 16 1
+Delay 1 ms
+KeyUp 16 1
+Delay 1 ms
+KeyDown 8 1
+Delay 1 ms
+KeyUp 8 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

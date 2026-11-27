@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос предназначен для быстрой отправки слова "нет" в чат. Чтобы его использовать, просто нажмите назначенную вами кнопку, и текст отправится автоматически.
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 84 1
+Delay 5 ms
+SetLang ru-RU
+Delay 5 ms
+KeyUp 84 1
+Delay 5 ms
+KeyDown 28 1
+Delay 5 ms
+KeyUp 28 1
+Delay 5 ms
+KeyDown 23 1
+Delay 5 ms
+KeyUp 23 1
+Delay 5 ms
+KeyDown 17 1
+Delay 5 ms
+KeyUp 17 1
+Delay 5 ms
+KeyDown 88 1
+Delay 5 ms
+KeyUp 88 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

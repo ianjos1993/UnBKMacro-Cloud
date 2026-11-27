@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>быстрый редакт на кнопку g для использование биндите макрос на любую кнопку лмпо на клавиатуре либо на мышки подходмите к любому объекто в фортнайте нажимаете на ранее забиндиную вами кнопку и вcё.)))))))</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+Delay 64 ms
+KeyUp 10 1
+Delay 64 ms
+KeyDown 10 1
+Delay 5 ms
+KeyUp 10 1
+Delay 5 ms
+LeftDown 1
+Delay 65 ms
+LeftUp 1
+Delay 64 ms
+KeyDown 10 1
+Delay 5 ms
+KeyUp 10 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

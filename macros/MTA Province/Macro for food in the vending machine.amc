@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для еды в автомате, подойдет для тех, кому надо купить много чипсов / газировки , например фракционникам. Задача макроса предельна проста - повторяет нажатие клавиши Е по циклу 99 раз.
+Записано около 45 ФПС. Качество изображения низкое, сглаживание отключено, видеопамять - максимум, высокий приоритет процесса, из теней травы дыма шин и тд , все отключено, также окно без рамки, дальности прорисовкки 55 % Таймцикл с низкой прорисовкой , эффекты стандарт, партикл стандарт , трава и вода стандарт, вехакл тхд тоже стандарт , приятной игры на Province RP.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 132 ms
+KeyUp 68 1
+Delay 2 ms
+KeyUp 225 1
+Delay 1105 ms
+KeyDown 8 1
+Delay 3485 ms
+KeyUp 8 1
+Delay 861 ms
+Delay 251 ms
+GoWhile 1 99</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

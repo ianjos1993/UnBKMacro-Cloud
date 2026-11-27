@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Очень сильное заклинания для Magicka желательно сделать на кнопку "Z"Очень сильное заклинания для Magicka желательно сделать на кнопку "Z"</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 100 ms
+KeyUp 8 1
+Delay 100 ms
+KeyDown 20 1
+Delay 100 ms
+KeyUp 20 1
+Delay 100 ms
+KeyDown 21 1
+Delay 100 ms
+KeyUp 21 1
+Delay 100 ms
+KeyDown 20 1
+Delay 100 ms
+KeyUp 20 1
+Delay 100 ms
+KeyDown 21 1
+Delay 100 ms
+KeyUp 21 1
+Delay 100 ms
+KeyDown 22 1
+Delay 100 ms
+KeyUp 22 1
+Delay 100 ms
+KeyDown 4 1
+Delay 100 ms
+KeyUp 4 1
+Delay 100 ms</Syntax>
+    </KeyDown>
+    <Software>Magicka 1</Software>
+  </DefaultMacro>
+</Root>

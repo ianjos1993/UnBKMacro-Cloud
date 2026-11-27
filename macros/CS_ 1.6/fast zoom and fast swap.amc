@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major>sbopka</Major>
+    <Description>Данный макрос позволяет быстро стрелять с авп не прицеливаясь, к тому же после выстрела быстро меняет на нож и обратно на авп</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 30 ms
+LeftDown 1
+Delay 30 ms
+KeyDown 20 1
+KeyDown 20 1</Syntax>
+    </KeyDown>
+    <Software>CS 1.6</Software>
+  </DefaultMacro>
+</Root>

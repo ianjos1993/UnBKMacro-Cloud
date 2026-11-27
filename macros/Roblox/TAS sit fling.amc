@@ -1,0 +1,57 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос автоматизирует процесс взлета в игре, последовательно нажимая кнопки поворота экрана и кнопку "V" для продвижения к следующему кадру.  Для эффективного использования макроса, пользователю необходимо определить оптимальный кадр начала, при котором достигается желаемый результат взлета.  Важно отметить, что данный макрос предназначен исключительно для игр, поддерживающих функцию "TAS" (Tool-Assisted Speedrun), позволяющую осуществлять покадровую запись и воспроизведение действий.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 54 1
+Delay 30 ms
+KeyUp 54 1
+Delay 30 ms
+KeyDown 54 1
+Delay 30 ms
+KeyUp 54 1
+Delay 30 ms
+KeyDown 54 1
+Delay 30 ms
+KeyUp 54 1
+Delay 30 ms
+KeyDown 54 1
+Delay 30 ms
+KeyUp 54 1
+Delay 30 ms
+KeyDown 25 1
+Delay 30 ms
+KeyUp 25 1
+Delay 30 ms
+KeyDown 55 1
+Delay 30 ms
+KeyUp 55 1
+Delay 30 ms
+KeyDown 55 1
+Delay 30 ms
+KeyUp 55 1
+Delay 30 ms
+KeyDown 55 1
+Delay 30 ms
+KeyUp 55 1
+Delay 30 ms
+KeyDown 55 1
+Delay 30 ms
+KeyUp 55 1
+Delay 30 ms
+KeyDown 25 1
+Delay 30 ms
+KeyUp 25 1
+Delay 30 ms
+GoWhile 1 100</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,60 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>script for the mp5k telescopic in R6. Wamai has it
+
+if there is any other operator with telescopic mp5k, then this work..
+
+2560 x 1440 screen resolution
+
+16:10 ratio
+
+650dpi
+sensitivity: 17
+
+attachments: 
+extended barrel
+angled grip.
+telescopic scope</Description>
+    <Comment>script for the mp5k telescopic in R6. Wamai has it
+
+if there is any other operator with telescopic mp5k, then this work..
+
+2560 x 1440 screen resolution
+
+16:10 ratio
+
+650dpi
+sensitivity: 17
+
+attachments: 
+extended barrel
+angled grip.
+telescopic scope</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR -2 2
+Delay 7 ms
+MoveR 5 7
+Delay 6 ms
+MoveR -3 2
+Delay 7 ms
+MoveR 4 3
+Delay 6 ms
+MoveR -2 3
+Delay 7 ms
+MoveR 7 3
+Delay 6 ms
+MoveR -4 1
+Delay 7 ms
+MoveR -3 2
+Delay 3 ms</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

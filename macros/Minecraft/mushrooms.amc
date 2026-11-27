@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Афк фарм грибов на 5 плотов, скорость 130, pow ставим на -25 градусов, сделал небольшие паузы для того чтобы сильно не палится.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 3902 ms
+LeftDown 1
+Delay 153 ms
+LeftUp 1
+Delay 711 ms
+LeftDown 1
+Delay 34 ms
+KeyDown 4 1
+Delay 0 ms
+KeyDown 26 1
+Delay 94319 ms
+KeyUp 4 1
+Delay 23 ms
+KeyUp 26 1
+Delay 391 ms
+KeyDown 7 1
+Delay 98439 ms
+KeyUp 7 1
+Delay 10 ms
+LeftUp 1
+Delay 1501 ms
+GoWhile 1 50</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

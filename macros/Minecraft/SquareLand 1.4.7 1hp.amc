@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>И так мой макросик для омеги 1.4.7 чтоб работал как надо во 1 следует свапать с 7 слота  раскрутывать 4-10 секунд в зависимости от того когда вы увидите свап. Если отлично свапнуть с 1 масика можно срубить может оставить сразу 1хп и это почти всегда .
+1 - меч
+3 - масик  и все умераю
+4-Устанавливаем по инструкциям и наслаждаемся смертями игроков.
+
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 1 ms
+KeyUp 32 1
+LeftDown 1
+Delay 9 ms
+LeftUp 1
+Delay 6 ms
+LeftDown 1
+Delay 9 ms
+LeftUp 1
+Delay 6 ms
+KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+RightDown 1
+Delay 21 ms
+RightUp 1
+Delay 19 ms
+RightDown 1
+Delay 21 ms
+RightUp 1
+Delay 19 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

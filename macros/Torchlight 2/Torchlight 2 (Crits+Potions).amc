@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>1. Персонаж - скиталец
+2. Лук + навык "Быстрый огонь"
+3. Покупаете зелья маны на все деньги, которые у вас имеются (чем больше, тем лучше) и ставим их на цифру 2 в быстром доступе
+4. Подходите к манекену, ставите на него курсор и включаете макрос
+5. Таким образом у вас будет фармиться 10 000 критов и 5 000 зелий
+6. После того, как отключите макрос - выйдите из игры с помощью Alt+F4, чтобы все потраченные деньги остались
+6. Спасибо
+7. Пожалуйста</Description>
+    <Comment>:3</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 8 s
+RightUp 1
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+RightDown 1
+Delay 8 s
+RightUp 1
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+RightDown 1
+Delay 8 s
+RightUp 1
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+RightDown 1
+Delay 8 s
+RightUp 1
+KeyDown 31 1
+Delay 64
+KeyUp 31 1</Syntax>
+    </KeyDown>
+    <Software>Torchlight 2</Software>
+  </DefaultMacro>
+</Root>

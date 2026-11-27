@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>Tps</Major>
+    <Description>Saque de gk sin curva
+
+Recomendado poner en la tecla caps lock  
+
+El combo de estte saque es precionar la tecla 1 soltarla presionar alt soltar altf delay 02 presionar mouse soltar mouse presionar alt soltar alt presionar el mouse de nuevo y soltarlo.
+
+este saque te permitira confundir a tus oponentes pensando que el saque saldra con curva</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+LeftDown 1
+LeftUp 1
+KeyDown 226 1
+KeyUp 226 1
+Delay 200 ms
+LeftDown 1
+LeftUp 1
+KeyDown 226 1
+KeyUp 226 1
+LeftDown 1
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>roblox / tps ultimate soccer</Software>
+  </DefaultMacro>
+</Root>

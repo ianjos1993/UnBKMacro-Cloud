@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major>Parkour Auto Longjump</Major>
+    <Description>Hello! I made this script to make it easier to do a full longjump!
+
+How to use: Just run over to an edge of a building (not totally at the edge but a bit forward) and just simple toggle it!
+
+Needed resolution (optional): 1920x1080</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 274 ms
+KeyDown 29 1
+Delay 49 ms
+KeyUp 29 1
+Delay 75 ms
+KeyDown 29 1
+Delay 424 ms
+MiddleDown 1
+KeyDown 44 1
+MiddleUp 1
+Delay 95 ms
+KeyUp 29 1
+Delay 165 ms
+KeyUp 44 1
+Delay 189 ms
+KeyDown 29 1
+Delay 49 ms
+KeyUp 29 1
+Delay 64 ms
+KeyDown 29 1
+MiddleDown 1
+KeyDown 44 1
+MiddleUp 1
+Delay 64
+Delay 69 ms
+KeyUp 29 1
+Delay 150 ms
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,73 @@
+<Root>
+  <DefaultMacro>
+    <Major>ARK ANTI AFK</Major>
+    <Description>SIMPLE ANTI AFK
+just walk W, A, S, D and drink or eat something in "4" key
+every 10mins go on and on
+must be high fortitude or put air condition</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1000 ms
+KeyDown 15 1
+Delay 1000 ms
+KeyUp 15 1
+Delay 1000 ms
+KeyDown 26 1
+Delay 200 ms
+KeyUp 26 1
+Delay 2000 ms
+KeyDown 7 1
+Delay 200 ms
+KeyUp 7 1
+Delay 2000 ms
+KeyDown 22 1
+Delay 200 ms
+KeyUp 22 1
+Delay 2000 ms
+KeyDown 4 1
+Delay 200 ms
+KeyUp 4 1
+Delay 2000 ms
+KeyDown 26 1
+Delay 200 ms
+KeyUp 26 1
+Delay 2000 ms
+KeyDown 7 1
+Delay 200 ms
+KeyUp 7 1
+Delay 2000 ms
+KeyDown 22 1
+Delay 200 ms
+KeyUp 22 1
+Delay 2000 ms
+KeyDown 4 1
+Delay 200 ms
+KeyUp 4 1
+Delay 2000 ms
+KeyDown 33 1
+Delay 1 ms
+KeyUp 33 1
+Delay 200 ms
+KeyDown 33 1
+Delay 1 ms
+KeyUp 33 1
+Delay 200 ms
+KeyDown 33 1
+Delay 1 ms
+KeyUp 33 1
+Delay 200 ms
+KeyDown 15 1
+Delay 1 ms
+KeyUp 15 1
+Delay 10 min
+GoWhile 1 500</Syntax>
+    </KeyDown>
+    <Software>ARK: Survival Evolved</Software>
+  </DefaultMacro>
+</Root>

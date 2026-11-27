@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>macro phyton</Major>
+    <Description>this macro work for phyton with high sens 1 (press to start release to stop)
+fov 90
+1920 x 1080
+dpi 1200
+sens 1
+
+just set it and your macro will be the best</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 50 ms
+MoveR 0 -28
+Delay 50 ms
+MoveR 0 -26
+Delay 50 ms
+MoveR 0 -28
+Delay 50 ms
+MoveR 0 -26
+Delay 50 ms
+MoveR 0 -28
+Delay 50 ms
+LeftUp 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

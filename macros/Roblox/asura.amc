@@ -1,0 +1,151 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Берете Push up либо подобное упражнение ставите на кнопку 1
+в слот 2,3,4 ставите еду
+Макрос запускать при выбранной 1
+Тайминг между подходами подстраивайте под себя и вес броника (если он имеется)
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+LeftUp 1
+Delay 10 s
+GoWhile 1 100
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 10 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 10 s
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 10 s
+GoWhile 22 100
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 10 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 10 s
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 10 s
+GoWhile 43 100
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 10 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 10 s
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 10 s
+GoWhile 64 100
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 10 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 10 s
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 10 s
+GoWhile 85 100
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 10 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 10 s
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 10 s
+GoWhile 106 100
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 10 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 10 s
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 10 s
+GoWhile 127 100</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Идеальный, продуманный макрос для фарма красной пыли  на Hypixel Skyblock, все что нужно делать, это поставить голову на 90 градусов на стандартной ферме красной пыли и включить макрос, что-бы ускорить макрос, поставьте скорость на ботинках не стандартную, а 320, и макрос сможет работать в том же режиме только быстрее. Приятного пользования!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 33000 ms
+KeyUp 22 1
+KeyDown 26 1
+KeyDown 7 1
+Delay 31000 ms
+KeyUp 26 1
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>это самый эффективный способ подбирать быстро предметы в Booga Booga REBORN 
+когда макрос активен вы собираете очень быстро предметы 
+примеры использования: 1. когда вы убиваете игрока с него выпадают ресурсы - с помощью этого макроса вы сможете быстро подобрать ресурсы игрока
+2. когда какой то человек раздает предметы вы будете самым быстрым игроком на его раздаче ресурсов
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoWhile 1 86400000
+KeyDown 9 1
+Delay 1 ms
+KeyUp 9 1</Syntax>
+    </KeyDown>
+    <Software>Roblox:booga booga reborn</Software>
+  </DefaultMacro>
+</Root>

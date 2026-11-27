@@ -1,0 +1,53 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Ввиду малой популярности и распространенности легендарной игры КС  1.6 к сожалению, макросы написаны только для самого попуярного оружия в игре карабин М4А1.
+для чувствительности в игре 2.5%</Description>
+    <Comment>
+
+</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>
+LeftDown 1
+Delay 96 ms
+MoveR 0 4
+Delay 96 ms
+MoveR 0 4
+Delay 96 ms
+MoveR 0 4
+Delay 96 ms
+MoveR 0 10
+Delay 96 ms
+MoveR 0 18
+Delay 96 ms
+MoveR 0 18
+Delay 96 ms
+MoveR 0 4
+Delay 96 ms
+MoveR 0 4
+Delay 96 ms
+MoveR 0 4
+Delay 96 ms
+MoveR -1 0
+Delay 96 ms
+MoveR -1 0
+Delay 96 ms
+MoveR -1 0
+Delay 96 ms
+MoveR -1 0
+Delay 96 ms
+MoveR -1 0
+Delay 96 ms
+LeftUp 1
+MoveR 0 -35
+Delay 300 ms</Syntax>
+    </KeyDown>
+    <Software>CS 1.6</Software>
+  </DefaultMacro>
+</Root>

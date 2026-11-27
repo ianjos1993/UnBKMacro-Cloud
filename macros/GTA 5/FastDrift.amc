@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>Быстрео включение дрифт мода ДЛЯ РАЗРЕШЕНИЯ 1920x1080.</Major>
+    <Description>Очень простой скрипт, но позволит резко добовлять сцепление. Можно разгоняться начинать постановку и прожимать микрос, быстро и удобно. Можно включать на стоковой машине при разгоне(дрифт мод позваляет +50-100км к разгону на сток машине).   ДЛЯ РАЗРЕШЕНИЯ 1920x1080.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+Delay 10
+KeyUp 10 1
+Delay 300 ms
+KeyDown 37 1
+Delay 10
+KeyUp 37 1
+Delay 10</Syntax>
+    </KeyDown>
+    <Software>GTA V</Software>
+  </DefaultMacro>
+</Root>

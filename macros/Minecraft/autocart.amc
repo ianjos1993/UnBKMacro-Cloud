@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>привет это рабочий макрос для автокарта что бы он у тебя работал тебе надо что бы лук лежал в слоте под биндом q тоесть например лук у вас в 7 слоте заходим в настройки и перебиндовываем 7 слот на кнопку q после этого вам надо что б у вас лежали рельсы в 4 слоте а карт в 5 после того как вы скачали макрос добавляем любой бинд в кейране тоесть кнопку и на нее включаем макрос на наш автокарт после заходим майнкрафт наводимся ввезх слишком вверх не надо нажимаем макрос после выстрела лука смотрим на 2-3 блока от вас и карт с рельсой поставятся сами удачной игры!
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+RightDown 1
+Delay 250 ms
+RightUp 1
+Delay 64
+KeyDown 33 1
+Delay 1 ms
+KeyUp 33 1
+Delay 1 ms
+RightDown 1
+Delay 50 ms
+RightUp 1
+Delay 64
+KeyDown 34 1
+Delay 1 ms
+KeyUp 34 1
+Delay 1 ms
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

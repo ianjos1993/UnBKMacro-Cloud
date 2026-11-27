@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Короче говоря делает убийство за одну тыку по удобной кнопке
+Если не работает, то поменяйте в макросе R на клавишу (цифру или любой другой символ) колючки.
+ВНИМАНИЕ!!! РЕКОМЕНДУЮ СКАЧАТЬ ГОРЯЧИЕ КЛАВИШИ ДЛЯ ИГРЫ ЧТОБЫ БЕРСЕРГЕР ОДЕЛСЯ!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы
+https://greasyfork.org/ru/scripts/447279-sploop-io-hat-hotkeys -- скачать горячие клавиши</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 28 1
+Delay 1
+KeyUp 28 1
+Delay 1
+KeyDown 21 1
+Delay 1
+KeyUp 21 1
+Delay 1
+KeyDown 44 1
+Delay 1
+KeyUp 44 1
+Delay 1
+KeyDown 44 1
+Delay 1
+KeyUp 44 1
+Delay 1</Syntax>
+    </KeyDown>
+    <Software>Sploop.io</Software>
+  </DefaultMacro>
+</Root>

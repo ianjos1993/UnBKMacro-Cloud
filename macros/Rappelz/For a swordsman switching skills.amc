@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>Мечник </Major>
+    <Description>Отлично подходит для мечника переключения скила единсва веры на защитную стойку и так до бесконечности потходит для всех данжей и для тех мест где нужно много бегать. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 45 1
+Delay 2 s
+KeyUp 45 1
+Delay 20 s
+KeyDown 46 1
+Delay 2 s
+KeyUp 46 1
+Delay 18 s
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Rappelz</Software>
+  </DefaultMacro>
+</Root>

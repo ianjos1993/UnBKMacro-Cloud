@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всех приветствую..
+
+Макрос для "AUG" очень хорошо контролит, летит в точку, не знаю как на остольных оружиях. Использовал только на "AUG; можете проверить.
+
+Удачи в использовании</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 10 ms
+LeftUp 1
+MoveR 0 0
+MoveR -2 0
+MoveR 2 0</Syntax>
+    </KeyDown>
+    <Software>Point Blank</Software>
+  </DefaultMacro>
+</Root>

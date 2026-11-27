@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Настройки в Windows:
+1. Отключите повышенную точность указателя мыши. 
+2. Установите скорость движения указателя точно по центру (6 деление). 
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 8 ms
+LeftDown 1
+Delay 7 ms
+MoveR 0 5
+Delay 7 ms
+MoveR 0 5
+Delay 7 ms
+MoveR 0 5
+Delay 7 ms
+MoveR 0 5
+Delay 7 ms
+LeftUp 1
+Delay 8 ms</Syntax>
+    </KeyDown>
+    <Software>Call of Duty: Modern Warfare (2019)</Software>
+  </DefaultMacro>
+</Root>

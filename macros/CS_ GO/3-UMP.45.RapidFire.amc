@@ -1,0 +1,67 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макросы для UMP-45
+Выстрелов без отдачи - 25 полностью без отдачи
+Изменить в игре НАСТРОЙКИ - клавиатура/мышь: "Чувствительность мыши" - 2.52 ,
+    "Чувствительность приближения" - 1, "Прямое подключение" - ВКЛ, "Ускорение мыши" - ВЫКЛ.
+   Или прописать в консоль команды 
+    sensitivity "2.52" , zoom_sensitivity_ratio_mouse "1.0" , m_rawinput "1" , m_customaccel "0"</Description>
+    <Comment>
+</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//..www.flumbix.com
+//..youtube.com/flumbix
+//..setup.in.game..sens-2.52..m_rawinput-1..m_customaccel-0
+//--FREE-LIMITED-macros-for-CS:GO--
+LeftDown 1
+Delay 88 ms
+MoveR -6 5
+Delay 88 ms
+MoveR -6 6
+Delay 88 ms
+MoveR 4 14
+Delay 88 ms
+MoveR -2 28
+Delay 88 ms
+MoveR -8 22
+Delay 88 ms
+MoveR -6 20
+Delay 88 ms
+MoveR 6 18
+Delay 88 ms
+MoveR 3 18
+Delay 88 ms
+MoveR 2 7
+Delay 88 ms
+MoveR 15 7
+Delay 88 ms
+MoveR 12 7
+Delay 88 ms
+MoveR 6 7
+Delay 88 ms
+MoveR 6 7
+Delay 88 ms
+MoveR 3 4
+Delay 88 ms
+MoveR 2 2
+Delay 88 ms
+MoveR 2 2
+Delay 88 ms
+MoveR -3 -3
+Delay 88 ms
+MoveR -2 -2
+Delay 880 ms
+Delay 880 ms
+Delay 880 ms
+Delay 880 ms</Syntax>
+    </KeyDown>
+    <Software>CS:GO</Software>
+  </DefaultMacro>
+</Root>

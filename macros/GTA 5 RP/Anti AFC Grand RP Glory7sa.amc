@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>Gta</Major>
+    <Description>Очень простой анти-АФК простой, чтоб не выкинуло с игры, достаточно его включить, ваш персонаж начнет поварачиваться на месте. Без лишних завихрений и приблуд. Пользуйтесь на здоровье.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 2 s
+KeyUp 4 1
+Delay 3 s
+KeyDown 26 1
+Delay 2 s
+KeyUp 26 1
+Delay 3 s
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 15 s
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 9 min
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

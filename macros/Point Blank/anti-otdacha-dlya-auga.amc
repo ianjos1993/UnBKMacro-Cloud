@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>To suppress gun's bursts recoil so that to ensure precise firepower
+Applicable weapon: light machine guns, rifles, mini-submachine gun
+
+</Description>
+    <Comment>Automatic Press Gun
+</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//   новый скрипт ниже.
+//-------------------
+//3 метода создания скрипта
+//1, включить функции из верхней левой панели
+//2, запись движений мыши и клавиатуры
+//3, веведите с клавиатуры
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+MoveR 0 1
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+MoveR 0 1
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+MoveR 0 1
+LeftDown 1
+Delay 30 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Counter-Strike (CS)
+</Software>
+  </DefaultMacro>
+</Root>

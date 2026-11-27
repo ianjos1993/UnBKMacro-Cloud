@@ -1,0 +1,77 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос ПОЛНОСТЬЮ потвторяет прием Giganter → Gigantic Bullet (состоит из двух фаз) у персонажа Potemkin в серии игр Guilty Gear.
+
+Ваш персонаж должен смотреть налево, чтобы выполнить прием:
+
+Первая фаза: ←↙↓↘→, ←+ клавиша [
+Задержка 500 мс
+Вторая фаза: →↘↓↙←, →↘↓↙← + клавиша К
+
+Вы можете заменить "клавиша К" и "клавиша [" на любую удобную Вам клавишу в Редакторе. Убедитесь, что она совпадает с вашей раскладкой ударов в игре.
+
+Если наблюдается невыполнение второй фазы, измените задержку.
+
+Раскладка направления в игре должна быть WASD!!!
+
+Прием для смотрящего направо  перса выложено отдельно с названием "Potemkin GiganticR"</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 15 ms
+KeyDown 22 1
+Delay 15 ms
+KeyUp 4 1
+Delay 15 ms
+KeyDown 7 1
+Delay 15 ms
+KeyUp 22 1
+Delay 15 ms
+KeyUp 7 1
+Delay 15 ms
+KeyDown 4 1
+Delay 15 ms
+KeyDown 47 1
+Delay 15 ms
+KeyUp 47 1
+Delay 15 ms
+KeyUp 4 1
+Delay 500 ms
+KeyDown 7 1
+Delay 15 ms
+KeyDown 22 1
+Delay 15 ms
+KeyUp 7 1
+Delay 15 ms
+KeyDown 4 1
+Delay 15 ms
+KeyUp 22 1
+Delay 15 ms
+KeyUp 4 1
+Delay 15 ms
+KeyDown 7 1
+Delay 15 ms
+KeyDown 22 1
+Delay 15 ms
+KeyUp 7 1
+Delay 15 ms
+KeyDown 4 1
+Delay 15 ms
+KeyUp 22 1
+Delay 15 ms
+KeyDown 14 1
+Delay 15 ms
+KeyUp 14 1
+Delay 15 ms
+KeyUp 4 1</Syntax>
+    </KeyDown>
+    <Software>Guilty Gear и другие файтинги</Software>
+  </DefaultMacro>
+</Root>

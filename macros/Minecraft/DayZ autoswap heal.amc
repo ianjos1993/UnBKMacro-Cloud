@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>автохилл для сервера DayZ BattleGround
+для того чтобы всё работало ваш хилл должен находиться на 3 и 4 слоте( например апт и стимик на 3 и 4 слоте)
+так же выложу автосвап ганов(быстрая тычка со снайпы)
+
+macros created by VilleR</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 35 ms
+KeyUp 32 1
+Delay 35 ms
+RightDown 1
+Delay 35 ms
+RightUp 1
+Delay 35 ms
+KeyDown 33 1
+Delay 35 ms
+KeyUp 33 1
+Delay 35 ms
+RightDown 1
+Delay 35 ms
+RightUp 1
+Delay 35 ms
+KeyDown 30 1
+Delay 35 ms
+KeyUp 30 1
+Delay 35 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

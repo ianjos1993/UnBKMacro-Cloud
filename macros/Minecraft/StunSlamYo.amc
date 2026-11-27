@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Стан слем для игры майнкрафт, биндите C на топор,а 2 на булаву. Прожимаете макрос в тайминг когда достаете до хитбокса, иногда может кривовато работать из-за системы тиков майнкрафта.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 2 ms
+LeftUp 1
+Delay 2 ms
+KeyDown 6 1
+Delay 10 ms
+KeyUp 6 1
+Delay 5 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 2 ms
+KeyDown 31 1
+Delay 10 ms
+KeyUp 31 1
+Delay 2 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

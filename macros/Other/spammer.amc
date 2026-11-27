@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>иногда хочеться проспамить надоедливому человеку но нужно отойти по делам? этот макрос решит вашу проблему, нажмите на назначенную клавишу и спамте точками вашему врагу</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 55 1
+Delay 70 ms
+KeyUp 55 1
+Delay 70 ms
+KeyDown 88 1
+Delay 70 ms
+KeyUp 88 1
+Delay 70 ms</Syntax>
+    </KeyDown>
+    <Software>спам</Software>
+  </DefaultMacro>
+</Root>

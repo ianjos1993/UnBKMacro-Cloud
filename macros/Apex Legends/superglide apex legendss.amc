@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>т.к. разработчики апекса удалили конфиги из игры, теперь нужно пользоваться макросами для суперглайда. Вот один из них за моим авторством. Простой макрос, проверил. Всё работает. Чтобы установить макрос, нужно:
+1. Загрузить макрос с оффициального сайта или из самой программы.
+2. Назначить на нужную вам клавишу.
+3. Запустить apex legends.
+4. Наслаждаться макросом.
+(Автор макроса - h8me. И пишите комментарии под макрос. Я прочитаю всё и исправлю ошибки.)</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 6 1
+Delay 64
+KeyUp 6 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

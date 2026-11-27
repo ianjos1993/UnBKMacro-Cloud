@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>krunker bhop bind to space and hold and set to repeat on hold all you have to do is use shift to crouch while in air.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 4 ms
+KeyUp 44 1
+Delay 4 ms</Syntax>
+    </KeyDown>
+    <Software>Krunker.io</Software>
+  </DefaultMacro>
+</Root>

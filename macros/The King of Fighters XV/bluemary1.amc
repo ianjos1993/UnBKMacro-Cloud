@@ -1,0 +1,111 @@
+<Root>
+  <DefaultMacro>
+    <Major>Blue Mary combo1</Major>
+    <Description>Голубая Мэри (Blue Mary) — персонаж из серии игр Fatal Fury и KOF, созданный по образцу Android 18 из серии Dragon Ball. Использует боевое искусство — самбо, зародившееся в Советском Союзе. В опросе персонажей Neo Geo Freak (игровой журнал, издаваемый для поклонников игр SNK.) 1997 года она была признана четырнадцатым любимым персонажем, набрав в общей сложности 705 голосов.
+
+Видео демонстрации работы макроса: https://youtu.be/XuAD2WtPjLw
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ Light Punch - Insert
+ Light Kick - End
+ Heavy Punch - Home
+ Heavy Kick - Delete
+ Max - TAB
+ 1+2 - Page UP
+ 3+4 Page Down
+
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер"  (при необходимости установить драйвер)
+
+Тестирование макроса проводились на последнем патче игры на 27.01.2023 (1.63 патч)
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#bluemarykofxv #kofxv #kingoffightersxv</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 65 ms
+KeyUp 22 1
+Delay 61 ms
+KeyDown 7 1
+Delay 24 ms
+KeyDown 26 1
+Delay 62 ms
+KeyUp 26 1
+Delay 23 ms
+KeyUp 7 1
+Delay 32 ms
+KeyDown 73 1
+Delay 44 ms
+KeyUp 73 1
+Delay 40 ms
+KeyDown 7 1
+Delay 34 ms
+KeyDown 73 1
+Delay 52 ms
+KeyUp 7 1
+Delay 24 ms
+KeyUp 73 1
+Delay 32 ms
+KeyDown 22 1
+Delay 53 ms
+KeyDown 4 1
+Delay 65 ms
+KeyUp 22 1
+Delay 17 ms
+KeyDown 77 1
+Delay 48 ms
+KeyUp 4 1
+Delay 56 ms
+KeyUp 77 1
+Delay 32 ms
+KeyDown 22 1
+Delay 42 ms
+KeyDown 4 1
+Delay 24 ms
+KeyUp 22 1
+Delay 15 ms
+KeyDown 76 1
+Delay 63 ms
+KeyUp 4 1
+Delay 63 ms
+KeyUp 76 1
+Delay 43 ms
+KeyDown 22 1
+Delay 55 ms
+KeyDown 4 1
+Delay 53 ms
+KeyUp 22 1
+Delay 39 ms
+KeyUp 4 1
+Delay 79 ms
+KeyDown 22 1
+Delay 88 ms
+KeyDown 7 1
+Delay 87 ms
+KeyUp 22 1
+Delay 7 ms
+KeyDown 76 1
+Delay 15 ms
+KeyDown 74 1
+Delay 32 ms
+KeyUp 7 1
+Delay 104 ms
+KeyUp 76 1
+Delay 39 ms
+KeyUp 74 1</Syntax>
+    </KeyDown>
+    <Software>The King of Fighters XV</Software>
+  </DefaultMacro>
+</Root>

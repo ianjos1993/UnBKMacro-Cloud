@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major>Автобег</Major>
+    <Description>Данный макрос позволит автоматически бегать в гта 5 рп при выполнении порта. Написан на скорую руку, так что не бейте , если у Вас работать не будет. Макрос активирует на время клавишу W и Shift что позволяет биндить запуск его и сбивать анимации </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+KeyDown 26 1
+Delay 11 min
+Delay 11 min</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

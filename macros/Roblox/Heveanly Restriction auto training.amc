@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Hveanely restriction training, just train to mastery 10 to have access to Thousand Chain skill, any order on the skill is fine
+For Jujutsu Chronicles</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 64
+KeyUp 29 1
+Delay 1 s
+KeyDown 27 1
+Delay 64
+KeyUp 27 1
+Delay 1 s
+KeyDown 6 1
+Delay 64
+KeyUp 6 1
+Delay 1 s
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

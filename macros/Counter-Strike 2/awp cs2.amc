@@ -1,0 +1,19 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Позволяет стрелять с авп 1 кнопкой. Т.е. Вы нажимаете на кнопку макроса и он сам прицеливается и стреляет. Т.е. Вы можете без прицела навестись на противника и нажать на кнопку макроса, макрос сам нажмёт на прицел и убьет врага точным выстрелом</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 350 ms
+LeftDown 1</Syntax>
+    </KeyDown>
+    <Software>Counter-Strike 2</Software>
+  </DefaultMacro>
+</Root>

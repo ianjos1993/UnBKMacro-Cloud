@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для Рулетки на Форуме Keyran!
+
+Наведите Мышку на кнопку Рулетки "Крутить" (не на саму надпись) и запустите Макрос!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 2 2 248,248,248 255,255,255 0 1920 1080
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 7 s
+GoWhile 1 99999</Syntax>
+    </KeyDown>
+    <Software>Keyran</Software>
+  </DefaultMacro>
+</Root>

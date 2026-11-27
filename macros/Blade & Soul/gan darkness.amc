@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для гана в тьме.Универсальный для каждого гана по бнс.
+В настройках меняем обычный пкм на T и играем.
+Макрос простой используем еще проще
+1)Запускаем программу
+2)Запускаем игру
+3)Скачиваем макрос заливаем в мышку
+4)Запускаем и радуемся.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 2 ms
+KeyUp 23 1
+Delay 2 ms
+KeyDown 9 1
+Delay 2 ms
+KeyUp 9 1
+Delay 2 ms
+KeyDown 9 1
+Delay 2 ms
+KeyUp 9 1
+Delay 2 ms
+KeyDown 30 1
+Delay 2 ms
+KeyUp 30 1
+Delay 2 ms
+KeyDown 33 1
+Delay 2 ms
+KeyUp 33 1
+Delay 2 ms
+KeyDown 25 1
+Delay 2 ms
+KeyUp 25 1
+Delay 2 ms</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

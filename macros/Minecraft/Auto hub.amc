@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major>Auto hub nearly for all servers</Major>
+    <Description>All u have to do is set the macro to the keybind u want it to Autohub, i will fastly type /hub in chat and let u back to the hub, ( added some delay so the game can recgonize the key press).</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 5 ms
+KeyUp 23 1
+KeyDown 56 1
+Delay 5 ms
+KeyUp 56 1
+KeyDown 11 1
+Delay 5 ms
+KeyUp 11 1
+KeyDown 24 1
+Delay 5 ms
+KeyUp 24 1
+KeyDown 5 1
+Delay 5 ms
+KeyUp 5 1
+KeyDown 88 1
+Delay 5 ms
+KeyUp 88 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

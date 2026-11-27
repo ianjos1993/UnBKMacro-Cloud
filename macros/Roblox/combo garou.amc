@@ -1,0 +1,79 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для игры TSB (The strongest battlegrounds) для лёгкого комбо новичкам, прошаренным не советую, макрос нужно использовать на персонаже Hero hunter, желательно 120 фпс, разрешение экрана на котором выполнялся сам макрос-1600x900.Если у вас чтото не работает, попробуйте немного отредактировать задержку.Инструкция по макросу:подойдите к сопернику, и быстро активируйте макрос, чтобы было удобнее использовать макрос, по желанию можете убрать первые 2 клика в редакторе макросов.Макрос выполнять на пинге 70-90, желательно чтобы вы и ваш противник были без лагов и высоко пинга, удачи  в использовании!</Description>
+    <Comment>Макрос для комбо на персонаже Hero hunter, лёгекое, но полезное для начинающих игроков, выполняйте макрос на пинге 70(можно и больше, но 70 желательно)</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 250 ms
+KeyDown 7 1
+KeyUp 7 1
+Delay 2 ms
+KeyDown 20 1
+Delay 2 ms
+Delay 64
+KeyUp 20 1
+MoveR 300 0
+KeyDown 31 1
+Delay 2 ms
+KeyUp 31 1
+Delay 250 ms
+KeyDown 32 1
+KeyUp 32 1
+Delay 200 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

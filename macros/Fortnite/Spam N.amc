@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major>----- FORTNITE AUTOSPAMMER -----</Major>
+    <Description>I created an autoclicker designed to spam the letter 'N', perfect for Fortnite players who want to bind their emote button to it.With this autoclicker, you can continuously trigger emotes, making your gameplay fun. Simply bind the emote key in Fortnite to 'N', activate the autoclicker, and watch as your character effortlessly performs emotes non-stop. This tool enhances your in-game experience, providing endless entertainment and a unique way to celebrate victories or taunt opponents!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 17 1
+Delay 1 ms
+KeyUp 17 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

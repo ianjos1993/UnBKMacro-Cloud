@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматически закрывает карточку, сбрасывая звонок, при нажатии на кнопку, закрывает со сбросом Для те,кто устал закрывать карточки вручную :) Разрешение экрана, при котором проводился тест: 1680 x 1050</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 351 358
+Delay 298 ms
+LeftDown 1
+Delay 130 ms
+LeftUp 1
+MoveTo 475 896
+Delay 3 ms
+LeftDown 1
+Delay 125 ms
+LeftUp 1
+Delay 228 ms
+MoveTo 1449 988
+Delay 75 ms
+LeftDown 1
+Delay 18 ms
+MoveTo 1450 989
+Delay 41 ms
+MoveTo 1450 989
+Delay 96 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Другие</Software>
+  </DefaultMacro>
+</Root>

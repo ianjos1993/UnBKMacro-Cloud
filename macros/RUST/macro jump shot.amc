@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major>jump shot bot</Major>
+    <Description>this macro work for bow with automatically jump and shot with one button, 
+let's enjoy and support me
+
+easy macro
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 64
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 64
+KeyUp 44 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,100 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>После долгого перерыва решил вновь начать писать макросы.И сегодня я сделал довольно простой но полезный макрос,чтобы понять принцип его работы будет написана следдующая инструкция.
+
+1)Для начала вам нужно скачать данный макрос,что делается довольно просто,вам нужно нажать на кнопку 
+"Скачать".
+2)После скачивания вам необходимо вывести на главный экран панель клавиатуры Keyran.
+3)После этого вы должны выбрать клавишу или же кнопку мыши на которую вы хотите поставить активацию макроса.
+4)После того как вы поставите работу макроса на любую клавишу или кнопку мыши,например на клавишу Н,то после нажатия на эту клавишу макрос начнет работать
+5)Макрос предназначен для игр на Анархии,СlanWars и  другиих режимах.
+6)Приятного всем использования.
+
+Хочу добавить что макрос удаляет Clanhome только с названием 1,по скольку это наиболее популярное название для него.
+
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 28 ms
+KeyUp 56 1
+Delay 28 ms
+KeyDown 7 1
+Delay 28 ms
+KeyUp 7 1
+Delay 28 ms
+KeyDown 8 1
+Delay 28 ms
+KeyUp 8 1
+Delay 28 ms
+KeyDown 15 1
+Delay 28 ms
+KeyUp 15 1
+Delay 28 ms
+KeyDown 8 1
+Delay 28 ms
+KeyUp 8 1
+Delay 28 ms
+KeyDown 23 1
+Delay 28 ms
+KeyUp 23 1
+Delay 28 ms
+KeyDown 8 1
+Delay 28 ms
+KeyUp 8 1
+Delay 28 ms
+KeyDown 44 1
+Delay 28 ms
+KeyUp 44 1
+Delay 28 ms
+KeyDown 6 1
+Delay 28 ms
+KeyUp 6 1
+Delay 28 ms
+KeyDown 15 1
+Delay 28 ms
+KeyUp 15 1
+Delay 28 ms
+KeyDown 4 1
+Delay 28 ms
+KeyUp 4 1
+Delay 28 ms
+KeyDown 17 1
+Delay 28 ms
+KeyUp 17 1
+Delay 28 ms
+KeyDown 11 1
+Delay 28 ms
+KeyUp 11 1
+Delay 28 ms
+KeyDown 18 1
+Delay 28 ms
+KeyUp 18 1
+Delay 28 ms
+KeyDown 16 1
+Delay 28 ms
+KeyUp 16 1
+Delay 28 ms
+KeyDown 8 1
+Delay 28 ms
+KeyUp 8 1
+Delay 28 ms
+KeyDown 30 1
+Delay 28 ms
+KeyUp 30 1
+Delay 28 ms
+KeyDown 88 1
+Delay 28 ms
+KeyUp 88 1
+Delay 28 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major>Apex Jitter Aim for 301, Flatine  </Major>
+    <Description>Bind macro to left mouse click, will have zero recoil when shooting. Крутит прицел по часовой стрелке, за счет этого нивелируется разброс, пули летят в центр. Ставим макрос на ЛКМ, режим - пока нажата кнопка.
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 3 3
+Delay 8 ms
+MoveR 3 -3
+Delay 8 ms
+MoveR -3 -3
+Delay 8 ms
+MoveR -3 3
+Delay 8 ms</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

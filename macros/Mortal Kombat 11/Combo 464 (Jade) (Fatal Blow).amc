@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Комбо на 464 урона для Джейд с использованием Fatal Blow (Середина экрана, левая сторона,)
+
+F21 B2+FB</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 24
+KeyDown 12 1
+Delay 24
+KeyUp 12 1
+Delay 24
+KeyDown 13 1
+Delay 24
+KeyUp 13 1
+Delay 24
+KeyUp 7 1
+Delay 24
+Delay 1400 ms
+KeyDown 4 1
+Delay 24
+KeyDown 12 1
+Delay 24
+KeyUp 12 1
+Delay 24
+KeyUp 4 1
+Delay 24 ms
+KeyDown 24 1
+Delay 24 ms
+KeyDown 18 1
+Delay 24 ms
+KeyUp 18 1
+Delay 24 ms
+KeyUp 24 1
+Delay 24 ms</Syntax>
+    </KeyDown>
+    <Software>Mortal Kombat 11</Software>
+  </DefaultMacro>
+</Root>

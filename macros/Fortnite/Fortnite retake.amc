@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Благодаря этому макросу вы сможете ретейкать людей с первого раза с пингом 30-50. Он очень простой но хороший.
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 128 ms
+LeftUp 1
+Delay 64 ms
+KeyDown 19 1
+Delay 30 ms
+KeyUp 19 1
+Delay 30 ms
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 30 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

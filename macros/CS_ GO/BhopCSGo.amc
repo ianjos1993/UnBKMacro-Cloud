@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для Bhop в CSGO (Зажать пробел) . Стрейфить надо самому . Пользуюсь уже месяц.(Для подходит для банихопа по ландшафту.По типу грунт и т.д.)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 16 ms
+KeyUp 44 1
+Delay 15 ms
+KeyDown 44 1
+Delay 16 ms
+KeyUp 44 1
+Delay 15 ms
+KeyDown 44 1
+Delay 16 ms</Syntax>
+    </KeyDown>
+    <Software>CS: GO</Software>
+  </DefaultMacro>
+</Root>

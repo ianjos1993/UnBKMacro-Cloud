@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>-Обычный прокаст за Shadow Fiend 
+1.Включи быстрые скиллы
+2.Забинди макрос на любую удобную кнопку
+3.Наведи на врага (главное что бы враг был не дальше чем радиус действия Eul's Scepter)
+4.Готово, осталось добить бездаря койлами:)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+KeyUp 29 1
+Delay 64 ms
+KeyDown 27 1
+KeyUp 27 1
+Delay 640 ms
+KeyDown 21 1
+KeyUp 21 1</Syntax>
+    </KeyDown>
+    <Software>dota 2</Software>
+  </DefaultMacro>
+</Root>

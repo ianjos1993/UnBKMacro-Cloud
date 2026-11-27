@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>Прокаст на тини</Major>
+    <Description>Быстрое применение на предметы и скиллы необходимо.
+Курсор держать на противнике, иначе макрос не сработает
+
+Данный макрос помогает приблизится к врагу и делать довольно мощный прокаст который становится еще мощнее благодаря механике игры.
+
+Необходимые бинды:
+C - Blink Dagger
+Q - Avalanche
+W - Toss</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+Delay 137 ms
+KeyUp 6 1
+Delay 21 ms
+KeyDown 26 1
+Delay 160 ms
+KeyUp 26 1
+Delay 63 ms
+KeyDown 20 1
+Delay 95 ms
+KeyUp 20 1</Syntax>
+    </KeyDown>
+    <Software>dota 2</Software>
+  </DefaultMacro>
+</Root>

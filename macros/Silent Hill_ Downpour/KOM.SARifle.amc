@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Отличный макрос, разрешение 1920х1080, cенса в игре 0,9 CPI 1600 по возможности макрос будет редактироваться, макрос от мышки Bloody.</Description>
+    <Comment>KOM
+</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 30 ms
+MoveR 0 12
+LeftUp 1
+MoveR 0 0
+Delay 54 ms</Syntax>
+    </KeyDown>
+    <Software>Silent Hill Downpour</Software>
+  </DefaultMacro>
+</Root>

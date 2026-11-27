@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для тренировки воли вооружения и воли наблюдения в робоксе, в игре Grand Piece Online
+Так же можно тренееривать одну из воль (Главное поставить на повтор)
+Использование: Встать около пистолетчика и запустить макрос</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+Delay 647 ms
+KeyUp 10 1
+Delay 192 ms
+KeyDown 13 1
+Delay 688 ms
+KeyUp 13 1
+Delay 36376 ms
+KeyDown 10 1
+Delay 760 ms
+KeyUp 10 1
+Delay 21672 ms
+KeyDown 10 1
+Delay 552 ms
+KeyUp 10 1
+Delay 11880 ms
+KeyDown 10 1
+Delay 857 ms
+KeyUp 10 1
+Delay 42663 ms
+KeyDown 10 1
+Delay 1240 ms
+KeyUp 10 1
+Delay 37320 ms
+KeyDown 10 1
+Delay 919 ms
+KeyUp 10 1</Syntax>
+    </KeyDown>
+    <Software>Roblox GrandPieseOnline</Software>
+  </DefaultMacro>
+</Root>

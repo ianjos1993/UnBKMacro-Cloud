@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major>Помогает ловить автомобили на аукционе</Major>
+    <Description>Увидел машину, нажал на клавишу, ответственную за макрос, и машина твоя! Помогает ловить машины ещё до того, как соперники по аукциону поймут в чём дело</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 28 1
+Delay 95 ms
+KeyUp 28 1
+Delay 100 ms
+KeyDown 81 1
+Delay 100 ms
+KeyUp 81 1
+Delay 100 ms
+KeyDown 88 1
+Delay 128 ms
+KeyUp 88 1
+Delay 100 ms
+KeyDown 88 1
+Delay 93 ms
+KeyUp 88 1
+Delay 3625 ms
+KeyDown 88 1
+Delay 133 ms
+KeyUp 88 1
+Delay 1197 ms
+KeyDown 88 1
+Delay 96 ms
+KeyUp 88 1
+Delay 6139 ms
+KeyDown 88 1
+Delay 142 ms
+KeyUp 88 1</Syntax>
+    </KeyDown>
+    <Software>Forza Horizon 5</Software>
+  </DefaultMacro>
+</Root>

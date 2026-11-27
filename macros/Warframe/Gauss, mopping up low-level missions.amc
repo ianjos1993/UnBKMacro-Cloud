@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Отлично подходит для прохождения разрывов бездня. Как работает? После активации макроса, гаусс делает рывок в направлении взгляда, после чего использует термальный раскол 2 раза второй раз с задержкой для наложения двух статусов.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 350 ms
+KeyDown 32 1
+Delay 500 ms
+KeyUp 32 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Warframe</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This requires you to make your wall button "Z' And then this Macro will instantly replace a wall. This macro allows you to always take a wall with the click of a button and is very easy to use. Have fun.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 5
+LeftUp 1
+Delay 5
+LeftDown 1
+Delay 5
+LeftUp 1
+Delay 5
+KeyDown 29 1
+Delay 5
+KeyUp 29 1
+Delay 5</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

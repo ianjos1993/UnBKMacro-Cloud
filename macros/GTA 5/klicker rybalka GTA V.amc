@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>Karyk</Major>
+    <Description>Данный макрос позволяет забиндить ЛКМ на любую другую кнопку и упростить вылов рыбы. Минимаьная задержка позволяет ловить рыбу в океане за 3 действия, на озере за 2 действия.
+Это не автоматизирует рыбалку, но сейвит вашу мышку, нервы и время.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 30 ms
+LeftUp 1
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+LeftDown 1
+Delay 30 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>GTA V</Software>
+  </DefaultMacro>
+</Root>

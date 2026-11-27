@@ -1,0 +1,78 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Уберает отдачу на ас вал, настроенно на 20 выстрелов но можно добавить и больше конечно. Если использовать например на калаше то нужно отдачу подкрутить, если ещё поле зрение подкрутить ваще идеально работает.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 16 ms
+MoveR 0 3
+Delay 8 ms
+Delay 16 ms
+MoveR 0 3
+Delay 8 ms
+Delay 16 ms
+MoveR 0 3
+Delay 8 ms
+Delay 16 ms
+MoveR 0 3
+Delay 8 ms
+Delay 16 ms
+MoveR 0 3
+Delay 8 ms
+Delay 16 ms
+MoveR 0 3
+Delay 8 ms
+Delay 16 ms
+MoveR 0 3
+Delay 8 ms
+Delay 16 ms
+MoveR 0 3
+Delay 8 ms
+Delay 16 ms
+MoveR 0 3
+Delay 8 ms
+Delay 16 ms
+MoveR 0 3
+Delay 8 ms
+Delay 16 ms
+MoveR 0 3
+Delay 8 ms
+Delay 16 ms
+MoveR 0 3
+Delay 8 ms
+Delay 16 ms
+MoveR 0 3
+Delay 8 ms
+Delay 16 ms
+MoveR 0 3
+Delay 8 ms
+Delay 16 ms
+MoveR 0 3
+Delay 8 ms
+Delay 16 ms
+MoveR 0 3
+Delay 8 ms
+Delay 16 ms
+MoveR 0 3
+Delay 8 ms
+Delay 16 ms
+MoveR 0 3
+Delay 8 ms
+Delay 16 ms
+MoveR 0 3
+Delay 8 ms
+Delay 16 ms
+MoveR 0 3
+Delay 16 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Survarium</Software>
+  </DefaultMacro>
+</Root>

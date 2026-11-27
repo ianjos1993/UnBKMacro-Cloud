@@ -1,0 +1,95 @@
+<Root>
+  <DefaultMacro>
+    <Major>фарм</Major>
+    <Description>макрос отлично фармит почти везде ,жмёт скилы , пьет банки , макрос сделан из 2 кругов на зацикливании тоесть 1 круг атака , крит, лотание дропа , затем спустя 20 мобов уходит на 2 круг  нажимая ф2 ф3 ( эт бафы ) затем возвращается в начало ! и так по кругу , </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 98 1
+Delay 64
+KeyUp 98 1
+Delay 64
+KeyDown 95 1
+Delay 64
+KeyUp 95 1
+Delay 600 ms
+KeyDown 58 1
+Delay 64
+KeyUp 58 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 200 ms
+Delay 64
+GoColor 13 0 188,17,15 255,255,255 1 723 717
+Delay 214 ms
+Delay 3000 ms
+KeyDown 8 1
+Delay 214 ms
+KeyUp 8 1
+Delay 400 ms
+KeyDown 8 1
+Delay 214 ms
+KeyUp 8 1
+Delay 214 ms
+KeyDown 8 1
+Delay 214 ms
+KeyUp 8 1
+Delay 214 ms
+KeyDown 8 1
+Delay 214 ms
+KeyUp 8 1
+Delay 214 ms
+KeyDown 8 1
+Delay 214 ms
+KeyUp 8 1
+Delay 214 ms
+Delay 300 ms
+KeyDown 58 1
+Delay 64
+KeyUp 58 1
+Delay 64
+GoWhile 1 20
+KeyDown 59 1
+Delay 214 ms
+KeyUp 59 1
+Delay 400 ms
+KeyDown 60 1
+Delay 214 ms
+KeyUp 60 1
+Delay 214 ms
+KeyDown 20 1
+Delay 214 ms
+KeyUp 20 1
+Delay 214 ms
+KeyDown 8 1
+Delay 214 ms
+KeyUp 8 1
+Delay 214 ms
+KeyDown 20 1
+Delay 214 ms
+KeyUp 20 1
+Delay 214 ms
+KeyDown 8 1
+Delay 214 ms
+KeyUp 8 1
+Delay 214 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>R2 Onlain</Software>
+  </DefaultMacro>
+</Root>

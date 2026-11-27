@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос для создания Чудесного оберега во время ивента Любовная лихорадка
+На цийру 1 ставите Чудесный оберег.
+Мышку ставите на знак любви, и запускаете, после этого знак любви автоматически продается
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 4100 ms
+KeyUp 30 1
+RightDown 1
+Delay 100 ms
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>World of Warcraft</Software>
+  </DefaultMacro>
+</Root>

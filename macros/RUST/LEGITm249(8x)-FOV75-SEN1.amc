@@ -1,0 +1,240 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Legit rust macro for M249 with 8x scope.
+
+How to use:
+1. Download the file 
+2. Add it to macro editor
+3. Bind it to a key of choice (I recommend mouse wheel)
+4. Make sure you set the program to incognito mode (in settings)
+5. Run the program and enjoy!
+
+Use FOV of 75
+Sensitivity: 1</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 26
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 1
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 26
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 1
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 26
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 1
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 26
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+KeyDown 21 1
+Delay 30 ms
+KeyUp 21 1
+Delay 8 s</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Очень сильно бустит в пвп в трапке ты снесешь человека на равных достаточно быстро в общем имбище для пвп</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Button4down 1
+Delay 64
+Button4Up 1
+Delay 64
+GoWhile 7 5555
+Delay 25 ms
+LeftUp 1
+Delay 25 ms
+LeftDown 1
+Delay 25 ms
+LeftUp 1
+Delay 25 ms
+LeftDown 1
+Delay 25 ms
+LeftUp 1
+Delay 25 ms
+LeftDown 1
+Delay 25 ms
+LeftUp 1
+Delay 25 ms
+LeftDown 1
+Delay 25 ms
+LeftUp 1
+Delay 25 ms
+LeftDown 1
+Delay 25 ms
+LeftUp 1
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос бы сделан под разрешение 1920x1080. Для того что бы работал макрос нужно его скачать после чего подредоктировать его под себя сделать точки ставки и поставить. Вы копируите ставку 99999999 можно от сюда. дальше ждёт контейнеры ставите мышку на строчку ввода ставки после чего как будет на таймере 00:00 жмёте на ту клавишу на которуя назначили макрос. И ловите конт. После чего с лута который вам выпал можете продавать за деньги и зарабатывать. Удачи вам ребята в ловли контов.</Description>
+    <Comment>Надеюсь дадите ключ на неделю )</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 848 588
+Delay 3 ms
+LeftDown 1
+Delay 3 ms
+KeyDown 224 1
+Delay 3 ms
+KeyDown 25 1
+MoveTo 916 587
+Delay 3 ms
+LeftUp 1
+Delay 3 ms
+LeftDown 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

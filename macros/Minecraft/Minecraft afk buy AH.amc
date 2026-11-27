@@ -1,0 +1,75 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>-
+В основном эта команда будет полезна для следующей команды ниже
+/ah search Бамбук 1000        в этой команде /ah -рынок; search-поиск;Бамбук это название ресурса,вписывайте нужное вам самим; 1000-Это цена, вписывайте максимальную цену для покупки ресурса
+-
+Обязательно нужно поставить разрешение экрана в игре 1360х768 
+-
+Далее, регулируем задержку нажатий для своего пинга, а точнее задержки
+может быть такое что ваша задержка слишком большая и макрос попросту будет нажимать на ключевые точки, но и покупать не очень корректно, желательно проследить по поведению макроса и отрегулировать задержку нажатий и абсолютного перемещения курсора.
+-
+И помните что на разных серверах есть запреты на различные макросы. Играйте осторожно.
+-</Description>
+    <Comment>Этот макрос покупает первый предмет на площадке /ah в майнкрафте по указанной цене в вашей введенной команде.
+Работает это так, курсор перемещается на предмет для покупки, нажатие, перемещается на зону для покупки, клик, и перемещается на предмет для обновления рынка, клик.</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//Тут есть запасные клики для того чтобы не пропустить кнопку покупки
+Delay 120 ms
+MoveTo 535 216
+Delay 60 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 20 ms
+LeftUp 1
+Delay 20 ms
+LeftDown 1
+Delay 20 ms
+LeftUp 1
+Delay 20 ms
+//Слиток
+MoveTo 574 308
+Delay 60 ms
+LeftDown 1
+Delay 40 ms
+LeftUp 1
+Delay 40 ms
+LeftDown 1
+Delay 40 ms
+LeftUp 1
+Delay 40 ms
+MoveR 27 18
+Delay 30 ms
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 30 ms
+MoveTo 615 330
+Delay 30 ms
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 30 ms
+//Бай зона
+Delay 30 ms
+MoveTo 679 398
+Delay 80 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 1 ms
+//Обновить рынок</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

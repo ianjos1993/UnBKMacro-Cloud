@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>Berdanka sens=1</Major>
+    <Description>Berdanka sens=1
+Чувствительность мышки=1, с прицелом=0.8 .Fow=90
+меняйте чувствительность если мышку уводит вверх или вниз. Макрос советую поставить на левую кнопку мыши.
+</Description>
+    <Comment>Berdanka sens=1</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+MoveR 0 8
+LeftUp 1
+MoveR 0 0
+Delay 45 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

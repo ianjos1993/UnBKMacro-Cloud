@@ -1,0 +1,98 @@
+<Root>
+  <DefaultMacro>
+    <Major>1920:1080</Major>
+    <Description>1920:1080
+Открытие PIONEER поставить на X (английскую). Макрос обязательно включать в полноэкранном режиме игры, а также, когда PIONEER закрыт. Всем удачного пользования! Макрос работает отменно, вы будете первым, кто заберет сигнал!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 68 1
+Delay 100 ms
+KeyUp 68 1
+Delay 100 ms
+KeyDown 27 1
+Delay 150 ms
+KeyUp 27 1
+Delay 150 ms
+GoColor 23 2 120,129,105 132,143,116 2 596 277 14 16 1 0
+Delay 150 ms
+GoColor 23 2 120,129,105 132,143,116 2 578 281 14 12 1 0
+Delay 150 ms
+GoColor 39 2 120,129,105 132,143,116 2 560 284 14 9 1 0
+Delay 150 ms
+GoColor 39 2 120,129,105 132,143,116 2 542 287 14 6 1 0
+Delay 114 ms
+GoColor 56 2 120,129,105 132,143,116 2 524 290 14 3 1 0
+KeyDown 27 1
+Delay 114 ms
+KeyUp 27 1
+Delay 114 ms
+Goto 5
+MoveTo 675 772
+LeftDown 1
+Delay 114 ms
+LeftUp 1
+Delay 114 ms
+MoveTo 1353 754
+Delay 114 ms
+LeftDown 1
+Delay 114 ms
+LeftUp 1
+Delay 114 ms
+LeftDown 1
+Delay 114 ms
+LeftUp 1
+Delay 114 ms
+Goto 71
+MoveTo 893 774
+Delay 114 ms
+LeftDown 1
+Delay 114 ms
+LeftUp 1
+Delay 114 ms
+MoveTo 1352 746
+Delay 114 ms
+LeftDown 1
+Delay 114 ms
+LeftUp 1
+Delay 114 ms
+LeftDown 1
+Delay 114 ms
+LeftUp 1
+Delay 114 ms
+Goto 71
+MoveTo 1087 779
+Delay 114 ms
+LeftDown 1
+Delay 114 ms
+LeftUp 1
+Delay 114 ms
+MoveTo 1371 743
+Delay 114 ms
+LeftDown 1
+Delay 114 ms
+LeftUp 1
+Delay 114 ms
+LeftDown 1
+Delay 114 ms
+LeftUp 1
+Delay 114 ms
+KeyDown 68 1
+Delay 100 ms
+KeyUp 68 1
+Delay 100 ms
+MoveTo 708 340
+Delay 114 ms
+LeftDown 1
+Delay 114 ms
+LeftUp 1
+Delay 114 ms</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

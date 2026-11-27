@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major>Minecraft Hypixel Фарм булыжника [Рандомная задержка]</Major>
+    <Description>Макрос выполняет рандомное нажатие на W и S с зажатой левой кнопкой мыши, что позволяте фармить коблстоун на сервере Hypixel. 
+
+В макросе можно изменить задержку нажатий W и S под свой размер фермы. </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 26 1
+Delay 64 10000 ms
+KeyUp 26 1
+Delay 64
+KeyDown 22 1
+Delay 64 10000 ms
+KeyUp 22 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

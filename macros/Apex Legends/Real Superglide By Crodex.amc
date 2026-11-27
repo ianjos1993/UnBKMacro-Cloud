@@ -1,0 +1,19 @@
+<Root>
+  <DefaultMacro>
+    <Major>Less Recoil</Major>
+    <Description>very simple macro to reduce recoil, just hold capslock and the aim will start to shake, the pattern is made soo the game wont use his own pattern, hold capslock and the aim will start shaking and moving down, tried with almost every gun, r-99 recoil is  still crazy, r-301 is kinda buggy but somehow still works</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 3 ms
+KeyDown 225 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

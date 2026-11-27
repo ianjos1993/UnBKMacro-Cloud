@@ -1,0 +1,28 @@
+<Root>
+  <!-- by Britan -->
+  <DefaultMacro>
+    <Major></Major>
+    <Description>НАЗВАНИЕ: Valorant Ability Combo. ОПИСАНИЕ: Быстрая комбинация способностей: Q -&gt; E -&gt; Left Click для агрессивного входа. Подходит для дуэлянтов (Jett, Raze, Reyna). РЕКОМЕНДУЕМАЯ КЛАВИША: Mouse 4 (Side). КАК ИСПОЛЬЗОВАТЬ: Привяжи макрос на кнопку Mouse 4. Перед агрессивным входом зажми кнопку - макрос активирует способность Q, затем E и кликнет для атаки. Однократное выполнение. НАСТРОЙКА: Если твой агент использует другие клавиши - замени KeyDown 81 (Q) и KeyDown 69 (E) на нужные. АВТОР: by Britan. ЗАПРЕЩЕНО копировать без указания автора.</Description>
+    <Comment>Привязка: Mouse 4 (Side). Режим: однократное. Инструкция: нажми перед входом - активирует Q, E и кликнет.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 81 1
+Delay 30 ms
+KeyUp 81 1
+Delay 60 ms
+KeyDown 69 1
+Delay 30 ms
+KeyUp 69 1
+Delay 40 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Valorant</Software>
+  </DefaultMacro>
+</Root>

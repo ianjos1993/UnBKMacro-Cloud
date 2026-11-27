@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major>Ловля заказов</Major>
+    <Description>Всем привет, сегодня хочу поделится с вами макросом который поможет вам поймать заказы такси в игре mta province! Не можешь словить заказ? Все делают все быстрее тебя? Тогда попробуй этот свежий макрос на разрешение экрана 1920 х 1080!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 800 400
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 800 700
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Незаменимый для меня скрипт на выуживание крупной рыбы. Не только крутит кату, но и останавливая выкрутку подтягивает леску замахом.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+MoveR 400 0
+Delay 5000 ms
+RightUp 1
+Delay 500 ms
+MoveR -500 0
+KeyDown 225 1
+LeftDown 1
+Delay 5000 ms
+LeftUp 1
+KeyUp 225 1
+RightDown 1
+MoveR -400 0
+Delay 5000 ms
+RightUp 1
+Delay 500 ms
+MoveR 500 0
+KeyDown 225 1
+LeftDown 1
+Delay 5000 ms
+LeftUp 1
+KeyUp 225 1</Syntax>
+    </KeyDown>
+    <Software>The Fisher Online</Software>
+  </DefaultMacro>
+</Root>

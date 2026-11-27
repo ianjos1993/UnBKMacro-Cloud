@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>macro revolver high sensibility</Major>
+    <Description>this macro work on high mouse sensibility like 1.2+ 
+fov 90
+1920x1080
+dpi 1200-1400
+enjoy and support</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 50 ms
+MoveR 0 32
+Delay 50 ms
+MoveR 0 31
+Delay 50 ms
+MoveR 0 32
+Delay 50 ms
+MoveR 0 32
+Delay 50 ms
+LeftUp 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>rust</Software>
+  </DefaultMacro>
+</Root>

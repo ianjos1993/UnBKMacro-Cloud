@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>Кража-безоткатка. </Major>
+    <Description>Кража-безоткатка. Нажимаем для активации и держим сам скилл. Счастья всем) Для лучшего профита сделайте макс ФПС(мин графика и анимации скилов)</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 139 150 ms
+KeyUp 30 1
+Delay 140 150 ms
+KeyDown 41 1
+Delay 140 150 ms
+KeyUp 41 1
+Delay 140 150 ms</Syntax>
+    </KeyDown>
+    <Software>Perfect World</Software>
+  </DefaultMacro>
+</Root>

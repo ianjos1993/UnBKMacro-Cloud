@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major>Untitled Combat Demo rework</Major>
+    <Description>auto cleave авто qte на сукуну в UCDR (untitled combat demo rework)
+5+(кнопка на которую забинжен макрос) = cleave</Description>
+    <Comment>Для тех кому лень заучивать QTE на сукуне</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+Delay 80 ms
+KeyDown 15 1
+Delay 80 ms
+KeyDown 8 1
+Delay 80 ms
+KeyDown 4 1
+Delay 80 ms
+KeyDown 25 1
+Delay 80 ms
+KeyDown 8 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

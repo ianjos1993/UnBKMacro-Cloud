@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на карте Nentori, на парте где нужно прыгнуть в лево и выровняться по правой стене
+Сохраняет много времени, если уходит много попыток на карту
+Нужно прижаться к правой стене справа от парта и активировать макрос</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 223 ms
+KeyDown 7 1
+Delay 230 ms
+KeyUp 7 1
+Delay 157 ms
+KeyDown 4 1
+Delay 696 ms
+KeyDown 44 1
+Delay 114 ms
+KeyDown 7 1
+Delay 43 ms
+KeyUp 44 1
+Delay 5 ms
+KeyUp 4 1
+Delay 111 ms
+KeyUp 7 1
+Delay 1050 ms</Syntax>
+    </KeyDown>
+    <Software>Ddnet / проходит парт с прыжком</Software>
+  </DefaultMacro>
+</Root>

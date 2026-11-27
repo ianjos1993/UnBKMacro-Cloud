@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Игра: DOTA 2/ Персонаж: INVOKER/ Настройки - дефолтные - "Q W E R D "
+Суть макроса- 
+Макрос автоматически кастует "cold snap" в месте где на момент нажатия ваш курсор, вместо того чтобы долго нажимать - !Q Q Q R D навестись на противника нажать ЛКМ !
+Вы просто биндите макрос на кнопку и за секунду кастуете его во врага ! Всем удачи !</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+KeyUp 20 1
+KeyDown 20 1
+KeyUp 20 1
+KeyDown 20 1
+KeyUp 20 1
+KeyDown 21 1
+KeyUp 21 1
+Delay 300
+KeyDown 7 1
+KeyUp 7 1
+MoveR 0 0
+LeftDown 1
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

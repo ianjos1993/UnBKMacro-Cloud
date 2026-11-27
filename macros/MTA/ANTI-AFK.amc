@@ -1,0 +1,18 @@
+<Root>
+  <DefaultMacro>
+    <Major>ANTI-AFK</Major>
+    <Description>Действует по принцыпу перемещения мышки. Спустя рандомное время перемемщает курсор создавая иллюзию что вы в игре. Хорошо подойдет для больниц где запрещен АФК. На серверах это карается и я не несу ответственность за использование этого макроса</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 988 601
+Delay 1000 200001 ms</Syntax>
+    </KeyDown>
+    <Software>Multi Theft Auto (MTA)</Software>
+  </DefaultMacro>
+</Root>

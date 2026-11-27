@@ -1,0 +1,112 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для Main версии (4game) Lineage 2 для ДК на 2 спота по двум петам
+
+1 - Натиск судьбы
+2 - Извержение гнева
+3 - Некст Таргет (дальний)
+4 - Адский огонь
+5 - Вестник ада
+6 - Преследующее проклятие
+7 - Огненное землетрясение
+8 - Брошка
+
+0 - Игровой макрос (таргет пет1 Адское рассечение)
+9 - Игровой макрос (таргет пет2 Адское рассечение)
+
+1. Цикл с таргетом пет1 - задержка 1400мс - отредактировать время бега до пета (повторять 5-6 раз, чтобы во время бега при срабатывание автоюза роз, скилов и тд бежал дальше)
+2. Спам скилов - 1-8 38 раз
+3. Цикл с таргетом пет2 - задержка 1400мс - также отредактировать время в зависимости от расстояния
+4. Спам скилов - 1-8 38 раз
+</Description>
+    <Comment>Подходит для официальных серверов для ДК, так же можно сделать и аналог для тиров.</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 39 1
+Delay 60 ms
+KeyUp 39 1
+Delay 60 ms
+Delay 1400 ms
+GoWhile 1 6
+KeyDown 30 1
+Delay 12 ms
+KeyUp 30 1
+Delay 12 ms
+KeyDown 31 1
+Delay 12 ms
+KeyUp 31 1
+Delay 12 ms
+KeyDown 32 1
+Delay 12 ms
+KeyUp 32 1
+Delay 12 ms
+KeyDown 33 1
+Delay 12 ms
+KeyUp 33 1
+Delay 12 ms
+KeyDown 34 1
+Delay 12 ms
+KeyUp 34 1
+Delay 12 ms
+KeyDown 35 1
+Delay 12 ms
+KeyUp 35 1
+Delay 12 ms
+KeyDown 36 1
+Delay 12 ms
+KeyUp 36 1
+Delay 12 ms
+KeyDown 37 1
+Delay 12 ms
+KeyUp 37 1
+Delay 12 ms
+GoWhile 7 38
+KeyDown 38 1
+Delay 10 ms
+KeyUp 38 1
+Delay 10 ms
+Delay 1400 ms
+GoWhile 40 6
+KeyDown 30 1
+Delay 12 ms
+KeyUp 30 1
+Delay 12 ms
+KeyDown 31 1
+Delay 12 ms
+KeyUp 31 1
+Delay 12 ms
+KeyDown 32 1
+Delay 12 ms
+KeyUp 32 1
+Delay 12 ms
+KeyDown 33 1
+Delay 12 ms
+KeyUp 33 1
+Delay 12 ms
+KeyDown 34 1
+Delay 12 ms
+KeyUp 34 1
+Delay 12 ms
+KeyDown 35 1
+Delay 12 ms
+KeyUp 35 1
+Delay 12 ms
+KeyDown 36 1
+Delay 12 ms
+KeyUp 36 1
+Delay 12 ms
+KeyDown 37 1
+Delay 12 ms
+KeyUp 37 1
+Delay 12 ms
+GoWhile 46 38</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

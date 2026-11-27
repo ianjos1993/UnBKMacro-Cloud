@@ -1,0 +1,75 @@
+<Root>
+  <DefaultMacro>
+    <Major>Weapons (Recoil Control)</Major>
+    <Description>5-Point Diagonal Jitter
+Driver: Must be ENABLED in the settings ("Use driver for mouse control in macros").
+Resolution: 1920x1080.
+DPI: 800 DPI.
+Mode: Loop while pressed.
+3px horizontal, 3px down dip between every step.
+
+It works great for all weapons, just know this isnt "Zero" recoil rather heavily reduces it espically for lower recoil weapons. R99 and Car need a touch of pulling down to remove all recoil. happy shooting</Description>
+    <Comment>1. Set execution mode to "Loop while pressed".
+2. Driver must be ENABLED.
+3. 800 DPI, 1920x1080.</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 3 0
+Delay 1 ms
+MoveR 0 3
+Delay 1 ms
+MoveR 0 -3
+Delay 1 ms
+MoveR 3 0
+Delay 1 ms
+MoveR 0 3
+Delay 1 ms
+MoveR 0 -3
+Delay 1 ms
+MoveR 3 0
+Delay 1 ms
+MoveR 0 3
+Delay 1 ms
+MoveR 0 -3
+Delay 1 ms
+MoveR 3 0
+Delay 1 ms
+MoveR 0 3
+Delay 1 ms
+MoveR 0 -3
+Delay 1 ms
+MoveR -3 0
+Delay 1 ms
+MoveR 0 3
+Delay 1 ms
+MoveR 0 -3
+Delay 1 ms
+MoveR -3 0
+Delay 1 ms
+MoveR 0 3
+Delay 1 ms
+MoveR 0 -3
+Delay 1 ms
+MoveR -3 0
+Delay 1 ms
+MoveR 0 3
+Delay 1 ms
+MoveR 0 -3
+Delay 1 ms
+MoveR -3 0
+Delay 1 ms
+MoveR 0 3
+Delay 1 ms
+MoveR 0 -3
+Delay 1 ms
+Goto 2</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

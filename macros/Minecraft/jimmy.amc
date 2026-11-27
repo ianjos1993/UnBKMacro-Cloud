@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на жиму для CubixCraft
+30 ударов и 15 хила 
+1 - меч
+3 - фрост
+Самый обычный макрос для жиммы 
+Удачи</Description>
+    <Comment>
+</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+Delay 1 ms
+LeftDown 1
+Delay 13 ms
+LeftUp 1
+Delay 13 ms
+LeftDown 1
+Delay 8 ms
+LeftUp 1
+Delay 8 ms
+KeyDown 32 1
+KeyUp 32 1
+Delay 4 ms
+RightDown 1
+Delay 4 ms
+RightUp 1
+Delay 5 ms
+RightDown 1
+Delay 4 ms
+RightUp 1
+Delay 4 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

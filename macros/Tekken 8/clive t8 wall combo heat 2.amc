@@ -1,0 +1,66 @@
+<Root>
+  <DefaultMacro>
+    <Major>Clive t8 wall combo heat 2</Major>
+    <Description>Макрос позволяет выполнять комбо за Clive комбинацию возле стены с heat системой.
+Видео демонстрации работы макроса: https://youtu.be/BkMLffx0dow
+
+Клайв явлется солдатом, которого война сделала молчаливым и стойким. Его путь усеян утратами, но в каждом шаге чувствуется воля к искуплению. Он несет в себе силу древнего призыва, балансируя на грани между человеком и оружием. Клайв не ищет мести, но когда она приходит, он встречает ее с мечом наголо и взглядом, в котором давно угасли страх и наивность.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 16.06.2025
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ.
+
+#clivetekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 33 ms
+KeyDown 73 1
+Delay 265 ms
+KeyUp 73 1
+Delay 47 ms
+KeyUp 4 1
+Delay 168 ms
+KeyDown 74 1
+Delay 157 ms
+KeyDown 76 1
+Delay 124 ms
+KeyUp 76 1
+Delay 55 ms
+KeyDown 76 1
+Delay 87 ms
+KeyUp 76 1
+Delay 68 ms
+KeyDown 76 1
+Delay 98 ms
+KeyUp 76 1
+Delay 62 ms
+KeyUp 74 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

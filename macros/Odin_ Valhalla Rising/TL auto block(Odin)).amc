@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macros for Odin Valhalla Rising, and You need it to use automatic defense skills.
+For auto using block(self) skills 1-3s and 1s randomization for using</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 1 2 s
+KeyUp 225 1
+Delay 1 2 s</Syntax>
+    </KeyDown>
+    <Software>odin valhalla rising</Software>
+  </DefaultMacro>
+</Root>

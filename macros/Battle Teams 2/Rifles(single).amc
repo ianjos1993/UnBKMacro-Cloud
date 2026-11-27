@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Топ макрос для Марксманских винтовок, очень быстро стреляет, минимальная отдача. 
+Тестился на SG 550.
+
+Активация по зажиму ЛКМ.
+
+Разрешение экрана; 1920X1080</Description>
+    <Comment>Сообщите мне как он ведет себя на остальных винтовках/пистолетах, буду усовершенствовать.</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 5 ms
+MoveR 0 1
+Delay 5 ms
+MoveR 0 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+MoveR 0 1
+Delay 5 ms
+MoveR 0 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Battle Teams 2</Software>
+  </DefaultMacro>
+</Root>

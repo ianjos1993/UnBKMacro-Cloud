@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Встаете в куст и акктивируете Макрос
+Рекомендую активировать подпписку на 1 месяц данной программы для непрерывной прокачки скилла!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 27 1
+Delay 116 ms
+KeyUp 27 1
+Delay 620 ms
+KeyDown 43 1
+Delay 82 ms
+KeyUp 43 1
+Delay 4461 ms
+KeyDown 43 1
+Delay 134 ms
+KeyUp 43 1
+Delay 184 ms
+KeyDown 27 1
+Delay 162 ms
+KeyUp 27 1</Syntax>
+    </KeyDown>
+    <Software>Scum</Software>
+  </DefaultMacro>
+</Root>

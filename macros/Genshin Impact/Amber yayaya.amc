@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Assign the macro, walk n run the macro
+
+Requirements :
+- Minimum 60FPS (Reduce the graphic setting for better experience)
+- Stable internet connection (Yellow ping still possible for running this macro)
+- Almost all of 5 star bow character can use this macro, you just need to adjust the delay between characters
+- You can also use 4 star bow character like Fischl, Amber (C1 would be good), Gorou, Kujou Sara .But you need more adjustment 
+
+Tested with Amber C1</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 15 ms
+KeyUp 21 1
+Delay 30 ms
+KeyDown 21 1
+Delay 15 ms
+KeyUp 21 1
+Delay 30 ms
+LeftDown 1
+LeftUp 1
+Delay 17 ms</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

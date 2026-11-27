@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Биндите в настройках майнкрафта БЕГ НА КОПКУ *Y* дальше в программе выбираете на какую кнопку будет активироваться скрипт, дальше вы будете потосянно бежать быстро фармить ресурсы и пить чай в сторонке</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+KeyDown 28 1
+LeftDown 1
+RightDown 1
+Delay 10 min</Syntax>
+    </KeyDown>
+    <Software>minecraft</Software>
+  </DefaultMacro>
+</Root>

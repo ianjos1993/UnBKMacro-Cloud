@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major>YBA</Major>
+    <Description>Этот макрос для YouTube, используемый в спин-оффе (сп + бокс), выполняет последовательность команд: T, 2, Z, 2, C, G, Y. Обычно такие комбинации применяются для быстрого выполнения определённых действий, например, переключения режимов, активации функций или управления интерфейсом.
+
+Если нужно, я могу помочь сформировать более точное описание или настроить его под конкретные задачи.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 1 ms
+KeyUp 23 1
+Delay 1 ms
+KeyDown 31 1
+Delay 1 ms
+KeyUp 31 1
+Delay 10 ms
+KeyDown 29 1
+Delay 1 ms
+KeyUp 29 1
+Delay 1 ms
+KeyDown 6 1
+Delay 1 ms
+KeyUp 6 1
+Delay 1 ms
+KeyDown 10 1
+Delay 1 ms
+KeyUp 10 1
+Delay 10 ms
+KeyDown 28 1
+Delay 1 ms
+KeyUp 28 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

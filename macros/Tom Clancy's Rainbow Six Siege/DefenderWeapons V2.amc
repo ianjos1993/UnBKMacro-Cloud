@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>Works best for defender weapons or weapons WITHOUT Acog</Major>
+    <Description>A reoil reducing macro that is all purpose, meant for low recoil weapons or medium recoil weapons using a 1x sight. Generally will be more useful for defender weapons.
+For Weapons WITH Acog, run AttackerWeapons V2, as it will be more compatible.
+
+sens: 6, 6, 800 dpi 
+
+res: 1920 x1080
+
+aspect ratio: 16:10, 90 fov</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 0 10
+Delay 20 ms
+MoveR 0 15
+Delay 20 ms
+MoveR 0 10
+Delay 20 ms
+MoveR -5 10
+Delay 20 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

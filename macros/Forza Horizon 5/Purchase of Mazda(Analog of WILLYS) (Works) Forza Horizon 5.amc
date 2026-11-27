@@ -1,0 +1,203 @@
+<Root>
+  <DefaultMacro>
+    <Major>Danon</Major>
+    <Description>Данный макрос передназначен для закупа Mazda RX-7 (аналог больше неактуальной WILLYS) и для 
+получения с помощью него супервиллспинов.
+1. Для его работы вам надо быть в своём доме/фестивале
+2. Открываем вкладку 'покупка и продажа'
+3. Дальше вам надо сделать так что бы макрос при нажати enter открывал автосалон
+4. Запускаем макрос на кнопку которую вы назначили.
+P.S. Вы можете настроить макрос на определенное кол-тво циклов(повторений) чтобы не следить за программой вообще. В редакторе макросов поменяйте количество повторений в последней(181-ой) строке.
+Важно!!!! На закупку одной машины макрос тратит 1 минуту 6 секунд (66 секунд).
+!!!!Для покупки одной машины требуется: 35000 кредитов; 14 автоталантов. = 1 повторение(цикл)
+При 100 накопленных автоталантов  получится купить 7 машин. Требуется 245000 кредитов.= 7 циклов.
+При 400 накопленных автоталантов получится купить 28 машин. Требуется 980000 кредитов.= 28 циклов.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 1500 ms
+KeyDown 28 1
+Delay 64
+KeyUp 28 1
+Delay 800 ms
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 400 ms
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 400 ms
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 400 ms
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 400 ms
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 400 ms
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 600 ms
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 628 ms
+KeyDown 42 1
+Delay 64
+KeyUp 42 1
+Delay 709 ms
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 508 ms
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 508 ms
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 508 ms
+KeyDown 80 1
+Delay 64
+KeyUp 80 1
+Delay 508 ms
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 508 ms
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 200 ms
+KeyDown 88 1
+Delay 87 ms
+KeyUp 88 1
+Delay 8569 ms
+KeyDown 28 1
+Delay 79 ms
+KeyUp 28 1
+Delay 2156 ms
+KeyDown 88 1
+Delay 64 ms
+KeyUp 88 1
+Delay 2242 ms
+KeyDown 88 1
+Delay 74 ms
+KeyUp 88 1
+Delay 1844 ms
+KeyDown 88 1
+Delay 82 ms
+KeyUp 88 1
+Delay 16540 ms
+KeyDown 41 1
+Delay 110 ms
+KeyUp 41 1
+Delay 1551 ms
+KeyDown 79 1
+Delay 31 ms
+KeyUp 79 1
+Delay 2143 ms
+KeyDown 79 1
+Delay 82 ms
+KeyUp 79 1
+Delay 1444 ms
+KeyDown 88 1
+Delay 84 ms
+KeyUp 88 1
+Delay 1370 ms
+KeyDown 79 1
+Delay 91 ms
+KeyUp 79 1
+Delay 301 ms
+KeyDown 79 1
+Delay 92 ms
+KeyUp 79 1
+Delay 340 ms
+KeyDown 81 1
+Delay 94 ms
+KeyUp 81 1
+Delay 459 ms
+KeyDown 88 1
+Delay 80 ms
+KeyUp 88 1
+Delay 2001 ms
+KeyDown 88 1
+Delay 78 ms
+KeyUp 88 1
+Delay 1202 ms
+KeyDown 79 1
+Delay 78 ms
+KeyUp 79 1
+Delay 602 ms
+KeyDown 88 1
+Delay 78 ms
+KeyUp 88 1
+Delay 1202 ms
+KeyDown 79 1
+Delay 78 ms
+KeyUp 79 1
+Delay 602 ms
+KeyDown 88 1
+Delay 78 ms
+KeyUp 88 1
+Delay 1202 ms
+KeyDown 82 1
+Delay 78 ms
+KeyUp 82 1
+Delay 602 ms
+KeyDown 88 1
+Delay 78 ms
+KeyUp 88 1
+Delay 1202 ms
+KeyDown 79 1
+Delay 78 ms
+KeyUp 79 1
+Delay 602 ms
+KeyDown 88 1
+Delay 78 ms
+KeyUp 88 1
+Delay 1202 ms
+KeyDown 82 1
+Delay 78 ms
+KeyUp 82 1
+Delay 602 ms
+KeyDown 88 1
+Delay 78 ms
+KeyUp 88 1
+Delay 1202 ms
+KeyDown 41 1
+Delay 71 ms
+KeyUp 41 1
+Delay 1255 ms
+KeyDown 41 1
+Delay 93 ms
+KeyUp 41 1
+Delay 1343 ms
+KeyDown 80 1
+Delay 78 ms
+KeyUp 80 1
+Delay 1218 ms
+KeyDown 80 1
+Delay 78 ms
+KeyUp 80 1
+Delay 1500 ms
+GoWhile 1 30</Syntax>
+    </KeyDown>
+    <Software>Forza Horizon 5</Software>
+  </DefaultMacro>
+</Root>

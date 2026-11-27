@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на дробь на убийцу зомби
+
+Перки ставим обычные на дробовик. Покупаем маску динозавтра,для урона,и патроны на точность.
+
+Приятной игры.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 35 ms
+LeftUp 1
+Delay 25 ms
+KeyDown 32 1
+Delay 30 ms
+KeyUp 32 1
+Delay 30 ms
+KeyDown 30 1
+Delay 50 ms
+KeyUp 30 1
+Delay 31 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

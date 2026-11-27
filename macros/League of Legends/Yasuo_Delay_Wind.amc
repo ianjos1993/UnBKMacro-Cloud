@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major>Yasuo Delayed Tornado Macro Script</Major>
+    <Description>Description
+This macro script is designed for the game "League of Legends," specifically for the character Yasuo. The macro automates the execution of a combo sequence to unleash Yasuo's delayed tornado attack efficiently.
+
+Features
+Automated Combo Execution: With a single press of the macro activation key, Yasuo will perform the E-Q-B-A combo sequence.
+Cursor Targeting: The macro initiates the combo where your mouse cursor is pointing, allowing for precise targeting of opponents.
+Delayed Tornado Release: After executing the combo, you have a two-second window to perform a basic attack on a target, which will then release the delayed tornado.
+How to Use
+Positioning: Hover your mouse cursor over the intended target in the game.
+Activation: Press the designated key to activate the macro.
+Finalize: Within two seconds, perform a basic attack on any target to release the delayed tornado.
+Requirements
+The macro script is designed to work on a standard PC setup running "League of Legends."
+Ensure you have the necessary in-game settings and keybindings configured to match the macro's requirements.
+Disclaimer
+Macros are often against the Terms of Service of many online games, including "League of Legends." Use this script at your own risk.
+The creator of this macro assumes no responsibility for any actions taken against the user's game account as a result of using this macro.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 5 64 ms
+KeyUp 8 1
+Delay 10 64 ms
+KeyDown 20 1
+Delay 5 64 ms
+KeyUp 20 1
+Delay 10 64 ms
+KeyDown 5 1
+Delay 5 64 ms
+KeyUp 5 1
+Delay 10 64 ms
+KeyDown 4 1
+Delay 5 64 ms
+KeyUp 4 1</Syntax>
+    </KeyDown>
+    <Software>League of legends</Software>
+  </DefaultMacro>
+</Root>

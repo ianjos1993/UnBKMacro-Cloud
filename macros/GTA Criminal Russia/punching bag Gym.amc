@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на отработку ударов по груше в спотзале. Количество ударов нужно задавать в последнем цикле, по умолчанию стоит 100шт.
+p.s Лучше проследить за несколькими циклами.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 700 ms
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+RightUp 1
+Delay 1 s
+GoWhile 1 10
+KeyDown 26 1
+Delay 300 ms
+KeyUp 26 1
+Delay 64
+GoWhile 1 100</Syntax>
+    </KeyDown>
+    <Software>GTA:RADMIR RP</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматическая стрельба для композитного лука.                                                                                                                                                                                                                                                                                                                                                                                          </Description>
+    <Comment>\</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 1700 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 300 ms
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

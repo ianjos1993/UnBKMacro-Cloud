@@ -1,0 +1,54 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Это самый быстрый макрос для продажи в майнкрафт с помощью комманды /sell all за который тебя не будет кикать с сервера. Как работает макрос, все просто, вы вписываете в чат комманду /sell all 1 раз запускаете макрос и с помощью сочетаний клавиш T | Up | Enter вы будете продавать предметы в полном афк режиме так как макрос зациклен (при желании цикличность макроса можно убрать удолив всего 1 строку из редактора)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+В комментарий хочу сказать что я протестировал очень много макросов с открытого доступа для продажи в майне и этот самый быстрый при этом не кикаясь с сервака.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 466 ms
+GoWhile 37 200000
+KeyDown 23 1
+Delay 58 ms
+KeyUp 23 1
+Delay 99 ms
+KeyDown 82 1
+Delay 81 ms
+KeyUp 82 1
+Delay 163 ms
+KeyDown 88 1
+Delay 198 ms
+KeyUp 88 1
+Delay 1752 ms
+KeyDown 23 1
+Delay 60 ms
+KeyUp 23 1
+Delay 84 ms
+KeyDown 82 1
+Delay 73 ms
+KeyUp 82 1
+Delay 135 ms
+KeyDown 88 1
+Delay 194 ms
+KeyUp 88 1
+Delay 1816 ms
+KeyDown 23 1
+Delay 65 ms
+KeyUp 23 1
+Delay 127 ms
+KeyDown 82 1
+Delay 81 ms
+KeyUp 82 1
+Delay 105 ms
+KeyDown 88 1
+Delay 214 ms
+KeyUp 88 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

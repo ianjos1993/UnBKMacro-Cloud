@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro is bound to Mouse Button 4 and is designed to rapidly send the C key input, which is the default crouch command in Rainbow Six Siege. When the side mouse button is held down, the macro causes the player’s operator to repeatedly crouch and stand at a fast, consistent rate.
+
+In Siege, this behavior is commonly used in close-quarters engagements to make headshots more difficult for opponents by constantly changing the operator's hitbox height. Crouch spamming can also be used to break an enemy’s aim rhythm during peeks or aggressive pushes. This macro allows the player to perform this technique effortlessly without manually tapping the crouch key, maintaining full control over aiming and shooting.
+
+It provides a mechanical advantage by reducing the physical strain of repeated crouching while enabling smoother, faster reactions in gunfights.
+
+BIND TO ANY BUTTON YOU WANT, I RECOMMEND A SIDE MOUSE BUTTON
+SET IT TO RUN WHILE HELD
+ENJOY!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+KeyUp 6 1
+Delay 64 ms
+KeyDown 6 1
+KeyUp 6 1
+Delay 64 ms
+KeyDown 6 1
+KeyUp 6 1
+Delay 64 ms
+KeyDown 6 1
+KeyUp 6 1</Syntax>
+    </KeyDown>
+    <Software>Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

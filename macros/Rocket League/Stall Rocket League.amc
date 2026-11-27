@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>1) ставим макрос на удобную вам кнопку ВАЖНО чтобы аиролл совпадал с настройками как у вас еслии у вас бочка не на q то стола не будет
+2) режим работы ставим на один раз ( при нажатии чтобы макрос выполнился один раз
+готово</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 1 ms
+KeyUp 20 1
+KeyDown 7 1
+Delay 1 ms
+KeyUp 7 1
+RightDown 1
+Delay 1 ms
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Rocket League</Software>
+  </DefaultMacro>
+</Root>

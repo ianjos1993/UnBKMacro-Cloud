@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major>nathonks</Major>
+    <Description>Macro by nathonks
+FOV any, Sensitivity any, DPI any
+
+This is for Rust ONLY and easy to use, you just have to bind the script to a key then you are auto clicking.
+This macro just auto clicks for you if you are too lazy to farm or you can use it for an anti-afk</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 86400000 min</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

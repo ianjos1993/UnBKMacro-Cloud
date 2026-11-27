@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major>4 зажера любых</Major>
+    <Description>Макрос на 4 зажера любых, где надо нажимать подтверждение (Enter). Работает в Карос Арена, Карос Классик, Карос Начало. Для корректной работы надо вкл драйвер (левый нижний угол на главном окне Keyran). Ставим 4 зажера (я ставлю два духа, цветок и концентратку) в ячеки "8", "9", "0", "-". Макрос работает 1 раз в 2 минуты, чтобы не перегружать комп, и вы могли что-то делать параллельно.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 3 s
+KeyDown 37 1
+Delay 202 ms
+KeyUp 37 1
+Delay 1145 ms
+KeyDown 88 1
+Delay 240 ms
+KeyUp 88 1
+Delay 1007 ms
+KeyDown 45 1
+Delay 204 ms
+KeyUp 45 1
+Delay 1003 ms
+KeyDown 88 1
+Delay 217 ms
+KeyUp 88 1
+Delay 1008 ms
+KeyDown 38 1
+Delay 253 ms
+KeyUp 38 1
+Delay 997 ms
+KeyDown 88 1
+Delay 228 ms
+KeyUp 88 1
+Delay 969 ms
+KeyDown 39 1
+Delay 201 ms
+KeyUp 39 1
+Delay 1079 ms
+KeyDown 88 1
+Delay 209 ms
+KeyUp 88 1
+Delay 704 ms
+Delay 110 s
+GoWhile 1 1
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Karos Online</Software>
+  </DefaultMacro>
+</Root>

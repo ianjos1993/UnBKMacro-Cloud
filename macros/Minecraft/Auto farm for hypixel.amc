@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>авто ферма для хайпиксель(сервер маинкрафт):
+что бы использовать этот макрос по назначению вы должны построить вертикальную ферму
+макрос идёт в лево проходит определённое растояние и идёт в право.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 4 1
+Delay 33700 ms
+KeyUp 4 1
+Delay 64
+KeyDown 7 1
+Delay 33700 ms
+KeyUp 7 1
+Delay 64
+GoWhile 1 99994</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

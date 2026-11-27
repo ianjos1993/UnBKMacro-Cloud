@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major>Macros</Major>
+    <Description>Этот макрос нереально облегчит Вам получение самой редкой куклы Wasabi Kitty. Просто подойдите к игровому автомату, нажмите на назначенную клавишу и идите спать! Макрос сам будет делать попытку за попыткой пока не достанет долгожданную игрушку.
+
+Rockstar Games видимо сошли с ума и установили возможность получения этого редчайшего трофея 1 к 1800 Карл! Без этого макроса вы состаритесь в попытках добыть заветную куклу)) </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 65 ms
+KeyUp 8 1
+Delay 3985 ms
+KeyDown 26 1
+Delay 4090 ms
+KeyUp 26 1
+Delay 95 ms
+KeyDown 7 1
+Delay 3850 ms
+KeyUp 7 1
+Delay 95 ms
+KeyDown 40 1
+Delay 65 ms
+KeyUp 40 1
+Delay 12950 ms</Syntax>
+    </KeyDown>
+    <Software>GTA V</Software>
+  </DefaultMacro>
+</Root>

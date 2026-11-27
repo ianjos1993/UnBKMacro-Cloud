@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Нужен чтобы фармить опыт в афк режиме. Нас не смогут кикнуть потому что персонаж приседает. За час можно получить 5 уровней.</Description>
+    <Comment>Буду рад если продлите премиум ^-^</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1 s
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 224 1
+Delay 64
+KeyUp 224 1
+Delay 64
+GoWhile 1 558</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

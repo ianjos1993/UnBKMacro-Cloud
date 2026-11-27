@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Начинает запись в XBOX Game Bar, можно забиндить на любую клавишу, чтобы не нажимать всегда команду из клавиш.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 227 1
+Delay 64
+KeyUp 227 1
+Delay 64
+KeyDown 226 1
+Delay 64
+KeyUp 226 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Запись в Xbox Game Bar</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,57 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Для успешного использование макроса, вы должны переназначить варуны на левую и правую кнопку мыши, и выбрать кнопку для включение макроса. После этого сможете наблюдать пулемётную очередь из стрел ))</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 479 ms
+RightDown 1
+Delay 431 ms
+LeftUp 1
+Delay 265 ms
+LeftDown 1
+Delay 235 ms
+RightUp 1
+Delay 344 ms
+RightDown 1
+Delay 349 ms
+LeftUp 1
+Delay 243 ms
+LeftDown 1
+Delay 401 ms
+RightUp 1
+Delay 294 ms
+RightDown 1
+Delay 360 ms
+LeftUp 1
+Delay 159 ms
+LeftDown 1
+Delay 482 ms
+RightUp 1
+Delay 200 ms
+RightDown 1
+Delay 390 ms
+LeftUp 1
+Delay 248 ms
+LeftDown 1
+Delay 454 ms
+RightUp 1
+Delay 140 ms
+RightDown 1
+Delay 517 ms
+LeftUp 1
+Delay 222 ms
+RightUp 1
+Delay 34 ms
+GoWhile 1 25</Syntax>
+    </KeyDown>
+    <Software>Crossout</Software>
+  </DefaultMacro>
+</Root>

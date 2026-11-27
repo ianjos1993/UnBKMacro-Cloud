@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major>Jitter aim</Major>
+    <Description>Jitter aim macro for all weapon (more efficient for r301 or flatline) on 1800dpi. This will erase the recoil of weapon to oneclip your enemies. Screen resolution : 1920x1080</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 10 ms
+MoveR -5 5
+Delay 10 ms
+MoveR 5 -5
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

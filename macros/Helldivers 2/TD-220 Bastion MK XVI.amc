@@ -1,0 +1,65 @@
+<Root>
+  <DefaultMacro>
+    <Major>Вызов танка Bastion</Major>
+    <Description>Как запустить:
+Для корректной работы установите кнопку стратагем на «нажатие».
+В настройках игры выберите Стрелки для стратагем.
+
+Ппример:
+Установка макросов для этих кнопок с модификатором, в моем случае это Ctrl+
+
+"1" - оружие поддержки
+"2" - рюкзак
+"3" - 1-я стратагема
+"4" - 2-я стратагема</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 64
+KeyDown 80 1
+Delay 64
+KeyUp 80 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 80 1
+Delay 64
+KeyUp 80 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyUp 224 1</Syntax>
+    </KeyDown>
+    <Software>Helldivers 2</Software>
+  </DefaultMacro>
+</Root>

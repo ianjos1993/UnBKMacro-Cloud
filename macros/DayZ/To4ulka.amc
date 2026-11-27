@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major>AlEL</Major>
+    <Description>Процесс заточки инструмента включает использование точильных камней, которые берут с пола. Вы держите в руках инструмент для заточки, а на пол кладете точильные камни. Написано под FullHD.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+MoveTo 136 177
+Delay 64
+LeftDown 1
+Delay 64
+MoveTo 846 836
+Delay 64
+LeftUp 1
+Delay 500 ms
+LeftDown 1
+Delay 7000 ms
+LeftUp 1
+Delay 64
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+MoveTo 137 177
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>DayZ</Software>
+  </DefaultMacro>
+</Root>

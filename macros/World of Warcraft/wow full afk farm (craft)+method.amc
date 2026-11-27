@@ -1,0 +1,65 @@
+<Root>
+  <DefaultMacro>
+    <Major>full afk gold farm</Major>
+    <Description>для модерации у меня нет канала на 200 подписчков, прикреплю оригинал, можно скачать и перезалить если нужно. (там пробел в линке, не дает отправить )
+video link : youtu.be/H11cXyHzA2k
+
+[en] 
+Easy full afk goldfarm
+setup tailoring and disenchanting
+buy mats -&gt; use macros -&gt; sell -&gt; get profit !
+how to use
+1.setup coords "create" button in macro code;
+2.setup your casttimes for crafting and disenchanint in macro code;
+3.create in-game disenchant macro - and bind key for it in macro code;
+dis macro:
+/cast disenchant
+/use *itemname*
+4. hide somewhere
+5. turn in macro - and go sleep :D
+[ru]
+Легкий фуллафк фарм голда
+нужено портное дело и зачарование
+купи расходники - поставь на макрос - продай - фиксируй профит
+как использовать
+1.задай координату кнопки "создать";
+2.пропиши свои задержки в код макроса;
+3.создай диз макрос, забинди кнопку для него в коде;
+диз макрос:
+/cast Распыление
+/use Тканевые поручи геодезиста
+4. спрячся!
+5. включи макрос и иди спать или че там еще
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 75 150 ms
+MoveTo 1061 669
+//[en] coordinate of "create" buton [ru] координата кнопки "создать"
+Delay 75 150
+LeftDown 1
+//[en] press "create" button [ru] нажатие кнопки "создать"
+Delay 75 150
+LeftUp 1
+Delay 75 150
+Delay 1950 2150 ms
+//[en] enter YOUR casttime delay [ru] введите время создания поручей
+Delay 75 150 ms
+KeyDown 60 1
+//[en] disenchant macro key [ru] макрос на дизенчант
+Delay 75 150
+KeyUp 60 1
+Delay 75 150
+Delay 1649 1750 ms
+//[en] disenchant casttime [ru] время дизенчанта
+Delay 150 250 ms</Syntax>
+    </KeyDown>
+    <Software>World of Warcraft</Software>
+  </DefaultMacro>
+</Root>

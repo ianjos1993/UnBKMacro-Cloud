@@ -1,0 +1,119 @@
+<Root>
+  <DefaultMacro>
+    <Major>Katarina combo</Major>
+    <Description>Макрос позволяет выполнять combo за Katarina.
+Видео демонстрации работы макроса: https://youtu.be/EirA18sU_6g
+
+Катирина Элвис — известна как один из самых простых и простых персонажей во всей серии, поскольку она не так требовательна к исполнению, как Мишимы, и не такая сложная и хитрая, как Хвоаранг или Стив. У нее хороший диапазон для большинства ее атак, она наносит достаточное количество урона, имеет солидный выбор ударов и чрезвычайно проворна и отзывчива. Кроме того, ее Rage Drive не только один из самых разрушительных в игре, но также может сломать пол на картах с разрушающимся полом, еще больше увеличивая ее смертоносный потенциал. Однако, несмотря на все вышесказанное, следует отметить, что Катарине сильно не хватает защиты, так как у нее очень мало свободы действий в сохранении дистанции от противника, что делает ее чрезвычайно склонной к давлению со стороны других агрессивных бойцов.
+
+Тестирование макроса проводились на последнем патче игры на 11.07.2023 (5.01 патч)
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#katarinatekken7 #tekken7 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 7 ms
+KeyDown 22 1
+Delay 48 ms
+KeyDown 77 1
+Delay 279 ms
+KeyUp 22 1
+Delay 7 ms
+KeyUp 7 1
+Delay 8 ms
+KeyUp 77 1
+Delay 232 ms
+KeyDown 22 1
+Delay 40 ms
+KeyDown 74 1
+Delay 103 ms
+KeyUp 74 1
+Delay 88 ms
+KeyDown 74 1
+Delay 71 ms
+KeyUp 74 1
+Delay 48 ms
+KeyDown 74 1
+Delay 71 ms
+KeyUp 22 1
+Delay 24 ms
+KeyUp 74 1
+Delay 167 ms
+KeyDown 77 1
+Delay 79 ms
+KeyUp 77 1
+Delay 87 ms
+KeyDown 77 1
+Delay 64 ms
+KeyUp 77 1
+Delay 95 ms
+KeyDown 77 1
+Delay 64 ms
+KeyUp 77 1
+Delay 72 ms
+KeyDown 77 1
+Delay 71 ms
+KeyUp 77 1
+Delay 63 ms
+KeyDown 77 1
+Delay 64 ms
+KeyUp 77 1
+Delay 7 ms
+KeyDown 7 1
+Delay 64 ms
+KeyDown 77 1
+Delay 64 ms
+KeyUp 77 1
+Delay 71 ms
+KeyDown 77 1
+Delay 63 ms
+KeyUp 77 1
+Delay 80 ms
+KeyDown 77 1
+Delay 72 ms
+KeyUp 77 1
+Delay 64 ms
+KeyDown 77 1
+Delay 71 ms
+KeyUp 77 1
+Delay 71 ms
+KeyDown 77 1
+Delay 72 ms
+KeyUp 77 1
+Delay 71 ms
+KeyDown 77 1
+Delay 55 ms
+KeyUp 77 1
+Delay 72 ms
+KeyDown 77 1
+Delay 55 ms
+KeyUp 77 1
+Delay 24 ms
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 7</Software>
+  </DefaultMacro>
+</Root>

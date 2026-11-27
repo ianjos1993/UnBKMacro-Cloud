@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major>Combo BK</Major>
+    <Description>Combo BK 3,500 agilidad
+1 Skill
+2 Twisting
+3 Death Stab
+
+No potion
+
+Mu baldutena Blade knight 3.500 agilidad. combo 1 sin potear y sin apretar el CTRL
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+Los mejores macros para Mu online, actualmende para baldunetamu</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 95 ms
+KeyUp 32 1
+Delay 147 ms
+RightDown 1
+Delay 72 ms
+KeyDown 33 1
+Delay 70 ms
+KeyUp 33 1
+Delay 119 ms
+KeyDown 34 1
+Delay 110 ms
+KeyUp 34 1
+Delay 279 ms
+RightUp 1
+GoWhile 1 500</Syntax>
+    </KeyDown>
+    <Software>MU Online</Software>
+  </DefaultMacro>
+</Root>

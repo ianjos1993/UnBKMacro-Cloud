@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Как вы знаете, вас кикает через 15 минут в афк. с помощью макроса вас не будет кикать из игры. Что бы он коректно работал, вам нужно взять фонарь в руки и включить макрос.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Sea of Thieves</Software>
+  </DefaultMacro>
+</Root>

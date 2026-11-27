@@ -1,0 +1,77 @@
+<Root>
+  <DefaultMacro>
+    <Major>Kuma uf3 Combo</Major>
+    <Description>Макрос позволяет выполнять комбо за Kuma с лаунчера uf3.
+Видео демонстрации работы макроса: https://youtu.be/XCUiw_Vs68c
+
+Кума — что-то вроде «персонажа-клона», поскольку он во многом разделяет приемы с Джеком Роботами, хотя у него есть некоторые уникальные приемы, такие как мощные удары когтями и разрушительный бросок «Медвежий укус». Несмотря на свою силу, Кума находится в невыгодном положении из-за своего большого хитбокса, что в сочетании с его медленной скоростью делает его легкой мишенью с небольшими возможностями уклонения. Имея это в виду, Кума — это сила, с которой нужно считаться, пока он играет с надежной защитой и своевременным нападением. Кума сражается, используя «оригинальный» боевой стиль под названием Кума Синкен.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 13.03.2024
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#kumatekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 9 ms
+KeyDown 7 1
+Delay 19 ms
+KeyDown 76 1
+Delay 210 ms
+KeyUp 26 1
+Delay 40 ms
+KeyUp 7 1
+Delay 289 ms
+KeyDown 74 1
+Delay 90 ms
+KeyUp 74 1
+Delay 90 ms
+KeyDown 74 1
+Delay 59 ms
+KeyUp 74 1
+Delay 70 ms
+KeyDown 74 1
+Delay 110 ms
+KeyUp 74 1
+Delay 1040 ms
+KeyDown 74 1
+Delay 100 ms
+KeyUp 74 1
+Delay 100 ms
+KeyDown 74 1
+Delay 59 ms
+KeyUp 74 1
+Delay 80 ms
+KeyDown 74 1
+Delay 150 ms
+KeyUp 74 1
+Delay 200 ms
+KeyUp 76 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

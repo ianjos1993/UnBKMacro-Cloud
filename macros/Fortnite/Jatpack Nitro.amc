@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major>1.0.0</Major>
+    <Description>Во время полета на джетпаке позволяет ускоряться пока зажата клавиша. Используйте ТОЛЬКО во время полета. (Рекомендация поставить на ALT)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 1200 ms
+KeyUp 225 1
+Delay 10 ms
+KeyDown 224 1
+Delay 10 ms
+KeyUp 224 1
+Delay 10 ms
+KeyDown 44 1
+Delay 10 ms
+KeyUp 44 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

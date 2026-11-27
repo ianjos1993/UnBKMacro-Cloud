@@ -1,0 +1,126 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Сбор всех ящиков в событии «Погоня за сокровищами» с помощью вторичных кубиков
+
+Инструкция:
+
+1) Разрешение экрана: 1920×1080
+
+2) Режим без рамки
+
+3) Перейдите в раздел событий
+
+4) Выберите событие «Погоня за сокровищами»
+
+5) Включите макрос
+
+6) Наслаждайтесь процессом
+
+ВАЖНО!
+
+Если во время работы макроса переместить курсор, последовательность выбора кубов собьётся.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1427 924
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1433 592
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1428 928
+Delay 4500 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1428 658
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 4000 ms
+MoveTo 1433 926
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1428 787
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1 s
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 4000 ms
+MoveTo 1440 923
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1432 528
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 4500 ms
+MoveTo 1426 932
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1427 855
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 3100 ms
+MoveTo 1425 923
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1424 531
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 4500 ms
+MoveTo 1427 919
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1425 532
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1000 ms
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 4500 ms</Syntax>
+    </KeyDown>
+    <Software>Battle Teams 2</Software>
+  </DefaultMacro>
+</Root>

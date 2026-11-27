@@ -1,0 +1,69 @@
+<Root>
+  <DefaultMacro>
+    <Major>Arcwarden autoprocast</Major>
+    <Description>Для использования макроса нужно держать мышку на враге. Иметь в инвентаре Gleipnir, Manta Style, Scythe of Vyse, Bloodthorn.
+Предметы должны быть на кнопках:
+Gleipnir - z
+Manta Style - x
+Scythe of Vyse - c
+Bloodthorn - v
+Настройки игры должны быть на кнопках:
+Выделение всех юнитов - tab
+Переключение между юнитами - t.
+РАБОТАЕТ ТОЛКЬКО С КВИК КАСТАМИ.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+Delay 64
+KeyUp 6 1
+Delay 64
+KeyDown 25 1
+Delay 64
+KeyUp 25 1
+Delay 64
+KeyDown 29 1
+Delay 64
+KeyUp 29 1
+Delay 64
+KeyDown 27 1
+Delay 64
+KeyUp 27 1
+Delay 64
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 64
+KeyDown 27 1
+Delay 64
+KeyUp 27 1
+Delay 64
+KeyDown 25 1
+Delay 64
+KeyUp 25 1
+Delay 64
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 300 ms
+KeyDown 6 1
+Delay 64
+KeyUp 6 1
+Delay 64
+KeyDown 29 1
+Delay 64
+KeyUp 29 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Dota2/Arcwarden</Software>
+  </DefaultMacro>
+</Root>

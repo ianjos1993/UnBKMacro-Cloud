@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>НА мопеде и мотоциклах только на машинах запрещено моментальный БАН!
+разгон 200+
+У кого есть другие решения пишите мне в keyran
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+скачивай)))</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 82 1
+Delay 35 ms
+KeyUp 82 1
+Delay 30 ms
+GoWhile 1 999</Syntax>
+    </KeyDown>
+    <Software>GTA: Criminal Russia (CRMP),GTA San Andreas</Software>
+  </DefaultMacro>
+</Root>

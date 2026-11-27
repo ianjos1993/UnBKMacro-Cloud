@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>МАКРОС СОЗДАН ДЛЯ ИГРЫ  !!!! Aura Farm Boat Racing !!!!!
+
+с данным макросом вам не придется самому кликать A и D  
+Макрос очень быстр , если с данным макросом будут 2-4 человека вы спокойно будете занимать первые места 
+
+ПРИМЕЧАНИЯ
+
+Лучше поставить режим работы макроса- Выполнять пока нажата клавиша
+
+УПРАВЛЕНИЕ 
+
+Вы зажимаете кнопку на которой у вас стоит макрос </Description>
+    <Comment>:Э
+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 0 ms
+KeyUp 4 1
+Delay 0 ms
+KeyDown 7 1
+Delay 0 ms
+KeyUp 7 1
+Delay 0 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

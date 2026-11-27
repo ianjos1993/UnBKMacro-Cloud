@@ -1,0 +1,179 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос работает хорошо, но нужно настроить в игре некоторые настройки - сенса 1, поле зрения 90. На 100 метров всё в точку, 100 + лучше стрелять очередями, зато не спалитесь) 
+
+ИНСТРУКЦИЯ ПО ИСПОЛЬЗОВАНИЮ:
+1. Запустите игру
+2. Выберите режим работы программы с привязкой или без привязки к окну.
+3. Присвойте макрос на удобную клавишу виртуальной клавиатуры в программе.
+4. Нажмите клавишу на которую присвоили макрос.
+
+
+</Description>
+    <Comment>)
+</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 25 ms
+MoveR -3 5
+Delay 25 ms
+MoveR -3 5
+Delay 25 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 25 ms
+MoveR 1 6
+Delay 25 ms
+MoveR 1 6
+Delay 25 ms
+MoveR 0 6
+Delay 25 ms
+MoveR 0 6
+Delay 25 ms
+MoveR 0 6
+Delay 25 ms
+MoveR -6 5
+Delay 25 ms
+MoveR -5 5
+Delay 25 ms
+MoveR -5 5
+Delay 25 ms
+MoveR -5 5
+Delay 25 ms
+MoveR -5 5
+Delay 25 ms
+MoveR -6 4
+Delay 25 ms
+MoveR -6 4
+Delay 25 ms
+MoveR -5 4
+Delay 25 ms
+MoveR -5 4
+Delay 25 ms
+MoveR -5 4
+Delay 25 ms
+MoveR -1 3
+Delay 25 ms
+MoveR -1 3
+Delay 25 ms
+MoveR 0 4
+Delay 25 ms
+MoveR 0 4
+Delay 25 ms
+MoveR 0 4
+Delay 25 ms
+MoveR 1 4
+Delay 25 ms
+MoveR 1 4
+Delay 25 ms
+MoveR 1 4
+Delay 25 ms
+MoveR 1 5
+Delay 25 ms
+MoveR 1 5
+Delay 25 ms
+MoveR 3 3
+Delay 25 ms
+MoveR 3 3
+Delay 25 ms
+MoveR 3 2
+Delay 25 ms
+MoveR 3 2
+Delay 25 ms
+MoveR 3 2
+Delay 25 ms
+MoveR 5 3
+Delay 25 ms
+MoveR 5 3
+Delay 25 ms
+MoveR 4 2
+Delay 25 ms
+MoveR 4 2
+Delay 25 ms
+MoveR 4 2
+Delay 25 ms
+MoveR 4 2
+Delay 25 ms
+MoveR 4 2
+Delay 25 ms
+MoveR 4 2
+Delay 25 ms
+MoveR 4 2
+Delay 25 ms
+MoveR 4 2
+Delay 25 ms
+MoveR 7 2
+Delay 25 ms
+MoveR 7 2
+Delay 25 ms
+MoveR 6 3
+Delay 25 ms
+MoveR 6 3
+Delay 25 ms
+MoveR 6 3
+Delay 25 ms
+MoveR 4 0
+Delay 25 ms
+MoveR 4 0
+Delay 25 ms
+MoveR 4 0
+Delay 25 ms
+MoveR 4 0
+Delay 25 ms
+MoveR 4 0
+Delay 25 ms
+MoveR 3 1
+Delay 25 ms
+MoveR 3 1
+Delay 25 ms
+MoveR 3 1
+Delay 25 ms
+MoveR 3 0
+Delay 25 ms
+MoveR 3 0
+Delay 25 ms
+MoveR 3 3
+Delay 25 ms
+MoveR 2 3
+Delay 25 ms
+MoveR 2 3
+Delay 25 ms
+MoveR 2 3
+Delay 25 ms
+MoveR 2 3
+Delay 25 ms
+MoveR 0 3
+Delay 25 ms
+MoveR 0 3
+Delay 25 ms
+MoveR 0 3
+Delay 25 ms
+MoveR 0 3
+Delay 25 ms
+MoveR 0 3
+Delay 25 ms
+MoveR -1 4
+Delay 25 ms
+MoveR -1 5
+Delay 25 ms
+MoveR 0 8
+Delay 25 ms
+MoveR 0 7
+Delay 25 ms
+MoveR 0 7
+LeftUp 1
+Delay 279 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

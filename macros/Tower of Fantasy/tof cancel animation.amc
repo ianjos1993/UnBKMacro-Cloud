@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major>tof cancel animation </Major>
+    <Description>ну просто базированная отмена анимации по видосу чечни хд
+
+нужно менять задержки под себя. ибо у каждого разный пинг и его стабильность, а так же фпс тоже виляет на эту тему. Берите и меняйте колличество секунд, что бы добиться наилучшего результата для себя. 
+Но даже если вы идеального подберете тайминги, то никто не исключал просадок пинга)) </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+иксдигайзер, всем желаю куб с6 </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 2 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 12 ms
+KeyUp 44 1
+Delay 289 ms</Syntax>
+    </KeyDown>
+    <Software>Tower of Fantasy</Software>
+  </DefaultMacro>
+</Root>

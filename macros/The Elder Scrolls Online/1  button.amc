@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>TESO - Вторая панель скиллов кнопакми F1-F5 без смены оружия</Major>
+    <Description>Установка:
+
+1.Необходимо сначала в настройках управления назначить на кнопки F8, F9 действие "смена оружия 1", смена оружия 2" соответственно.
+2. Очистить значения для кнопок F1 - F5
+3. Повесить макрос на кнопку F1  в Keyran, сделать тоже самое для F2-F5
+
+Механика:
+
+Макрос выполняет переключение оружия при нажатии скилла.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 65 1
+Delay 31 54 ms
+KeyUp 65 1
+Delay 50 70 ms
+KeyDown 30 1
+Delay 31 54 ms
+KeyUp 30 1</Syntax>
+    </KeyDown>
+    <Software>The Elder Scrolls Online (TESO)</Software>
+  </DefaultMacro>
+</Root>

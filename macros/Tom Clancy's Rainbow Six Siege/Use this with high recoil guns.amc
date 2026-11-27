@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major>recoil reducer </Major>
+    <Description>Bind to left mouse button
+800 dpi mouse 
+8-12 horizontal
+8-12 vertical
+50 ads
+1920x1080
+16:10 Aspect Ratio
+Tested with smg-12, F2, smg-11 and  Vector .45 ACP. (Use Acog if available)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+MoveR 1 13
+Delay 15 ms
+MoveR 1 13
+Delay 15 ms
+MoveR 12 13
+Delay 15 ms
+MoveR 4 13
+Delay 15 ms
+MoveR 2 13
+Delay 15 ms
+MoveR 1 13
+Delay 15 ms
+MoveR -6 14
+Delay 15 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

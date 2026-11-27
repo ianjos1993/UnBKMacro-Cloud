@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major>macro M39 low sens</Major>
+    <Description>this macro is for M39, the best to play with low sens
+1920 x 1080
+sens 0.5
+DPI 3200
+
+support me and enjoy
+
+BlackMamba</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 10 ms
+MoveR 23 23
+LeftUp 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,67 @@
+<Root>
+  <DefaultMacro>
+    <Major>Lethality</Major>
+    <Description>Do a full lethality triple in Rogue Lineage, does lethality thriple dagger throw m1 combo. This combo is used after 3 m1s press the keybind and perform the combo. After doing the combo you can do a Grapple, Shadowrush, Owl Slash, 2x Shadowrush into snarv or m1. Use Opal enchant for optimal damage.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 35 1
+Delay 64 ms
+KeyUp 35 1
+Delay 150 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 150 ms
+KeyDown 35 1
+Delay 64 ms
+KeyUp 35 1
+Delay 150 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 150 ms
+KeyDown 35 1
+Delay 64 ms
+KeyUp 35 1
+Delay 150 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 150 ms
+KeyDown 34 1
+Delay 64 ms
+KeyUp 34 1
+Delay 500 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 300 ms
+KeyDown 30 1
+Delay 64 ms
+KeyUp 30 1
+Delay 300 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 150 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 150 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 150 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

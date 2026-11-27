@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>MTA Province</Major>
+    <Description>Ловля клиентов такси 
+Инструкция
+Нажать два и запустить макрос 
+Подходит для QHD мониторов (2560X1440) 2K </Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1102 593
+Delay 2 ms
+LeftDown 1
+Delay 2 ms
+LeftUp 1
+Delay 5 ms
+MoveTo 1106 886
+LeftDown 1
+Delay 2 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>GTA San Andreas</Software>
+  </DefaultMacro>
+</Root>

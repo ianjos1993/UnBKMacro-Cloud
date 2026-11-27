@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>A macro for the Digimon Master Online game with auto farm (using skill only) with some tweek
+
+Monitor Setting : 
+Full Screen 1920x1080
+
+Shortcut in game setting:
+Skill shortcut is F1
+DS shortcut is 8
+
+line 1 for find digimon
+line 7 for check digimon health
+line 16 for check if target digimon die or not</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 3 3 129,34,24 236,78,59 2 970 56 4 7 1 0
+Goto 7
+KeyDown 43 1
+Delay 50 100 ms
+KeyUp 43 1
+Delay 50 ms
+GoColor 13 2 129,34,24 236,78,59 2 970 56 4 7 1 0
+KeyDown 43 1
+Delay 50 100 ms
+KeyUp 43 1
+Delay 50 ms
+Goto 7
+KeyDown 58 1
+Delay 100 300 ms
+Delay 64
+KeyUp 58 1
+GoColor 19 2 129,34,24 236,78,59 2 829 56 1 7 1 0
+Goto 20
+GoWhile 17 86400000
+Delay 0 ms
+KeyDown 37 1
+Delay 64
+KeyUp 37 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Digimon Masters Online</Software>
+  </DefaultMacro>
+</Root>

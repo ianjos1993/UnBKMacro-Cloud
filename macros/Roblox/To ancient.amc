@@ -1,0 +1,80 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматически доставляет игрока до ancient island в игре fishing simulator и начинает ловлю рыбы, приносит средненький зарабаток и позволяет оставить на ночь игру. Разрешение 1920x1080</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 3500 ms
+KeyUp 26 1
+Delay 64
+KeyDown 4 1
+Delay 900 ms
+KeyUp 4 1
+Delay 64
+KeyDown 26 1
+Delay 6300 ms
+KeyUp 26 1
+Delay 1000 ms
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 1000 ms
+MoveTo 1355 578
+Delay 2000 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1203 445
+Delay 4000 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 500 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 22 1
+Delay 5650 ms
+KeyUp 22 1
+Delay 64
+KeyDown 4 1
+Delay 7000 ms
+KeyUp 4 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 3000 ms
+MoveTo 1360 528
+Delay 1000 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 3000 ms
+MoveTo 670 202
+Delay 1000 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 7000 ms
+KeyDown 22 1
+Delay 10300 ms
+KeyUp 22 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Fastswitch macro for the weapon - Psychic Sizer in CSN:Z. When you switch to this weapon, this macro will auto attack once for you. Its faster than if you did manually.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 0 ms
+KeyUp 30 1
+Delay 0 ms
+RightDown 1
+Delay 410 ms
+RightUp 1
+Delay 0 ms
+KeyDown 20 1
+Delay 0 ms
+KeyUp 20 1
+Delay 0 ms</Syntax>
+    </KeyDown>
+    <Software>Counter-Strike Nexon: Zombies</Software>
+  </DefaultMacro>
+</Root>

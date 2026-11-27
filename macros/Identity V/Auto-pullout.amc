@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>Аноним</Major>
+    <Description>Позволяет ускоренно вырываться с шаров охототника, задержка каждого нажатия 0.5 секунд, желательно использовать вместе с перком "Will To Survive"</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 4 10 ms
+KeyUp 4 1
+Delay 4 10 ms
+KeyDown 7 1
+Delay 4 10 ms
+KeyUp 7 1
+Delay 4 10 ms</Syntax>
+    </KeyDown>
+    <Software>Identity V</Software>
+  </DefaultMacro>
+</Root>

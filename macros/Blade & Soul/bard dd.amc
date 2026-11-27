@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для Барда 1 спек
+Особенности для 22231
+r(лкм)+t(пкм)+4(по желанию), еще можно добавить С (но при нажатии блока при таком макросе, может привести к случайному нажатию брейка)
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 10
+KeyUp 21 1
+Delay 10
+KeyDown 23 1
+Delay 10
+KeyUp 23 1
+Delay 10
+KeyDown 33 1
+Delay 10
+KeyUp 33 1
+Delay 10</Syntax>
+    </KeyDown>
+    <Software>Blade and Soul</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос ретейкает стену за 1 удар!
+Что бы осуществить его работу, забиндите на удобную вам клавишу.
+После играйте на удовольствие .
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 90 ms
+LeftUp 1
+Delay 1 ms
+KeyDown 20 1
+Delay 1 ms
+KeyUp 20 1
+Delay 1 ms
+LeftDown 1
+Delay 89 ms
+LeftUp 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

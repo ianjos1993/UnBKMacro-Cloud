@@ -1,0 +1,97 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос заточен на точные выстрелы 1/2 увеличенного магазина. Зажимаем и отпускаем через каждые 12 патронов.</Description>
+    <Comment>Удачных убийств.</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 91 ms
+MoveR -2 19
+Delay 91 ms
+MoveR 0 16
+Delay 91 ms
+MoveR 0 18
+Delay 91 ms
+MoveR 0 20
+Delay 91 ms
+MoveR 0 20
+Delay 91 ms
+MoveR 0 20
+Delay 91 ms
+MoveR 0 23
+Delay 91 ms
+MoveR 0 25
+Delay 91 ms
+MoveR 0 25
+Delay 91 ms
+MoveR 0 28
+Delay 91 ms
+MoveR 0 31
+Delay 91 ms
+MoveR 0 31
+Delay 91 ms
+MoveR 0 34
+Delay 91 ms
+MoveR 0 34
+Delay 91 ms
+MoveR 0 34
+Delay 91 ms
+MoveR 0 34
+Delay 91 ms
+MoveR 0 34
+Delay 91 ms
+MoveR 0 37
+Delay 91 ms
+MoveR 0 39
+Delay 91 ms
+MoveR 0 39
+Delay 91 ms
+MoveR 0 39
+Delay 91 ms
+MoveR 0 42
+Delay 91 ms
+MoveR 0 42
+Delay 91 ms
+MoveR 0 42
+Delay 91 ms
+MoveR 0 42
+Delay 91 ms
+MoveR 0 43
+Delay 91 ms
+MoveR 0 43
+Delay 91 ms
+MoveR 0 43
+Delay 91 ms
+MoveR 0 43
+Delay 91 ms
+MoveR 0 43
+Delay 91 ms
+MoveR 0 43
+Delay 91 ms
+MoveR 0 44
+Delay 91 ms
+MoveR 0 44
+Delay 91 ms
+MoveR 0 44
+Delay 91 ms
+MoveR 0 44
+Delay 91 ms
+MoveR 0 44
+Delay 91 ms
+MoveR 0 44
+Delay 91 ms
+MoveR 0 44
+Delay 91 ms
+MoveR 0 44
+LeftUp 1
+Delay 9100 ms</Syntax>
+    </KeyDown>
+    <Software>Call of Duty: Modern Warfare (2019)</Software>
+  </DefaultMacro>
+</Root>

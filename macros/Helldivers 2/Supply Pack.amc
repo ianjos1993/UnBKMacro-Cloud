@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Set your Stratagems button to "press". The Macro presses "Crtl" and the arrow keys automatically. You just have to throw the ball.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 35
+KeyUp 224 1
+Delay 35
+KeyDown 81 1
+Delay 35
+KeyUp 81 1
+Delay 35
+KeyDown 80 1
+Delay 35
+KeyUp 80 1
+Delay 35
+KeyDown 81 1
+Delay 35
+KeyUp 81 1
+Delay 35
+KeyDown 82 1
+Delay 35
+KeyUp 82 1
+Delay 35
+KeyDown 82 1
+Delay 35
+KeyUp 82 1
+Delay 35
+KeyDown 81 1
+Delay 35
+KeyUp 81 1
+Delay 35</Syntax>
+    </KeyDown>
+    <Software>Helldivers 2</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос авто-кликер для стрельбы из полуавтоматических винтовок, оружия с типом стрельбы очередями,лутания трупов и т.д 
+в игре stalcraft
+макрос начинает работать при зажиме лкм и заканчивает при отжатии лкм что позволяет лучше контролировать ситуации чем с переключаемыми автокликерами</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 32 ms
+LeftUp 1
+Delay 32 ms</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

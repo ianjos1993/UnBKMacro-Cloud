@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Максимально простой, но эффективный макрос для быстрого реагирования на Аксе, не даст вашему противнику уйти от вас во время применения вами агра (Обратку включить самим при необходимости)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 16 ms
+KeyUp 9 1
+Delay 16 ms
+LeftDown 1
+Delay 32 ms
+LeftUp 1
+Delay 32 ms
+KeyDown 30 1
+Delay 16 ms
+KeyUp 30 1
+Delay 16 ms</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major>INXeryr</Major>
+    <Description>Долгожданный макрос для CARABIN416 у оперативника Jager.
+Скажем пока ужасной отдачи!
+Ипсользуйте обвесы: Дульный тормоз, Прямая рукятка для эфективной стрельбы.
+
+DPI(Горизонтально) - 35 из 100
+DPI(Вертикально) - 35 из 100</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 1 ms
+MoveR 0 6
+MoveR -1 0
+Delay 35 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

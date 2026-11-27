@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос разработан для того, чтобы помочь игрокам Garry's Mod (GMod) избежать автоматического отключения от сервера из-за длительного бездействия. При игре на многих серверах существует правило, согласно которому игроки, не проявляющие активности в течение определенного времени, автоматически отключаются. Цель этого макроса - поддерживать видимость активности игрока путем автоматического выполнения некоторых действий персонажем.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 80 1
+Delay 64
+KeyUp 80 1
+Delay 64
+Goto 1
+Goto 5
+GoWhile 1 100000</Syntax>
+    </KeyDown>
+    <Software>Garry´s Mod</Software>
+  </DefaultMacro>
+</Root>

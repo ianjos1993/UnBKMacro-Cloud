@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>F1 anf F2 spam - Blacksmith farming simulator</Major>
+    <Description>This was created taking into consideration a blacksmith joblvl30, wtih greed ability.
+
+Buy teleport items,  put them into F2 and Greed into F1.
+
+You will teleport around the map farming loot.
+
+Recomended map: Magama_dun 02 (you can go throght especial Krafra)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 58 1
+Delay 20 ms
+KeyUp 58 1
+Delay 50 ms
+KeyDown 59 1
+Delay 20 ms
+KeyUp 59 1
+Delay 50 ms
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 64
+Delay 1500 ms</Syntax>
+    </KeyDown>
+    <Software>Ragnarok</Software>
+  </DefaultMacro>
+</Root>

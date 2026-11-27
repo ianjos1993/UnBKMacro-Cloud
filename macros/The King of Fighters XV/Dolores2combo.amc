@@ -1,0 +1,95 @@
+<Root>
+  <DefaultMacro>
+    <Major>Dolores combo 2</Major>
+    <Description>Макро комбинация для персонажа Долорес (Dolores)                 
+  Видео  работы макроса: https://youtu.be/OF5iC7tzi-M
+
+     Если не работает макрос в игре: 
+             Отключить использование минимальной задержки.
+             Включить опцию "Использовать драйвер"
+                                            (при необходимости установить драйвер)
+
+
+                     Тестирование макроса проводились на последнем патче игры на 15.10.2022 (1.51 патч)
+
+  Настройки в игре:
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ Light Punch - Insert
+ Light Kick - End
+ Heavy Punch - Home
+ Heavy Kick - Delete
+ Max - TAB
+ 1+2 - Page UP
+ 3+4 Page Down
+
+
+ 1. При необходимости писать в поддержку -  https://keyran.net/discord
+ 1.1. Мой дискорд для связи - flkpa#4883
+
+#kofxv #doloreskofxv #kingoffightersxv</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 95 ms
+KeyUp 22 1
+Delay 79 ms
+KeyDown 7 1
+Delay 16 ms
+KeyDown 26 1
+Delay 144 ms
+KeyUp 26 1
+Delay 23 ms
+KeyUp 7 1
+Delay 64 ms
+KeyDown 76 1
+Delay 54 ms
+KeyUp 76 1
+Delay 32 ms
+KeyDown 22 1
+Delay 87 ms
+KeyDown 4 1
+Delay 72 ms
+KeyUp 22 1
+Delay 40 ms
+KeyDown 73 1
+Delay 31 ms
+KeyUp 4 1
+Delay 64 ms
+KeyUp 73 1
+Delay 32 ms
+KeyDown 74 1
+Delay 32 ms
+KeyUp 74 1
+Delay 32 ms
+KeyDown 22 1
+Delay 64 ms
+KeyDown 4 1
+Delay 32 ms
+KeyUp 22 1
+Delay 55 ms
+KeyUp 4 1
+Delay 42 ms
+KeyDown 22 1
+Delay 55 ms
+KeyDown 7 1
+Delay 88 ms
+KeyUp 22 1
+Delay 32 ms
+KeyDown 76 1
+Delay 15 ms
+KeyUp 7 1
+Delay 80 ms
+KeyUp 76 1</Syntax>
+    </KeyDown>
+    <Software>The King of Fighters XV</Software>
+  </DefaultMacro>
+</Root>

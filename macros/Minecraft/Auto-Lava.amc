@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>You can put lava fast with this useful macro.
+1. Take lava to 4 and take sword to 1.
+2. When you want to put lava to ground or to wall launch the macro once.
+3. Macro will put it automatically.
+4. You can edit it or upgrade it for you.
+Enjoy it.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 33 1
+Delay 10
+KeyUp 33 1
+Delay 10
+RightDown 1
+Delay 10
+RightUp 1
+Delay 10
+KeyDown 30 1
+Delay 10
+KeyUp 30 1
+Delay 10</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

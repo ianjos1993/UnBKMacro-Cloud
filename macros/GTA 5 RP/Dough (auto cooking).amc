@@ -1,0 +1,53 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос нужен для авто приготовления теста.
+Для того чтобы скрипт работал нужно:
+1. У вас должны быть в инвентаре ингридиенты, такие как: яйца, мука и вода.
+2. Для правильной работы скрипта вам нужно, чтобы вода стояла  в 1 слоте,  мука стояла во 2 слоте и яйца в 3 слоте  во время готовки.
+3. Если у вас возникли проблемы с расположением ингридиентов, вам нужно просто выложить не нужные блюда или же ингридиенты.
+
+Удачной игры)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 500 649
+MoveTo 928 260
+MoveTo 928 259
+RightDown 1
+Delay 39 ms
+RightUp 1
+MoveTo 928 258
+MoveTo 858 257
+MoveTo 856 257
+RightDown 1
+Delay 39 ms
+RightUp 1
+MoveTo 855 257
+MoveTo 761 273
+MoveTo 760 273
+RightDown 1
+Delay 15 ms
+RightUp 1
+MoveTo 759 273
+MoveTo 484 579
+MoveTo 484 579
+RightDown 1
+RightUp 1
+MoveTo 486 568
+MoveTo 493 644
+MoveTo 494 645
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 5551 ms
+GoWhile 1 5</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

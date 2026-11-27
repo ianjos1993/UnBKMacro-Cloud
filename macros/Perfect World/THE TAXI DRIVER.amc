@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major>Асист с ПЛ игра в 2 окна</Major>
+    <Description>НАЖИМАЕМ НА КНОПКУ И ЧЕРЕЗ 2 СЕКУНДЫ СРАБАТЫВАЕТ МАКРОС И ТЫ С ПЛ БЬЕШЬ КРИПА) простой макрос. смотри внимательно на расположение иконки персонажа с которого берется следование.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 227 1
+Delay 400 ms
+KeyDown 33 1
+Delay 100 ms
+KeyUp 33 1
+Delay 120 ms
+KeyDown 33 1
+Delay 110 ms
+KeyUp 33 1
+Delay 120 ms
+KeyUp 227 1
+Delay 600 ms
+KeyDown 65 1
+Delay 100 ms
+KeyUp 65 1
+Delay 120 ms
+KeyDown 64 1
+Delay 120 ms
+KeyUp 64 1
+Delay 130 ms
+KeyDown 227 1
+Delay 120 ms
+KeyDown 33 1
+Delay 100 ms
+KeyUp 33 1
+Delay 110 ms
+KeyUp 227 1
+Delay 600 ms</Syntax>
+    </KeyDown>
+    <Software>Perfect World</Software>
+  </DefaultMacro>
+</Root>

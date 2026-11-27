@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>И так, вот обычная банальная версия эмот дэша в эвейде
+
+От вас никаких особых навыков не требуется!
+Для того что бы начать дэш:
+1. разбегаемся
+2. активируем макрос (советую ставить на букву R)
+3. ищем тримпы об которые можно проскользить
+4. W S не нажимать!!!
+5. и просто время от времени ищем тримпы и прыгаем по ним, либо
+боком в зависимости от стороны жмем клавиши A и D
+6. макрос включит за вас эмоцию и проделает всю работу, которые многие не могут в ручную! (я в том числе)</Description>
+    <Comment>follow me roblox
+ii1xk</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+KeyDown 224 1
+KeyDown 224 1
+Delay 64
+KeyDown 224 1
+Delay 64
+KeyDown 224 1
+KeyDown 10 1
+KeyDown 33 1
+KeyUp 33 1
+Delay 30 ms</Syntax>
+    </KeyDown>
+    <Software>roblox</Software>
+  </DefaultMacro>
+</Root>

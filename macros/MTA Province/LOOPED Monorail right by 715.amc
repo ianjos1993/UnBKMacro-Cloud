@@ -1,0 +1,284 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Монорельс против часовой стрелки (Вправо)
+Можно зациклить на повтор
+
+Инструкция:
+1. Встаём на маркер работы, в открывшемся окне наводим мышку на "РАБОТАТЬ" и нажимаем клавишу на которою забинден макрос
+2. Каждые два круга (15 минут) персонаж по окончанию работы, будет отбегать назад и снова сам вставать на маркер
+Повторение цикла зависит от Вас самих, повторение макроса можно выставить самостоятельно - тыкнув правой кнопкой мыши на клавишу, на которую установлен у вас макрос
+
+Если образовалась очередь, персонаж застынет на месте, а не будет бездумно бегать по карте
+Если так получилось, что Ваше направление заняли, бот собьется и поедет по другому, не попадая по остановкам, следите!
+
+Спасибо что пользуетесь макросом!</Description>
+    <Comment>Монорельс против часовой стрелки (Вправо)
+Можно зациклить на повтор
+
+Инструкция:
+1. Встаём на маркер работы, в открывшемся окне наводим мышку на "РАБОТАТЬ" и нажимаем клавишу на которою забинден макрос
+2. Каждые два круга (15 минут) персонаж по окончанию работы, будет отбегать назад и снова сам вставать на маркер
+Повторение цикла зависит от Вас самих, повторение макроса можно выставить самостоятельно - тыкнув правой кнопкой мыши на клавишу, на которую установлен у вас макрос
+
+Спасибо что пользуетесь макросом!</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 2583 ms
+KeyDown 15 1
+Delay 87 ms
+KeyUp 15 1
+Delay 120 ms
+KeyDown 15 1
+Delay 104 ms
+KeyUp 15 1
+Delay 199 ms
+KeyDown 14 1
+Delay 87 ms
+KeyUp 14 1
+Delay 80 ms
+KeyDown 26 1
+Delay 37135 ms
+KeyUp 26 1
+Delay 336 ms
+KeyDown 22 1
+Delay 2959 ms
+KeyUp 22 1
+Delay 880 ms
+KeyDown 22 1
+Delay 2655 ms
+KeyUp 22 1
+Delay 447 ms
+KeyDown 22 1
+Delay 695 ms
+KeyUp 22 1
+Delay 959 ms
+KeyDown 22 1
+Delay 63 ms
+KeyUp 22 1
+Delay 448 ms
+KeyDown 31 1
+Delay 71 ms
+KeyUp 31 1
+Delay 5479 ms
+KeyDown 31 1
+Delay 79 ms
+KeyUp 31 1
+Delay 63 ms
+KeyDown 26 1
+Delay 58735 ms
+KeyUp 26 1
+Delay 111 ms
+KeyDown 22 1
+Delay 3415 ms
+KeyUp 22 1
+Delay 976 ms
+KeyDown 22 1
+Delay 3031 ms
+KeyUp 22 1
+Delay 1011 ms
+KeyDown 31 1
+Delay 64 ms
+KeyUp 31 1
+Delay 5431 ms
+KeyDown 31 1
+Delay 87 ms
+KeyUp 31 1
+Delay 1007 ms
+KeyDown 26 1
+Delay 32855 ms
+KeyUp 26 1
+Delay 320 ms
+KeyDown 22 1
+Delay 6479 ms
+KeyUp 22 1
+Delay 352 ms
+KeyDown 26 1
+Delay 55 ms
+KeyUp 26 1
+Delay 543 ms
+KeyDown 31 1
+Delay 71 ms
+KeyUp 31 1
+Delay 6279 ms
+KeyDown 31 1
+Delay 87 ms
+KeyUp 31 1
+Delay 1084 ms
+KeyDown 26 1
+Delay 62407 ms
+KeyUp 26 1
+Delay 152 ms
+KeyDown 22 1
+Delay 6239 ms
+KeyUp 22 1
+Delay 415 ms
+KeyDown 22 1
+Delay 127 ms
+KeyUp 22 1
+Delay 1008 ms
+KeyDown 31 1
+Delay 191 ms
+KeyUp 31 1
+Delay 5288 ms
+KeyDown 31 1
+Delay 79 ms
+KeyUp 31 1
+Delay 1009 ms
+KeyDown 26 1
+Delay 33871 ms
+KeyUp 26 1
+Delay 16 ms
+KeyDown 22 1
+Delay 6351 ms
+KeyUp 22 1
+Delay 328 ms
+KeyDown 22 1
+Delay 120 ms
+KeyUp 22 1
+Delay 391 ms
+KeyDown 31 1
+Delay 71 ms
+KeyUp 31 1
+Delay 6111 ms
+KeyDown 31 1
+Delay 88 ms
+KeyDown 26 1
+Delay 31 ms
+KeyUp 31 1
+Delay 82759 ms
+KeyUp 26 1
+Delay 32 ms
+KeyDown 22 1
+Delay 6407 ms
+KeyUp 22 1
+Delay 607 ms
+KeyDown 31 1
+Delay 127 ms
+KeyUp 31 1
+Delay 5367 ms
+KeyDown 31 1
+Delay 87 ms
+KeyUp 31 1
+Delay 1048 ms
+KeyDown 26 1
+Delay 83007 ms
+KeyUp 26 1
+Delay 88 ms
+KeyDown 22 1
+Delay 6463 ms
+KeyUp 22 1
+Delay 879 ms
+KeyDown 31 1
+Delay 136 ms
+KeyUp 31 1
+Delay 5608 ms
+KeyDown 31 1
+Delay 79 ms
+KeyUp 31 1
+Delay 1039 ms
+KeyDown 26 1
+Delay 59095 ms
+KeyUp 26 1
+Delay 8 ms
+KeyDown 22 1
+Delay 6440 ms
+KeyUp 22 1
+Delay 672 ms
+KeyDown 31 1
+Delay 135 ms
+KeyUp 31 1
+Delay 6216 ms
+KeyDown 31 1
+Delay 95 ms
+KeyDown 26 1
+Delay 31 ms
+KeyUp 31 1
+Delay 33887 ms
+KeyDown 22 1
+Delay 15 ms
+KeyUp 26 1
+Delay 6455 ms
+KeyUp 22 1
+Delay 704 ms
+KeyDown 31 1
+Delay 143 ms
+KeyUp 31 1
+Delay 7559 ms
+KeyDown 31 1
+Delay 55 ms
+KeyDown 26 1
+Delay 23 ms
+KeyUp 31 1
+Delay 33088 ms
+Delay 29143 ms
+KeyUp 26 1
+Delay 40 ms
+KeyDown 22 1
+Delay 6447 ms
+KeyUp 22 1
+Delay 712 ms
+KeyDown 31 1
+Delay 71 ms
+KeyUp 31 1
+Delay 5504 ms
+KeyDown 31 1
+Delay 103 ms
+KeyDown 26 1
+Delay 23 ms
+KeyUp 31 1
+Delay 33927 ms
+KeyUp 26 1
+Delay 24 ms
+KeyDown 22 1
+Delay 6455 ms
+KeyUp 22 1
+Delay 568 ms
+KeyDown 31 1
+Delay 160 ms
+KeyUp 31 1
+Delay 5336 ms
+KeyDown 31 1
+Delay 87 ms
+KeyDown 26 1
+Delay 23 ms
+KeyUp 31 1
+Delay 83239 ms
+KeyDown 22 1
+Delay 24 ms
+KeyUp 26 1
+Delay 6335 ms
+KeyUp 22 1
+Delay 1360 ms
+KeyDown 31 1
+Delay 167 ms
+KeyUp 31 1
+Delay 1288 ms
+KeyDown 22 1
+Delay 79 ms
+KeyUp 22 1
+Delay 4152 ms
+KeyDown 31 1
+Delay 127 ms
+KeyUp 31 1
+Delay 15 ms
+KeyDown 26 1
+Delay 48775 ms
+KeyUp 26 1
+Delay 655 ms
+KeyDown 22 1
+Delay 1180 ms
+KeyUp 22 1
+Delay 2000 ms</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

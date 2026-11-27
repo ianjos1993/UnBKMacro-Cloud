@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>0 recoil macro for warden, tubaro, and valks mpx
+
+Attachments:
+Compensator
+Vert grip
+
+Display:
+2650 x 1440</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR 0 2
+Delay 8 ms
+MoveR -1 1
+Delay 8 ms
+MoveR 1 2
+Delay 8 ms
+MoveR 0 2
+Delay 8 ms</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

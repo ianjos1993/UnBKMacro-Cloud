@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос нажимает на клавишу "Отправить" в нижней правой части экрана.
+Использовать по окончании выполнения задания в yang.yandex-team.
+Пригодна для большинства заданий yang.yandex-team.
+Разрешение экрана 1920х1080
+Удобно повесить на нажатие колеса мыши.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1881 1024
+MoveTo 1881 1024
+MoveTo 1881 1024
+MoveTo 1881 1024
+MoveTo 1881 1024
+MoveTo 1881 1024
+LeftDown 1
+Delay 64 ms
+MoveTo 1881 1024
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>yang.yandex-team</Software>
+  </DefaultMacro>
+</Root>

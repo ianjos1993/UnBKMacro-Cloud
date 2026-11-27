@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматически берёт вещь из крайнего слота инвентаря.
+Очень поможет вам на сервере GreenMC.
+Работает только на сервере GreenMC.
+Разрешение экрана: 1680x1050
+
+Необходим драйвер!!!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 64 ms
+KeyUp 8 1
+Delay 64 ms
+MoveTo 1193 753
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 200 ms
+MoveTo 1025 923
+Delay 200 ms
+KeyDown 41 1
+Delay 55 ms
+KeyUp 41 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

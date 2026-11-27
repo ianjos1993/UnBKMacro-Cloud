@@ -1,0 +1,65 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрс для Фарма Крит. Урона с помощью винтовки "Моргенштерн"
+
+Инструкция по пользованию:
+1.Поставтье в 4 слот Моргенштерн
+2. Во 2 слот поставтье оружие для накрутки урона(Желательно Люда)
+3. Разрядите Моргенштерн до 0 патронов в магазине
+4. Нажмите кнопку для активации макроса, держа в руках НЕ перезаряженный моргенштерн, нельзя дать ему перезарядится, нужно что бы оружие сменялось не перезаряжая моргенштерн
+
+
+Вуаля, фарм урона)
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 72 ms
+KeyDown 33 1
+Delay 79 ms
+KeyUp 31 1
+Delay 26 ms
+KeyUp 33 1
+Delay 1176 ms
+KeyDown 31 1
+Delay 64 ms
+KeyDown 33 1
+Delay 61 ms
+KeyUp 31 1
+Delay 49 ms
+KeyUp 33 1
+Delay 1251 ms
+KeyDown 31 1
+Delay 53 ms
+KeyDown 33 1
+Delay 84 ms
+KeyUp 31 1
+Delay 17 ms
+KeyUp 33 1
+Delay 1344 ms
+KeyDown 31 1
+Delay 55 ms
+KeyDown 33 1
+Delay 79 ms
+KeyUp 31 1
+Delay 20 ms
+KeyUp 33 1
+Delay 1399 ms
+KeyDown 31 1
+Delay 44 ms
+KeyDown 33 1
+Delay 87 ms
+KeyUp 31 1
+Delay 20 ms
+KeyUp 33 1</Syntax>
+    </KeyDown>
+    <Software>Borderlands 2</Software>
+  </DefaultMacro>
+</Root>

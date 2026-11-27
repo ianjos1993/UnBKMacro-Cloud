@@ -1,0 +1,54 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Скритп для Кароса на применение банок 9 видов!
+В данном скрипте попробовал поставить отхил банок 9 видов
+Скрипт настроен на клавиши "NUM 1-9" в игре на панель выставляем нужные банки если банок не хватает нечего страшного он будет юзать те которые имеються. </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 89 1
+Delay 5 ms
+KeyUp 89 1
+Delay 5 ms
+KeyDown 90 1
+Delay 5 ms
+KeyUp 90 1
+Delay 5 ms
+KeyDown 91 1
+Delay 5 ms
+KeyUp 91 1
+Delay 5 ms
+KeyDown 92 1
+Delay 5 ms
+KeyUp 92 1
+Delay 5 ms
+KeyDown 93 1
+Delay 5 ms
+KeyUp 93 1
+Delay 5 ms
+KeyDown 94 1
+Delay 5 ms
+KeyUp 94 1
+Delay 5 ms
+KeyDown 95 1
+Delay 5 ms
+KeyUp 95 1
+Delay 5 ms
+KeyDown 96 1
+Delay 5 ms
+KeyUp 96 1
+Delay 5 ms
+KeyDown 97 1
+Delay 5 ms
+KeyUp 97 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Karos Online</Software>
+  </DefaultMacro>
+</Root>

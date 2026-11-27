@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Анти АФК, вероятность быть обнаруженным, забаненным или кикнутым меньше 5%. Вам нужно зайти в какой-либо интерьер дома или квартиры, включить макрос и можете смело заниматься своими делами. В структуре прожимается клавиша Alt, т.к. в Провинции таймер АФК сбрасывается при нажатии любой клавиши. Также в этот макрос добавлена функция поедания еды, перед этим предварительно заполните инвентарь едой и поставьте её в быстрый доступ на клавишу "1". Между сбросами АФК таймера проставлено различное время, чтобы не оказаться обнаруженным администрацией.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 2 min
+KeyDown 226 1
+Delay 25 ms
+KeyUp 226 1
+Delay 5 min
+KeyDown 226 1
+Delay 25 ms
+KeyUp 226 1
+Delay 4 min
+KeyDown 30 1
+Delay 64 ms
+KeyUp 30 1
+KeyDown 226 1
+Delay 25 ms
+KeyUp 226 1
+Delay 3 min
+KeyDown 226 1
+Delay 25 ms
+KeyUp 226 1
+Delay 9 min
+KeyDown 226 1
+Delay 25 ms
+KeyUp 226 1
+Delay 14 min
+GoWhile 1 56000000</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

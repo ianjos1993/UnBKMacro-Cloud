@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Бэлл анти - отдача, для того что бы макрос работал надо поставить чувствительность в не прицеле и в прицеле "25,6", отключить вертикальную синхронизацию, поставить разрешение "1920x1080", также надо будет поставить автоматическую стрельбу на оперативника и навык тяжёлый ствол.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 0 5
+Delay 8 ms
+MoveR 0 5
+Delay 8 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Caliber</Software>
+  </DefaultMacro>
+</Root>

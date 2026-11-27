@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major>A-545 частичная -отдача</Major>
+    <Description>Данный макрос хорошо подходит для игры с А-545, который практически уберает вертикальную отдачу. (После 50-го патрона наченает уже подбрасывать немного выше центра)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 0 5
+Delay 19 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

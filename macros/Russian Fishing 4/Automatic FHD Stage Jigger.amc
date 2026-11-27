@@ -1,0 +1,61 @@
+<Root>
+  <DefaultMacro>
+    <Major>АвтоМЛО - ДжигСтупенька FHD</Major>
+    <Description>Автоматическая ловля джиг ступенькой на любой банке. Джиг ступенька реализована через открытие катушки и активируется при появлении надписи движение в придонном слое. Протестирована на Venga 10000 скорость подмотки 50. Разрешение 1920х1080 FHD. В настройках игры желательно выставить экспозиция -3 и контраст -10. Возможны проблемы при бликах воды у индикаторов.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64 128
+LeftUp 1
+Delay 500 550 ms
+//проверка на клев
+GoColor 23 2 160,160,160 255,255,255 1 563 1023 148 2 1 0
+//ожидать дно
+GoColor 4 3 160,160,160 255,255,255 1 710 1031 75 21 1 0
+//джиг ступенька
+GoColor 23 2 160,160,160 255,255,255 1 563 1023 148 2 1 0
+LeftDown 1
+Delay 750 800 ms
+LeftUp 1
+Delay 64 128
+KeyDown 88 1
+Delay 64 128
+KeyUp 88 1
+GoColor 23 2 160,160,160 255,255,255 1 563 1023 148 2 1 0
+Delay 1450 1500 ms
+GoColor 23 2 160,160,160 255,255,255 1 563 1023 148 2 1 0
+Delay 1450 1500 ms
+Goto 9
+//клев
+LeftDown 1
+Delay 64 128
+KeyDown 225 1
+Delay 333 400 ms
+RightDown 1
+Delay 555 666 ms
+GoColor 32 2 68,75,24 183,199,56 2 801 973 9 12 25 0
+GoColor 28 2 160,160,160 255,255,255 1 563 1023 148 2 1 0
+KeyUp 225 1
+Delay 64 128
+RightUp 1
+Delay 64 128
+LeftUp 1
+GoColor 24 2 160,160,160 255,255,255 1 563 1023 148 2 1 0
+Delay 1000 1100 ms
+MoveTo 783 964
+Delay 555 666 ms
+LeftDown 1
+Delay 64 120
+LeftUp 1
+Delay 555 666 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Русская Рыбалка 4</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,54 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>IMBA(FastZoom) - можно расшифровать по названию, это означает быстрое включение зума и последующий выстрел/убийсто !
+Макрос добален на время  !!!! 
+Пожалуйста ставте лайк и пишите в коментах, нужно ли еще делать на игру макрос?! Вам не сложно, нам будет приятно ! 
+ВНИМАНИЕ : если у вас как то не так работает прицел, или идет повторения после выстрела, у вас не правильная задерка между вашим нажатием и отжатием клавиши мышки "ЛКМ" !!!! Заходите на Тренеровку и привыкаете стрелять правильно !!!
+
+СОВЕТ : Как использовать связку макросов (FastZoom + Зум-задержка прицела + Djamp одновременно !)
+Запускаем два приложения BotMek , на первом устаналиваем макрос "Зум-задержка прицела" на кнопку мышки "ПКМ" 
+На втором устанавливаем макрос "Djamp" на кнопу "Space" - прижок/пробел , на конпу мышки "ЛКМ" ставим макрос "FastZoom"
+
+Запускаем, играем от третьего лица и наслаждаемся игрой !
+
+По вопросам меня можно найти (BotMek-Дискорд-Поддержка-Флуд)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 30 ms
+Delay 8 ms
+Delay 8 ms
+Delay 8 ms
+Delay 9 ms
+Delay 7 ms
+Delay 8 ms
+Delay 11 ms
+LeftDown 1
+Delay 0 ms
+Delay 2 ms
+Delay 8 ms
+Delay 7 ms
+Delay 7 ms
+Delay 7 ms
+Delay 7 ms
+Delay 3 ms
+RightUp 1
+Delay 9 ms
+MoveR 10 120
+Delay 2 ms
+Delay 8 ms
+Delay 7 ms
+Delay 3 ms
+LeftUp 1
+Delay 144 ms</Syntax>
+    </KeyDown>
+    <Software>Infestation: The New Z</Software>
+  </DefaultMacro>
+</Root>

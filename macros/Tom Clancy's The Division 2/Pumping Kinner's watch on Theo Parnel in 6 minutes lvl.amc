@@ -1,0 +1,142 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Исправленный скрипт для кача часов на финале миссии Могильник.
+
+Разрешение 1920х1080. 
+
+Нужно пройти до финала, одеть билд на навыки (Инженер), взять в Q слот электромагнитный импульс, в E слот фугасную липучку, запрыгнуть к боссу и убить себя. После чего запустить скрипт.
+Агент перелазиет через забор, бежит до бассейна и взрывает голограммы, дальше стику себе под ноги и ресается. Цикл проходит где-то за 24 секунды. ВАЖНО прыжок на Space.
+Уровень апается за 6 минут 30 секунд, но можно оставить на ночь, главное что бы игра не вылетела.
+~40000 XP за один ретрай, уровень сложности значения не имеет, идти лучше на среднем (так быстрее дойти до финала).
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1000 ms
+KeyDown 9 1
+Delay 55 ms
+KeyUp 9 1
+Delay 4500 ms
+KeyDown 26 1
+Delay 480 ms
+KeyDown 225 1
+Delay 64 ms
+KeyUp 225 1
+Delay 64 ms
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 44 1
+Delay 128 ms
+KeyUp 44 1
+Delay 160 ms
+KeyDown 44 1
+Delay 160 ms
+KeyUp 44 1
+Delay 4700 ms
+KeyDown 225 1
+Delay 64
+MoveR -8000 0
+KeyUp 225 1
+Delay 2100 ms
+KeyDown 20 1
+Delay 150 ms
+KeyUp 26 1
+Delay 3100 ms
+KeyUp 20 1
+Delay 64 ms
+MoveR 0 10000
+Delay 100 ms
+KeyDown 8 1
+Delay 64 ms
+KeyUp 8 1
+Delay 46 ms
+KeyDown 8 1
+Delay 87 ms
+KeyUp 8 1
+Delay 46 ms
+KeyDown 8 1
+Delay 63 ms
+KeyUp 8 1
+Delay 28 ms
+KeyUp 26 1
+Delay 3500 ms</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy’s The Division 2</Software>
+  </DefaultMacro>
+</Root>

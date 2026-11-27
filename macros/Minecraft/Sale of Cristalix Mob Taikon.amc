@@ -1,0 +1,67 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Приветствую, дорогие читерюги. На очереди зацикленный макрос, который позволит не напрягаясь фармить валюту на режиме ''Моб Тайкон'' сервера Cristalix.
+Суть макроса  заключается в том, что вы ставите персонажа на одно место, включаете его, а он по кд бегает на продажу лута.
+Будет полезно тем, кто не хочет покупать новых мобов, но хочет фармить голду.
+Если вам не подходит и нужен либо автоматический сбор лута, то вам подойдет Cristalix Mob
+Если же вам необходима полная автоматизация, включая покупку мобов, апгрейд - Cris Mob Sell Buy Sell.
+Надеюсь, что вам понравится:)
+Хорошего фарма</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 2 s
+KeyUp 26 1
+Delay 64
+KeyDown 7 1
+Delay 4500 ms
+KeyUp 7 1
+Delay 64
+KeyDown 26 1
+Delay 700 ms
+KeyUp 26 1
+Delay 64
+KeyDown 22 1
+Delay 700 ms
+KeyUp 22 1
+Delay 64
+KeyDown 4 1
+Delay 1200 ms
+KeyUp 4 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 4 1
+Delay 1 ms
+KeyUp 4 1
+Delay 64
+KeyDown 4 1
+Delay 2500 ms
+KeyUp 4 1
+Delay 64
+KeyDown 44 1
+Delay 64 ms
+KeyUp 44 1
+Delay 64
+KeyDown 4 1
+Delay 1350 ms
+KeyUp 4 1
+Delay 64
+KeyDown 22 1
+Delay 2000 ms
+KeyUp 22 1
+Delay 64
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>minecraft</Software>
+  </DefaultMacro>
+</Root>

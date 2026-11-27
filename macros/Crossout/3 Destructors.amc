@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Три выстрела с интервалом 0,5сек, позволяет дольше держать нагрев деталей(не успевают остыть до след. выстрела)  Дестры разнести на 3 кнопки Лев.,Центр,Прав.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//Три выстрела с интервалом 0,5сек, позволяет дольше держать нагрев деталей(не успевают остыть до след. выстрела)  Дестры разнести на 3 кнопки Лев.,Центр,Прав.
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 500 ms
+MiddleDown 1
+Delay 64
+MiddleUp 1
+Delay 500 ms
+RightDown 1
+Delay 64
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Crossout</Software>
+  </DefaultMacro>
+</Root>

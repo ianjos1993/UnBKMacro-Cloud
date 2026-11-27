@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>(v1.0) 
+
+D.A.R.K., aka Disco's Automated Recoil Kontrol, is a jitter aim macro designed for the smoothest possible jitter-aim in Apex Legends! D.A.R.K. may or may not be continued in further or separate versions. For now, D.A.R.K. is setup specifically for 400 DPI with an in-game sensitivity of 5.0 (1.0 ADS w/per-optic ADS sensitivity off) at 1920x1080p, but upon request I may release additional versions covering different DPIs and resolutions. If you face any issues using it, please reach out and let me know so I can properly update and correct any bugs found while using D.A.R.K. and/or any subsequent versions!
+
+-Disco</Description>
+    <Comment>OSIRISSOFTWARE - SLSK - GSO
+
+See you in v1.1!</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR 2 2
+Delay 10 ms
+MoveR 2 -2
+Delay 10 ms
+MoveR -2 -2
+Delay 10 ms
+MoveR -2 2
+Delay 10 ms
+MoveR 2 2
+Delay 10 ms
+MoveR 2 2
+Delay 10 ms
+MoveR 2 -2
+Delay 10 ms
+MoveR -2 -2
+Delay 10 ms
+MoveR -2 2
+Delay 10 ms
+MoveR 2 2
+Delay 10 ms
+MoveR 2 2
+Delay 10 ms
+MoveR 2 -2
+Delay 10 ms
+MoveR -2 -2
+Delay 10 ms
+MoveR -2 2
+Delay 10 ms
+MoveR 2 2
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

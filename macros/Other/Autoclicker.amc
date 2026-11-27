@@ -1,0 +1,19 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автокликер задержка клика 15 миллисекунд. Имитирует быстрые нажатия левой кнопки мыши. Кликает примерно 60-70 кликов в секунду.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>AutoClicker</Software>
+  </DefaultMacro>
+</Root>

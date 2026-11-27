@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для пистолета рб (Не зажим)
+Ставим макрос на любую удобную кнопку и наслаждаемся игрой
+Лично я ставлю на правую кнопку мыши, вы ставите как вам удобно</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 20
+RightUp 1
+Delay 20
+LeftDown 1
+Delay 20
+LeftUp 1
+Delay 20
+KeyDown 32 1
+Delay 20
+KeyUp 32 1
+Delay 20
+KeyDown 31 1
+Delay 20
+KeyUp 31 1
+Delay 20</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

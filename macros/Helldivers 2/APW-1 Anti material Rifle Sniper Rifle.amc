@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Вызов стратогемы снайперская винтовка
+работает если вызов стратогем настроены на стрелки
+Особенности: это только комманда вызова вам необходимо самому нажимать CTRL </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 81 1
+Delay 30 ms
+KeyUp 81 1
+Delay 30 ms
+KeyDown 80 1
+Delay 30 ms
+KeyUp 80 1
+Delay 30 ms
+KeyDown 79 1
+Delay 30 ms
+KeyUp 79 1
+Delay 30 ms
+KeyDown 82 1
+Delay 30 ms
+KeyUp 82 1
+Delay 30 ms
+KeyDown 81 1
+Delay 30 ms
+KeyUp 81 1</Syntax>
+    </KeyDown>
+    <Software>Helldivers 2</Software>
+  </DefaultMacro>
+</Root>

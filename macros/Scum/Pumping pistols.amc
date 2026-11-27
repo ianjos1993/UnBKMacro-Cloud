@@ -1,0 +1,207 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description> -------------------------------- Качаем пистолеты  -------------------------------
+
+Вся суть что мы запускаем событие на котором стоит постройка и будем стрелять по ней!
+
+Что нам нужно:
+1) Заходим в событие и берём SH-19 пистолет
+2) Оставляем прицел на постройке и выпускаем обойму
+3) И запускаем макрос
+4) отоходим пить кофе и настлаждаемся прокачкой писталетов
+
+ВАЖНО : Не забудьте зациклить макрос!
+По таймингу подходить от 2-го навыка и выше!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 103 ms
+KeyUp 21 1
+Delay 365 ms
+LeftDown 1
+Delay 118 ms
+LeftUp 1
+Delay 84 ms
+LeftDown 1
+Delay 71 ms
+LeftUp 1
+Delay 89 ms
+LeftDown 1
+Delay 68 ms
+LeftUp 1
+Delay 83 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 87 ms
+LeftDown 1
+Delay 61 ms
+LeftUp 1
+Delay 84 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 73 ms
+LeftUp 1
+Delay 75 ms
+LeftDown 1
+Delay 70 ms
+LeftUp 1
+Delay 71 ms
+LeftDown 1
+Delay 78 ms
+LeftUp 1
+Delay 92 ms
+LeftDown 1
+Delay 59 ms
+LeftUp 1
+Delay 94 ms
+LeftDown 1
+Delay 57 ms
+LeftUp 1
+Delay 90 ms
+LeftDown 1
+Delay 53 ms
+LeftUp 1
+Delay 87 ms
+LeftDown 1
+Delay 76 ms
+LeftUp 1
+Delay 87 ms
+LeftDown 1
+Delay 61 ms
+LeftUp 1
+Delay 69 ms
+LeftDown 1
+Delay 85 ms
+LeftUp 1
+Delay 78 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 74 ms
+LeftDown 1
+Delay 75 ms
+LeftUp 1
+Delay 80 ms
+LeftDown 1
+Delay 74 ms
+LeftUp 1
+Delay 75 ms
+LeftDown 1
+Delay 56 ms
+LeftUp 1
+Delay 87 ms
+LeftDown 1
+Delay 71 ms
+LeftUp 1
+Delay 75 ms
+LeftDown 1
+Delay 65 ms
+LeftUp 1
+Delay 91 ms
+LeftDown 1
+Delay 66 ms
+LeftUp 1
+Delay 83 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+Delay 71 ms
+LeftDown 1
+Delay 84 ms
+LeftUp 1
+Delay 73 ms
+LeftDown 1
+Delay 98 ms
+LeftUp 1
+Delay 110 ms</Syntax>
+    </KeyDown>
+    <Software>Scum</Software>
+  </DefaultMacro>
+</Root>

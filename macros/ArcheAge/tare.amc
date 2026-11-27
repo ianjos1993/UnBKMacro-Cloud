@@ -1,0 +1,58 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>    Для быстрого перемещения на питомце таре (Подойдет как вожак, так и обычный)
+
+Инструкция по применению =&gt;&gt;
+ Необходимо бежать на питомце вперед
+ Персонаж развернется, сделает отскок, развернется, телепортируется и отзовет питомца
+ Таким образом за секунду вы переместитесь на 30-35 метров
+
+Необходимые бинды (Все можно легко поменять)
+ Alt + Q =&gt; Отскок на таре
+ Alt + E =&gt; Телепорт на таре
+ Shift + Q =&gt; Вызов таре или любого другого питомца (Для того чтобы отозвать таре после исполнения)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 62 1
+Delay 25 ms
+KeyUp 62 1
+Delay 25 ms
+KeyDown 226 1
+Delay 25 ms
+KeyDown 20 1
+Delay 25 ms
+KeyUp 20 1
+KeyUp 226 1
+Delay 370 ms
+KeyDown 62 1
+Delay 25 ms
+KeyUp 62 1
+Delay 25 ms
+KeyDown 226 1
+Delay 25 ms
+KeyDown 8 1
+Delay 25 ms
+KeyUp 8 1
+Delay 25 ms
+KeyUp 226 1
+Delay 140 ms
+KeyDown 225 1
+Delay 35
+KeyDown 20 1
+Delay 35
+KeyUp 20 1
+Delay 35
+KeyUp 225 1
+Delay 64 ms
+GoWhile 24 5</Syntax>
+    </KeyDown>
+    <Software>Archeage</Software>
+  </DefaultMacro>
+</Root>

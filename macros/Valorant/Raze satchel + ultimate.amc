@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>this macro may risk your raze gameplay so practice the macro first and use it carefully
+first of all bind your satchel ability to Q and ultimate to X or you can change the macro key to any button that you want to
+try this macro at the range first 
+practice how your strafe first with WASD key generally raze main use strafe tech to perform satchel and ultimate</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 4 ms
+KeyUp 20 1
+Delay 10 ms
+KeyDown 20 1
+Delay 4 ms
+KeyUp 20 1
+Delay 10
+KeyDown 27 1
+Delay 4 ms
+KeyUp 27 1
+Delay 4 ms
+KeyDown 20 1
+Delay 4 ms
+KeyUp 20 1
+Delay 4 ms
+KeyDown 20 1
+Delay 4 ms
+KeyUp 20 1
+Delay 4 ms
+LeftDown 1
+Delay 10
+LeftUp 1
+Delay 10</Syntax>
+    </KeyDown>
+    <Software>Valorant</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,73 @@
+<Root>
+  <DefaultMacro>
+    <Major>Улучшенная версия</Major>
+    <Description>Улучшенная версия рыбалки на зимнем курорте, для полноценной работы необходимо установить дополнительно аддон на авто принятие и автосдачу квеста</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 27 1
+Delay 200 300 ms
+KeyUp 27 1
+Delay 1499 2000 ms
+KeyDown 31 1
+KeyUp 31 1
+Delay 200 300 ms
+Delay 1100 1500 ms
+Delay 200 300 ms
+GoColor 9 1 46,53,51 255,255,255 1 955 1007
+KeyDown 32 1
+Delay 200 300 ms
+KeyUp 32 1
+Delay 1100 1500 ms
+KeyDown 33 1
+Delay 200 300 ms
+KeyUp 33 1
+Delay 2000 3000 ms
+GoColor 4 1 178,80,71 255,255,255 1 914 1012
+KeyDown 33 1
+Delay 200 300 ms
+KeyUp 33 1
+Delay 1900 2100 ms
+GoColor 4 1 178,80,71 255,255,255 1 914 1012
+KeyDown 33 1
+Delay 200 300 ms
+KeyUp 33 1
+Delay 1900 2100 ms
+GoColor 4 1 178,80,71 255,255,255 1 914 1012
+KeyDown 33 1
+Delay 200 300 ms
+KeyUp 33 1
+Delay 1900 2200 ms
+GoColor 4 1 178,80,71 255,255,255 1 914 1012
+KeyDown 33 1
+Delay 200 300
+KeyUp 33 1
+Delay 1900 2100 ms
+GoColor 1 1 118,105,55 255,255,255 1 939 888
+GoColor 4 1 178,80,71 255,255,255 1 914 1012
+GoColor 43 1 57,182,0 255,255,255 1 940 897
+GoWhile 4 1
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 64
+KeyDown 29 1
+Delay 64
+KeyUp 29 1
+Delay 500 ms
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 64
+Delay 64
+GoWhile 1 500</Syntax>
+    </KeyDown>
+    <Software>Аллоды Онлайн</Software>
+  </DefaultMacro>
+</Root>

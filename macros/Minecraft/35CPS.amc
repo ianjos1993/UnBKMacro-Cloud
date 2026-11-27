@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Я хочу предупредить всех, за такие макросы могут ЗАБАНИТЬ на ващем любимом сервере.
+
+Этот макрос пликает 35 раз в секунду. Отлично подойдет для SkyWars ну и BadWars. На некоторых серверах античит кикает за дикий разгон кликов, будте бдительны.
+
+Установка:
+
+1. Выбираете удобную клавишу, кнопку на мышке, делаете бинд макроса.
+
+2. Ставите пораметр при котором, зажатие кнопки является включением макроса.
+
+Удачи) И приятного нагиба!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 25 ms
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

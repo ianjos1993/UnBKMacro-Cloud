@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>BouBou</Major>
+    <Description>Super jump from Zip,Bind Where ever u wantt it ;) 
+This speeds you up quickly on vertical ziplines, and from a horizontal zipline you can jump really high using it.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 852 ms
+KeyDown 8 1
+Delay 71 ms
+KeyUp 8 1
+Delay 647 ms
+WheelDown 1
+Delay 55 ms
+WheelDown 1
+Delay 64 ms
+WheelDown 1
+Delay 55 ms
+WheelDown 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Basically this macro takes advantage of roblox's . and / keys that tilt the camera angle 45 degrees to the left and right. With the right delay time, you can do a wallhop by just pressing w and space and assigning the macro to left click for example</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 54 1
+KeyUp 54 1
+Delay 50 ms
+KeyDown 55 1
+KeyUp 55 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

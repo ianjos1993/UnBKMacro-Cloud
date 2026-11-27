@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Скрипт для любого умения с вводом  ↓ ↘ → (кнопка) и  ↓ ↙ ← (кнопка) чтобы всё работало нормально надо вы должны задать направление если  ↓ ↘ → (кнопка) то всё нормально кнопку нужную вы сами сделаете только делайте это без задерки, а вот это - ↓ ↙ ← (кнопка) надо D поменять на A  и точно также кнопку и делать это всё нужно без задерки.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 17 ms
+KeyDown 7 1
+Delay 17 ms
+KeyUp 22 1
+Delay 17 ms
+KeyDown 93 1
+Delay 17 ms
+KeyUp 7 1
+Delay 17 ms
+KeyUp 93 1</Syntax>
+    </KeyDown>
+    <Software>JoJo's Bizarre Adventure: All-Star Battle R</Software>
+  </DefaultMacro>
+</Root>

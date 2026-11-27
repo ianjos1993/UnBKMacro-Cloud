@@ -1,0 +1,49 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Трюк Cukoys топ 1 мира, его было довольно сложно сделать, да и вообще он делает это на контроллере,в чем смысл его -  Вы должны находиться близко к углу (без разницы левого/правого), нажимаете на клавишу где у вас установлен макрос (для удобности устанавливать на M или U) и в зависимости от положения он подойдет к кольцу и сделает микро-шаг который даст вам забить идеально с 0%.
+Будут ошибки пишите в дискорд rx2781</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 675 ms
+KeyUp 225 1
+Delay 173 ms
+KeyDown 26 1
+Delay 709 ms
+KeyUp 26 1
+Delay 169 ms
+KeyDown 4 1
+Delay 32 ms
+KeyUp 4 1
+KeyDown 22 1
+Delay 174 ms
+KeyUp 22 1
+Delay 15 ms
+KeyDown 4 1
+Delay 87 ms
+KeyUp 4 1
+KeyDown 22 1
+Delay 87 ms
+KeyUp 22 1
+KeyDown 7 1
+Delay 87 ms
+KeyUp 7 1
+KeyDown 26 1
+Delay 98 ms
+KeyUp 26 1
+Delay 32 ms
+KeyDown 8 1
+Delay 338 ms
+KeyUp 8 1
+KeyUp 43 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

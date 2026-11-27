@@ -1,0 +1,718 @@
+<Root>
+  <DefaultMacro>
+    <Major>Dracula</Major>
+    <Description>Данный Макрос создан специально для заходов ВП ЗА СЕРУ(вагоном) " Вы сбрасываете лут хосту" при нажатии выбраной клавиши он моментально сбрасывает содержимое Инвентаря на землю. если вам что нужно из найденого шмота отложите в сундук до запуска макроса.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1425 585
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1475 585
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1525 585
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1575 585
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1625 585
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1675 585
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1725 585
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1775 585
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1835 585
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1885 585
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1425 585
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1475 585
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1525 585
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1575 585
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1625 585
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1675 585
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1725 585
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1775 585
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1835 585
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1885 585
+LeftDown 1
+LeftUp 1
+MoveTo 1425 635
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1475 635
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1525 635
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1575 635
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1625 635
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1675 635
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1725 635
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1775 635
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1835 635
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1885 635
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1425 635
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1475 635
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1525 635
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1575 635
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1625 635
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1675 635
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1725 635
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1775 635
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1835 635
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1885 635
+LeftDown 1
+LeftUp 1
+MoveTo 1425 685
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1475 685
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1525 685
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1575 685
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1625 685
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1675 685
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1725 685
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1775 685
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1835 685
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1885 685
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1425 685
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1475 685
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1525 685
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1575 685
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1625 685
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1675 685
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1725 685
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1775 685
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1835 685
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1885 685
+LeftDown 1
+LeftUp 1
+MoveTo 1425 735
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1475 735
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1525 735
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1575 735
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1625 735
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1675 735
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1725 735
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1775 735
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1835 735
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1885 735
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1425 735
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1475 735
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1525 735
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1575 735
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1625 735
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1675 735
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1725 735
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1775 735
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1835 735
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1885 735
+LeftDown 1
+LeftUp 1
+MoveTo 1425 785
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1475 785
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1525 785
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1575 785
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1625 785
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1675 785
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1725 785
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1775 785
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1835 785
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1885 785
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1425 785
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1475 785
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1525 785
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1575 785
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1625 785
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1675 785
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1725 785
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1775 785
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1835 785
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1885 785
+LeftDown 1
+LeftUp 1
+MoveTo 1425 835
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1475 835
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1525 835
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1575 835
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1625 835
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1675 835
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1725 835
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1775 835
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1835 835
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1885 835
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1425 835
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1475 835
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1525 835
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1575 835
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1625 835
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1675 835
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1725 835
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1775 835
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1835 835
+LeftDown 1
+LeftUp 1
+MoveTo 1300 585
+LeftDown 1
+LeftUp 1
+MoveTo 1885 835
+LeftDown 1
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Diablo 3</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major>macro thompson high sens</Major>
+    <Description>this macro worj for thompson with high sens like 1.7
+press to start release to stop
+fov 90
+sens 1.7. - 2
+dpi 1500
+1920 x 1080
+just enjoy the macro and support</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 49 ms
+MoveR 0 -30
+Delay 49 ms
+MoveR 0 -30
+Delay 49 ms
+MoveR 0 -30
+Delay 49 ms
+MoveR 0 -30
+Delay 49 ms
+MoveR 0 -30
+Delay 49 ms
+MoveR 0 -30
+Delay 49 ms
+LeftUp 1
+Delay 49 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

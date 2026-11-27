@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>QUICK SCOPE SNIPER</Major>
+    <Description>This is the suitable script for sniper user, no more pressing key to swap the weapon. All you need to do is to apply this script to have a fast swaping and scoping sniper!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 13 ms
+RightUp 1
+Delay 10 ms
+LeftDown 1
+Delay 13 ms
+LeftUp 1
+Delay 10 ms
+KeyDown 31 1
+Delay 14 ms
+KeyUp 31 1
+Delay 11 ms
+KeyDown 30 1
+Delay 14 ms
+KeyUp 30 1
+Delay 11 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

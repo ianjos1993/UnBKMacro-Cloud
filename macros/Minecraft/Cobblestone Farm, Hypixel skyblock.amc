@@ -1,0 +1,341 @@
+<Root>
+  <DefaultMacro>
+    <Major>Minecraft Hypixel skyblock (рандомные нажатия)</Major>
+    <Description>Это макрос позволяет фармить булыгу на генераторе и продавать его на базаре(Продажа работает если у вас есть Cookie buff)
+
+В макросе можно изменить задержку нажатий W и S под свой размер генератора.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+GoWhile 1 10
+Delay 64 1000 ms
+KeyDown 26 1
+Delay 16 17 s
+KeyUp 26 1
+Delay 64 1000 ms
+KeyDown 22 1
+Delay 16 17 s
+KeyUp 22 1
+Delay 64 1000 ms
+LeftUp 1
+Delay 64 1000 ms
+KeyDown 23 1
+Delay 500 1000 ms
+KeyUp 23 1
+Delay 500 1000 ms
+KeyDown 84 1
+Delay 500 1000 ms
+KeyUp 84 1
+Delay 500 1000 ms
+KeyDown 5 1
+Delay 500 1000 ms
+KeyUp 5 1
+Delay 500 1000 ms
+KeyDown 29 1
+Delay 500 1000 ms
+KeyUp 29 1
+Delay 500 1000 ms
+KeyDown 88 1
+Delay 500 1000 ms
+KeyUp 88 1
+Delay 500 1000 ms
+MoveTo 960 539
+Delay 8 ms
+MoveTo 959 539
+Delay 7 ms
+MoveTo 957 539
+Delay 7 ms
+MoveTo 957 539
+Delay 8 ms
+MoveTo 956 539
+Delay 23 ms
+MoveTo 956 539
+Delay 39 ms
+MoveTo 956 539
+Delay 8 ms
+MoveTo 954 539
+Delay 16 ms
+MoveTo 953 539
+Delay 8 ms
+MoveTo 952 539
+Delay 7 ms
+MoveTo 951 539
+Delay 7 ms
+MoveTo 949 538
+Delay 7 ms
+MoveTo 949 538
+Delay 8 ms
+MoveTo 947 538
+Delay 8 ms
+MoveTo 945 538
+Delay 7 ms
+MoveTo 945 538
+Delay 8 ms
+MoveTo 944 538
+Delay 7 ms
+MoveTo 944 538
+Delay 8 ms
+MoveTo 942 537
+Delay 8 ms
+MoveTo 942 537
+Delay 7 ms
+MoveTo 940 537
+Delay 8 ms
+MoveTo 936 536
+Delay 7 ms
+MoveTo 936 536
+Delay 8 ms
+MoveTo 935 535
+Delay 7 ms
+MoveTo 934 535
+Delay 8 ms
+MoveTo 933 535
+Delay 7 ms
+MoveTo 933 535
+Delay 16 ms
+MoveTo 932 535
+Delay 8 ms
+MoveTo 931 534
+Delay 7 ms
+MoveTo 930 534
+Delay 8 ms
+MoveTo 929 534
+Delay 8 ms
+MoveTo 929 534
+Delay 7 ms
+MoveTo 927 534
+Delay 8 ms
+MoveTo 925 533
+Delay 8 ms
+MoveTo 923 533
+Delay 7 ms
+MoveTo 923 533
+Delay 8 ms
+MoveTo 923 533
+Delay 7 ms
+MoveTo 917 533
+Delay 7 ms
+MoveTo 917 533
+Delay 8 ms
+MoveTo 915 533
+Delay 8 ms
+MoveTo 912 533
+Delay 7 ms
+MoveTo 912 533
+Delay 8 ms
+MoveTo 910 533
+Delay 7 ms
+MoveTo 910 533
+Delay 15 ms
+MoveTo 908 533
+Delay 8 ms
+MoveTo 905 533
+Delay 7 ms
+MoveTo 905 533
+Delay 8 ms
+MoveTo 899 533
+Delay 7 ms
+MoveTo 899 533
+Delay 8 ms
+MoveTo 896 533
+Delay 7 ms
+MoveTo 896 533
+Delay 8 ms
+MoveTo 896 533
+Delay 8 ms
+MoveTo 894 533
+Delay 39 ms
+MoveTo 894 533
+Delay 500 1000 ms
+LeftDown 1
+Delay 100 500 ms
+LeftUp 1
+Delay 500 1227 ms
+MoveTo 893 533
+Delay 63 ms
+MoveTo 893 532
+Delay 16 ms
+MoveTo 893 531
+Delay 7 ms
+MoveTo 893 531
+Delay 16 ms
+MoveTo 893 530
+Delay 7 ms
+MoveTo 893 529
+Delay 16 ms
+MoveTo 893 529
+Delay 7 ms
+MoveTo 893 529
+Delay 7 ms
+MoveTo 893 528
+Delay 8 ms
+MoveTo 893 528
+Delay 8 ms
+MoveTo 893 527
+Delay 7 ms
+MoveTo 893 527
+Delay 8 ms
+MoveTo 893 526
+Delay 7 ms
+MoveTo 893 526
+Delay 16 ms
+MoveTo 893 525
+Delay 8 ms
+MoveTo 893 525
+Delay 8 ms
+MoveTo 893 525
+Delay 31 ms
+MoveTo 893 524
+Delay 8 ms
+MoveTo 893 523
+Delay 7 ms
+MoveTo 893 523
+Delay 8 ms
+MoveTo 893 522
+Delay 7 ms
+MoveTo 893 522
+Delay 8 ms
+MoveTo 893 520
+Delay 7 ms
+MoveTo 893 520
+Delay 8 ms
+MoveTo 893 520
+Delay 8 ms
+MoveTo 893 518
+Delay 7 ms
+MoveTo 893 517
+Delay 8 ms
+MoveTo 893 517
+Delay 8 ms
+MoveTo 893 516
+Delay 7 ms
+MoveTo 893 515
+Delay 8 ms
+MoveTo 893 514
+Delay 8 ms
+MoveTo 893 512
+Delay 7 ms
+MoveTo 893 509
+Delay 7 ms
+MoveTo 893 509
+Delay 7 ms
+MoveTo 893 507
+Delay 8 ms
+MoveTo 893 506
+Delay 8 ms
+MoveTo 893 506
+Delay 7 ms
+MoveTo 893 505
+Delay 8 ms
+MoveTo 893 503
+Delay 7 ms
+MoveTo 893 502
+Delay 8 ms
+MoveTo 893 502
+Delay 8 ms
+MoveTo 893 500
+Delay 7 ms
+MoveTo 893 499
+Delay 8 ms
+MoveTo 893 499
+Delay 7 ms
+MoveTo 892 498
+Delay 16 ms
+MoveTo 892 497
+Delay 7 ms
+MoveTo 892 496
+Delay 16 ms
+MoveTo 892 496
+Delay 8 ms
+MoveTo 892 493
+Delay 15 ms
+MoveTo 892 492
+Delay 15 ms
+MoveTo 891 492
+Delay 8 ms
+MoveTo 891 492
+Delay 8 ms
+MoveTo 890 490
+Delay 7 ms
+MoveTo 890 490
+Delay 8 ms
+MoveTo 890 488
+Delay 7 ms
+MoveTo 890 487
+Delay 7 ms
+MoveTo 890 486
+Delay 8 ms
+MoveTo 890 485
+Delay 7 ms
+MoveTo 890 485
+Delay 8 ms
+MoveTo 890 483
+Delay 7 ms
+MoveTo 890 482
+Delay 8 ms
+MoveTo 890 480
+Delay 8 ms
+MoveTo 889 479
+Delay 7 ms
+MoveTo 889 479
+Delay 8 ms
+MoveTo 889 478
+Delay 8 ms
+MoveTo 889 477
+Delay 7 ms
+MoveTo 889 477
+Delay 8 ms
+MoveTo 889 476
+Delay 7 ms
+MoveTo 889 476
+Delay 16 ms
+MoveTo 889 475
+Delay 8 ms
+MoveTo 889 473
+Delay 8 ms
+MoveTo 889 472
+Delay 7 ms
+MoveTo 889 471
+Delay 7 ms
+MoveTo 889 471
+Delay 23 ms
+MoveTo 889 471
+Delay 16 ms
+MoveTo 889 470
+Delay 7 ms
+MoveTo 889 469
+Delay 16 ms
+MoveTo 889 469
+Delay 23 ms
+MoveTo 889 468
+Delay 8 ms
+MoveTo 889 468
+Delay 7 ms
+MoveTo 889 467
+Delay 8 ms
+MoveTo 889 467
+Delay 16 ms
+MoveTo 889 467
+Delay 16 ms
+MoveTo 889 466
+Delay 1111 ms
+RightDown 1
+Delay 102 ms
+RightUp 1
+Delay 17 ms
+MoveTo 889 466
+Delay 500 1000 ms
+KeyDown 41 1
+Delay 100 121 ms
+KeyUp 41 1
+Delay 800 1000 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

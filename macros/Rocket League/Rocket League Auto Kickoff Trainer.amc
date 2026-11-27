@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>Rocket League – Training &amp; Mechanics</Major>
+    <Description>This macro automates the kickoff sequence in Rocket League, giving players a fast and consistent start every time. It accelerates the car, performs a quick dodge, and positions the vehicle to hit the ball at maximum speed. Perfect for practicing kickoff mechanics or improving consistency in online matches. Works on PC with keyboard and mouse, no extra setup needed.</Description>
+    <Comment>Automatic Rocket League kickoff macro for fast and consistent starts.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 150 ms
+KeyDown 225 1
+Delay 50 ms
+RightDown 1
+Delay 30 ms
+RightUp 1
+Delay 80 ms
+KeyUp 225 1
+Delay 10 ms
+KeyDown 7 1
+Delay 300 ms
+KeyUp 7 1
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>Rocket League</Software>
+  </DefaultMacro>
+</Root>

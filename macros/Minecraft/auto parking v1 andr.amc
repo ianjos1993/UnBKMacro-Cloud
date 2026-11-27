@@ -1,0 +1,49 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>В общем вот мой первый макросс. Извините это пока что первая версия потом попытаюсь сделать легче в использовании и быстрее:
+на данный момент он является полностью автоматическим. использовать только для прямых дорог ( диагональ не допускается, скоро попытаюсь сделать диагональное строительство и двойное)
+Надеюсь он поможет многим.
+ИСПОЛЬЗОВАНИЕ:
+1)встать на край блока с зажатым шифтом.
+2) направить курсор на примерный центр блока
+3) отпустить шифт и использовать макросс (первый блок ставть не нужно) (работает макросс в 1 режиме т. е. когда зажата клавиша)
+
+Но есть один баг  связанный с перемещением курсора 
+в будующем попытаюсть исправить)
+УДАЧИ!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 32 ms
+RightUp 1
+Delay 100 ms
+KeyDown 22 1
+Delay 64
+Delay 64 ms
+Delay 64 ms
+Delay 20 ms
+KeyUp 22 1
+Delay 10 ms
+KeyDown 225 1
+Delay 1 ms
+KeyDown 22 1
+Delay 300 ms
+RightDown 1
+Delay 16 ms
+KeyUp 22 1
+Delay 40 ms
+RightUp 1
+Delay 15 ms
+KeyUp 225 1
+Delay 64 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

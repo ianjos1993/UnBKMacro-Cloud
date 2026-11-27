@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для поворота на 360 во всех плейсах roblox чаще всего использую в YBA. Позволяет применить способность starfinger на стенде star platinum во всех направлениях после применения способности просто запустите макрос и готово!
+Разрешение монитора 1400 900
+Camera sensitivity - 0.2 (настройки роблокса)
+DPI - 1600
+
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 80 ms
+MoveR -720 0
+Delay 20 ms
+MoveR -720 0
+Delay 20 ms
+MoveR -720 0
+Delay 50 ms
+MoveR -720 0
+Delay 30 ms
+MoveR -720 0
+Delay 95 ms
+MoveR -1320 0</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

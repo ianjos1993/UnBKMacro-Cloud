@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Нужен на стресс тесте, чтобы быстро покупать контейнеры. От вас требуется только максимальный баланс и навестись на окошко ввода суммы аукциона (чуть правее цифр,, чтобы они стерлись все). Дальше просто запускаете скрипт. Удачи !</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 10 ms
+LeftUp 1
+KeyDown 42 1
+Delay 100 ms
+KeyUp 42 1
+GoWhile 4 8
+KeyDown 38 1
+Delay 100 ms
+KeyUp 38 1
+GoWhile 8 8
+Delay 8 ms
+MoveTo 1100 584
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

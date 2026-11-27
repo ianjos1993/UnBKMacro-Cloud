@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major>FrenS</Major>
+    <Description>Вам необходимо забайдить на необходимую клавишу, зайти в игру, нажать клавишу и наслаждаться игрой.
+Протестировано, работает отлично без ошибок.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+KeyUp 44 1
+Delay 3 ms</Syntax>
+    </KeyDown>
+    <Software>Crossout</Software>
+  </DefaultMacro>
+</Root>

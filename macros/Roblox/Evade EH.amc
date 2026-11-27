@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Emote hop для evade.
+Все очень легко. Поймет любой.
+Просто ставите возле горячих клавиш и наслаждаетесь.
+Поподробнее:
+1) Берем в руки Фонарь(нажать f) или любую утилиту (нажать на 1)
+2) Ищем боковой блок об который можно тримпить Или просто блок - тримп.
+3)жмем  CTRL и нажимаем ту букву на которой стоит макрос (советую на R,X,Z)
+4) После того как эмоция успешно включилась прыгаем и хопим по нужным блокам.
+5) как начнет выключаться нажимаем пробел и в таком состоянии ищем другой тримп
+Нельзя во время хопа отрывать от CTRL (все слетит)</Description>
+    <Comment>Roblox - ii1xk (follow) </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+KeyUp 10 1
+Delay 1 ms
+KeyDown 32 1
+Delay 1 ms
+KeyUp 32 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

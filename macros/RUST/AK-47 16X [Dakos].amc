@@ -1,0 +1,99 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для игры RUST для АК - 47 с прицелом 16X.
+
+Настройки в программе:
+1. Раздел «Окно»
+  1.1. Работать без привязки к окну
+  1.2. Использовать драйвер
+2. Раздел настроек программы
+  2.1. Запустить слежение за клавишами «ВКЛ»
+  2.2. Запустить режим инкогнито «ВКЛ» (ОБЯЗАТЕЛЬНО!)
+  2.3. Использовать минимальную задержку «ВЫКЛ»
+  2.4. Забиндить на любую кнопку (Рекомендую ЛКМ или КОЛЁСИКО)
+  2.5. Выбрать режим работы «Пока зажата клавиша»
+
+Настройки в игре:
+  - FOV 85 - Чувствительность 0.66
+
+Макрос тестировался на:
+  - Ноутбук lenovo legion Y540
+  - Китайская мышка за 250 р.
+  - Windows 10 20H2
+  - RUST через Steam
+
+По всем вопросам обращаться: 
+- Форум: https://botmek.ru/forum/
+- Discord: https://botmek.com/discord/
+- ВК: https://vk.com/botmek </Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 25 ms
+MoveR -30 60
+Delay 25 ms
+MoveR -30 60
+Delay 25 ms
+MoveR -50 65
+Delay 25 ms
+MoveR -60 70
+Delay 20 ms
+MoveR -41 50
+Delay 3 ms
+Delay 25 ms
+MoveR 1 60
+Delay 25 ms
+MoveR 1 60
+Delay 25 ms
+MoveR 4 55
+Delay 25 ms
+MoveR 1 60
+Delay 20 ms
+MoveR 25 45
+Delay 3 ms
+Delay 25 ms
+MoveR -80 40
+Delay 25 ms
+MoveR -75 45
+Delay 25 ms
+MoveR -60 50
+Delay 25 ms
+MoveR -60 60
+Delay 20 ms
+MoveR -60 60
+Delay 3 ms
+Delay 25 ms
+MoveR -75 45
+Delay 25 ms
+MoveR -75 45
+Delay 25 ms
+MoveR -30 48
+Delay 25 ms
+MoveR -50 45
+Delay 20 ms
+MoveR -30 45
+Delay 3 ms
+Delay 25 ms
+MoveR 0 40
+Delay 25 ms
+MoveR 0 40
+Delay 25 ms
+MoveR 0 40
+Delay 25 ms
+MoveR 0 40
+Delay 20 ms
+MoveR 0 40
+Delay 3 ms
+LeftUp 1
+Delay 13 s</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

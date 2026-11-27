@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос нужен для того чтобы не кикнуло из матча в игре. Если вдруг вам нужно куда-то отойти, то включаете этот макрос и занимайтесь своими делами.</Description>
+    <Comment>Забиндить на свою клавишу и использовать)</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 55 ms
+KeyUp 30 1
+Delay 180 ms
+KeyDown 31 1
+Delay 640 ms
+KeyUp 31 1
+Delay 82 ms
+KeyDown 32 1
+Delay 440 ms
+KeyUp 32 1
+Delay 380 ms</Syntax>
+    </KeyDown>
+    <Software>Warface</Software>
+  </DefaultMacro>
+</Root>

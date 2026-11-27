@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>hz che tyta</Major>
+    <Description>нам нужны только три скилла это первый скилл, второй скилл, и третий скилл
+скрипт автоматом прожимает первый скилл, потом второй скилл, и ульту и получается фри килл
+лейт закуп:
+boots of bearing, wraith pact,aeon disk, blink, linken sphere, scythe of vyse</Description>
+    <Comment>https://keyran.net - самый лучший сайт по макросам</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 100
+KeyUp 20 1
+Delay 64
+KeyDown 26 1
+Delay 100
+KeyUp 26 1
+Delay 100
+KeyDown 21 1
+Delay 100
+KeyUp 21 1</Syntax>
+    </KeyDown>
+    <Software>dota 2</Software>
+  </DefaultMacro>
+</Root>

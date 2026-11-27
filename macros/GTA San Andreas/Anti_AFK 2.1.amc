@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Садись в машину и включай макрос и анти афк готов!
+Главное перед админами не хвастайся )))
+еще анти афк с другими символами на https://keyran.net
+Обнова 2.0 - быстро нажимают кнопки - для выхода из полноекраного режима нажать ctrl + alt + delete потом нажать очень быстро отмена
+Можно использовать как ускорение для мопеда)
+2.1 - новые комбинации скоро будет!
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 2 30 ms
+KeyDown 82 1
+KeyUp 82 1
+Delay 2 ms
+KeyDown 96 1
+Delay 64
+KeyUp 96 1
+Delay 64
+KeyDown 94 1
+Delay 64
+KeyUp 94 1
+Delay 64
+KeyDown 93 1
+Delay 64
+KeyUp 93 1
+Delay 1 10 s
+GoWhile 2 86400000</Syntax>
+    </KeyDown>
+    <Software>GTA San Andreas</Software>
+  </DefaultMacro>
+</Root>

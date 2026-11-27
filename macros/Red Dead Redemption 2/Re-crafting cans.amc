@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Переплавляет песок в банки 
+!!!!Нужно поменять кнопки управления 
+Найстройки - Управление - Клавиатура и мышь - Назначение клавиш - ищем кнопку  L ALT и меняем ее на правую кнопку мыши (ПКМ) !!!!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 1000 ms
+RightUp 1
+Delay 700 ms
+KeyDown 81 1
+Delay 700 ms
+KeyUp 81 1
+Delay 700 ms
+KeyDown 81 1
+Delay 700 ms
+KeyUp 81 1
+Delay 700 ms
+KeyDown 81 1
+Delay 700 ms
+KeyUp 81 1
+Delay 700 ms
+KeyDown 81 1
+Delay 700 ms
+KeyDown 88 1
+Delay 700 ms
+KeyUp 88 1
+Delay 700 s
+RightDown 1
+Delay 700 ms
+RightUp 1
+Delay 1000 ms</Syntax>
+    </KeyDown>
+    <Software>Red Dead Redemption 2</Software>
+  </DefaultMacro>
+</Root>

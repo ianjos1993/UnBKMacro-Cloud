@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>для того чтобы использовать этот макрос сперва нужно поменять в настройках макроса кнопки под себя(R - пол, E - лестница, Q - стенка) остается только немного принаровиться и можно спокойно рашить . Если есть какие-нибудь проблемы то можно подкоректировать макрос</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 50 ms
+KeyUp 21 1
+Delay 50 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 50 ms
+KeyDown 8 1
+Delay 10 ms
+KeyUp 8 1
+Delay 40 ms
+LeftDown 1
+Delay 40 ms
+LeftUp 1
+Delay 40 ms
+KeyDown 20 1
+Delay 40 ms
+KeyUp 20 1
+Delay 40 ms
+LeftDown 1
+Delay 40 ms
+LeftUp 1
+Delay 40 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,68 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Good afternoon!
+
+Let's get to it: this is a training bot. Why? Because it allows you to keep fighting stronger digis than yours, so you an get tons of experience. How does it do that? Well, I'll tell you, but first - as always - a few considerations:
+
+1) Have a magnetic ID so you can grab the loot without moving. IF you don't have one, just add a 4 at the beginning.
+2) For this particular bot, you will need +50% AT card, +100% CAD card, and +100 SCD.
+3) First, as the digis are much stronger than you, you will need to attack with F1. You will have to change the macro by yourself. Just change the first 1 with F1 and you are good. Then, when you are around the same level as the digis you are fighting you will change the F1 back to 1, so you will 1 hit kill them.
+4) I recommend training on either Minato City of Verdandi (better money and exp on Minato).
+5) As this macro is intended for farming, I recommend having activated +1000% exp X2 (the one for 2 hours and the one for either 1 or half hour).
+
+Now, regarding the macro:
+
+1) If you are going to use an X Digi, have some X-gauge on F5 (so you use the right amount)
+2) Put some HP discs on F6 in case you get hit.
+3)Put either the +50% AT card, +100% CAD card on F4 and F7, or just put the +100% SCD on either F4 or F7. With this macro, you will always have the effects active, so you will get insta kills
+
+Good luck!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 1 s
+KeyUp 43 1
+Delay 1 s
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64 ms
+GoWhile 1 20
+KeyDown 63 1
+Delay 64
+KeyUp 63 1
+Delay 64
+GoWhile 1 4
+KeyDown 62 1
+Delay 64
+KeyUp 62 1
+Delay 64
+GoWhile 1 22
+KeyDown 61 1
+Delay 2 s
+KeyUp 61 1
+Delay 1 s
+KeyDown 88 1
+Delay 1 s
+KeyUp 88 1
+Delay 64
+KeyDown 64 1
+Delay 1 s
+KeyUp 64 1
+Delay 1 s
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Digimon Masters Online</Software>
+  </DefaultMacro>
+</Root>

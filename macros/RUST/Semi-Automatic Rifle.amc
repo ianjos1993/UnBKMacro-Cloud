@@ -1,0 +1,62 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>U will take better performance when u crouch.
+Its for simple sight.
+For the correct settings :
+Fov = Field of wiev.
+Esc&gt;Options&gt;Settings&gt;Field of wiev 88
+FOV 88 - Sensetivity 0.78
+
+Press F1 in game and write - "input.sensitivity 0.78"
+
+Written by nahkriin</Description>
+    <Comment>U will take better performance when u crouch.
+For the correct settings :
+Fov = Field of wiev.
+Esc&gt;Options&gt;Settings&gt;Field of wiev 88
+FOV 88 - Sensetivity 0.78
+Press F1 in game and write - "input.sensitivity 0.78"</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 5 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 3
+Delay 20 ms
+MoveR 0 3
+Delay 5 ms
+LeftUp 1
+Delay 20 ms
+LeftDown 1
+Delay 5 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 5
+Delay 20 ms
+MoveR 0 5
+Delay 5 ms
+LeftUp 1
+Delay 61 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

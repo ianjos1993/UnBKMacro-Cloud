@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>tsbg bd cancel2</Major>
+    <Description>The Strongest Battlegrounds. Backdashcancel for second skill. Best character to use - hero hunter, the strongest hero, Atomic samurai
+Usage: after doing a hook dash u hold S and press button u binded the macro and u will be able to combo extend/end based on skill u use ( if the skill is blockable the chance of getting punished is bigger)
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 1 ms
+KeyUp 31 1
+Delay 5 ms
+KeyDown 20 1
+Delay 1 ms
+KeyUp 20 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

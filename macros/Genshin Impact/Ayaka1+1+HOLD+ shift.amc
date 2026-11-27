@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>атака +атака + холда для аяки можете дабить еще 2 атаки и будет супер простенко и со вкусом. 
+Доработала чужой макрос. добавила прерывание атаки в виде пробежки, чтоб на мече была вечная инфузия</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 100 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 100 ms
+LeftDown 1
+Delay 150 ms
+LeftUp 1
+Delay 150 ms
+LeftDown 1
+Delay 400 ms
+LeftUp 1
+Delay 500 ms
+KeyDown 225 1
+KeyUp 225 1
+Delay 500 ms
+GoWhile 1 5</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

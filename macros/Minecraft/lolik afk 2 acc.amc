@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос поможет вам получать монетки на сервере Loliland на 2 аккаунта все что вам необходимо открыть два аккаунта и сделать так чтобы они шли подряд в alt+tab и все макрос все сделает за вас
+теперь вы можете оставить компьютер с данным макросом и зарабатывать свои монетки и прогружать свою базу 1920х1080 экран</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR 17 -19
+Delay 64
+MoveR -22 5
+Delay 64
+MoveTo 1093 1055
+KeyDown 56 1
+Delay 64
+KeyUp 56 1
+Delay 64
+Delay 64
+MoveR -42 -20
+Delay 64
+MoveR 20 -42
+Delay 64
+Delay 5 min
+MoveTo 1134 1058
+Delay 64
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

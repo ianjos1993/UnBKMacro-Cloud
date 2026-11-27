@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Работает всегда если спопадать в тайминг, работатет идеально если есть стабильные 120FPS. Бинд на любую удобную кнопку, у меня на пробел. Режим работы поставьте: пока нажата клавиша.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 5 ms
+KeyDown 6 1
+Delay 23 ms
+KeyUp 44 1
+Delay 250 ms
+KeyUp 6 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

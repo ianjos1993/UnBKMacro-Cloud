@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major>Rocket League - Speed Flip Training</Major>
+    <Description>This macro performs an automatic Speed Flip in Rocket League, perfect for kickoffs or quick recoveries. Once activated, it executes a precise combination of jumps, directional inputs, and flip cancel timing to achieve the fastest possible diagonal flip. 
+
+It’s ideal for players who want to practice or use a consistent Speed Flip without manual input. Works with PC (keyboard and mouse) setups. 
+
+Safe for Free Play and training packs. Can be adjusted by changing delays to match personal timing preferences.
+</Description>
+    <Comment>This macro was created to help Rocket League players learn and practice the Speed Flip technique in a consistent way. It combines precise directional inputs, jumps, and flip cancel timing to perform the move perfectly every time. Tested in Free Play on PC with keyboard and mouse. Feedback from the community is welcome.
+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 16 ms
+KeyDown 26 1
+Delay 16 ms
+KeyDown 7 1
+Delay 16 ms
+RightDown 1
+Delay 12 ms
+RightUp 1
+Delay 15 ms
+KeyUp 7 1
+Delay 16 ms
+KeyUp 26 1
+Delay 16 ms
+KeyDown 22 1
+Delay 11 ms
+KeyDown 8 1
+Delay 400 ms
+KeyUp 8 1
+KeyUp 22 1</Syntax>
+    </KeyDown>
+    <Software>Rocket League</Software>
+  </DefaultMacro>
+</Root>

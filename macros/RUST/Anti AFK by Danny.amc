@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>Danny</Major>
+    <Description>Anti Afk macro
+----------------------------------------------------------------------------------------------
+This macro is so that the servers don't kick you for being afk
+----------------------------------------------------------------------------------------------
+Bind a key with this macro and press it to crouch every sec, 
+when you want to stop the macro press the same key again.</Description>
+    <Comment>Enjoy it and go eat without being kicked by the servers</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 1 s
+KeyUp 224 1
+Delay 1 s</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>Prototype17 clear</Major>
+    <Description>This is an upgrade to my first macro on prototype 17
+low sens 0.4 Fov 90 1920x1080
+Automatic prototype ready to use and kill everyone
+don't forget to use it by holding down the left button and relase when finish
+
+support me and enjoy&gt;!
+
+BlackMamba</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 20 ms
+MoveR 0 18
+LeftUp 1
+MoveR 0 0
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

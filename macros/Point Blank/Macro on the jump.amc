@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Делает бесперебойный прыжок. Удобно при стрельбе.Ставим на любую клавишу клавиатуры.
+Для лучшей работы нужны.
+Парик – перки на ловкость.Успеха в бою</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 30 ms
+KeyUp 44 1
+Delay 30 ms
+KeyDown 44 1
+Delay 30 ms
+KeyUp 44 1
+Delay 30 ms
+KeyDown 4 1
+Delay 15 ms
+KeyUp 4 1
+Delay 15 ms
+KeyDown 7 1
+Delay 15 ms
+KeyUp 7 1
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major>Super Side Dash Tech</Major>
+    <Description>Super Side Dash for The Strongest Battlegrounds
+
+This side dash makes you go almost twice as far using the Emote Dash Tech.
+
+Before activating the macro, make sure you bring up your Emote Wheel and aim at any emote. 
+the macro will automaticallly click on the emote and press the keybinds in order for the Super Dash to work.
+
+THIS ONLY TAKES YOU TO THE RIGHT SIDE, if you want it to dash to the left you can edit the macro and change
+the D keybind to your A.
+
+Enjoy your day ! &lt;3</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 26 ms
+KeyDown 7 1
+Delay 24 ms
+KeyDown 20 1
+Delay 18 ms
+LeftUp 1
+Delay 6 ms
+KeyDown 44 1
+Delay 71 ms
+KeyUp 44 1
+Delay 39 ms
+KeyUp 20 1
+Delay 0 ms
+KeyDown 44 1
+Delay 103 ms
+KeyUp 44 1
+Delay 168 ms
+KeyUp 7 1
+Delay 343 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

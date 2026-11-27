@@ -1,0 +1,152 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Фарм 2х спотов за лучника
+
+Бегает по 2м спотам, до орла и петомца + принимает пати от исы
+Растановка скиллов:
+ф1 - некст таргет
+ф2 - ливень
+ф3 - торнадо
+ф4 - дождь
+ф5 - точный выстрел 
+ф6 - скоростной выстрел
+ф7 - Роза
+ф8 - автоатака
+ф9 - прыжок вперед
+ф10 - игрвой макрос на таргет орла
+ф11 - игровой макрос на таргет питомца
+ф12 - инстинкт
+
+79 строка макроса - калибруем количество циклов спама скиллов на споте(по умолчанию 40)
+132 строка макроса - калибруем количество циклов спама скиллов на споте(по умолчанию 40)
+21 строка - калибруем количество мс, сколько бежать до орла(по умолчанию 2000(2секунду))
+21 строка - калибруем количество мс, сколько бежать до пета(по умолчанию 2000(2секунду))
+
+Так же на 116 и 51 строка стоит нажатие ЛКМ, чтобы можно было принимать пати от исы</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 0 ms
+KeyDown 67 1
+Delay 15 ms
+KeyUp 67 1
+Delay 2000 ms
+KeyDown 65 1
+Delay 15 ms
+KeyUp 65 1
+Delay 2000 ms
+KeyDown 66 1
+Delay 15 ms
+KeyUp 66 1
+Delay 15 ms
+KeyDown 67 1
+Delay 15 ms
+KeyUp 67 1
+Delay 15 ms
+KeyDown 65 1
+Delay 15 ms
+KeyUp 65 1
+Delay 0 ms
+Delay 0 ms
+KeyDown 58 1
+Delay 15 ms
+KeyUp 58 1
+Delay 15 ms
+KeyDown 59 1
+Delay 15 ms
+KeyUp 59 1
+Delay 15 ms
+KeyDown 60 1
+Delay 15 ms
+KeyUp 60 1
+Delay 15 ms
+KeyDown 61 1
+Delay 15 ms
+KeyUp 61 1
+Delay 15 ms
+KeyDown 62 1
+Delay 15 ms
+KeyUp 62 1
+Delay 15 ms
+KeyDown 63 1
+Delay 15 ms
+KeyUp 63 1
+Delay 15 ms
+KeyDown 64 1
+Delay 15 ms
+KeyUp 64 1
+Delay 15 ms
+GoWhile 23 40
+Delay 20 ms
+Delay 0 ms
+KeyDown 69 1
+Delay 10 ms
+KeyUp 69 1
+Delay 10 ms
+Delay 0
+KeyDown 68 1
+Delay 15 ms
+KeyUp 68 1
+Delay 2000 ms
+KeyDown 65 1
+Delay 15 ms
+KeyUp 65 1
+Delay 2000 ms
+KeyDown 66 1
+Delay 15 ms
+KeyUp 66 1
+Delay 15 ms
+KeyDown 68 1
+Delay 15 ms
+KeyUp 68 1
+Delay 15 ms
+KeyDown 65 1
+Delay 15 ms
+KeyUp 65 1
+Delay 0
+Delay 0
+KeyDown 58 1
+Delay 15 ms
+KeyUp 58 1
+Delay 15 ms
+KeyDown 59 1
+Delay 15 ms
+KeyUp 59 1
+Delay 15 ms
+KeyDown 60 1
+Delay 15 ms
+KeyUp 60 1
+Delay 15 ms
+KeyDown 61 1
+Delay 15 ms
+KeyUp 61 1
+Delay 15 ms
+KeyDown 62 1
+Delay 15 ms
+KeyUp 62 1
+Delay 15 ms
+KeyDown 63 1
+Delay 15 ms
+KeyUp 63 1
+Delay 15 ms
+KeyDown 64 1
+Delay 15 ms
+KeyUp 64 1
+Delay 15 ms
+GoWhile 76 40
+Delay 0
+KeyDown 69 1
+Delay 10 ms
+KeyUp 69 1
+Delay 10 ms
+Delay 0</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

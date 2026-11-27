@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос новый для зоникс крафта (писали пол вайпа :D) Скачивайте пока есть
+ну и для полного описания - скачиваем макрос, переходим в вкладку A4TECH в BotMek , проверяем наличие макроса , переходим в клавиши , ставим на удобную вам клавишу , играем )
+макрос работает на свап 1 / 3 , кпс от 18 до -22. Как-то так</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+Delay 1 ms
+LeftDown 1
+Delay 12 ms
+LeftUp 1
+Delay 13 ms
+LeftDown 1
+Delay 11 ms
+LeftDown 1
+Delay 11 ms
+LeftUp 1
+Delay 10 ms
+LeftUp 1
+Delay 9 ms
+KeyDown 32 1
+Delay 1 ms
+KeyUp 32 1
+Delay 1 ms
+RightDown 1
+Delay 4 ms
+RightUp 1
+Delay 5 ms
+LeftDown 1
+Delay 8 ms
+LeftUp 1
+Delay 8 ms
+LeftUp 1
+Delay 7 ms
+LeftUp 1
+Delay 6 ms
+LeftUp 1
+Delay 9 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

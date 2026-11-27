@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Пробовал различные манипуляции с таймингом, в резуьтате вот что полчилось. Макрос в полне скоростной, можно изпользовать как прокликом, так и зажимом,</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 29 ms
+LeftUp 1
+KeyDown 32 1
+Delay 11 ms
+KeyUp 32 1
+KeyDown 30 1
+Delay 11 ms
+KeyUp 30 1
+Delay 438 ms</Syntax>
+    </KeyDown>
+    <Software>Point Blank</Software>
+  </DefaultMacro>
+</Root>

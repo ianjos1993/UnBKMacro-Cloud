@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major>jujutsu shenanigans</Major>
+    <Description>this macro will do 100% honored one black flash on the game jujutsu shenanigans in roblox.
+
+if u dont know how to do it without macros, its: 2 then wait 0.6 seconds then R. if its tough for you, this macro is here!
+</Description>
+    <Comment>good</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 189 ms
+KeyUp 31 1
+Delay 887 ms
+KeyDown 21 1
+Delay 119 ms
+KeyUp 21 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

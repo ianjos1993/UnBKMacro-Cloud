@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>Rocket League - Power Slide Practice</Major>
+    <Description>The purpose of this macro is to practice power slide control in Rocket League. In order to automatically drift in circles, it causes the car to accelerate, turn left, and apply the handbrake. Nothing needs to be touched; it simply loops on its own.
+
+It's excellent for warming up in Free Play or for improving your turning and drifting skills while boosting. The macro executes for a few seconds, pauses for a moment, and then resumes. Very helpful if you want to practice movement or develop muscle memory without keeping your hands on the keyboard.
+
+
+Uses a keyboard and mouse to operate on a PC. No additional setup is required. It's a straightforward macro that can help players of all skill levels relax while improving their control.
+</Description>
+    <Comment>The purpose of this macro is to assist players in honing their drifting (power slide) control in free play. For warming up or practicing without using your hands, it's incredibly easy yet effective. I tested it using a PC keyboard, and it functions flawlessly. Comments are welcome!</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+KeyDown 4 1
+KeyDown 44 1
+Delay 5000 ms
+KeyUp 26 1
+KeyUp 4 1
+KeyUp 44 1
+Delay 1000 ms
+GoWhile 1 2</Syntax>
+    </KeyDown>
+    <Software>Rocket League</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,56 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автооткрытие сундуков на сервере streamcraft в режиме "Путь героя". Позволяет быстро и автономно открывать сундуки на сервере в зацикленном режиме. Макрос - ЛКМ- ПКМ(Нажать открыть)-Закрыть сундук-повторить. Использовать в разрешении экрана 1920 х 1080</Description>
+    <Comment>Комментарий для модератора,
+Скрипт загружен в целях продвижения использования на сервере игроками. Сервер https://streamcraft.net/ Режим "Путь героя"</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 2 ms
+MoveTo 960 528
+Delay 10 ms
+MoveTo 961 530
+Delay 16 ms
+MoveTo 960 527
+Delay 3 ms
+MoveTo 960 527
+Delay 0 ms
+RightUp 1
+Delay 11 ms
+MoveTo 960 528
+Delay 14 ms
+MoveTo 960 536
+Delay 6 ms
+MoveTo 960 543
+Delay 8 ms
+MoveTo 959 551
+Delay 7 ms
+MoveTo 959 560
+Delay 8 ms
+Delay 7 ms
+MoveTo 948 668
+Delay 9 ms
+MoveTo 945 675
+Delay 9 ms
+MoveTo 944 678
+Delay 101 ms
+LeftDown 1
+Delay 0 ms
+MoveTo 944 679
+Delay 39 ms
+MoveTo 944 680
+Delay 31 ms
+LeftUp 1
+KeyDown 41 1
+Delay 99 ms
+KeyUp 41 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

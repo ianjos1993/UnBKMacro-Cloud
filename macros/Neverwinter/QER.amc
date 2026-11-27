@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Делается под игру Невервинтер но можно использовать везде где есть такие кнопки. 
+Но я мало встречал игр где за способности отвечали лишь эти три
+Моментальное прожатие всех навыков, особенно эффективно если на Q стоит навык перемещения по типу Прыжок за спину Вора. E и R добивающие навыки. А затем сразу отступить</Description>
+    <Comment>Поместите сами куда хотите</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Невервинтер Онлайн</Software>
+  </DefaultMacro>
+</Root>

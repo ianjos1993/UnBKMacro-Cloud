@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Basically 0 recoil for Twitch F2
+
+--Attatchments--
+Sight: ACOG
+Barrel: Suppressor
+
+--Settings--
+Sens: X|8-12 Y|8-12
+ADS: 2.5|60
+
+MAKE SURE THAT THE DRIVER IS ON OR IT WON'T WORK
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 16 ms
+MoveR 0 28
+Delay 2 ms
+MoveR 0 10
+Delay 1 ms
+MoveR 0 3
+Delay 1 ms
+MoveR -1 1
+LeftUp 1
+Delay 14 ms</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

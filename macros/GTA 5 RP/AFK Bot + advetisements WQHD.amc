@@ -1,0 +1,84 @@
+<Root>
+  <DefaultMacro>
+    <Major>AFK Bot for GrandRP 2560 x 1440 WQHD</Major>
+    <Description>With this macro you can be AFK on the GrandRP server and at the same time place ads every 30 minutes through Lifeinvader.
+
+Only works with 2560 x 1440 WQHD resolution.
+
+The ad making section needs exacly 7 seconds
+
+A random delay of 0-20 sec before the ad is set, can be replaced by an standard delay of 10 sec.
+
+If you set the repetitions to 8 in line 44, the macro sends a advetisements every 60 minutes +- a few seconds. 
+Default is every 30min
+If you change the value of the repetitions by one, the time increases or decreases by exacly 5 minutes. 
+
+By default, the program will advertise 4 times or 2 hours, which can be changed in line 45. When the advertising phase is over, the macro will only act as an AFK bot until the macro is switched off.
+
+I recommend using AKF bots in closed areas like in your appartement, because there you most likely wont be kicked.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 450 ms
+KeyUp 26 1
+Delay 100 ms
+KeyDown 22 1
+Delay 450 ms
+KeyUp 22 1
+Delay 289 s
+Delay 0 20 s
+//Writing an advertizement
+KeyDown 14 1
+Delay 50 ms
+KeyUp 14 1
+Delay 2000 ms
+MoveTo 1245 814
+Delay 50 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 1300 ms
+KeyDown 224 1
+KeyDown 25 1
+KeyUp 224 1
+KeyUp 25 1
+Delay 1200 ms
+MoveTo 773 749
+Delay 50 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 200 ms
+KeyDown 41 1
+Delay 50 ms
+KeyUp 41 1
+Delay 2000 ms
+KeyDown 26 1
+Delay 450 ms
+KeyUp 26 1
+Delay 100 ms
+KeyDown 22 1
+Delay 450 ms
+KeyUp 22 1
+Delay 299 s
+GoWhile 36 4
+GoWhile 1 3
+KeyDown 26 1
+Delay 450 ms
+KeyUp 26 1
+Delay 100 ms
+KeyDown 22 1
+Delay 450 ms
+KeyUp 22 1
+Delay 299 s
+GoWhile 46 86400000</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

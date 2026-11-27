@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major>Мгновенное строение на T</Major>
+    <Description>Мгновенное строение на T в фортнайт. После нажатия T ставится сразу стенка, пол, конус или лестница смотря на ,что бинд клавиши.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 2 ms
+KeyUp 23 1
+LeftDown 1
+Delay 2 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

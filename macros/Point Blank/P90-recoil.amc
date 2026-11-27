@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос предназначен для того, чтобы убрать отдачу с P90, в простонародье так называемый "петух", всё что вам надо забиндить макрос на удобную клавишу и дальше он всё сделает за вас в плане отдачи, играем, наслаждаемся, побеждаем)</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 63 ms
+LeftUp 1
+Delay 63 ms
+KeyDown 15 1
+Delay 63 ms
+KeyUp 15 1
+Delay 63 ms
+MoveR 0 0
+Delay 63 ms
+LeftDown 1
+Delay 63 ms
+LeftUp 1
+Delay 63 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

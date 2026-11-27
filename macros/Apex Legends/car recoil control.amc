@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major>контроль отдачи на оружие car</Major>
+    <Description>макрос который поможет вам котролировать отдучу на пистолет пулемете кар .прост в использование дастаточно зажать правую кнопу мыши и вести за целью .</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 11 ms
+MoveR 1 0
+Delay 11 ms
+MoveTo 0 1
+Delay 11 ms
+MoveR 2 -2
+Delay 11 ms
+MoveTo 1 2
+Delay 11 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

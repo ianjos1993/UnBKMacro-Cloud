@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major>Макрос на ауг</Major>
+    <Description>Макрос на ауг можно для любых перок. Просто загружаете макрос на левую кнопку мыши или как вам будет удобнее и зажимаете, но при этом отпускаете мышку вниз и всё</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 17 ms
+LeftUp 1
+MoveR 0 0
+MoveR -3 0
+MoveR 3 0</Syntax>
+    </KeyDown>
+    <Software>Point Blank</Software>
+  </DefaultMacro>
+</Root>

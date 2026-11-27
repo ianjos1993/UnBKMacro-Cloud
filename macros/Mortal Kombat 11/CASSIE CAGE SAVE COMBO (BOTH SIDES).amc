@@ -1,0 +1,53 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Хорошая для спама комба, т.к. в блок мы не теряем кадров. Старт у нее более чем быстрый. Но комба не имбовая. Первый удар - хай. Если удалось обойти блок, что можно сразу же продавить удар ногой, чтобы довести комбу до более сочного дамага. У корнера дважды можно прожанглировать, получив 202 урона.
+
+116 урона (2 удара).
+177 урона будет с ногой BF3.
+
+Пресет:
+-BLB-118: Энергетический взрыв
+-Сияющая нога в полете
+
+Старт: 8 кадров
+Восстановление: 20
+В блок: 0
+
+Управление:
+1-J
+2-K
+3-L
+4-:
+Захват - U
+AMP - SHIFT
+WASD (Вверх, влево, вниз, вправо)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//Маршировка
+KeyDown 15 1
+Delay 30 ms
+KeyUp 15 1
+Delay 30 ms
+KeyDown 51 1
+Delay 30 ms
+KeyUp 51 1
+Delay 150 ms
+KeyDown 44 1
+Delay 30 ms
+KeyDown 12 1
+Delay 30 ms
+KeyUp 12 1
+Delay 64
+KeyUp 44 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Mortal Kombat 11</Software>
+  </DefaultMacro>
+</Root>

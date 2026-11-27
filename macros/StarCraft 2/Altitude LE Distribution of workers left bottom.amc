@@ -1,0 +1,159 @@
+<Root>
+  <DefaultMacro>
+    <Major>F6</Major>
+    <Description>Заказывает рабочего, распределеят всех рабочих к ближайшему минералу при появлении на левой нижней точке появления на карте "Altitude LE", распределение рабочих даёт преимущество, а именно на 45 минералов вы будете раньше вашего противника и ваш новый рабочий сделается быстрей.
+Биндит главное здание на цифру "6"
+
+Рекомендую назначить макрос на клавишу "F6"
+Для корректной работы макроса требуется:
+Добавление в группу 6 назначить на "Shift+6"
+Выбор личинки назначить на букву "Q"
+Заказ рабочего, КСМ или зонда назначить на букву "Q"
+Иметь разрешение экрана 1920 x1080
+Появиться на левой нижней точке появления на вышеуказаной карте.
+
+Инструкция: Активировать макрос сразу после начала игры 1 раз.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 982 446
+Delay 2
+LeftDown 1
+Delay 2
+LeftUp 1
+Delay 2
+KeyDown 20 1
+Delay 2
+KeyUp 20 1
+Delay 2
+KeyDown 20 1
+Delay 2
+KeyUp 20 1
+Delay 2
+MoveTo 894 572
+Delay 2
+LeftDown 1
+Delay 2
+MoveTo 981 621
+Delay 2
+LeftUp 1
+Delay 2
+MoveTo 626 706
+Delay 2
+RightDown 1
+Delay 2
+RightUp 1
+Delay 2
+MoveTo 847 591
+Delay 2
+LeftDown 1
+Delay 2
+MoveTo 768 579
+Delay 2
+LeftUp 1
+Delay 2
+MoveTo 550 645
+Delay 2
+RightDown 1
+Delay 2
+RightUp 1
+Delay 2
+MoveTo 792 524
+Delay 2
+LeftDown 1
+Delay 2
+LeftUp 1
+Delay 2
+MoveTo 577 535
+Delay 2
+RightDown 1
+Delay 2
+RightUp 1
+Delay 2
+MoveTo 785 472
+Delay 2
+LeftDown 1
+Delay 2
+LeftUp 1
+Delay 2
+MoveTo 517 478
+Delay 2
+RightDown 1
+Delay 2
+RightUp 1
+Delay 2
+MoveTo 790 429
+Delay 2
+LeftDown 1
+Delay 2
+LeftUp 1
+Delay 2
+MoveTo 577 432
+Delay 2
+RightDown 1
+Delay 2
+RightUp 1
+Delay 2
+MoveTo 795 381
+Delay 2
+LeftDown 1
+Delay 2
+LeftUp 1
+Delay 2
+MoveTo 517 381
+Delay 2
+RightDown 1
+Delay 2
+RightUp 1
+Delay 2
+MoveTo 806 339
+Delay 2
+LeftDown 1
+Delay 2
+MoveTo 770 276
+Delay 2
+LeftUp 1
+Delay 2
+MoveTo 621 286
+Delay 2
+RightDown 1
+Delay 2
+RightUp 1
+Delay 2
+MoveTo 852 305
+Delay 2
+LeftDown 1
+Delay 2
+MoveTo 925 279
+Delay 2
+LeftUp 1
+Delay 2
+MoveTo 674 205
+Delay 2
+RightDown 1
+Delay 2
+RightUp 1
+Delay 2
+MoveTo 984 430
+Delay 2
+LeftDown 1
+Delay 2
+LeftUp 1
+Delay 2
+KeyDown 225 1
+Delay 2
+KeyDown 35 1
+Delay 2
+KeyUp 35 1
+Delay 2
+KeyUp 225 1
+Delay 2</Syntax>
+    </KeyDown>
+    <Software>StarCraft 2</Software>
+  </DefaultMacro>
+</Root>

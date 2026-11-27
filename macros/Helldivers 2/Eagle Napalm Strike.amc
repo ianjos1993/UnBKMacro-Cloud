@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major>Орлиный напалмовый удар</Major>
+    <Description>Вызывает Орлинный удар
+Для избежание ошибок перенастроить клавишы вызова стратагем на стрелочки на клавиатуре.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 35
+KeyDown 82 1
+Delay 35
+KeyUp 82 1
+Delay 35
+KeyDown 79 1
+Delay 35
+KeyUp 79 1
+Delay 35
+KeyDown 81 1
+Delay 35
+KeyUp 81 1
+Delay 35
+KeyDown 82 1
+Delay 35
+KeyUp 82 1
+Delay 35
+KeyUp 224 1
+Delay 35</Syntax>
+    </KeyDown>
+    <Software>Helldivers 2</Software>
+  </DefaultMacro>
+</Root>

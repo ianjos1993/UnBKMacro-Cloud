@@ -1,0 +1,195 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос позволяет выполнять stable combo за Heihachi.
+Видео демонстрации работы макроса: https://youtu.be/519pseUOZL0
+
+Хейхачи Мисима — один из главных персонажей вселенной Tekken. Он является одним из четырёх персонажей (как и Пол Феникс, Нина Уильямс и Йошимитсу), которые появлялись во всех играх серии. Кроме того, Хейхачи является финальным боссом в Tekken и Tekken 4. Также, как и Йошимитсу, Хейхачи появляется в серии игр Soul, а именно, в качестве гостя, в игре SoulCalibur II для консоли PlayStation 2. Герой появляется как открываемый персонаж и противник в игре Anna Kournikova’s Smash Court Tennis для PlayStation (наряду с другими героями Namco) и Smash Court Tennis Pro Tournament 2. Он также появляется в качестве гостя в ролевой игре Tales of the Abyss и головоломке Pac-Man Fever. В игре-кроссовере Namco × Capcom Хейхачи появляется как один из персонажей, представляющий вселенную Namco. Он также появляется в файтинге Street Fighter X Tekken со своим домашним животным Кумой. Игровым персонажем он выступает в PlayStation All-Stars Battle Royale и Project X Zone.
+
+Тестирование макроса проводились на последнем патче игры на 10.11.2023 (5.01 патч)
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#heihachitekken7 #tekken7 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 29 ms
+KeyDown 7 1
+Delay 69 ms
+KeyUp 22 1
+Delay 50 ms
+KeyDown 74 1
+Delay 180 ms
+KeyUp 74 1
+Delay 300 ms
+KeyUp 7 1
+Delay 109 ms
+KeyDown 22 1
+Delay 39 ms
+KeyDown 7 1
+Delay 1489 ms
+KeyUp 22 1
+Delay 70 ms
+KeyUp 7 1
+Delay 120 ms
+KeyDown 7 1
+Delay 50 ms
+KeyUp 7 1
+Delay 39 ms
+KeyDown 22 1
+Delay 30 ms
+KeyDown 7 1
+Delay 29 ms
+KeyDown 77 1
+Delay 50 ms
+KeyUp 22 1
+Delay 10 ms
+KeyUp 77 1
+Delay 29 ms
+KeyUp 7 1
+Delay 39 ms
+KeyDown 77 1
+Delay 70 ms
+KeyUp 77 1
+Delay 569 ms
+KeyDown 7 1
+Delay 80 ms
+KeyDown 74 1
+Delay 59 ms
+KeyUp 74 1
+Delay 90 ms
+KeyDown 74 1
+Delay 90 ms
+KeyDown 76 1
+Delay 69 ms
+KeyUp 74 1
+Delay 30 ms
+KeyUp 76 1
+Delay 60 ms
+KeyDown 76 1
+Delay 80 ms
+KeyUp 76 1
+Delay 70 ms
+KeyDown 76 1
+Delay 120 ms
+KeyUp 76 1
+Delay 300 ms
+KeyUp 7 1
+Delay 79 ms
+KeyDown 4 1
+Delay 60 ms
+KeyDown 7 1
+Delay 40 ms
+KeyUp 4 1
+Delay 40 ms
+KeyDown 74 1
+Delay 99 ms
+KeyDown 76 1
+Delay 70 ms
+KeyUp 74 1
+Delay 20 ms
+KeyUp 76 1
+Delay 20 ms
+KeyUp 7 1
+Delay 40 ms
+KeyDown 76 1
+Delay 80 ms
+KeyDown 22 1
+Delay 0 ms
+KeyUp 76 1
+Delay 19 ms
+KeyDown 7 1
+Delay 699 ms
+KeyUp 22 1
+Delay 110 ms
+KeyUp 7 1
+Delay 110 ms
+KeyDown 7 1
+Delay 60 ms
+KeyUp 7 1
+Delay 49 ms
+KeyDown 7 1
+Delay 249 ms
+KeyDown 22 1
+Delay 19 ms
+KeyDown 73 1
+Delay 60 ms
+KeyUp 73 1
+Delay 70 ms
+KeyDown 73 1
+Delay 29 ms
+KeyUp 22 1
+Delay 20 ms
+KeyUp 73 1
+Delay 29 ms
+KeyUp 7 1
+Delay 80 ms
+KeyDown 22 1
+Delay 30 ms
+KeyDown 7 1
+Delay 369 ms
+KeyUp 22 1
+Delay 79 ms
+KeyUp 7 1
+Delay 110 ms
+KeyDown 7 1
+Delay 89 ms
+KeyUp 7 1
+Delay 30 ms
+KeyDown 22 1
+Delay 40 ms
+KeyDown 7 1
+Delay 60 ms
+KeyDown 77 1
+Delay 60 ms
+KeyUp 77 1
+Delay 0 ms
+KeyUp 22 1
+Delay 19 ms
+KeyUp 7 1
+Delay 40 ms
+KeyDown 77 1
+Delay 80 ms
+KeyUp 77 1
+Delay 89 ms
+KeyDown 74 1
+Delay 409 ms
+KeyDown 73 1
+Delay 90 ms
+KeyUp 73 1
+Delay 90 ms
+KeyDown 73 1
+Delay 80 ms
+KeyUp 73 1
+Delay 60 ms
+KeyDown 73 1
+Delay 150 ms
+KeyUp 73 1
+Delay 50 ms
+KeyUp 74 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 7</Software>
+  </DefaultMacro>
+</Root>

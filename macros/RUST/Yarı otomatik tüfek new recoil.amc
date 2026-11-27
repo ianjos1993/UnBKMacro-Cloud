@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Yarı otomatik tüfek (S.A.R ) new recoil hassiyet 0.45 görüş alanı FOV 80 çözünürlük 720p dir sekme payı çok çok azdır.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 9 ms
+MoveR 0 2
+Delay 9 ms
+MoveR 0 2
+Delay 9 ms
+MoveR 0 2
+Delay 9 ms
+MoveR 0 2
+Delay 9 ms
+MoveR 0 2
+Delay 9 ms
+MoveR 0 2
+Delay 9 ms
+LeftUp 1
+Delay 12 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

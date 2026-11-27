@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Все что надо для ПП и варка
+Разбить на два игровых макроса, а затем все выставить как удобно.
+Использую Ф10(комбо бафы)
+Использую Ф9 (подбор баф под инсту)
+Использую Ф8 (ПОВ или КОВ)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 67 1
+Delay 100 ms
+KeyUp 67 1
+Delay 3488 ms
+KeyDown 66 1
+Delay 111 ms
+KeyUp 66 1
+Delay 22528 ms
+KeyDown 65 1
+Delay 119 ms
+KeyUp 65 1
+Delay 280744 ms
+KeyDown 65 1
+Delay 87 ms
+KeyUp 65 1
+Delay 280744 ms
+KeyDown 65 1
+Delay 95 ms
+KeyUp 65 1
+Delay 280718 ms
+KeyDown 65 1
+Delay 151 ms
+KeyUp 65 1
+Delay 251119 ms
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

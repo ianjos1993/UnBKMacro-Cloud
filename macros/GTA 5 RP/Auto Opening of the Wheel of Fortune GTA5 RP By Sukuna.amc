@@ -1,0 +1,60 @@
+<Root>
+  <DefaultMacro>
+    <Major>Telegram : @sukunasoft</Major>
+    <Description>Макрос будет каждые 10минут открывать колесо удачи 500 повторений (83+ часов на автомате работать)
+
+Макрос работает на разрешении 1920x1080 в полноекранном режиме.
+Если что-то не так вы всегда можете донастроить под себя.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 82 1
+KeyDown 64 1
+Delay 64
+KeyUp 64 1
+Delay 64
+Delay 64
+KeyUp 82 1
+Delay 1 s
+MoveTo 1320 731
+Delay 1 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1 s
+MoveTo 606 529
+Delay 1 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1 s
+MoveTo 777 717
+Delay 1 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 20 s
+Delay 5 s
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 2 s
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 5 s
+KeyDown 42 1
+Delay 64
+KeyUp 42 1
+Delay 5 s
+Delay 10 min
+GoWhile 1 500</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

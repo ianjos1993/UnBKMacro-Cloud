@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>normal fortnite macro that fires your shoptgun then resets the edit
+your reset edit bind and edit bind must be g</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 64 ms
+RightUp 1
+Delay 32 ms
+KeyDown 10 1
+Delay 64
+KeyUp 10 1
+Delay 32 ms
+KeyDown 10 1
+Delay 64
+KeyUp 10 1
+Delay 32 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major>Divides the items in the inventory into fixed sizes GrandRP</Major>
+    <Description>With this macro you can create custom portions, to save yourself the work. Very useful if you want to sell things on the marketplace in GrandRP. The macro selects the leftmost slot for splitting, if the resolution is 2560 x 1440, the resolution should be different, please position the mouse position manually. The inventory must be open when you start the macro. Stop the macro when youre done dividing.
+
+Used resolution: 2560 x 1440 WQHD
+
+Set dividing value: 2 
+
+Set position of the item to be split: First slot in your pockets
+
+These values can easily be changed according to your needs, comments are set in the macro where the values should be changed</Description>
+    <Comment>If needed, i will publish a 1920  x 1080 FHD version, if someone has trouble.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 71 330
+//set the point where the items are located
+Delay 150 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 150 ms
+MoveTo 295 473
+Delay 150 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 150 ms
+KeyDown 31 1
+//Set your needed divide value
+Delay 64
+KeyUp 31 1
+//Set the same value as above
+Delay 150 ms
+MoveTo 755 628
+Delay 150 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

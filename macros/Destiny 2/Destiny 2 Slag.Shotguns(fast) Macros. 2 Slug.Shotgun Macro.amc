@@ -1,0 +1,63 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос предназначен для использованния двух слаговых дробовиков с точной рамой в игре Destiny 2.
+С при использовании вам нужно всеголишь использовать прицел и перезаряжать после опустошение магазинов.
+Применений макросу множество, одно из самых популярных это "фарм Темплара в рейде Хрустальный Чертог", где наноситься максимальный урон за выделенное время боссу рейда.
+ВАЖНО: В настройках укажите Бег(Shift) на Удержание! По стандарту не стоит.
+Если вам не подходит этот,  используйте 2 макрос, завязанный на быстрой сменне оружия.
+Спасибо, удачного фарма Страж!
+Профиль: https://botmek.ru/forum/profile/39828-belka/
+ПРИМЕЧАНИЕ: У кого не работает, или работает с проблемами, поднимить задрежу перед нажатием ЛКМ(Выстрелом) По умолчанию стоит 250( Для дробовика с 10ур. Удобства) Поднимайте постепенно по 50 до идеального результата. Советую использовать мод "Удобство дробовиков"
+Без 10р. удобста и мода ставим 600.
+
+The macro is designed to be used with two precision framed slug shotguns in Destiny 2.
+When using, you only need to use the scope and reload after emptying the magazines.
+There are many uses for the macro, one of the most popular is the "Templar farm in the Vault of Glass raid", where maximum damage is dealt to the raid boss in the allotted time.
+IMPORTANT: In the settings, set Run (Shift) to Hold! Not worth it by the standard.
+If this does not suit you, use the 2 macro tied to the quick change of the weapons.
+Thank you, good luck farming the Guardian!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 25 ms
+KeyDown 30 1
+Delay 25 ms
+KeyDown 225 1
+Delay 25 ms
+KeyUp 26 1
+Delay 25 ms
+KeyUp 30 1
+Delay 25 ms
+KeyUp 225 1
+Delay 250 ms
+LeftDown 1
+Delay 25 ms
+LeftUp 1
+Delay 25 ms
+KeyDown 26 1
+Delay 25 ms
+KeyDown 31 1
+Delay 25 ms
+KeyDown 225 1
+Delay 25 ms
+KeyUp 26 1
+Delay 25 ms
+KeyUp 31 1
+Delay 25 ms
+KeyUp 225 1
+Delay 250 ms
+LeftDown 1
+Delay 25 ms
+LeftUp 1
+Delay 25 ms</Syntax>
+    </KeyDown>
+    <Software>Destiny 2</Software>
+  </DefaultMacro>
+</Root>

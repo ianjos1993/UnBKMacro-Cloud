@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для автофарма катакомб
+Оптимальная натяжка копы/лука(1сек)
+Остаётся только время от времени подбирать тотемы(Либо можно использовать для набива перка)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 1 s
+RightUp 1
+Delay 64
+GoWhile 1 1000000</Syntax>
+    </KeyDown>
+    <Software>LavaCraft</Software>
+  </DefaultMacro>
+</Root>

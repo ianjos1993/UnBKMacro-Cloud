@@ -1,0 +1,117 @@
+<Root>
+  <DefaultMacro>
+    <Major>Kuma Armour Combo</Major>
+    <Description>Макрос позволяет выполнять комбо за Kuma с броней.
+Видео демонстрации работы макроса: https://youtu.be/nfMpvPLJcKo
+
+Кума — имя двух персонажей серии Tekken, оба из которых были медведями и телохранителями Хэйхати Мисимы. Кума II — сын оригинального Кумы, который умер от старости после второго турнира King of Iron Fist. В ранних играх Кума Шинкен заимствовал многие элементы из боевого стиля моделей Джека. Однако в более поздних играх искусство стало приобретать некоторую оригинальность: появились уникальные удары и даже режим "охоты", в котором Кума встает на четвереньки для нанесения большего количества ударов. В Tekken 8 Кума использует больше приемов из боевого каратэ стиля Мишима Хейхачи, таких как Кулак Бога Ветра, Апперкот Дракона и Дыхание Демона.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 13.03.2024
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#kumatekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 9 ms
+KeyDown 7 1
+Delay 50 ms
+KeyDown 74 1
+Delay 120 ms
+KeyDown 73 1
+Delay 39 ms
+KeyUp 22 1
+Delay 40 ms
+KeyUp 74 1
+Delay 40 ms
+KeyUp 73 1
+Delay 9 ms
+KeyUp 7 1
+Delay 60 ms
+KeyDown 73 1
+Delay 130 ms
+KeyUp 73 1
+Delay 390 ms
+KeyDown 4 1
+Delay 79 ms
+KeyDown 74 1
+Delay 70 ms
+KeyUp 74 1
+Delay 100 ms
+KeyDown 74 1
+Delay 70 ms
+KeyUp 74 1
+Delay 90 ms
+KeyDown 74 1
+Delay 50 ms
+KeyUp 74 1
+Delay 100 ms
+KeyDown 74 1
+Delay 50 ms
+KeyUp 74 1
+Delay 110 ms
+KeyDown 74 1
+Delay 59 ms
+KeyUp 74 1
+Delay 110 ms
+KeyDown 74 1
+Delay 110 ms
+KeyDown 73 1
+Delay 50 ms
+KeyUp 74 1
+Delay 50 ms
+KeyUp 73 1
+Delay 60 ms
+KeyDown 73 1
+Delay 90 ms
+KeyUp 73 1
+Delay 60 ms
+KeyDown 73 1
+Delay 100 ms
+KeyUp 73 1
+Delay 60 ms
+KeyDown 73 1
+Delay 130 ms
+KeyUp 73 1
+Delay 240 ms
+KeyUp 4 1
+Delay 179 ms
+KeyDown 4 1
+Delay 120 ms
+KeyDown 73 1
+Delay 100 ms
+KeyUp 73 1
+Delay 59 ms
+KeyDown 73 1
+Delay 130 ms
+KeyUp 73 1
+Delay 150 ms
+KeyUp 4 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

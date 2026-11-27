@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос резко опускает камеру, бьёт мяч (в следствие чего мяч летит вверх) и так же быстро её возвращает в исходное место. В настройках keyran отключите минимальную задержку. Советую ставить макрос на E. Для данного макроса нужна хорошая реакция, у непривыкшего человека могут возникнуть временные проблемы. В скором времени буду делать задний удар (могу сделать боковые удары, если кому-то понадобится).
+
+Разрешение 1920 на 1080 пикселей (16;9)
+Работает только с шифт локом(shift lock)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR 0 -240
+Delay 1 ms
+MoveR 0 -240
+Delay 1 ms
+MoveR 0 -100
+Delay 1 ms
+MoveR 0 -130
+Delay 1 ms
+MoveR 0 -230
+Delay 12 ms
+MoveR 0 -310
+LeftDown 1
+LeftUp 1
+Delay 15 ms
+MoveR 0 240
+Delay 15 ms
+MoveR 0 240
+Delay 10 ms
+MoveR 0 100
+Delay 10 ms
+MoveR 0 130
+Delay 10 ms
+MoveR 0 230
+Delay 35 ms
+MoveR 0 310
+Delay 40 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

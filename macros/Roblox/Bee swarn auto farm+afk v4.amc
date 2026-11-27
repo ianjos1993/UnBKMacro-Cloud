@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>становитесь где хотите и с какой скоростью, все равно будет собирать :)
+
+и если есть какие-то неполадки то пишите мне я исправлю и буду делать свое дело дальше :)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+KeyDown 26 1
+Delay 1500 ms
+KeyUp 26 1
+Delay 64
+KeyDown 4 1
+Delay 1500 ms
+KeyUp 4 1
+Delay 64
+KeyDown 22 1
+Delay 1500 ms
+KeyUp 22 1
+Delay 64
+KeyDown 7 1
+Delay 1500 ms
+KeyUp 7 1
+Delay 64
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

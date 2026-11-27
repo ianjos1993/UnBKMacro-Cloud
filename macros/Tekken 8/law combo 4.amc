@@ -1,0 +1,97 @@
+<Root>
+  <DefaultMacro>
+    <Major>Law Combo 4</Major>
+    <Description>Макрос позволяет выполнять комбо за Law с лаунчера.
+Видео демонстрации работы макроса: https://youtu.be/k__f7xRUPtU
+
+По сюжету игровой серии, Маршалл Ло представлен как мастер боевых искусств, владеющий рестораном в китайском квартале, который, как и его близкий друг Пол Феникс, имеет финансовые трудности, ставшие его основной мотивацией для участие в турнирах «Король Железного Кулака» на протяжении всех игр Tekken. Будучи известным как «Боевой повар», Маршалл, ко всему прочему, является отцом Фореста Ло. Он принимает участие в первом турнире «Король Железного Кулака» в надежде открыть собственное додзё на призовые деньги, что ему в конечном итоге удаётся, несмотря на проигрыш.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 04.05.2024
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#lawtekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 9 ms
+KeyDown 7 1
+Delay 30 ms
+KeyDown 77 1
+Delay 120 ms
+KeyUp 77 1
+Delay 40 ms
+KeyUp 7 1
+Delay 9 ms
+KeyUp 26 1
+Delay 709 ms
+KeyDown 77 1
+Delay 100 ms
+KeyDown 26 1
+Delay 40 ms
+KeyDown 76 1
+Delay 10 ms
+KeyUp 77 1
+Delay 59 ms
+KeyUp 76 1
+Delay 70 ms
+KeyDown 76 1
+Delay 80 ms
+KeyUp 26 1
+Delay 19 ms
+KeyUp 76 1
+Delay 890 ms
+KeyDown 7 1
+Delay 69 ms
+KeyUp 7 1
+Delay 80 ms
+KeyDown 7 1
+Delay 180 ms
+KeyUp 7 1
+Delay 30 ms
+KeyDown 4 1
+Delay 49 ms
+KeyUp 4 1
+Delay 119 ms
+KeyDown 77 1
+Delay 100 ms
+KeyDown 76 1
+Delay 39 ms
+KeyUp 77 1
+Delay 60 ms
+KeyDown 7 1
+Delay 10 ms
+KeyUp 76 1
+Delay 500 ms
+KeyDown 77 1
+Delay 60 ms
+KeyUp 77 1
+Delay 100 ms
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

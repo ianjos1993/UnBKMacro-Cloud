@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro allows you to perfectly do the black flash by pressing 2 then the left mouse button automatically this can be used during combos but do not double tap it it'll do the move but not the black flash</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 23 ms
+KeyDown 31 1
+Delay 85 ms
+KeyUp 31 1
+Delay 458 ms
+LeftDown 1
+Delay 0 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

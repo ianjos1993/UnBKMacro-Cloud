@@ -1,0 +1,55 @@
+<Root>
+  <DefaultMacro>
+    <Major>AUG A3 SMG</Major>
+    <Description>Kaid's AUG A3 Recoil Script 
+
+Just another pull down script for your favorite hobbie :) 
+
+Feel free to mess with your attatchments as well!
+
+SETUP
+
+Bind macro to left mouse key. Make sure the operation mode is set to the second option.                                                                                              (HOLD UNTIL RELEASED)
+
+FYI
+
+Macro will not work if Keyran Drivers are not installed/activated!
+
+
+
+GAME SETTINGS
+
+Resolution-1920x1080
+
+FOV-85
+
+SenseHorizontal-13
+
+SenseVertical-13
+
+DPI-750
+
+Created by HOODIExSZN
+Enjoy!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 4 ms
+MoveR 0 5
+Delay 4 ms
+MoveR -1 5
+Delay 4 ms
+MoveR 0 5
+Delay 4 ms
+LeftUp 1
+Delay 4 ms</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

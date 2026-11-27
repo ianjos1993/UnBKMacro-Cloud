@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major>Milykdad</Major>
+    <Description>In Basketball Legends, master the court with our advanced Dribble Combo and Perfect Shot Combo combined! This dynamic feature lets you seamlessly execute a series of dribbling moves followed by an impeccable shot, all with precise timing and control. The Dribble Combo ensures you can maneuver past defenders with ease, setting up the perfect opportunity for the Perfect Shot Combo, which guarantees a high-accuracy shot to score points effortlessly. Elevate your gameplay and dominate every match with this powerful combo!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 64 ms
+KeyDown 29 1
+Delay 64
+KeyUp 29 1
+Delay 64
+KeyDown 27 1
+Delay 64
+KeyUp 27 1
+Delay 64
+KeyDown 6 1
+Delay 64
+KeyUp 6 1
+Delay 64
+KeyDown 27 1
+Delay 64
+KeyUp 27 1
+Delay 64
+KeyDown 8 1
+Delay 337 ms
+KeyUp 8 1
+Delay 64 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

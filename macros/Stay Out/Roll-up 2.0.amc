@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major>Быстрый подкат в движении</Major>
+    <Description>Позволяет одним нажатием клавиши делать быстрый удобный подкат, Что бы подкат делался ещё быстрее, нужно упасть с небольшой высоты. Так же можете паралельно нажимать клавиши A D для манса в пвп.</Description>
+    <Comment>Макрос нажимать во время бега на шифте, после подката что бы не потерять скорость сразу нажимайте шифт.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyUp 225 1
+Delay 64
+KeyDown 6 1
+Delay 350 ms
+KeyDown 44 1
+Delay 200 ms
+KeyDown 225 1
+Delay 7 ms
+KeyUp 6 1
+Delay 7 ms
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>Stay Out</Software>
+  </DefaultMacro>
+</Root>

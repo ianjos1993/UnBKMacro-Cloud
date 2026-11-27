@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос автоматичекси бросает зелья регенки и скорости под вас на дуэлях OP в VimeWorld.
+                ВАЖНО:
+1. Работает с разрешением экрана в 1600 х 900
+2. Чуствительность в игре 100
+3. Желательно иметь пинг ниже 60 иначе макрос может начать работать не правильно
+
+По вопросам обращатся:
+Дс - 14tesak_88
+vk - mylterfx</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR 0 -30
+Delay 1 ms
+GoWhile 1 50
+KeyDown 36 1
+Delay 5 ms
+KeyUp 36 1
+Delay 40 ms
+RightDown 1
+Delay 5 ms
+RightUp 1
+Delay 40 ms
+KeyDown 37 1
+Delay 5 ms
+KeyUp 37 1
+Delay 40 ms
+RightDown 1
+Delay 5 ms
+RightUp 1
+Delay 40 ms
+KeyDown 30 1
+Delay 5 ms
+KeyUp 30 1
+Delay 5 ms
+MoveR 0 10
+Delay 1 ms
+GoWhile 24 50</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

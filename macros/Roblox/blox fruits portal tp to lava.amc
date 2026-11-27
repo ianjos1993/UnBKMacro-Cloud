@@ -1,0 +1,59 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>!!!THIS MACRO REQUIRES GRAVITY CANE IN YOUR 3 SLOT AND PORTAL IN YOUR 2 SPOT!!!
+This macro is designed to work with a screen resolution of 1920 x 1080
+
+This will automatically perform a combo to pull your opponent in swap to portal and force them to teleport to the lava in second sea effectively allowing you to one shot them.
+
+If your portal and gravity cane are in different spots you must swap them to slot 2 and 3 or change the macro keys
+
+Made by prox</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 64
+Delay 64
+Delay 128 ms
+KeyUp 32 1
+Delay 128 ms
+KeyDown 29 1
+Delay 256 ms
+KeyUp 29 1
+Delay 256 ms
+KeyDown 31 1
+Delay 256 ms
+KeyUp 31 1
+Delay 256 ms
+KeyDown 29 1
+Delay 256 ms
+KeyUp 29 1
+Delay 512 ms
+KeyDown 6 1
+Delay 256 ms
+KeyUp 6 1
+Delay 256 ms
+MoveTo 647 536
+Delay 50 ms
+MoveTo 645 536
+Delay 50 ms
+MoveTo 645 534
+Delay 500 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 256 ms
+LeftUp 1
+Delay 256 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

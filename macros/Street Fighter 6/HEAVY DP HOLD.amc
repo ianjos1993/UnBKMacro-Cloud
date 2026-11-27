@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>cammy heavy dp hold version</Major>
+    <Description>cammy heavy dp hold version.
+useful for combos.
+kepp holding long  for side swap.
+keep holding short duration for just heavy dp and no side swap</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 20 ms
+KeyDown 7 1
+Delay 20 ms
+KeyUp 7 1
+Delay 20 ms
+KeyDown 7 1
+Delay 20 ms
+KeyDown 94 1
+Delay 40 ms
+KeyUp 7 1
+Delay 60 ms
+KeyUp 22 1
+Delay 30 ms</Syntax>
+    </KeyDown>
+    <Software>Street Fighter 6</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Для рыбалки,чтобы ловить рыбу не мышью,а на правый контрл.так проще и быстрее ловишь...Сам с ним апнул рыбалку до 6ого уровня,на острове рыбалка сложнее и мышкой устаешь.</Description>
+    <Comment>Макрос для рыбалки в gta 5 rp</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 228 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+KeyUp 228 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>
+CREATED ON  1920:1080
+
+What It Is: This technique allows for a quick change in direction mid-air by using mouse input and is particularly useful when dodging or pushing around obstacles.
+
+Practice Manually First: It’s useful to get a feel for manual tap-strafing so you know what works for you in terms of key tapping speed and turn rate.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 10 ms
+KeyUp 44 1
+Delay 1 ms
+KeyDown 26 1
+Delay 100 ms
+KeyUp 26 1
+Delay 1 ms
+KeyDown 7 1
+Delay 50 ms
+KeyDown 7 1
+Delay 50 ms
+KeyDown 7 1
+Delay 50 ms
+KeyDown 7 1
+Delay 50 ms
+MoveR 445 -163
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

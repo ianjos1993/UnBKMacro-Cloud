@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major>No Recoil</Major>
+    <Description>No recoil for AUG A3 that best works if you use it on hold key operation mode while holding until you ~10 Ammo.
+It shoots really fast with 95% Accuracy which makes it usable with the +4 Weapon Control along with +1 rapid fire recoil title for 99% Accuracy.
+Best Used with AUG A3 ES since it shoots with pin-point accuracy because of the lower recoil.
+
+1920x1080 60HZ</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+GoWhile 1 50
+MoveR 0 35
+GoWhile 6 12</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

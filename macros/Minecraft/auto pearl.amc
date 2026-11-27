@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>этот макрос написан для тех кто не желает терять драгоценые секунды во время пвп, макрос придуман для быстрого использования ендер перла что бы все работало коректно  переместите перл в 4 слот или на букву на которую у вас забинжен перл, а меч в 1 слот</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 64 ms
+KeyDown 33 1
+KeyUp 33 1
+Delay 64 ms
+RightDown 1
+RightUp 1
+Delay 64 ms
+KeyDown 30 1
+KeyUp 30 1
+Delay 64 ms
+LeftDown 1
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,49 @@
+<Root>
+  <DefaultMacro>
+    <Major>Аукцион</Major>
+    <Description>Для того чтобы использовать данный макрос нужно:
+1. Выбрать нужный автомобиль на аукционе 
+2. Вернуться в меню аукциона
+3. Навести курсор на раздел "Поиск аукционов"
+4. Запустить макрос</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 88 1
+Delay 40 ms
+KeyUp 88 1
+Delay 300 ms
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 1500 ms
+KeyDown 28 1
+Delay 60 ms
+KeyUp 28 1
+Delay 250 ms
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 10 ms
+KeyDown 88 1
+Delay 10 ms
+KeyUp 88 1
+Delay 10 ms
+KeyDown 88 1
+Delay 10 ms
+KeyUp 88 1
+Delay 64
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 1000 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Forza Horizon 5</Software>
+  </DefaultMacro>
+</Root>

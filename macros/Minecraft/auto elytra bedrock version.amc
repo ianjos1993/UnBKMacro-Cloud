@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>даный макрос создан для того что бы быстро взлетать на елитре. Чтобы макрос работал коректно надо что бы слот 8 9 были забинжены соответствино адльше нужно взять елитру в 9 слот а феерверк в 8.
+ВНИМАНИЕ макрос работает только на бедрок версии майнкрафта</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 54 ms
+KeyDown 38 1
+KeyUp 38 1
+Delay 54 ms
+RightDown 1
+RightUp 1
+Delay 54 ms
+KeyDown 44 1
+KeyUp 44 1
+Delay 2 s
+KeyDown 44 1
+KeyUp 44 1
+Delay 54 ms
+KeyDown 37 1
+KeyUp 37 1
+Delay 54 ms
+RightDown 1
+RightUp 1
+Delay 54 ms
+RightDown 1
+RightUp 1
+Delay 54 ms
+LeftDown 1
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

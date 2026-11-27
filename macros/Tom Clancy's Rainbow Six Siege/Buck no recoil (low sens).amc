@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>This macro works on BUCK AR onlyyyyy!!!!! look in description for what to use</Major>
+    <Description>Play buck AR with 1.5 scope, extended barrel and laser !
+-800 DPI
+-4X /4Y
+-ADS x1    : 40
+-ADS x1.5 : 50
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+MoveR 0 35
+Delay 15 ms
+MoveR 0 40
+Delay 15 ms
+MoveR 0 40
+Delay 15 ms
+MoveR 0 35
+Delay 15 ms
+Goto 2</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

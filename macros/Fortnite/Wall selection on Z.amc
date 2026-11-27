@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос позволит вам отобрать стенку у врага с 0 пинг если у вас высокий пинг и вы не можете отобрать стенку то это не проблема мы с другом пытоались и я отобрал у него 8 стенок из 10! (не 100% конечно но поможет)
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 50 ms
+KeyDown 29 1
+Delay 50
+KeyUp 29 1
+Delay 50</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

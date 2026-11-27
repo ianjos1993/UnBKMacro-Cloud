@@ -1,0 +1,60 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>The BunnyHealHop macro allows players to heal while maintaining mobility, making them harder to hit during combat. By chaining bunny hops and synchronizing crouch movements, you can stay agile while using healing items such as shield cells, medkits, or phoenix kits. This technique is ideal for players who want to survive under pressure or escape while healing.
+
+
+
+
+
+
+Optimal at 1920x1080 resolution (your setup).
+
+FOV: Recommended 100–110 for better awareness.
+
+Ensure a stable frame rate (at least 60 FPS for smooth execution).
+
+
+
+
+Practice manual bunny hops first to understand the timing and mechanics.
+ The macro complements skillful play.
+
+Use the macro in open areas or during retreats to avoid being cornered.
+
+Keep an eye on your healing bar; stop the macro early if healing completes mid-sequence.
+
+Avoid spamming it too frequently to stay under the radar during anti-cheat checks.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 1 ms
+KeyDown 4 1
+Delay 1 ms
+KeyDown 33 1
+Delay 50 ms
+KeyUp 33 1
+Delay 1 ms
+KeyDown 44 1
+Delay 150 ms
+KeyDown 224 1
+Delay 200 ms
+KeyUp 224 1
+Delay 50 ms
+KeyDown 7 1
+Delay 1 ms
+KeyDown 44 1
+Delay 10 ms
+KeyUp 44 1
+KeyUp 7 1
+GoWhile 1 7</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

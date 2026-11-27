@@ -1,0 +1,58 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматическое самоубийство для игры Stalcraft 
+После нажатия клавиши макрос быстро пропишет команду /suicide, что будет очень полезно для ПК-шеров и для связки сталкер-бандит (после самоубийства на вашу сумку вешается таймер на 2 минуты который никто поднять не может, но для этого нужен игрок противоположной фракции в отряде)
+А в остальном будет очень полезно при попадании  в воронку или куда нибудь еще.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 40 1
+Delay 5 ms
+KeyUp 40 1
+Delay 5 ms
+KeyDown 56 1
+Delay 5 ms
+KeyUp 56 1
+Delay 5 ms
+KeyDown 22 1
+Delay 5 ms
+KeyUp 22 1
+Delay 5 ms
+KeyDown 24 1
+Delay 5 ms
+KeyUp 24 1
+Delay 5 ms
+KeyDown 12 1
+Delay 5 ms
+KeyUp 12 1
+Delay 5 ms
+KeyDown 6 1
+Delay 5 ms
+KeyUp 6 1
+Delay 5 ms
+KeyDown 12 1
+Delay 5 ms
+KeyUp 12 1
+Delay 5 ms
+KeyDown 7 1
+Delay 5 ms
+KeyUp 7 1
+Delay 5 ms
+KeyDown 8 1
+Delay 5 ms
+KeyUp 8 1
+Delay 5 ms
+KeyDown 40 1
+Delay 5 ms
+KeyUp 40 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

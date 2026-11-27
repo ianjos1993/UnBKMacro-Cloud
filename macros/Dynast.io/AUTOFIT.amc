@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматическое нажатие на кнопку подбор (у) удобная вещь для игры dynast.io
+Dynast io - Rpg выживание. Очень поможет для подбирания лута т.к у многих тоже есть авто-подборы.
+Сам по себе авто-подбор хорошая штука, и спасибо создателям кейран за такую хорошую программу..
+В этом макросе можно уменшить значение (7) до (0) и авто-подбор станет работать ещё быстрей. И быстрей делать нажатие на кнопку подбора &lt;у&gt;</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы 
+Спасибо тем-кто скачал мой макрос!</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 7 ms
+KeyUp 8 1
+Delay 7 ms
+KeyDown 8 1
+Delay 7 ms
+KeyUp 8 1</Syntax>
+    </KeyDown>
+    <Software>Dynast.IO</Software>
+  </DefaultMacro>
+</Root>

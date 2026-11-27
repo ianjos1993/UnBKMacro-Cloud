@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major>AntonHD</Major>
+    <Description>This is a Marco for GrandRP Oil Rig in the First Skill Level without the 4 Hour Bonus.
+Have Fun with it. It not do the Capcha ! You have to Change the Mouse Data!
+In the Line # 25 Put your Amount in How many Times it would be Repeated.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 293 619
+Delay 64
+LeftDown 1
+Delay 3333 ms
+LeftUp 1
+Delay 64
+MoveTo 602 636
+Delay 64
+LeftDown 1
+Delay 3333 ms
+LeftUp 1
+Delay 64
+MoveTo 899 566
+Delay 64
+LeftDown 1
+Delay 3333 ms
+LeftUp 1
+Delay 64
+MoveTo 1085 618
+Delay 64
+LeftDown 1
+Delay 3333 ms
+LeftUp 1
+Delay 64
+GoWhile 1 15000</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,32 @@
+<Root>
+  <!-- by Britan -->
+  <DefaultMacro>
+    <Major></Major>
+    <Description>НАЗВАНИЕ: Apex Legends Shield Swap. ОПИСАНИЕ: Быстрая замена щита: открыть инвентарь (Tab) -&gt; навести на щит -&gt; клик -&gt; закрыть. Экономит критические секунды в бою. РЕКОМЕНДУЕМАЯ КЛАВИША: Mouse 4 (Side). КАК ИСПОЛЬЗОВАТЬ: Привяжи макрос на кнопку Mouse 4. Стоя над щитом врага нажми Mouse 4 - макрос откроет инвентарь, выберет щит и закроет меню. Однократное выполнение. НАСТРОЙКА: Если инвентарь открывается на другой клавише - замени KeyDown 9 (Tab). АВТОР: by Britan. ЗАПРЕЩЕНО копировать без указания автора.</Description>
+    <Comment>Привязка: Mouse 4 (Side). Режим: однократное. Инструкция: встань над щитом, нажми - мгновенная замена щита.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 30 ms
+KeyUp 9 1
+Delay 50 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 40 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 30 ms
+KeyDown 9 1
+Delay 30 ms
+KeyUp 9 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

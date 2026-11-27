@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>AUG MASTER 
+Зажимной макрос атлетов на ауг,ставишь 4ый скорик у душишь,делали под 144-240гц ,но и не плохо работает и ниже
+</Description>
+    <Comment>3XFIRE
+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1 ms
+KeyDown 13 1
+Delay 54 ms
+KeyUp 13 1
+KeyDown 13 1
+Delay 5 ms
+KeyUp 13 1
+Delay 1 ms
+Delay 1 ms
+Delay 1 ms
+Delay 1 ms
+Delay 1 ms
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Point Blank</Software>
+  </DefaultMacro>
+</Root>

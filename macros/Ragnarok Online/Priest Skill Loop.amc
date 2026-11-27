@@ -1,0 +1,85 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This is a macro I created for my Arch Bishop to auto-skills almost all the passive for parties while training.
+You can follow the parties, without having to click any skills. It is especially useful if you have your own supporting priest, so you do not need to re-click on the main character to follow again after casting buff.
+
+Feel free to change the skills, but I have timed it properly, so my skills can stay through all time. Especially for those with short duration, like Gloria, it was in key S, and will be casted 3 times before repeat on Suffagium which is in key Q. 
+Then the whole loop shall repeat again as Magnificat going to end too. 
+
+Skills level based on below:
+
+Q - Suffagium [Level 3]
+W - Impositio Manus [Level 3]
+E - Magnificat [Level 5]
+R - Cantocandidus [Level 2]
+T - Clementia [Level 2]
+Y - Praefatio [Level 1]
+S - Gloria [Level 3]
+
+This is my first very happy experiment that works in recording macro. Please let me know if you want any other macro, I will be happy to try out making it.
+
+Happy gaming happy leveling. :)</Description>
+    <Comment>Please leave a comment for me to improve and learn more about these.
+
+https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 3084 ms
+KeyDown 20 1
+Delay 96 ms
+KeyUp 20 1
+Delay 1627 ms
+KeyDown 26 1
+Delay 142 ms
+KeyUp 26 1
+Delay 2036 ms
+KeyDown 8 1
+Delay 141 ms
+KeyUp 8 1
+Delay 2660 ms
+KeyDown 21 1
+Delay 115 ms
+KeyUp 21 1
+Delay 802 ms
+KeyDown 21 1
+Delay 69 ms
+KeyUp 21 1
+Delay 2801 ms
+KeyDown 23 1
+Delay 98 ms
+KeyUp 23 1
+Delay 2528 ms
+KeyDown 28 1
+Delay 106 ms
+KeyUp 28 1
+Delay 2514 ms
+KeyDown 22 1
+Delay 124 ms
+KeyUp 22 1
+Delay 19771 ms
+KeyDown 22 1
+Delay 142 ms
+KeyUp 22 1
+Delay 19135 ms
+KeyDown 22 1
+Delay 132 ms
+KeyUp 22 1
+Delay 4860 ms
+KeyDown 20 1
+Delay 133 ms
+KeyUp 20 1
+Delay 14755 ms
+KeyDown 22 1
+Delay 124 ms
+KeyUp 22 1
+Delay 18 s</Syntax>
+    </KeyDown>
+    <Software>Ragnarok</Software>
+  </DefaultMacro>
+</Root>

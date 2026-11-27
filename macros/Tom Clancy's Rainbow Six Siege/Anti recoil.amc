@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Анти отдача убирает практически отдачу на всех видах оружия, ставьте на любую для вас удобную клавишу и вперед в бой 
+Сенса: x-13 y-13
+Разрешение экрана: 1920*1080
+Соотношение сторон; 5:4 
+Fov: 90</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 8 ms
+Delay 16 ms
+MoveR 30 290
+Delay 8 ms
+Delay 16 ms
+MoveR 30 290
+Delay 8 ms
+Delay 16 ms
+MoveR 30 290
+Delay 8 ms
+Delay 16 ms
+MoveR 32 290
+Delay 8 ms
+Delay 16 ms
+MoveR 32 350
+Delay 8 ms
+Delay 16 ms
+MoveR 30 350
+Delay 8 ms
+Delay 16 ms
+MoveR 30 350
+Delay 16 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Для использования макроса, нужно что-бы в слоте был молоток и пистолет. Берем оружие в руку, далее нажимаем на горячую клавишу макроса.
+
+Макрос берет молоток, хукает цель, и ударяет. Используйте что-бы быстро снять фриз с тимейта</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>WheelUp 1
+LeftDown 1
+Delay 100 ms
+RightDown 1
+Delay 120 ms
+LeftUp 1
+Delay 20
+WheelDown 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>DDnet</Software>
+  </DefaultMacro>
+</Root>

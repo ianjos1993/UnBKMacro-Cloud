@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>LLITepBeH</Major>
+    <Description>Собирает ресурсы по зажатой кнопке. Бинд советую ставить на F. Для более эффективного использования необходимо скроллить колёсико мыши вниз.</Description>
+    <Comment>Лутает сундуки, растения и прочие ресурсы просто по зажатой клавише.</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 30 ms
+KeyUp 9 1
+Delay 5 ms
+KeyDown 9 1
+Delay 20 ms
+KeyUp 9 1
+Delay 5 ms
+KeyDown 9 1
+Delay 20 ms
+KeyUp 9 1
+Delay 5 ms
+KeyDown 9 1
+Delay 87 ms
+KeyUp 9 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

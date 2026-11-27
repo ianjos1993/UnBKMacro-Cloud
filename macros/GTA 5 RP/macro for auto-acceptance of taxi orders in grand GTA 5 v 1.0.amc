@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major>Моментальное принятие заказов в такси. Никто не успеет забрать твой заказ.ДОПИЛ</Major>
+    <Description>Моментальное принятие заказов в такси. Никто не успеет забрать твой заказ.Допиленная версия ................</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 13 1
+Delay 64
+KeyUp 13 1
+Delay 500 ms
+KeyDown 31 1
+KeyUp 31 1
+Delay 64
+MoveTo 1128 481
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

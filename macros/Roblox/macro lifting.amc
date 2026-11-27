@@ -1,0 +1,49 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>для Korone (korone - платформа которая работает на движке роблокс)
+плейс - Weight Lifting Simulator
+
+разрешение экрана лучше вего использовать 1920x1080
+
+этот макрос позволит вам фармить перерождение, желательно использовать фулл скрин
+
+есть некоторые проблемы с наведением курсора, но это проблемы со стороны korone и их никак не починить
+
+(будет работать если вы получаете нужное кол-во силы за 1 раз для перерождения)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 300 ms
+MoveTo 119 572
+Delay 300 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 100 ms
+MoveTo 967 692
+Delay 1 s
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 7 s</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

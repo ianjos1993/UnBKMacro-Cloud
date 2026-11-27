@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>INXeryr</Major>
+    <Description>Макрос для штурмовой винтовки Зофии.
+
+DPI(Горизонтально) - 45 из 100
+DPI(Вертикально) - 35 из 100</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+LeftDown 1
+Delay 8 ms
+MoveR 0 5
+Delay 8 ms
+MoveR 3 5
+Delay 16 ms
+MoveR 1 1
+LeftUp 1
+Delay 16 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

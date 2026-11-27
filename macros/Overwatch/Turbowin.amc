@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Суть макроса такова - хук, выстрел на лкм и ближняя атака ( f ). Не работает на самой максимальной дальности, т.к на средней или ближней дистанции слишком долго бы выполнялось комбо.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1100 ms
+LeftDown 1
+Delay 35 ms
+LeftUp 1
+Delay 35 ms
+KeyDown 9 1
+Delay 35
+KeyUp 9 1
+Delay 35</Syntax>
+    </KeyDown>
+    <Software>Overwatch</Software>
+  </DefaultMacro>
+</Root>

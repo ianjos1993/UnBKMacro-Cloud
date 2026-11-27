@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Это обнавленная версия макроса Раскачка на аптечках потдержки V2  экономит аптечки и дает больше опыта антирадом не надо пользоваться при раскачке 
+
+покупаете аптечки и выставляете на цыфру 4 в меню быстрого использования, встаете в аномалию электра что бы она наносила урон 50 едениц и запускаете макрос все происходит автоматический только ходите сами докупаете аптечки и раскидываете перки в поддержке до мозгов
+
+поставте лайк если не трудно</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 2632 ms
+KeyDown 33 1
+Delay 136 ms
+KeyUp 33 1
+Delay 6848 ms
+KeyDown 33 1
+Delay 192 ms
+KeyUp 33 1</Syntax>
+    </KeyDown>
+    <Software>Stalker online</Software>
+  </DefaultMacro>
+</Root>

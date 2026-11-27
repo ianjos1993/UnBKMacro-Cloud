@@ -1,0 +1,308 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Разбор шмоток на кдз в 2 окна и слив флетты в супер навык
+Для работы макроса должно быть 3 сумки 48 слотов, разбирается с 3 слота в инвентаре, очень быстро, потом сливает флетту в суп и альтабается на 2 окно и делает тоже самое, мега фарм кдз
+чтобы сливалась флетта надо окошко с навыками подвести к сумке</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1560 902
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+MoveTo 1579 903
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+MoveTo 1631 258
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+KeyDown 88 1
+Delay 200
+KeyUp 88 1
+Delay 200
+MoveTo 1560 902
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+MoveTo 1579 903
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+MoveTo 1631 258
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+KeyDown 88 1
+Delay 200
+KeyUp 88 1
+Delay 200
+MoveTo 1560 902
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+MoveTo 1579 903
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+MoveTo 1631 258
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+KeyDown 88 1
+Delay 200
+KeyUp 88 1
+Delay 200
+MoveTo 1560 902
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+MoveTo 1579 903
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+MoveTo 1631 258
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+KeyDown 88 1
+Delay 200
+KeyUp 88 1
+Delay 200
+MoveTo 1560 902
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+MoveTo 1579 903
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+MoveTo 1631 258
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+KeyDown 88 1
+Delay 200
+KeyUp 88 1
+Delay 200
+MoveTo 1252 615
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+MoveTo 1478 597
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+MoveTo 1355 637
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+KeyDown 226 1
+Delay 200
+KeyDown 43 1
+Delay 200
+KeyUp 226 1
+Delay 200
+KeyUp 43 1
+Delay 200
+MoveTo 1560 902
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+MoveTo 1579 903
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+MoveTo 1631 258
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+KeyDown 88 1
+Delay 200
+KeyUp 88 1
+Delay 200
+MoveTo 1560 902
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+MoveTo 1579 903
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+MoveTo 1631 258
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+KeyDown 88 1
+Delay 200
+KeyUp 88 1
+Delay 200
+MoveTo 1560 902
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+MoveTo 1579 903
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+MoveTo 1631 258
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+KeyDown 88 1
+Delay 200
+KeyUp 88 1
+Delay 200
+MoveTo 1560 902
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+MoveTo 1579 903
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+MoveTo 1631 258
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+KeyDown 88 1
+Delay 200
+KeyUp 88 1
+Delay 200
+MoveTo 1560 902
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+MoveTo 1579 903
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+MoveTo 1631 258
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+KeyDown 88 1
+Delay 200
+KeyUp 88 1
+Delay 200
+MoveTo 1252 615
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+MoveTo 1478 597
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+MoveTo 1355 637
+Delay 200
+LeftDown 1
+Delay 200
+LeftUp 1
+Delay 200
+KeyDown 226 1
+Delay 200
+KeyDown 43 1
+Delay 200
+KeyUp 226 1
+Delay 200
+KeyUp 43 1
+Delay 200
+MoveTo 1379 441
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1481 603
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1361 640
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Karos Online</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для афк фарма магу массухами
+
+Что делаем :
+
+1. Выставляем на вторую панель некст таргет,масс кружок(в моем случае сорк), таргетную массуху и ауру флеш в ячейки от 1-4
+
+2. В проге ставим чтобы макрос работал до повторного нажатия хот кея
+
+3. Запускаем, уходим в афк и фармим)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+KeyDown 31 1
+KeyUp 31 1
+KeyDown 32 1
+KeyUp 32 1
+KeyDown 33 1
+KeyUp 33 1</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

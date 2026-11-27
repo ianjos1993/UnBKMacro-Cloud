@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простенький макрос для рыбалки на приватке NosVoid, возможно подойдет и для оригинальной игры...
+Клавиши под раскладку (1- закинуть удочку, 2 - вытащить)
+Не рекомендую оставлять без присмотра игру =)</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1500 ms
+KeyDown 30 1
+Delay 5 ms
+KeyUp 30 1
+Delay 16700 ms
+KeyDown 31 1
+Delay 5 ms
+KeyUp 31 1
+Delay 5000 ms</Syntax>
+    </KeyDown>
+    <Software>NosTale</Software>
+  </DefaultMacro>
+</Root>

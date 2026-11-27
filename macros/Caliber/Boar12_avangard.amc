@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major>DPI 2400 Чувствительность 50.0</Major>
+    <Description>Макрос автоматического огня для дробовика Вепрь-12 на оперативника Авангард.
+Использовался навык от оперативника Фаро - Тяжёлый Ствол.
+
+Для корректной работы следует отключить верт.синхронизацию, установить общую чувствительность 50.0
+Разрешение экрана 1920 на 1080.
+
+Для активации автоогня следует нажать ЛКМ, для отключения автоогня так же нажать ЛКМ.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 8 ms
+LeftUp 1
+Delay 8 ms
+MoveR 0 0
+Delay 8 ms
+MoveR 0 0
+Delay 8 ms
+MoveR 0 1
+Delay 8 ms
+MoveR 0 0
+Delay 8 ms
+MoveR 0 0
+Delay 8 ms
+MoveR 0 0
+Delay 8 ms
+MoveR 0 0
+Delay 8 ms
+MoveR -1 1
+Delay 8 ms
+MoveR 1 1
+Delay 8 ms
+MoveR 0 1
+Delay 8 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Калибр</Software>
+  </DefaultMacro>
+</Root>

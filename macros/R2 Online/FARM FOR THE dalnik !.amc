@@ -1,0 +1,49 @@
+<Root>
+  <DefaultMacro>
+    <Major>фарм</Major>
+    <Description>макрос отлично подходит для фарма ( желательно дальника) если мобы слабые то в самом макросе уменьшаем самую большую задержку , если мобы сильнее то увеличиваем время задержки ! работает эфективно ,защёлкнул атаку , дал крита  ( крит ставим на ф1 ) , убил, собрал дроп , переключился на следуюшего моба , если что пишите комы могу добавить чтобы прога видела хп и и по цвету понимала когда жать тп либо просто отхиливала хп ! </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 98 1
+Delay 100 ms
+KeyUp 98 1
+Delay 100 ms
+KeyDown 95 1
+Delay 100 ms
+KeyUp 95 1
+Delay 100 ms
+KeyDown 58 1
+Delay 100 ms
+KeyUp 58 1
+Delay 100 ms
+KeyDown 8 1
+Delay 100 ms
+KeyUp 8 1
+Delay 100 ms
+KeyDown 8 1
+Delay 100 ms
+KeyUp 8 1
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+Delay 2000 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>R2 online</Software>
+  </DefaultMacro>
+</Root>

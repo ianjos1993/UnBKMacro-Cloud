@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>автоматически использует любые расходники установленые на клавиши Num7. num8. num9. num0.
+Принцип работы макроса:Нажать кнопку и захилить перса, после, чтобы остановить автопрожатие кнопок Num нажать на клавишу макроса повторно
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 95 1
+Delay 64
+KeyUp 95 1
+Delay 70 ms
+KeyDown 96 1
+Delay 64
+KeyUp 96 1
+Delay 64
+KeyDown 97 1
+Delay 64
+KeyUp 97 1
+Delay 70 ms
+KeyDown 98 1
+Delay 64
+KeyUp 98 1
+Delay 70 ms</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Обычные атаки Кли со скипами анимации через прыжок.
+Серия из трех атак.
+Можете переделать что либо под себя если вам не удобен этот вариант.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 7 ms
+LeftUp 1
+Delay 7 ms
+KeyDown 44 1
+Delay 80 ms
+KeyUp 44 1
+Delay 365 ms
+LeftDown 1
+Delay 7 ms
+LeftUp 1
+Delay 7 ms
+KeyDown 44 1
+Delay 80 ms
+KeyUp 44 1
+Delay 365 ms
+LeftDown 1
+Delay 7 ms
+LeftUp 1
+Delay 7 ms
+KeyDown 44 1
+Delay 80 ms
+KeyUp 44 1
+Delay 365 ms</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

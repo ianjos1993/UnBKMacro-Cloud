@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на двойной прыжок, двойной прыжок является багом и за это можно получить !небольшой бан!.
+
+-----------------------------------------------------------------------------------------------------------------
+
+Пользоваться можно на любом велосипеде, при 60fps 1920x1080.
+
+-----------------------------------------------------------------------------------------------------------------
+
+ настройки игры: эффекты стандартные, vehicle.txd стандартный, tymecyc стандартный, grass.txd стандартный. Приятного пользования!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 678 ms
+KeyUp 224 1
+Delay 129 ms
+KeyDown 224 1
+Delay 1183 ms
+KeyUp 224 1
+Delay 103 ms
+KeyDown 224 1
+Delay 106 ms
+KeyUp 224 1
+Delay 59 ms
+KeyDown 224 1
+Delay 373 ms
+KeyUp 224 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

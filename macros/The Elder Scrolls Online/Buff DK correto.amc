@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major>Correct DK buff</Major>
+    <Description>To use it, you just need to change the button ( ' ) in the game to F2, the buff is in the order of 1,2,3,5, the number 4, I leave it free for any stun skil or lock the opponent, my month is 190 in the game, I configured the month According to me, it worked very well Buff DK</Description>
+    <Comment>If anyone wanted one for dps pve or pvp send me a message and I'll do it, I'm using one that I modified, I tried to post it but they didn't accept it so I just asked them to see if they accept it now.</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 39 1
+KeyUp 39 1
+KeyDown 59 1
+KeyUp 59 1
+Delay 350 ms
+KeyDown 30 1
+Delay 350 ms
+Delay 184
+KeyUp 30 1
+KeyDown 30 1
+Delay 350 ms
+Delay 184
+Delay 350 ms
+Delay 184
+KeyDown 31 1
+KeyUp 31 1
+Delay 350 ms
+Delay 184
+Delay 350 ms
+Delay 184
+KeyDown 32 1
+KeyUp 32 1
+Delay 350 ms
+Delay 184
+Delay 184
+Delay 184
+Delay 184
+KeyDown 34 1
+KeyUp 34 1
+Delay 184
+Delay 350 ms
+Delay 184</Syntax>
+    </KeyDown>
+    <Software>The Elder Scrolls Online (TESO)</Software>
+  </DefaultMacro>
+</Root>

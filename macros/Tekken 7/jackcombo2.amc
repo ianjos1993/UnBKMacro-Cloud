@@ -1,0 +1,137 @@
+<Root>
+  <DefaultMacro>
+    <Major>Jack-7 combo</Major>
+    <Description>Макрос позволяет выполнять staple combo за Джека-7.
+Видео демонстрации работы макроса: https://youtu.be/dMc0m7lwzoU
+
+Джек (Jack) —  это название серии роботов, которые улучшаются в каждой основной части серии файтингов Tekken. В каждой основной игре Tekken, кроме Tekken 4, была играбельная модель Джека. Прототип Джека рассматривается как отдельный от основной линии. Роботы Джека на протяжении многих своих воплощений сохраняли один и тот же общий вид — человекоподобные джаггернауты с накачанными мускулами. В то время как более ранние модели выглядели относительно человеческими, в более поздних моделях кожа разделена на секции, что делает их менее человечными.
+
+Тестирование макроса проводились на последнем патче игры на 08.04.2023 (5.01 патч)
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#jack7tekken7 #tekken7 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 75 1
+Delay 87 ms
+KeyUp 75 1
+Delay 423 ms
+KeyDown 7 1
+Delay 87 ms
+KeyUp 7 1
+Delay 103 ms
+KeyDown 7 1
+Delay 64 ms
+KeyUp 7 1
+Delay 111 ms
+KeyDown 7 1
+Delay 72 ms
+KeyUp 7 1
+Delay 104 ms
+KeyDown 7 1
+Delay 71 ms
+KeyUp 7 1
+Delay 95 ms
+KeyDown 7 1
+Delay 63 ms
+KeyUp 7 1
+Delay 79 ms
+KeyDown 7 1
+Delay 112 ms
+KeyUp 7 1
+Delay 96 ms
+KeyDown 77 1
+Delay 87 ms
+KeyUp 77 1
+Delay 31 ms
+KeyDown 4 1
+Delay 128 ms
+KeyDown 73 1
+Delay 71 ms
+KeyUp 73 1
+Delay 87 ms
+KeyDown 73 1
+Delay 56 ms
+KeyUp 73 1
+Delay 79 ms
+KeyDown 73 1
+Delay 87 ms
+KeyUp 73 1
+Delay 64 ms
+KeyDown 73 1
+Delay 72 ms
+KeyUp 73 1
+Delay 47 ms
+KeyDown 73 1
+Delay 95 ms
+KeyUp 73 1
+Delay 24 ms
+KeyDown 76 1
+Delay 96 ms
+KeyUp 76 1
+Delay 87 ms
+KeyDown 76 1
+Delay 64 ms
+KeyUp 76 1
+Delay 79 ms
+KeyDown 76 1
+Delay 71 ms
+KeyUp 76 1
+Delay 80 ms
+KeyDown 76 1
+Delay 63 ms
+KeyUp 76 1
+Delay 63 ms
+KeyDown 76 1
+Delay 55 ms
+KeyDown 74 1
+Delay 48 ms
+KeyUp 76 1
+Delay 47 ms
+KeyUp 74 1
+Delay 79 ms
+KeyDown 74 1
+Delay 72 ms
+KeyUp 74 1
+Delay 71 ms
+KeyDown 74 1
+Delay 71 ms
+KeyUp 74 1
+Delay 63 ms
+KeyDown 74 1
+Delay 88 ms
+KeyUp 74 1
+Delay 71 ms
+KeyDown 74 1
+Delay 64 ms
+KeyUp 74 1
+Delay 71 ms
+KeyDown 74 1
+Delay 71 ms
+KeyUp 74 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 7</Software>
+  </DefaultMacro>
+</Root>

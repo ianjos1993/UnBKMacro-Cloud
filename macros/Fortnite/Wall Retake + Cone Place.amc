@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>Get the wall to one hit, then activate the macro.</Major>
+    <Description>These are the keybinds this macro was designed for:
+
+T = Cone
+Q = Wall
+
+Just replace "T" for your cone keybind and "Q" for your wall one.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 195 ms
+KeyDown 23 1
+Delay 50 60 ms
+KeyUp 23 1
+Delay 50 55 ms
+KeyDown 20 1
+Delay 50 60 ms
+KeyUp 20 1
+Delay 50 60 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

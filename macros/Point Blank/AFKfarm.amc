@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>афк фарм батлпаса в режимах с ботами, можно биндить на любую клавишу
+вас не кикнет за афк, античит тоже ничего не обнаружит
+советую под макрос купоны на доп патроны и кумулятивы
+макро приносит около 2ух уровней в час
+Разрешение необоходимо 1920 на 1080, полноэкранный режим</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR -254 -198
+Delay 400 ms
+LeftDown 1
+LeftUp 1
+LeftDown 1
+LeftUp 1
+MoveR -254 -205
+Delay 400 ms
+LeftDown 1
+LeftDown 1
+LeftUp 1
+LeftDown 1
+LeftUp 1
+KeyDown 21 1</Syntax>
+    </KeyDown>
+    <Software>Point Blank</Software>
+  </DefaultMacro>
+</Root>

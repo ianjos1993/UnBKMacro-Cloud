@@ -1,0 +1,62 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос зажимает е что бы кирка капала и иногда делает шаги что бы система не считала что вы афк, не забывайте про капчу, а так можете делать что то другое
+P.s. В прошлоё версии я забыл зациклить, сейчас исправил и всё работает как надо
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+Delay 6117 ms
+KeyDown 8 1
+Delay 6117 ms
+KeyUp 8 1
+Delay 6117 ms
+KeyDown 8 1
+Delay 6117 ms
+KeyUp 8 1
+Delay 6117 ms
+KeyDown 8 1
+Delay 6117 ms
+KeyUp 8 1
+Delay 6117 ms
+KeyDown 8 1
+Delay 6117 ms
+KeyUp 8 1
+Delay 6117 ms
+KeyDown 26 1
+Delay 64 ms
+KeyUp 26 1
+Delay 64 ms
+KeyDown 8 1
+Delay 6117 ms
+KeyUp 8 1
+Delay 6117 ms
+KeyDown 8 1
+Delay 6117 ms
+KeyUp 8 1
+Delay 6117 ms
+KeyDown 8 1
+Delay 6117 ms
+KeyUp 8 1
+Delay 6117 ms
+KeyDown 26 1
+Delay 64 ms
+KeyUp 26 1
+Delay 64 ms
+KeyDown 8 1
+Delay 6117 ms
+KeyUp 8 1</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

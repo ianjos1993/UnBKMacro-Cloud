@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>nathonks</Major>
+    <Description>This is a macro by nathonks
+Use these setting for the best aim, fov 90 sensitivity 0.66 dpi 800
+
+This is for the Rust M92 Semi-Auto Pistol ONLY and easy to use, you just have to bind the script to a key then you are beaming everyone. Simple script, auto spams the m92 pistol if you are too lazy
+
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 34 ms
+MoveR 0 8
+Delay 34 ms
+MoveR 0 8
+Delay 34 ms
+MoveR 0 8
+Delay 34 ms
+MoveR 0 8
+Delay 34 ms
+MoveR 0 8
+Delay 34 ms
+LeftUp 1
+Delay 37 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

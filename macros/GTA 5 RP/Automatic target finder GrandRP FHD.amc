@@ -1,0 +1,601 @@
+<Root>
+  <DefaultMacro>
+    <Major>GrandRP Automatic bunker target finder 1920  x 1080 FHD</Major>
+    <Description>This macro automatically tests all persons with a bunker for you, as it is well known that it can be very annoying and time-consuming to search for a bunker to rob yourself. The program runs fully automatically and is very likely to be much faster than if you were to do this manually.
+
+The procedure:
+First, the macro goes down the list until the message appears that there are no more bunkers. As soon as this message is received, the program jumps into pass-through mode and scrolls and presses the buttons automatically. Note that the time delays should not really be reduced, otherwise there is a risk that most of the bunkers will not be tested at all.
+
+Requirements:
+You must be in the bunker menu. It is not necessary to expand or scroll down the list. 
+The macro only works with 1920 x 1080 FHD. Please only use “windows without frames”.
+Do not move the mouse when the macro is activated, otherwise there is a risk that up to 5 bunkers will not be tested, as the macro partly also uses mouse position displacement depending on the current position in order to keep the complex macro more compact and clearer.
+
+You can find more very useful macros for GrandRP on my account.
+
+If the macro has problems or you have general suggestions, please write me a message.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1082 422
+Delay 50 ms
+WheelDown 1
+Delay 15 ms
+GoWhile 3 13
+MoveTo 978 774
+Delay 50 ms
+LeftDown 1
+Delay 50
+LeftUp 1
+Delay 200 ms
+GoColor 14 2 228,128,128 255,255,255 1 1042 537 355 544 1 0
+Goto 1
+MoveTo 1035 662
+Delay 214 ms
+LeftDown 1
+Delay 214 ms
+LeftUp 1
+Delay 250 ms
+MoveR 0 -195
+Delay 250 ms
+LeftDown 1
+Delay 250 ms
+LeftUp 1
+Delay 250 ms
+GoWhile 20 3
+WheelUp 1
+Delay 40 ms
+GoWhile 27 8
+MoveTo 1031 711
+Delay 214 ms
+LeftDown 1
+Delay 214 ms
+LeftUp 1
+Delay 250 ms
+MoveR 0 -195
+Delay 250 ms
+LeftDown 1
+Delay 250 ms
+LeftUp 1
+Delay 250 ms
+GoWhile 36 4
+WheelUp 1
+Delay 40 ms
+GoWhile 43 10
+MoveTo 1032 775
+Delay 214 ms
+LeftDown 1
+Delay 214 ms
+LeftUp 1
+Delay 250 ms
+MoveR 0 -195
+Delay 250 ms
+LeftDown 1
+Delay 250 ms
+LeftUp 1
+Delay 250 ms
+GoWhile 52 4
+WheelUp 1
+Delay 40 ms
+GoWhile 59 10
+MoveTo 1032 692
+Delay 214 ms
+LeftDown 1
+Delay 214 ms
+LeftUp 1
+Delay 250 ms
+MoveR 0 -195
+Delay 250 ms
+LeftDown 1
+Delay 250 ms
+LeftUp 1
+Delay 250 ms
+GoWhile 68 4
+WheelUp 1
+Delay 40 ms
+GoWhile 75 9
+MoveTo 1032 676
+Delay 214 ms
+LeftDown 1
+Delay 214 ms
+LeftUp 1
+Delay 250 ms
+MoveR 0 -195
+Delay 250 ms
+LeftDown 1
+Delay 250 ms
+LeftUp 1
+Delay 250 ms
+GoWhile 84 4
+WheelUp 1
+Delay 40 ms
+GoWhile 91 9
+MoveTo 1032 658
+Delay 214 ms
+LeftDown 1
+Delay 214 ms
+LeftUp 1
+Delay 250 ms
+MoveR 0 -195
+Delay 250 ms
+LeftDown 1
+Delay 250 ms
+LeftUp 1
+Delay 250 ms
+GoWhile 100 4
+WheelUp 1
+Delay 40 ms
+GoWhile 107 9
+MoveTo 1025 790
+Delay 214 ms
+LeftDown 1
+Delay 214 ms
+LeftUp 1
+Delay 250 ms
+MoveR 0 -195
+Delay 250 ms
+LeftDown 1
+Delay 250 ms
+LeftUp 1
+Delay 250 ms
+GoWhile 116 4
+WheelUp 1
+Delay 40 ms
+GoWhile 123 9
+MoveTo 1032 781
+Delay 214 ms
+LeftDown 1
+Delay 214 ms
+LeftUp 1
+Delay 250 ms
+MoveR 0 -195
+Delay 250 ms
+LeftDown 1
+Delay 250 ms
+LeftUp 1
+Delay 250 ms
+GoWhile 132 4
+WheelUp 1
+Delay 40 ms
+GoWhile 139 10
+MoveTo 1032 692
+Delay 214 ms
+LeftDown 1
+Delay 214 ms
+LeftUp 1
+Delay 250 ms
+MoveR 0 -195
+Delay 250 ms
+LeftDown 1
+Delay 250 ms
+LeftUp 1
+Delay 250 ms
+GoWhile 148 4
+WheelUp 1
+Delay 40 ms
+GoWhile 155 8
+MoveTo 1033 745
+Delay 214 ms
+LeftDown 1
+Delay 214 ms
+LeftUp 1
+Delay 250 ms
+MoveR 0 -195
+Delay 250 ms
+LeftDown 1
+Delay 250 ms
+LeftUp 1
+Delay 250 ms
+GoWhile 164 4
+WheelUp 1
+Delay 40 ms
+GoWhile 171 7
+MoveTo 1030 714
+Delay 214 ms
+LeftDown 1
+Delay 214 ms
+LeftUp 1
+Delay 250 ms
+MoveR 0 -195
+Delay 250 ms
+LeftDown 1
+Delay 250 ms
+LeftUp 1
+Delay 250 ms
+GoWhile 180 4
+WheelUp 1
+Delay 40 ms
+GoWhile 187 10
+MoveTo 1025 779
+Delay 214 ms
+LeftDown 1
+Delay 214 ms
+LeftUp 1
+Delay 250 ms
+MoveR 0 -195
+Delay 250 ms
+LeftDown 1
+Delay 250 ms
+LeftUp 1
+Delay 250 ms
+GoWhile 196 4
+WheelUp 1
+Delay 40 ms
+GoWhile 203 9
+MoveTo 1032 762
+Delay 214 ms
+LeftDown 1
+Delay 214 ms
+LeftUp 1
+Delay 250 ms
+MoveR 0 -195
+Delay 250 ms
+LeftDown 1
+Delay 250 ms
+LeftUp 1
+Delay 250 ms
+GoWhile 212 4
+WheelUp 1
+Delay 40 ms
+GoWhile 219 9
+MoveTo 1032 747
+Delay 214 ms
+LeftDown 1
+Delay 214 ms
+LeftUp 1
+Delay 250 ms
+MoveR 0 -195
+Delay 250 ms
+LeftDown 1
+Delay 250 ms
+LeftUp 1
+Delay 250 ms
+GoWhile 228 4
+WheelUp 1
+Delay 40 ms
+GoWhile 235 9
+MoveTo 1026 730
+Delay 214 ms
+LeftDown 1
+Delay 214 ms
+LeftUp 1
+Delay 250 ms
+MoveR 0 -195
+Delay 250 ms
+LeftDown 1
+Delay 250 ms
+LeftUp 1
+Delay 250 ms
+GoWhile 244 4
+WheelUp 1
+Delay 40 ms
+GoWhile 251 9
+MoveTo 1032 714
+Delay 214 ms
+LeftDown 1
+Delay 214 ms
+LeftUp 1
+Delay 250 ms
+MoveR 0 -195
+Delay 250 ms
+LeftDown 1
+Delay 250 ms
+LeftUp 1
+Delay 250 ms
+GoWhile 260 4
+WheelUp 1
+Delay 40 ms
+GoWhile 267 9
+MoveTo 1032 700
+Delay 214 ms
+LeftDown 1
+Delay 214 ms
+LeftUp 1
+Delay 250 ms
+MoveR 0 -195
+Delay 250 ms
+LeftDown 1
+Delay 250 ms
+LeftUp 1
+Delay 250 ms
+GoWhile 276 4
+WheelUp 1
+Delay 40 ms
+GoWhile 283 10
+MoveTo 1032 761
+Delay 214 ms
+LeftDown 1
+Delay 214 ms
+LeftUp 1
+Delay 250 ms
+MoveR 0 -195
+Delay 250 ms
+LeftDown 1
+Delay 250 ms
+LeftUp 1
+Delay 250 ms
+GoWhile 292 4
+WheelUp 1
+Delay 40 ms
+GoWhile 299 9
+MoveTo 1032 746
+Delay 214 ms
+LeftDown 1
+Delay 214 ms
+LeftUp 1
+Delay 250 ms
+MoveR 0 -195
+Delay 250 ms
+LeftDown 1
+Delay 250 ms
+LeftUp 1
+Delay 250 ms
+GoWhile 308 4
+WheelUp 1
+Delay 40 ms
+GoWhile 315 9
+MoveTo 1030 730
+Delay 214 ms
+LeftDown 1
+Delay 214 ms
+LeftUp 1
+Delay 250 ms
+MoveR 0 -195
+Delay 250 ms
+LeftDown 1
+Delay 250 ms
+LeftUp 1
+Delay 250 ms
+GoWhile 324 4
+WheelUp 1
+Delay 40 ms
+GoWhile 331 9
+MoveTo 1032 715
+Delay 214 ms
+LeftDown 1
+Delay 214 ms
+LeftUp 1
+Delay 250 ms
+MoveR 0 -195
+Delay 250 ms
+LeftDown 1
+Delay 250 ms
+LeftUp 1
+Delay 250 ms
+GoWhile 340 4
+WheelUp 1
+Delay 40 ms
+GoWhile 347 10
+MoveTo 1032 782
+Delay 214 ms
+LeftDown 1
+Delay 214 ms
+LeftUp 1
+Delay 250 ms
+MoveR 0 -195
+Delay 250 ms
+LeftDown 1
+Delay 250 ms
+LeftUp 1
+Delay 250 ms
+GoWhile 356 4
+WheelUp 1
+Delay 40 ms
+GoWhile 363 9
+MoveTo 1032 762
+Delay 214 ms
+LeftDown 1
+Delay 214 ms
+LeftUp 1
+Delay 250 ms
+MoveR 0 -195
+Delay 250 ms
+LeftDown 1
+Delay 250 ms
+LeftUp 1
+Delay 250 ms
+GoWhile 372 4
+WheelUp 1
+Delay 40 ms
+GoWhile 379 9
+MoveTo 1032 747
+Delay 214 ms
+LeftDown 1
+Delay 214 ms
+LeftUp 1
+Delay 250 ms
+MoveR 0 -195
+Delay 250 ms
+LeftDown 1
+Delay 250 ms
+LeftUp 1
+Delay 250 ms
+GoWhile 388 4
+WheelUp 1
+Delay 40 ms
+GoWhile 395 9
+MoveTo 1032 727
+Delay 214 ms
+LeftDown 1
+Delay 214 ms
+LeftUp 1
+Delay 250 ms
+MoveR 0 -195
+Delay 250 ms
+LeftDown 1
+Delay 250 ms
+LeftUp 1
+Delay 250 ms
+GoWhile 404 4
+WheelUp 1
+Delay 40 ms
+GoWhile 411 9
+MoveTo 1032 715
+Delay 214 ms
+LeftDown 1
+Delay 214 ms
+LeftUp 1
+Delay 250 ms
+MoveR 0 -195
+Delay 250 ms
+LeftDown 1
+Delay 250 ms
+LeftUp 1
+Delay 250 ms
+GoWhile 420 4
+WheelUp 1
+Delay 40 ms
+GoWhile 427 9
+MoveTo 1028 696
+Delay 214 ms
+LeftDown 1
+Delay 214 ms
+LeftUp 1
+Delay 250 ms
+MoveR 0 -195
+Delay 250 ms
+LeftDown 1
+Delay 250 ms
+LeftUp 1
+Delay 250 ms
+GoWhile 436 4
+WheelUp 1
+Delay 40 ms
+GoWhile 443 10
+MoveTo 1032 762
+Delay 214 ms
+LeftDown 1
+Delay 214 ms
+LeftUp 1
+Delay 250 ms
+MoveR 0 -195
+Delay 250 ms
+LeftDown 1
+Delay 250 ms
+LeftUp 1
+Delay 250 ms
+GoWhile 452 4
+WheelUp 1
+Delay 40 ms
+GoWhile 459 9
+MoveTo 1032 746
+Delay 214 ms
+LeftDown 1
+Delay 214 ms
+LeftUp 1
+Delay 250 ms
+MoveR 0 -195
+Delay 250 ms
+LeftDown 1
+Delay 250 ms
+LeftUp 1
+Delay 250 ms
+GoWhile 468 4
+WheelUp 1
+Delay 40 ms
+GoWhile 475 9
+MoveTo 1032 730
+Delay 214 ms
+LeftDown 1
+Delay 214 ms
+LeftUp 1
+Delay 250 ms
+MoveR 0 -195
+Delay 250 ms
+LeftDown 1
+Delay 250 ms
+LeftUp 1
+Delay 250 ms
+GoWhile 484 4
+WheelUp 1
+Delay 40 ms
+GoWhile 491 9
+MoveTo 1032 710
+Delay 214 ms
+LeftDown 1
+Delay 214 ms
+LeftUp 1
+Delay 250 ms
+MoveR 0 -195
+Delay 250 ms
+LeftDown 1
+Delay 250 ms
+LeftUp 1
+Delay 250 ms
+GoWhile 500 4
+WheelUp 1
+Delay 40 ms
+GoWhile 507 9
+MoveTo 1032 698
+Delay 214 ms
+LeftDown 1
+Delay 214 ms
+LeftUp 1
+Delay 250 ms
+MoveR 0 -195
+Delay 250 ms
+LeftDown 1
+Delay 250 ms
+LeftUp 1
+Delay 250 ms
+GoWhile 516 4
+WheelUp 1
+Delay 40 ms
+GoWhile 523 10
+MoveTo 1032 761
+Delay 214 ms
+LeftDown 1
+Delay 214 ms
+LeftUp 1
+Delay 250 ms
+MoveR 0 -195
+Delay 250 ms
+LeftDown 1
+Delay 250 ms
+LeftUp 1
+Delay 250 ms
+GoWhile 532 4
+WheelUp 1
+Delay 40 ms
+GoWhile 539 9
+MoveTo 1032 745
+Delay 214 ms
+LeftDown 1
+Delay 214 ms
+LeftUp 1
+Delay 250 ms
+MoveR 0 -195
+Delay 250 ms
+LeftDown 1
+Delay 250 ms
+LeftUp 1
+Delay 250 ms
+GoWhile 548 4
+WheelUp 1
+Delay 40 ms
+GoWhile 555 9
+MoveTo 1032 730
+Delay 214 ms
+LeftDown 1
+Delay 214 ms
+LeftUp 1
+Delay 250 ms
+MoveR 0 -195
+Delay 250 ms
+LeftDown 1
+Delay 250 ms
+LeftUp 1
+Delay 250 ms
+GoWhile 564 4
+WheelUp 1
+Delay 40 ms
+GoWhile 571 9</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

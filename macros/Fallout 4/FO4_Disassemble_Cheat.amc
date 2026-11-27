@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос бинд на кнопку App рядом с правым Ctrl, разбирает постройки при наведении, делал в пару к другому моему макросу на бесконечное создание полок дляя фарма XP. Юзайте дети мои.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 15 ms
+KeyUp 21 1
+Delay 20 ms
+KeyDown 88 1
+Delay 15 ms
+KeyUp 88 1
+Delay 30 ms</Syntax>
+    </KeyDown>
+    <Software>FallOut 4</Software>
+  </DefaultMacro>
+</Root>

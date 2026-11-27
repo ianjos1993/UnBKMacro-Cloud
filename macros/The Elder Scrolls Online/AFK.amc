@@ -1,0 +1,116 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Rotates in a 360* circle using light and heavy attacks, ability 1=(Thumb mouse button down), ablility 2=(Thumb mouse button up) abillity 3=(q) abillity 4=(e) and abillity 5=(r) with aproximatly a 6 seccond delay.
+
+[FIXED PROBLEMS]
+fixed the issue where the camrea angle was aiming up into the sky, now turns at aproximatly a 45* angle right of where ever you left your cursor.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 150 ms
+LeftUp 1
+Delay 1000 ms
+Button4down 1
+Delay 150 ms
+Button4Up 1
+Delay 1000 ms
+MoveTo 1456 540
+Delay 1000 ms
+Button5Down 1
+Delay 150 ms
+Button5up 1
+Delay 1000 ms
+LeftDown 1
+Delay 2500 ms
+LeftUp 1
+Delay 1000 ms
+MoveTo 1456 540
+Delay 1000 ms
+KeyDown 20 1
+Delay 150 ms
+KeyUp 20 1
+Delay 1000 ms
+KeyDown 8 1
+Delay 150 ms
+KeyUp 8 1
+Delay 1000 ms
+MoveTo 1456 540
+Delay 1000 ms
+KeyDown 21 1
+Delay 150 ms
+KeyUp 21 1
+Delay 1000 ms
+LeftDown 1
+Delay 2500 ms
+LeftUp 1
+Delay 1000 ms
+MoveTo 1456 540
+Delay 1000 ms
+Button5Down 1
+Delay 150
+Button5up 1
+Delay 1000 ms
+WheelUp 1
+Delay 1000 ms
+MoveTo 1456 540
+Delay 1000 ms
+LeftDown 1
+Delay 150 ms
+LeftUp 1
+Delay 1000 ms
+Button4down 1
+Delay 150 ms
+Button4Up 1
+Delay 1000 ms
+MoveTo 1456 540
+Delay 1000 ms
+Button5Down 1
+Delay 150 ms
+Button5up 1
+Delay 1000 ms
+LeftDown 1
+Delay 2500 ms
+LeftUp 1
+Delay 1000 ms
+MoveTo 1456 540
+Delay 1000 ms
+KeyDown 20 1
+Delay 150 ms
+KeyUp 20 1
+Delay 1000 ms
+KeyDown 8 1
+Delay 150 ms
+KeyUp 8 1
+Delay 1000 ms
+MoveTo 1456 540
+Delay 1000 ms
+KeyDown 21 1
+Delay 150 ms
+KeyUp 21 1
+Delay 1000 ms
+LeftDown 1
+Delay 2500 ms
+LeftUp 1
+Delay 1000 ms
+MoveTo 1456 540
+Delay 1000 ms
+Button5Down 1
+Delay 150
+Button5up 1
+Delay 1000 ms
+WheelUp 1
+Delay 1000 ms
+MoveTo 1456 540
+GoWhile 10 86400000
+Delay 150 ms</Syntax>
+    </KeyDown>
+    <Software>The Elder Scrolls Online (TESO)</Software>
+  </DefaultMacro>
+</Root>

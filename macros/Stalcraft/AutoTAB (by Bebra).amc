@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>Bebra</Major>
+    <Description>               Информация:
+Автоматическая пометка врагов через TAB  для игры StalCraft (Раз в 0.5 секунд)
+Не работает через листву!
+(Рекомендуется отключать на зеленых зонах во избежание бана)
+Использывать на свой страх и риск!</Description>
+    <Comment>                                                               Лучшие макросы:
+https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 10 ms
+KeyUp 43 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major>NW Light Attack Skip</Major>
+    <Description>Позволяет быстро бить топориком со скипом анимации, для активации включите макрос и нажмите лкм, далее скрипт начнёт работать сам. Что бы прервать скрипт нажмите ещё раз лкм, либо выключите макрос</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 64
+LeftUp 1
+Delay 300 ms
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>New World</Software>
+  </DefaultMacro>
+</Root>

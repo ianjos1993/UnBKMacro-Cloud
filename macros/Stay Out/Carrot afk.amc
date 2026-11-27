@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для подготовки персонажа к событию "Пряничное безумие".  Перед матчем достаточно нажать на удобную вам клавишу и персонаж применит необходимые бафы. Предвариельно бафы нужно расположить на панели быстрого доступа от 9 до =, последним нужно ставить инъектор с энергетиком. Приятной игры:)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 38 1
+Delay 3 s
+KeyUp 38 1
+Delay 64
+KeyDown 39 1
+Delay 3 s
+KeyUp 39 1
+Delay 64
+KeyDown 45 1
+Delay 3 s
+KeyUp 45 1
+Delay 64
+KeyDown 46 1
+Delay 4 s
+KeyUp 46 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Stay Out</Software>
+  </DefaultMacro>
+</Root>

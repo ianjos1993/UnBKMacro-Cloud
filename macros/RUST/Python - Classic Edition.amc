@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос на пито
+сенса 0.8
+сенса прицела 1.0
+
+это мой первый макрос не говорю что всё идеально
+но я старался</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>
+LeftDown 1
+Delay 20 ms
+LeftUp 1
+MoveR 0 6
+Delay 10 ms
+MoveR 0 6
+Delay 10 ms
+</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

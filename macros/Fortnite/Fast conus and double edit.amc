@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major>Быстрый эдит конуса и дабл эдит</Major>
+    <Description>С помощью этого макроса можно легко делать дабл эдит и байтить противников конусом на выстрелы
+F edit g выделение ячеек и левая кнопка мыши тоже выделение</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 24 ms
+KeyUp 9 1
+KeyDown 10 1
+Delay 24 ms
+KeyUp 10 1
+LeftDown 1
+Delay 24 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

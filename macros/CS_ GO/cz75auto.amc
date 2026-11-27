@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос для пистолета CZ75AUTO, он очень хорош даже против автоматов. И я решил сделать для него макрос, при активации он стреляет очередями по 5 выстрелов. В основном всё летит в точку, но бывает что патрон улетает в космос.
+
+mouse DPI: 800
+mouse sens: 2.5
+DPI мышки: 800
+сенса мыши: 2.5
+==============================================================================================
+Макрос сделан в моде ксс [CSSO 1.1]</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+MoveR -5 10
+Delay 64
+MoveR -5 10
+Delay 64
+MoveR -5 10
+Delay 64
+MoveR 5 10
+Delay 64
+MoveR 5 10
+Delay 64
+MoveR 5 10
+Delay 64
+MoveR -5 10
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>CS: GO</Software>
+  </DefaultMacro>
+</Root>

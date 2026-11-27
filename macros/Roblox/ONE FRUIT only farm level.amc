@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>всё прокачиваются по минуте примерно за минуту можно повысить от 1 до 5 уровней смотря какая икеперовка и смотря есть ли геймпасы </Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 30000
+KeyUp 30 1
+Delay 30000
+KeyDown 31 1
+Delay 30000
+KeyUp 31 1
+Delay 30000
+KeyDown 32 1
+Delay 30000
+KeyUp 32 1
+Delay 30000
+KeyDown 33 1
+Delay 30000
+KeyUp 33 1
+Delay 30000
+KeyDown 34 1
+Delay 30000
+KeyUp 34 1
+Delay 30000</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

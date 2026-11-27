@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>noklia157</Major>
+    <Description>самый простой и удобный фарм для дальника в премиумм подземелье, при желании можно добавить нажатие хилок</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 27 1
+//Переименовать кнопку инсерт(выбор цели) в настройках
+Delay 64
+KeyDown 29 1
+//Переименовать кнопку делит(принудительной татаки) в настройках
+Delay 64
+Delay 2000 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>R2 Online</Software>
+  </DefaultMacro>
+</Root>

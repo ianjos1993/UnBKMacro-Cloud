@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>задача макроса заключается в том, что  он будет сам закидывать спининг сам и поднимать рыбу. есть нюанс, макрос просто не может быть полностью автоматическим, и ваше вмешательство потребуется. спросите, какое именно? если вдруг макрос кидал и все таки, кто то сел на крючок, после того как макрос вытянет рыбку вам потребуется нажать на пробел, или же мышкой положить в садок рыбку. дальше опять макрос работает сам.
+подойдет для любой карты, главное если потребуется поставьте задержку больше или меньше.
+
+</Description>
+    <Comment>если есть какие то вопросы, или что то не понятно, нужна помощь и.т.д. то пишите сюда: @puunyya (тг)
+ВСЕМ НХНЧ!</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+LeftDown 1
+Delay 2 s
+LeftUp 1
+KeyUp 225 1
+Delay 5 s
+LeftDown 1
+Delay 50 s
+LeftUp 1
+Delay 400 ms
+RightDown 1
+Delay 2 s
+RightUp 1
+Delay 234 ms
+GoWhile 2 23234243</Syntax>
+    </KeyDown>
+    <Software>Russian Fishing 4</Software>
+  </DefaultMacro>
+</Root>

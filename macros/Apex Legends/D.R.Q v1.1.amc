@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>(v1.1) 
+
+D.R.Q. aka Disco's Rage Quit is designed to quick-quit the game when you're absolutely fed up with Apex legends! This macro is universal to any and all resolutions and DPI, and it is GAME-UNIVERSAL! Rage quiting is no longer limited to Apex!
+
+Version History: 
+
+v1.0 - base
+v1.1 - added delays to comply with rules</Description>
+    <Comment>OSIRISSOFTWARE - SLSK - GSO</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 226 1
+KeyDown 61 1
+Delay 10 ms
+KeyUp 226 1
+KeyUp 61 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

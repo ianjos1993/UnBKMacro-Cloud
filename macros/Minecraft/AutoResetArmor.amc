@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос который позволяет автоматически заменять броню. Для использования положить броню на 9,8,7,6 слоты. Для более быстрой перезарядки изменить задержки на 5. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+LeftDown 1
+Delay 11 ms
+KeyUp 8 1
+Delay 11 ms
+KeyDown 38 1
+Delay 11 ms
+KeyUp 38 1
+Delay 11 ms
+KeyDown 37 1
+Delay 11 ms
+KeyUp 37 1
+Delay 11 ms
+KeyDown 36 1
+Delay 11 ms
+KeyUp 36 1
+Delay 11 ms
+KeyDown 35 1
+Delay 11 ms
+KeyUp 35 1
+Delay 11 ms
+Delay 11 ms
+LeftUp 1
+Delay 11 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

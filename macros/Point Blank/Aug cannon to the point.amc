@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот mакрос отлично подойдет для ауга с перкой 4-ого скорострела
+отлично жmет в точку!
+Разрешение 1920х1080
+Сенса в игре 0.3
+dpi 1200
+Обязательно:ставить на лкm,так же не должен быть просад по фпс,чтобы все шло ровно и плавно,в противноm случае mакрос будет работать плохо.
+Доработка)
+
+
+</Description>
+    <Comment>Топ mакрос чтобы разнести фул паблик)
+by 1x!Hard</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>IfKey 4 1 500
+IfKey 1 1 5
+Goto 1
+MoveR 0 0
+KeyDown 51 1
+Delay 54 ms
+KeyUp 51 1
+Delay 1 ms
+KeyDown 51 1
+Delay 14 ms
+KeyUp 51 1
+Delay 1 ms
+MoveR 0 1
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

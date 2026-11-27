@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major>By - LoLechKa</Major>
+    <Description>Это Анти-Афк для игры Warface за который вас точно не забанит или кикнет с игры!
+Требуется для АФК на короткое или длинное время или Фарма с Ботами на PVE или PVP миссиях!
+Удачи!
+By - LoLechKa</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//Макрос создан - LoLechKa
+KeyDown 26 1
+Delay 350 ms
+KeyUp 26 1
+Delay 350 ms
+KeyDown 224 1
+Delay 350 ms
+KeyUp 224 1
+Delay 350 ms
+KeyDown 44 1
+Delay 250 ms
+KeyUp 44 1
+Delay 250 ms
+KeyDown 22 1
+Delay 350 ms
+KeyUp 22 1
+Delay 350 ms
+KeyDown 44 1
+Delay 250 ms
+KeyUp 44 1
+Delay 350 ms
+GoWhile 1 10000</Syntax>
+    </KeyDown>
+    <Software>Warface</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,482 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос предназначин для перемищения предметов из инвинтаря в ваш сундук или окно трейда. Последние нижние две ячейки не прокликиваются для хранения свитков портала и мудрости.  (Работает ТОЛЬКО на мониках с диагональю 27" )</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1727 819
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 1713 895
+Delay 30
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 1725 945
+Delay 30
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 1727 1009
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 1729 1099
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 1797 799
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 1799 889
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 1801 945
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 1791 1033
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 1803 1095
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 1873 817
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 1861 877
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 1873 955
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 1861 1047
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 1885 1099
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 1943 819
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 1953 883
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 1941 965
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 1949 1035
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 1943 1091
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 2005 829
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 1995 869
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 1985 943
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 2023 1027
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 2013 1109
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 2073 823
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 2083 893
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 2083 959
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 2059 1025
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 2065 1083
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 2153 827
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 2143 895
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 2133 957
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 2145 1027
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 2163 1099
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 2229 837
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 2243 879
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 2231 957
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 2203 1007
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 2217 1083
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 2295 817
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 2305 893
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 2291 965
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 2285 1027
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 2299 1101
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 2359 837
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 2355 901
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 2361 959
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 2363 1025
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 2341 1093
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 2447 821
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 2433 907
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 2431 959
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 2421 1025
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 2517 819
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 2499 895
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 2489 963
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30
+MoveTo 2497 1015
+Delay 30
+KeyDown 224 1
+Delay 30
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 30</Syntax>
+    </KeyDown>
+    <Software>Path of Exile</Software>
+  </DefaultMacro>
+</Root>

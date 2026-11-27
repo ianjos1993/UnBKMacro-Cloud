@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на Дейдару в игре NTSD
+Атака Num 4
+Прыжок Num 5
+Защита Num 6
+A = Атака
+ J = Прыжок
+ D = Защита
+ &gt; = Вперед или назад
+ ^ = Вверх
+ v = Вниз
+Макрос применяет способность Дейдары:
+D&gt;J |Взрывная глина: Следящие птицы (3 птицы, преследуют врага, взрываются при ударе) 300CP Дамаг по врагу =20HP+80HP*3</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 94 1
+Delay 64
+KeyUp 94 1
+Delay 64
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64
+KeyDown 93 1
+Delay 64
+KeyUp 93 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Naruto: The Setting Dawn</Software>
+  </DefaultMacro>
+</Root>

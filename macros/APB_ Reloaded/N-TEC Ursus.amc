@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major>Макрос для N-Tec "Медведь" "Ursus"</Major>
+    <Description>Макрос писался под разрешение 1980х1080, чувствительность прицела 0.24. DPI 1600
+
+P.S Если у вас работает не идеально, или другое разрешение, меняйте значите задержки.
+
+UPD. Добавлен цилк макроса.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+LeftDown 1
+MoveR 0 11
+LeftUp 1
+MoveR 0 -1
+Delay 14 ms
+MoveR 0 -1
+Delay 14 ms
+MoveR 0 -1
+Delay 14 ms
+MoveR 0 -1
+Delay 14 ms
+MoveR 0 -1
+Delay 14 ms</Syntax>
+    </KeyDown>
+    <Software>APB Reloaded</Software>
+  </DefaultMacro>
+</Root>

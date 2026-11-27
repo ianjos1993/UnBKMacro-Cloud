@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>iamatomicccc</Major>
+    <Description>(screen resolution 1024 x 768 windowed mode )
+
+auto throw the med kit when life is low just activate the macro and then it will automatically throw a med kit when your life is low. no dpi no sensitivity needed for this macro set up guys.
+
+Only activate this macro if you are not in an intense gunfght because i believe it will affect how you shoot when suddenly your life falls short</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 3 2 210,187,70 210,149,70 2 1000 400 300 430 1 0
+Goto 1
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 64
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

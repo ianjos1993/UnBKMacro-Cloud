@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major>macro bolt holo</Major>
+    <Description>this macro work for bolt with holo, this will be the best bolt you ever used
+fov 90
+1920x1080
+dpi 1200
+sens 0.5
+
+enjoy the macro and support me</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 63 ms
+MoveR 0 -22
+Delay 63 ms
+MoveR 0 -23
+Delay 63 ms
+MoveR 0 -21
+Delay 63 ms
+MoveR 0 -24
+Delay 63 ms
+MoveR 0 -22
+Delay 63 ms
+MoveR 0 -21
+Delay 63 ms
+MoveR 0 -24
+Delay 63 ms
+MoveR 0 -22
+Delay 63 ms
+LeftUp 1
+Delay 63 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

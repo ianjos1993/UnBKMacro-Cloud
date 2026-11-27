@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This is a Marco for GrandRP Oil Rig in the First Skill Level without the 4 Hour Bonus.
+Have Fun with it. It not do the Capcha ! You have to Change the Mouse Data!
+In the Line # 25 Put your Amount in How many Times it would be Repeated.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 440 608
+Delay 15 ms
+LeftDown 1
+Delay 4000 ms
+LeftUp 1
+Delay 15 ms
+MoveTo 515 608
+Delay 15 ms
+LeftDown 1
+Delay 4000 ms
+LeftUp 1
+Delay 15 ms
+MoveTo 585 608
+Delay 15 ms
+LeftDown 1
+Delay 4000 ms
+LeftUp 1
+Delay 15 ms
+MoveTo 660 608
+Delay 15 ms
+LeftDown 1
+Delay 4000 ms
+LeftUp 1
+Delay 15 ms
+GoWhile 1 10</Syntax>
+    </KeyDown>
+    <Software>Rgame VN</Software>
+  </DefaultMacro>
+</Root>

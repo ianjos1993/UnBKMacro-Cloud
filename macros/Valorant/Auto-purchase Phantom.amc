@@ -1,0 +1,57 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматически заходит в магазин .Далее покупает фантом, все доступные для покупки обилки, а также лучшую броню.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 5 1
+KeyUp 5 1
+Delay 10 ms
+LeftDown 1
+LeftUp 1
+Delay 10 ms
+MoveTo 1438 577
+LeftDown 1
+LeftUp 1
+Delay 10 ms
+MoveTo 1319 886
+LeftDown 1
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+LeftUp 1
+MoveTo 958 886
+Delay 10 ms
+LeftDown 1
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+LeftUp 1
+MoveTo 588 888
+Delay 10 ms
+LeftDown 1
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+LeftUp 1
+KeyDown 41 1
+KeyUp 41 1</Syntax>
+    </KeyDown>
+    <Software>Valorant</Software>
+  </DefaultMacro>
+</Root>

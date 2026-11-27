@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>СПАМ 1 СООБЩЕНИЯ РАЗ В 30СЕК.</Major>
+    <Description>БИНД ОТКРЫТЬ ЧАТ ПОСТАВИТЬ НА "СКМ"(КОЛЕСИКО МЫШИ)
+РАЗРЕШЕНИЕ ЭКРАНА - 1920X1080
+ПЕРЕД ВКЛЮЧЕНИЕМ МАКРОСА НАПИШИТЕ СВОЕ СООБЩЕНИЕ В ЧАТ И ПОДОЖДИТЕ 30 СЕК.
+РЕЖИМ РАБОТЫ МАКРОСА ПОСТАВИТЬ НА "ВЫПОЛНЯТЬ ДО ПОВТОРНОГО НАЖАТИЯ"
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MiddleDown 1
+Delay 64
+MiddleUp 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+Delay 30 s</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

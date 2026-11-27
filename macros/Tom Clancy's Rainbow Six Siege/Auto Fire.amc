@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major>Auto Fire for Semi Auto Weapons</Major>
+    <Description>Pretty simple macro. Adds automatic fire for semi automatic weapons. This DOES NOT affect recoil at all. Due to the fire rate cap in r6, this has a delay of around 64ms, allowing for single tap fire as well. It uses the middle mouse key to allow for a left click macro that does affect recoil, so make sure to put this macro on your middle click and to set middle click as a fire button in your r6 settings</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MiddleDown 1
+Delay 64
+MiddleUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

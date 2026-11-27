@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Топ ДПС макрос для Ху Тао. Два обычных удара, заряженая атака и прыжок, чтобы далеко не улетала.
+Основано на повторяющемся макросе.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 80 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 90 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 90 ms
+LeftDown 1
+Delay 260 ms
+LeftUp 1
+Delay 180 ms
+KeyDown 44 1
+Delay 64 ms
+KeyUp 44 1
+Delay 400 ms</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

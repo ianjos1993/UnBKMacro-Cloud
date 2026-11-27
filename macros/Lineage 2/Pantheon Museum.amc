@@ -1,0 +1,99 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Алтарь 2 спота на персонаж рыцарь смерти с использованием 8 клавиш атакующих и 1 прыжок в сторону мобов</Description>
+    <Comment>Макрос на два спота с двумя питомцами в алтарь золота, кладем питомцев на расстоянии бега в 4.2 секунды, так же на клавишу Ф5 назначаем прыжок, используем в настройках чат с Enter, на клавиши с ф1по ф4, а таак же с 1 -4, на F5 размещаем прыжок, после 9 повторений персонаж бежит ко второй цели и повторяет серию из 9 кругов ударов
+</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 62 1
+Delay 64
+KeyUp 62 1
+Delay 64
+KeyDown 58 1
+Delay 64
+KeyUp 58 1
+Delay 64
+KeyDown 59 1
+Delay 64
+KeyUp 59 1
+Delay 64
+KeyDown 60 1
+Delay 64
+KeyUp 60 1
+Delay 64
+KeyDown 61 1
+Delay 64
+KeyUp 61 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+GoWhile 5 9
+KeyDown 38 1
+Delay 4200 ms
+KeyUp 38 1
+Delay 64 ms
+KeyDown 62 1
+Delay 64
+KeyUp 62 1
+Delay 64
+KeyDown 58 1
+Delay 64
+KeyUp 58 1
+Delay 64
+KeyDown 59 1
+Delay 64
+KeyUp 59 1
+Delay 64
+KeyDown 60 1
+Delay 64
+KeyUp 60 1
+Delay 64
+KeyDown 61 1
+Delay 64
+KeyUp 61 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+GoWhile 46 9
+KeyDown 39 1
+Delay 4200 ms
+KeyUp 39 1
+Delay 64 ms</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

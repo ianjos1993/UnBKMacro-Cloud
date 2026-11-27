@@ -1,0 +1,15 @@
+send(q);
+right(cursorx,cursory);
+senddown(shift);
+send(space);
+right(cursorx,cursory);
+send(x);
+right(cursorx,cursory);
+send(c);
+right(cursorx,cursory);
+send(v);
+right(cursorx,cursory);
+sleep(50);
+sendup(shift);
+send(r);
+right(cursorx,cursory);

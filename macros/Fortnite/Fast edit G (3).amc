@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>free</Major>
+    <Description>This macro allows you to edit very quickly. If you have problems with the macro, write to me, I will help you.
+To make this macro work, you need to bind it to any key and that's it, you're done!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+Delay 1 ms
+KeyUp 10 1
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyDown 10 1
+Delay 1 ms
+KeyUp 10 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

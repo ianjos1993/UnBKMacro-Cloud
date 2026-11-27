@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Очень легкий макрос на автокликер, хорошо походит для продажи лута скупу, лутания трупов и тд,
+Без заморочек и лишней фигни, так же может подойти для стрельбы из M1FA И WA2000</Description>
+    <Comment>Очень легкий макрос на автокликер, хорошо походит для продажи лута скупу, лутания трупов и тд,
+Без заморочек и лишней фигни, так же может подойти для стрельбы из M1FA И WA2000</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 5 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

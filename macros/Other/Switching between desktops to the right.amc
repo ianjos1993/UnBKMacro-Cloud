@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Переключает на 1 рабочий стол вправо, если у вас несколько рабочих столов. (Работает если у Вас 2 и более рабочих стола в Windows 10, посмотреть сколько рабочих столов у Вас есть и создать их при необходимости можно через кнопки Windows+Tab)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+KeyDown 227 1
+KeyDown 79 1
+KeyUp 224 1
+KeyUp 227 1
+KeyUp 79 1</Syntax>
+    </KeyDown>
+    <Software>Другие</Software>
+  </DefaultMacro>
+</Root>

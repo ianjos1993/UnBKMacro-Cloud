@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major>Helldivers 2</Major>
+    <Description>Вызов стратегемы Орел Воздушный налет или Eagle Airstrike.
+Для правильной работы изменить в настройках игры вызов стратегем на стрелки.
+Макрос рабоатет и с зажатием и с нажатием.
+Возможны ошибки в работе, если не установлен драйвер, попробуйте установить драйвер и перезагрузить игру.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 20 ms
+KeyDown 82 1
+Delay 30 ms
+KeyUp 82 1
+Delay 30 ms
+KeyDown 79 1
+Delay 30 ms
+KeyUp 79 1
+Delay 30 ms
+KeyDown 81 1
+Delay 30 ms
+KeyUp 81 1
+Delay 30 ms
+KeyDown 79 1
+Delay 30 ms
+KeyUp 79 1
+Delay 10 ms
+KeyUp 224 1</Syntax>
+    </KeyDown>
+    <Software>Helldivers 2</Software>
+  </DefaultMacro>
+</Root>

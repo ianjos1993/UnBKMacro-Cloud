@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major>Fejume</Major>
+    <Description>Постоянный бег, очень полезная фича для ТСР, Шахты, Ферм. Вам не нужно ждать пока ваш персонаж востановит дыхание, просто устанавливайте макрос на W, и он будет постоянно бегать не теряя скорости. Используйте настройки макроса для более качественного использования. Очень удобно использовать.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+KeyDown 26 1
+KeyUp 225 1
+Delay 2 ms
+KeyUp 26 1
+Delay 2 ms</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

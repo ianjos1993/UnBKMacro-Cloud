@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Grand RP GTA 5 -  1 лвл 3 лвл мастерства на нефтянной скважине
+Кочай нефть на автомате 
+Макрос написанный для нефтикачки в быстром режиме (после 4х часов игры на сервере) (20% бонус)
+Главное не забывайте про капчу на сервере, её макрос не может никак обойти, примерный тайминг капчи равняется семи минутам на нефтянке.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 237 539
+Delay 64
+LeftDown 1
+Delay 3800 ms
+MoveTo 303 542
+Delay 64
+LeftDown 1
+Delay 3800 ms
+MoveTo 373 541
+Delay 64
+LeftDown 1
+Delay 3800 ms
+MoveTo 444 538
+Delay 64
+LeftDown 1
+Delay 3800 ms</Syntax>
+    </KeyDown>
+    <Software>GRAND RP</Software>
+  </DefaultMacro>
+</Root>

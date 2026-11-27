@@ -1,0 +1,82 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>R-99 recoil control in Sensitivity 3.
+Used without standard stock and barrel stabilizer.
+
+Changes:
+Adjusted for more accurate recoil control.
+
+Контроль отдачи R-99 в режиме чувствительности 3.
+Используется без стандартного приклада и стабилизатора ствола.
+
+Изменения:
+Отрегулирован для более точного контроля отдачи.</Description>
+    <Comment>R-99 recoil control in Sensitivity 3</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 53 ms
+MoveR -1 9
+Delay 53 ms
+MoveR 0 8
+Delay 53 ms
+MoveR 0 6
+Delay 53 ms
+MoveR -1 9
+Delay 53 ms
+MoveR -2 12
+Delay 53 ms
+MoveR -6 12
+Delay 53 ms
+MoveR -6 11
+Delay 53 ms
+MoveR -2 10
+Delay 53 ms
+MoveR 0 10
+Delay 53 ms
+MoveR 5 9
+Delay 53 ms
+MoveR 6 9
+Delay 53 ms
+MoveR 1 8
+Delay 53 ms
+MoveR 3 10
+Delay 53 ms
+MoveR -1 3
+Delay 53 ms
+MoveR -4 1
+Delay 53 ms
+MoveR -3 0
+Delay 53 ms
+MoveR -4 1
+Delay 53 ms
+MoveR 5 4
+Delay 53 ms
+MoveR 3 0
+Delay 53 ms
+MoveR 4 1
+Delay 53 ms
+MoveR 3 1
+Delay 53 ms
+MoveR 3 1
+Delay 53 ms
+MoveR -2 1
+Delay 53 ms
+MoveR -4 0
+Delay 53 ms
+MoveR -4 -1
+Delay 53 ms
+MoveR -1 0
+Delay 63 ms
+LeftUp 1
+Delay 500 ms</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

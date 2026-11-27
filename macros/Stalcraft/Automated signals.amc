@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для облегчения поиска сигналов.
+ЭТО НЕ АВТОМАТИЧЕСКОЕ РЕШЕНИЕ (ЧИТАЙТЕ РАЗНИЦУ МЕЖДУ АВТОМАТИЗАЦИЕЙ И АВТОМАТИЗИРОВАНИЕМ).
+
+Макрос будет идти скорее как дополнительный помощник. Конкретно у меня, макрос криво реагирует на смену цвета лампочки, поэтому я сам отслеживаю, когда появился сигнал, а остальной процесс делает макрос.
+
+Инструкция:
+- Забиндить кнопки для активации (у меня к примеру это доп кнопка на мыши).
+- Зайти в игру и чекать сигналы.
+- Как только нашелся сигнал - нажать кнопку, которую раньше забиндили. По итогу, макрос активирует поиск по среднему диапазону и включит САК, и на 6 лампочке он выключит его и нажмет кнопку "Поиск" (если конечно же сигнал был найден).
+
+Для разрешения 1920х1080</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1081 785
+Delay 75 ms
+LeftDown 1
+Delay 75 ms
+LeftUp 1
+Delay 75 ms
+MoveTo 1346 778
+Delay 75 ms
+LeftDown 1
+Delay 75 ms
+LeftUp 1
+Delay 11 s
+LeftDown 1
+Delay 75 ms
+LeftUp 1
+Delay 75 ms
+MoveTo 632 571
+Delay 75 ms
+LeftDown 1
+Delay 75 ms
+LeftUp 1
+Delay 75 ms</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

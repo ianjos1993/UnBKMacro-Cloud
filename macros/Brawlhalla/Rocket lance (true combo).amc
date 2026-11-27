@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro is tailored for rocket lance weapons and works perfectly when the opponent is on the right side. The combo is designed for a true combo. This cannot be dodged.
+
+Needs to have keyboard default controls, short combo but using it multiple times can make the opponent red</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 75 ms
+KeyDown 13 1
+Delay 112 ms
+KeyUp 13 1
+Delay 283 ms
+KeyUp 7 1
+Delay 227 ms
+KeyDown 13 1
+Delay 136 ms
+KeyUp 13 1</Syntax>
+    </KeyDown>
+    <Software>Brawlhalla</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Удаление бистов з бестиария. Открыть бестиарий, навести на крестик, и включить макро. Удаляет всех по очереди.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 400 ms
+LeftDown 1
+Delay 45 ms
+LeftUp 1
+Delay 400 ms
+KeyDown 88 1
+Delay 45 ms
+KeyUp 88 1</Syntax>
+    </KeyDown>
+    <Software>Path of Exile</Software>
+  </DefaultMacro>
+</Root>

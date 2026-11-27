@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>futboey</Major>
+    <Description>Turn your Minecraft sessions into an adrenaline-filled race! With our «Fast Bridge» macro, you can build bridges faster and safer than ever. Simply step to the edge of a block, hold down the Shift key, activate the macro, and watch your bridge take shape in no time. Once you're done, release Shift and continue exploring with ease!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 100 ms
+RightDown 1
+Delay 1 ms
+RightUp 1
+Delay 1 ms
+KeyUp 225 1
+Delay 200 ms
+KeyDown 225 1
+Delay 100 ms
+RightDown 1
+Delay 1 ms
+RightUp 1
+Delay 1 ms
+KeyUp 225 1
+Delay 200 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

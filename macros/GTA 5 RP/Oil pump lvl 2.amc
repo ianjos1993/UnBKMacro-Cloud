@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Pump oil for lvl 2 oil man. Just adjust a bit the delay and how long to press the left button of your mouse. And you have to do the captcha every 8-10 min so take care of that. Works for GRANDRP</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 300 750
+LeftDown 1
+Delay 2250 ms
+LeftUp 1
+MoveTo 400 750
+LeftDown 1
+Delay 2222 ms
+LeftUp 1
+MoveTo 500 750
+LeftDown 1
+Delay 2350 ms
+LeftUp 1
+MoveTo 600 750
+LeftDown 1
+Delay 2400 ms
+LeftUp 1
+GoWhile 1 1000</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

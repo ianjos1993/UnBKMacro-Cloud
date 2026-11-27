@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>СПециальный мкрос на непрерывную стрельбу из оружия под названием ВАРУН
+примечание: Нужен ап на перезарядкук -40 прцоентов,но думаю на обычный тоже пойдет
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 942 ms
+LeftUp 1
+Delay 147 ms
+LeftDown 1
+Delay 1068 ms
+LeftUp 1
+Delay 99 ms
+LeftDown 1
+Delay 1024 ms
+LeftUp 1
+Delay 100 ms
+LeftDown 1
+Delay 1100 ms
+LeftUp 1
+Delay 140 ms
+LeftDown 1
+Delay 963 ms
+LeftUp 1
+Delay 116 ms
+LeftDown 1
+Delay 1047 ms
+LeftUp 1
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Crossout</Software>
+  </DefaultMacro>
+</Root>

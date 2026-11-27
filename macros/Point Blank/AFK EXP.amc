@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макро для афк кача, зашли в бой - прожали кнопку и ушли, советую поставить на не назначенную кнопку в PB.
+Суть макроса- ваш персонаж будет делать шаг вперед и назад каждые 10 секунд, система вас не кикнет.
+Зашли подрыв включили макрос- после боя вышли из лоби и зашли в другое.
+Есть 1 минус портится УС. </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 10000 ms
+KeyUp 26 1
+Delay 10000 ms
+KeyDown 22 1
+Delay 10000 ms
+KeyUp 22 1
+Delay 10000 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

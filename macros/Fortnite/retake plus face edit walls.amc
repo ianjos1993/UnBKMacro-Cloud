@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Работает в совместительстве с моим прошлым макросом "Fast edit f" чтобы после ретэйка стены вы сразу брали редакт, удачи вам.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 1 ms
+KeyDown 25 1
+Delay 1 ms
+KeyUp 25 1
+Delay 1 ms
+LeftDown 1
+Delay 130 ms
+LeftUp 1
+Delay 1 ms
+KeyDown 9 1
+Delay 1 ms
+LeftDown 1
+Delay 400 ms
+LeftUp 1
+Delay 1 ms
+KeyUp 9 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

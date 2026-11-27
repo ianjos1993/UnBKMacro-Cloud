@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Специальный макрос для очень быстрой смены оружия и генерации не большого кол-во ярости за счет этого
+На f3 ставим force move или движение
+На пкм ставим вихрь
+На Q ставим молот древних
+Биндим макрос на правую кнопку  мыши в удобном для вас режиме, рекомендуется выполнять пока зажата кнопка или базовые настройки макроса
+Просто зажимаем ПКМ в игре и всё кастуется автоматически</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 60 1
+Delay 10 ms
+KeyDown 225 1
+Delay 10 ms
+RightDown 1
+Delay 10 ms
+KeyDown 20 1</Syntax>
+    </KeyDown>
+    <Software>Diablo IV</Software>
+  </DefaultMacro>
+</Root>

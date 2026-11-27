@@ -1,0 +1,74 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Открывает инвертарь, ставит камень портал в ботинок, открывает портал, ставит камень обратно и закрывает инвертарь.
+Инструкция:
+Разрешение - 1920х1080
+Камень портал ложим в правый верхний угол
+Умение выставляем на - ctrl+t</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 12 1
+Delay 64
+KeyUp 12 1
+Delay 64
+MoveTo 1877 613
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1744 423
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1877 614
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 224 1
+Delay 64
+KeyDown 23 1
+Delay 64
+KeyUp 224 1
+Delay 64
+KeyUp 23 1
+Delay 64
+MoveTo 1879 614
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1744 424
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1879 615
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1012 556
+Delay 64
+KeyDown 12 1
+Delay 64
+KeyUp 12 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Path of Exile/быстрое открытие портала</Software>
+  </DefaultMacro>
+</Root>

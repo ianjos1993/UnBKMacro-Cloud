@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простой макрос для мышки на быстрый крафт вещей, симулирует зажатия ЛКМ.
+
+Важно!
+Чтобы макрос работал, необходимо ускорить анимацию полоски состояния крафта.
+
+Для этого необходимо отредактировать файл игры:
+1. Открываем любым текстовым редактором файл inputContexts.xml, который лежит в \Cyberpunk 2077\r6\config.
+2. Ищем там hold action="craft_item"
+3. Меняем значение timeout на 0.01 и сохраняем.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 110 ms
+LeftUp 1
+Delay 110 ms</Syntax>
+    </KeyDown>
+    <Software>Cyberpunk 2077</Software>
+  </DefaultMacro>
+</Root>

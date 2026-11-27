@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major>Spamming</Major>
+    <Description>Hold the keybind youve setted the keybind and enjoy spamming the minecraft chat! You maybe can crash some servers with it but mostly no.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 2
+KeyUp 23 1
+Delay 2
+KeyDown 4 1
+Delay 2
+KeyUp 4 1
+Delay 2
+KeyDown 88 1
+Delay 2
+KeyUp 88 1
+Delay 2</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

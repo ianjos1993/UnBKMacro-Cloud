@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Tested on the FLATLINE in Apex Legends. Nearly 100% accurate.
+
+This script jitter your aim so that the shots go in the center. Use sentivirty 2 for best results. It was tweaked so that all shots hit the target without needing to ajust anything.
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 0 0
+Delay 0 ms
+MoveR 15 0
+Delay 34 ms
+MoveR 1 15
+Delay 34 ms
+MoveR -1 -15
+Delay 34 ms
+MoveR -15 0
+Delay 34 ms
+MoveR -10 14
+Delay 34 ms
+MoveR 10 12
+Delay 34 ms
+MoveR -4 6
+Delay 34 ms
+MoveR 7 7
+Delay 34 ms
+MoveR -4 -6
+Delay 34 ms
+MoveR 6 -6
+Delay 34 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

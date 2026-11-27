@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>скрипт для авто игры в плей friday funkin работает 2560x1080 НЕ в ПОЛНОЭКРАННОМ режиме
+допускает 0 миссов но заметен по статистике аккуратности (работает при зажатии бинда)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 6 1 194,75,153 255,255,255 1 1536 180 137 901 1 0
+GoColor 21 1 0,255,255 255,255,255 1 1752 193 2 888 1 0
+GoColor 11 1 18,250,5 255,255,255 1 1959 188 1 893 1 0
+GoColor 16 1 249,57,63 255,255,255 1 2184 212 1 869 1 0
+Goto 24
+KeyDown 80 1
+Delay 2 ms
+KeyUp 80 1
+Delay 2 ms
+Goto 24
+KeyDown 82 1
+Delay 2 ms
+KeyUp 82 1
+Delay 2 ms
+Goto 1
+KeyDown 79 1
+Delay 2 ms
+KeyUp 79 1
+Delay 2 ms
+Goto 24
+KeyDown 81 1
+Delay 2 ms
+KeyUp 81 1
+Delay 2 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

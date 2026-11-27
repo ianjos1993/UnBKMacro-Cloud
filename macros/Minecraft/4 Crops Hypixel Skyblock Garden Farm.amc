@@ -1,0 +1,103 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Так что вам нужно сделать что бы макрос работал правильно:
+1. Построить ферму такую же как у меня ( в ютубе наберите 4 культуры ферма skyblock hypixel garden)
+2. Встать в 85 блоках от края или же по линии где начинаются переходы поставить камеру на Yaw что бы максимально было близко к 90 (совет: в настройках поставьте на минимум чувствительность мыши)
+3. Поставить хом на этом месте командой: /sethome так вы будете телепортироваться с 1 края фермы на другой
+4. Запустить макрос и радоваться если все сделано правильно и не забудьте про зачарование Repltnish иначе придется заново засаживать 
+Что вам придется делать: Продавать собранный урожай, переодически смотреть на компьютер не сломалось ли чего нибудь и главное убирать вредителей они убирают фарминг фортуну если их много а это сказывается на вашем урожае.
+Оценку своему макросу я думаю можно поставить 10 из 10 потому что дополнять тут нечего и он может собирать 4 культуры разницы нету зависит от вашей экипировки.
+Вы используете макросы на свой страх и риск.</Description>
+    <Comment>Это моя 2 версия где есть  практически полная автоматизация.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 1531 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+LeftDown 1
+Delay 32 ms
+KeyDown 26 1
+Delay 22 ms
+KeyDown 7 1
+Delay 23830 ms
+KeyUp 7 1
+Delay 874 ms
+KeyDown 4 1
+Delay 24267 ms
+KeyUp 4 1
+Delay 1467 ms
+KeyUp 26 1
+Delay 23 ms
+GoWhile 1 40
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 64
+KeyDown 56 1
+Delay 64
+KeyUp 56 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+KeyDown 19 1
+Delay 64
+KeyUp 19 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 10 1
+Delay 64
+KeyUp 10 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 17 1
+Delay 64
+KeyUp 17 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+GoWhile 1 10
+//можете менять значение последнего цикла он означает сколько раз будет повторяться полный сбор фермы</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для более удобнной реализации бага со стимулятором октана и графити
+инструкция
+1. в редакторе макроса замените F на вашу клавишу отвечающую за способность героя
+2. назначьте графити на нижний сектор колеса провокаций
+3. привяжите макрос к любой клавише
+4. используйте</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 1 s
+KeyDown 6 1
+Delay 64
+KeyUp 6 1
+Delay 64
+MoveTo 1097 1024
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 5 s</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

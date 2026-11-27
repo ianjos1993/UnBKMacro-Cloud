@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major>Qwerty</Major>
+    <Description>Крайне простой макрос на автотаб стрельбы с повторением пока зажата ЛКМ. Эффективность макроса зависит от состояния FPS, задержку можно ставить от 4 мск до 15, выше или ниже этих цифр, не советую.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Sunrise survival</Software>
+  </DefaultMacro>
+</Root>

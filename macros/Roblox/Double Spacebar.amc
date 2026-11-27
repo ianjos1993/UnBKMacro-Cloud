@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Для игры паркур чтобы нажимать два раза пробел с невероятной скоростью
+С этим ты можешь делать вол климб буст легче простого
+Главное не ставить этот макрос на пробел иначе
+Не сможешь бегать по стенам и другое что можно
+Делать в этой игре так что не советуется так делать)
+Я ещё не тестил но думаю сработает)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 2 ms
+KeyUp 44 1
+Delay 2 ms
+KeyDown 44 1
+Delay 2 ms
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

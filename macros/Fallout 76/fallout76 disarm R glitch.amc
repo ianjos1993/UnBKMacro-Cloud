@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Глитч на дизарм ловушек с помощью макроса.. Низкая задержка позволяет долго держать ловушку. С одной ловушки профит минимум в 5 лвлов, и 10к топлива(на примере огнемета) </Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 5 ms
+KeyUp 21 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Fallout 76</Software>
+  </DefaultMacro>
+</Root>

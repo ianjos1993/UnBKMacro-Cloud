@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос для VimeWorld поможет вам автоматически ставить воду под ноги врагу, подбирая её, и возвращая курсор на место, истользуется на дуэлях UHC. Это поможет вам замедлить врага либо потушить самого себя
+
+1. Работает на разрешении экрана в 1600 х 900.
+2. Чуствительность в игре обязательно ставить 100!
+3. Во время работы макроса ( менее чем пол секунды ) желатльно не трогать мышку.
+4. Ведро с лавой ставить на 6 слот.
+5. Биндите на любую удобную вам клавишу, и начинайте побеждать)
+
+По всем вопросам обращатся:
+Дс - morskou
+Вк - vk.com/mylterfx</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 36 1
+Delay 1 ms
+KeyUp 36 1
+Delay 1 ms
+MoveR 0 8
+Delay 1 ms
+GoWhile 5 90
+MoveR 0 -3
+Delay 1 ms
+GoWhile 8 90
+RightDown 1
+Delay 1 ms
+RightUp 1
+Delay 1 ms
+RightDown 1
+Delay 1 ms
+RightUp 1
+Delay 1 ms
+MoveR 0 -4
+Delay 1 ms
+GoWhile 19 90</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

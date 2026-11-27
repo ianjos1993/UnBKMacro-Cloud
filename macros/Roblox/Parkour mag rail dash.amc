@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для игры про паркур в роблоксе, задержка макроса установлена для 100 ms задержки по пингу, если у вас пинг больше или меньше, то смените задержку (если выше пинг, то выше задержка в макросе и наоборот) 
+Примечание: Число задержки строго чётное: например( 2 4 6 8 и т.д.)
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 8 ms
+KeyUp 8 1
+Delay 8 ms
+KeyDown 44 1
+Delay 8 ms
+KeyUp 44 1
+Delay 8 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

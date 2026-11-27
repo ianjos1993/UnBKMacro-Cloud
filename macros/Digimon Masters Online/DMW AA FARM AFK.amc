@@ -1,0 +1,123 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Hello guys,
+
+This macro is for AA (Auto Attack) Spots in DMW (Digimon Masters World) in this private server there are spot's that we can't cast skills in digimons, only AA. So, this macro is to farm in this spots. 
+
+- Simple Macro
+- W and S to short movement (just to kill mobs that moves in the spot)
+- ID Magnetic required
+- ONLY SPOTS AA WITH MOBS TOGETHER</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 500 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 500 ms
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 500 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 500 ms
+Delay 64
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 500 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 500 ms
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 500 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 500 ms
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 500 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 500 ms
+Delay 64
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 500 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 500 ms
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 500 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 500 ms
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 500 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 500 ms
+Delay 64
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 500 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 500 ms
+GoWhile 1 10000</Syntax>
+    </KeyDown>
+    <Software>Digimon Masters Online</Software>
+  </DefaultMacro>
+</Root>

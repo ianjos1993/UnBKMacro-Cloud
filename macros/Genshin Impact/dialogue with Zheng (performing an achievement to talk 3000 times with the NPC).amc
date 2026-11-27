@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major>Можно использовать для выполнения ачивки, а можно для сбора ресурсов, когда просто по миру бегаешь</Major>
+    <Description>Авто начинание и автоскип диалога с нпс (лююбым, где нет выбора) чаще всего используют для ачивки чжэна около золотой палаты.
+Этот макрос можно использовать для сбора ресурсов во время бега по миру</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+KeyUp 9 1
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

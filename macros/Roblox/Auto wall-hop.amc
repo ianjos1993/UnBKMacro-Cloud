@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Поможет вам в обби с Wall-hop. сам нажимает Shift и прыжок (p.s если не сработал попробуйте поменять задержку на более низкую)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 24 ms
+KeyUp 225 1
+Delay 14 ms
+KeyDown 44 1
+Delay 14 ms
+KeyUp 44 1
+Delay 24 ms
+KeyDown 4 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>
+Very Consistent Movestack – Any Ultimate with Cyborg (GPO)
+
+
+
+&gt;Works with any ability (bind it to whatever you want)
+
+&gt;Do NOT use TP dashes, only use roll dash
+
+&gt;Start with Cyborg equipped
+
+&gt;The second Ultimate you want to use must be in slot 2 on your hotbar
+
+
+
+Notes:
+
+Movestacking in GPO is heavily dependent on ping and FPS, but this method works about 99% of the time when done correctly.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+KeyUp 20 1
+KeyDown 9 1
+KeyUp 9 1
+Delay 1 ms
+KeyDown 6 1
+Delay 3 ms
+KeyDown 31 1
+Delay 8 ms
+KeyUp 31 1
+Delay 8 ms
+KeyDown 6 1
+KeyUp 6 1
+KeyDown 6 1
+KeyUp 6 1
+KeyDown 30 1
+KeyUp 30 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

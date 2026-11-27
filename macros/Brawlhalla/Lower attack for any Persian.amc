@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для упрощённого комбо нижнего удара под любое оружие и персонажа, лучше всего биндить на одну кнопку и с помощью неё делать прокаст</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 20
+KeyDown 81 1
+KeyDown 6 1
+Delay 20
+KeyUp 6 1
+Delay 20
+KeyDown 81 1
+Delay 20
+KeyUp 81 1
+Delay 20
+KeyDown 29 1
+Delay 20
+KeyUp 29 1
+Delay 20</Syntax>
+    </KeyDown>
+    <Software>Brawlhalla</Software>
+  </DefaultMacro>
+</Root>

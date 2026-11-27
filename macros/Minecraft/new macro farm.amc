@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос для фарма нормальный отхил и удары быстро проносяться по цели на которую вы навели прицел. для пвп этот макрос не советую. с его помощью можно легко убивать ифрита края.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+LeftDown 1
+Delay 8 ms
+LeftUp 1
+Delay 8 ms
+LeftDown 1
+Delay 8 ms
+LeftUp 1
+Delay 8 ms
+LeftDown 1
+Delay 8 ms
+LeftUp 1
+KeyDown 32 1
+Delay 8 ms
+KeyUp 32 1
+RightDown 1
+Delay 8 ms
+RightUp 1
+Delay 8 ms
+RightDown 1
+Delay 8 ms
+RightUp 1
+Delay 8 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Добрый День, и так.
+Для того что бы правильно использовать ( си эй ) скрипт
+нужно 1 раз написать в чат ( тот текст который вы хотите пиарить и отправить его в чат ) и запускаем
+
+                      ( ОБОЗНОЧЕНИЕ И РЕКОМЕНДАЦИИ )
+
+Этот скрипт преднозначен, для приара варпа в Minecraft на любом сервера.
+свеого-либи друга, не важно Пиар происходит раз в 65 сек, 
+по большей части этот скрипт преднозначен для продолжительного отсутствия 
+за персональным компьютером, что бы не терять время, а использовать его с пользой
+этот скрипт как рас для вас!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 1 s
+KeyDown 224 1
+KeyDown 25 1
+KeyUp 25 1
+KeyUp 224 1
+Delay 1 s
+KeyUp 23 1
+Delay 1 s
+KeyDown 40 1
+KeyUp 40 1
+Delay 1 s
+KeyDown 23 1
+Delay 3 s
+KeyDown 55 1
+KeyUp 55 1
+KeyUp 23 1
+KeyDown 40 1
+KeyUp 40 1
+Delay 5 min</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

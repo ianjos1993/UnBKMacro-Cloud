@@ -1,0 +1,49 @@
+<Root>
+  <DefaultMacro>
+    <Major>iV3Xz</Major>
+    <Description>Pick up on 4, auto hit on 1, tab to select. Perfect for a place with one digimon that resurrects on the same place (or close) everytime. Ideally, one hit kill. Enjoy free farming!</Description>
+    <Comment>https://botmek.com - Free macros download</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//Converted macro file 17 November 2021 11:07:52
+KeyDown 43 1
+Delay 101 ms
+KeyUp 43 1
+Delay 111 ms
+KeyDown 30 1
+Delay 136 ms
+KeyUp 30 1
+KeyDown 33 1
+Delay 104 ms
+KeyUp 33 1
+Delay 110 ms
+KeyDown 33 1
+Delay 102 ms
+KeyUp 33 1
+Delay 125 ms
+KeyDown 33 1
+Delay 111 ms
+KeyUp 33 1
+Delay 116 ms
+KeyDown 33 1
+Delay 119 ms
+KeyUp 33 1
+Delay 111 ms
+KeyDown 88 1
+Delay 111 ms
+KeyUp 88 1
+Delay 110 ms
+KeyDown 41 1
+Delay 110 ms
+KeyUp 41 1
+Delay 220 ms
+GoWhile 2 86400001</Syntax>
+    </KeyDown>
+    <Software>Digimon Masters Online</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,98 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro executes a precise Mena Flip — a high-level recovery and speed mechanic used by pro players. It's tailored for setups where Right Click is bound to Jump. The macro perfectly times the movements to replicate the Mena Flip consistently.
+
+ Setup Requirements:
+
+"Jump" must be bound to Right Click in Rocket League.
+
+Assign this macro to your chosen hotkey within Keyran.
+
+ What it does:
+
+Initiates a short jump (Right Click)
+
+Begins a diagonal flip combined with air roll
+
+Times the second jump mid-flip to cancel and boost momentum
+
+Results in a fast, smooth recovery or speed gain
+
+ Note: This macro is designed for training or casual play. Avoid using in competitive modes where macros are prohibited. Use at your own risk.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 726 ms
+LeftDown 1
+Delay 70 ms
+LeftUp 1
+Delay 496 ms
+LeftDown 1
+Delay 148 ms
+KeyDown 26 1
+Delay 87 ms
+KeyDown 7 1
+Delay 508 ms
+KeyUp 7 1
+Delay 19 ms
+KeyUp 26 1
+Delay 140 ms
+RightDown 1
+Delay 33 ms
+KeyDown 22 1
+Delay 26 ms
+KeyDown 4 1
+Delay 0 ms
+KeyDown 8 1
+Delay 119 ms
+KeyUp 22 1
+Delay 6 ms
+RightUp 1
+Delay 6 ms
+KeyUp 4 1
+Delay 20 ms
+KeyUp 8 1
+Delay 187 ms
+KeyDown 26 1
+Delay 19 ms
+KeyDown 4 1
+Delay 55 ms
+RightDown 1
+Delay 24 ms
+KeyDown 225 1
+Delay 19 ms
+KeyUp 26 1
+Delay 34 ms
+KeyDown 22 1
+Delay 145 ms
+RightUp 1
+Delay 61 ms
+KeyUp 225 1
+Delay 64 ms
+LeftUp 1
+Delay 9 ms
+KeyUp 22 1
+Delay 13 ms
+KeyUp 4 1
+Delay 635 ms
+KeyDown 226 1
+Delay 33 ms
+KeyDown 43 1
+Delay 120 ms
+KeyUp 226 1
+Delay 5 ms
+KeyUp 43 1
+Delay 1595 ms
+LeftDown 1
+Delay 86 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rocket League</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,54 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для автоматической фермы ягод на сервер Funtime (Анархия).
+Позволяет автоматически добывать (при наличии правильной структуры фермы сладких ягод с вагонеткой) и продавать скупщику каждые 8 минут (+- время заполнения инвентаря).
+
+Разрабатывалось и тестировалось для расширения 1680 х 1050.
+
+Способ работы:
+- Постройте структуру по гайдам из интернета
+- Запустите вагонетку по циклическому маршруту
+- Нацельте курсор на ряды сладких ягод
+- Включите макрос
+(Работает долго, выключайте при необходимости)</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 91 1
+Delay 64
+KeyUp 91 1
+Delay 1 s
+MoveTo 841 403
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+MoveTo 805 436
+Delay 500 ms
+LeftDown 1
+LeftUp 1
+MoveTo 839 435
+Delay 500 ms
+Delay 500 ms
+LeftDown 1
+Delay 500 ms
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+KeyDown 8 1
+Delay 1 ms
+KeyUp 8 1
+RightDown 1
+Delay 8 min
+RightUp 1
+GoWhile 1 10000</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major>Grand RP ticket farming and Anti-AFK at the same time</Major>
+    <Description>Ticket farming while afk and Anti-Afk. Make sure you can see G "Button" for interactions" before u start macro
+Resolution: 1920x1080 Windows Bordeless it s not tested in fullschreen</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 46 ms
+KeyUp 225 1
+Delay 200 ms
+KeyDown 10 1
+Delay 101 ms
+KeyUp 10 1
+Delay 400 ms
+KeyDown 33 1
+Delay 112 ms
+KeyUp 33 1
+Delay 1444 ms
+KeyDown 37 1
+Delay 115 ms
+KeyUp 37 1
+Delay 1491 ms
+KeyDown 41 1
+Delay 98 ms
+KeyUp 41 1
+Delay 400 ms
+Delay 282 ms
+GoWhile 1 10000</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

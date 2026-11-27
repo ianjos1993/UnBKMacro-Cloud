@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>a simple macro to front flip if some of your keys dont work for example the"W" the macro is editable for any wasd keys </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1439 ms
+KeyDown 26 1
+Delay 391 ms
+RightDown 1
+Delay 67 ms
+RightUp 1
+Delay 72 ms
+RightDown 1
+Delay 109 ms
+RightUp 1
+Delay 894 ms
+KeyUp 26 1
+Delay 1122 ms
+LeftDown 1
+Delay 91 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rocket League</Software>
+  </DefaultMacro>
+</Root>

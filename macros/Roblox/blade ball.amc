@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрас позволяет вам спамить в близии без всяких трудностей,применение и использованиее легчайщие.
+Приминение:вам необходимо нажать клавишу "Q" после чего у вас активируется  макрас, чтобы остановить макрас нажмите туже клавишу "Q"</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 2
+KeyUp 9 1
+Delay 2
+KeyDown 9 1
+Delay 2
+KeyUp 9 1
+Delay 2
+LeftDown 1
+Delay 2
+LeftUp 1
+Delay 2</Syntax>
+    </KeyDown>
+    <Software>Roblox, Blade Ball *spam Parry*</Software>
+  </DefaultMacro>
+</Root>

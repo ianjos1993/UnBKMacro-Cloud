@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Это макрос для дроби (любой) нужна быстрая смена очень хорошо ходить с этого макроса по бошкам поможет если нужн буст статы </Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 10 ms
+LeftDown 1
+Delay 20 ms
+LeftUp 1
+Delay 22 ms
+KeyDown 32 1
+Delay 24 ms
+KeyUp 32 1
+KeyDown 30 1
+Delay 24 ms
+KeyUp 30 1
+Delay 30 ms
+Delay 395 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

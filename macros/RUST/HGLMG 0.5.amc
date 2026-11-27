@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major>macro HGMLG</Major>
+    <Description>this macro is for HGLMG low sens 0.5
+1920 x 1080
+DPI 2800-3000
+Fov 90
+sens 0.5
+
+support me and enjoy!
+
+BlackMamba</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 5 ms
+MoveR 1 5
+Delay 5 ms
+MoveR 4 5
+Delay 5 ms
+MoveR 4 5
+Delay 5 ms
+MoveR 4 5
+Delay 5 ms
+MoveR 4 5
+Delay 4 ms
+MoveR 4 5
+Delay 4 ms</Syntax>
+    </KeyDown>
+    <Software>rust</Software>
+  </DefaultMacro>
+</Root>

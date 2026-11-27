@@ -1,0 +1,134 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>В меню вам надо остановить выбор на кнопке "Автосалон", после чего запустить макрос. У каждого может быть индивидуальная настройка таймингов, а так клавиши верные.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 200 ms
+KeyDown 88 1
+Delay 64 ms
+KeyUp 88 1
+Delay 120 ms
+KeyDown 4 1
+Delay 120 ms
+KeyUp 4 1
+Delay 120 ms
+KeyDown 4 1
+Delay 120 ms
+KeyUp 4 1
+Delay 120 ms
+KeyDown 4 1
+Delay 120 ms
+KeyUp 4 1
+Delay 120 ms
+KeyDown 4 1
+Delay 120 ms
+KeyUp 4 1
+Delay 120 ms
+KeyDown 4 1
+Delay 120 ms
+KeyUp 4 1
+Delay 120 ms
+KeyDown 4 1
+Delay 120 ms
+KeyUp 4 1
+Delay 120 ms
+KeyDown 4 1
+Delay 120 ms
+KeyUp 4 1
+Delay 120 ms
+KeyDown 4 1
+Delay 120 ms
+KeyUp 4 1
+Delay 120 ms
+KeyDown 4 1
+Delay 120 ms
+KeyUp 4 1
+Delay 120 ms
+KeyDown 4 1
+Delay 120 ms
+KeyUp 4 1
+Delay 120 ms
+KeyDown 4 1
+Delay 120 ms
+KeyUp 4 1
+Delay 120 ms
+KeyDown 4 1
+Delay 120 ms
+KeyUp 4 1
+Delay 120 ms
+KeyDown 4 1
+Delay 120 ms
+KeyUp 4 1
+Delay 120 ms
+KeyDown 4 1
+Delay 120 ms
+KeyUp 4 1
+Delay 120 ms
+KeyDown 4 1
+Delay 120 ms
+KeyUp 4 1
+Delay 120 ms
+KeyDown 4 1
+Delay 120 ms
+KeyUp 4 1
+Delay 120 ms
+KeyDown 4 1
+Delay 120 ms
+KeyUp 4 1
+Delay 120 ms
+KeyDown 4 1
+Delay 120 ms
+KeyUp 4 1
+Delay 120 ms
+KeyDown 4 1
+Delay 120 ms
+KeyUp 4 1
+Delay 120 ms
+KeyDown 4 1
+Delay 120 ms
+KeyUp 4 1
+Delay 120 ms
+KeyDown 4 1
+Delay 120 ms
+KeyUp 4 1
+Delay 120 ms
+KeyDown 4 1
+Delay 120 ms
+KeyUp 4 1
+Delay 120 ms
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 12 s
+KeyDown 88 1
+Delay 64 ms
+KeyUp 88 1
+Delay 300 ms
+KeyDown 88 1
+Delay 64 ms
+KeyUp 88 1
+Delay 400 ms
+KeyDown 88 1
+Delay 64 ms
+KeyUp 88 1
+Delay 300 ms
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 15 s
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 300 ms
+GoWhile 1 30</Syntax>
+    </KeyDown>
+    <Software>Forza Horizon 6</Software>
+  </DefaultMacro>
+</Root>

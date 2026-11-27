@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major>EasyNick</Major>
+    <Description>Простой удобный макрос для блинка на одну кнопку играется через посох на втором слоте одной кнопкой меняем оружие и пробелом блинкуем главное что бы стоял скилл активным на тором оружие.
+Кнопки скиллов можно поменять, настроено так Боковая клавиша мыши - поменять оружие, пробел - блинк.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Button4down 1
+Button4Up 1
+Delay 80 ms
+KeyDown 44 1
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>Path of Exile 2</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Фармит некст компанию нужно отвлекатся только на катсцены если надо и на выпадение героев обезательно он их не скипает</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 5 s
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 5 s
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>RAID: Shadow Legends</Software>
+  </DefaultMacro>
+</Root>

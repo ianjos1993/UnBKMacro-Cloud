@@ -1,0 +1,87 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для лечения юнитов по 1600
+Для работы макрос уже готовый,нужно только подогнать под свой экран для корректного нажатия
+Можно настроить на большее кол-во лечения,все зависит от ваших "Ручек"</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//тык на больницу 
+MoveTo 801 341
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 200 ms
+//тык лечить
+MoveTo 827 535
+Delay 150 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 200 ms
+//сброс войск
+MoveTo 1791 703
+Delay 150 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 200 ms
+//убрать 0
+MoveTo 1590 262
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 42 1
+Delay 64
+KeyUp 42 1
+Delay 64
+KeyDown 76 1
+Delay 64
+KeyUp 76 1
+Delay 64
+//кол войск
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 35 1
+Delay 64
+KeyUp 35 1
+Delay 64
+KeyUp 39 1
+Delay 64
+KeyDown 39 1
+Delay 64
+KeyUp 39 1
+Delay 64
+KeyDown 39 1
+KeyUp 39 1
+Delay 150 ms
+//тык лечить
+MoveTo 1511 928
+Delay 150 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2 s
+//войти в боль
+MoveTo 801 341
+Delay 400 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1 s
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Doomsday Last Survivals</Software>
+  </DefaultMacro>
+</Root>

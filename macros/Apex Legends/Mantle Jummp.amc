@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major>Mantle Jump macro</Major>
+    <Description>This macro definitely works. Since the double jump issue has been resolved, it should work on any zip line.
+
+Just get the timing right, and the macro will do the rest for you.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 50 ms
+KeyUp 22 1
+Delay 1 ms
+KeyDown 8 1
+Delay 30 ms
+KeyUp 8 1
+Delay 50 ms
+KeyDown 44 1
+KeyUp 44 1
+Delay 50 ms
+KeyDown 44 1
+KeyUp 44 1
+KeyDown 26 1
+Delay 30 ms
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

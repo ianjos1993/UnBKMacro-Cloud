@@ -1,0 +1,56 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для полуавтоматического копирования в работе с таблицами приемки и отпуска по отделениям в программе 1С.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 20 ms
+KeyDown 6 1
+Delay 20 ms
+KeyUp 6 1
+Delay 20 ms
+KeyUp 224 1
+Delay 20 ms
+KeyDown 81 1
+Delay 20 ms
+KeyUp 81 1
+Delay 60 ms
+KeyDown 226 1
+Delay 20 ms
+KeyDown 43 1
+Delay 20 ms
+KeyUp 43 1
+Delay 20 ms
+KeyUp 226 1
+Delay 20 ms
+KeyDown 224 1
+Delay 20 ms
+KeyDown 25 1
+Delay 20 ms
+KeyUp 25 1
+Delay 20 ms
+KeyUp 224 1
+Delay 20 ms
+KeyDown 88 1
+Delay 20 ms
+KeyUp 88 1
+Delay 20 ms
+KeyDown 226 1
+Delay 20 ms
+KeyDown 43 1
+Delay 20 ms
+KeyUp 43 1
+Delay 20 ms
+KeyUp 226 1
+Delay 60 ms</Syntax>
+    </KeyDown>
+    <Software>Другие</Software>
+  </DefaultMacro>
+</Root>

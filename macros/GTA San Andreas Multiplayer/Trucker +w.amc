@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>1. Биндите на любую клавишу. 
+2. Садитесь в тачку, нажимаете забиндиную клавишу и машина будет ехать сама.
+3. Чтобы отключить бинд нажмите еще раз на кнопку бинда.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 0 ms
+KeyDown 26 1
+Delay 10 min</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

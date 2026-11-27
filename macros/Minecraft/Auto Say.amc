@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>И вновь всем добрейшего утра и хорошего настроения.Сегодня я решил опубликовать еще 1 макрос для модерации и администрации различных серверов по Minecraft.И это макрос,который автоматически пишет команду /say.Данная команда необходима для того, чтобы писать какие либо объявления на сервере(текст выделяется розовым цветом).Эта команда очень необходима для модерации,т.к именно модерация проводит различные события.Например такие как:Царь горы.Мистический сундук и тд.Надеюсь вам понравится.
+
+Инструкция по настройке:
+1)Скачиваете файл данного макроса.
+2)Выбираете удобную для вас клавишу.
+3)Нажимаете по ней правой кнопкой мыши.
+4)После нажимаете "Назначить макрос".
+5)Сохраняете и используете.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 32 ms
+KeyUp 56 1
+Delay 32 ms
+KeyDown 22 1
+Delay 32 ms
+KeyUp 22 1
+Delay 32 ms
+KeyDown 4 1
+Delay 32 ms
+KeyUp 4 1
+Delay 32 ms
+KeyDown 28 1
+Delay 32 ms
+KeyUp 28 1
+Delay 32 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

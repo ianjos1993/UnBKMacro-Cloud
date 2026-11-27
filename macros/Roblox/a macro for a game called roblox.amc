@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Я только начинаю работать с макросом не судите строго.Данный файл предназначен для анти-афк в игре под названием роблокс.Он помогает в таких режимах как Build a board for treasure и т.д.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы 
+
+Я только начинаю работать с макросом не судите строго.Данный файл предназначен для анти-афк в игре под названием роблокс.Он помогает в таких режимах как Build a board for treasure и т.д.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 10 s
+KeyUp 44 1
+Delay 10 s
+KeyDown 26 1
+Delay 1 s
+KeyUp 26 1
+Delay 1 s
+KeyDown 7 1
+Delay 1 s
+KeyUp 7 1
+Delay 1 s
+KeyDown 22 1
+Delay 1 s
+KeyUp 22 1
+Delay 1 s
+KeyDown 4 1
+Delay 1 s
+KeyUp 4 1
+Delay 18 min
+GoWhile 1 30</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

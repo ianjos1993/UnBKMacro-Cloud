@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>_________________________________Макрос имеет расширение .amc ______________________________________ 
+
+Это макрос для автомата AK-15 из игры Ring of Elysium. Он максимально убирает отдачу у этой винтовки (AK-15). Этот макрос для прицелов Red Dot, голографический прицел. 
+Чувствительность мыши в игре для оружия - 40%
+ 		
+</Description>
+    <Comment> 123
+</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 34 ms
+MoveR 0 11
+Delay 34 ms
+MoveR 0 11
+Delay 34 ms
+MoveR 0 10
+LeftUp 1
+Delay 17 ms</Syntax>
+    </KeyDown>
+    <Software>Ring of Elysium</Software>
+  </DefaultMacro>
+</Root>

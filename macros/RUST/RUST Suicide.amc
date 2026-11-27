@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Теперь вы можете килятся по одной кнопке, это мне очень помогала в игре, решил вам скинуть.
+
+
+---------------------------------------------------------------------------------------------------------
+Думаю вопросов не будут, ну если возникнут пишите я отвечу Раскладка ENG во время нажатие </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 58 1
+Delay 98 ms
+KeyUp 58 1
+Delay 210 ms
+KeyDown 14 1
+Delay 10 ms
+KeyDown 12 1
+Delay 10 ms
+KeyUp 14 1
+Delay 10 ms
+KeyUp 12 1
+Delay 10 ms
+KeyDown 15 1
+Delay 10 ms
+KeyUp 15 1
+Delay 10 ms
+KeyDown 15 1
+Delay 10 ms
+KeyUp 15 1
+Delay 115 ms
+KeyDown 88 1
+Delay 35 ms
+KeyUp 88 1
+Delay 546 ms
+KeyDown 58 1
+Delay 30 ms
+KeyUp 58 1</Syntax>
+    </KeyDown>
+    <Software>rust</Software>
+  </DefaultMacro>
+</Root>

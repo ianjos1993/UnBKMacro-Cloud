@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Здравтсвуйте!Кому этот макрос будет интересен,всё что сказаное ниже для вас!Этот макрос я создал недавно,и он уже был проверен мной и ещё нескольками людей.Этот макрос выключает,(почти) раздачу,благодаря чему стрелять становиться гораздо проще!На этом всё</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 1 1
+Delay 13 ms
+MoveR -1 1
+Delay 13 ms</Syntax>
+    </KeyDown>
+    <Software>Caliber</Software>
+  </DefaultMacro>
+</Root>

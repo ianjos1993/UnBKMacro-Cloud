@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>Макрос «Анти АФК Дубровский от Жоры v1.0» для «GTA 5 RP»</Major>
+    <Description>Макрос «Анти АФК Дубровский от Жоры v1.0» для «GTA 5 RP» скачать и использовать на клавиатуре.
+Установка макроса происходит одним движением в программе Keyran!
+Для обхода АФК на сервере RAGE MP (Dubrovskiy) Дубровский синдикат предлагаем вам использовать уникальный макрос. Теперь вам не обязательно нужно присутствовать в игре для повышения уровня. Встань в безлюдном месте и нажми горячую клавишу, Желательно дома! Мы желаем всем хорошего пользования этим функционалом! Проверено на разрешении экрана 1980х1080</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 3 5 s
+KeyUp 26 1
+Delay 3 5 s
+KeyDown 7 1
+Delay 3 5 s
+KeyUp 7 1
+Delay 3 5 s
+KeyDown 22 1
+Delay 3 5 s
+KeyUp 22 1
+Delay 3 5 s
+KeyDown 4 1
+Delay 3 5 s
+KeyUp 4 1
+Delay 3 5 s
+Delay 12 15 min
+GoWhile 1 99</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

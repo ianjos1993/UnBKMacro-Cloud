@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для работы на стройке гта5рп
+Просто 1 раз нажимаешь заданную кнопку и заполняется шкала действия</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 1 ms
+KeyUp 8 1
+Delay 1 ms
+KeyDown 28 1
+Delay 1 ms
+KeyUp 28 1
+Delay 1 ms
+KeyDown 9 1
+Delay 1 ms
+KeyUp 9 1
+Delay 1 ms
+GoWhile 1 130</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

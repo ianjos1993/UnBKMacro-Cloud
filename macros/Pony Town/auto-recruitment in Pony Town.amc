@@ -1,0 +1,176 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для автоматического набора в пт.
+
+Что делает данный макрос?
+
+1. Он открывает строку ввода сообщения (на Enter).
+2. Потом он наводит мышку туда и ей вставляет, тк я не смог настроить через  Ctrl+V.
+3. Прописывает цифры, что бы сообщения не были однотипные.
+
+Тут 5 повторений с разными цифрами. 
+У меня проблемы с экраном, но по идее у всех будет работать правильно (я про координаты перемещения мышки), игра открыта во весь экран, но не в полно эранном режиме.
+
+Если ваши сообщения не отправляються в чат, просто перезапустите игру, мне помогало. Если вы остановили рабоу макроса, то советую запустить/остановить KeyRun, так как иногда он запускаеться с середины и вся его работа ломаеться.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 88 1
+KeyUp 88 1
+Delay 100 200 ms
+KeyDown 30 1
+KeyUp 30 1
+Delay 300 600 ms
+MoveTo 109 535
+Delay 150 250 ms
+RightDown 1
+RightUp 1
+Delay 100 200 ms
+MoveTo 212 374
+Delay 150 350 ms
+LeftDown 1
+LeftUp 1
+Delay 100 200 ms
+KeyDown 96 1
+KeyUp 96 1
+Delay 200 700 ms
+KeyDown 38 1
+KeyUp 38 1
+Delay 200 700 ms
+KeyDown 88 1
+KeyUp 88 1
+Delay 1 3 s
+KeyDown 88 1
+KeyUp 88 1
+Delay 100 200 ms
+MoveTo 109 535
+Delay 150 250 ms
+RightDown 1
+RightUp 1
+Delay 100 200 ms
+MoveTo 212 374
+Delay 150 350 ms
+LeftDown 1
+LeftUp 1
+Delay 100 200 ms
+KeyDown 34 1
+KeyUp 34 1
+Delay 200 700 ms
+KeyDown 31 1
+KeyUp 31 1
+Delay 64
+KeyDown 37 1
+KeyUp 37 1
+Delay 200 700 ms
+KeyDown 88 1
+KeyUp 88 1
+Delay 1 3 s
+KeyDown 88 1
+KeyUp 88 1
+Delay 100 200 ms
+KeyDown 36 1
+KeyUp 36 1
+Delay 300 600 ms
+KeyDown 32 1
+KeyUp 32 1
+Delay 200 700 ms
+MoveTo 109 535
+Delay 150 250 ms
+RightDown 1
+RightUp 1
+Delay 100 200 ms
+MoveTo 212 374
+Delay 150 350 ms
+LeftDown 1
+LeftUp 1
+Delay 100 200 ms
+KeyDown 34 1
+KeyUp 34 1
+Delay 200 700 ms
+KeyDown 88 1
+Delay 1 3 s
+KeyDown 88 1
+KeyUp 88 1
+Delay 100 200 ms
+KeyDown 30 1
+KeyUp 30 1
+Delay 300 600 ms
+MoveTo 109 535
+Delay 150 250 ms
+RightDown 1
+RightUp 1
+Delay 100 200 ms
+MoveTo 212 374
+Delay 150 350 ms
+LeftDown 1
+LeftUp 1
+Delay 100 200 ms
+KeyDown 38 1
+KeyUp 38 1
+Delay 200 700 ms
+KeyDown 32 1
+KeyUp 32 1
+Delay 200 700 ms
+KeyDown 88 1
+KeyUp 88 1
+Delay 1 3 s
+KeyDown 88 1
+KeyUp 88 1
+Delay 100 200 ms
+MoveTo 109 535
+Delay 150 250 ms
+RightDown 1
+RightUp 1
+Delay 100 200 ms
+MoveTo 212 374
+Delay 150 350 ms
+LeftDown 1
+LeftUp 1
+Delay 100 200 ms
+KeyDown 36 1
+KeyUp 36 1
+Delay 300 600 ms
+KeyDown 34 1
+KeyUp 34 1
+Delay 200 700 ms
+KeyDown 35 1
+KeyUp 35 1
+Delay 200 700 ms
+KeyDown 88 1
+KeyUp 88 1
+Delay 1 3 s
+KeyDown 88 1
+KeyUp 88 1
+Delay 100 200 ms
+MoveTo 109 535
+Delay 150 250 ms
+RightDown 1
+RightUp 1
+Delay 100 200 ms
+MoveTo 212 374
+Delay 150 350 ms
+LeftDown 1
+LeftUp 1
+Delay 100 200 ms
+KeyDown 33 1
+KeyUp 33 1
+Delay 300 600 ms
+KeyDown 34 1
+KeyUp 34 1
+Delay 200 700 ms
+KeyDown 35 1
+KeyUp 35 1
+Delay 200 700 ms
+KeyDown 88 1
+KeyUp 88 1
+Delay 1 3 s</Syntax>
+    </KeyDown>
+    <Software>Pony Town</Software>
+  </DefaultMacro>
+</Root>

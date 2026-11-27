@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major>Mondecho</Major>
+    <Description>i mad the usefull mechanic: the half flip, its very usefull because with it, you can fast change ur direction.
+controls are:jump-space;w,a,s,d;boost-left mouse button;air_role_left-Q.
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 147 ms
+KeyDown 44 1
+Delay 100 ms
+KeyUp 44 1
+Delay 75 ms
+KeyDown 44 1
+Delay 125 ms
+KeyUp 44 1
+Delay 65 ms
+KeyUp 22 1
+Delay 57 ms
+KeyDown 26 1
+Delay 150 ms
+LeftDown 1
+KeyDown 20 1
+Delay 350 ms
+KeyUp 26 1
+Delay 200 ms
+KeyUp 20 1
+Delay 200 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rocket League</Software>
+  </DefaultMacro>
+</Root>

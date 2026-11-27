@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>jitter aim, use 720p please as that is what i use.
+
+Jitter Aiming for 720px with 1-1.5 Sens
+
+This one works fine after i tested it
+
+Jitter aiming works by "jittering" your mouse very fast in either a diagonal path or a small circle which for whatever reason negates almost all recoil</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 3 ms
+MoveR -4 4
+Delay 5 ms
+MoveR 4 -4
+Delay 16 ms</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

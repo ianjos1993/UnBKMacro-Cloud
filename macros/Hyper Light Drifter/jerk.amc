@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос для ачивки в 800 рывков подряд и для других заданий . рывок работает при 30 fps и вкл vsync.
+
+
+
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 70 ms
+KeyUp 44 1
+Delay 170 ms</Syntax>
+    </KeyDown>
+    <Software>Hyper Light Drifter</Software>
+  </DefaultMacro>
+</Root>

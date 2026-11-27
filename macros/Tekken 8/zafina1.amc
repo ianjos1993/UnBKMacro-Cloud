@@ -1,0 +1,62 @@
+<Root>
+  <DefaultMacro>
+    <Major>Zafina Sample Combo 1</Major>
+    <Description>Макрос позволяет выполнять комбо за Zafina с лаунчера df2.
+Видео демонстрации работы макроса: https://youtu.be/R3hGXqhHDVU
+
+Зафина — игровой персонаж в серии Tekken. Она астролог, чьей деревне было поручено защитить могилу Азазеля. Зафина была представлена ​​в Tekken 6 , а также появляется в Tekken 7 как персонаж DLC в третьем сезонном пропуске Tekken 8 и в дополнительной игре Tekken Tag Tournament 2. Зафина изображена мудрой провидицей, предпочитающей обдумывать проблемы, прежде чем действовать. Она видит долгосрочные последствия, а не только сиюминутные ситуации. Она обладает огромными духовными знаниями и знает истории демонов и символов, будучи одной из немногих, кто знает о демоне Азазеле и о том, как он был пойман в ловушку в древние времена.
+
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 04.03.2024
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#zafinatekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 5 ms
+KeyDown 22 1
+Delay 8 ms
+KeyDown 74 1
+Delay 152 ms
+KeyUp 7 1
+Delay 15 ms
+KeyUp 74 1
+Delay 14 ms
+KeyUp 22 1
+Delay 528 ms
+KeyDown 27 1
+Delay 79 ms
+KeyUp 27 1
+Delay 1480 ms
+KeyDown 27 1
+Delay 72 ms
+KeyUp 27 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

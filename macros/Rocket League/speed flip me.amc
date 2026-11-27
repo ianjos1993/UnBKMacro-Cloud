@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro executes a precise and consistent Speed Flip maneuver in Rocket League. Useful for faster kickoffs and improving competitive performance. Recommended for players aiming to optimize their kickoff technique</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+RightDown 1
+Delay 16 ms
+RightUp 1
+Delay 15 ms
+KeyDown 4 1
+Delay 16 ms
+KeyDown 26 1
+Delay 16 ms
+RightDown 1
+Delay 12 ms
+RightUp 1
+Delay 15 ms
+KeyUp 26 1
+Delay 16 ms
+KeyUp 4 1
+Delay 16 ms
+KeyDown 22 1
+Delay 11 ms
+KeyDown 20 1
+Delay 563 ms
+KeyDown 4 1
+Delay 151 ms
+KeyUp 4 1
+Delay 16 ms
+KeyUp 22 1
+Delay 95 ms
+KeyUp 20 1
+LeftUp 1
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rocket League</Software>
+  </DefaultMacro>
+</Root>

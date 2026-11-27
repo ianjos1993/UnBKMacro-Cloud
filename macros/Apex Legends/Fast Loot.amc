@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro can helps you to loot really really faster than the normal, just ONE click and your looting sooo fast ON DEADBOX.
+
+It can be used to as an average recoil macro for smg like r99, flatine, r301, etc ...
+
+Enjoy :)
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 1 1
+Delay 10 ms
+MoveR 1 -1
+Delay 10 ms
+MoveR -1 -1
+Delay 10 ms
+MoveR -1 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

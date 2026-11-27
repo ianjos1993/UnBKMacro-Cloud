@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Для игры в Basketball legends. Чтобы его выполнить вы должны встать на 3PT линию и оттуда заюзать кнопку на которой забинжен макрос, вам обязательно нужно встать спиной к кольцу и нажать на макрос, далее он побежит к кольцу, используя пост (50 ОВР) и не даст никому отобрать у вас мяч, когда вы уже находитесь рядом с кольцом происходит идеальный бросок.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 2 s
+KeyUp 22 1
+Delay 64
+KeyDown 10 1
+Delay 64
+KeyUp 10 1
+Delay 64
+KeyDown 22 1
+Delay 2 s
+KeyDown 10 1
+Delay 64
+KeyUp 10 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64
+KeyDown 10 1
+Delay 64
+KeyUp 10 1
+Delay 127 ms
+KeyDown 8 1
+Delay 344 ms
+KeyUp 8 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

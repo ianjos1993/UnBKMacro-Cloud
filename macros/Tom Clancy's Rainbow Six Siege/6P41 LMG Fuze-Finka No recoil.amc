@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>No recoil Finka / Fuze LMG
+6P41 Equiped with :
+- Silencer
+- Angled Grip
+- 1.5 Scope
+
+Sens :
+-800 DPI
+-4X /4Y
+-ADS 1.5 : 50</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 5 ms
+MoveR 0 60
+Delay 5 ms
+MoveR 0 60
+Delay 5 ms
+MoveR 0 60
+Delay 5 ms
+MoveR 0 30
+Delay 5 ms
+MoveR -1 0
+GoWhile 8 15
+Delay 5 ms
+MoveR 0 36
+Delay 5 ms
+MoveR -2 0
+GoWhile 13 190
+Delay 5 ms
+MoveR 0 38
+Delay 5 ms
+MoveR -4 0
+Goto 18</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

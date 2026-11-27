@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Просто убийца на драге ибо после проюза ульты вы сразу хуячите 4-ый скил а потом успеваете убежать на 1 скиле после заюзав ульту для дамага по врагу</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 33 1
+Delay 64 ms
+KeyUp 33 1
+Delay 64 ms
+KeyDown 8 1
+Delay 64 ms
+KeyUp 8 1
+Delay 64 ms
+KeyDown 30 1
+Delay 64 ms
+KeyUp 30 1
+Delay 64 ms
+KeyDown 9 1
+Delay 64 ms
+KeyUp 9 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

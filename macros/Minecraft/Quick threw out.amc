@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для того чтоб выкидывать быстро предметы!
+Инструкция:
+1)Запускаем майнкрафт
+2)Выбераем нужны слот
+3)запускае макрос
+Удачи,и не палитесь с макросами.
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+KeyDown 20 1
+Delay 100 ms
+KeyUp 224 1
+KeyUp 20 1
+Delay 100 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

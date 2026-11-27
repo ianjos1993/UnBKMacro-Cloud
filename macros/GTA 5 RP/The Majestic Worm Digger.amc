@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос под задание выкопать 30 червей на местах рыбалки. 
+Макрос назначить на любую клавишу, лопату поместить во 2 активный слот.
+При запуске макроса, персонаж будет бесконечно выкапывать лопатой, пока не отключите или не сломается лопата. Можете запустить и ждать звука выполнения задания, а пока смотреть кино или заниматься своими делами.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 64 ms
+KeyUp 31 1
+Delay 64 ms
+Delay 10 s
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

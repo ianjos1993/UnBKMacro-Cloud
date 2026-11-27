@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос особо никак не помогает но кому-то может быть полезен. Работает не только в Minecraft но и в большинстве игр, если у вас стоит приседание на другую кнопку то измение например с "Ctrl" на "Shift" или "C", зависит от того как вам удобно. Зажимаете кнопку на которую поставили макрос и оно очень быстро примедает(спамит приседаниями).</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 50 ms
+KeyUp 224 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

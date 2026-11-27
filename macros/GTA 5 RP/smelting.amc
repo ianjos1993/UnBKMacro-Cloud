@@ -1,0 +1,167 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Keyran v1.3.6 Macro is a specialized script for Grand Theft Auto V Roleplay (GTA 5 RP) on the FiveM platform, designed to automate the Smelting process. This macro streamlines the smelting activity by simulating keypresses for "E" and selecting the top available option in the smelting menu every 25-30 seconds. The script is optimized for a screen resolution of 1920x1080.
+
+Features:
+
+Smelting Automation:
+
+The macro automates the Smelting process in GTA 5 RP, allowing for hands-free operation.
+Simulates the "E" keypress to initiate smelting and selects the top available option in the smelting menu.
+Interval-based Execution:
+
+The script operates on a timed basis, triggering smelting actions every 25-30 seconds.
+Optimal timing for resource efficiency and in-game realism.
+Resolution Compatibility:
+
+Specifically configured for a screen resolution of 1920x1080, ensuring accurate positioning of the cursor for menu selection.
+User-Friendly Interface:
+
+Simple and straightforward setup, making it accessible for users with varying levels of technical expertise.
+Customizable settings available within the script for easy adaptation to different scenarios.
+Anti-Detection Measures:
+
+Incorporates anti-detection features to reduce the likelihood of server or anti-cheat systems identifying the automation.
+Randomized intervals and cursor movements contribute to a more natural interaction with the game.
+Usage Instructions:
+
+Installation:
+
+Copy and paste the script into the designated directory within the FiveM client.
+Resolution Adjustment:
+
+Ensure that your game is set to a screen resolution of 1920x1080 for optimal performance.
+Configuration:
+
+Open the script using a text editor to adjust settings if necessary (interval duration, etc.).
+Save the changes.
+Execution:
+
+Run the macro within the GTA 5 RP session using the designated key or command.
+Caution:
+
+Use the macro responsibly and in accordance with server rules to avoid potential repercussions.
+Disclaimer:
+This macro is intended for entertainment purposes only. The developers and distributors of this script are not responsible for any consequences resulting from the use of this macro, including server bans or other penalties.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 89 ms
+KeyUp 8 1
+Delay 610 ms
+MoveTo 790 603
+Delay 11 ms
+MoveTo 800 599
+Delay 8 ms
+MoveTo 812 591
+Delay 7 ms
+MoveTo 828 579
+Delay 7 ms
+MoveTo 848 565
+Delay 8 ms
+MoveTo 870 549
+Delay 7 ms
+MoveTo 892 533
+Delay 7 ms
+MoveTo 910 517
+Delay 8 ms
+MoveTo 934 499
+Delay 8 ms
+MoveTo 956 479
+Delay 7 ms
+MoveTo 976 461
+Delay 7 ms
+MoveTo 1000 441
+Delay 7 ms
+MoveTo 1020 423
+Delay 8 ms
+MoveTo 1042 407
+Delay 8 ms
+MoveTo 1062 391
+Delay 7 ms
+MoveTo 1084 375
+Delay 8 ms
+MoveTo 1102 361
+Delay 7 ms
+MoveTo 1122 345
+Delay 7 ms
+MoveTo 1140 331
+Delay 8 ms
+MoveTo 1156 317
+Delay 7 ms
+MoveTo 1170 307
+Delay 8 ms
+MoveTo 1182 295
+Delay 7 ms
+MoveTo 1190 287
+Delay 10 ms
+MoveTo 1196 281
+Delay 62 ms
+MoveTo 1196 279
+Delay 17 ms
+MoveTo 1196 281
+Delay 16 ms
+MoveTo 1192 285
+Delay 5 ms
+MoveTo 1190 287
+Delay 11 ms
+MoveTo 1188 291
+Delay 7 ms
+MoveTo 1188 295
+Delay 9 ms
+MoveTo 1184 299
+Delay 6 ms
+MoveTo 1180 301
+Delay 10 ms
+MoveTo 1176 305
+Delay 7 ms
+MoveTo 1172 307
+Delay 6 ms
+MoveTo 1168 307
+Delay 11 ms
+MoveTo 1162 309
+Delay 5 ms
+MoveTo 1160 311
+Delay 12 ms
+MoveTo 1156 313
+Delay 4 ms
+MoveTo 1156 315
+Delay 13 ms
+MoveTo 1152 317
+Delay 11 ms
+MoveTo 1150 319
+Delay 15 ms
+MoveTo 1146 319
+Delay 1 ms
+MoveTo 1146 321
+Delay 21 ms
+MoveTo 1144 321
+Delay 25 ms
+MoveTo 1142 321
+Delay 13 ms
+MoveTo 1140 321
+Delay 100 ms
+MoveTo 1138 321
+Delay 25 ms
+MoveTo 1136 321
+Delay 9 ms
+MoveTo 1136 323
+Delay 15 ms
+MoveTo 1134 323
+Delay 461 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 21000 ms
+GoWhile 1 100</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

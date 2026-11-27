@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro repeats the Kunia Fields - Escape using the BMW Z4 rally raid vehicle. Fast travel to the feat and from the load point activate the macro from there. Make sure your parts mailbox is clear before you begin.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 2105 ms
+KeyDown 225 1
+Delay 2116 ms
+KeyDown 4 1
+Delay 242 ms
+KeyUp 4 1
+Delay 2370 ms
+KeyUp 225 1
+Delay 4311 ms
+KeyDown 225 1
+Delay 1526 ms
+KeyUp 225 1
+Delay 848 ms
+KeyDown 225 1
+Delay 649 ms
+KeyUp 225 1
+Delay 964 ms
+KeyDown 21 1
+Delay 489 ms
+KeyUp 26 1
+Delay 2517 ms
+KeyUp 21 1
+Delay 204 ms
+KeyDown 17 1
+Delay 93 ms
+KeyUp 17 1
+Delay 200 ms
+GoWhile 1 100000</Syntax>
+    </KeyDown>
+    <Software>The Crew Motorfest</Software>
+  </DefaultMacro>
+</Root>

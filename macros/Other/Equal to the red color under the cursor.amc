@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Когда макрос будет активирован и курсор не наведен на оттенок красного цвета, макрос начинает нажимать кнопку пуск, как только курсор будет наведен на оттенок красного цвета, макрос перескочит на строчку №10, минуя предыдущие и кнопка пуск перестанет нажиматься.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 10 1 237,28,36 255,255,255 0 1920 1080
+Delay 10 ms
+Delay 10 ms
+KeyDown 227 1
+Delay 10
+KeyUp 227 1
+Delay 10
+Delay 10 ms
+Delay 10 ms
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Другие</Software>
+  </DefaultMacro>
+</Root>

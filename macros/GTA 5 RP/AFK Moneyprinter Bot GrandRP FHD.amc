@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major>Automatically serves the money printinter GrandRP 1920  x 1080 FHD</Major>
+    <Description>With this macro you can theoretically be AFK for 24 hours and at the same time automatically empty and restart the money printer without going into sleep mode.
+
+You can set in line 5 how much time is left until the money printing machine is operated for the first time. The default setting here is the full 4 hours. 1 repetition stands for 5 minutes.
+
+The Macro only works with FHD 1920 x 1080 resolution.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 1000 ms
+KeyUp 26 1
+Delay 299 s
+GoWhile 1 48
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 1000 ms
+MoveTo 774 438
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1000 ms
+MoveTo 1003 506
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1000 ms
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 2000 ms
+KeyDown 26 1
+Delay 1000 ms
+KeyUp 26 1
+Delay 299 s
+GoWhile 26 48
+Goto 6</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Russian fishing 4 easy spinning macro 10 speed 20 friction no auto eating no auto digging just pure spinning easy use. bind key and use                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      </Description>
+    <Comment>https://keyran.net - Free macros download</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1000 ms
+KeyDown 225 1
+Delay 526 ms
+LeftDown 1
+Delay 1100 ms
+LeftUp 1
+Delay 1052 ms
+KeyUp 225 1
+Delay 1612 ms
+LeftDown 1
+Delay 40 s
+RightDown 1
+Delay 5 s
+RightUp 1
+Delay 79 ms
+LeftUp 1
+Delay 700 ms
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+GoWhile 1 25
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+GoWhile 1 40</Syntax>
+    </KeyDown>
+    <Software>Russian Fishing 4</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>этот макрос сделан для того чтобы ставить пол и крышу. X - пол, V - крыша. Этот макрос моментально сделает укрытие или усиление на хайграунде.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 27 1
+Delay 3 ms
+KeyUp 27 1
+Delay 3 ms
+LeftDown 1
+Delay 3 ms
+LeftUp 1
+Delay 3 ms
+KeyDown 25 1
+Delay 3 ms
+KeyUp 25 1
+Delay 3 ms
+LeftDown 1
+Delay 3 ms
+LeftUp 1
+Delay 3 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>===========================================Информация============================================
+Данный макрос создан для игры Counter Strike: Global Offensive.
+Благодаря ему ваша распрыжка будет лучше.
+============================================Инструкция============================================
+1) Скачиваем мой макрос.
+2) Устанавливаем его на любую удобную вам кнопку.
+3) Заходим в Сounter Strike: Global Offensive и запускаете поиск матча.
+4) После того как вы находитесь на карте включайте макрос.
+5) Когда вам нужна распрыжка просто зажимаете кнопку и BunnyHop'ите.
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 10 ms
+KeyUp 44 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>CS: GO</Software>
+  </DefaultMacro>
+</Root>

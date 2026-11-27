@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Разрешение 1920x1080. Надоело сидеть и самому ролить блудлайны? Ставишь макрос, уходишь за чаем и все крутки уже будут потрачены.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1744 451
+Delay 500 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1745 759
+Delay 500 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 170 761
+Delay 500 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 169 450
+Delay 500 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+GoWhile 1 500</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

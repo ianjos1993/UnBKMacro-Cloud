@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для фарма мобов. Можно назвать его мини-ботом :)
+
+                                   Внимание! ---&gt; Макрос для воинов !!!
+
+ Что делаем :
+
+1.Выставляем на вторую панель в ячейки 1 и 2 автоатаку и некст таргет.
+
+2.Ставим в проге чтобы макрос работал до повторного нажатия горячей кнопки.
+
+3. Запускаем макрос и уходим по своим делам :)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+Delay 64
+KeyDown 60 1
+KeyUp 60 1
+Delay 64
+KeyDown 31 1
+KeyUp 31 1
+Delay 64 ms
+KeyDown 31 1
+KeyUp 31 1
+Delay 9 s</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

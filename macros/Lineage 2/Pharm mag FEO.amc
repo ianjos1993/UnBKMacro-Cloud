@@ -1,0 +1,72 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на кач мага фео в соло или группе.
+F1 устанавливаем нексттаргет.
+F2 и F3 повторяющиеся скилы ("Вихревое разрушение и Последний стихийный шторм")
+F4 (скил"Массовый крах")
+F5 (скил"Тайный удар кометы")
+F6 (скил"Взрыв стихий")
+F7 (скил"Четверной стихийный импульс")
+F8 (скил"Выбор разума"), но тут уже кому какой нравиться.
+Вышаем привязку к окну и наслаждаемся качем.</Description>
+    <Comment>Обновил макрос.</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 58 1
+Delay 64
+KeyUp 58 1
+Delay 64
+KeyDown 59 1
+Delay 64
+KeyUp 59 1
+Delay 64
+KeyDown 60 1
+Delay 64
+KeyUp 60 1
+Delay 64
+KeyDown 61 1
+Delay 64
+KeyUp 61 1
+Delay 64
+KeyDown 62 1
+Delay 64
+KeyUp 62 1
+Delay 64
+KeyDown 59 1
+Delay 64
+KeyUp 59 1
+Delay 64
+KeyDown 60 1
+Delay 64
+KeyUp 60 1
+Delay 64
+KeyDown 63 1
+Delay 64
+KeyUp 63 1
+Delay 64
+KeyDown 64 1
+Delay 64
+KeyUp 64 1
+Delay 64
+KeyDown 59 1
+Delay 64
+KeyUp 59 1
+Delay 64
+KeyDown 60 1
+Delay 64
+KeyUp 60 1
+Delay 64
+KeyDown 65 1
+Delay 64
+KeyUp 65 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

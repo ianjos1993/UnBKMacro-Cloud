@@ -1,0 +1,54 @@
+<Root>
+  <DefaultMacro>
+    <Major>GGWP 6 секундный Контроль Инженером</Major>
+    <Description>Скрипт предназначет для инженеров версии игры 14.0. Описание бинды и расстановки скилов:На K-Ставим Волю что бы перед проскилом дало 5 секунд имунитета ко всем станам!  Alt+R-Механические капканы 2 ранга(2 секунды стан+стяжка врагов) Alt+Q-Механический паук 3 ранга(Стяжка всех врагов в радиусе 15 метров и стан на 3 секунды) Alt+E Петарда 1 ранга (Стан на 3 секунды врагов в радиусе 15 метров) Alt+9 Баф доблести на +25% урона и в конце Alt+4 Ульт Бомба по площади! Радуемся на чемпионском доминионе и 6х6! </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 14 1
+Delay 64
+KeyUp 14 1
+Delay 64
+KeyDown 226 1
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+KeyUp 226 1
+Delay 600 ms
+KeyDown 226 1
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+KeyUp 226 1
+Delay 64
+Delay 64
+Delay 64
+Delay 1 s
+KeyDown 226 1
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 250 ms
+Delay 64
+KeyUp 226 1
+KeyDown 226 1
+KeyDown 38 1
+Delay 64
+KeyUp 38 1
+KeyDown 33 1
+KeyUp 33 1
+KeyUp 226 1</Syntax>
+    </KeyDown>
+    <Software>Аллоды Онлайн</Software>
+  </DefaultMacro>
+</Root>

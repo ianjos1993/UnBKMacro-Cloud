@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>this macro minimizes recoil on arx and ar 33
+
+the settings used
+res : 1920x1080 16x9
+sens : x=y 6
+DPI : 800
+scope magnification sens : (1x 40) (2.5x 50)
+
+weapon attachments
+arx : compensator magnified scope vertical grip
+ar33 : muzzlebreak magnified vertical grip
+
+this macro works perfectly on arx but on ar33 sometimes you can get a recoil pattern that will cause the macro to go a bit too mutch down but its light recoil going down so its pretty easy to counter</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1 ms
+LeftDown 1
+MoveR -1 28
+Delay 3 ms
+Delay 6 ms
+Delay 9 ms</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

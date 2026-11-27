@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос помогает быстро покинуть игру если на сервере пресутствует коменда /leave например в бел варсе или на различнах дуэлях!!!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 120 ms
+KeyDown 56 1
+Delay 64
+KeyUp 56 1
+Delay 80 ms
+KeyDown 15 1
+Delay 64
+KeyUp 15 1
+Delay 60 ms
+KeyDown 8 1
+Delay 70 ms
+KeyUp 8 1
+Delay 64
+KeyDown 4 1
+Delay 80 ms
+KeyUp 4 1
+Delay 64
+KeyDown 25 1
+Delay 90 ms
+KeyUp 25 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 100 ms
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

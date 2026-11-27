@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major>FrenS</Major>
+    <Description>Данный макрос предназнает для удобного, беспалевного прыжка в CS 1.6. Шанс того, что вас забанят равнен НУЛЮ. Для использования нажмите: РЕЖИМ РАБОТЫ -&gt; выполнять пока зажата клавиша, а затем просто выберите комфортную кнопку и играйте.)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 6 ms
+KeyUp 44 1
+Delay 6 ms</Syntax>
+    </KeyDown>
+    <Software>CS 1.6</Software>
+  </DefaultMacro>
+</Root>

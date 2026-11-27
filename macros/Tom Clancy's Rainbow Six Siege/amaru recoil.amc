@@ -1,0 +1,54 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>amaru gun no recoil/ minimal recoil.
+
+2560 x 1440 screen resolution
+
+16:10 ratio
+
+900dpi
+sensitivity: 17
+
+attachments: 
+suppressor
+angled grip.</Description>
+    <Comment>amaru gun no recoil/ minimal recoil.
+
+2560 x 1440 screen resolution
+
+16:10 ratio
+
+900dpi
+sensitivity: 17
+
+attachments: 
+suppressor
+angled grip.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR -2 3
+Delay 5 ms
+MoveR 3 3
+Delay 5 ms
+MoveR -2 3
+Delay 5 ms
+MoveR 3 2
+Delay 5 ms
+MoveR -2 3
+Delay 5 ms
+MoveR 3 3
+Delay 5 ms
+MoveR -2 2
+Delay 5 ms
+MoveR -2 2
+Delay 2 ms</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

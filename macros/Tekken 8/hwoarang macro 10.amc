@@ -1,0 +1,82 @@
+<Root>
+  <DefaultMacro>
+    <Major>Hwoarang Combo 10</Major>
+    <Description>Макрос позволяет выполнять комбо за Hwoarang комбинацию у стены с HEAT.
+Видео демонстрации работы макроса: https://youtu.be/vXkvFzMbsTk 
+
+Хвоаранг. Вспыльчивый и эмоциональный человек, который живет на грани между уверенностью и яростью. Его действия часто импульсивны, но за ними всегда стоит искреннее стремление доказать свою правоту. Хво не признает авторитетов и предпочитает следовать собственным правилам. Он резок, но не лишен чувства справедливости. Внутри него постоянно идет борьба между гордостью и желанием быть признанным. Даже проигрывая, Хво не теряет огня и возвращается в бой с еще большей решимостью.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 07.10.2025
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ.
+
+#hwoarangtekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 90 1
+Delay 5 ms
+KeyDown 89 1
+Delay 192 ms
+KeyUp 90 1
+Delay 5 ms
+KeyUp 89 1
+Delay 157 ms
+KeyDown 93 1
+Delay 132 ms
+KeyDown 89 1
+Delay 83 ms
+KeyUp 93 1
+Delay 31 ms
+KeyUp 89 1
+Delay 61 ms
+KeyDown 89 1
+Delay 113 ms
+KeyUp 89 1
+Delay 203 ms
+KeyDown 93 1
+Delay 149 ms
+KeyDown 89 1
+Delay 112 ms
+KeyUp 89 1
+Delay 77 ms
+KeyDown 89 1
+Delay 99 ms
+KeyUp 89 1
+Delay 63 ms
+KeyDown 89 1
+Delay 99 ms
+KeyUp 89 1
+Delay 43 ms
+KeyDown 89 1
+Delay 123 ms
+KeyUp 89 1
+Delay 168 ms
+KeyUp 93 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

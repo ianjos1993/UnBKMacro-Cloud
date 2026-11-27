@@ -1,0 +1,53 @@
+<Root>
+  <DefaultMacro>
+    <Major>Полный прокаст за войд спирита с еулом</Major>
+    <Description>Этот макрос поможет вам дать полный прокаст во врага если вы играете за войд спирита с сборкой через еула.
+
+Быстрое применение на предметы и скиллы обязательны.
+Чтобы макрос не был "в молоко" держите курсор на противнике.
+
+Бинды для макроса:
+Q - Aether Remnant
+W - Dissimilate
+E - Resonant Pulse
+R - Astral Step
+C - Eul's Scepter Of Divinity</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+Delay 83 ms
+KeyUp 6 1
+Delay 360 ms
+KeyDown 20 1
+Delay 192 ms
+KeyUp 20 1
+Delay 479 ms
+KeyDown 26 1
+Delay 128 ms
+KeyUp 26 1
+Delay 648 ms
+RightDown 1
+Delay 87 ms
+RightUp 1
+Delay 918 ms
+KeyDown 8 1
+Delay 127 ms
+KeyUp 8 1
+Delay 224 ms
+KeyDown 21 1
+Delay 119 ms
+KeyUp 21 1
+Delay 199 ms
+KeyDown 21 1
+Delay 88 ms
+KeyUp 21 1</Syntax>
+    </KeyDown>
+    <Software>dota 2</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,106 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>ВНИМАНИЕ! Чтобы скрипты Keyran работали в провинции, необходимо использовать драйвер и режим инкогнито в программе. Также стоит заметить, что использование подобных скриптов наказывается администраторами проекта MTA Province, поэтому не стоит отходить от компьютера больше чем на 30 секунд в маршруте.
+        Скрипт полностью автоматизирован, трамвай останавливается на маркерах и на светофорах. Тестировался при разрешении экрана 2560х1440 с 60-80 фпс, с такими параметрами показывает идеальную работу. На 1920х1080 тоже должно работать.
+Маршрут идеально подходит для использования днём, когда светофоры ещё не выключены, а второй маршрут в Приволжске занят. Всё настроено так, что поливомоечный трамвай с данным скриптом проезжает практически на все зелёные.
+        Использование скрипта: Возьмите трамвай "обслуживание путей" в Мирноми доедьте до ближайшего светофора на маршруте. Встаньте прямо перед ним. Как только загорится зелёный сигнал светофора, активируйте скрипт.
+
+Хорошего фарма!</Description>
+    <Comment>Поменял абзац с разрешением, теперь всё должно быть нормально</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 5 ms
+MoveTo 1377 875
+Delay 0 ms
+MoveTo 1377 875
+Delay 2 ms
+MoveTo 1377 876
+Delay 37 ms
+LeftDown 1
+Delay 6 ms
+MoveTo 1377 876
+Delay 112 ms
+LeftUp 1
+Delay 8 ms
+KeyDown 31 1
+Delay 79 ms
+KeyUp 31 1
+Delay 120 ms
+KeyDown 26 1
+Delay 24728 ms
+KeyUp 26 1
+Delay 207 ms
+KeyDown 22 1
+Delay 4936 ms
+KeyUp 22 1
+Delay 951 ms
+KeyDown 31 1
+Delay 104 ms
+KeyUp 31 1
+Delay 5544 ms
+KeyDown 31 1
+Delay 112 ms
+KeyUp 31 1
+Delay 103 ms
+KeyDown 26 1
+Delay 137319 ms
+KeyUp 26 1
+Delay 1784 ms
+KeyDown 22 1
+Delay 5063 ms
+KeyUp 22 1
+Delay 392 ms
+KeyDown 26 1
+Delay 124855 ms
+KeyUp 26 1
+Delay 791 ms
+KeyDown 22 1
+Delay 3664 ms
+KeyUp 22 1
+Delay 615 ms
+KeyDown 22 1
+Delay 840 ms
+KeyUp 22 1
+Delay 287 ms
+KeyDown 26 1
+Delay 12607 ms
+KeyUp 26 1
+Delay 1224 ms
+KeyDown 26 1
+Delay 7623 ms
+KeyUp 26 1
+Delay 1520 ms
+KeyDown 22 1
+Delay 823 ms
+KeyUp 22 1
+Delay 1528 ms
+KeyDown 22 1
+Delay 4023 ms
+KeyUp 22 1
+Delay 224 ms
+KeyDown 26 1
+Delay 2583 ms
+KeyUp 26 1
+Delay 408 ms
+KeyDown 22 1
+Delay 808 ms
+KeyUp 22 1
+Delay 3695 ms
+KeyDown 26 1
+Delay 15816 ms
+KeyUp 26 1
+Delay 1575 ms
+KeyDown 26 1
+Delay 13791 ms
+KeyUp 26 1
+Delay 2864 ms</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Остановка времени для Гераса справа, только клавиши сначало нужные поставте в настройках управления на те которые указаны в макросе что бы работало правильно</Description>
+    <Comment>Комментарий</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 25 ms
+KeyUp 7 1
+Delay 25 ms
+KeyDown 4 1
+Delay 25 ms
+KeyUp 4 1
+Delay 25 ms
+KeyDown 48 1
+Delay 25 ms
+KeyUp 48 1
+Delay 25 ms</Syntax>
+    </KeyDown>
+    <Software>Mortal Kombat 11</Software>
+  </DefaultMacro>
+</Root>

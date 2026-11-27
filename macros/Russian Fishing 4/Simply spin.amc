@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Simply spinning bot, perfect for spinners ect. tested on belaya set speed to 22, reel drag to 28 (stronger line than drag, weaker than the rod). Find your spot, aim rod tree line high and start the bot.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 768 ms
+KeyDown 225 1
+Delay 1470 ms
+LeftUp 1
+Delay 41 ms
+KeyUp 225 1
+Delay 3275 ms
+LeftDown 1
+Delay 64819 ms
+LeftUp 1
+Delay 28 ms
+RightDown 1
+Delay 8520 ms
+RightUp 1
+Delay 1685 ms
+KeyDown 44 1
+Delay 152 ms
+KeyUp 44 1
+Delay 2143 ms
+KeyDown 44 1
+Delay 159 ms
+KeyUp 44 1
+Delay 3344 ms</Syntax>
+    </KeyDown>
+    <Software>Russian Fishing 4</Software>
+  </DefaultMacro>
+</Root>

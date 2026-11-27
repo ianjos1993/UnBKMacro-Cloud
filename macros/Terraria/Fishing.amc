@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description></Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 80 ms
+KeyUp 8 1
+Delay 80 ms
+MoveR -1 -19
+Delay 80 ms
+RightDown 1
+Delay 80 ms
+RightUp 1
+Delay 80 ms
+MoveR 1 19
+Delay 80 ms
+RightDown 1
+Delay 80 ms
+RightUp 1
+Delay 80 ms
+KeyDown 8 1
+Delay 80 ms
+KeyUp 8 1
+Delay 80 ms</Syntax>
+    </KeyDown>
+    <Software></Software>
+  </DefaultMacro>
+</Root>

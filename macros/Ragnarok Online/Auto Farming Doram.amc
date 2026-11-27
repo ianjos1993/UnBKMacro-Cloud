@@ -1,0 +1,63 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Auto Farming with Doram Spirit Handler Job
+I'm using Howling Chul Wo in F2 key and Hogogong Strike in F3 key
+Put Fly Wing in F4 key.
+I'm using 1920x1080 resolution. You can manually adjust mouse pointer depend on your Screen Resolution
+
+This Macro spam F2 and F3 skill and then teleport using F4.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1000 ms
+KeyDown 59 1
+Delay 64 ms
+KeyUp 59 1
+Delay 600 ms
+KeyDown 59 1
+Delay 64 ms
+KeyUp 59 1
+Delay 600 ms
+KeyDown 59 1
+Delay 64 ms
+KeyUp 59 1
+Delay 128
+KeyDown 60 1
+Delay 64 ms
+KeyUp 60 1
+Delay 64 ms
+GoWhile 14 5
+Delay 300 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+MoveTo 990 528
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 500 ms
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64 ms
+MoveTo 990 528
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 500 ms
+KeyDown 61 1
+Delay 128 ms
+KeyUp 61 1</Syntax>
+    </KeyDown>
+    <Software>Ragnarok</Software>
+  </DefaultMacro>
+</Root>

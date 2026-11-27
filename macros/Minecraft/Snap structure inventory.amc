@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major>Прокрутка Снайпер-страйкер когда снайперка в инвентаре а стрнайкер 2 слот</Major>
+    <Description>Прокрутка Снайпер-страйкер когда снайперка в инвентаре а стрнайкер 2 слот GTM RageWorld, на других и без этого можно крутить</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 22 ms
+KeyUp 31 1
+Delay 22 ms
+LeftDown 1
+Delay 22 ms
+LeftUp 1
+Delay 22 ms
+RightDown 1
+Delay 22 ms
+RightUp 1
+Delay 22 ms
+KeyDown 8 1
+Delay 22 ms
+KeyUp 8 1
+Delay 22 ms
+KeyDown 31 1
+Delay 22 ms
+KeyUp 31 1
+Delay 22 ms
+KeyDown 8 1
+Delay 22 ms
+KeyUp 8 1
+Delay 22 ms
+RightDown 1
+Delay 22 ms
+RightUp 1
+Delay 22 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,64 @@
+<Root>
+  <DefaultMacro>
+    <Major>хил и тп для невнимательных</Major>
+    <Description>доброго времени суток,  представляю вашему вниманию очередной макрос,в это раз на хилку ,тп и лотание дропа с людей , отлично подходит для замесов и осад ,только представьте что теперь вам ненужно следитьза хп , при половине хп мкрос жмёт тп , тп на ф8, при 90 % хп он хилит вам хп и приэтом нажимая "e" чтобы залотать дроп с игрока , макрос создан на обычном стандартном по размером экране ноутбука так что если координаты на вашем экране не совпадают с мкросовскими просто поменяйте координаты в 1 и во второй строчке на желаемое вами количество хп при тп и отхиле просто переташив крестик координат на желаемое количество хп ! макрос реагирует очень быстро и не раз спасал при разрдках сина , имеет 4 круга на зацикливании , что позволяет быть многофункционалным !</Description>
+    <Comment>всем приятной игры !</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 29 0 179,0,0 255,255,255 1 634 857
+GoColor 4 0 179,0,0 255,255,255 1 723 851
+GoWhile 1 86400000
+KeyDown 20 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyUp 20 1
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+Delay 64
+GoWhile 1 86400000
+KeyDown 65 1
+Delay 64
+KeyUp 65 1
+Delay 64
+KeyDown 65 1
+Delay 64
+KeyUp 65 1
+Delay 64
+KeyDown 65 1
+Delay 64 ms
+KeyDown 65 1
+Delay 64
+KeyUp 65 1
+Delay 64
+KeyUp 65 1
+Delay 64
+KeyDown 53 1
+Delay 64
+KeyUp 53 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>R2 Online</Software>
+  </DefaultMacro>
+</Root>

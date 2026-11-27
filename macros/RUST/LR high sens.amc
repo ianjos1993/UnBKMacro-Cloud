@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>LR macro high sens</Major>
+    <Description>this macro work for LR with sens 1.1 (press to start release to stop)
+1920 x 1080
+dpi 1300
+sens 1.1
+fov 90
+ just try it and enjoy the macro!
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 50 ms
+MoveR 0 -35
+Delay 50 ms
+MoveR 0 -35
+Delay 50 ms
+MoveR 0 -35
+Delay 50 ms
+MoveR 0 -35
+Delay 50 ms
+MoveR 0 -35
+Delay 50 ms
+LeftUp 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

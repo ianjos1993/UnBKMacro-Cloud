@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос на охотника на демонов 30 сезон в сете шестеренок, по гайду ютубера Tigerplays
+
+кнопки : 
+1 - самонаводящаяся стрела
+4 - питомец-волк
+ЛКМ - Возмездие
+
+спасибо за скачивание
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+KeyDown 225 1
+LeftDown 1
+Delay 64
+LeftUp 1
+KeyUp 225 1
+Delay 3 s</Syntax>
+    </KeyDown>
+    <Software>Diablo 3</Software>
+  </DefaultMacro>
+</Root>

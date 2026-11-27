@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major>Нету отдачи на всех оружиях</Major>
+    <Description>- Нету отдачи по вертикали/горизонтали
+- Нету тряски экрана
+
+======================================
+
+* Тестировал на разрешении 16:9 1920х1080
+- Чувствительность для макроса 2 и 800 dpi
+
+======================================
+
+Приятной игры ;)</Description>
+    <Comment>Нулевая отдача на всех оружиях, особенно на R-99</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 1 ms
+MoveR 0 2
+Delay 1 ms
+MoveR 0 -1
+Delay 1 ms
+MoveR 1 -1
+Delay 1 ms
+MoveR 0 1
+Delay 1 ms
+MoveR 2 -2
+Delay 0 ms
+MoveR 2 2
+Delay 0 ms
+MoveR 1 -1
+Delay 0 ms
+MoveR 0 1
+Delay 0 ms
+MoveR 0 -1
+Delay 0 ms
+MoveR 0 0
+Delay 0 ms
+MoveR 1 0
+Delay 0 ms
+LeftUp 1
+Delay 0 ms</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

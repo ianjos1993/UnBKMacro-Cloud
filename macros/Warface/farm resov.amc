@@ -1,0 +1,63 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Совершает 3 обычных удара ножом, а после реанимирует персонажа союзника. Прежде персонажа нужно один раз убить самому, что бы в дальнейшем он воскрешался с неполным запасом здоровья.
+
+UPD Из-за нестабильной ситуации на миссии и непонятных ограничений по времени, обновил макрос для вашей безопасности. Теперь, после 700 реанимаций, ваш персонаж будет убивать болванку и умирать сам. Таким образом, не нужно больше будет переживать о том, что вас выбросит в лобби и игровой процесс не будет засчитан.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+LeftDown 1
+Delay 300 ms
+LeftUp 1
+Delay 150 ms
+LeftDown 1
+Delay 300 ms
+LeftUp 1
+Delay 150 ms
+LeftDown 1
+Delay 300 ms
+LeftUp 1
+Delay 150 ms
+KeyDown 18 1
+Delay 64
+KeyUp 18 1
+Delay 64
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 11000 ms
+GoWhile 1 600
+LeftDown 1
+Delay 300 ms
+LeftUp 1
+Delay 150 ms
+LeftDown 1
+Delay 300 ms
+LeftUp 1
+Delay 150 ms
+LeftDown 1
+Delay 300 ms
+LeftUp 1
+Delay 150 ms
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+LeftDown 1
+Delay 5000 ms
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Warface</Software>
+  </DefaultMacro>
+</Root>

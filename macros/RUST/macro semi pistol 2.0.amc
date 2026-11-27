@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>macro semi pistol</Major>
+    <Description>this macro work for semi pistol with high sens
+1920 x 1080
+dpi 1200-1400
+frov 90
+sens 1.2+
+just try it and enjoy the macro!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 50 ms
+MoveR 0 26
+Delay 50 ms
+MoveR 0 26
+Delay 50 ms
+MoveR 0 26
+Delay 50 ms
+MoveR 0 26
+Delay 50 ms
+MoveR 0 26
+Delay 50 ms
+LeftUp 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

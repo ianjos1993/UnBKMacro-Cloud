@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major>Антиi AFK</Major>
+    <Description>Этот скрипт будет держать вашего персонажа всегда онлайн.
+После активации скрипта ваш персонаж будет ходить назад и ждать 5 минут, потом вперёд и ждать 5 минут.
+Используйте это на серверах где таймер АФК больше 5 минут или редактируйте время в скрипте и наслаждайтесь =)
+
+Для изменения времени: 240000 миллисекунд = 4 минута. 300000 миллисекунд = 5 минута. 60000 миллисекунд = 1 минута.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyUp 22 1
+Delay 300000 ms
+KeyDown 26 1
+Delay 4300 ms
+KeyUp 26 1
+Delay 300000 320000 ms
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>ARK: Survival Evolved</Software>
+  </DefaultMacro>
+</Root>

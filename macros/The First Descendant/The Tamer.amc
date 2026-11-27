@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major>Макрос стрельба пулемёт Укротитель</Major>
+    <Description>Расширение 2560х1440 (если это влияет)
+
+Кучная стрельба с  Пулемёта "Укротитель" 
+
+Работает по нажатию
+
+Требуемые модули на пулемёте:
+
+1) Увеличение вместимости магазина
+2) Расширенный обычный магазин
+3) отладка оружия
+4) Концентрация скорострельности
+5) Соколиный глаз
+
+Работает и без первых трёх модулей, но всё же.
+а вот без 4-5 уже придётся дорабатывать руками.
+
+Точность стабильная в узком кругу, у пулемёта есть проблема, последние патроны задирают ствол, тут уже от ёмкости магазина зависит,поэтому индивидуально всё.
+
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 29 ms
+MoveR -1 2
+Delay 31 ms
+GoWhile 3 60
+MoveR 0 2
+Delay 15 ms
+GoWhile 6 20
+MoveR 1 2
+Delay 31 ms
+GoWhile 9 60</Syntax>
+    </KeyDown>
+    <Software>The First Descendant</Software>
+  </DefaultMacro>
+</Root>

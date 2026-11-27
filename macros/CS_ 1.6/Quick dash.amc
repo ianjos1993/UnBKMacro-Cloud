@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>Quick dash</Major>
+    <Description>Полезен на серверах в раундах и дуэлях на ножах. Скрипт делает быстрый рывок вперед с Ctrl и делает удар ножом левой кнопкой мыши а затем возвращает игрока на исходное положение. Советую не биндить макрос на левую кнопку мыши, потому что тогда вы делаете удар преждевременно чем это делает макрос и не попадете в оппонента.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 360 ms
+KeyDown 224 1
+Delay 71 ms
+KeyUp 26 1
+Delay 64 ms
+RightDown 1
+RightUp 1
+Delay 157 ms
+KeyUp 224 1
+Delay 64 ms
+KeyDown 22 1
+Delay 360 ms
+KeyUp 22 1</Syntax>
+    </KeyDown>
+    <Software>CS 1.6</Software>
+  </DefaultMacro>
+</Root>

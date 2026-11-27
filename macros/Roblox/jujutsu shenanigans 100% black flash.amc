@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major>black flash</Major>
+    <Description>This macro will 100% Black Flash when the key is pressed, this only works on Roblox - jujutsu shenanigans.</Description>
+    <Comment>Good macro.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 144 ms
+KeyUp 32 1
+Delay 183 ms
+KeyDown 32 1
+Delay 96 ms
+KeyUp 32 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

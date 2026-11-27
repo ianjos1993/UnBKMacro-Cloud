@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простой макрос на ручение. На 1 - Приручение (задержка после ручения 1 сек), на 2 - любую атаку (задержка после атаки 20 сек до отката скила без карт)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 1 s
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 7 s
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 20 s</Syntax>
+    </KeyDown>
+    <Software>Rappelz</Software>
+  </DefaultMacro>
+</Root>

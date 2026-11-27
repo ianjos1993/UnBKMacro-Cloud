@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос упрощает отдачу(но опять же не очень сильно, для большего легита)бинд работает почти на все оружия
+
+бинд на удобную клавишу
+
+DPI мышки 800, чувствительность в игре по умолчанию 
+Разрешение 1440х900 или 1280х1024</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+MoveR 2 -1
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+MoveR -2 -2
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+MoveR -2 3
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

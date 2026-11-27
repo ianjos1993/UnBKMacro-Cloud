@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro us universal, it does not matter what your visual settings are. This macro is set up with the default double-z bind in EFT, change the keys to the proper keys if you have set up a custom bind. There is not much else needed to be said; the macro is pretty straightforward.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 6 ms
+KeyUp 29 1
+Delay 5 ms
+KeyDown 29 1
+Delay 6 ms
+KeyUp 29 1</Syntax>
+    </KeyDown>
+    <Software>Escape From Tarkov</Software>
+  </DefaultMacro>
+</Root>

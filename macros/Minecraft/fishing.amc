@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос сделан для сервера Hypixel в игре Skyblock. 2 слот ставите удочку, в 3 слот оружее(на мага), при всем этом вас врятли обнаружат так как стоят рандомные тики в милисикундах.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 60 70 ms
+RightUp 1
+Delay 50 70 ms
+KeyDown 32 1
+Delay 64 80 ms
+KeyUp 32 1
+Delay 85 ms
+RightDown 1
+Delay 64 83 ms
+RightUp 1
+Delay 67 80 ms
+KeyDown 31 1
+Delay 70 80 ms
+KeyUp 31 1
+Delay 64 82 ms
+RightDown 1
+Delay 64 84 ms
+RightUp 1
+Delay 64 84 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft/Fishing</Software>
+  </DefaultMacro>
+</Root>

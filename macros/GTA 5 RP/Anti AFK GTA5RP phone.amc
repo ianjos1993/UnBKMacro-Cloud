@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный скрипт используеться для обхода AFK режима на серверах GTA5PR
+
+Суть в том что ваш персонаж достает телефон каждые 5-20с и засовывает его обратно.
+Блягодаря этому система думает что вы что-то делаете
+
+ИСПОЛЬЗОВАТЬ НА СВОЙ СТРАХ И РИСК
+
+                                                                   Создатель: ZaDrOtZaDrOt</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 82 1
+Delay 1 s
+KeyUp 82 1
+Delay 1 s
+KeyDown 42 1
+Delay 1 s
+KeyUp 42 1
+Delay 5 20 s</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

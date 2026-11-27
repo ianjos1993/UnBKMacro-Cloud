@@ -1,0 +1,28 @@
+<Root>
+  <!-- by Britan -->
+  <DefaultMacro>
+    <Major></Major>
+    <Description>НАЗВАНИЕ: Rust Quick Deploy. ОПИСАНИЕ: Быстрое размещение постройки: выбрать слот (Tab) -&gt; навести -&gt; левый клик -&gt; подтвердить. Ускоряет строительство базы. РЕКОМЕНДУЕМАЯ КЛАВИША: Mouse 4 (Side). КАК ИСПОЛЬЗОВАТЬ: Привяжи макрос на кнопку Mouse 4. Выбери постройку в инвентаре и нажми Mouse 4 - макрос быстро разместит её. Однократное выполнение. НАСТРОЙКА: Задержки можно увеличить если строительство пролагивает. АВТОР: by Britan. ЗАПРЕЩЕНО копировать без указания автора.</Description>
+    <Comment>Привязка: Mouse 4 (Side). Режим: однократное. Инструкция: выбери постройку и нажми - быстрое размещение.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 30 ms
+KeyUp 9 1
+Delay 50 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 40 ms
+KeyDown 13 1
+Delay 30 ms
+KeyUp 13 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

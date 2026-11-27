@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>Locked</Major>
+    <Description>Acrobatic header shot in goal for the game Locked on Roblox.
+I suggest using a 0.5 sens with 1820x1900.
+thanks to this macro u can shoot the ball into the net by headering it thanks to the Acrobatic weapon and destroy ur enemies :D
+It can also be used as goalkeeper to block any shot.
+this was part of the first form script btw have fun !!!
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+MoveTo 1051 570
+MoveR -21 -133
+Delay 15 ms
+RightDown 1
+Delay 100 ms
+KeyUp 21 1
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

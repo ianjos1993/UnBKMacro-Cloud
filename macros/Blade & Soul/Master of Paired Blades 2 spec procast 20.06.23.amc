@@ -1,0 +1,98 @@
+<Root>
+  <DefaultMacro>
+    <Major>66600013</Major>
+    <Description>Особенности 3--2--1--2--3
+ 
+Макрос даёт полный прокаст без нюков
+
+тайменги возможно нужно подправить под совй ПК, (играется НЕ в упрощённом режиме)
+
+из-за таймингов задержки может слегка мешать нажать нюк, во избежание изменить задерку или отжимать макрос раньше
+ </Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+Delay 5 ms
+KeyUp 10 1
+Delay 5 ms
+KeyDown 6 1
+Delay 5 ms
+KeyUp 6 1
+Delay 5 ms
+KeyDown 33 1
+Delay 5 ms
+KeyUp 33 1
+Delay 5 ms
+KeyDown 43 1
+Delay 5 ms
+KeyUp 43 1
+Delay 5 ms
+KeyDown 43 1
+Delay 5 ms
+KeyUp 43 1
+Delay 5 ms
+KeyDown 25 1
+Delay 5 ms
+KeyUp 25 1
+Delay 5 ms
+KeyDown 25 1
+Delay 5 ms
+KeyUp 25 1
+Delay 5 ms
+KeyDown 25 1
+Delay 5 ms
+KeyUp 25 1
+Delay 5 ms
+KeyDown 25 1
+Delay 5 ms
+KeyUp 25 1
+Delay 5 ms
+KeyDown 25 1
+Delay 5 ms
+KeyUp 25 1
+Delay 5 ms
+KeyDown 6 1
+Delay 5 ms
+KeyUp 6 1
+Delay 5 ms
+KeyDown 33 1
+Delay 5 ms
+KeyUp 33 1
+Delay 5 ms
+KeyDown 23 1
+Delay 5 ms
+KeyUp 23 1
+Delay 5 ms
+RightDown 1
+Delay 5 ms
+RightUp 1
+Delay 5 ms
+RightDown 1
+Delay 5 ms
+RightUp 1
+Delay 5 ms
+RightDown 1
+Delay 5 ms
+RightUp 1
+Delay 5 ms
+RightDown 1
+Delay 5 ms
+RightUp 1
+Delay 5 ms
+RightDown 1
+Delay 5 ms
+RightUp 1
+Delay 5 ms
+KeyDown 9 1
+Delay 5 ms
+KeyUp 9 1</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

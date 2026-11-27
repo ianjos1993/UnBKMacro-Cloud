@@ -1,0 +1,99 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Rodina RP. Автомаически открывает список растений посаженых. выберает самое верхнее и нажимает собрать с циклом 30 раз</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 12 1
+Button5Down 1
+Delay 64
+Button5up 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 100 ms
+KeyUp 12 1
+Delay 100 ms
+MoveTo 1040 767
+Delay 100 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 100 ms
+MoveTo 887 374
+Delay 100 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 100 ms
+MoveTo 884 414
+Delay 100 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 100 ms
+LeftDown 1
+Delay 100
+LeftUp 1
+Delay 100
+LeftDown 1
+Delay 100
+LeftUp 1
+Delay 100
+LeftDown 1
+Delay 100
+LeftUp 1
+Delay 100
+LeftDown 1
+Delay 100
+LeftUp 1
+Delay 100
+LeftDown 1
+Delay 100
+LeftUp 1
+Delay 100
+LeftDown 1
+Delay 100
+LeftUp 1
+Delay 100
+LeftDown 1
+Delay 100
+LeftUp 1
+Delay 100
+LeftDown 1
+Delay 100
+LeftUp 1
+Delay 100
+LeftDown 1
+Delay 100
+LeftUp 1
+Delay 100
+LeftDown 1
+Delay 100
+LeftUp 1
+Delay 100
+LeftDown 1
+Delay 100
+LeftUp 1
+Delay 100
+LeftDown 1
+Delay 100
+LeftUp 1
+Delay 100
+LeftDown 1
+Delay 100
+LeftUp 1
+Delay 100
+GoWhile 1 30</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

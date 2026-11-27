@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос помогает сделать такой вид клика как Drag Click.
+Биндите макрос на удобную вам кнопку мыши и уничтожаете врагов.
+Лучше всего использовать на мини играх или же в дуэлях.
+Не рекомендуется использовать на серверах где макросы и кликеры под запретом.
+Так же макрос работает по принципу  нажать чтобы запустить,нажать повторно чтобы выключить.
+Приятного использования.
+
+
+</Description>
+    <Comment>Этот макрос меня попросил сделать 1 из пользователей Кейрана.Ну вот сдеолаол  примерно так же как у вас на скрине но с изменеными параметрами</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 10 ms
+KeyUp 43 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+GoWhile 5 5000</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

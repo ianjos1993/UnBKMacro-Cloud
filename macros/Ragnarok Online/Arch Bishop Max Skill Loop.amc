@@ -1,0 +1,206 @@
+<Root>
+  <DefaultMacro>
+    <Major>Comprehensive Macro Guide for Arch Bishop Buff Automation</Major>
+    <Description>Comprehensive Macro Guide for Arch Bishop Buff Automation
+
+This macro is designed specifically for Arch Bishops in Ragnarok Online to automate the casting of essential party support skills during training or combat. It ensures continuous buffs without the need for manual skill activation, enhancing gameplay efficiency and maintaining seamless party support.
+
+By automating the process, your character will follow party members without interruptions, even after casting buffs. This is particularly useful if you are using a supporting Priest, as it removes the need to manually re-select the main character after each buff is applied.
+
+___________________________________________________
+
+Key Features:
+
+Hands-Free Party Support: Automatically casts all critical support skills in a pre-determined loop.
+
+Optimized Timing: Each skill's duration is carefully synchronized to maintain continuous uptime, even for short-duration buffs like Gloria.
+
+Seamless Repetition: The macro repeats the entire sequence of buffs once the longest-duration skill, such as Clementia, expires, ensuring uninterrupted support.
+
+Customizable Setup: While this macro is pre-configured for optimal usage, users can modify the skill sequence or timing to suit their preferences.
+
+____________________________________________
+
+Skill Setup and Hotkeys:
+
+Q - Suffagium [Level 3]
+W - Impositio Manus [Level 3]
+E - Magnificat [Level 5]
+R - Cantocandidus [Level 3]
+T - Clementia [Level 3]
+Y - Praefatio [Level 5]
+J - Renovatio [Level 2]
+S - Gloria [Level 3]
+
+_______________________________________________
+
+How the Macro Works:
+
+1. Skill Activation:
+The macro executes the skills in the specified sequence based on their assigned hotkeys. Each skill is cast at carefully timed intervals to ensure consistent uptime for both short and long-duration buffs.
+
+
+
+2. Gloria and Suffragium Priority:
+Short-duration skills like Gloria (key: S) and Suffragium (key: Q) are given higher priority and are re-cast multiple times during the loop to maintain continuous coverage.
+
+
+3. 
+Full Loop Execution:
+The macro completes a full rotation of buffs, ending with the longest-duration skill, Clementia (key: T). Once Clementia expires, the entire sequence restarts automatically.
+
+4. 
+
+Automatic Party Follow:
+If used with a supporting Priest or main character, the macro ensures your Arch Bishop continues to follow the party without manual intervention after casting buffs.
+
+_________________________________________________
+
+
+Step-by-Step Instructions:
+
+1. 
+Skill Assignment:
+Assign the skills to the corresponding hotkeys in your shortcut bar as shown in the table above.
+
+
+
+2. Macro Configuration:
+
+
+Assign a hotkey to start the macro.
+
+3. 
+Configure the macro to run in "Repeat Mode" for continuous execution.
+
+4. 
+Screen Settings:
+
+Set your game resolution to 1600 x 900 for optimal alignment.
+
+
+5. Position the Ragnarok Online window at the top-left corner of your screen.
+
+6. 
+Timing Adjustments:
+If you modify skill levels or durations, adjust the macro intervals accordingly. For example:
+
+If Gloria is at Level 5 (30 seconds duration), set its interval to 20-25 seconds for overlap.
+For Clementia at Level 5, extend the interval slightly for seamless looping.
+
+7. 
+Activate and Enjoy:
+Start the macro, and it will handle all buffing tasks, allowing you to focus on gameplay.
+
+
+
+___________________________________________________
+
+Key Benefits:
+
+1. 
+Enhanced Party Efficiency: Ensures continuous support for your entire party, maximizing their performance during combat and training.
+
+2. 
+Precision Timing: The carefully timed sequence eliminates gaps in buffs, maintaining optimal effectiveness throughout the gameplay.
+
+
+3. Customizability: Easily adaptable to different skill setups and play styles, making it versatile for various party compositions and strategies.
+4. 
+
+Effortless Automation: Allows you to focus on the gameplay and strategy without worrying about manually reapplying buffs.
+
+
+5. Reliable Performance: Guarantees uninterrupted party follow and skill application, even in fast-paced or high-pressure situations.
+
+____________________________________________________
+
+Acknowledgments:
+
+
+Thank you, Keyran, for revolutionizing the way we play Ragnarok Online! 
+
+With this macro, tedious tasks like reapplying Gloria become a breeze, giving players more time to focus on the joy of the game.
+
+
+
+_____________________________________________________
+
+Let me know if you’d like adjustments or further additions! 
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 159 ms
+KeyUp 20 1
+Delay 1650 ms
+KeyDown 26 1
+Delay 96 ms
+KeyUp 26 1
+Delay 2099 ms
+KeyDown 8 1
+Delay 132 ms
+KeyUp 8 1
+Delay 2629 ms
+KeyDown 21 1
+Delay 114 ms
+KeyUp 21 1
+Delay 810 ms
+KeyDown 21 1
+Delay 141 ms
+KeyUp 21 1
+Delay 2739 ms
+KeyDown 23 1
+Delay 115 ms
+KeyUp 23 1
+Delay 2742 ms
+KeyDown 28 1
+Delay 132 ms
+KeyUp 28 1
+Delay 2641 ms
+KeyDown 13 1
+Delay 122 ms
+KeyUp 13 1
+Delay 3676 ms
+KeyDown 22 1
+Delay 114 ms
+KeyUp 22 1
+Delay 39394 ms
+KeyDown 20 1
+Delay 150 ms
+KeyUp 20 1
+Delay 34204 ms
+KeyDown 26 1
+Delay 184 ms
+KeyUp 26 1
+Delay 25089 ms
+KeyDown 20 1
+Delay 177 ms
+KeyUp 20 1
+Delay 13304 ms
+KeyDown 28 1
+Delay 123 ms
+KeyUp 28 1
+Delay 2908 ms
+KeyDown 13 1
+Delay 177 ms
+KeyUp 13 1
+Delay 42718 ms
+KeyDown 20 1
+Delay 150 ms
+KeyUp 20 1
+Delay 34751 ms
+KeyDown 26 1
+Delay 159 ms
+KeyUp 26 1
+Delay 15 s</Syntax>
+    </KeyDown>
+    <Software>Ragnarok</Software>
+  </DefaultMacro>
+</Root>

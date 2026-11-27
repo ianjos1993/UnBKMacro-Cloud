@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major>Макрос для фарма аур в Флекси Удачей</Major>
+    <Description>Один из самых первых макросов для этой игры! С его помощью можно зацикливаться на самой игре гораздо меньше, будут нужны подтверждения скипов. Временами макрос может кликать не сразу из-за системы в самом плейсе.
+
+1920x1080 60hz</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 947 986
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+MoveTo 800 716
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+GoWhile 1 1000</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

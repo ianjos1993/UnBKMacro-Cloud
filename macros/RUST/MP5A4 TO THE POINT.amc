@@ -1,0 +1,253 @@
+<Root>
+  <DefaultMacro>
+    <Major>x</Major>
+    <Description>ПОСТАВИТЬ SENS 0.66 
+FOV 85
+Что нужно для использования?
+Все вольишь забинидить кнопку на клавиатуре активации программы 
+И забиньдить кнопку активации макроса, тоесть ЛКМ 
+И всё макрос сделает всё за вас. 
+Желаю всем макросникам удачи!</Description>
+    <Comment>ddddddd</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 25 1
+Delay 64
+KeyUp 25 1
+Delay 64
+Delay 23 ms
+MoveR 0 5
+Delay 24 ms
+MoveR 0 5
+Delay 24 ms
+MoveR 0 4
+Delay 24 ms
+MoveR 0 4
+Delay 24 ms
+MoveR 0 5
+Delay 24 ms
+MoveR 0 5
+Delay 24 ms
+MoveR 0 4
+Delay 24 ms
+MoveR 0 4
+Delay 24 ms
+MoveR 1 4
+Delay 24 ms
+MoveR 1 4
+Delay 24 ms
+MoveR 1 5
+Delay 24 ms
+MoveR 3 5
+Delay 24 ms
+MoveR 4 5
+Delay 24 ms
+MoveR 4 4
+Delay 24 ms
+MoveR 4 4
+Delay 24 ms
+MoveR 3 4
+Delay 24 ms
+MoveR 4 4
+Delay 24 ms
+MoveR 4 3
+Delay 24 ms
+MoveR 4 3
+Delay 24 ms
+MoveR 4 4
+Delay 24 ms
+MoveR 4 3
+Delay 24 ms
+MoveR 4 3
+Delay 24 ms
+MoveR 3 3
+Delay 24 ms
+MoveR 3 3
+Delay 24 ms
+MoveR 3 3
+Delay 24 ms
+MoveR 2 2
+Delay 24 ms
+MoveR 2 2
+Delay 24 ms
+MoveR -1 2
+Delay 24 ms
+MoveR -1 2
+Delay 24 ms
+MoveR -2 1
+Delay 24 ms
+MoveR -2 1
+Delay 24 ms
+MoveR -3 2
+Delay 24 ms
+MoveR -3 1
+Delay 24 ms
+MoveR -3 1
+Delay 24 ms
+MoveR -2 1
+Delay 24 ms
+MoveR -3 1
+Delay 24 ms
+MoveR -3 1
+Delay 24 ms
+MoveR -3 2
+Delay 24 ms
+MoveR -2 2
+Delay 24 ms
+MoveR -2 2
+Delay 24 ms
+MoveR -1 2
+Delay 24 ms
+MoveR -1 1
+Delay 24 ms
+MoveR -1 1
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 2 1
+Delay 24 ms
+MoveR 2 1
+Delay 24 ms
+MoveR 2 1
+Delay 24 ms
+MoveR 2 1
+Delay 24 ms
+MoveR 2 0
+Delay 24 ms
+MoveR 2 1
+Delay 24 ms
+MoveR 3 0
+Delay 24 ms
+MoveR 3 1
+Delay 24 ms
+MoveR 3 0
+Delay 24 ms
+MoveR 3 1
+Delay 24 ms
+MoveR 2 0
+Delay 24 ms
+MoveR 2 1
+Delay 24 ms
+MoveR 2 0
+Delay 24 ms
+MoveR 2 0
+Delay 24 ms
+MoveR 2 0
+Delay 24 ms
+MoveR 2 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 23 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

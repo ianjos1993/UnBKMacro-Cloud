@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос предназначен для ускорения ролевых действий в Провинции РП на Роблоксе. Он позволяет автоматически открывать чат нажав на numpad клавишу 0. Желательно включать NumLock!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 24 1
+Delay 64
+KeyUp 24 1
+Delay 64
+KeyDown 42 1
+Delay 64
+KeyUp 42 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,64 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос автоматически зажимает клавишу W, затем каждую минуту проверяет колесо удачи, через F10 &gt; Магазин &gt; Рулетка &gt; Колесо &gt; Крутить.
+
+Разрешение: 1920x1080
+Формат: 16:9
+
+Режим работы: Выполнять до повторного нажатия, Использовать настройки макроса (До повторного нажатия)
+</Description>
+    <Comment>by EYR</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 1 min
+KeyUp 26 1
+Delay 200 350 ms
+KeyDown 67 1
+Delay 200 350 ms
+KeyUp 67 1
+Delay 200 350 ms
+MoveTo 1290 279
+Delay 200 350 ms
+LeftDown 1
+Delay 200 350 ms
+LeftUp 1
+Delay 200 350 ms
+MoveTo 588 334
+Delay 200 350 ms
+LeftDown 1
+Delay 8 10 s
+LeftUp 1
+Delay 200 350 ms
+MoveTo 765 653
+Delay 200 350 ms
+LeftDown 1
+Delay 200 350 ms
+LeftUp 1
+Delay 200 350 ms
+MoveTo 968 884
+Delay 200 350 ms
+LeftDown 1
+Delay 200 350 ms
+LeftUp 1
+Delay 10 13 s
+KeyDown 41 1
+Delay 200 350 ms
+KeyUp 41 1
+Delay 200 350 ms
+KeyDown 41 1
+Delay 200 350 ms
+KeyUp 41 1
+Delay 200 350 ms
+KeyDown 41 1
+Delay 200 350 ms</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

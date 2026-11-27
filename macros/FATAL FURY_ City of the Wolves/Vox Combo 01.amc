@@ -1,0 +1,153 @@
+<Root>
+  <DefaultMacro>
+    <Major>Vox Combo 01</Major>
+    <Description>Макрос позволяет выполнять оптимальное комбо за Vox.
+Видео демонстрации работы макроса: https://youtu.be/ZDCL-PaWZ_I
+
+Персонаж Вокс представлен как новый участник с акцентом на давление и агрессивный темп. Образ строится вокруг холодного и расчетливого исполнителя. В бою использует быстрые серии и навязывание инициативы. Анимации подчеркивают легкость перемещения и резкие входы в атаку. Характер не раскрывается через эмоции, акцент смещен на функцию и эффективность.
+
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — Dodge
+ Z — Feint
+ V — REV Block
+
+Тестирование макроса проводились на последнем патче игры на 22.04.2026
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ.
+
+#VoxFatalFuryCotw #fatalfurycotw #fatalfury</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 92 ms
+KeyDown 4 1
+Delay 80 ms
+KeyDown 93 1
+Delay 14 ms
+KeyUp 22 1
+Delay 109 ms
+KeyUp 93 1
+Delay 1 ms
+KeyUp 4 1
+Delay 55 ms
+KeyDown 22 1
+Delay 63 ms
+KeyDown 7 1
+Delay 21 ms
+KeyDown 92 1
+Delay 70 ms
+KeyUp 22 1
+Delay 64 ms
+KeyUp 7 1
+Delay 0 ms
+KeyUp 92 1
+Delay 198 ms
+KeyDown 7 1
+Delay 1 ms
+KeyDown 89 1
+Delay 180 ms
+KeyDown 93 1
+Delay 93 ms
+KeyUp 89 1
+Delay 80 ms
+KeyUp 93 1
+Delay 56 ms
+KeyUp 7 1
+Delay 11 ms
+KeyDown 22 1
+Delay 43 ms
+KeyDown 97 1
+Delay 6 ms
+KeyDown 4 1
+Delay 137 ms
+KeyUp 22 1
+Delay 29 ms
+KeyUp 97 1
+Delay 31 ms
+KeyUp 4 1
+Delay 147 ms
+KeyDown 92 1
+Delay 163 ms
+KeyDown 7 1
+Delay 48 ms
+KeyDown 22 1
+Delay 4 ms
+KeyUp 92 1
+Delay 32 ms
+KeyDown 93 1
+Delay 50 ms
+KeyUp 7 1
+Delay 85 ms
+KeyUp 93 1
+Delay 0 ms
+KeyUp 22 1
+Delay 563 ms
+KeyDown 92 1
+Delay 7 ms
+KeyDown 93 1
+Delay 25 ms
+KeyDown 22 1
+Delay 0 ms
+KeyDown 7 1
+Delay 200 ms
+KeyUp 92 1
+Delay 1 ms
+KeyUp 93 1
+Delay 2 ms
+KeyUp 22 1
+Delay 0 ms
+KeyUp 7 1
+Delay 632 ms
+KeyDown 7 1
+Delay 87 ms
+KeyDown 26 1
+Delay 110 ms
+KeyDown 90 1
+Delay 111 ms
+KeyDown 92 1
+Delay 119 ms
+KeyUp 26 1
+Delay 38 ms
+KeyUp 90 1
+Delay 42 ms
+KeyUp 7 1
+Delay 3 ms
+KeyUp 92 1
+Delay 180 ms
+KeyDown 89 1
+Delay 156 ms
+KeyUp 89 1
+Delay 49 ms
+KeyDown 4 1
+Delay 174 ms
+KeyUp 4 1
+Delay 48 ms
+KeyDown 93 1
+Delay 82 ms
+KeyUp 93 1</Syntax>
+    </KeyDown>
+    <Software>FATAL FURY: City of the Wolves</Software>
+  </DefaultMacro>
+</Root>

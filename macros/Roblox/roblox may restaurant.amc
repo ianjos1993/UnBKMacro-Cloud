@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>Макрос на быстую покупку предметов по низкой цене в режиме My Restaurant 2 </Major>
+    <Description>Макрос на быструю покупку предметов на торговой площадке в перовом слоте
+Работает так:
+1) обновляете страницу пока не появится дешёвый предмет
+2) покупаете его за 35 милисекунд за счёт макроса
+Таким макросом можно купить предмет быстрее чем другие
+(Я НЕ ОБЕЩАЮ ЧТО ВЫ КУПИТЕ ПРЕДМЕТ РАНЬШЕ ДРУГИХ, НО МАКРОС ДАЁТ НА ЭТО БОЛЬШЕ ШАНСОВ)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 934 434
+Delay 5 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+MoveTo 898 702
+Delay 5 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

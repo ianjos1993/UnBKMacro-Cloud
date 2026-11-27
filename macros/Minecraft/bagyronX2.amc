@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Двойной урон на пвп серверах до новой боёвки
+Первый слот меч, третий второй меч для двойного урона.
+Тестил на хайпикселе, работает отлично, 
+Назначаете на удобную клавишу, и при зажатии он начинает работать, как в аптеке)
+Наслаждайтесь игрой)
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 32 1
+Delay 1 ms
+KeyUp 32 1
+Delay 1 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+Delay 1 ms
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

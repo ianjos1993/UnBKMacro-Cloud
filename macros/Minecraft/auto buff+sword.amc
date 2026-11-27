@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>с помощью этого макроса одной кнопкой можно забафать себя
+подходит для пвп
+настройки никакие не нужны
+условия: ваш меч должен быть в первом слоту, а бафы в 9 и 8 слотах</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>WheelUp 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+WheelUp 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+WheelDown 1
+Delay 64
+WheelDown 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

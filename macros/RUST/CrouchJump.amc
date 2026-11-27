@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>Crouch jump</Major>
+    <Description>This rust macro will make you crouch jump.
+Good when you cant make a jump thiss macro will help you.
+just press W, Sprint and start macro when your close to the jump.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+KeyDown 26 1
+Delay 15 ms
+KeyDown 224 1
+Delay 10 ms
+Delay 7 ms
+KeyDown 44 1
+KeyUp 44 1
+Delay 35 ms
+Delay 10 ms
+KeyUp 224 1
+Delay 7 ms
+KeyUp 26 1
+KeyUp 225 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

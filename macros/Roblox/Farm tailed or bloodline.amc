@@ -1,0 +1,72 @@
+<Root>
+  <DefaultMacro>
+    <Major>Shindo Life 2</Major>
+    <Description>Данный макрос поможет вам с долгим фармом хвостатого, или блудлайна.Макрос автоматически призывает хвостатого, ставит ему нужную форму, включает режим берсерка и повторяет пока вы не остановите.В редакторе можно указать нужную вам форму хвостатого или поменять призыв хвостатого на активацию блудлайна.
+Требования:
+1) Нужно стоять возле бревен
+2)Ничего не нажимать и не активировать еще другие формы, т.к  MD будет быстрее тратится
+Надеюсь я смог вам помочь проблему с долгим фармом лвла на хвостатом или блудлайне.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 5 s
+KeyDown 20 1
+Delay 64
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 64
+KeyUp 20 1
+Delay 7 s
+KeyDown 56 1
+Delay 64
+KeyUp 56 1
+Delay 64
+KeyDown 225 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyUp 225 1
+Delay 64
+KeyDown 5 1
+Delay 64
+KeyUp 5 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+KeyDown 14 1
+Delay 64
+KeyUp 14 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 380 s</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

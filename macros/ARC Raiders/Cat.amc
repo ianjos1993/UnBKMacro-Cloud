@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major>Крюк-кошка</Major>
+    <Description>Прыжок с кошкой с последующим убиранием её в потайной карман и доставанием оружия.
+
+Вы просто ставите кошку в 4й слот(обязательно) и у вас должен быть потайной карман, далее цепляетесь, прожимаете назначенную кнопку на макрос,кошка в потайном кармане и выбрано оружие на Первом слоте! 
+
+Обязательно разрешение 2560х1440(так как курсор ставится по Абсолютным координатам), Слот где будет кошка,оружие будет выбираться в первом слоте!
+Всё это можно само собой изменить, но если соблюсти условия макроса,то просто скачали и запустили и наслаждайтесь!
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 14 20 ms
+KeyUp 43 1
+MoveTo 2000 590
+LeftDown 1
+Delay 54 65 ms
+MoveTo 2000 1040
+Delay 44 54 ms
+LeftUp 1
+KeyDown 43 1
+Delay 14 20 ms
+KeyUp 43 1
+Delay 14 20 ms
+KeyDown 30 1
+Delay 54 65 ms
+KeyUp 30 1
+Delay 54 64 ms</Syntax>
+    </KeyDown>
+    <Software>ARC Raiders</Software>
+  </DefaultMacro>
+</Root>

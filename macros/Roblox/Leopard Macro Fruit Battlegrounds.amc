@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Максимально простинький макросс может зделать каждый , надеюсь комунибудь понравится.
+Что бы включить нажимаете число 1 , что бы остоновить ещё раз нажмите 1 </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyDown 32 1
+Delay 64
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

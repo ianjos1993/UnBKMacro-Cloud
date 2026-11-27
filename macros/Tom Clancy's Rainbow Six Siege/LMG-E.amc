@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>LMG-E Recoil for Ram/Zofia</Major>
+    <Description>A recoil reduction macro for LMG-E. LMG recoils are hard to manage for long bursts, and the LMG-E was especially screwed post LMG nerf without it being fully rectified. This was designed to make an entire mag dump possible on even a small mousepad. Micro adjustments are needed, but you should be able to acheive 100% upper body shot hits at any range with a little practice. IF you are looking for headshots, I would recommend lowering the mouse movement and just manually adjusting, as macros struggle with the jumps that can happen every 10-15 shots in
+
+Loadout: Vert, acog, comp
+
+Res: 16:10, 1920 x1080
+
+Sensitivity 6,6
+
+800 Dpi</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 25 ms
+MoveR -1 47 0 48
+Delay 25 ms
+MoveR 0 58
+Delay 25 ms
+MoveR 0 53
+Delay 25 ms
+MoveR -15 48
+Delay 25 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

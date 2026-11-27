@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Биндите на любую клавишу. Сенса любая. Стреляет в точку! Легкий пистолетный раунд!) И можете также попробовать мои другие макросы</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 40
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 40
+LeftDown 1</Syntax>
+    </KeyDown>
+    <Software>CS: GO</Software>
+  </DefaultMacro>
+</Root>

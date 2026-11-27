@@ -1,0 +1,58 @@
+<Root>
+  <DefaultMacro>
+    <Major>Paul Demo-Man w/ blue spark</Major>
+    <Description>Макрос позволяет выполнять demolition man с blue spark.
+Видео демонстрации работы макроса: https://youtu.be/EOkLx1EuKew
+
+Пол Феникс – вспыльчивый мастер боевых искусств, стремящийся стать величайшим бойцом во вселенной. Он принял участие в седьмом турнире «Король Железного Кулака», надеясь на непомерные призовые, более чем когда-либо уверенный, что на этот раз он одержит победу. Однако турнир будет приостановлен из-за исчезновения его организатора. Пол получил лишь малую часть денег за бой, на которые он рассчитывал, что ввергло его в нищету.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+
+Тестирование макроса проводились на последнем патче игры на 29.01.2024
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#paultekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 17 ms
+KeyDown 77 1
+Delay 63 ms
+KeyUp 77 1
+Delay 56 ms
+KeyUp 22 1
+Delay 31 ms
+KeyDown 74 1
+Delay 55 ms
+KeyUp 74 1
+Delay 424 ms
+KeyDown 73 1
+KeyDown 74 1
+Delay 88 ms
+KeyUp 73 1
+KeyUp 74 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

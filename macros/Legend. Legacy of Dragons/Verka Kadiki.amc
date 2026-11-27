@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>пинаем  мобов  Кадхас.  благословение  Ярость Верциды или  Сила радуги.  мобы бьются 1 ударом -сила гнева,эликсир гнева,и сам удар(язык пламени) тем самым заменяя три нажатия на одно .Ставим на правую кнопку мыши  и после нападения тыкаем бой 3-5 сек вместо 7-10 сек  подходит как для 11 так и для 12 лвл
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software> "Легенда: наследие драконов"</Software>
+  </DefaultMacro>
+</Root>

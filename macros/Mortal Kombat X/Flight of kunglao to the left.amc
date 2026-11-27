@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Идеальный удар в полете на персонаже кунг лао лучше использовать в стиле буря 
+Работает макрос только в левую сторону.
+Персонаж подпрыгивает и инстантно (моментально) делает удар благодаря чему этот макрос можно вставлять в разные комбинации по вашему усмотрению
+Так же в ручную можно быстро нажать после макроса на блок чтобы сделать усиленный удар ногой что приводит к дополнительным развитиям ваших комбинаций или наказаний. 
+Удачи!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 28 ms
+KeyDown 26 1
+Delay 14
+KeyUp 4 1
+Delay 14
+KeyUp 26 1
+Delay 100 ms
+KeyDown 22 1
+Delay 28 ms
+KeyDown 15 1
+Delay 14
+KeyUp 22 1
+Delay 28 ms
+KeyDown 51 1
+Delay 14
+KeyUp 15 1
+Delay 14
+KeyUp 51 1
+Delay 14</Syntax>
+    </KeyDown>
+    <Software>Mortal Kombat X</Software>
+  </DefaultMacro>
+</Root>

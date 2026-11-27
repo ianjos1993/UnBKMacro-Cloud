@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Обычный копатель ресурсов для Тераррии. Управление:Достаточно в шахте нажать на лкм и D и все. Настройте прицел для того чтобы копать 3 блока и все! Очень простой макрос для тех кому надо отойти но копать тоже нужно *Желательно ставить запись копания ибо ты мог найди ценные ресурсы и просто их пропустить,или на случай нахождения данжей и т.д</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+KeyDown 7 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Terraria</Software>
+  </DefaultMacro>
+</Root>

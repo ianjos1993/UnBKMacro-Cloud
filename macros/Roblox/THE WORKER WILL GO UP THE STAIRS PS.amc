@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>pet simulator единственный рабочий не как у других. НА ВОСЕМЬ МИЛИОН циклов
+можете находится где угодно на лестнице но главное чтобы камера была ровная персонаж сам выровнится</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 2 s
+KeyUp 26 1
+KeyDown 4 1
+Delay 2 s
+KeyUp 4 1
+KeyDown 22 1
+Delay 2 s
+KeyUp 22 1
+KeyDown 7 1
+Delay 2 s
+KeyUp 7 1
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Good morning! I bring you a bot to fast kill digis and pick loot. It is specifically design for places with high rate apparition on monsters, meaning that you kill them and they appear again quite rapidly. I'm talking about places like Nanomon on Dumpsite (Versandi Terminal), or Witchmon on Minato City.
+
+You will need a digi that can one shot with F1 ability, so if your digi is not that strong, I recommend using a 100% skill bonus card.
+
+Another thing why this is called "INDETECTABLE" is because you need to go to configuration and mark the movement as "DIGIMON" and not "TAMER" as it usually comes. This way, you will move with the digi, so it doesn't look like you are botting and you won't get called on it.
+
+The gig goes like this: you set your F1 skill in F1 (duh!), then pick up on 4, and a DS DISC on F6. I recommend DISC H as it doesn't cost much and will get you going perfectly. Have fun botting!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+KeyDown 58 1
+Delay 64
+KeyUp 58 1
+Delay 64
+KeyDown 33 1
+Delay 200 ms
+KeyUp 33 1
+Delay 500 ms
+GoWhile 9 5
+GoWhile 1 100
+KeyDown 63 1
+Delay 64
+KeyUp 63 1
+Delay 64
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Digimon Masters Online</Software>
+  </DefaultMacro>
+</Root>

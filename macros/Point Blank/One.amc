@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макро на дроб (Любой). Желательно уставновить на ПКМ, на режим По нажития по 1.
+Делал все на свой риск и страх.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 32 ms
+KeyDown 30 1
+Delay 11 ms
+KeyUp 32 1
+Delay 32 ms
+KeyUp 30 1
+Delay 11 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

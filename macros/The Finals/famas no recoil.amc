@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>23 sens in game, 800dpi, 1920 x 1080 pixels resolution works when aiming downsight, this macro shoot and drag down to cancel the famas recoil so you can hit all your headshots</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 55 ms
+MoveR 0 35
+Delay 45 ms
+MoveR 0 38
+LeftUp 1
+Delay 300 ms</Syntax>
+    </KeyDown>
+    <Software>The Finals</Software>
+  </DefaultMacro>
+</Root>

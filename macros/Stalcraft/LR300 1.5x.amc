@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Привет , Это макрос под мастерскую пушку лр300 , работает только до выпуска 50 патрон , дальше ходуном ходит из-за разброса пушки.
+расширение - 1920x1080
+чувствительность - 7.39
+1 шаг - забиндите макрос на  любую удобную клавишу ,
+2 шаг - активируйте макрос , предварительно зайдя в прицел. (зажать клавишу )
+удачи в использовании ! </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 0 7
+Delay 64
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Спамит спавном предметов. Тоесть, зажимаете клавишу, и предметы начинают очень быстро появляться, можете например заспавнить много фейверков, активировать их и будет красивый, большой салют. Макрос довольно лёгкий, но полезный. ОБЯЗАТЕЛЬНО !!!Поставить режим работы "Выполнять пока нажата клавиша" !!!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 1 ms
+KeyUp 8 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>People Play Ground</Software>
+  </DefaultMacro>
+</Root>

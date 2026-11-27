@@ -1,0 +1,152 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Скрипт для работы на поливомоечном трамвае Приволжска Депо-1.
+===================================================================================================
+Инструкция:
+Заходим в BotMek, выбираем вкладку A4tech, загружаем туда скрипт.
+Ставим удобную вам клавишу, и привязываете к ней скрипт.
+Сворачиваем BotMek, заходим в игру и устраиваемся работать в Депо-1.
+Садимся в трамвай который находится в самом первом ангаре и нажимаем клавишу которую вы привязали.
+Скрипт сам поедет, на красный сигнал светофора не останавливает, лучше работать ночью.
+После того как он проедет маршрут, вам самим нужно будет снова сесть в трамвай и нажать клавишу которую привязали.
+===================================================================================================
+Используйте на здоровье.
+Спасибо на скачивания.
+===================================================================================================
+"bammer"
+
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 1090 ms
+KeyDown 226 1
+Delay 92 ms
+KeyUp 226 1
+Delay 558 ms
+KeyDown 14 1
+Delay 80 ms
+KeyDown 15 1
+Delay 56 ms
+KeyUp 14 1
+Delay 54 ms
+KeyUp 15 1
+Delay 788 ms
+KeyDown 31 1
+Delay 113 ms
+KeyUp 31 1
+Delay 15565 ms
+KeyUp 26 1
+Delay 94 ms
+KeyDown 26 1
+Delay 49182 ms
+KeyUp 26 1
+Delay 76 ms
+KeyDown 26 1
+Delay 13206 ms
+KeyUp 26 1
+Delay 715 ms
+KeyDown 22 1
+Delay 4430 ms
+KeyUp 22 1
+Delay 362 ms
+KeyDown 26 1
+Delay 32283 ms
+KeyUp 26 1
+Delay 68 ms
+KeyDown 26 1
+Delay 36227 ms
+KeyUp 26 1
+Delay 48 ms
+KeyDown 26 1
+Delay 4717 ms
+KeyUp 26 1
+Delay 90 ms
+KeyDown 26 1
+Delay 22798 ms
+KeyUp 26 1
+Delay 172 ms
+KeyDown 26 1
+Delay 35080 ms
+KeyUp 26 1
+Delay 72 ms
+KeyDown 26 1
+Delay 43291 ms
+KeyUp 26 1
+Delay 109 ms
+KeyDown 26 1
+Delay 5633 ms
+KeyUp 26 1
+Delay 555 ms
+KeyDown 22 1
+Delay 4455 ms
+KeyUp 22 1
+Delay 324 ms
+KeyDown 26 1
+Delay 78043 ms
+KeyUp 26 1
+Delay 143 ms
+KeyDown 26 1
+Delay 263 ms
+KeyUp 26 1
+Delay 672 ms
+KeyDown 22 1
+Delay 2802 ms
+KeyUp 22 1
+Delay 1294 ms
+KeyDown 22 1
+Delay 1446 ms
+KeyUp 22 1
+Delay 386 ms
+KeyDown 22 1
+Delay 102 ms
+KeyUp 22 1
+Delay 767 ms
+KeyDown 31 1
+Delay 113 ms
+KeyUp 31 1
+Delay 1393 ms
+KeyDown 31 1
+Delay 91 ms
+KeyUp 31 1
+Delay 476 ms
+KeyDown 26 1
+Delay 8397 ms
+KeyDown 31 1
+Delay 100 ms
+KeyUp 31 1
+Delay 71841 ms
+KeyUp 26 1
+Delay 60 ms
+KeyDown 26 1
+Delay 29273 ms
+KeyUp 26 1
+Delay 124 ms
+KeyDown 26 1
+Delay 9220 ms
+KeyUp 26 1
+Delay 96 ms
+KeyDown 26 1
+Delay 43751 ms
+KeyUp 26 1
+Delay 71 ms
+KeyDown 26 1
+Delay 72064 ms
+KeyUp 26 1
+Delay 86 ms
+KeyDown 26 1
+Delay 7728 ms
+KeyUp 26 1
+Delay 2208 ms
+Delay 34 ms</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

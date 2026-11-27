@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major>smg 12 low sens</Major>
+    <Description>Recoil control for SMG-12
+settings used: Fov= 84
+                        x= 4
+                        y= 4
+                        scope sens = 35
+                        res = 5:4
+                        sensitivity multiplier = 0.02
+
+the recoil control may be a bit unpredictable as the smg12 does not have the same recoil always.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>        LeftDown 1
+        Delay 10 ms
+        MoveR 1 15
+        Delay 8 ms
+        MoveR -1 15
+        Delay 8 ms
+        MoveR 2 7   
+        Delay 8 ms
+        MoveR -2 7   
+        Delay 7 ms
+        MoveR 3 7   
+        Delay 8 ms
+        MoveR -3 7   
+        Delay 6 ms
+        MoveR 4 7   
+        Delay 7 ms
+        MoveR -4 7   
+        Delay 6 ms
+        MoveR 5 7   
+        Delay 8 ms
+        MoveR -5 7   
+        Delay 6 ms
+        LeftUp 1
+      </Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

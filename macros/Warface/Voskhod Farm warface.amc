@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос идеально подходит для того чтобы набивать холодное оружие на спецоперации " ВОСХОД " 
+Этот макрос подходит для фарма основного оружия, так же пистолета и ножа, так же можете пробовать делать "Гренадёры,, 
+Этот макрос стоит использовать только на 2 мосту ( ставить щит между коробкой и трактором по центру, и запускаете макрос 
+Удачи вам :)</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64
+KeyDown 25 1
+Delay 10
+KeyUp 25 1
+Delay 10</Syntax>
+    </KeyDown>
+    <Software>Warface</Software>
+  </DefaultMacro>
+</Root>

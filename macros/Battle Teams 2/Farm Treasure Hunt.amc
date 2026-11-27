@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматическая игра в кубик события "погоня за сокровищами", для тех, у кого тысячи кубиков события.
+
+Инструкция:
+
+1) Поставить разрешение 1200x768;
+2) Оконный режим;
+3) Перенести окно с игрой в левый верхний угол;
+4)Запустить макрос;
+5) Кайфовать.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 937 565
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 10 s
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 10 s
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 10 s
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 10 s
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 5 s</Syntax>
+    </KeyDown>
+    <Software>Battle Teams 2</Software>
+  </DefaultMacro>
+</Root>

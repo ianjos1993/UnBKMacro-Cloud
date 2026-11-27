@@ -1,0 +1,875 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на СГК «Канарейка» для Беларусского подразделения «ССО РБ»
+
+(Штурмовик Лазутчик)
+
+Настройки: Управление -&gt; Чувствительность 50 (Чувствительность в режиме прицеливания 20)
+
+Примечение: Используйте навык на скорострельность «Чувствительный пусковой крючок»
+
+Для правильной работы макроса частота кадров «FPS» должна придерживаться свыше 60.</Description>
+    <Comment>Оружие у данного оперативника имеет необычный формат движения, по направлению в лево. Но при этом имеет малый рандом. Что позволяет стрелять на дальние растояния практически без разброса. </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax>rm</Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+
+Delay 5 ms
+MoveR 2 2
+Delay 6 ms
+MoveR 1 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+MoveR 2 2
+Delay 5 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Caliber</Software>
+  </DefaultMacro>
+</Root>

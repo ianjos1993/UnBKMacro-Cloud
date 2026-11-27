@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Удобно для добычи руды на карьере, для себя настроил на кнопку Q. 
+Инструкция: для начала настрой макрос на кнопку
+ Начни добывать камень, нажми на кнопку которую ты забиндил на макрос и жди добычи, закончил с добычей 
+выключил макрос и пошёл к другому камню и так по кругу</Description>
+    <Comment>Удобно для добычи руды на карьере, для себя настроил на кнопку Q. 
+Инструкция: для начала настрой макрос на кнопку
+ Начни добывать камень, нажми на кнопку которую ты забиндил на макрос и жди добычи, закончил с добычей 
+выключил макрос и пошёл к другому камню и так по кругу
+https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+LeftUp 1
+Delay 500 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 500 ms
+GoWhile 1 10</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

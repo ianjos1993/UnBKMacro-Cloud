@@ -1,0 +1,126 @@
+<Root>
+  <DefaultMacro>
+    <Major>hypixel skybloc. bazaar purchaser</Major>
+    <Description>allows you toautomatically buy hard stone from the bazaar menu in skyblock for 3.1 makes about 1 mil profit
+
+you need hard  stone V to craft
+
+requires a compactor or for you to make enchanted hard stone by hand
+
+after compacting or crafting sell back to the bazaar either at quick sell or sell it via sell orders
+
+ ( requires a booster cookie  )</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 64 130
+KeyUp 56 1
+Delay 64 130
+KeyDown 5 1
+Delay 64 130
+KeyUp 5 1
+Delay 64 130
+KeyDown 29 1
+Delay 64 130
+KeyUp 29 1
+Delay 64 130
+KeyDown 88 1
+Delay 64 130
+KeyUp 88 1
+Delay 151 283 ms
+MoveTo 818 1492
+Delay 151 283 ms
+LeftDown 1
+Delay 151 283 ms
+LeftUp 1
+Delay 151 283 ms
+MoveTo 1112 1529
+Delay 151 283 ms
+LeftDown 1
+Delay 151 283 ms
+LeftUp 1
+Delay 151 283 ms
+MoveTo 929 1509
+Delay 151 283 ms
+LeftDown 1
+Delay 151 283 ms
+LeftUp 1
+Delay 151 283 ms
+MoveTo 1035 1516
+Delay 151 283 ms
+LeftDown 1
+Delay 151 283 ms
+LeftUp 1
+Delay 151 283 ms
+MoveTo 1073 1511
+Delay 151 283 ms
+LeftDown 1
+Delay 151 283 ms
+LeftUp 1
+Delay 151 283 ms
+KeyDown 36 1
+Delay 64 130
+KeyUp 36 1
+Delay 64 130
+KeyDown 30 1
+Delay 64 130
+KeyUp 30 1
+Delay 64 130
+KeyDown 35 1
+Delay 64 130
+KeyUp 35 1
+Delay 64 130
+KeyDown 37 1
+Delay 64 130
+KeyUp 37 1
+Delay 64 130
+KeyDown 39 1
+Delay 64 130
+KeyUp 39 1
+Delay 151 283 ms
+MoveTo 964 1612
+Delay 151 283 ms
+LeftDown 1
+Delay 151 283 ms
+LeftUp 1
+Delay 151 283 ms
+MoveTo 1074 1514
+Delay 151 283 ms
+LeftDown 1
+Delay 151 283 ms
+LeftUp 1
+Delay 151 283 ms
+KeyDown 32 1
+Delay 151 283 ms
+KeyUp 32 1
+Delay 151 283 ms
+KeyDown 55 1
+Delay 151 283 ms
+KeyUp 55 1
+Delay 151 283 ms
+KeyDown 30 1
+Delay 151 283 ms
+KeyUp 30 1
+Delay 151 283 ms
+MoveTo 965 1618
+Delay 151 283 ms
+LeftDown 1
+Delay 151 283 ms
+LeftUp 1
+Delay 151 283 ms
+MoveTo 965 1512
+Delay 151 283 ms
+LeftDown 1
+Delay 151 283 ms
+LeftUp 1
+Delay 151 283 ms</Syntax>
+    </KeyDown>
+    <Software>minecraft</Software>
+  </DefaultMacro>
+</Root>

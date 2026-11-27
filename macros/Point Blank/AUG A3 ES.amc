@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major>No Recoil Extermination</Major>
+    <Description>No recoil for AUG A3 that best works if you use it on hold key operation mode while holding until you have 0 Ammo.
+It shoots really fast with 98% Accuracy after 2 seconds which makes it usable with the +4 Rapid Fire along with +3 Weapon Control  title for 99% Accuracy.
+Best Used with AUG A3 ES since it shoots with pin-point accuracy because of the lower recoil making it usable with the rapid fire title instead of the normal +4 Weapon Control title.
+
+Can also be used with new years AUG A3 or Other AUG A3's with 48 control.
+Also usable with APC9, Kriss, P90 ext and other submachine guns. Check out my other macros for APC9 and QC macros.
+
+Recommended title layout is Mobility, +4 Rapid Fire, +3 Weapon Control. If you don't have any of those go with Mobility, +2 Rapid Fire, +1 Weapon Control.
+
+Rapid Fire should always be preferred over Weapon Control because AUG A3 doesn't need any more Weapon Control since it has really high control itself. Weapon Control should be preferred above Rapid Fire if you plan to use this macro with Kriss. With APC9 you still should use rapid fire.
+
+1920x1080 60HZ</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 7 ms
+RightUp 1
+Delay 7 ms
+LeftDown 1
+Delay 7 ms
+LeftUp 1
+Delay 7 ms
+GoWhile 5 50
+MoveR 0 37
+GoWhile 10 12</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

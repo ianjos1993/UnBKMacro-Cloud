@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major>Shotgun</Major>
+    <Description>Shotgun all weapon maybe u can use m1887, spass, cerberus, ini juga bisa digunakan sniper cara menggunakanya klik kiri baru klik kanan selamat mencoba script</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 30 ms
+KeyDown 32 1
+Delay 15 ms
+KeyUp 32 1
+Delay 10 ms
+KeyDown 30 1
+Delay 15 ms
+KeyUp 30 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Point Blank</Software>
+  </DefaultMacro>
+</Root>

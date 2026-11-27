@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>кастует скилл Tornado ( wwq + r)  настройки должны быть по умолчанию клавиша w - wex  , клавиша q - quas , клавиша R - invoke , желательно включить квик касты</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 10 ms
+KeyUp 26 1
+Delay 10 ms
+KeyDown 26 1
+Delay 10 ms
+KeyUp 26 1
+Delay 10 ms
+KeyDown 20 1
+Delay 10 ms
+KeyUp 20 1
+Delay 10 ms
+KeyDown 21 1
+Delay 10 ms
+KeyUp 21 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

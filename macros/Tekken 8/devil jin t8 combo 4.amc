@@ -1,0 +1,84 @@
+<Root>
+  <DefaultMacro>
+    <Major>devil jin t8 combo 4</Major>
+    <Description>Комбо макрос для персонажа Devil Jin  в игре Tekken 8
+
+Джин был взят в плен Организацией Объединенных Наций после его столкновения с Азазелем. Дьявол Джин появился во время транспортировки и уничтожил вертолет, на котором он находился. Дезориентированный, Джин начал пересекать пустыню, чередуя свое человеческое «я» и форму Дьявола Джина. В конце концов, Дьявол Джин столкнулся с Хварангом на базаре. На этот раз Хваранг смог победить Дьявола Джина. Джин сбежал, когда на место прибыла Организация Объединенных Наций, И впоследствии был взят Ларсом Александерссоном.
+
+Видео демонстрация макроса -  https://youtu.be/63LMKyd5gzE
+Тестировалось на последней версии игры.
+
+Настройки в программе для корректного выполнения макроса:
+1. Использовать драйвер.
+2. Отключить использование минимальной задержки.
+
+
+Настройки управления в игре:
+1 - Num 4
+2 - Num 5
+3 - Num 1
+4 - Num 2
+Up - W
+Down - S
+Left - A
+Right - D
+
+Если макрос не работает обращаться - https://keyran.net/discord
+Либо к автору макроса, также по вопросам написания макросов - hersonaep (discord)
+
+#tekken #tekken8 #dvj #keyran</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 7 ms
+KeyDown 7 1
+Delay 335 ms
+KeyUp 22 1
+Delay 24 ms
+KeyUp 7 1
+Delay 575 ms
+KeyDown 92 1
+Delay 127 ms
+KeyUp 92 1
+Delay 280 ms
+KeyDown 89 1
+Delay 87 ms
+KeyUp 89 1
+Delay 8 ms
+KeyDown 92 1
+Delay 104 ms
+KeyUp 92 1
+Delay 79 ms
+KeyDown 92 1
+Delay 96 ms
+KeyUp 92 1
+Delay 607 ms
+KeyDown 4 1
+Delay 64 ms
+KeyDown 7 1
+Delay 47 ms
+KeyUp 4 1
+Delay 23 ms
+KeyDown 93 1
+Delay 152 ms
+KeyDown 92 1
+Delay 47 ms
+KeyUp 93 1
+Delay 56 ms
+KeyUp 92 1
+Delay 631 ms
+KeyDown 93 1
+Delay 72 ms
+KeyUp 93 1
+Delay 135 ms
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

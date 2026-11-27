@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>применять слева направо после усиленного телепорта и при этом иметь способность теневые порталы перед использывание портала желательно провести комбо 1,1,3 для большего урона (советую попрактиковаться в тренеровке так как нужно словить нужный тайминг после телепорта)
+раскладка- NumLock4 это 3 лёгкий удар ногой 
+NumLock7 это 2 сильный удар рукой 
+NumLock5 это 1 лёгкий удар рукой
+NumLock6 это 4 сильный удар ногой
+управление WASD            </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 50 ms
+KeyDown 7 1
+Delay 64 ms
+KeyUp 7 1
+Delay 64
+KeyDown 93 1
+Delay 64
+KeyUp 93 1
+Delay 40 ms
+KeyDown 93 1
+Delay 64
+KeyUp 93 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+KeyDown 95 1
+Delay 64
+KeyUp 95 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Mortal Kombat 11</Software>
+  </DefaultMacro>
+</Root>

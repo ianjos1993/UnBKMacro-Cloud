@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>  Спасибо за использования моего макроса.
+ Создания удобств:
+1. Меняем все кнопки на ту где у вас стоит "использовать".
+ (в моем случаем - боковая клавиша вниз).
+2. Ставим на лубую удобную кнопку (чтобы все хорошо работало, нужно зажимать кнопку, а не кликать)
+3. Все ганы с сундуков ваши. Удачи</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Button5Down 1
+Delay 1 ms
+Button5up 1
+Delay 1 ms
+Button5Down 1
+Delay 1 ms
+Button5up 1
+Delay 1 ms
+Button5Down 1
+Delay 1 ms
+Button5up 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

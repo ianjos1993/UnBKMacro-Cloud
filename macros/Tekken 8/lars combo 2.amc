@@ -1,0 +1,125 @@
+<Root>
+  <DefaultMacro>
+    <Major>Lars combo 2</Major>
+    <Description>Макрос позволяет выполнять staple комбо за Lars.
+Видео демонстрации работы макроса: https://youtu.be/NxMy4RN3-SM
+
+Ларс — один из наиболее гибких бойцов в серии, оснащенный множеством приемов, которые полезны в самых разных ситуациях и против самых разных бойцов, а также один из самых простых в изучении и использовании. Ларс — наступательный персонаж, обладающий большой скоростью и безопасными пусковыми установками, которые позволяют довольно легко поднять противника в воздух для жонглирования. Он также известен тем, что отлично переносит стену благодаря своим позициям «Динамический вход» и «Бесшумный вход», дающим игроку возможность быстро сокращать пространство между собой и противником в воздухе, при этом многие движения, исходящие из эти стоек, вызывают разрывы Стены и Балкона.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 1.04.2024
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#larstekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 9 ms
+KeyDown 26 1
+Delay 10 ms
+KeyDown 76 1
+Delay 169 ms
+KeyUp 76 1
+Delay 79 ms
+KeyUp 26 1
+Delay 20 ms
+KeyUp 7 1
+Delay 919 ms
+KeyDown 77 1
+Delay 90 ms
+KeyUp 77 1
+Delay 440 ms
+KeyDown 4 1
+Delay 0 ms
+KeyDown 22 1
+Delay 49 ms
+KeyDown 74 1
+Delay 150 ms
+KeyDown 76 1
+Delay 80 ms
+KeyUp 74 1
+Delay 19 ms
+KeyUp 22 1
+Delay 10 ms
+KeyUp 76 1
+Delay 9 ms
+KeyUp 4 1
+Delay 59 ms
+KeyDown 89 1
+Delay 100 ms
+KeyUp 89 1
+Delay 759 ms
+KeyDown 7 1
+Delay 50 ms
+KeyDown 76 1
+Delay 100 ms
+KeyUp 76 1
+Delay 219 ms
+KeyDown 73 1
+Delay 111 ms
+KeyDown 74 1
+Delay 1 ms
+KeyUp 73 1
+Delay 117 ms
+KeyUp 74 1
+Delay 320 ms
+KeyUp 7 1
+Delay 379 ms
+KeyDown 7 1
+Delay 60 ms
+KeyDown 76 1
+Delay 89 ms
+KeyUp 76 1
+Delay 190 ms
+KeyDown 73 1
+Delay 119 ms
+KeyUp 73 1
+Delay 9 ms
+KeyUp 7 1
+Delay 20 ms
+KeyDown 74 1
+Delay 120 ms
+KeyUp 74 1
+Delay 1369 ms
+KeyDown 7 1
+Delay 10 ms
+KeyDown 76 1
+Delay 80 ms
+KeyUp 76 1
+Delay 80 ms
+KeyDown 73 1
+Delay 89 ms
+KeyUp 7 1
+Delay 19 ms
+KeyUp 73 1
+Delay 70 ms
+KeyDown 74 1
+Delay 100 ms
+KeyUp 74 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

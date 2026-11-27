@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для фантом суммонера для игры на астериос
+f1 - атака сумоном
+f2 - некст таргет
+f11 - спирит баф
+f9 - кубики
+f7 - перевызвать тень</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 59 1
+Delay 64
+KeyUp 59 1
+Delay 64
+KeyDown 58 1
+Delay 64
+KeyUp 58 1
+Delay 4 s
+KeyDown 64 1
+Delay 64
+KeyUp 64 1
+Delay 64
+GoWhile 1 200
+KeyDown 68 1
+Delay 64
+KeyUp 68 1
+Delay 64
+KeyDown 67 1
+Delay 64
+KeyUp 67 1
+Delay 64
+KeyDown 66 1
+Delay 64
+KeyUp 66 1
+Delay 64
+GoWhile 1 999999</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

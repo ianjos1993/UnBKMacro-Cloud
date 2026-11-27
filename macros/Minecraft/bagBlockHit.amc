@@ -1,0 +1,49 @@
+<Root>
+  <DefaultMacro>
+    <Major>VimeWorld BagBlockHit</Major>
+    <Description>Что представляет из себя баг? 
+- Благодаря нему вы сможете получать в разы меньше урона чем противник
+
+Очень простой способ выполнить баг по одному нажатию.
+Что требуется:
+- Навести на человека
+- Нажать на бинд который и отвечает за активацию макроса
+- Готово
+
+What is this bug? 
+- Thanks to it you will be able to receive many times less damage than the enemy
+
+A very simple way to perform a bug with one click.
+
+What is required:
+
+- Point at a person
+
+- Click on the bind that is responsible for activating the macro
+
+- Done</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 12 ms
+KeyDown 20 1
+Delay 12 ms
+LeftDown 1
+Delay 49 ms
+RightDown 1
+Delay 57 ms
+KeyUp 20 1
+Delay 23 ms
+LeftUp 1
+Delay 62 ms
+RightUp 1
+Delay 57 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

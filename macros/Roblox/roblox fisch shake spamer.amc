@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major>roblox fisch shaker</Major>
+    <Description>Turn the UI On! (Seriously, Do It)
+This macro isn’t psychic. It needs the UI to be enabled, or it’s like trying to drive a car with no steering wheel—just not gonna happen.
+
+
+Verified with the Latest Fisch Update
+It’s been tested and works perfectly with the most recent Fisch patch (yes, that one). 
+You can confidently run it without worrying that Fisch will randomly decide it’s outdated
+.
+
+Runs on Potatoes (But Not Tomatoes)
+We’ve tested it on low-end systems (a.k.a. potato PCs), and it holds up just fine. But let’s be clear—if your "PC" is a tomato, or anything that struggles to open Notepad, this macro isn’t for you. 
+
+Having Problems?
+Drop a comment, and il help you out! Whether it’s an issue with your setup, a pesky bug, or just a classic case of “it works for everyone else but not me,” we’ve got you covered.
+
+
+ this an improved discription. you can fix this macro to your liking very easly with a short tutorial! 
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 81 1
+Delay 0 ms
+KeyUp 81 1
+Delay 0 ms
+KeyDown 88 1
+Delay 0 ms
+KeyUp 88 1
+Delay 0 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

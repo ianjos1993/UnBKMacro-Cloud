@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Нажмите на кнопку макроса, повторите нажатие для отключения. Данный макрос будет использовать 4-ую способность варфрейма "Сарина/Сарина Прайм". Макрос использует способность 2 раза в минуту, т.е 1 раз в 30 секунд. (30000 мс)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 33 1
+Delay 1 ms
+KeyUp 33 1
+Delay 30 s</Syntax>
+    </KeyDown>
+    <Software>Warframe</Software>
+  </DefaultMacro>
+</Root>

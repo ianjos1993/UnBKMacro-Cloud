@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major>no recoil for smg</Major>
+    <Description>Behold! The automatic fire just got a makeover. (Best viewed in exclusive 1024 x 768 windowed mode, but any mode works—just keep it windowed.) Now, here's the trick: make sure your crosshair is somewhere near the center of the box. It doesn’t have to be perfect, just close enough—like parking a car, but less stressful. Once you’ve lined it up, give it a single, magical click, and it will start auto-firing at any poor soul who enters your crosshair’s domain. To stop? Just give your mouse another royal tap. Works with any DPI or sensitivity, so no excuses. But listen, don't rely on this like it’s your best weapon—it’s good, but not that good. Think of it as your backup dancer, not the star of the show.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 20 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

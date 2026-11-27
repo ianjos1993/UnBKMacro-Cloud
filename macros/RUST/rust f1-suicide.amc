@@ -1,0 +1,49 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>A macro for Rust;
+
+F1-Suicide macro for Rust on steam can be played at 1920×1080 scale resolution.
+
+Configuration below are the ff: 
+
+1. Program Settings section
+  1.1  Start tracking the keys» ON «
+  1.2. Start the incognito mode» ON «(REQUIRED!)
+  2.3. Use the minimum delay «OFF»
+  2.4. Bind to any button on mouse
+  2.5. Mode of operation « While the key is held down»
+
+In-game settings:
+- Enable f1 console in rust settings.
+- No mouse sensitivity needed
+- Set resolution at » 1920×1080
+
+The macro was tested on:
+- ASUS GTX 1650 i5 laptop
+- Support Windows 10 20H2
+- RUST via Steam</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 58 1
+Delay 5 ms
+KeyDown 14 1
+Delay 5 ms
+KeyDown 12 1
+Delay 5 ms
+KeyDown 15 1
+Delay 5 ms
+KeyDown 15 1
+Delay 5 ms
+KeyDown 88 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

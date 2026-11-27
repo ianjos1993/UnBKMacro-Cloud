@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос помогает быстро переложить все вещи из инвентаря. Нужно зажать кнопку, и вещи быстро будут перекладываться. Перед этим наведите мышку и отсортируйте инвентарь</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 20 25 ms
+KeyUp 8 1
+Delay 20 25 ms</Syntax>
+    </KeyDown>
+    <Software>Dune: Awakening</Software>
+  </DefaultMacro>
+</Root>

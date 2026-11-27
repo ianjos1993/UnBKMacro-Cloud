@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Добрый день, здесь показана раскладка кнопок на мага (Лёд ПВЕ).
+
+1. Ледяной поток.
+2. Ледяной метеорит.
+3. Ледяная стрела.
+
+Задержки там впритык( не рекомендую играться с таймингами).
+
+PS. Раскладка будет считаться актуальной если у вас будет 600+ Господства.( может не хватать стихий).
+ </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 200 ms
+KeyUp 30 1
+Delay 2000 ms
+KeyDown 31 1
+Delay 100 ms
+KeyUp 31 1
+Delay 900 ms
+KeyDown 32 1
+Delay 100 ms
+KeyUp 32 1
+Delay 900 ms
+KeyDown 31 1
+Delay 100 ms
+KeyUp 31 1
+Delay 900 ms</Syntax>
+    </KeyDown>
+    <Software>Аллоды онлайн</Software>
+  </DefaultMacro>
+</Root>

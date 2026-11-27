@@ -1,0 +1,88 @@
+<Root>
+  <DefaultMacro>
+    <Major>Макрос на контрабанду</Major>
+    <Description>Лутаете 4 штуки на ходу. Способ использования:
+1) Заходите в настройки и ставите на ходьбу вперед доп клавишу:mouse5(верхняя боковая клавиша) и на ходьбу назад:mouse4(нижняя боковая клавиша)
+2)подходите в упор к нпс где нет лишних людей
+3) активируем макрос
+4)+4 контрабанды вам в карман
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//Конвертированный файл скрипта 24 марта 2022 21:50:46
+KeyDown 8 1
+KeyUp 8 1
+Delay 500 ms
+MoveTo 605 850
+LeftDown 1
+Delay 240 ms
+LeftUp 1
+Delay  1000 ms
+Button4down 1
+Delay 1000 ms
+Button4Up 1
+Delay  1000 ms
+Button5Down 1
+Delay 1000 ms
+Button5up 1
+Delay 250000 ms
+KeyDown 8 1
+KeyUp 8 1
+Delay 500 ms
+MoveTo 605 850
+LeftDown 1
+Delay 240 ms
+LeftUp 1
+Delay  1000 ms
+Button4down 1
+Delay 1000 ms
+Button4Up 1
+Delay  1000 ms
+Button5Down 1
+Delay 1000 ms
+Button5up 1
+Delay 250000 ms
+KeyDown 8 1
+KeyUp 8 1
+Delay 500 ms
+MoveTo 605 850
+LeftDown 1
+Delay 240 ms
+LeftUp 1
+Delay  1000 ms
+Button4down 1
+Delay 1000 ms
+Button4Up 1
+Delay  1000 ms
+Button5Down 1
+Delay 1000 ms
+Button5up 1
+Delay 250000 ms
+KeyDown 8 1
+KeyUp 8 1
+Delay 500 ms
+MoveTo 605 850
+LeftDown 1
+Delay 240 ms
+LeftUp 1
+Delay  1000 ms
+Button4down 1
+Delay 1000 ms
+Button4Up 1
+Delay  1000 ms
+Button5Down 1
+Delay 1000 ms
+Button5up 1
+Delay 250000 ms
+//
+//</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

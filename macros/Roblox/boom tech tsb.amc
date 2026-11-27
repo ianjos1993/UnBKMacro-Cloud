@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для игры TSB, делающий трюк являющийся мини экстендером, разрешение экрана-1980x1080, фпс 240, пинг 70-90, желательно чтобы ваш споерник не лагал.Инструкция по макросу-подойдите или сделайте рывок к противнику и быстро активируйте макрос.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveR -1 240
+Delay 64
+KeyDown 33 1
+Delay 64
+MoveR 1000 -3
+Delay 64
+KeyUp 33 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

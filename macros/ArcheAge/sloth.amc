@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Ставим глайдер на кливишу f2, скилл отскок на f1, макрос назначаем так же на f2, получаем то, что когда мы свапаем летак, он тут же открывается и делает отскок и закрывает летак. пользуйтесь.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 59 1
+Delay 64
+KeyUp 59 1
+Delay 250 ms
+KeyDown 58 1
+Delay 64 ms
+KeyUp 58 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Archeage</Software>
+  </DefaultMacro>
+</Root>

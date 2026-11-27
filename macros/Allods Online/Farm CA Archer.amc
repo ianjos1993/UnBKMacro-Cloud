@@ -1,0 +1,74 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Сам выбирает цель, сам стреляет, сам крутится и по новой.
+
+Стандартная ротация.
+
+Кнопки:
+
+1. Обстрел
+2. Ядовитые чары
+3. Прицельный выстрел
+4. Пламенные чары
+5. Смертелный выстрел
+6. Взрывная стрела</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+KeyUp 43 1
+Delay 20 ms
+KeyDown 31 1
+KeyUp 31 1
+Delay 20 ms
+KeyDown 30 1
+KeyUp 30 1
+Delay 1100 ms
+KeyDown 30 1
+KeyUp 30 1
+Delay 1100 ms
+KeyDown 33 1
+KeyUp 33 1
+Delay 20 ms
+KeyDown 32 1
+KeyUp 32 1
+Delay 20 ms
+KeyDown 34 1
+KeyUp 34 1
+Delay 1100 ms
+KeyDown 35 1
+KeyUp 35 1
+Delay 20 ms
+KeyDown 31 1
+KeyUp 31 1
+Delay 20 ms
+KeyDown 30 1
+KeyUp 30 1
+Delay 1100 ms
+KeyDown 31 1
+KeyUp 31 1
+Delay 20 ms
+KeyDown 30 1
+KeyUp 30 1
+Delay 1100 ms
+KeyDown 30 1
+KeyUp 30 1
+Delay 1100 ms
+KeyDown 8 1
+Delay 500 ms
+KeyUp 8 1
+Delay 20 ms
+KeyDown 43 1
+KeyUp 43 1
+Delay 20 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Аллоды онлайн</Software>
+  </DefaultMacro>
+</Root>

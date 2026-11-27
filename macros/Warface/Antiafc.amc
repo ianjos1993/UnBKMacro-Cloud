@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major>Антиафк для Warface 2022 </Major>
+    <Description>Хороший анти-афк макрос для WF. Подойдет для любых ваших задач!
+Просто забиндите на любую клавишу, и в игры запустите. Персонаж начнет прыгать на место!
+Блокировок и киков за него никогда не будет!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Warface</Software>
+  </DefaultMacro>
+</Root>

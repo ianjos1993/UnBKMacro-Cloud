@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major>Jujutsu Shenanigans Roblox</Major>
+    <Description>Requirements:
+- at least 120 FPS ingame
+- no higher than a 20 ping in public servers
+- use the 'Vessel' Character
+
+Info:
+- Automatically does a so called 'Blackflash Chain' in the Roblox game Jujutsu Shenanigans
+- Easiest way to do a 'Blackflash Chain' which isnt banable.
+
+What to do:
+- Once you see that it makes the dash animation, swiftly flick your mouse while using shiftlock so you look in the other direction and can continue the Chain.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 120 ms
+LeftDown 1
+Delay 64
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

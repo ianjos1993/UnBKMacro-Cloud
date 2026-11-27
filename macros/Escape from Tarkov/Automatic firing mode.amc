@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простенький макрос для автоматической стрельбы с оружия,имеющего одиночный режим стрельбы,но с небольшим уменьшением вертикальной отдачи ;)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 20 ms
+LeftUp 1
+MoveR 0 1
+LeftDown 1
+Delay 20 ms
+LeftUp 1
+MoveR 0 0</Syntax>
+    </KeyDown>
+    <Software>Escape From Tarkov</Software>
+  </DefaultMacro>
+</Root>

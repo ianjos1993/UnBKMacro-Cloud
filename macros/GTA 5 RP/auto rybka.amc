@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>dassqqe</Major>
+    <Description>Авто рыбалка для гта 5рп, от вас  лишь требуется нажимать кнопку удочки и вводить капчи.
+
+1) Встаем на место ловли, биндим удочку на удобную нам кнопку, у меня на P.
+2) Нажимаем кнопку удочки, нажимаем  кнопку макроса, ждем улов
+3) Как только рыбка попадается на крючок, наводим курсор на красную кнопку мышки снизу, бот сам будет нажимать и отпускать.
+4) Опять нажимаем на кнопку удочки,  повторяем до забитого  инвенторя
+5) Кайфуем
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 5 0 193,0,0 255,0,0 0 737 512
+LeftDown 1
+Delay 2 ms
+LeftUp 1
+Delay 64 25 ms</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

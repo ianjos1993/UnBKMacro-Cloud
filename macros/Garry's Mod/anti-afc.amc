@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Анти афк вы сначала прыгаете потом идете не долго вперед потом снова назад в туже точку каждые 30-50 секунд
+инструкция
+1. назначить клавишу макроса
+2. нажать клавишу макроса
+3. и все каждые 30-50 сек вы будете двигаться</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 542 ms
+KeyUp 44 1
+Delay 631 ms
+KeyDown 26 1
+Delay 1200 ms
+KeyUp 26 1
+Delay 100 ms
+KeyDown 22 1
+Delay 1200 ms
+KeyUp 22 1
+Delay 30 40 s</Syntax>
+    </KeyDown>
+    <Software>Garry´s Mod</Software>
+  </DefaultMacro>
+</Root>

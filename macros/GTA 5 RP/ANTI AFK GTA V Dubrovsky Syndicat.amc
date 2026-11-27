@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Персонаж передвигается каждые 18 минут, лучше всего делать это  в интерьере где нет людей (не общественное место) зациклен на 50000 раз</Description>
+    <Comment>Можно поменять значение ожидания по афк и количество циклов</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 3 s
+KeyUp 26 1
+Delay 64
+KeyDown 4 1
+Delay 3 s
+KeyUp 4 1
+Delay 64
+KeyDown 22 1
+KeyUp 22 1
+Delay 64 ms
+KeyDown 7 1
+Delay 3 s
+KeyUp 7 1
+Delay 18 min
+GoWhile 1 5000</Syntax>
+    </KeyDown>
+    <Software>GTA V RP</Software>
+  </DefaultMacro>
+</Root>

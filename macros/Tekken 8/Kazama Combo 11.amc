@@ -1,0 +1,152 @@
+<Root>
+  <DefaultMacro>
+    <Major>Kazama Combo 11</Major>
+    <Description>Макрос позволяет выполнять комбо за Heihachi комбинацию у стены.
+Видео демонстрации работы макроса: https://youtu.be/V_xM3oKK77c
+
+Носитель дьявольского гена, сохраняющий контроль над состоянием за счет постоянного внутреннего напряжения. Поведенческая модель выстроена вокруг подавления импульсивных реакций и минимизации внешних проявлений нестабильности. Эмоциональный фон сдержанный, наблюдается выраженный внутренний конфликт, связанный с необходимостью удержания силы, способной выйти из-под контроля при ослаблении концентрации. Характер замкнутый, склонный к самоанализу. Решения принимаются быстро, но на основе ранее выработанных установок и строгих личных принципов. Присутствует выраженная ориентация на дисциплину, самоконтроль и точность выполнения действий. Ошибки воспринимаются как недопустимые отклонения.
+
+
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 24.03.2026
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ.
+
+#Kazamatekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 54 ms
+KeyDown 7 1
+Delay 49 ms
+KeyUp 22 1
+Delay 62 ms
+KeyUp 7 1
+Delay 36 ms
+KeyDown 22 1
+Delay 56 ms
+KeyDown 7 1
+Delay 66 ms
+KeyUp 22 1
+Delay 12 ms
+KeyDown 92 1
+Delay 0 ms
+KeyDown 93 1
+Delay 19 ms
+KeyUp 7 1
+Delay 289 ms
+KeyUp 92 1
+Delay 6 ms
+KeyUp 93 1
+Delay 1212 ms
+KeyDown 22 1
+Delay 50 ms
+KeyDown 4 1
+Delay 80 ms
+KeyUp 22 1
+Delay 54 ms
+KeyDown 93 1
+Delay 1 ms
+KeyUp 4 1
+Delay 123 ms
+KeyUp 93 1
+Delay 137 ms
+KeyDown 22 1
+Delay 63 ms
+KeyDown 7 1
+Delay 29 ms
+KeyUp 22 1
+Delay 137 ms
+KeyUp 7 1
+Delay 5 ms
+KeyDown 22 1
+Delay 56 ms
+KeyDown 4 1
+Delay 85 ms
+KeyUp 22 1
+Delay 48 ms
+KeyDown 89 1
+Delay 37 ms
+KeyUp 4 1
+Delay 54 ms
+KeyUp 89 1
+Delay 629 ms
+KeyDown 7 1
+Delay 282 ms
+KeyDown 89 1
+Delay 119 ms
+KeyUp 89 1
+Delay 40 ms
+KeyUp 7 1
+Delay 760 ms
+KeyDown 93 1
+Delay 172 ms
+KeyUp 93 1
+Delay 255 ms
+KeyDown 22 1
+Delay 41 ms
+KeyDown 4 1
+Delay 45 ms
+KeyUp 22 1
+Delay 73 ms
+KeyDown 93 1
+Delay 135 ms
+KeyUp 93 1
+Delay 106 ms
+KeyDown 92 1
+Delay 148 ms
+KeyUp 92 1
+Delay 124 ms
+KeyDown 93 1
+Delay 87 ms
+KeyDown 92 1
+Delay 91 ms
+KeyUp 93 1
+Delay 68 ms
+KeyUp 92 1
+Delay 39 ms
+KeyUp 4 1
+Delay 112 ms
+KeyDown 7 1
+Delay 74 ms
+KeyUp 7 1
+Delay 99 ms
+KeyDown 7 1
+Delay 55 ms
+KeyUp 7 1
+Delay 81 ms
+KeyDown 7 1
+Delay 85 ms
+KeyDown 90 1
+Delay 126 ms
+KeyUp 7 1
+Delay 58 ms
+KeyUp 90 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

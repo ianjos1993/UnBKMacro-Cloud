@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Если вы играете в ГД и не успеваете ставить чекпоинты то этот макрос для вас!!!!
+Однокнопочный макрос.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 1 ms
+KeyUp 29 1
+Delay 1 s
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Geometry Dash</Software>
+  </DefaultMacro>
+</Root>

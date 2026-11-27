@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос сделан для Элитной резни для Сарины. Принцип работы очень простой:
+- Заходите на Элитку
+- Прожимаете макрос
+- Бегаете и накидываете споры, а макрос раскидывает ульту по кд 7 секунд.
+Для чего это сделано? А для того, чтобы Симерис не блокировал использование ульты на 14 секунд. Если раскидывать ульту ровно по кд в 7 секунд, то всё будет намного эффективней.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 7 s</Syntax>
+    </KeyDown>
+    <Software>Warframe</Software>
+  </DefaultMacro>
+</Root>

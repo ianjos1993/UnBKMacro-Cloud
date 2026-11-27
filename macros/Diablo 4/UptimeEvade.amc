@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major>S10. Evade Spiritbord. Uptime all skills.</Major>
+    <Description>Ультимативный макрос для Наследника Духов в 10 сезоне.
+Все, что вам нужно делать- это водить мышкой по экрану.
+
+Настройка: привяжите клавишу для активации макроса и установите режим работы до остановки.
+
+Раскладка скиллов для макроса:
+1- Armored Hide
+2- Ravager
+4- Thunderspike</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+KeyDown 31 1
+KeyUp 31 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 120 ms
+KeyDown 33 1
+KeyUp 33 1
+RightDown 1
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Diablo IV</Software>
+  </DefaultMacro>
+</Root>

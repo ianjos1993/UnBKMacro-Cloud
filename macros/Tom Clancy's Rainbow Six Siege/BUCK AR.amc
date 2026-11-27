@@ -1,0 +1,56 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Anti-bounce for players who use low sensitivity
+
+Settings:
+
+DPI = 2000
+
+Sensitivity:
+Horizontal = 9
+Vertical = 5
+
+Resoloution = 2560 x 1440
+
+Aspect Ratio = 16:10
+
+FOV = 90
+
+Attachments:
+Sight = Any Magnified
+Barrel = Flash Hider
+Underbarrel = Does not matter</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+MoveR 1 59
+Delay 15 ms
+MoveR 1 59
+Delay 15 ms
+MoveR 0 59
+Delay 15 ms
+MoveR -1 59
+Delay 15 ms
+MoveR -1 59
+Delay 15 ms
+MoveR -1 59
+Delay 15 ms
+MoveR -1 59
+Delay 15 ms
+MoveR -1 59
+Delay 15 ms
+MoveR -1 59
+Delay 15 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

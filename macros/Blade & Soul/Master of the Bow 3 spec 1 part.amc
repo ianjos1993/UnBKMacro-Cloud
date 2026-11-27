@@ -1,0 +1,56 @@
+<Root>
+  <DefaultMacro>
+    <Major>66600013</Major>
+    <Description>На 20.06.23 актуальный скрипт на прокаста
+1) Кулон нужно поставить на G
+2) K--особенности 2-1-2-2-2
+3) Прокаст учитывает тайминги если что то не работает подправте под свой ПК в цифрах которые больше 2к
+
+</Description>
+    <Comment>если есть вопросы звоните в дискорд Danila#5582</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+Delay 64 ms
+KeyUp 10 1
+Delay 64 ms
+KeyDown 29 1
+Delay 64 ms
+KeyUp 29 1
+Delay 500 ms
+KeyDown 43 1
+Delay 64 ms
+KeyUp 43 1
+Delay 64 ms
+KeyDown 33 1
+Delay 2400 ms
+KeyUp 33 1
+Delay 64 ms
+RightDown 1
+Delay 1200 ms
+RightUp 1
+Delay 64 ms
+KeyDown 33 1
+Delay 2200 ms
+KeyUp 33 1
+Delay 64 ms
+RightDown 1
+Delay 1200 ms
+RightUp 1
+Delay 64 ms
+KeyDown 33 1
+Delay 2400 ms
+KeyUp 33 1
+Delay 64 ms
+RightDown 1
+Delay 1200 ms
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

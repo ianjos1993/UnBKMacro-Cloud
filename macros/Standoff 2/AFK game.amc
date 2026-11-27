@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major>Макрос создан для афк игры</Major>
+    <Description>Макрос при нажатии одной кнопки заходит в игру и делает некоторые действия
+Он создан для фарма опыта и серебра
+Отличной игры вам!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 4 ms
+LeftUp 1
+Delay 4 ms
+KeyDown 26 1
+Delay 4 ms
+KeyUp 26 1
+Delay 4 ms
+KeyDown 7 1
+Delay 4 ms
+KeyUp 7 1
+Delay 4 ms
+LeftDown 1
+Delay 4 ms
+LeftUp 1
+Delay 4 ms
+KeyDown 44 1
+Delay 4 ms
+KeyUp 44 1
+Delay 4 ms
+KeyDown 7 1
+Delay 4 ms
+KeyUp 7 1
+Delay 4 ms
+KeyDown 88 1
+Delay 4 ms
+KeyUp 88 1
+Delay 4 ms</Syntax>
+    </KeyDown>
+    <Software>Standoff 2</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,231 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматическое выделение пункта в выборе варианта ответа на задание проверки лицензии такси +  подтверждение доп. пункта качества изображения и переход к следуюему заданию.
+Разрешение экрана 1920х1080</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 8 ms
+MoveR 0 0
+Delay 7 ms
+MoveR 0 0
+Delay 7 ms
+MoveR 0 0
+Delay 8 ms
+MoveR 0 0
+Delay 7 ms
+MoveR 0 0
+Delay 7 ms
+MoveR 0 0
+Delay 12 ms
+MoveR 0 0
+Delay 8 ms
+MoveR 0 0
+Delay 7 ms
+MoveR 0 0
+Delay 7 ms
+MoveR 0 0
+Delay 7 ms
+MoveR 0 0
+Delay 8 ms
+MoveR 0 0
+Delay 4 ms
+MoveR 0 0
+Delay 3 ms
+MoveR 0 0
+Delay 12 ms
+MoveR 0 0
+Delay 7 ms
+MoveR 0 0
+Delay 8 ms
+MoveR 0 0
+Delay 7 ms
+MoveR 0 0
+Delay 8 ms
+LeftUp 1
+Delay 100 ms
+MoveR -4 0
+MoveR 1 4
+MoveR 0 4
+MoveR 0 2
+MoveR 0 4
+MoveR 0 2
+MoveR 0 4
+MoveR 0 3
+MoveR 0 3
+MoveR 0 2
+MoveR 0 4
+MoveR 0 0
+MoveR 0 2
+MoveR 0 1
+MoveR 0 2
+MoveR 0 0
+MoveR 0 2
+MoveR 0 2
+MoveR 0 2
+MoveR 0 4
+MoveR 0 2
+MoveR 0 4
+MoveR 0 3
+MoveR 0 3
+MoveR 0 4
+MoveR 0 4
+MoveR 0 2
+MoveR 0 2
+MoveR 0 4
+MoveR 0 4
+MoveR 0 2
+MoveR 0 3
+MoveR 0 2
+MoveR 0 3
+MoveR 0 3
+MoveR -1 4
+MoveR 0 4
+MoveR 0 2
+MoveR 0 4
+MoveR 0 4
+MoveR 0 6
+MoveR 0 4
+MoveR 0 5
+MoveR 0 4
+MoveR 0 6
+MoveR 2 4
+MoveR 0 6
+MoveR 0 4
+MoveR 1 4
+MoveR 0 5
+MoveR 0 4
+MoveR 1 5
+MoveR 2 5
+MoveR 2 5
+MoveR -1 3
+MoveR 2 4
+MoveR 0 4
+MoveR 2 6
+MoveR 0 2
+MoveR 0 4
+MoveR 0 4
+MoveR 0 2
+MoveR 0 2
+MoveR 0 3
+MoveR 0 3
+MoveR 0 1
+MoveR 0 2
+MoveR 2 2
+MoveR 0 3
+MoveR 0 3
+MoveR 0 2
+MoveR 0 2
+MoveR 0 4
+MoveR 0 2
+MoveR 0 2
+MoveR 2 4
+MoveR 0 2
+MoveR 0 2
+MoveR 2 4
+MoveR 0 2
+MoveR 1 4
+MoveR 0 2
+MoveR 0 2
+MoveR 0 2
+MoveR 0 2
+MoveR 0 2
+MoveR 0 2
+MoveR 0 2
+MoveR 0 2
+MoveR 0 2
+MoveR 0 2
+MoveR 0 0
+MoveR 0 2
+MoveR 0 2
+MoveR 0 2
+MoveR 0 2
+MoveR 0 2
+MoveR 0 2
+MoveR 0 2
+MoveR 0 2
+MoveR 0 2
+MoveR 0 2
+MoveR 0 0
+MoveR 0 2
+MoveR 0 1
+MoveR 0 2
+MoveR 0 0
+MoveR 0 2
+MoveR 0 0
+MoveR 0 2
+MoveR 0 0
+MoveR 0 0
+MoveR 0 0
+MoveR 0 0
+LeftDown 1
+Delay 4 ms
+MoveR 0 0
+Delay 3 ms
+MoveR 0 0
+Delay 8 ms
+MoveR 0 0
+Delay 8 ms
+MoveR 0 0
+Delay 4 ms
+MoveR 0 0
+Delay 3 ms
+MoveR 0 0
+Delay 8 ms
+MoveR 0 0
+Delay 7 ms
+MoveR 0 0
+Delay 7 ms
+MoveR 0 0
+Delay 8 ms
+MoveR 0 0
+Delay 8 ms
+MoveR 0 0
+Delay 8 ms
+MoveR 0 0
+Delay 8 ms
+MoveR 0 0
+Delay 3 ms
+MoveR 0 0
+Delay 8 ms
+MoveR 0 0
+Delay 7 ms
+MoveR 0 0
+Delay 8 ms
+MoveR 0 0
+Delay 8 ms
+MoveR 0 0
+Delay 7 ms
+MoveR 0 0
+Delay 8 ms
+MoveR 0 0
+Delay 7 ms
+MoveR 0 0
+Delay 4 ms
+MoveR 0 0
+Delay 11 ms
+MoveR 0 0
+Delay 8 ms
+MoveR 0 0
+Delay 8 ms
+LeftUp 1
+Delay 64 ms
+KeyDown 78 1
+Delay 64
+KeyUp 78 1
+Delay 64
+KeyDown 78 1
+Delay 64
+KeyUp 78 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>yang_taxi</Software>
+  </DefaultMacro>
+</Root>

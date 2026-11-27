@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major>MP7 No Recoil</Major>
+    <Description>This macro removes almost all of MP7 recoil.
+In game settings:
+Fov 84
+1920x1080
+ADS sens 50
+dpi 800
+1x 40
+
+MP7 build :
+Compensator
+Holo
+
+If the macro isn't pulling hard enough lower the delays.
+If the macro is pulling too hard make the delays higher.
+If it still isnt acurate try changing the mouse values but make sure to change 1x/y at a time for optimal testing.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 32 ms
+MoveR 0 3
+Delay 32 ms
+MoveR 0 3
+Delay 32 ms
+MoveR 0 2
+Delay 32 ms
+MoveR 0 3
+Delay 32 ms
+MoveR 0 3
+Delay 32 ms
+MoveR 0 3</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

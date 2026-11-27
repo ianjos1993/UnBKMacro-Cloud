@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Зайдите в здание ТТУ, зайдите на метку обучения на права, нажмите на "Служба пути", потом нажмите на "Пройти обучение", далее запустите макрос и он пройдет тест ответив правильно на все вопросы.
+Разрешение: 1920 х 1080 х 32.
+Минимальный ФПС для работоспособности - 40.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 688 669
+Delay 10 ms
+LeftDown 1
+LeftUp 1
+Delay 250 ms
+MoveTo 694 658
+Delay 10 ms
+LeftDown 1
+LeftUp 1
+Delay 250 ms
+MoveTo 707 657
+Delay 10 ms
+LeftDown 1
+LeftUp 1
+Delay 250 ms
+MoveTo 705 679
+Delay 10 ms
+LeftDown 1
+LeftUp 1
+Delay 250 ms
+MoveTo 707 661
+Delay 10 ms
+LeftDown 1
+LeftUp 1
+Delay 250 ms
+MoveTo 697 674
+Delay 10 ms
+LeftDown 1
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

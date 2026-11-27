@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автокаст двух абилок,метеор + торнадо,автокаст с адекватной заддержкой,желательно ставить на букву T</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 30 ms
+KeyUp 26 1
+Delay 30 ms
+KeyDown 26 1
+Delay 30 ms
+KeyDown 20 1
+Delay 30 ms
+KeyUp 26 1
+Delay 30 ms
+KeyUp 20 1
+Delay 30 ms
+KeyDown 21 1
+Delay 30 ms
+KeyUp 21 1
+Delay 30 ms
+KeyDown 8 1
+Delay 30 ms
+KeyDown 8 1
+Delay 30 ms
+KeyDown 26 1
+Delay 30 ms
+KeyUp 8 1
+Delay 30 ms
+KeyUp 26 1
+Delay 30 ms
+KeyDown 21 1
+Delay 30 ms
+KeyUp 8 1
+Delay 30 ms
+KeyUp 21 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

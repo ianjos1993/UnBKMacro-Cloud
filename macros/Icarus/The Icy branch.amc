@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>На 2 ледяной клык
+На F2  - морозная бомба
+На 5 ледяной шквал
+
+Ручная замедляющая комбинация без использования R урон намного больше чем автоматически </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 100 ms
+KeyUp 31 1
+Delay 1 s
+KeyDown 59 1
+Delay 100 ms
+KeyUp 59 1
+Delay 1 s
+KeyDown 34 1
+Delay 150 ms
+KeyUp 34 1</Syntax>
+    </KeyDown>
+    <Software>Icarus</Software>
+  </DefaultMacro>
+</Root>

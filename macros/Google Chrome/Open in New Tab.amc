@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>Open in New Tab</Major>
+    <Description>Opens selected link in new tab, used for thumb buttons on mouse etc. Install and apply to whichever button you want.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+KeyDown 225 1
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 11 ms
+KeyUp 225 1
+Delay 3 ms
+KeyUp 224 1</Syntax>
+    </KeyDown>
+    <Software>Google Chrome</Software>
+  </DefaultMacro>
+</Root>

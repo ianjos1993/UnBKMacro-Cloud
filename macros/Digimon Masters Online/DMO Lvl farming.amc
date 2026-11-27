@@ -1,0 +1,61 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Hello, hello!
+
+First, a  few things to consider:
+1) Have a magnetic ID. I really encourage you to buy one, as it will return the money you invested in it quickly.
+2) Have a strong Digi with a good F1 so you can go farm anywhere. I recommend either Verdandi Terminal (Have an X-digi here) for X tickets, Yin Yang and seals; or Minato City for Witchmon seals, eggs and Teras. Also, you can go to Sukyamon or Gesomon seals. In Verdandi, you can farm Monochromon, Dark Tyranomon, Dorumon, Dexdorugamon, Waspmon, Nanomon, Fanbeemon, Leomon, Lylimon seals. Good place.
+3) You will need an X-Gauge so your X-Digi doesn't devolve.
+
+Now, considering the macro:
+
+1) Put some DS and Health discs on F4 and F6 so you keep using F1.
+
+Good luck!</Description>
+    <Comment>https://botmek.com - Free macros download</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 1 s
+KeyUp 43 1
+Delay 1 s
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 58 1
+Delay 64
+KeyUp 58 1
+Delay 64
+KeyDown 26 1
+Delay 1 s
+KeyUp 26 1
+Delay 64
+KeyDown 22 1
+Delay 1 s
+KeyUp 22 1
+Delay 64
+GoWhile 1 50
+KeyDown 62 1
+Delay 64
+KeyUp 62 1
+Delay 64
+KeyDown 61 1
+Delay 64
+KeyUp 61 1
+Delay 64
+KeyDown 63 1
+Delay 64
+KeyUp 63 1
+Delay 64
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Digimon Masters Online</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос создан для сильного упрощения открытия GPS
+
+разрешение НЕ ВАЖНО
+
+ФПС - ЧЕМ БОЛЬШЕ ТЕМ ЛУЧШЕ
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 71 ms
+KeyUp 23 1
+Delay 216 ms
+KeyDown 56 1
+Delay 64 ms
+KeyUp 56 1
+Delay 10 ms
+KeyDown 10 1
+Delay 10 ms
+KeyUp 10 1
+Delay 10 ms
+KeyDown 19 1
+Delay 10 ms
+KeyUp 19 1
+Delay 10 ms
+KeyDown 22 1
+Delay 10 ms
+KeyUp 22 1
+Delay 10 ms
+KeyDown 88 1
+Delay 10 ms
+KeyUp 88 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

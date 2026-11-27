@@ -1,0 +1,58 @@
+<Root>
+  <DefaultMacro>
+    <Major>Supply AMW-20 Apex</Major>
+    <Description>The AMW-20 Apex is a Support Weapon that deploys a high-powered anti-materiel rifle.
+
+Instructions:
+To make the macro work correctly, set the stratagem button to the «click» type. In the game settings, select the arrows for the stratagems.
+
+An example of setting macros for keys with a modifier, in my case it is Ctrl+:
+- «F1» - activate the support weapon
+- «F2» - open the backpack 
+- «F3» is the first stratagem
+- «F4» is the second stratagem.
+
+Using the modifier key lets you bring up the stratagem menu while still switching weapons freely with the buttons.
+
+
+The tactical advantage of using the arrow keys is that you can keep moving while entering a stratagem sequence.
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 80 1
+Delay 64
+KeyUp 80 1
+Delay 64
+KeyDown 80 1
+Delay 64
+KeyUp 80 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 80 1
+Delay 64
+KeyUp 80 1
+Delay 64
+KeyUp 224 1</Syntax>
+    </KeyDown>
+    <Software>Helldivers 2</Software>
+  </DefaultMacro>
+</Root>

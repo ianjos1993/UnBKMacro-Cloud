@@ -1,0 +1,58 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Advanced Macro  
+
+screen resolution 1024x768
+
+Macro with a little delay to avoid being easily detected with a more complex setup
+
+Needs a LordKingthmon X
+
+Area damage skill and normal attack 1/F3
+
+the macro uses DS automatically at 5, Use Chiken Combo
+- If you use a different screen resolution, use all your digi soul and select the digimon ds area.
+
+the macro uses X antibody automatically at 6
+- If you use a different screen resolution, use all your X-antibodyl and select the digimon ds area.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 5 0 52,25,5 255,255,255 1 198 163 926 918 1 0
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 64
+GoColor 10 0 13,49,145 255,255,255 1 501 526 623 555 1 0
+KeyDown 89 1
+Delay 64
+KeyUp 89 1
+Delay 64
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 250 ms
+KeyDown 60 1
+Delay 64
+KeyUp 60 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+GoColor 26 1 255,0,0 255,255,255 1 412 196 986 885 1 0
+GoColor 26 1 219,4,6 255,255,255 1 454 201 988 880 1 0
+GoWhile 1 86400000
+Delay 5 s
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Digimon Masters Online</Software>
+  </DefaultMacro>
+</Root>

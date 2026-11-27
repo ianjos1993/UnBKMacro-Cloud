@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всем Привет!
+Данный макрос предназначен для любого дробовика!
+Этот макрос очень тяжело запалить так как смена идет на q-q а не на 3-1 или 3-q
+Ставим на любую удобную для вас клавишу)
+Всем удачи)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 22 ms
+KeyUp 20 1
+Delay 22 ms
+KeyDown 20 1
+Delay 22 ms
+KeyUp 20 1
+Delay 22 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

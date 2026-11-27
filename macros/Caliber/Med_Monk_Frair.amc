@@ -1,0 +1,84 @@
+<Root>
+  <DefaultMacro>
+    <Major>IPSIMUS</Major>
+    <Description>Минимизируент отдачу в прицеле.
+Разрешение экрана 1929*1080
+Активация от кнопки огня.
+Мышь на 50% чувствительности.
+Вертикальную синхронизацию - отключить	</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 0 2
+Delay 14 ms
+MoveR 0 2
+Delay 14 ms
+MoveR 0 2
+Delay 14 ms
+MoveR 0 2
+Delay 14 ms
+MoveR 0 2
+Delay 14 ms
+MoveR 0 2
+Delay 14 ms
+MoveR 0 2
+Delay 14 ms
+MoveR 0 2
+Delay 14 ms
+MoveR 0 2
+Delay 14 ms
+MoveR 0 2
+Delay 14 ms
+MoveR 0 2
+Delay 14 ms
+MoveR 0 2
+Delay 14 ms
+MoveR 0 2
+Delay 14 ms
+MoveR 0 2
+Delay 14 ms
+MoveR 0 2
+Delay 14 ms
+MoveR 0 2
+Delay 14 ms
+MoveR 0 2
+Delay 14 ms
+MoveR 0 2
+Delay 14 ms
+MoveR 0 2
+Delay 14 ms
+MoveR 0 2
+Delay 14 ms
+MoveR 0 2
+Delay 14 ms
+MoveR 0 2
+Delay 14 ms
+MoveR 0 2
+Delay 14 ms
+MoveR 0 2
+Delay 14 ms
+MoveR 0 2
+Delay 14 ms
+MoveR 0 2
+Delay 14 ms
+MoveR 0 2
+Delay 14 ms
+MoveR 0 2
+Delay 14 ms
+MoveR 0 2
+Delay 14 ms
+MoveR 0 2
+Delay 14 ms
+MoveR 0 2
+Delay 14 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Caliber</Software>
+  </DefaultMacro>
+</Root>

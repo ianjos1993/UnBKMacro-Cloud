@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>Anti-afk</Major>
+    <Description>Этот макрос сделан для того чтоб, система тебя не кикала за афк , и этот макрос сделан так чтоб, админы тебя не забанили за Anti-afk на один день
+
+правила: 
+1. ставим мой макрос на вашу любую клавишу
+2. делаем так чтоб, оно бесконечно повторялось
+3. нажимаем на клавишу и уходим 
+4. радуемся что получили изи опыт</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 30 min
+KeyDown 22 1
+Delay 30 min
+KeyDown 22 1
+Delay 30 min
+KeyDown 22 1
+Delay 30 min
+KeyDown 22 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

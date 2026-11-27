@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>automation to farm skill points in forza horizon 6 sp farm map, macro uses automated driving and replaying the map forever whyich makes it around 47 seconds per run for 10 SP</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+
+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 2000 ms
+KeyDown 88 1
+Delay 83 ms
+KeyUp 88 1
+Delay 2660 ms
+KeyDown 26 1
+Delay 26661 ms
+KeyUp 26 1
+Delay 6812 ms
+KeyDown 27 1
+Delay 100 ms
+KeyUp 27 1
+Delay 728 ms
+KeyDown 88 1
+Delay 91 ms
+KeyUp 88 1</Syntax>
+    </KeyDown>
+    <Software>Forza Horizon 6</Software>
+  </DefaultMacro>
+</Root>

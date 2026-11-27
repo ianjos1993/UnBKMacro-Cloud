@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major>ZonixCraft</Major>
+    <Description>Баг урон на проэкты омега.
+Хороший баг урон слоты 1-9  40+ кпс. 
+Был переписан под 1.7.10 27.02.2024 систему пвп. 
+Пользуйтесь на здоровье. Срывов сэнсы не было</Description>
+    <Comment>Хороший баг урон слоты 1-9  40+ кпс. 
+Был переписан под 1.7.10 27.02.2024 систему пвп. 
+Пользуйтесь на здоровье. Срывов сэнсы не было!</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+LeftDown 1
+Delay 24 ms
+LeftUp 1
+Delay 25 ms
+LeftDown 1
+Delay 24 ms
+LeftUp 1
+Delay 25 ms
+KeyDown 38 1
+KeyUp 38 1
+LeftDown 1
+Delay 24 ms
+LeftUp 1
+Delay 25 ms
+LeftDown 1
+Delay 24 ms
+LeftUp 1
+Delay 25 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

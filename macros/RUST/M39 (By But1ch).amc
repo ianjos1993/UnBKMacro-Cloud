@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Плавный макрос на M39
+1. Чувствительность - 0.6 - 0.8
+2. Ближние расстояния без прицела ( 50 м ) 0.6 - 0.63
+3. Дальние расстояния 8x ( 100-150  ) 0.8 - 0.82
+
+
+
+
+
+By But1ch
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+MoveR 0 15
+Delay 15 ms
+MoveR 0 15
+Delay 15 ms
+MoveR 0 15
+Delay 15 ms
+MoveR 0 15
+Delay 15 ms
+MoveR 0 15
+Delay 15 ms
+MoveR 0 15
+Delay 15 ms
+MoveR 0 10
+Delay 15 ms
+MoveR 0 10
+Delay 15 ms
+LeftUp 1
+Delay 15 ms
+GoWhile 1 20
+DelayS 2 s</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

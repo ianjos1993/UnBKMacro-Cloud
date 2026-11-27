@@ -1,0 +1,66 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос сделан для игры Blade and Soul на такой класс как мастер стрельбы специализации Огонь
+Макрос делает за вас всю ротацию кнопок, а это : пкм+пкм+F, Затем нарастание дамага за счет кнопки ТАБ в начале(так называемый бурстовой дпс), и поддержанием на 4 и V.
+Распределение характиристик билда : Первый столбец берем всё первое. Во втором столбце берешь лишь 4ю строчку на 2, не более. В идеале это 1 1 1 2 1.
+Прокачка умений: Выстрел навскидку(5), Огненный выстрел (5), Массовый выстрел (5). Все эти умения одни из дамажных и в идеале в них надо влить фул(5) очки умений.
+
+По вопросам в лс
+Автор:Katsumi</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 1 ms
+KeyUp 43 1
+Delay 1 ms
+KeyDown 23 1
+Delay 1 ms
+KeyUp 23 1
+Delay 1 ms
+KeyDown 23 1
+Delay 1 ms
+KeyUp 23 1
+Delay 1 ms
+KeyDown 9 1
+Delay 1 ms
+KeyUp 9 1
+Delay 1 ms
+KeyDown 21 1
+Delay 1 ms
+KeyUp 21 1
+Delay 1 ms
+KeyDown 33 1
+Delay 1 ms
+KeyUp 33 1
+Delay 1 ms
+KeyDown 25 1
+Delay 1 ms
+KeyUp 25 1
+Delay 1 ms
+KeyDown 6 1
+Delay 1 ms
+KeyUp 6 1
+Delay 1 ms
+KeyDown 23 1
+Delay 1 ms
+KeyUp 23 1
+Delay 1 ms
+KeyDown 23 1
+Delay 1 ms
+KeyUp 23 1
+Delay 1 ms
+KeyDown 9 1
+Delay 1 ms
+KeyUp 9 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

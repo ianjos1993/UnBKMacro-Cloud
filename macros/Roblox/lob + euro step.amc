@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Трюк для Basketball Legends: чтобы его выполнить, необходимо находиться в зоне 2PT и быть слева от кольца. Затем используйте макрос, и он сделает всё за вас. Для использования трюка требуется 70 ОВР.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 25 1
+Delay 10 ms
+KeyUp 25 1
+KeyDown 7 1
+Delay 175 ms
+KeyUp 7 1
+KeyDown 44 1
+Delay 1 ms
+KeyUp 44 1
+KeyDown 9 1
+Delay 1 ms
+KeyDown 7 1
+Delay 15 ms
+KeyUp 7 1
+KeyDown 22 1
+Delay 15 ms
+KeyUp 22 1
+KeyDown 8 1
+Delay 344 ms
+KeyUp 8 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,67 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Уникальный макрос для игроков, состоящих в государственных организациях. Макрос предназначен для фарма зарплаты в игре MTA Province, работающий с использованием комбинаций на клавиатуре alt+tab, тем самым имитируя ваше присутствие, будто вы мониторите интернет, переодически поглядывая в игру. В нем предусмотрено 10000 циклов, достаточно на продолжительное время. Благодаря особому алгоритму, этот макрос не будет обнаружен администрацией.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 226 1
+KeyDown 43 1
+KeyUp 43 1
+KeyUp 226 1
+Delay 50 s
+KeyDown 226 1
+KeyDown 43 1
+KeyUp 43 1
+KeyUp 226 1
+Delay 5 s
+KeyDown 226 1
+KeyDown 43 1
+KeyUp 43 1
+KeyUp 226 1
+Delay 145 s
+KeyDown 226 1
+KeyDown 43 1
+KeyUp 43 1
+KeyUp 226 1
+Delay 8 s
+KeyDown 226 1
+KeyDown 43 1
+KeyUp 43 1
+KeyUp 226 1
+Delay 133 s
+KeyDown 226 1
+KeyDown 43 1
+KeyUp 43 1
+KeyUp 226 1
+Delay 7 s
+KeyDown 226 1
+KeyDown 43 1
+KeyUp 43 1
+KeyUp 226 1
+Delay 67 s
+KeyDown 226 1
+KeyDown 43 1
+KeyUp 43 1
+KeyUp 226 1
+Delay 12 s
+KeyDown 226 1
+KeyDown 43 1
+KeyUp 43 1
+KeyUp 226 1
+Delay 84 s
+KeyDown 226 1
+KeyDown 43 1
+KeyUp 43 1
+KeyUp 226 1
+Delay 6 s
+GoWhile 1 1000000</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

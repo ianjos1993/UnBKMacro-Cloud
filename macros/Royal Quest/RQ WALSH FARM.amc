@@ -1,0 +1,54 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Перед кастом макроса кастуем Телепорт после чего в направлении мобов кнопку макроса . 
+Скрипт ставит стену огня , грозовую тучу, силовое поле и огненный дождь. 
+Управление :
+1 - силовое поле
+2- стена огня 
+3- грозовая туча
+6 - огненный дождь</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 226 1
+Delay 64
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+KeyUp 226 1
+Delay 64
+KeyDown 33 1
+Delay 200 ms
+KeyUp 33 1
+Delay 1600 ms
+KeyDown 31 1
+Delay 1200 ms
+KeyUp 31 1
+Delay 1 ms
+KeyDown 32 1
+Delay 300 ms
+KeyUp 32 1
+Delay 1500 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 35 1
+Delay 1300 ms
+KeyUp 35 1
+Delay 64
+KeyDown 38 1
+Delay 64
+KeyUp 38 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Royal Quest</Software>
+  </DefaultMacro>
+</Root>

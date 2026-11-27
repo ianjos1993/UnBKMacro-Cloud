@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major>AlEl</Major>
+    <Description>Макрос автоматически добывает руду, бьет камень на который вы смотрите 12 раз и останавливается.
+Подойдет для любых похожих действий в основе которых зажатие LKM.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>WheelDown 1
+Delay 554 ms
+LeftDown 1
+Delay 10043 ms
+LeftUp 1
+Delay 1142 ms
+GoWhile 1 12
+KeyDown 43 1
+Delay 1 s
+KeyUp 43 1</Syntax>
+    </KeyDown>
+    <Software>DayZ</Software>
+  </DefaultMacro>
+</Root>

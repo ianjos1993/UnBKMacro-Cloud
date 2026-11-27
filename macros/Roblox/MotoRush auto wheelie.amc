@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro is for MotoRush game, in this macro you can auto wheelie, put in the operation mode, unitl pressed again, and if you want to put more time in the wheelie you can change it too </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 1 min
+KeyUp 224 1
+Delay 1 ms
+KeyDown 224 1
+Delay 1 min
+KeyUp 224 1
+Delay 1 ms
+KeyDown 224 1
+Delay 1 min
+KeyUp 224 1
+Delay 1 ms
+KeyDown 224 1
+Delay 1 min
+KeyUp 224 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

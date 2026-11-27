@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major>Запуск макроса лучше поставить на боковую кнопку, чтобы было удобнее</Major>
+    <Description>Двигаешься в х2 раза быстрее, и рука не устает, нажимаешь 1 раз и ты как флеш, нажимаешь повторно чтобы остановить.
+Если буду проблемы с лагами, пишите в лс
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 33 ms
+KeyUp 20 1
+Delay 33 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

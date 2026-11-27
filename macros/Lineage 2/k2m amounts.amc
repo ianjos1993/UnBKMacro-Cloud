@@ -1,0 +1,74 @@
+<Root>
+  <DefaultMacro>
+    <Major>макрос на темного сума</Major>
+    <Description>макрос для темного суммонера в л2 мейн
+макрос создан для быстро прокачки, т.к макросы в л2 работают не так быстро, как он бы работал с помощью сторонней программы.
+1. выставляете нужные вам скилы на панель F1-F12.
+2. если нужно ставить ворота смерти, то они будут работать в внутриигровом макросе.
+3.ставить персонажа на спот.
+4.включаем макрос.
+5.наслаждаемся вкусным фармом.
+ 
+Предупреждение!!!
+Из-за быстрой работы макроса, скилы будут использоваться очень быстро, поэтому макрос рекомендуется для персов с хорошим бустом, или в зонах, где мобы слабее.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 58 1
+Delay 10
+KeyUp 58 1
+Delay 10
+KeyDown 59 1
+Delay 10
+KeyUp 59 1
+Delay 10
+KeyDown 60 1
+Delay 10
+KeyUp 60 1
+Delay 10
+KeyDown 61 1
+Delay 10
+KeyUp 61 1
+Delay 10
+KeyDown 62 1
+Delay 10
+KeyUp 62 1
+Delay 10
+KeyDown 63 1
+Delay 10
+KeyUp 63 1
+Delay 10
+KeyDown 64 1
+Delay 10
+KeyUp 64 1
+Delay 10
+KeyDown 65 1
+Delay 10
+KeyUp 65 1
+Delay 10
+KeyDown 66 1
+Delay 10
+KeyUp 66 1
+Delay 10
+KeyDown 67 1
+Delay 10
+KeyUp 67 1
+Delay 10
+KeyDown 68 1
+Delay 10
+KeyUp 68 1
+Delay 10
+KeyDown 69 1
+Delay 10
+KeyUp 69 1
+Delay 10</Syntax>
+    </KeyDown>
+    <Software>lineage 2 main</Software>
+  </DefaultMacro>
+</Root>

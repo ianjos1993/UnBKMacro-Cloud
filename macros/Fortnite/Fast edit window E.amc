@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>Uses E to quickly edit a window then you switch back to your gun</Major>
+    <Description>Allows you to quickly open a windows on a wall then switch back to your gun so that you can quickly eliminate your opponent.
+
+Uses E to edit
+
+To use:
+Face a wall and press the button you set to activate it then you will automatically edit a wall</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 5 ms
+KeyUp 8 1
+Delay 5 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+KeyDown 8 1
+Delay 5 ms
+KeyUp 8 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

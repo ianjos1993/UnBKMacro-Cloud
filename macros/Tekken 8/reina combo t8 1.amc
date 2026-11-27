@@ -1,0 +1,102 @@
+<Root>
+  <DefaultMacro>
+    <Major>Reina Combo 1 T8</Major>
+    <Description>Макрос позволяет выполнять отличное комбо за Рейну.
+Видео демонстрации работы макроса: https://youtu.be/ana-yqlXuLQ
+
+Рэйна — новичок в серии Tekken, но сразу привлекла внимание своей яркой внешностью и загадочной историей. Она является наемницей, работавшей на несколько влиятельных корпораций, но теперь преследует собственные цели. Её стиль боя сочетает жесткие удары муай-тай и грациозные акробатические движения с элементами использования короткого клинка, который активируется в некоторых атаках. Она холодная, расчетливая и одновременно невероятно умная женщина, которая привыкла полагаться только на себя. Она не показывает эмоций в бою, что делает её непредсказуемым противником. Её прошлое окутано тайной, но, как выясняется, она связана с организацией, ответственным за некоторые события турнира.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 21.01.2025
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ.
+
+#reinatekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 52 ms
+KeyDown 76 1
+Delay 80 ms
+KeyUp 76 1
+Delay 80 ms
+KeyUp 76 1
+Delay 63 ms
+KeyUp 76 1
+Delay 75 ms
+KeyDown 76 1
+Delay 81 ms
+KeyDown 76 1
+Delay 74 ms
+KeyDown 76 1
+Delay 76 ms
+KeyUp 76 1
+Delay 68 ms
+KeyDown 76 1
+Delay 99 ms
+KeyUp 76 1
+Delay 4 ms
+KeyUp 7 1
+Delay 62 ms
+KeyDown 7 1
+Delay 81 ms
+KeyUp 7 1
+Delay 69 ms
+KeyDown 7 1
+Delay 68 ms
+KeyUp 7 1
+Delay 69 ms
+KeyDown 7 1
+Delay 68 ms
+KeyUp 7 1
+Delay 69 ms
+KeyDown 7 1
+Delay 68 ms
+KeyUp 7 1
+Delay 63 ms
+KeyDown 7 1
+Delay 80 ms
+KeyUp 7 1
+Delay 40 ms
+KeyDown 7 1
+Delay 86 ms
+KeyDown 22 1
+Delay 11 ms
+KeyUp 7 1
+Delay 13 ms
+KeyDown 77 1
+Delay 85 ms
+KeyUp 77 1
+Delay 46 ms
+KeyDown 77 1
+Delay 52 ms
+KeyUp 22 1
+Delay 40 ms
+KeyUp 77 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Просто биндим, запускаем ботмек и жмём забинженую клавишу.
+1.в настройках игры нужно поставить стрельбу на лкм.
+2.и прицеливание на пкм</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 100
+RightUp 1
+Delay 100
+LeftDown 1
+Delay 100
+LeftUp 1
+Delay 100</Syntax>
+    </KeyDown>
+    <Software>CS: GO</Software>
+  </DefaultMacro>
+</Root>

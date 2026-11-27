@@ -1,0 +1,113 @@
+<Root>
+  <DefaultMacro>
+    <Major>Eul's + Refresh, 1 unit</Major>
+    <Description>ВКЛЮЧИТЬ КВИККАСТЫ В НАСТРОЙКАХ!
+Куросор держать изначально на вашей цели и не двигать им до конца прокаста.
+Идеально подойдёт для одного персонажа которого вы нашли где-то в лесу, с этой комбинацие он не сможет что-то использовать.
+Q - 1 skill
+W - 2 skill
+E - 3 skill
+R - ultimate skill
+Z - euls's
+X - refresher
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 20 ms
+KeyUp 29 1
+Delay 20 ms
+MoveR -124 0
+Delay 20 ms
+KeyDown 20 1
+Delay 20 ms
+KeyUp 20 1
+Delay 20 ms
+MoveR 85 0
+Delay 20 ms
+KeyDown 20 1
+Delay 20 ms
+KeyUp 20 1
+Delay 810 ms
+KeyDown 26 1
+Delay 20 ms
+KeyUp 26 1
+Delay 500 ms
+RightDown 1
+Delay 64
+RightUp 1
+Delay 1200 ms
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 200 ms
+MoveR -25 0
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+MoveR 29 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 200 ms
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 220 ms
+KeyDown 27 1
+Delay 64
+KeyUp 27 1
+Delay 100 ms
+MoveR 94 -2
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+MoveR -124 3
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+MoveR 49 -5
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64 ms
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+MoveR -29 7
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+KeyDown 26 1
+Delay 20 ms
+KeyUp 26 1
+Delay 500 ms
+RightDown 1
+Delay 64
+RightUp 1
+Delay 1200 ms</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

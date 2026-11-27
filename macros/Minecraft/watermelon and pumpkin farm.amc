@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>При помощи данного макроса вы сможете фармить тыквы и арбузы на любом сервере. Такой макрос работает на фермы для взрастания сразу 3 блоков. Вот демонстрация фермы, для которой построен данный макрос - https://www.youtube.com/watch?v=Hdsev6zG410
+
+Для дополнительных сведений по поводу постройки фермы смотрите описание видео
+Внимение - курсор поставьте как вам удобно, его положение должно быть как на видео, неназначеность курсора компенсируется тем что вы передвигаетесь вперед и в сторону. Скрость должна быть выставленна 210 если вы играете на сервере хайпиксель и скорость 2 на любом другом.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы  
+
+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+KeyDown 7 1
+Delay 40 s
+KeyUp 26 1
+KeyUp 7 1
+Delay 64
+KeyDown 26 1
+Delay 2 s
+KeyUp 26 1
+Delay 64
+KeyDown 26 1
+KeyDown 4 1
+Delay 40 s
+KeyUp 26 1
+KeyUp 4 1
+Delay 64
+KeyDown 26 1
+Delay 2 s
+KeyUp 26 1
+Delay 64
+GoWhile 1 6</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

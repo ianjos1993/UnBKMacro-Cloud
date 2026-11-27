@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major>osu spinner 450 speed 1920 1080</Major>
+    <Description>Файл "osu spinner 1920 1080" - это анимированный спиннер, разработанный специально для игры osu! в разрешении 1920x1080 пикселей.
+
+Этот спиннер представляет собой графический объект, который игрок может активировать и использовать во время игры в osu!. Он выглядит очень привлекательно и красочно благодаря своему дизайну и анимации.
+
+Файл "osu spinner 1920 1080" создан специально для пользователей, имеющих монитор с разрешением 1920x1080 пикселей. Это гарантирует оптимальное отображение и позволяет игрокам наслаждаться полным визуальным опытом, который предлагает игра osu!.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveTo 960 503
+Delay 2 ms
+MoveTo 989 519
+Delay 2 ms
+MoveTo 1005 539
+Delay 2 ms
+MoveTo 989 562
+Delay 2 ms
+MoveTo 960 580
+Delay 2 ms
+MoveTo 934 568
+Delay 2 ms
+MoveTo 918 541
+Delay 2 ms
+MoveTo 931 512
+Delay 2 ms</Syntax>
+    </KeyDown>
+    <Software>Osu!</Software>
+  </DefaultMacro>
+</Root>

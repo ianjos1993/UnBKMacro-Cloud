@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major>TSB back dash cancel 2 skill</Major>
+    <Description>Макрос для бек деш кенсл скилла для TSB (The Strongest Battlegrounds). Это тогда, когда ты делаешь задний кувырок, но при этом еще и нажимаешь скилл.
+Тот же принцип, так сказать, НО на второй скилл
+Достаточно просто нажать на бинд, и макро сделает всё сам.</Description>
+    <Comment>Предназначен только для второго скилла. лучший персонаж для данного макро всё также остаётся - Hero Hunter.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 5 ms
+KeyUp 20 1
+Delay 5 ms
+KeyDown 31 1
+Delay 5 ms
+KeyUp 31 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>ПРожимка умений через одну кнопку. Подойдет любой класс, также имеются специальные задержки, а не мгновенный каст. Левый шифт активирует. Кнопки Й У К  капс</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 802 ms
+KeyDown 57 1
+Delay 220 ms
+KeyUp 57 1
+KeyDown 8 1
+Delay 170 ms
+KeyUp 8 1
+Delay 279 ms
+KeyDown 20 1
+Delay 199 ms
+KeyUp 20 1
+Delay 323 ms
+KeyDown 21 1
+Delay 219 ms
+KeyUp 21 1</Syntax>
+    </KeyDown>
+    <Software>Diablo Immortal</Software>
+  </DefaultMacro>
+</Root>

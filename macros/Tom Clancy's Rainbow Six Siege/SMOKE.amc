@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>Lowers recoil</Major>
+    <Description>Настройки:
+1300 dpi mouse 
+8-12 sens
+1920x1080
+4:3
+
+Описание:
+Макрос для компенсации отдачи на персонажа. Компенсация точная.
+
+Рекомендую выставить настройки как указано выше, для получения лучшей компенсации.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+MoveR 1 9
+Delay 15 ms
+MoveR 1 10
+Delay 15 ms
+MoveR 0 10
+Delay 15 ms
+MoveR -1 11
+Delay 15 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

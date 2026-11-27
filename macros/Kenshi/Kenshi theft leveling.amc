@@ -1,0 +1,3978 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для прокачки воровства, Добиться расположения ворованного предмета на полу на ровне с кнопкой "Разложить"
+Держать альт зажатым и включать макрос.
+Работает на разрешении 1920x1080</Description>
+    <Comment>уменьшил задержки</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 518 309
+Delay 1 ms
+KeyDown 226 1
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+KeyDown 226 1
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 692 506
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveTo 518 309
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+MoveTo 700 534
+Delay 1 ms
+LeftUp 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Kenshi</Software>
+  </DefaultMacro>
+</Root>

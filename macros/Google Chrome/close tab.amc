@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>easy to use just bind to any key then press, it will close your currently tab or close your chorme if only one tab is available</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1385 ms
+KeyDown 224 1
+Delay 150 ms
+KeyDown 26 1
+Delay 128 ms
+KeyUp 26 1
+Delay 304 ms
+KeyUp 224 1</Syntax>
+    </KeyDown>
+    <Software>Google Chrome</Software>
+  </DefaultMacro>
+</Root>

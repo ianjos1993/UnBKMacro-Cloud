@@ -1,0 +1,98 @@
+<Root>
+  <DefaultMacro>
+    <Major>Devil Jin wall combo</Major>
+    <Description>Макрос позволяет выполнять комбо у стены за Devil jin.
+Видео демонстрации работы макроса: https://youtu.be/VsgdaYL4XSk
+
+В продолжении концовки Джина, где его мать Джун исчезла в его объятиях, Джин в своей дьявольской форме ревет от боли. Он летает в космос, стреляя дикими лазерами. Перед его глазами вспыхивают образы Джун, прерываемые образами ее испорченной как Неизвестная . Когда он перестает выть, Дьявол Джин оказывается на орбите Земли. Он сжимает кулак, вокруг него собираются оранжевые искры, а его глаза светятся белым. Это говорит о его невероятном характере, даже будучи в дьявольской форме, он испытывает людские эмоции.
+
+Тестирование макроса проводились на последнем патче игры на 17.01.2024 (5.01 патч)
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#deviljintekken7 #tekken7 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 46 ms
+KeyDown 74 1
+KeyDown 73 1
+Delay 528 ms
+KeyUp 74 1
+KeyUp 73 1
+Delay 7 ms
+Delay 200 ms
+KeyUp 7 1
+Delay 336 ms
+KeyDown 74 1
+Delay 56 ms
+KeyUp 74 1
+Delay 111 ms
+KeyDown 74 1
+Delay 55 ms
+KeyUp 74 1
+Delay 96 ms
+KeyDown 74 1
+Delay 64 ms
+KeyUp 74 1
+Delay 88 ms
+KeyDown 74 1
+Delay 71 ms
+KeyUp 74 1
+Delay 87 ms
+KeyDown 74 1
+Delay 56 ms
+KeyUp 74 1
+Delay 80 ms
+KeyDown 74 1
+Delay 55 ms
+KeyUp 74 1
+Delay 72 ms
+KeyDown 74 1
+Delay 55 ms
+KeyUp 74 1
+Delay 471 ms
+KeyDown 4 1
+Delay 55 ms
+KeyDown 7 1
+Delay 32 ms
+KeyUp 4 1
+Delay 32 ms
+KeyDown 74 1
+Delay 135 ms
+KeyDown 73 1
+Delay 72 ms
+KeyUp 74 1
+Delay 48 ms
+KeyUp 73 1
+Delay 695 ms
+KeyDown 74 1
+Delay 79 ms
+KeyUp 74 1
+Delay 87 ms
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 7</Software>
+  </DefaultMacro>
+</Root>

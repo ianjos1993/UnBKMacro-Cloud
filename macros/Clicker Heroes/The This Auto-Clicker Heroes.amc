@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматически очень быстро кликает по монстрам 
+
+
+1)Разверните игру на весь экран.
+2)Назначьте макрос на любую кнопку,
+3)Наведите на монстра и нажмите клавишу.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>Clicker Heroes</Software>
+  </DefaultMacro>
+</Root>

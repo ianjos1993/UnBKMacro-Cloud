@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Скрипт для подмены скиллсета. Заимствуем мувсет с кинжала на большую палку. Что за зверь такой мувсвап - можно погуглить.
+Нужен лук, оружие, с которого хотим забрать мувсет (чаще всего кинжал) и оружие, которое будет заимствовать этот мувсет.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 200 ms
+KeyDown 225 1
+Delay 90 ms
+LeftDown 1
+Delay 103 ms
+LeftUp 1
+Delay 27 ms
+KeyUp 225 1
+Delay 36 ms
+KeyUp 26 1
+Delay 176 ms
+KeyDown 41 1
+Delay 89 ms
+KeyUp 41 1
+Delay 117 ms
+KeyDown 8 1
+Delay 80 ms
+KeyUp 8 1
+Delay 100 ms
+KeyDown 8 1
+Delay 108 ms
+KeyUp 8 1
+Delay 148 ms
+KeyDown 8 1
+Delay 42 ms
+KeyDown 41 1
+Delay 90 ms
+KeyUp 41 1
+Delay 23 ms
+KeyUp 8 1
+Delay 964 ms
+RightUp 1
+Delay 855 ms</Syntax>
+    </KeyDown>
+    <Software>Dark Souls Remastered</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>multuouso en el consumo de pociones de vida y ataque, esto se una en el juego Mu online, puede alternar entre las pociones que se encuentran en el juego las cuales tienen distintas funcionalidades, se puede usar la combinacion para solo curarse la vida o en casos mas personalizados alternar con curacion y pociones de ataque, depende el character y la jubabilidad del usuario</Description>
+    <Comment>Se usa con el delay que el usario prefiera para adaptar su jugabilidad y rival al modo de juego personalizado</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+KeyDown 84 1
+Delay 64
+KeyUp 84 1
+Delay 64
+KeyUp 20 1
+KeyDown 26 1
+KeyUp 26 1
+KeyDown 8 1
+KeyUp 8 1
+KeyDown 21 1
+KeyUp 21 1</Syntax>
+    </KeyDown>
+    <Software>MU Online</Software>
+  </DefaultMacro>
+</Root>

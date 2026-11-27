@@ -1,0 +1,20 @@
+Send(i);
+    #region // Маска
+    Sleep(500);
+    leftDOWN(836,105);
+    Sleep(200);
+    leftUP(93,257);
+#endregion
+    #region // Бронь
+    Sleep(200);
+    leftDOWN(845,214);
+    Sleep(200);
+    leftUP(94,352);
+#endregion
+    #region // Оружие
+    Sleep(200);
+    leftDOWN(1041,479);
+    Sleep(200);
+    leftUP(182,253);
+Sleep(200);
+Send(i);

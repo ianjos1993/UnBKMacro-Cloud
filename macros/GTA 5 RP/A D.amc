@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный мини макрос написан для фермы на коровах. Суть макроса, нажимает за вас клавиши " A D " Учитывайте что коровы это рандом, и может быстро возвысить тревогу животного.
+
+Как использовать макрос:
+1. Установите макрос.
+2. Выбирете удобную клавишу для активации макроса.
+3. Выбирете в указанной кнопке "активация с повторным нажатием" это поможет остановить прогресс доение коровы пока она не успокоится.
+
+На этом все, ответственность за свой акаунт несете только вы. Пользоваться или нет решать только вам.
+
+Приятной игры.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 150 ms
+KeyUp 4 1
+Delay 150 ms
+KeyDown 7 1
+Delay 150 ms
+KeyUp 7 1
+Delay 150 ms</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

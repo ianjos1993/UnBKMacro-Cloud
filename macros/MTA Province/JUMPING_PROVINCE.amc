@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простой макрос для бесконечного баннихопа в MTA PROVINCE. Для использования нужно зайти в раздел "Клавиши" в BotMek и назначить AMC макрос на любую клавишу. Приятной игры!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+KeyDown 225 1
+KeyDown 44 1
+Delay 250 ms
+KeyUp 44 1
+Delay 500 ms
+KeyDown 44 1
+Delay 250 ms
+KeyUp 44 1
+Delay 1000 ms</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

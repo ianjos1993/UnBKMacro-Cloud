@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Суть макроса  - хук, выстрел на лкм и ближняя атака ( V ). Второй макрос для свина, обязательно совмещаем с другим где написано для средней и дальней дистанции, биндим на любую другую кномпку кроме  SHIFT, работает на ближней дистанции, подходит для игры за свина в 2023 году в Overwatch 2.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 35 ms
+KeyUp 225 1
+Delay 900 ms
+LeftDown 1
+Delay 35 ms
+LeftUp 1
+Delay 35 ms
+LeftDown 1
+Delay 35 ms
+LeftUp 1
+Delay 10 ms
+KeyDown 25 1
+Delay 15 ms
+KeyUp 25 1</Syntax>
+    </KeyDown>
+    <Software>Overwatch</Software>
+  </DefaultMacro>
+</Root>

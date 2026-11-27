@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>джамп баг скрипт для кз внл кзт скз и прочее. Шансы рабатывания 90%, не детектится нигде, возможно выпущу больше каких либо скриптов</Description>
+    <Comment>Да</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>WheelUp 1
+Delay 715 ms
+WheelDown 1
+Delay 24 ms
+WheelDown 1
+Delay 22 ms
+WheelDown 1
+Delay 23 ms</Syntax>
+    </KeyDown>
+    <Software>CS: GO</Software>
+  </DefaultMacro>
+</Root>

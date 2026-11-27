@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос подходит для пулеметов таких как: (Вектор, синус и тд). Но макрос настроен так что пулеметы стреляют не так быстро но очень точные. Вы можете беспалевно играть кликая левую кнопку мыши (если активируете макрос) я думаю что вам макрос подойдет.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 22 ms
+KeyDown 30 1
+Delay 50 ms
+KeyUp 30 1
+Delay 22 ms
+KeyDown 31 1
+Delay 50 ms
+KeyUp 31 1
+Delay 22 ms</Syntax>
+    </KeyDown>
+    <Software>Crossout</Software>
+  </DefaultMacro>
+</Root>

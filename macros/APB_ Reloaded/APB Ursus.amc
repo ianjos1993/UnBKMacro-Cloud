@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Попытка сделать макрос на урсус. среляет в точку с давольно кучно, если не работает побалуйтесь со значением Y</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+LeftDown 1
+MoveR 0 14
+LeftUp 1
+MoveR 0 -1
+Delay 10 ms
+MoveR 0 -1
+Delay 10 ms
+MoveR 0 -1
+Delay 10 ms
+MoveR 0 -1
+Delay 10 ms
+MoveR 0 -1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>APB Reloaded</Software>
+  </DefaultMacro>
+</Root>

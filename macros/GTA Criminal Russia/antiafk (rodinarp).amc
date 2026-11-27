@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>asd</Major>
+    <Description>Данный макрос нажимает esc а через 5 минут он опять жмёт esc после этого жмёт w s и потом по кругу подходит лучше всего для игры на родина рп</Description>
+    <Comment>Данный макрос нажимает esc а через 5 минут он опять жмёт esc после этого жмёт w s и потом по кругу</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 41 1
+Delay 5 min
+KeyDown 41 1
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 7 s
+KeyDown 41 1
+Delay 5 min
+KeyDown 41 1</Syntax>
+    </KeyDown>
+    <Software>GTA: Criminal Russia (CRMP)</Software>
+  </DefaultMacro>
+</Root>

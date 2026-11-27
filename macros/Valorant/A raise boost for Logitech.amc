@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Raze superboost | Рейз супер буст. Вам понадобится немного смекалки, нормальная мышка и банальное знание как обращаться с keyran. Чтобы начать перебиндите ранец на букву O а затем Огонь на кнопку L как второстепенную соответственно. Прыгаете с активированной ультой и ранцем и при нажатии на макрос смотрите на ранец когда ульта готова стрелять.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 18 1
+KeyUp 18 1
+Delay 100 ms
+KeyDown 15 1
+KeyUp 15 1</Syntax>
+    </KeyDown>
+    <Software>Valorant</Software>
+  </DefaultMacro>
+</Root>

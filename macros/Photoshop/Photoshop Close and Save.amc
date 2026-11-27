@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major>Закрыть файл с сохранением изменений</Major>
+    <Description>Закрывает файл (вкладку) с авто-подтверждением сохранения изменений в нем. Ничего необычного, но иногда сильно ускоряет работу с большим количеством файлов.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+KeyDown 61 1
+KeyUp 61 1
+KeyUp 224 1
+Delay 164 ms
+KeyDown 88 1
+KeyUp 88 1</Syntax>
+    </KeyDown>
+    <Software>Photoshop</Software>
+  </DefaultMacro>
+</Root>

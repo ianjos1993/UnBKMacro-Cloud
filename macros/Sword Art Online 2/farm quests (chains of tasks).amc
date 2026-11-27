@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос для фарма квестов (цепочки заданий) на максимальную звездность что позволяет не тратить на это своё время и происходит в полуавтоматическом режиме 
+ игра anigame sao2
+
+макрос для разрешения экрана 1366 x 768</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 2 0 244,190,16 255,255,255 2 1022 345 27 27 1 0
+MoveTo 989 415
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+GoColor 1 0 244,190,16 255,255,255 2 1022 345 27 27 1 0
+GoColor 11 1 244,190,16 255,255,255 2 1022 345 27 27 1 0
+MoveTo 928 637
+Delay 150
+LeftDown 1
+Delay 150
+LeftUp 1
+Delay 150
+MoveTo 771 665
+Delay 150
+LeftDown 1
+Delay 150
+LeftUp 1
+Delay 150
+MoveTo 867 135
+Delay 150
+LeftDown 1
+Delay 150
+LeftUp 1
+Delay 150
+MoveTo 931 628
+Delay 150
+LeftDown 1
+Delay 150
+LeftUp 1
+Delay 150</Syntax>
+    </KeyDown>
+    <Software>sao2</Software>
+  </DefaultMacro>
+</Root>

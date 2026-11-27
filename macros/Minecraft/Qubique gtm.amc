@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major>Gtm qubique</Major>
+    <Description>Новая механика стрельбы на кубике это забавно. Макросс для тех кому очень лень отвести курсор после выстрела со страйкера, ост всё как раньше. Макросс фулл автоматический, летите за типом зажимаете бинд и он откис, слоты под себя настраивайте</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 29 ms
+KeyDown 31 1
+Delay 29 ms
+KeyUp 31 1
+Delay 29 ms
+RightDown 1
+Delay 29 ms
+RightUp 1
+Delay 29 ms
+MoveR 0 10
+Delay 29 ms
+RightDown 1
+Delay 29 ms
+RightUp 1
+Delay 29 ms
+MoveR 0 10
+RightDown 1
+Delay 29 ms
+RightUp 1
+Delay 29 ms
+MoveR 0 10
+RightDown 1
+Delay 29 ms
+RightUp 1
+Delay 29 ms
+MoveR 0 10</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

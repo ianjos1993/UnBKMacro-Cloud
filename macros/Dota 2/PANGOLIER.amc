@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>позволяет вам кататься как хочешь на пангольере в доте 2 
+КАК ЭТО РАБОТАЕТ - просто макрос жмет очень много раз ПКМ на то место куда вы хотите катиться и герой поворачивается в это место в не зависимости от его места. И даже если он в тупике вы просто активируете макрос и он сам выезжает без каких либо проблем.
+А также этот макрос помогает вам отлично стопить крипов просто поворачивая мышкой
+(режим работы выполнять пока нажата клавиша)
+абузьте пока не пофиксили!!!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 10 ms
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2 / dota 2</Software>
+  </DefaultMacro>
+</Root>

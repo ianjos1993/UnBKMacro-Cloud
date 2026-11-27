@@ -1,0 +1,58 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Anwu aim is a jitter aim macro I created for myself when none of the others were up to par. This macro is about the best that it gets when it comes to an average jitter aim useable with any of the guns in apex (except for shotguns, snipers etc.) 
+
+For this macro I have used multiple settings with it working fine however I would reccomend the following:
+ - Set the macro onto a mouse key
+ - 400 DPI
+ - 1920x1080 display
+ - 3.0 Sensitivity
+
+If you have any feedback and/or future reccomendations please do let me know!
+
+With love: 
+Anwu &lt;3</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 2 1
+Delay 9 ms
+MoveR 1 0
+Delay 9 ms
+MoveR -2 1
+Delay 9 ms
+MoveR -2 1
+Delay 9 ms
+MoveR 2 1
+Delay 9 ms
+MoveR 1 0
+Delay 9 ms
+MoveR 2 1
+Delay 9 ms
+MoveR -2 0
+Delay 9 ms
+MoveR -2 1
+Delay 9 ms
+MoveR 1 1
+Delay 9 ms
+MoveR 2 0
+Delay 9 ms
+MoveR 1 1
+Delay 9 ms
+MoveR -2 0
+Delay 9 ms
+MoveR -2 1
+Delay 9 ms
+MoveR 1 1
+Delay 9 ms</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

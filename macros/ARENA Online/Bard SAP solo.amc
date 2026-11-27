@@ -1,0 +1,62 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос настроин отлично и не требует вмешательств. Макрос поддерживает эфект "Доблесть(увеличивающий урон союзников на 25%)" без окон, постоянно и непрерывно.
+Раскладка по умениям:
+1 - Дисгармония
+2 - Летающий клинок
+3 - Соло
+4 - Доблесть
+5 - Ноктюрн (Не использывется в макросе можно прожать поверх работающего макроса в случае есть образовалось окно в поддержании доблести)
+Q - Мелодия войны
+R - Реквием
+F - Марш
+Учитывайте что если персонажа станят то ротация сбивается, для наилучшего поддержания "Доблести" рекомендуется в этот момент отключить макрос, и\или докрутить ротацию руками или запустить макрос заново после того как персонаж выйдет из стана.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 100 ms
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 100 ms
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 1000 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 1000 ms
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 1000 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 1000 ms
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 1000 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 1000 ms
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 1000 ms</Syntax>
+    </KeyDown>
+    <Software>Арена Онлайн</Software>
+  </DefaultMacro>
+</Root>

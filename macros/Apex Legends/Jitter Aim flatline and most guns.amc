@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Random Delays for extra stealth works vey well 1.5 sens 800 dpi or higher
+works on most guns faster the fire rate the worse it is but even works on the r99
+the script itself should be pretty safe </Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 0 0
+Delay 10 30 ms
+MoveR 15 0
+Delay 10 30 ms
+MoveR 1 15
+Delay 10 40 ms
+MoveR -1 -15
+Delay 10 34 ms
+MoveR -15 0
+Delay 10 40 ms
+MoveR -10 14
+Delay 10 40 ms
+MoveR 10 12
+Delay 10 40 ms
+MoveR -4 6
+Delay 10 40 ms
+MoveR 7 7
+Delay 10 40 ms
+MoveR -4 -6
+Delay 10 40 ms
+MoveR 6 -6
+Delay 10 40 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

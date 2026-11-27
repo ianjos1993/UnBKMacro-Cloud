@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Практически идеально откалиброванный макрос на Береты, пользуйтесь.
+ Для игры RUST.
+При наличии вопросов можете отписаться в соответствующей теме,отвечу.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15
+MoveR 0 10
+Delay 15
+LeftUp 1
+Delay 15</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

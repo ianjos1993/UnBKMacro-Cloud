@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Быстрый, беспрепятственный переход на второй рабочий стол без лишних затрат времени, для бинда на кнопку мыши для удобства работы</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 64
+KeyDown 227 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 224 1
+Delay 64
+KeyUp 227 1
+Delay 64
+KeyUp 79 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Другие</Software>
+  </DefaultMacro>
+</Root>

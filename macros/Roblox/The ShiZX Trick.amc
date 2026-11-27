@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Трюк используется только в 2PT зоне и только знающими как использовать трюк POST(50 ОВР). макрос делает все за вас, но знать все равно нужно, макрос уходит влево и делает пост, после уходит вправо и кидает идеально</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 10 1
+Delay 124 ms
+KeyUp 10 1
+Delay 64
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 88 ms
+KeyDown 8 1
+Delay 344 ms
+KeyUp 8 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

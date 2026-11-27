@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>tsbg backdash cancel1</Major>
+    <Description>The Strongest Battlegrounds. Backdash cancel for first move. Best character to use - Hero Hunter, The Strongest Hero
+Usage: after doing a hook dash u hold S and press button u binded the macro and u will be able to combo extend/end based on skill u use</Description>
+    <Comment>tsbg backdash cancel for first move. best character to use - hero hunter
+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+Delay 5 ms
+KeyDown 20 1
+Delay 1 ms
+KeyUp 20 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

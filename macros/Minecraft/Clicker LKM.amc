@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Кликер на ЛКМ, кликает в среднем 17 CPS, а сделано так для игры на сервере Hypixel(на сервере стоит ограничитель кпс в 20)
+Изначально бинд стоит на mouse5</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 25 ms
+LeftDown 1
+Delay 25 ms
+LeftUp 1
+Delay 25 ms
+LeftDown 1
+Delay 25 ms
+LeftUp 1
+Delay 25 ms
+LeftUp 1
+Delay 25 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

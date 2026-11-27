@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>Anti AFK </Major>
+    <Description>Macro to not get kicked from the multiplayer server. Just put the Z Q S D keys in your minecraft settings and the macro works. Happy gaming!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 287 ms
+KeyDown 29 1
+Delay 103 ms
+KeyUp 29 1
+Delay 304 ms
+KeyDown 20 1
+Delay 87 ms
+KeyUp 20 1
+Delay 296 ms
+KeyDown 22 1
+Delay 95 ms
+KeyUp 22 1
+Delay 304 ms
+KeyDown 7 1
+Delay 80 ms
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

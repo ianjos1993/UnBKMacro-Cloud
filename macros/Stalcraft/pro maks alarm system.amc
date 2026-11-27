@@ -1,0 +1,69 @@
+<Root>
+  <DefaultMacro>
+    <Major>сигналка pro maks</Major>
+    <Description>Вор сигналов. Работает на зазрешении 1440х1080 для ноутбука. Для работы в настройках поменять открытие САК-1 на RAlt и назначить рабочую клавишу. Для других разрешений поменять координаты
+1) Размер области 
+2) Лампочка сигнала
+3) Переключатель
+4) 6 лампочка прогресса
+5) Переключатель
+6) Кнопка поиска 
+Изменение: теперь идёт обновление САК 1 и более чёткая активация поиска
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 230 1
+Delay 54 ms
+KeyUp 230 1
+Delay 54 ms
+MoveTo 845 800
+MoveTo 845 800
+Delay 54 ms
+LeftDown 1
+Delay 54 ms
+LeftUp 1
+Delay 54 ms
+GoColor 36 1 38,60,34 24,39,21 1 453 404 826 677 1 0
+GoColor 14 0 97,116,93 24,39,21 1 453 404 804 677 1 0
+Delay 54 ms
+MoveTo 1111 791
+Delay 54 ms
+LeftDown 1
+Delay 54 ms
+LeftUp 1
+Delay 74 ms
+GoColor 20 1 65,38,38 255,255,255 1 880 746 389 335 1 0
+GoColor 23 0 65,38,38 255,255,255 1 880 746 383 335 1 0
+MoveTo 1111 791
+Delay 74 ms
+LeftDown 1
+Delay 54 ms
+LeftUp 1
+Delay 54 ms
+MoveTo 392 585
+Delay 54 ms
+LeftDown 1
+Delay 54 ms
+LeftUp 1
+Delay 54 ms
+Goto 45
+KeyDown 230 1
+Delay 54 ms
+KeyUp 230 1
+Delay 54 ms
+KeyDown 230 1
+Delay 54 ms
+KeyUp 230 1
+Delay 54 ms
+Goto 4
+Delay 54 ms</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

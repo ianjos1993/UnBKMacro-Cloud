@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос для активации якоря, макро за вас переключается на слоты 6-7 
+6-якорь
+7-пыль
+
+жмете V и все работает</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 35 1
+Delay 40 ms
+KeyUp 35 1
+Delay 40 ms
+RightDown 1
+Delay 40 ms
+RightUp 1
+Delay 40 ms
+KeyDown 36 1
+Delay 20 ms
+KeyUp 36 1
+Delay 200 ms
+KeyDown 35 1
+Delay 40 ms
+KeyUp 35 1
+Delay 40 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

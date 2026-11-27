@@ -1,0 +1,64 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макос для работы на стройке рп серверов Антарес, Эклипс и др. 
+
+Принцип работы:Управление персонажом с помощью взгляда мышью, активируешь макрос и персонаж начинает бегать от точки, до точки нажимая клавишу "Е" в каждом скилл-чеке. 
+
+Как пользоваться и польза макроса:Макрос помогает заработать денег на стройке, выполнить ачивку не убивая много времени и упрощая геймплей. Для работы макроса необходимо устроиться на работу строителем и от первого маркера активировать макрос. Дальше макрос сделает всё сам-Вам нужно лишь мышкой управлять персонажем.
+
+GL HF
+----------------------------------------
+Makors for work on the construction site of the RP servers Antares, Eclipse, etc. 
+
+Operating principle:Control the character by looking with the mouse, activate the macro and the character begins to run from point to point by pressing the "E" key in each skill check. 
+
+How to use and use the macro:The macro helps you earn money on the construction site, complete the achievement without killing a lot of time and simplifying the gameplay. For the macro to work, you need to get a job as a builder and activate the macro from the first marker. Then the macro will do everything by itself-you just need to control the character with the mouse.
+
+GL HF</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 8 s
+KeyDown 8 1
+Delay 1 ms
+KeyUp 8 1
+Delay 1 ms
+KeyDown 8 1
+Delay 1 ms
+KeyUp 8 1
+Delay 1 ms
+KeyDown 8 1
+Delay 1 ms
+KeyUp 8 1
+Delay 1 ms
+KeyDown 8 1
+Delay 1 ms
+KeyUp 8 1
+Delay 1 ms
+KeyDown 8 1
+Delay 1
+KeyUp 8 1
+Delay 1
+KeyDown 8 1
+Delay 1
+KeyUp 8 1
+Delay 1
+KeyDown 8 1
+Delay 1
+KeyUp 8 1
+Delay 1
+KeyUp 26 1
+Delay 1
+KeyDown 26 1
+Delay 1</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

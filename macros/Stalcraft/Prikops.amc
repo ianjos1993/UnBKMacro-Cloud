@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>Авто лут прикопов</Major>
+    <Description>Макрос для автолутания артов, нужно установить драйвер и поставить галочки снизу!
+Если не поставите макрос не сработает
+Используйте на свой страх и риск
+разрешение 1980*1080</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 1100 ms
+KeyUp 9 1
+Delay 100 ms
+KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 50 ms
+MoveTo 788 931
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

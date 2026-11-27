@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Для Tremor: рубки дерева или фарма (на последний скилл). Предназначено исключительно для Tremor(длительность 20 сек) и исключительно на последний скилл(V).</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 25 1
+Delay 64
+KeyUp 25 1
+Delay 21 s
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Roblox(Fruit Sea)</Software>
+  </DefaultMacro>
+</Root>

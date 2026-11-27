@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос M4A4 сенса 2.5  или 2 (желательно 2.5)
+dpi для мыши 800.
+Биндить на левую кнопку мыши.
+Удачной игры!
+Settings:
+Sensitivity 2.5
+m_rawinput 1
+m_customaccel 0</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 88 ms
+MoveR 0 4
+Delay 88 ms
+MoveR 0 16
+Delay 88 ms
+MoveR 0 16
+Delay 88 ms
+MoveR 0 24
+Delay 88 ms
+MoveR -4 20
+Delay 88 ms
+MoveR 0 24
+Delay 88 ms
+LeftUp 1
+Delay 2000 ms</Syntax>
+    </KeyDown>
+    <Software>CS: GO</Software>
+  </DefaultMacro>
+</Root>

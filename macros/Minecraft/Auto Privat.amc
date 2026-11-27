@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всех приветствую!Сегодня я решил написать довольно простой макрос.Этот макрос пишет команду,которая выдает вам деревянный топорик для привата(его называют админским).Макрос пригодится для администраторов многих серверов,чтобы не тратить время на ввод данной команды.
+
+Инструкция по настройке:
+1)Скачиваете представленный ниже макрос.
+2)Открываете панель управления Keyran.
+3)Ставите данный макрос на любую удобную для вам клавишу или кнопку мыши
+4)Сохраняете и используете.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 32 ms
+KeyUp 56 1
+Delay 32 ms
+KeyDown 56 1
+Delay 32 ms
+KeyUp 56 1
+Delay 32 ms
+KeyDown 26 1
+Delay 32 ms
+KeyUp 26 1
+Delay 32 ms
+KeyDown 4 1
+Delay 32 ms
+KeyUp 4 1
+Delay 32 ms
+KeyDown 17 1
+Delay 32 ms
+KeyUp 17 1
+Delay 32 ms
+KeyDown 7 1
+Delay 32 ms
+KeyUp 7 1
+Delay 32 ms
+KeyDown 88 1
+Delay 32 ms
+KeyUp 88 1
+Delay 32 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>Haxball лифт + дабл</Major>
+    <Description>С помощью этого макроса вы можете лифтить и даблить сферу (мяч)
+Также этот макрос полезен в жимках дословно вы сможете зажать мяч в углу и не отпускать его долгое время
+Не рекомендуется долгое время зажимать макрос так как возможны лаги и т.п 
+
+Использование:
+Для лифта дабла и угла всё просто, подходите к стенке с мячом зажимаете мяч между стенкой и собой 
+и прожимаете макрос (для дабла надо встать под углом 50-80 градусов) а для угла надо сделать то же самое
+только между двух стенок.
+
+Макрос обязан работать хорошо если его правильно использовать.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 70 ms
+KeyUp 44 1
+Delay 60 ms
+KeyDown 44 1
+Delay 30 ms
+KeyUp 44 1
+Delay 30 ms</Syntax>
+    </KeyDown>
+    <Software>HaxBall</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Auto Using Skill and then teleport automatically.
+this is skill area and non targeted skill.
+My screen resolution is 1920x1080</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+MoveTo 990 528
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 500 ms
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64 ms
+MoveTo 990 528
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 500 ms
+KeyDown 61 1
+Delay 128 ms
+KeyUp 61 1</Syntax>
+    </KeyDown>
+    <Software>Ragnarok</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,1057 @@
+<Root>
+  <DefaultMacro>
+    <Major>1.0</Major>
+    <Description>Макрос автоматически крафтит вареный рис на кухонном столе, используя базовые ингредиенты: обычный рис, воду и огонь 
+
+Оптимизирован для стабильной и цикличной работы.
+
+
+Характеристики и требования:
+ Разрешение экрана: 16:9 (1920x1080 / 1280x720 / 2560x1440).
+
+
+
+Необходимые предметы в инвентаре: - 
+
+Обычный рис
+
+ - Вода - 
+
+Источник огня 
+
+
+
+ВАЖНОЕ ПРЕДУПРЕЖДЕНИЕ ПЕРЕД ЗАПУСКОМ:
+Перед тем как активировать макрос, обязательно выполните следующие шаги:
+
+
+- Подойдите к кухонному столу и скрафтите одну порцию вареного риса вручную.
+
+
+- Полностью выйдите из меню стола.
+
+
+- Зайдите в стол заново.
+
+
+- Только после этого включайте макрос!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s
+MoveTo 1063 282
+RightDown 1
+Delay 64
+RightUp 1
+MoveTo 1263 282
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 900 572
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 784 672
+MoveTo 784 673
+MoveTo 784 675
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5 s</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

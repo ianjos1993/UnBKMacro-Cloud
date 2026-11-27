@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major>blox fruits</Major>
+    <Description>Dark Godhuman Venom Bow Combo
+
+A fast and deadly combo built around Dark, Godhuman, Venom and Soul Guitar. This combo focuses on chaining abilities with precise timing to keep the opponent locked and deal heavy damage.
+
+Combo:
+Dark C, Venom Bow X, Z, Godhuman Z, C, X
+
+Requires good timing and positioning for consistent execution.
+</Description>
+    <Comment>Dark Godhuman Venom Bow Combo
+
+A fast and deadly combo built around Dark, Godhuman, Venom and Soul Guitar. This combo focuses on chaining abilities with precise timing to keep the opponent locked and deal heavy damage.
+
+Combo:
+Dark C, Venom Bow X, Z, Godhuman Z, C, X
+
+Requires good timing and positioning for consistent execution.
+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+Delay 2 s
+KeyUp 6 1
+Delay 20 ms
+KeyDown 33 1
+Delay 20
+KeyDown 29 1
+Delay 20
+KeyDown 27 1
+Delay 20</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

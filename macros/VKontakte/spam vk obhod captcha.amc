@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Спам для вк, работает интервалом в 1 минуту. Для того что-бы закончить работу макроса нужно повторно нажать заданую кнопку, желаю удачи в рекламме/спаме </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 6000 ms
+KeyDown 25 1
+Delay 6000 ms
+KeyUp 224 1
+Delay 64 ms
+KeyUp 25 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Вконтакте</Software>
+  </DefaultMacro>
+</Root>

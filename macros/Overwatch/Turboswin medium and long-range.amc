@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Суть макроса  - хук, выстрел на лкм и ближняя атака ( V ). Биндим на SHIFT, работает на средней и дальней дистанции, подходит для игры за свина в 2023 году в Overwatch 2, для ближней дистанции нужен другой макрос, и биндим на другую кнопку, удобнее на доп кнопку на мышке.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 35 ms
+KeyUp 225 1
+Delay 1000 ms
+LeftDown 1
+Delay 35 ms
+LeftUp 1
+Delay 35 ms
+LeftDown 1
+Delay 35 ms
+LeftUp 1
+Delay 35 ms
+LeftDown 1
+Delay 35 ms
+LeftUp 1
+Delay 35 ms
+LeftDown 1
+Delay 35 ms
+LeftUp 1
+Delay 35 ms
+LeftDown 1
+Delay 35 ms
+LeftUp 1
+Delay 35 ms
+LeftDown 1
+Delay 35 ms
+LeftUp 1
+Delay 5 ms
+KeyDown 25 1
+Delay 10 ms
+KeyUp 25 1</Syntax>
+    </KeyDown>
+    <Software>Overwatch</Software>
+  </DefaultMacro>
+</Root>

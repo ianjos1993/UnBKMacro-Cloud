@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Jitter Aim for all weapons in the game Apex Legends.
+
+Use Sensitivity 2.1
+Fov 95
+Resolution 1920x1080
+
+Works great with Volt and Flatline, but it reduces all weapons recoil by at least 85% - 90%</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 0 0
+Delay 5 12 ms
+MoveR 7 2
+Delay 5 12 ms
+MoveR 1 2
+Delay 5 12 ms
+MoveR -3 -4
+Delay 5 12 ms
+MoveR -2 2
+Delay 5 12 ms
+MoveR -2 3
+Delay 5 12 ms
+MoveR 3 2
+Delay 5 12 ms
+MoveR -2 2
+Delay 5 12 ms
+MoveR 1 2
+Delay 5 12 ms
+MoveR -4 -3
+Delay 5 12 ms
+MoveR 3 -3
+Delay 5 12 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

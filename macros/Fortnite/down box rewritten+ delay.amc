@@ -1,0 +1,62 @@
+<Root>
+  <DefaultMacro>
+    <Major>full pece</Major>
+    <Description>a super quick way to take and edit a roof and floor above somone and instantly edit it. 
+bind these as your secondary binds:
+2: floor 
+4: roof
+6: place build (normaly left mouse BT)
+7: edit
+8: select edit
+b: shotgun slot</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 90 1
+Delay 2 5 ms
+KeyUp 90 1
+Delay 2 5 ms
+KeyDown 94 1
+Delay 2 5 ms
+KeyUp 94 1
+Delay 70 ms
+//pouse
+KeyDown 92 1
+Delay 2 5 ms
+KeyUp 92 1
+Delay 16 19 ms
+KeyDown 94 1
+Delay 2 5 ms
+KeyUp 94 1
+Delay 70 ms
+//POUSE
+KeyDown 95 1
+Delay 2 5 ms
+KeyUp 95 1
+Delay 14 16 ms
+KeyDown 96 1
+Delay 2 5 ms
+KeyUp 96 1
+Delay 70 ms
+//pouse
+KeyDown 95 1
+Delay 20 ms
+KeyUp 95 1
+Delay 14 16 ms
+KeyDown 96 1
+Delay 20 ms
+KeyUp 96 1
+Delay 14 16 ms
+KeyDown 5 1
+Delay 3 4
+KeyUp 5 1
+Delay 3 4</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

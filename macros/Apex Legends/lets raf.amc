@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major>ITS THE raf strafe BOIIS   &lt;i am just doing for some extended time but working 100%&gt;</Major>
+    <Description>IN ORDER TO run properly u need to do these &lt;better to put readonly for that 2 cfg files&gt; ( u can use like holding or do until)    ( u can bind this to any keys i like to put in mouse4/5)
+
+go to the cgf folder in apex legends &lt;origin / steam&gt;
+create a cfg and name it as                                          &lt;autoexec.cfg&gt;
+then in steam or origin paste this command                   &lt;+exec autoexec.cfg&gt; 
+now open your autoexec and paste this                       &lt;exec raf.cfg&gt;
+
+now create a cgf and  name it as &lt;raf.cfg&gt;
+now paste this commands in that raf.cfg
+                                                                         bind_US_standard "MWHEELUP" "+jump; +moveright; +forward" 0
+                                                                         bind_US_standard "MWHEELDOWN" "+jump; +moveleft; +forward" 0</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 12 1
+Delay 50 ms
+WheelUp 1
+Delay 50 ms
+WheelUp 1
+Delay 60 ms
+WheelUp 1
+Delay 60 ms
+WheelDown 1
+Delay 50 ms
+WheelDown 1
+Delay 60 ms
+WheelDown 1
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

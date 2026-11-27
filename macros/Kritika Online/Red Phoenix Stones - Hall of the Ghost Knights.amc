@@ -1,0 +1,87 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Фарм красных камней в Зал Рыцарей-призраков.
+
+Для корректного использования макроса необходимы:
+Опытная панда с красной палкой во 2 слот,
+Мифические ботинки в быстрый доступ на F2
+Навык Взрывающаяся стрела на кнопку V
+Мифический обвал на кнопку R.
+
+Стоит достаточно долгие задержки между прогрузкой к боссу и начала новой зачистки.
+Время на 1 зачистку 5-6 секунд.
+Если необходимо увеличить время начала новой зачистки, то необходимо увеличить задержку в 32 строке макроса. Для увеличения времени прогрузки новой зачистки, увеличить задержку в 60 строке.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 36 1
+Delay 95 ms
+KeyUp 36 1
+Delay 120 ms
+KeyDown 59 1
+Delay 140 ms
+KeyUp 59 1
+Delay 120 ms
+KeyDown 26 1
+Delay 296 ms
+KeyDown 225 1
+Delay 167 ms
+KeyUp 225 1
+Delay 248 ms
+KeyDown 44 1
+Delay 431 ms
+KeyUp 44 1
+Delay 16 ms
+RightDown 1
+Delay 353 ms
+RightUp 1
+Delay 734 ms
+KeyDown 7 1
+Delay 151 ms
+KeyUp 26 1
+Delay 383 ms
+KeyDown 225 1
+Delay 191 ms
+KeyUp 225 1
+Delay 871 ms
+KeyUp 7 1
+Delay 1104 ms
+KeyDown 25 1
+Delay 279 ms
+KeyUp 25 1
+Delay 600 ms
+KeyDown 21 1
+Delay 199 ms
+KeyUp 21 1
+Delay 7216 ms
+KeyDown 41 1
+Delay 79 ms
+KeyUp 41 1
+Delay 480 ms
+KeyDown 41 1
+Delay 143 ms
+KeyUp 41 1
+Delay 384 ms
+KeyDown 41 1
+Delay 111 ms
+KeyUp 41 1
+Delay 4344 ms
+KeyDown 58 1
+Delay 87 ms
+KeyUp 58 1
+Delay 216 ms
+KeyDown 61 1
+Delay 128 ms
+KeyUp 61 1
+Delay 6500 7000 ms</Syntax>
+    </KeyDown>
+    <Software>Kritika Online</Software>
+  </DefaultMacro>
+</Root>

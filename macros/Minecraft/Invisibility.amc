@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>нужно если вы забываете пить зелье невидимости и вас находят этот макрос решит эту проблему и вас некто не найдет пока у вас не кончаться зелья</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 41 1
+Delay 20 ms
+KeyUp 41 1
+Delay 20 ms
+KeyDown 30 1
+Delay 20 ms
+KeyUp 30 1
+Delay 20 ms
+RightDown 1
+Delay 2 s
+RightUp 1
+Delay 20 ms
+KeyDown 31 1
+Delay 20 ms
+KeyUp 31 1
+Delay 9 min
+GoWhile 1 1000000</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

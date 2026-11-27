@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro is used to spam on games like Funky Friday, Friday Night Bloxxin' etc.
+How To Use:
+You can set it to W. When you set it, just hold when you need fast spam. You can change click delay by changing amount of milliseconds.
+Этот макрос используется для спама в таких играх, как Funky Friday, Friday Night Bloxxin и т. д.
+Как пользоваться:
+Вы можете установить его на W. Когда вы установите его, просто удерживайте, когда вам нужен быстрый спам. Вы можете изменить задержку клика, изменив количество миллисекунд.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 20 ms
+KeyUp 22 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

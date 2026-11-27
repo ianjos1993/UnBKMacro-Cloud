@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major>Макрос для ВД в кабал онлайн</Major>
+    <Description>Настроил для ведьмака со скилами ГУРУ из новых эпизодов, активация по шифту. Скилы расположены с 3 по 7 слоты. </Description>
+    <Comment>Учтены тайминги для активации каждого скила в отдельности, так что со стороны не будет казаться, что перс крутится на одном месте, всё плавно и по кайфу</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 120 ms
+KeyUp 29 1
+KeyDown 32 1
+KeyUp 32 1
+Delay 3 s
+KeyDown 29 1
+KeyUp 29 1
+KeyDown 33 1
+KeyUp 33 1
+Delay 3 s
+KeyDown 29 1
+KeyUp 29 1
+KeyDown 34 1
+KeyUp 34 1
+Delay 3 s
+KeyDown 29 1
+KeyUp 29 1
+KeyDown 35 1
+KeyUp 35 1
+Delay 5 s</Syntax>
+    </KeyDown>
+    <Software>Cabal Online</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Играя на Пике Дафне позволяет переключить оружие на дуалы (слот 8), далее выдержана пауза для танцев.
+После переключается на основное оружие (слот 7 - нажимает несколько раз, если персонаж застанен).
+После переключаем режим на оборону (слот 0).
+Цикл выстроен на 5 мин.
+Подходит любой другой класс с подклассом гладиатора.
+В данном случае оставлять слот 0 пустым</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 37 1
+Delay 64
+KeyUp 37 1
+Delay 7 s
+KeyDown 36 1
+Delay 64
+KeyUp 36 1
+Delay 1 s
+KeyDown 36 1
+Delay 64
+KeyUp 36 1
+Delay 1 s
+KeyDown 36 1
+Delay 64
+KeyUp 36 1
+Delay 1 s
+KeyDown 39 1
+Delay 64
+KeyUp 39 1
+Delay 5 min
+GoWhile 1 5000</Syntax>
+    </KeyDown>
+    <Software>Lineage 2 Mobile</Software>
+  </DefaultMacro>
+</Root>

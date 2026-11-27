@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос, который свапает контейнер из инвентаря (предварительно надо отсортировать инвентарь так, чтобы конт лежал в первый ячейках), разрешение 1980x1080, dpi 1200, чувств мыши в игре 9</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 100 ms
+KeyUp 8 1
+MoveTo 1093 308
+KeyDown 225 1
+LeftDown 1
+LeftUp 1
+KeyUp 225 1
+KeyDown 8 1
+Delay 100 ms
+KeyUp 8 1</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

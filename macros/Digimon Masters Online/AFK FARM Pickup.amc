@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Digimon masters online farming macro
+Pick up 4
+Tab to select nearest npc
+1 for attack
+No skill
+no heal
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 1200 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 1200 ms
+KeyDown 33 1
+Delay 70 ms
+KeyUp 33 1
+Delay 1200 ms
+KeyDown 33 1
+Delay 70 ms
+KeyUp 33 1
+Delay 4 s
+GoWhile 1 200</Syntax>
+    </KeyDown>
+    <Software>Digimon Masters Online</Software>
+  </DefaultMacro>
+</Root>

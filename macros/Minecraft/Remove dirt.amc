@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>With this makro you can automate ther removing of dirt in the garden but you need the builders wand.
+you can also edit this makro and change the delays</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+KeyDown 225 1
+Delay 64
+KeyDown 7 1
+Delay 100 s
+KeyUp 7 1
+Delay 64
+KeyDown 4 1
+Delay 100 s
+KeyUp 4 1
+Delay 64
+KeyUp 225 1
+RightUp 1
+Delay 64
+Delay 64
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

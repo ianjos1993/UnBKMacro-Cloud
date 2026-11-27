@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простой скрип для afk игры для тех кто пользуется playkey. 
+Для удобства в настройках игры поменяйте кнопку достования телефона на с анг. M на стелочку Вверх</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 82 1
+Delay 1 min
+KeyDown 82 1
+Delay 1 min
+MoveR 98 -10
+Delay 5 s
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>GTA 5 ARIZONA PLAYKEY</Software>
+  </DefaultMacro>
+</Root>

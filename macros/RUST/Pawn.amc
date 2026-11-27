@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на раст, на полу-автоматический пистолет, полностью убирает вертикальную отдачу, прекрасно подойдёт как для стрельбы на ближние дистанции, так и на дальние. Чуствительность 0.66, также можно использовать без обвесов но точность будет меньше, эффективная дистанция 75 метров, разрешение экрана 1920-1080, 
+dpi 800</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+LeftUp 1
+MoveR 0 20
+Delay 80 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

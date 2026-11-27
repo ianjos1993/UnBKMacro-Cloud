@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматизация ремня и запуска двигателя, а также включения ходовых фар одной кнопкой.
+
+Этот макрос был создан для того, чтобы не забывать включать фары и пристёгиваться: как только завёл машину, всё сделано автоматизировано для стандартных настроек в игре.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Goto 1
+KeyDown 5 1
+Delay 10
+KeyUp 5 1
+Delay 11 ms
+KeyDown 29 1
+Delay 12 ms
+KeyUp 29 1
+Delay 13 ms
+KeyDown 15 1
+Delay 14 ms
+KeyUp 15 1
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>Мта Province </Software>
+  </DefaultMacro>
+</Root>

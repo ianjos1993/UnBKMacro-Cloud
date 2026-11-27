@@ -1,0 +1,62 @@
+<Root>
+  <DefaultMacro>
+    <Major>1.0.0</Major>
+    <Description> Данный макрос был переделан из другого макроса для разрешение 2560 x 1440. В основе лежит принцип моментального сбора сигнала. Благодаря небольшой подгонке можно убрать осечку вообще.
+ 
+ Условия:
+1. Игра в оконном режиме
+2. Вы должны забиндить САК-1 на правивый альт (Right Alt)
+
+ При некоректной работе настроить пункты 5 (неактивный сигнал) и 6 (активный сигнал). Выставив цветовую гамму непосредственно под свой монитор.
+ Всё было проверено на 3 устройствах.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 230 1
+Delay 100 ms
+KeyUp 230 1
+Delay 400 ms
+GoColor 7 1 30,46,26 255,255,255 1 921 535 672 546 1 0
+GoColor 17 1 23,48,20 24,39,21 1 921 535 661 43 1 0
+KeyDown 230 1
+Delay 100 ms
+KeyUp 230 1
+Delay 100 ms
+KeyDown 230 1
+Delay 100 ms
+KeyUp 230 1
+Delay 200 ms
+GoWhile 5 10000
+Delay 100 ms
+MoveTo 1439 1059
+Delay 100 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 100 ms
+MoveTo 1798 1045
+Delay 100 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 400 ms
+//Время ожидания лампочек - было 11200
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 100 ms
+MoveTo 832 799
+Delay 100 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 100 ms</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

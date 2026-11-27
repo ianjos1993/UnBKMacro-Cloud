@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Это скрипт на цифры 1 2 3 4, подойдет для игр где нужно фармить на эти цифры, скрипт можете настраивать под себя: изменять задержку, убирать цифры и т.д.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 40 ms
+LeftDown 1
+Delay 40 ms
+LeftUp 1
+Delay 40 ms
+KeyUp 30 1
+Delay 40 ms
+KeyDown 31 1
+Delay 40 ms
+LeftDown 1
+Delay 40 ms
+LeftUp 1
+Delay 40 ms
+KeyUp 31 1
+Delay 40 ms
+KeyDown 32 1
+Delay 40 ms
+LeftDown 1
+Delay 40 ms
+LeftUp 1
+Delay 40 ms
+KeyUp 32 1
+Delay 40 ms
+KeyDown 33 1
+Delay 40 ms
+LeftDown 1
+KeyUp 33 1
+Delay 40 ms
+LeftUp 1
+GoWhile 1 111111</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

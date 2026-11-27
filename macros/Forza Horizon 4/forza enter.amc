@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматическое нажатие кнопки enter, используется для открытия вилспинов, которые получаются при помощи глитча на опыт.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 88 1
+Delay 10 ms
+KeyUp 88 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Forza Horizon 4</Software>
+  </DefaultMacro>
+</Root>

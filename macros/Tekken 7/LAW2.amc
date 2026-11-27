@@ -1,0 +1,95 @@
+<Root>
+  <DefaultMacro>
+    <Major>Law df2 comfo</Major>
+    <Description>Макрос позволяет выполнять combo df2 за LAW.
+Видео демонстрации работы макроса: https://youtu.be/0yg-KriZiEM
+
+Маршалл Лоу (Marshall Law) —  талантливый мастер боевых искусств, давний друг и спарринг-партнер Пола Феникса До первого турнира King of Iron Fist Tournament Ло работал в ресторане Chinatown в Сан-Франциско, чтобы прокормить себя и свою семью . Он мечтал открыть собственное додзё и принял участие в турнире с целью выиграть призовые деньги, чтобы осуществить свою мечту. Был тепло принят всеми фанатами серии игр Tekken из-за схожести с Брюс Ли.
+
+Тестирование макроса проводились на последнем патче игры на 23.04.2023 (5.01 патч)
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#lawtekken7 #tekken7 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 0 ms
+KeyDown 7 1
+Delay 31 ms
+KeyDown 74 1
+Delay 279 ms
+KeyUp 22 1
+Delay 7 ms
+KeyUp 7 1
+Delay 8 ms
+KeyUp 74 1
+Delay 383 ms
+KeyDown 4 1
+Delay 71 ms
+KeyDown 77 1
+Delay 152 ms
+KeyDown 76 1
+Delay 15 ms
+KeyUp 77 1
+Delay 96 ms
+KeyUp 76 1
+Delay 79 ms
+KeyDown 76 1
+Delay 87 ms
+KeyUp 76 1
+Delay 64 ms
+KeyDown 76 1
+Delay 87 ms
+KeyUp 76 1
+Delay 40 ms
+KeyUp 4 1
+Delay 759 ms
+KeyDown 7 1
+Delay 55 ms
+KeyUp 7 1
+Delay 63 ms
+KeyDown 7 1
+Delay 128 ms
+KeyDown 74 1
+Delay 104 ms
+KeyDown 73 1
+Delay 15 ms
+KeyUp 74 1
+Delay 136 ms
+KeyUp 73 1
+Delay 87 ms
+KeyDown 76 1
+Delay 135 ms
+KeyUp 76 1
+Delay 87 ms
+KeyDown 76 1
+Delay 104 ms
+KeyUp 76 1
+Delay 31 ms
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 7</Software>
+  </DefaultMacro>
+</Root>

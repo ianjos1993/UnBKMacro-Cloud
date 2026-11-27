@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос предназначен для снайперской винтовки M200 И дробовика убийца зомби.
+Макрос делает за вас смену и выстрел.
+Если играем с дробовиком то ставим на ПКМ
+с кемпой на клавишу E.
+Удачных  игр!
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 19 ms
+LeftUp 1
+KeyDown 32 1
+Delay 19 ms
+KeyUp 32 1
+KeyDown 30 1
+Delay 19 ms
+KeyUp 30 1
+Delay 19 ms
+Delay 210 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

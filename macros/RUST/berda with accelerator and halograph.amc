@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Очень хороший макрос, с которого берда будет стрелять быстрее, чем даже томик. Настройки такие:
+1)  DPI 500
+2) Разрешение 1920х1080
+3) Чувствительность мыши 0.7
+Поставьте активацию на любую удобную вам кнопку и приятной игры.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 20 ms
+MoveR 0 7
+Delay 20 ms
+MoveR 0 7
+Delay 20 ms
+MoveR 0 7
+Delay 20 ms
+MoveR 0 7
+Delay 20 ms
+MoveR 0 7
+Delay 20 ms
+LeftUp 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

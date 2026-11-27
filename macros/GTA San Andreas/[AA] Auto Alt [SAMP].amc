@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос предназначен не для самой Gta san andreas, а для мода "San Andreas Multi Player".
+На некоторых серверах постоянно лагает "ALT" 'Это мешает даже при ловле или где либо ещё.
+Этот скрипт автоматически нажимает ALT много раз после одного нажатия.
+Таким образом например на той же ловле вы очень бытсро введёте капчу.
+
+Всё нужно для корректной работы требуется:
+1)Забиндить на любую клавишу
+
+Тестировалось 03.01.2023 на
+Arizona Role Play(Работает)
+Arena Role Play(Работает)
+
+</Description>
+    <Comment>Скрипт позволяет нажать на ALT с первого раза (на некоторых серверах на ALT нужно  нажимать от 10раз)</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 226 1
+Delay 1 200 ms
+KeyUp 226 1
+Delay 1 200 ms
+KeyDown 226 1
+Delay 1 200 ms
+KeyUp 226 1
+Delay 1 200 ms
+KeyDown 226 1
+Delay 1 200 ms
+KeyUp 226 1
+Delay 1 200 ms</Syntax>
+    </KeyDown>
+    <Software>GTA San Andreas</Software>
+  </DefaultMacro>
+</Root>

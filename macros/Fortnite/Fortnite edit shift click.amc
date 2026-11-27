@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>Fornite edit shift click</Major>
+    <Description>С помощью этого макроса, вы можете особо не напригатся.Вы будете выглядить как профессионал, так-же макрос может быть доступным в других играть. Назначение клавишы макроса может быть любой, клавишой. А также гайд. 1.Установить программу Keyran, 2.Открыть программу Keyran. 3.Зарегистрировать аккаунт в программе Keyran. 4. Получить демо-ключ, купить ключ на месяц,Год,Век. 5.Скачать мой макрос. 6. Открыть фортнайт. 7. Открыть редактор макросов. 8. нажать открыть файл. 9. Выбрать мой макрос. 10.Назначить любую клавишу.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 10 ms
+KeyUp 225 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

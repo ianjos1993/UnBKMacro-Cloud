@@ -1,0 +1,61 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Афк фарм с автоподбором для мобов на локе в радиусе авторетаргета
+1) На тильду ` авторетаргет (обычно по умолчанию в настройках кабала, но не у всех)
+2)1,2,3,4 скиллы ( можно даже поставить на одну из них реген или банки если мало абсорба и проседаете по хп)
+работает отлично сам юзаю, так что удачи
+Можно спокойно уходить в афк на небольшом споте мобов, фармя проходки, экспу, диски на хай лвл локах
+с лоу лвл проблемнее, ибо инвентарь будут засорять шмотки, так что будут лутаться в основном алзы на лоу лвл локах</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 13 1
+Delay 133 ms
+KeyUp 13 1
+Delay 288 ms
+KeyDown 30 1
+Delay 131 ms
+KeyUp 30 1
+Delay 1111 ms
+KeyDown 13 1
+Delay 149 ms
+KeyUp 13 1
+Delay 424 ms
+KeyDown 31 1
+Delay 205 ms
+KeyUp 31 1
+Delay 907 ms
+KeyDown 13 1
+Delay 159 ms
+KeyUp 13 1
+Delay 359 ms
+KeyDown 32 1
+Delay 206 ms
+KeyUp 32 1
+Delay 970 ms
+KeyDown 13 1
+Delay 178 ms
+KeyUp 13 1
+Delay 371 ms
+KeyDown 33 1
+Delay 174 ms
+KeyUp 33 1
+Delay 1349 ms
+KeyDown 13 1
+Delay 183 ms
+KeyUp 13 1
+Delay 442 ms
+KeyDown 34 1
+Delay 192 ms
+KeyUp 34 1
+Delay 4232 ms</Syntax>
+    </KeyDown>
+    <Software>Cabal Online</Software>
+  </DefaultMacro>
+</Root>

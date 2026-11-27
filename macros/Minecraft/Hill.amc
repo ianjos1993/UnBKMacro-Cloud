@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Приветствую. Данный AMC макрос подходит для серверов DayZ Minecraft. 
+
+ТРЕБОВАНИЯ К ИСПОЛЬЗОВАНИЮ:
+
+&gt;ОСНОВНОЕ ОРУЖИЕ ДОЛЖНО НАХОДИТСЯ В ПЕРВОМ СЛОТЕ ИНВЕНТАРЯ
+=====================================================================
+ &gt;БОЛЕУТОЛЯЮЩЕЕ ДОЛЖНО НАХОДИТСЯ ВО ВТОРОМ СЛОТЕ ИНВЕНТАРЯ
+=====================================================================
+
+СУТЬ РАБОТЫ AMC МАКРОСА ЗАКЛЮЧАЕТСЯ В ТОМ, ЧТО ВО ВРЕМЯ ПВП ВЫ НАЖИМАЕТЕ НА КЛАВИШУ( КОТОРУЮ УКАЖЕТЕ САМИ) ПОСЛЕ ЧЕГО ВАШ ПЕРСОНАЖ ЗА МИЛИСЕКУНДЫ ПЕРЕКЛЮЧАЕТСЯ НА БОЛЕУТОЛЯЮЩЕЕ И ИСПОЛЬЗУЕТ ЕГО, ПОСЛЕ ЧЕГО ОПЯТЬ БЕРЕТ В РУКИ ВАШЕ ОРУЖИЕ
+
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 17
+KeyUp 31 1
+Delay 17
+RightDown 1
+Delay 17
+RightUp 1
+Delay 17
+KeyDown 30 1
+Delay 17
+KeyUp 30 1
+Delay 17</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

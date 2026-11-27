@@ -1,0 +1,94 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>спамит текст "controlling server" в чат до повторного нажатия, спамит быстро, поэтому осторожнее, у каждого сервера свои правила</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 10 ms
+KeyDown 6 1
+Delay 10 ms
+KeyUp 6 1
+Delay 10 ms
+KeyDown 18 1
+Delay 10 ms
+KeyUp 18 1
+Delay 10 ms
+KeyDown 17 1
+Delay 10 ms
+KeyUp 17 1
+Delay 10 ms
+KeyDown 23 1
+Delay 10 ms
+KeyUp 23 1
+Delay 10 ms
+KeyDown 21 1
+Delay 10 ms
+KeyUp 21 1
+Delay 10 ms
+KeyDown 18 1
+Delay 10 ms
+KeyUp 18 1
+Delay 10 ms
+KeyDown 15 1
+Delay 10 ms
+KeyUp 15 1
+Delay 10 ms
+KeyDown 15 1
+Delay 10 ms
+KeyUp 15 1
+Delay 10 ms
+KeyDown 12 1
+Delay 10 ms
+KeyUp 12 1
+Delay 10 ms
+KeyDown 17 1
+Delay 10 ms
+KeyUp 17 1
+Delay 10 ms
+KeyDown 10 1
+Delay 10 ms
+KeyUp 10 1
+Delay 10 ms
+KeyDown 44 1
+KeyUp 44 1
+KeyDown 22 1
+Delay 10 ms
+KeyUp 22 1
+Delay 10 ms
+KeyDown 8 1
+Delay 10 ms
+KeyUp 8 1
+Delay 10 ms
+Delay 10 ms
+KeyDown 21 1
+Delay 10 ms
+KeyUp 21 1
+Delay 10 ms
+KeyDown 25 1
+Delay 10 ms
+KeyUp 25 1
+Delay 10 ms
+KeyDown 8 1
+Delay 10 ms
+KeyUp 8 1
+Delay 10 ms
+KeyDown 21 1
+Delay 10 ms
+KeyUp 21 1
+Delay 10 ms
+KeyDown 88 1
+Delay 10 ms
+KeyUp 88 1
+Delay 10 ms
+GoWhile 1 3000</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>[UPDATE MACROS]
+p.s макрос настраивается под свой пинг!
+Данный макрос упрощает забирание стены у противника.
+У моего друга пинг 15,а у меня пинг 35,и я из 10 раз забрал 7 стен.
+Забирание стены не будет 100%(то есть не все 10 стен сможете забрать т.к присутсвует доля рандома)
+вы из 10 стен сможете забрать как минимум 4 :D
+Ну вот и все :D</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+LeftUp 1
+KeyDown 30 1
+KeyUp 30 1
+KeyDown 20 1
+KeyUp 20 1
+LeftDown 1
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

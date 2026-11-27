@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>Roblox</Major>
+    <Description>Automatically complete the QTE for shrine move 2 areial. (This will only work if you have access to the sukuna character)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 14 1
+KeyUp 14 1
+Delay 50 ms
+KeyDown 4 1
+KeyUp 4 1
+Delay 50 ms
+KeyDown 12 1
+KeyUp 12 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

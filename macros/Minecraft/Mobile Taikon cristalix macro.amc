@@ -1,0 +1,70 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Приветствую ! данный макрос разработан для легкого сбора предметов с мобов и их дальнейшей сдачи в переработку в режиме "Моб Тайкон" на сервере Cristalix.
+Принцип работы прост. Вы должны встать на восьмой блок от сбора предметов ( пробел между четвертым и пятым мобом ) , ровно между предметами. Дальше запустить скрипт и он сделает всё сам. Настроить на режим работы до повторного нажатия.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 413 ms
+KeyDown 4 1
+Delay 772 ms
+KeyDown 62 1
+Delay 63 ms
+KeyUp 62 1
+Delay 1918 ms
+KeyUp 4 1
+Delay 232 ms
+KeyDown 7 1
+Delay 4204 ms
+KeyUp 7 1
+Delay 219 ms
+KeyDown 4 1
+Delay 1129 ms
+KeyUp 4 1
+Delay 656 ms
+KeyDown 4 1
+Delay 127 ms
+KeyUp 4 1
+Delay 1469 ms
+KeyDown 22 1
+Delay 4620 ms
+KeyUp 22 1
+Delay 528 ms
+KeyDown 7 1
+Delay 1140 ms
+KeyUp 7 1
+Delay 566 ms
+KeyDown 4 1
+Delay 1124 ms
+KeyUp 4 1
+Delay 742 ms
+KeyDown 26 1
+Delay 1465 ms
+KeyDown 44 1
+Delay 154 ms
+KeyUp 44 1
+Delay 2472 ms
+KeyDown 44 1
+Delay 202 ms
+KeyUp 44 1
+Delay 1486 ms
+KeyUp 26 1
+Delay 644 ms
+KeyDown 22 1
+Delay 138 ms
+KeyUp 22 1
+Delay 368 ms
+KeyDown 26 1
+Delay 85 ms
+KeyUp 26 1
+Delay 455 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

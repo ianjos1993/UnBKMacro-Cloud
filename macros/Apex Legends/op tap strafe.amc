@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>tap strafe left 180</Major>
+    <Description>to use this macro your jump must be binded to scroll wheel down and forward to scroll wheel up.
+
+1 reach full speed whilst running.
+2 press the desired macro button and a slide will happen
+3 flick camera to your left after you have jumped and you will do a full 180.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 20 ms
+KeyDown 225 1
+Delay 27 ms
+KeyDown 7 1
+Delay 2 ms
+KeyUp 26 1
+Delay 36 ms
+KeyDown 4 1
+Delay 2 ms
+KeyUp 7 1
+Delay 13 ms
+KeyUp 225 1
+Delay 1 ms
+KeyUp 4 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

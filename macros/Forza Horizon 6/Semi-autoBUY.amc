@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Нажимаем на одну кнопку и покупаем машину из журнала коллекции
+Журнал коллекции ESC-Журнал-Исследование мира-Коллекция машин
+Выбираем нужную машину и жмём кнопку бинда и машина покупается за +-3 секунды
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 112 ms
+KeyUp 44 1
+Delay 475 ms
+KeyDown 81 1
+Delay 95 ms
+KeyUp 81 1
+Delay 122 ms
+KeyDown 88 1
+Delay 72 ms
+KeyUp 88 1
+Delay 708 ms
+KeyDown 88 1
+Delay 90 ms
+KeyUp 88 1
+Delay 641 ms
+KeyDown 88 1
+Delay 96 ms
+KeyUp 88 1
+Delay 414 ms</Syntax>
+    </KeyDown>
+    <Software>Forza Horizon 6</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major>Flash911</Major>
+    <Description>Макрос для фарма мобов. Можно назвать его мини-ботом :)
+
+                                   Внимание! ---&gt; Макрос для воинов !!!
+
+ Что делаем :
+
+1.Выставляем на 1ую панель в ячейки  Ф1 Некст таргет.
+
+2.Ставим на Ф2 атака
+
+3. Запускаем макрос и уходим по своим делам :)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 58 1
+//Некст таргет Ф1
+Delay 64
+KeyUp 58 1
+Delay 350 ms
+KeyDown 59 1
+//Аткак Ф2
+Delay 64
+KeyUp 59 1
+Delay 350 ms
+KeyDown 60 1
+//Скил Агресии Ф3
+Delay 64
+KeyUp 60 1
+Delay 350 ms
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

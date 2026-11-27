@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>yarı otomatik tüfek (S.A.R) holosuz boş hassasiyet 0.42 görüş alanı FOV 80 dir. az da olsa sapma payı vardır.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 7 ms
+MoveR 0 8
+Delay 7 ms
+MoveR 0 8
+Delay 7 ms
+MoveR 0 8
+Delay 7 ms
+MoveR 0 8
+Delay 7 ms
+MoveR 0 8
+Delay 7 ms
+LeftUp 1
+Delay 11 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

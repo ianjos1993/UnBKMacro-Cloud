@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major>Макрос</Major>
+    <Description>Это обычный авто хил, поможет вам если вы ушли в афк по делам, и боитесь что вас убьют в игре, Использование: биндите любую клавишу и ставите режим работы до повторного нажатия, и с помощью этого макроса наврядли вас убьют)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+KeyUp 20 1
+Delay 25 ms
+KeyDown 44 1
+KeyUp 44 1
+Delay 25 ms
+KeyDown 20 1
+KeyUp 20 1
+Delay 25 ms
+KeyDown 44 1
+KeyUp 44 1
+Delay 25 ms
+KeyDown 20 1
+KeyUp 20 1
+Delay 25 ms
+KeyDown 44 1
+KeyUp 44 1
+Delay 25 ms
+KeyDown 20 1
+KeyUp 20 1
+Delay 25 ms
+KeyDown 44 1
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>Takemine,io</Software>
+  </DefaultMacro>
+</Root>

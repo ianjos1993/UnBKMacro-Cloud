@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>ПВП макрос</Major>
+    <Description>Установлено оптимальное колитчество кликов для достижения лучших результатов. Также установлена случайная задержка, поэтому бан вы точно не получите.Очень советую  использовать макрос на версии 1.19</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 5 45 ms
+LeftUp 1
+LeftDown 1
+Delay 5 45 ms
+LeftUp 1
+LeftDown 1
+Delay 5 45 ms
+LeftDown 1
+LeftUp 1
+Delay 5 45 ms
+LeftDown 1
+Delay 5 45 ms
+LeftUp 1
+LeftDown 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

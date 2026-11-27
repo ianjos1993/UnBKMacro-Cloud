@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос преднозначен для пвп.
+Инструкция:
+1.Скачиваете макрос.
+2.заходите в программу KeyRan,далее на появищийся клавиатуре выбираете боковую кнопку.
+3.Ставим макрос который скачали. и ставим режим работы выполнаять пока нажана клавиша</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Button4down 1
+Delay 19 ms
+Button4down 1
+Delay 19 ms
+Button4down 1
+Delay 19 ms
+Button4down 1
+Delay 19 ms
+Button4down 1
+Delay 19 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

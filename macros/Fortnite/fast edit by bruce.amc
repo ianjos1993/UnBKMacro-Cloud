@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major>[Fixed] Sprint Slide</Major>
+    <Description>fast edit change to binds to neccescary keys in game, 1st bind is edit key, 2nd bind is select building cell key, 3rd key is ur shot gun or pickaxe either or... after that you can mess with the delays if you want but i wouldnt go lowey than 70 ms as its too fast to hit quad edits with</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 25 1
+Delay 5 ms
+KeyUp 25 1
+Delay 5 ms
+KeyDown 15 1
+Delay 120 ms
+KeyUp 15 1
+Delay 0 ms
+KeyDown 43 1
+Delay 5 ms
+KeyUp 43 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

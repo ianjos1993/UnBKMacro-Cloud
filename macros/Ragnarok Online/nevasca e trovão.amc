@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>macropara bruxo. F1 utiliza skil de teletransporte e aperta enter,F3 nevasca e no F4 trovão de jupeter .</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 60 65 ms
+KeyDown 58 1
+Delay 64
+KeyUp 58 1
+Delay 1 s
+KeyDown 88 1
+Delay 64 ms
+KeyUp 88 1
+Delay 1 s
+KeyDown 60 1
+Delay 64
+KeyUp 60 1
+Delay 64 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 8 s
+KeyDown 61 1
+Delay 64 ms
+KeyUp 61 1
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 7 s</Syntax>
+    </KeyDown>
+    <Software>Ragnarok</Software>
+  </DefaultMacro>
+</Root>

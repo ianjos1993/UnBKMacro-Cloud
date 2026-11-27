@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major>SomeOneSpeciale</Major>
+    <Description>GrandRP Oil Rig after 4 Hours. Choose ur Oil-type and It will collect enough Oil from Oil rig. With 20% speed Bonus at Level 1 after 4 Hours Playtime. Enjoy
+</Description>
+    <Comment>Go to Oil rig, choose ur oil type, Press E to open it. Install Macro on every key u want and Start with it. It will collect some Oil, Solar or Kerosin</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 593 660
+Delay 168 ms
+LeftDown 1
+Delay 3400 ms
+LeftUp 1
+MoveTo 493 660
+Delay 168 ms
+LeftDown 1
+Delay 3400 ms
+LeftUp 1
+MoveTo 393 660
+Delay 168 ms
+LeftDown 1
+Delay 3400 ms
+LeftUp 1
+MoveTo 283 660
+Delay 168 ms
+LeftDown 1
+Delay 3400 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

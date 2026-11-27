@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Как сделать и Горо пулемёт? Очень просто! 
+Достаточно установить этот макрос на горячую клавишу и при её зажатии ваш Горо будет делать РАТАТАТАТАТАТА</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 21 1
+Delay 15 ms
+KeyUp 21 1
+Delay 20 ms
+KeyDown 21 1
+Delay 15 ms
+KeyUp 21 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для вас, Ставьте настройки игры, как указано ниже:
+1) DPI 500
+2) Обзор 90
+3) Сенса 0.4
+4) Разрешения экрана 1920х1080
+5) Поставь на удобную кнопку</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 20 ms
+MoveR 0 67
+Delay 20 ms
+MoveR 0 67
+Delay 20 ms
+MoveR 0 67
+Delay 20 ms
+MoveR 0 67
+Delay 20 ms
+MoveR 0 67
+Delay 20 ms
+LeftUp 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

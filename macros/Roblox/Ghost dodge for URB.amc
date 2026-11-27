@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major>for URB-Untitled Robot Boxing</Major>
+    <Description>This macro will make you invincible in URB. It will allow you to perform a ghostly dodge that other users won't see. It's best to assign it to Ctrl for it to work; you should also hold down Shift.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+KeyUp 4 1
+Delay 18 50
+KeyDown 22 1
+KeyUp 22 1
+Delay 18 50</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

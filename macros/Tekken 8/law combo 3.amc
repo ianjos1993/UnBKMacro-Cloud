@@ -1,0 +1,109 @@
+<Root>
+  <DefaultMacro>
+    <Major>Law Combo 3</Major>
+    <Description>Макрос позволяет выполнять комбо за Law с лаунчера.
+Видео демонстрации работы макроса: https://youtu.be/QvtY50BGZf4
+
+Law — Маршалл кратко появляется в OVA «Tekken: The Motion Picture» 1998 года, где является одним из участников турнира. Впоследствии он сбегает со взрывающегося курорта Мишима вместе с другими выжившими бойцами. В фильме «Теккен» 2009 года, роль Маршалла Ло исполнил американец вьетнамского происхождения Кунг Ле, который, по сюжету, является оппонентом Джина Казамы в отборочных поединках. В интервью 2012 года, актёр выразил сожаление, что коронный приём Ло был отдан Джину: «Если вы не хотите, чтобы этим приёмом владел Ло, тогда не нужно использовать этот приём на нём... они [создатели фильма] разбавили кино чушью.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 04.05.2024
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#lawtekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 0 ms
+KeyDown 22 1
+Delay 259 ms
+KeyUp 22 1
+Delay 9 ms
+KeyUp 7 1
+Delay 9 ms
+KeyDown 74 1
+Delay 160 ms
+KeyUp 74 1
+Delay 719 ms
+KeyDown 77 1
+Delay 70 ms
+KeyDown 26 1
+Delay 50 ms
+KeyDown 76 1
+Delay 39 ms
+KeyUp 77 1
+Delay 50 ms
+KeyUp 76 1
+Delay 40 ms
+KeyDown 76 1
+Delay 30 ms
+KeyUp 26 1
+Delay 60 ms
+KeyUp 76 1
+Delay 719 ms
+KeyDown 4 1
+Delay 69 ms
+KeyDown 74 1
+Delay 120 ms
+KeyDown 73 1
+Delay 79 ms
+KeyUp 74 1
+Delay 39 ms
+KeyUp 73 1
+Delay 110 ms
+KeyUp 4 1
+Delay 930 ms
+KeyDown 7 1
+Delay 79 ms
+KeyUp 7 1
+Delay 70 ms
+KeyDown 7 1
+Delay 229 ms
+KeyDown 4 1
+Delay 20 ms
+KeyUp 7 1
+Delay 59 ms
+KeyUp 4 1
+Delay 79 ms
+KeyDown 77 1
+Delay 110 ms
+KeyDown 76 1
+Delay 39 ms
+KeyUp 77 1
+Delay 10 ms
+KeyDown 7 1
+Delay 40 ms
+KeyUp 76 1
+Delay 520 ms
+KeyDown 74 1
+Delay 70 ms
+KeyUp 74 1
+Delay 109 ms
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

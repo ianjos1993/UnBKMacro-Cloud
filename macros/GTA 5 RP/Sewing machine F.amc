@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для швейки или для стройки на букву F. был проверен и испытан не раз. Сейчас в пору зимнего пропуска очень пригодится. Режим работы : просто биньдите нужную вам клавишу(советую поставить на ту клавишу на которую вы должны нажимать т.е. если макрос для буквы F то и забиньдете на F) и подбегаете к точке, нажимаете клавишу бинда и всё готово за пару миллисекунд.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+KeyUp 9 1
+Delay 2
+GoWhile 1 60</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

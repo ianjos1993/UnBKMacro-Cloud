@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматическая рыбалка для сервера District 9 rp.
+Макрос автоматический проходит мини-игру и по новой закидывает удочку.
+
+Настройки:
+Тип экрана: Оконный без рамок.
+Разрешение: 1920 x 1080
+
+1. Подходим к месту рыбалки.
+2. Берем в руки удочку.
+3. Включаем макрос.
+4. Закидываем удочку.
+
+Вам остается только скидывать рыбу и покупать новые удачки.
+Приятной игры!
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 3 1 255,255,255 210,210,210 2 902 299 116 36 1 0
+Goto 1
+KeyDown 44 1
+KeyUp 44 1
+Delay 2 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>GTA V</Software>
+  </DefaultMacro>
+</Root>

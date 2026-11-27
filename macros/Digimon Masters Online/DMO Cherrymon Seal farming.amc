@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Hello, dear Tamers!
+
+Today I bring you the perfect macro for farmin Seals! Particularly, I am talking about Cherrymon seals.
+
+First, as always, it is recommended to have X2 1000% experience to lvl up, given that we will be on Canyon Desert and the Cherrymons there are high lvl. Second, if you don't have a strong digi, use a +100% skill damage so you can insta kill every cherrymon.
+
+Now, it is important to have the first skill on F1 and to have a DS disc on F6 so it can replenish your DS.
+
+For this macro I already added the "4" so you can pick up the items inmediatly, but if you have a Magentic ID, then it won't be needed.
+
+Farewell! Good luck with the drops!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 1200 ms
+KeyDown 58 1
+Delay 64
+KeyUp 58 1
+Delay 64
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+GoWhile 1 50
+KeyDown 63 1
+Delay 64
+KeyUp 63 1
+Delay 64
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Digimon Masters Online</Software>
+  </DefaultMacro>
+</Root>

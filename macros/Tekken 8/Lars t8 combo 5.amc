@@ -1,0 +1,84 @@
+<Root>
+  <DefaultMacro>
+    <Major>Lars Combo 5 T8</Major>
+    <Description>Макрос позволяет выполнять комбо за Lars T8.
+Видео демонстрации работы макроса: https://youtu.be/MsiuXSViUPs
+
+Ларс Александерссон — один из самых ярких и многослойных персонажей в мире Tekken. Его история — это смесь трагедии, доблести и скрытых интриг, что делает его необычайно привлекательным героем. Сын могущественного Хейхачи Мишимы, Ларс вырос в тени великой семьи, хотя и был незаконнорожденным. Однако его путь не был обусловлен кровью, которая текла в его жилах, а скорее той справедливостью, которую он стремился установить. Ларс с раннего возраста отверг мрачные амбиции своего рода и решил пойти своим путем, став командиром в отрядах Теккен. Это решение не только подчеркивает его независимость, но и отводит его роль спасителя среди жестокого мира, раздираемого войной кланов.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 19.08.2024
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ.
+
+#larstekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 23 ms
+KeyDown 73 1
+KeyDown 76 1
+Delay 256 ms
+KeyUp 76 1
+KeyUp 73 1
+Delay 31 ms
+KeyUp 7 1
+Delay 304 ms
+KeyDown 4 1
+Delay 71 ms
+KeyDown 74 1
+Delay 175 ms
+KeyDown 76 1
+Delay 64 ms
+KeyUp 74 1
+Delay 40 ms
+KeyUp 76 1
+Delay 64 ms
+KeyDown 76 1
+Delay 111 ms
+KeyUp 76 1
+Delay 239 ms
+KeyUp 4 1
+Delay 456 ms
+KeyDown 7 1
+Delay 63 ms
+KeyDown 76 1
+Delay 95 ms
+KeyUp 76 1
+Delay 167 ms
+KeyDown 73 1
+Delay 119 ms
+KeyUp 73 1
+Delay 39 ms
+KeyDown 74 1
+Delay 24 ms
+KeyUp 7 1
+Delay 64 ms
+KeyUp 74 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

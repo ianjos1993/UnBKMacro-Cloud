@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простенький макрос на два стандартных духа
+нужно установить духи в хоткеи 9 и 0, далее установить макрос на удобную вам кнопку 
+макрос работает с задержкой 10м 10с, для адекватной работы на слабеньких пк или при нестабильном интернет соединении
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 38 1
+Delay 64
+KeyUp 38 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+KeyDown 39 1
+Delay 64
+KeyUp 39 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+Delay 10 min
+Delay 10 s</Syntax>
+    </KeyDown>
+    <Software>Karos</Software>
+  </DefaultMacro>
+</Root>

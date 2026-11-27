@@ -1,0 +1,57 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Для жарки стейков:
+1.  разведите костёр
+2.  возьмите в руки заострёную палку
+3. выложите все стейки на землю(и ничего постороннего больше небыло поблизости)
+4. Всё
+Разрешение экрана 1920Х1080</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+MoveTo 198 183
+Delay 2 s
+LeftDown 1
+Delay 1 s
+MoveTo 728 911
+Delay 1 s
+LeftUp 1
+Delay 1 s
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 1 s
+LeftDown 1
+Delay 47 s
+LeftUp 1
+Delay 64
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+MoveTo 730 925
+Delay 1 s
+LeftDown 1
+Delay 90 ms
+MoveTo 945 365
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>DayZ</Software>
+  </DefaultMacro>
+</Root>

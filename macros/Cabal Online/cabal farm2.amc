@@ -1,0 +1,189 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос предназначен для фрма и просто кача. Атакующие скилы установлены 1,2,3.4, на 0 ставим банку хп,
+автозахват цели по стандарту Z. Так же собирает лут сам, все прописано/(Обновил задержку в скилах, по крайней мере у АС, и ускорил переключение между мобами)</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 200
+KeyUp 29 1
+Delay 200
+KeyDown 30 1
+Delay 200
+KeyUp 30 1
+Delay 200
+KeyDown 39 1
+Delay 200
+KeyUp 39 1
+Delay 200
+KeyDown 44 1
+Delay 200
+KeyUp 44 1
+Delay 200
+KeyDown 30 1
+Delay 200
+KeyUp 30 1
+Delay 200
+KeyDown 44 1
+Delay 200
+KeyUp 44 1
+Delay 200
+KeyDown 39 1
+Delay 200
+KeyUp 39 1
+Delay 200
+KeyDown 31 1
+Delay 200
+KeyUp 31 1
+Delay 200
+KeyDown 44 1
+Delay 200
+KeyUp 44 1
+Delay 200
+KeyDown 29 1
+Delay 64
+KeyUp 29 1
+Delay 64
+KeyDown 39 1
+Delay 200
+KeyUp 39 1
+Delay 200
+KeyDown 32 1
+Delay 200
+KeyUp 32 1
+Delay 200
+KeyDown 44 1
+Delay 200
+KeyUp 44 1
+Delay 200
+KeyDown 39 1
+Delay 200
+KeyUp 39 1
+Delay 200
+KeyDown 33 1
+Delay 200
+KeyUp 33 1
+Delay 200
+KeyDown 44 1
+Delay 200
+KeyUp 44 1
+Delay 200
+KeyDown 39 1
+Delay 200
+KeyUp 39 1
+Delay 200
+KeyDown 30 1
+Delay 200
+KeyUp 30 1
+Delay 200
+KeyDown 44 1
+Delay 200
+KeyUp 44 1
+Delay 200
+KeyDown 39 1
+Delay 200
+KeyUp 39 1
+Delay 200
+KeyDown 31 1
+Delay 200
+KeyUp 31 1
+Delay 200
+KeyDown 44 1
+Delay 200
+KeyUp 44 1
+Delay 200
+KeyDown 39 1
+Delay 200
+KeyUp 39 1
+Delay 200
+KeyDown 32 1
+Delay 200
+KeyUp 32 1
+Delay 200
+KeyDown 44 1
+Delay 200
+KeyUp 44 1
+Delay 200
+KeyDown 39 1
+Delay 200
+KeyUp 39 1
+Delay 200
+KeyDown 33 1
+Delay 200
+KeyUp 33 1
+Delay 200
+KeyDown 44 1
+Delay 200
+KeyUp 44 1
+Delay 200
+KeyDown 39 1
+Delay 200
+KeyUp 39 1
+Delay 200
+KeyDown 29 1
+Delay 200
+KeyUp 29 1
+Delay 200
+KeyDown 30 1
+Delay 200
+KeyUp 30 1
+Delay 200
+KeyDown 44 1
+Delay 200
+KeyUp 44 1
+Delay 200
+KeyDown 39 1
+Delay 200
+KeyUp 39 1
+Delay 200
+KeyDown 31 1
+Delay 200
+KeyUp 31 1
+Delay 200
+KeyDown 44 1
+Delay 200
+KeyUp 44 1
+Delay 200
+KeyDown 39 1
+Delay 200
+KeyUp 39 1
+Delay 200
+KeyDown 32 1
+Delay 200
+KeyUp 32 1
+Delay 200
+KeyDown 44 1
+Delay 200
+KeyUp 44 1
+Delay 200
+KeyDown 39 1
+Delay 200
+KeyUp 39 1
+Delay 200
+KeyDown 33 1
+Delay 200
+KeyUp 33 1
+Delay 200
+KeyDown 44 1
+Delay 200
+KeyUp 44 1
+Delay 200
+KeyDown 39 1
+Delay 200
+KeyUp 39 1
+Delay 200
+KeyDown 29 1
+Delay 64
+KeyUp 29 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Cabal Online</Software>
+  </DefaultMacro>
+</Root>

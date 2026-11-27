@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major>Комфорт </Major>
+    <Description>Макрос для пое на включение аур одной забинженой кнопкой на скрытом тултипе + T для доп слота если используешь 6 аур чтобы убрать т достаточно удалить 4 последние строчки макроса нажать т -&gt; ожидать 40 мс -&gt; ожидать 50 мс -&gt; отпустить t </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//Конвертированный файл макроса 22 октября 2021 19:52:32
+KeyDown 35 1
+Delay 40 ms
+KeyUp 35 1
+Delay 50 ms
+KeyDown 36 1
+Delay 40 ms
+KeyUp 36 1
+Delay 50 ms
+KeyDown 37 1
+Delay 40 ms
+KeyUp 37 1
+Delay 50 ms
+KeyDown 38 1
+Delay 40 ms
+KeyUp 38 1
+Delay 50 ms
+KeyDown 39 1
+Delay 40 ms
+KeyUp 39 1
+Delay 50 ms
+KeyDown 23 1
+Delay 40 ms
+KeyUp 23 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>Path of Exile</Software>
+  </DefaultMacro>
+</Root>

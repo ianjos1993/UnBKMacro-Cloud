@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Поиск сигнальчиков штука время затратная, сократить вы её можете просмотром различных видео и т.п., но есть решение, чтобы постоянно не смотреть, не появились ли сигналы, вы можете юзать макрос, который абсолютно никак не детектится!). Данный макрос предназначен для  мониторов с разрешением 1280x1024(фулл экран). Для работы макроса просто закрепите макрос за любой удобной вам клавишей, а затем просто нажмите кнопку, как будете на месте поиска сигналов. Удачных поисков, кладмены!)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 27 1
+Delay 135 ms
+KeyUp 27 1
+Delay 412 ms
+MoveTo 754 782
+Delay 152 ms
+LeftDown 1
+Delay 112 ms
+LeftUp 1
+Delay 263 ms
+MoveTo 1030 767
+Delay 495 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 11003 ms
+LeftDown 1
+Delay 144 ms
+LeftUp 1
+Delay 2227 ms
+KeyDown 27 1
+Delay 135 ms
+KeyUp 27 1
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

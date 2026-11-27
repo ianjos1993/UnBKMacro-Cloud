@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>Violence District</Major>
+    <Description>Данный макро создан для режима в роблокс по названию Violence District. Он помогает осуществлять технику по нажатии кнопки, после чего персонаж сам начнет ходить задом наперед что может помочь убежать от приследования. Как им пользоваться:
+1) Начните бежать вперед
+2) Спустя недолгое время (2-3 секунды)  нажмите на бинд для активации макроса и персонаж автоматически побежит назад лунной походкой
+3) Готово, наслаждайтесь.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 67 ms
+KeyUp 4 1
+Delay 2 ms
+KeyDown 7 1
+Delay 67 ms
+KeyUp 7 1
+Delay 2 ms
+KeyDown 22 1
+KeyDown 225 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

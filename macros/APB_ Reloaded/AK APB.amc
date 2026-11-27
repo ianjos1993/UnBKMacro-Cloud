@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Двойной выстрел с автомата N-TEC 5, Джокер (аналог) и аналогичных рескинов  без отдачи. Так же подойдет для пистолета обейя.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 101 ms
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 102 ms
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 103 ms
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 105 ms
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>APB Reloaded</Software>
+  </DefaultMacro>
+</Root>

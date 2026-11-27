@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для приготовления наживки, прикормки и приманок, а также автоматического крафта еды/чая/кофе без вашего присутствия, макрос также автоматически прожимает "неудачно" если крафт неудался, что обеспечивает полную автоматизацию. Подходит для разрешения экрана 1920x1080. </Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 916 585
+Delay 163 ms
+LeftDown 1
+LeftUp 1
+Delay 300 ms
+MoveTo 870 994
+Delay 163 ms
+LeftDown 1
+Delay 128 ms
+LeftUp 1
+Delay 40 ms
+GoWhile 1 30002323</Syntax>
+    </KeyDown>
+    <Software>Russian Fishing 4</Software>
+  </DefaultMacro>
+</Root>

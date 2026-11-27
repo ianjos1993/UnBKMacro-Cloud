@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major>Вставка номера задачи</Major>
+    <Description>Макрос вставлеяет из буфера сохраненный номер задания и повторяет действие 3 раза в нужных полях. Применяется для работы по оцифровке учебников в проекте Yang</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 229 1
+Delay 102 ms
+KeyDown 73 1
+Delay 56 ms
+KeyUp 229 1
+Delay 41 ms
+KeyUp 73 1
+Delay 100 ms
+KeyDown 43 1
+Delay 100 ms
+KeyUp 43 1
+Delay 100 ms
+KeyDown 43 1
+Delay 87 ms
+KeyUp 43 1
+Delay 100 ms
+KeyDown 43 1
+Delay 100 ms
+KeyUp 43 1
+Delay 100 ms
+KeyDown 43 1
+Delay 100 ms
+GoWhile 1 4
+KeyDown 229 1
+Delay 102 ms
+KeyDown 73 1
+Delay 56 ms
+KeyUp 229 1</Syntax>
+    </KeyDown>
+    <Software>Яндекс</Software>
+  </DefaultMacro>
+</Root>

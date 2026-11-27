@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major>MINER</Major>
+    <Description>для работы на  руднике на маджесткике все удобно и быстро, ни как не спалится админами, проверенно, так же подходит для лесоруба </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1000 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+GoWhile 1 15</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

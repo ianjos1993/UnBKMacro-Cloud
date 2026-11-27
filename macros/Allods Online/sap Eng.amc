@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>сап Инж14.0 защитные умелки</Major>
+    <Description>забиндены кнопки на критическая масса и энергобарьер и железный занавес-чтобы они юзались по откату и не отвлекатся на них
+5-критическая масса
+6-энергобарьер
+7-железный занавес
+макрос можно использовать и в дд билде.Макрос зацыклен.Рекомендую поставить макрос на определенную кнопку чтобы отключить его при выходе из боя и включать и выключать по ситуации боя или отключить цыкличность</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 35 1
+KeyUp 35 1
+Delay 200 ms
+KeyDown 36 1
+KeyUp 36 1
+Delay 200 ms
+KeyDown 34 1
+KeyUp 34 1
+Delay 1000 ms</Syntax>
+    </KeyDown>
+    <Software>Аллоды онлайн</Software>
+  </DefaultMacro>
+</Root>

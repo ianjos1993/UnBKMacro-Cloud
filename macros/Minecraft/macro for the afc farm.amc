@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major>JoomePu</Major>
+    <Description>Макрос для афк фермы нароста скайблок рпг, понадобится маьтематическая мотыга и ферма по гайду на ютубе, с помощью макроса можно добывать 1 мутант в минуту.
+1.Скачиваем макрос.
+2.Биндим макрос на клавишу.
+3.Заходим в игру. 
+4. Готово</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 45 s
+KeyUp 7 1
+KeyDown 4 1
+Delay 45 s
+KeyUp 4 1
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

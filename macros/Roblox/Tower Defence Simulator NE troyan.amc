@@ -1,0 +1,49 @@
+<Root>
+  <DefaultMacro>
+    <Major>АФК фрам гемов в хард моде TDS на карте Crossroads +- 300 гемов в час</Major>
+    <Description>АФК фрам гемов в хард моде TDS на карте Crossroads.
+ Важно:
+1.) Взять в 3 слот пироманта (подойдет хоть обычный, хоть золотой)
+2.) Поставить курсор в угол перекрестка и на кнопку скипа одновременно.
+Фарм +- 300 гемов в час!!!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 1 s
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 1 s
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 1 s
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 1 s
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 1 s
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 1 s
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 1 s
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Скрипт, создающий эффект стробоскопов для фар. Понравится любителям оперстайла и всего подобного) Выглядит достаточно стильно, при желании можно в редакторе изменить частоту мигания фар. Приятного пользования :)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 15 1
+Delay 38 ms
+KeyUp 15 1
+Delay 38 ms
+KeyDown 15 1
+Delay 38 ms
+KeyUp 15 1
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автокач для ближника. Необходимо назначить кнопку базовой атаки на Е, дальше все стандартно. Настроена атака с руки и сбор лута. Есть небольшая погрешность по позиции, может убегать, но в целом "пастись" на месте будет</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64 ms
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 3 s
+KeyDown 9 1
+Delay 64 ms
+KeyUp 9 1
+Delay 250 ms
+GoWhile 9 10
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Karos Online</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,86 @@
+<Root>
+  <DefaultMacro>
+    <Major>Leroy Combo 7</Major>
+    <Description>Макрос позволяет выполнять stick комбо за Leroy.
+Видео демонстрации работы макроса: https://youtu.be/ITlgjLvpo-M 
+
+Лерой был среди участников турнира Kazuya's King of Iron Fist, став победителем North America Block B, и столкнулся с Джином в первых раундах. Перед их боем Лерой благодарит Джина за то, что он выступил против Kazuya в Нью-Йорке, даже если он не смог остановить его отца. В ходе их боя Лерой чувствует личные страхи Джина перед его собственными силами и падением в ту же порчу, что и его отец, и подталкивает его признать себя своей собственной сущностью вместо этого. Когда Джин начинает принимать себя, он наконец обретает силу, чтобы победить Лероя, который размышляет о том, что сердце Джина, а не его сила, принесли ему победу.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 20.07.2024
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ.
+
+#Leroytekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 7 ms
+KeyDown 22 1
+Delay 8 ms
+KeyDown 74 1
+Delay 7 ms
+KeyDown 76 1
+Delay 272 ms
+KeyUp 76 1
+Delay 88 ms
+KeyUp 22 1
+Delay 23 ms
+KeyUp 4 1
+Delay 8 ms
+KeyDown 76 1
+Delay 39 ms
+KeyUp 76 1
+Delay 712 ms
+KeyDown 7 1
+Delay 87 ms
+KeyUp 7 1
+Delay 112 ms
+KeyDown 7 1
+Delay 55 ms
+KeyUp 7 1
+Delay 56 ms
+KeyDown 7 1
+Delay 87 ms
+KeyUp 7 1
+Delay 71 ms
+KeyDown 76 1
+Delay 88 ms
+KeyUp 76 1
+Delay 1208 ms
+KeyDown 76 1
+Delay 79 ms
+KeyUp 76 1
+Delay 79 ms
+KeyDown 76 1
+Delay 79 ms
+KeyUp 76 1
+Delay 1104 ms
+KeyUp 74 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>super glide that really works!</Major>
+    <Description>this is a real super glide for 144 frames if you are stuggling to find a super glide macro cause they all suck on here get this one I feel you, I was downloading all of them and they all sucked so I changed the best one to work, the delay was off by just a few ms, but I got the official nesicarry ms between jump and crouch so I could fix this. 
+
+bind to a mouse side button and click that as you would a super glide crouch, you acan also bind it to you crouch button but that would be more intrusive. 
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 6 ms
+KeyDown 224 1
+Delay 50 ms
+KeyUp 44 1
+Delay 50 ms
+KeyUp 224 1
+Delay 115 ms
+KeyUp 44 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

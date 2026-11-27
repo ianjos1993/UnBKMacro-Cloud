@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос преднозначен для любого из видов дробовиков.
+Макрос прокручивает не 3-1 по стандарту а 3-q что делает смену намного быстрее.
+Прокрутка стала намного лучше.
+С радостью качайте мой обновлённый макрос на дробь!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 20
+LeftDown 1
+Delay 20
+LeftUp 1
+KeyDown 32 1
+Delay 20
+KeyUp 32 1
+Delay 20
+KeyDown 20 1
+Delay 20
+KeyUp 20 1
+Delay 20</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

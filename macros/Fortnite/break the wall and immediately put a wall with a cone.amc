@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Бинды:
+1. Кирка 'F'
+2 Стена 'Z'
+3. Конус 'V'
+Инструкиця:
+1. чтобы бинд работал правильно надо: чтобы у стенки было 75-90 процетов здоровья,после того как стена сломается поставится сначало конус а потом уже ваша стена.
+2.Бинд автоматически берёт в руки кирку, ломает стену, ставит конус и берёт оружие в первом слоте.
+</Description>
+    <Comment>Данный макрос 'Эксклюзивный' ведь на форуме такого НЕТ!  Буду признателен если макрос тебе понравится! По всем вопросам в тг-@ApelsinYT</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 0 ms
+KeyUp 9 1
+Delay 450 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 128 ms
+KeyDown 25 1
+Delay 45 ms
+KeyUp 25 1
+Delay 9 ms
+LeftDown 1
+Delay 60 ms
+LeftUp 1
+Delay 9 ms
+KeyDown 29 1
+Delay 9 ms
+KeyUp 29 1
+Delay 5 ms
+LeftDown 1
+Delay 9 ms
+LeftUp 1
+Delay 9 ms
+KeyDown 30 1
+Delay 0 ms
+KeyUp 30 1
+Delay 0 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major>Перезагрузка страницы (10сек)</Major>
+    <Description>Просто макрос для обновления страницы браузера с целью уйти в АФК и вовремя увидеть появление новых заданий в Янге</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 62 1
+Delay 64 ms
+KeyUp 62 1
+Delay 10000 ms</Syntax>
+    </KeyDown>
+    <Software>Яндекс</Software>
+  </DefaultMacro>
+</Root>

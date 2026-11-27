@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>You can use this macro to sell nether wart on the serveur play.vinlandmc.fr
+
+To use the  macro you need a screen resolution of 1920x1080 and do /shop befor actiivate it</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 45 1
+Delay 64 ms
+KeyUp 45 1
+Delay 64 ms
+MoveTo 920 445
+Delay 50 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+MoveTo 885 445
+Delay 300 ms
+KeyDown 225 1
+Delay 50 ms
+RightDown 1
+Delay 50 ms
+KeyUp 225 1
+Delay 20 ms
+RightUp 1
+Delay 200 ms
+KeyDown 41 1
+Delay 10 ms
+KeyUp 41 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

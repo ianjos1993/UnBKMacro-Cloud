@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major>R301 recoil mitigation</Major>
+    <Description>Recoil mitigation for Assault riffles. Also works well with LMG
+
+MOUSE DPI 800
+SENSITIVITY 3.00
+RESOLUTION 1920x1080
+
+Bind to LMB with operation mode - while holding 
+
+Good luck and I hope it works, please leave it a review</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR -1 3
+Delay 22 ms
+MoveR -1 3
+Delay 25 ms
+MoveR -1 3
+Delay 13 ms
+MoveR -3 2
+MoveR -1 3
+Delay 13 ms
+MoveR -1 3
+Delay 13 ms
+MoveR -1 3
+Delay 13 ms
+MoveR -3 2
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

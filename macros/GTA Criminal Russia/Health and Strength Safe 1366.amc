@@ -1,0 +1,70 @@
+<Root>
+  <DefaultMacro>
+    <Major>Фитнес/Тренажер</Major>
+    <Description>Макрос все нажимает сам, Пробел и Кнопки. Встать на тренажер и нажать заданную кнопку. Задержки сделанны безопасно не кикает не банит. Разрешение 1366x766. Камеру отвести вниз на пол. Ставить на клавишу и "До повторного нажатия". Полный Экран. С нуля до ста где-то за часов 5-6 макроса. Дальше раз в неделю минут на десять ставить. Делал полностью сам для себя!
+Cherepashka_Fawwkes
+Обновление под ласт версию от 24.11.22</Description>
+    <Comment>2 скрипт на разрешение 1366х768
+Обновление под ласт версию от 24.11.22</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//Спасибо что использавали макрос от Cherepashka_Fawwkes.
+//Обновление под ласт версию от 24.11.22
+Delay 200 300 ms
+GoColor 6 1 0,0,160 255,255,255 1 790 540
+Goto 12
+Delay 50 200 ms
+KeyDown 20 1
+Delay 50 125 ms
+KeyUp 20 1
+Delay 50 125 ms
+Goto 3
+GoColor 14 1 0,0,160 255,255,255 1 918 456
+Goto 20
+Delay 50 200 ms
+KeyDown 26 1
+Delay 50 125 ms
+KeyUp 26 1
+Delay 50 125 ms
+Goto 3
+GoColor 22 1 0,0,160 255,255,255 1 1203 890
+Goto 28
+Delay 50 200 ms
+KeyDown 8 1
+Delay 50 125 ms
+KeyUp 8 1
+Delay 50 125 ms
+Goto 3
+GoColor 30 1 0,0,160 255,255,255 1 1200 879
+Goto 36
+Delay 50 200 ms
+KeyDown 4 1
+Delay 50 125 ms
+KeyUp 4 1
+Delay 50 125 ms
+Goto 3
+GoColor 38 1 0,0,160 255,255,255 1 926 874
+Goto 44
+Delay 50 200 ms
+KeyDown 22 1
+Delay 50 125 ms
+KeyUp 22 1
+Delay 50 125 ms
+Goto 3
+GoColor 46 1 0,0,160 255,255,255 1 989 602
+Goto 3
+Delay 50 200 ms
+KeyDown 7 1
+Delay 50 125 ms
+KeyUp 7 1
+Delay 50 125 ms
+Goto 3</Syntax>
+    </KeyDown>
+    <Software>Malinovka RP</Software>
+  </DefaultMacro>
+</Root>

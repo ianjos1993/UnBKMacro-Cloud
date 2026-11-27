@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Скрипт для карт-фармилок XP AFK в Fortnite. Раз в 5 минут имитирует движение влево-вправо, помогая избежать "остановки" в накоплении опыта. Игра не видит вас как AFK. 
+
+При желании можно поменять время повтора цикла, изменив значение в последней строке.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 276 ms
+KeyDown 4 1
+Delay 1437 ms
+KeyUp 4 1
+Delay 22 ms
+KeyDown 7 1
+Delay 1218 ms
+KeyDown 4 1
+Delay 37 ms
+KeyUp 7 1
+Delay 1474 ms
+KeyUp 4 1
+Delay 0 ms
+KeyDown 7 1
+Delay 1104 ms
+KeyUp 7 1
+Delay 5 min
+GoWhile 1 1000</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

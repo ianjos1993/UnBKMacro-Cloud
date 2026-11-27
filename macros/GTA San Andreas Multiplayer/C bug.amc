@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос автоматически выполняет C bug по нажатии клавиши с автоматизацией перезарядки. Как оно работает? Вы ставите на клавишу макрос,после стрельбы он автоматически перезарядит ваше оружие багом. Баг: Нажатие E и Q
+Да,макрос простинький,но зато довольно хорошо автоматизирует C bug
+Настройки: не требуются
+
+Рекомендации: 
+1)Бинд на клавишу [R]
+2) 60+ ФПС
+</Description>
+    <Comment>Макрос выполняет +С по Зажатию клавиши,вы ставите макрос на клавишу и режим работы "Выполнять работу пока нажата клавиша" или как там.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 145 ms
+LeftDown 1
+Delay 100 ms
+KeyDown 6 1
+Delay 3 ms
+RightUp 1
+Delay 3 ms
+LeftUp 1
+Delay 3 ms
+KeyUp 6 1
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

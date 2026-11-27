@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major>Восстановление маны</Major>
+    <Description>Скрипт автоматически восстанавливает ману при понижеении ниже 50% Мана должна стоять на кнопочке 0
+Буду благодарна на Баллы ^^
+Разрешение (В Окне) 1920х1080</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 5 1 49,107,181 255,255,255 1 54 56 967 409 1 0
+KeyDown 39 1
+Delay 64
+KeyUp 39 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Dragon age inquisition</Software>
+  </DefaultMacro>
+</Root>

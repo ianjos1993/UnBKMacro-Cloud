@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>убийца</Major>
+    <Description>макрос для использования контратаки+цепь уклонений+разворот на одну кнопку. на кнопку T можно выставить разворот, на кнопку ] цепь уклонений а на кнопку f9 контратака </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+KeyUp 23 1
+Delay 60 ms
+KeyDown 66 1
+KeyUp 66 1
+Delay 60 ms
+KeyDown 48 1
+KeyUp 48 1</Syntax>
+    </KeyDown>
+    <Software>AION</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматически кидает перл
+Макрос очень полезный тк если у вас стрессовая ситуция то вы можете перепкутать нопки или вовсе запутаться
+Перед использованием измените цифру 6 под себя,в моей раскладке 6-перл</Description>
+    <Comment>.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 35 1
+Delay 33
+KeyUp 35 1
+Delay 33
+RightDown 1
+Delay 33
+RightUp 1
+Delay 33</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

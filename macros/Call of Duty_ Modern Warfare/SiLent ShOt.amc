@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>A actual working silent shot for 2019. Works good with the AX50 (i havent tested with the HDR) if you wanna use it go wild. Will make you seem a little more cool than you were before. Have fun with it.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 40 ms
+LeftUp 1
+Delay 40 ms
+MiddleDown 1
+Delay 40 ms
+WheelDown 1
+Delay 40 ms
+MiddleUp 1</Syntax>
+    </KeyDown>
+    <Software>Call of Duty: Modern Warfare (2019)</Software>
+  </DefaultMacro>
+</Root>

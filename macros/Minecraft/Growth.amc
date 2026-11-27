@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major>Minecraft hypixel skyblock wart</Major>
+    <Description>необходимо построить ферму из 3 плотов, в конце 1 цикла выставить то, сколько проходок в ферме, скорость необходимо выставить на 162, смотреть ровно на 0/90/180/270 градусов</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 7 1
+Delay 100 ms
+KeyDown 26 1
+Delay 58000 ms
+KeyUp 7 1
+KeyUp 26 1
+KeyDown 4 1
+Delay 30 ms
+KeyUp 4 1
+KeyDown 22 1
+Delay 1300 ms
+KeyUp 22 1
+KeyDown 4 1
+Delay 100 ms
+KeyDown 26 1
+Delay 58000 ms
+KeyUp 26 1
+KeyUp 4 1
+KeyDown 7 1
+Delay 30 ms
+KeyUp 7 1
+KeyDown 22 1
+Delay 1300 ms
+KeyUp 22 1
+GoWhile 1 5
+KeyDown 26 1
+Delay 9000 ms
+KeyUp 26 1
+Delay 150 ms
+GoWhile 1 5000</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

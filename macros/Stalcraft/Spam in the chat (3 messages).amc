@@ -1,0 +1,83 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос чтобы спамить 3 сообщения в сталкрафте. Делает перерывы похожие на человеческие (не детектится). Для использования необходимо перебиндить кнопку открытия чата на среднюю кнопку мыши (СКМ). Далее пишите сообщение которое необходимо спамить. Пример: Набор в клан Древние Русы
+Далее активируете макрос. Он будет ставить точку и повторять это действие 3 раза, после чего вернётся к 1 варианту написанного, засчёт чего он может работать весь день/ночь</Description>
+    <Comment>Сам такой использую!</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MiddleDown 1
+Delay 120 ms
+MiddleUp 1
+Delay 872 ms
+KeyDown 82 1
+Delay 109 ms
+KeyUp 82 1
+Delay 614 ms
+KeyDown 88 1
+Delay 127 ms
+KeyUp 88 1
+Delay 540 ms
+MiddleDown 1
+Delay 184 ms
+MiddleUp 1
+Delay 848 ms
+KeyDown 82 1
+Delay 109 ms
+KeyUp 82 1
+Delay 552 ms
+KeyDown 56 1
+Delay 130 ms
+KeyUp 56 1
+Delay 581 ms
+KeyDown 88 1
+Delay 133 ms
+KeyUp 88 1
+Delay 795 ms
+MiddleDown 1
+Delay 159 ms
+MiddleUp 1
+Delay 663 ms
+KeyDown 82 1
+Delay 126 ms
+KeyUp 82 1
+Delay 543 ms
+KeyDown 56 1
+Delay 124 ms
+KeyUp 56 1
+Delay 630 ms
+KeyDown 88 1
+Delay 138 ms
+KeyUp 88 1
+Delay 596 ms
+MiddleDown 1
+Delay 150 ms
+MiddleUp 1
+Delay 422 ms
+KeyDown 82 1
+Delay 124 ms
+KeyUp 82 1
+Delay 270 ms
+KeyDown 82 1
+Delay 130 ms
+KeyUp 82 1
+Delay 277 ms
+KeyDown 82 1
+Delay 124 ms
+KeyUp 82 1
+Delay 613 ms
+KeyDown 88 1
+Delay 146 ms
+KeyUp 88 1
+Delay 1531 ms
+Delay 31000 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

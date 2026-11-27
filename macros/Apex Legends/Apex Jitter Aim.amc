@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major>Apex Jitter Aim for all weapons</Major>
+    <Description>Крутит прицел по часовой стрелке, за счет этого нивелируется разброс, пули летят в центр. Ставим макрос на ЛКМ, режим - пока нажата кнопка.
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 1 1
+Delay 10 ms
+MoveR 1 -1
+Delay 10 ms
+MoveR -1 -1
+Delay 10 ms
+MoveR -1 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

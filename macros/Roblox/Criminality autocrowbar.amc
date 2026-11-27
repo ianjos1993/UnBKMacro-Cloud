@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major>Auto crowbar (open safe with crowbar for you)</Major>
+    <Description>Чтоб использовать макрос нужен лом в руках, после подойти к сейфу или двери и после использовать макрос.
+Макрос сам за вас откроет сейф, и вам не нужно будет спамить F на ломе,</Description>
+    <Comment>Макрос чисто для ленивцев (Criminality)</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 104 ms
+KeyUp 9 1
+Delay 2042 ms
+KeyDown 9 1
+Delay 119 ms
+KeyUp 9 1
+Delay 2978 ms
+KeyDown 9 1
+Delay 110 ms
+KeyUp 9 1
+Delay 3826 ms
+KeyDown 9 1
+Delay 100 ms
+KeyUp 9 1
+Delay 4037 ms
+KeyDown 9 1
+Delay 151 ms
+KeyUp 9 1
+Delay 223 ms
+KeyDown 9 1
+Delay 110 ms
+KeyUp 9 1
+Delay 1214 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

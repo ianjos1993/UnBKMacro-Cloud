@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major>Пистолет Обейа FBW</Major>
+    <Description>Не большой макрос для пистолета Обейа, реализованна комфортная автострельба без потери кучности при стрельбе, и минимальный вертикальный контроль отдачи.
+
+Макрос писался под разрешение 2980х1080, чувствительность прицела 0.89. DPI 1142
+
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 1 -2
+LeftUp 1
+MoveR 3 3
+Delay 0 64 ms
+LeftDown 1</Syntax>
+    </KeyDown>
+    <Software>APB Reloaded</Software>
+  </DefaultMacro>
+</Root>

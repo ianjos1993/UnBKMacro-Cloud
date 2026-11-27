@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major>One photo viewer</Major>
+    <Description>Выравнивание отображения фото в приложении через повторную ротацию и пересохраниение в OnePhotoViewer с корректным углом фото в пространстве</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1525 787
+LeftDown 1
+LeftUp 1
+Delay 160 ms
+KeyDown 228 1
+Delay 64 ms
+KeyDown 79 1
+Delay 159 ms
+KeyUp 79 1
+Delay 165 ms
+KeyDown 80 1
+Delay 169 ms
+KeyUp 80 1
+Delay 140 ms
+KeyDown 22 1
+Delay 137 ms
+KeyUp 22 1
+Delay 42 ms
+KeyUp 228 1
+Delay 150 ms
+KeyDown 88 1
+Delay 124 ms
+KeyUp 88 1
+Delay 129 ms
+KeyDown 88 1
+Delay 124 ms
+KeyUp 88 1</Syntax>
+    </KeyDown>
+    <Software>Другие</Software>
+  </DefaultMacro>
+</Root>

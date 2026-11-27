@@ -1,0 +1,81 @@
+<Root>
+  <DefaultMacro>
+    <Major>Clears all 30 slots in your market in seconds. 1920 x 1080 FHD</Major>
+    <Description>With this macro you can empty your market on GrandRP without any effort. The macro only needs 20 seconds to empty all 30 slots.
+
+If you only want to empty rows 1, 2 and 5 for example, you can insert a “Go to” before the start of row 3 and skip to line 46, effectively skipping rows 3 and 4.
+
+Depending on whether your system is strong and therefore has a fast response time or not, you can select all lines in the macro accordingly and change the time delays to meet your requirements.
+
+The only working resolution: 1920  x 1080 FHD
+
+I have also published a 2560 x 1440 WQHD version.
+
+If you need help or have any suggestions on which macro I should create next, please let me know.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//1st row
+MoveTo 1045 302
+Delay 164 ms
+LeftDown 1
+Delay 164 ms
+MoveR -1300 120
+Delay 164 ms
+LeftUp 1
+Delay 164 ms
+MoveR 1413 -120
+GoWhile 3 6
+//2nd row
+MoveTo 1045 388
+Delay 164 ms
+LeftDown 1
+Delay 164 ms
+MoveR -1300 120
+Delay 164 ms
+LeftUp 1
+Delay 164 ms
+MoveR 1413 -120
+GoWhile 14 6
+//3rd row
+MoveTo 1045 468
+Delay 164 ms
+LeftDown 1
+Delay 164 ms
+MoveR -1300 120
+Delay 164 ms
+LeftUp 1
+Delay 164 ms
+MoveR 1413 -120
+GoWhile 25 6
+//4th row
+MoveTo 1045 556
+Delay 164 ms
+LeftDown 1
+Delay 164 ms
+MoveR -1300 120
+Delay 164 ms
+LeftUp 1
+Delay 164 ms
+MoveR 1413 -120
+GoWhile 36 6
+//5th row
+MoveTo 1045 631
+Delay 164 ms
+LeftDown 1
+Delay 164 ms
+MoveR -1300 120
+Delay 164 ms
+LeftUp 1
+Delay 164 ms
+MoveR 1413 -120
+GoWhile 47 6</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

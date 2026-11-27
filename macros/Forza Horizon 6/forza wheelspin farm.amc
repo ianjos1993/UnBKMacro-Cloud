@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Get the 1998 Subaru 22B-STI. Max out the car mastery. Tune code 140242027. Use share code 890169683 in events lab. 86K for the car. 30 sp to get a super wheel spin. use the macro after starting the race just before you have to drive. Set it to repeat.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 30000 31000 ms
+KeyUp 26 1
+Delay 7000 8000 ms
+KeyDown 27 1
+Delay 80 100 ms
+KeyUp 27 1
+Delay 1000 1400 ms
+KeyDown 88 1
+Delay 60 100 ms
+KeyUp 88 1
+Delay 10000 13000 ms
+KeyDown 88 1
+Delay 60 100 ms
+KeyUp 88 1
+Delay 2000 2400 ms</Syntax>
+    </KeyDown>
+    <Software>Forza Horizon 6</Software>
+  </DefaultMacro>
+</Root>

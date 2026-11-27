@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Прокаст Энигмы с бкб, шивой и блинком. (Включено быстрое применение способностей и предметов)
+1. Включается бкб на нижнее прокручивание мыши
+2. На кнопке C - Шива
+3. После делается блинк на Пробел
+4. Кастуется 3-й и 4-й скил на E и R
+Перед использованием макроса лучше всего за мгновение остановить все действия персонажа кнопкой S, чтобы прокаст сработал корректно.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>WheelDown 1
+Delay 64
+KeyDown 6 1
+Delay 64
+KeyUp 6 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,131 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для добычу наростов работает на всех серверах в том же чесле HYPIXEL, и множество других проектов
+(вертикальная ферма)(ВАЖНО)
+Инструкция, для того что-бы воспользоватся этим макросом.
+1.Установить скорость 125
+2.Построить вертикальную ферму 
+3. Расстояние должно быть не более 161го блока
+4.Встаем в самый верх правый угол и активируем макрос
+Макрос рубит, меняет направление,удерживает игрока на платформе</Description>
+    <Comment> </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 31 ms
+KeyDown 26 1
+Delay 49 ms
+LeftDown 1
+Delay 390 ms
+KeyUp 26 1
+Delay 2560 ms
+KeyDown 26 1
+Delay 128 ms
+KeyUp 26 1
+Delay 3375 ms
+KeyDown 26 1
+Delay 168 ms
+KeyUp 26 1
+Delay 2080 ms
+KeyDown 26 1
+Delay 135 ms
+KeyUp 26 1
+Delay 2648 ms
+KeyDown 26 1
+Delay 95 ms
+KeyUp 26 1
+Delay 3215 ms
+KeyDown 26 1
+Delay 143 ms
+KeyUp 26 1
+Delay 2400 ms
+KeyDown 26 1
+Delay 120 ms
+KeyUp 26 1
+Delay 2431 ms
+KeyDown 26 1
+Delay 159 ms
+KeyUp 26 1
+Delay 2096 ms
+KeyDown 26 1
+Delay 167 ms
+KeyUp 26 1
+Delay 2631 ms
+KeyDown 26 1
+Delay 152 ms
+KeyUp 26 1
+Delay 2887 ms
+KeyDown 26 1
+Delay 136 ms
+KeyUp 26 1
+Delay 2328 ms
+KeyUp 4 1
+Delay 39 ms
+KeyDown 7 1
+Delay 1263 ms
+KeyDown 26 1
+Delay 127 ms
+KeyUp 26 1
+Delay 6760 ms
+KeyDown 26 1
+Delay 119 ms
+KeyUp 26 1
+Delay 1775 ms
+KeyDown 26 1
+Delay 136 ms
+KeyUp 26 1
+Delay 1792 ms
+KeyDown 26 1
+Delay 135 ms
+KeyUp 26 1
+Delay 2016 ms
+KeyDown 26 1
+Delay 151 ms
+KeyUp 26 1
+Delay 912 ms
+KeyDown 26 1
+Delay 159 ms
+KeyUp 26 1
+Delay 1304 ms
+KeyDown 26 1
+Delay 152 ms
+KeyUp 26 1
+Delay 1071 ms
+KeyDown 26 1
+Delay 175 ms
+KeyUp 26 1
+Delay 1768 ms
+KeyDown 26 1
+Delay 207 ms
+KeyUp 26 1
+Delay 1112 ms
+KeyDown 26 1
+Delay 192 ms
+KeyUp 26 1
+Delay 1118 ms
+KeyDown 26 1
+Delay 167 ms
+KeyUp 26 1
+Delay 2935 ms
+KeyDown 26 1
+Delay 104 ms
+KeyUp 26 1
+Delay 4336 ms
+KeyDown 26 1
+Delay 135 ms
+KeyUp 26 1
+Delay 104 ms
+KeyUp 7 1
+Delay 68 ms
+LeftUp 1
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>minecraft</Software>
+  </DefaultMacro>
+</Root>

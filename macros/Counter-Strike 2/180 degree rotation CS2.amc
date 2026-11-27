@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major>YasnoOneTap</Major>
+    <Description>Разворот модели игрока на 180 градусов подходит для DM  матчей 
+Разрешение экрана 1024х768 
+Сенса  2.5  DPI  800
+Устонавливать  на F или на любую  вам удобную  клавишу!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 15 ms
+MoveR 4000 0
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>CS2</Software>
+  </DefaultMacro>
+</Root>

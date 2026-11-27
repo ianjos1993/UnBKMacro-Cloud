@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major>Plateform dash dancing</Major>
+    <Description>Master one of the hardest movement in brawlhalla plateforme dash dancing :)
+This is a macro specifically designed to perform dash dancing on a platform in Brawlhalla. It allows for quick left-right dashes in a smooth and precise manner, simulating a human-like movement that’s hard for opponents to read. This macro optimizes spacing, mobility, and psychological pressure during combat, while maintaining full control of the character. Ideal for baiting and feints, it’s especially effective on small platforms where every movement matters. Easy to activate, it runs in a loop as long as a key is held. Note: its use may be restricted in official competitive settings.
+
+
+
+
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 50 ms
+KeyDown 15 1
+Delay 50 ms
+KeyUp 15 1
+Delay 50 ms
+KeyUp 7 1
+Delay 50 ms
+KeyDown 20 1
+Delay 50 ms
+KeyDown 15 1
+Delay 50 ms
+KeyUp 15 1
+Delay 50 ms
+KeyUp 20 1
+Delay 50 ms
+GoWhile 1 15</Syntax>
+    </KeyDown>
+    <Software>brawlhalla</Software>
+  </DefaultMacro>
+</Root>

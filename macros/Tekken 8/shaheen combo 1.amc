@@ -1,0 +1,81 @@
+<Root>
+  <DefaultMacro>
+    <Major>Shaheen combo 1</Major>
+    <Description>Макрос позволяет выполнять комбо за Shaheen с лаунчера.
+Видео демонстрации работы макроса: https://youtu.be/pUEzBpUdPFQ
+
+Шахин научился искусству боя с юных лет у своего отца. Однажды, тринадцать лет назад, Шахин спас мальчика своего возраста от покушения. Этот мальчик, Салим , станет его лучшим другом на всю жизнь. После спасения Салим сказал Шахину, что ему следует использовать свои навыки, чтобы защитить других. Он взял Шахина за руки и попросил быть его телохранителем. Шахина приветствовали в доме Салима, который был известной семьей в этом районе.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+X - HEAT
+
+Тестирование макроса проводились на последнем патче игры на 23.04.2024
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи и помощи по макросам - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#shaheentekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 4 ms
+KeyDown 26 1
+Delay 16 ms
+KeyDown 76 1
+Delay 144 ms
+KeyUp 76 1
+Delay 63 ms
+KeyUp 7 1
+Delay 16 ms
+KeyUp 26 1
+Delay 536 ms
+KeyDown 22 1
+Delay 7 ms
+KeyDown 4 1
+Delay 24 ms
+KeyDown 76 1
+Delay 136 ms
+KeyDown 77 1
+Delay 31 ms
+KeyUp 76 1
+Delay 47 ms
+KeyUp 22 1
+Delay 23 ms
+KeyUp 4 1
+Delay 15 ms
+KeyUp 77 1
+Delay 1079 ms
+KeyDown 7 1
+Delay 64 ms
+KeyUp 7 1
+Delay 64 ms
+KeyDown 7 1
+Delay 143 ms
+KeyDown 76 1
+Delay 335 ms
+KeyUp 76 1
+Delay 80 ms
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

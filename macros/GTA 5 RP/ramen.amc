@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>автоготовка рамена. подходите к плите, в инвентарь кладете по 10 шт каждого ингридиента. идеально работает с разрешением 1920 на 1080.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1163 289
+RightDown 1
+RightUp 1
+MoveTo 1246 296
+RightDown 1
+RightUp 1
+MoveTo 1081 379
+RightDown 1
+RightUp 1
+MoveTo 1162 378
+RightDown 1
+RightUp 1
+MoveTo 926 583
+RightDown 1
+RightUp 1
+MoveTo 759 671
+Delay 100 ms
+LeftDown 1
+LeftUp 1
+Delay 5500 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

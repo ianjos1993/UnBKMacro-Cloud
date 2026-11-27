@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Постоянно тыкает пробел и лкм в указанной точке, подходит для работы рыбалка, играю на 16 серве накиньте на счёт 5802 пж)
+фармить можно в час по 150к+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 55 ms
+KeyUp 44 1
+Delay 55 ms
+MoveTo 895 653
+Delay 55 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 55 ms
+KeyDown 44 1
+Delay 55 ms
+KeyUp 44 1
+Delay 55 ms
+MoveTo 895 653
+Delay 55 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 55 ms
+KeyDown 44 1
+Delay 55 ms
+KeyUp 44 1
+Delay 55 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 55 ms
+MoveTo 895 653
+Delay 55 ms
+KeyDown 44 1
+Delay 55 ms
+KeyUp 44 1
+Delay 55 ms
+GoWhile 1 11111111</Syntax>
+    </KeyDown>
+    <Software>Radmir</Software>
+  </DefaultMacro>
+</Root>

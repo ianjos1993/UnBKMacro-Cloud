@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>1,0</Major>
+    <Description>Уникальный тактический макрос для Violence District. Выполняет серию действий для уклонения от убийцы: бег назад (S+Shift), резкий поворот в сторону (D), приседание (Ctrl) и прыжок (Space). Помогает уйти от погони, сбить с толку преследователя и выиграть время. Работает на любой клавиатуре и мыши, не требует дополнительной настройки.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+KeyDown 225 1
+Delay 1500 ms
+KeyUp 225 1
+KeyDown 7 1
+Delay 300 ms
+KeyUp 7 1
+KeyUp 22 1
+KeyDown 224 1
+Delay 800 ms
+KeyUp 224 1
+KeyDown 44 1
+Delay 100 ms
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

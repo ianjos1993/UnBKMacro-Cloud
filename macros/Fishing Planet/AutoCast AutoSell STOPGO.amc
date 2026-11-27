@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>The macro is Auto casting at a lake with spinning method
+If its not casting at max distance - change line #5
+For autosell work well use 1920x1080 resolution
+</Description>
+    <Comment>The best one at this moment at runkey</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+LeftDown 1
+Delay 35 ms
+KeyUp 44 1
+Delay 2000 ms
+LeftUp 1
+Delay 60 ms
+Delay 80 ms
+KeyDown 44 1
+Delay 40 ms
+KeyUp 44 1
+Delay 40 ms
+GoColor 14 1 240,158,94 240,159,97 1 1227 930 441 151 1 0
+MoveTo 1107 958
+LeftDown 1</Syntax>
+    </KeyDown>
+    <Software>Fishing Planet</Software>
+  </DefaultMacro>
+</Root>

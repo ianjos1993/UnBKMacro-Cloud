@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Подходит под разрешение 1920х1080. Макрос для ловли контейнеров на стресс-тест сервере MTA Province. Запускать макрос нужно в тот момент, когда только-только появилось поле для ввода суммы(сразу же после таймера). Работает быстро, всем удачной ловли :)
+UPD2: Еще немного покопавшись, сделал ввод суммы быстрее, при этом нажатие курсора на кнопку определяется корректно, не багается, нету недоработки из-за слишком быстрого срабатывания, когда цифры выделяются. Спокойно можно забирать 90% контейнеров, если использовать макрос вовремя.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 5 ms
+LeftUp 1
+KeyDown 38 1
+Delay 1 ms
+KeyUp 38 1
+GoWhile 4 8
+Delay 8 ms
+MoveTo 905 600
+Delay 5 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

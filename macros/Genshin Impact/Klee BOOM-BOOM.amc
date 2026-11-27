@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для Кли. Классная связка удар+заряженная атака. Аннигиляция врагов гарантированна!
+
+Инструкция:
+1. Назначьте макрос на любую удобную клавишу.
+2. Нажмите клавишу, чтобы начать огонь.
+3. Отпустите клавишу, чтобы остановить.
+
+P.S.
+1. Изумительно работает с Историей Додоко.
+2. Тестил на разном FPS, лучше работает на 50-60.
+3. Как закончится стамина рекомендую выключить макрос и немного подождать.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+LeftUp 1
+Delay 64 ms
+LeftDown 1
+Delay 300 ms
+LeftUp 1
+Delay 64 ms</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Infinite Gas (Multiplier stays active) 
+
+This Macro is for use with AFK events in Forza Horizon 5. It provides Infinite gas and will keep the skill point multiplyer active.
+
+Assign macro to desired key
+Start afk event
+Press assigned key
+Then let it do its thing.
+
+
+
+
+enjoy :)</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+KeyDown 49 1
+Delay 64
+KeyUp 49 1
+KeyUp 26 1
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Forza Horizon 5</Software>
+  </DefaultMacro>
+</Root>

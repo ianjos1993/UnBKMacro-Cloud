@@ -1,0 +1,87 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Авто фарм расчитанный на 3 ячейки в подвале и 1000+ хранилище. Играть нужно на полный экран, не двигать курсор и стоять на месте</Description>
+    <Comment>Играть нужно на полный экран, не двигать курсор и стоять на месте</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 687 ms
+KeyDown 7 1
+Delay 5551 ms
+KeyUp 7 1
+Delay 192 ms
+KeyDown 4 1
+Delay 5471 ms
+KeyUp 4 1
+Delay 471 ms
+GoColor 1 0 197,234,244 255,255,255 1 1740 591
+Delay 1901 ms
+KeyDown 4 1
+Delay 8327 ms
+KeyUp 4 1
+Delay 808 ms
+KeyDown 7 1
+Delay 1303 ms
+KeyUp 7 1
+Delay 336 ms
+KeyDown 26 1
+Delay 1007 ms
+KeyUp 26 1
+Delay 615 ms
+KeyDown 8 1
+Delay 88 ms
+KeyUp 8 1
+Delay 1995 ms
+MoveTo 993 292
+Delay 818 ms
+LeftDown 1
+Delay 106 ms
+LeftUp 1
+Delay 1132 ms
+LeftDown 1
+Delay 94 ms
+LeftUp 1
+Delay 846 ms
+LeftDown 1
+Delay 94 ms
+LeftUp 1
+Delay 882 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 885 ms
+LeftDown 1
+Delay 99 ms
+LeftUp 1
+Delay 2786 ms
+MoveTo 1011 74
+Delay 1308 ms
+LeftDown 1
+Delay 128 ms
+LeftUp 1
+Delay 1475 ms
+KeyDown 22 1
+Delay 927 ms
+KeyUp 22 1
+Delay 448 ms
+KeyDown 4 1
+Delay 439 ms
+KeyUp 4 1
+Delay 391 ms
+KeyDown 22 1
+Delay 64 ms
+KeyUp 22 1
+Delay 392 ms
+KeyDown 4 1
+Delay 3255 ms
+KeyUp 4 1
+GoWhile 1 5</Syntax>
+    </KeyDown>
+    <Software>Roblox/making memes in your basement at 3 AM tycoon</Software>
+  </DefaultMacro>
+</Root>

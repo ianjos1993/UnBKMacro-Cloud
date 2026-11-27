@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Это простейший скрипт для GTA5RP, этот скрипт называется ручник потому что работает как ручник..... 
+
+Если вы не знали что есть такой баг на GTA5RP, если на высокой скорости нажать alt+F4, потом нажать Esc 
+То вы быстро остановитесь на машине 
+
+Этот скрипт работает по той же логике, только делает он это гораздо быстрее 
+
+Просто биндите его на любую клавишу и всё</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 226 1
+Delay 64
+KeyDown 61 1
+Delay 64
+KeyUp 226 1
+KeyUp 61 1</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

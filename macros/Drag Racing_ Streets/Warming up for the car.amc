@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>включение нитро и прогрев двигателя и резины  автомобиля в начале гонки кнопки на Blue stacks W- педаль газ S - педаль тормаза и F -нитро</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyUp 9 1
+Delay 64
+Delay 300 ms
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 4 s
+KeyDown 22 1
+KeyDown 26 1
+Delay 2 s
+KeyUp 26 1
+Delay 240 ms
+KeyDown 26 1
+Delay 600 ms
+KeyUp 26 1
+Delay 240 ms
+KeyDown 26 1
+Delay 600 ms
+KeyUp 26 1
+Delay 240 ms
+KeyDown 26 1
+Delay 600 ms
+KeyUp 26 1
+Delay 240 ms
+KeyDown 26 1
+Delay 550 ms
+KeyUp 26 1
+Delay 240 ms
+KeyUp 22 1
+Delay 300 ms
+KeyDown 26 1
+Delay 2 s
+KeyUp 26 1
+Delay 64
+KeyDown 26 1</Syntax>
+    </KeyDown>
+    <Software>Drag Racing: Уличные гонки</Software>
+  </DefaultMacro>
+</Root>

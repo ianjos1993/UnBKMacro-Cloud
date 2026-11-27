@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major>GTA5 RP Rage mp</Major>
+    <Description>Автоматически нажимает кнопки A и D. При этом определяет сам какую нажать и не допускает перегрузки.
+Разрешение экрана 1920х1080 в полноэкранном режиме. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 3 1 255,255,255 255,255,255 1 1057 848 686 233 1 0
+GoColor 15 1 255,255,255 169,172,176 1 912 856 798 225 1 0
+KeyDown 7 1
+Delay 100 150 ms
+KeyUp 7 1
+GoColor 26 2 255,128,128 255,0,0 1 1220 584 600 497 1 0
+Delay 100 150 ms
+KeyDown 4 1
+Delay 100 150 ms
+KeyUp 4 1
+Delay 100 150 ms
+GoColor 26 2 255,128,128 255,0,0 1 1220 584 600 497 1 0
+GoWhile 3 20
+Goto 1
+KeyDown 4 1
+Delay 100 150 ms
+KeyUp 4 1
+Delay 100 150 ms
+GoColor 26 2 255,128,128 255,0,0 1 1220 584 600 497 1 0
+KeyDown 7 1
+Delay 100 150 ms
+KeyUp 7 1
+Delay 100 150 ms
+GoColor 26 2 255,128,128 255,0,0 1 1220 584 600 497 1 0
+GoWhile 15 20
+Delay 3 5 s
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

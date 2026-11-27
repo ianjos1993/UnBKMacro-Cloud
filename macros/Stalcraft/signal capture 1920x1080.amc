@@ -1,0 +1,57 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Hello, this macros is made for finding signals in stalcraft with 90% success rate, resolution 1920x1080 u just need to bind your SAK1 key to X and macros key to Z bcs u unfortunatly have to open and close SAK by yourself, when the bulb starts blinking just press Z and it will start the macros and u just need to wait until its completion. You can also use second monitor to watch some videos so u dont go insane while waiting for signal to appear.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 230 1
+Delay 9 20 ms
+KeyUp 230 1
+GoColor 14 0 56,77,52 255,255,255 1 1173 400 384 599 1 0
+Delay 40 75 ms
+GoColor 14 0 56,77,52 255,255,255 1 1173 400 384 599 1 0
+Delay 40 75 ms
+GoColor 14 0 56,77,52 255,255,255 1 1173 400 384 599 1 0
+Delay 170 215 ms
+KeyDown 230 1
+Delay 250 365 ms
+KeyUp 230 1
+Goto 1
+MoveTo 1560 799
+MoveTo 1080 803
+LeftDown 1
+Delay 20 ms
+LeftUp 1
+Delay 10 ms
+MoveTo 1349 791
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 s
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 64
+MoveTo 737 468
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 64
+MoveTo 628 588
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

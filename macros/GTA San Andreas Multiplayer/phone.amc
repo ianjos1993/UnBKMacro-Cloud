@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major>Телефон</Major>
+    <Description>Макрос предназначен для того что бы быстро печатать команду телефона "/phone". Биндите на любую удобную вам кнопку и радуйтесь. Особенно полезно когда работаешь таксистом.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 10 ms
+KeyUp 23 1
+Delay 10 ms
+KeyDown 56 1
+Delay 10 ms
+KeyUp 56 1
+Delay 10 ms
+KeyDown 19 1
+Delay 10 ms
+KeyUp 19 1
+Delay 10 ms
+KeyDown 11 1
+Delay 10 ms
+KeyUp 11 1
+Delay 10 ms
+KeyDown 18 1
+Delay 10 ms
+KeyUp 18 1
+Delay 10 ms
+KeyDown 17 1
+Delay 10 ms
+KeyUp 17 1
+Delay 10 ms
+KeyDown 8 1
+Delay 10 ms
+KeyUp 8 1
+Delay 10 ms
+KeyDown 88 1
+Delay 10 ms
+KeyUp 88 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

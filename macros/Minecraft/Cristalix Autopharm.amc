@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос подойдет для фарма на Cristalix в режиме One-Punch Man
+Разрешение экрана 1920x1080
+Инструкция:
+1. Зайдя в мини-игру ничего не делайте и вообще не двигайтесь
+2. Режим работы ставьте на - Выполнять да повторного нажатия
+3. Фармись!</Description>
+    <Comment>vk: xrondox</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64 min
+LeftUp 1
+KeyDown 26 1
+Delay 64 min
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

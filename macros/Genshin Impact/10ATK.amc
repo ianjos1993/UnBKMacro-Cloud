@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Another autoatk macro for hutao. You dont need to dodge when your macro working and it only works for hutao with no less than 1 talent.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 130 ms
+LeftDown 1
+Delay 70 ms
+LeftUp 1
+Delay 200 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+LeftDown 1
+Delay 260 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 225 1
+Delay 20 ms
+KeyUp 225 1
+Delay 20 ms
+KeyDown 22 1
+Delay 20 ms
+KeyUp 22 1
+Delay 20 ms
+KeyDown 26 1
+Delay 20 ms
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

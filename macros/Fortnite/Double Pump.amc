@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>Double Pump</Major>
+    <Description>bind your shoot bind to "/" macro works like a toggle, press to infinite double pump, press again to stop</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+KeyUp 56 1
+Delay 250 ms
+KeyDown 32 1
+KeyUp 32 1
+Delay 500 ms
+KeyDown 56 1
+KeyUp 56 1
+Delay 250 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

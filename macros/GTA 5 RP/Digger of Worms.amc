@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>Копатель червей для GTA 5 RP Alta</Major>
+    <Description>Полностью автомотический макрос для копания червей на ферме. На лопату в инвентаре(I) назначить букву (P) иначе работать не будет. С помощью данного макроса можно копать не счисленное множество червей и дальше продавать их и зарабатывать в день не меньше нескольких миллионов. А так же макрос написан так, что нет цикличных повторов, которые могут вызвать подозрения у рядом стоящих людей или модераторов. Разрешение экрана 1920 x 1080. Но я проверил, и макрос работает от 1024 х 786 и до максимального разрешения)))</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 150 500 ms
+KeyDown 19 1
+Delay 64
+KeyUp 19 1
+Delay 9 s
+Goto 7
+MoveR 25 0
+GoWhile 2 1
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

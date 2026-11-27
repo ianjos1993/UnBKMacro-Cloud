@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major>Макрос для тех у кого что-то пошло не по плану)</Major>
+    <Description>Этот макрос сделан для того чтобы быстро выйти из игры если что-то пошло не по плану. Пользуйтесь на здоровье! </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 15 1
+Delay 10 ms
+KeyUp 15 1
+Delay 10 ms
+KeyDown 21 1
+Delay 10 ms
+KeyUp 21 1
+Delay 10 ms
+KeyDown 88 1
+Delay 10 ms
+KeyUp 88 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

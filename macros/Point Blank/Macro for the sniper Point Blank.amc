@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всем привет!Делал этот макрос на скорую руку(Если макрос будет прокручивать то просто увеличьте тайминги на 2-3 еденицы)
+Данный макрос предназначен для кемпы м200(тестил именно на ней)
+Ставим на любую удобную клавишу клавиатуры.
+Макрос делает за вас смену и выстрел,
+Всем удачи!!!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+RightUp 1
+Delay 15 ms
+LeftUp 1
+Delay 15 ms
+RightUp 1
+Delay 15 ms
+KeyDown 32 1
+Delay 15 ms
+KeyDown 30 1
+Delay 15 ms
+KeyUp 32 1
+Delay 15 ms
+KeyUp 30 1
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

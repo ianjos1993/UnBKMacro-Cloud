@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Доброго времени суток уважаемые пользователи! Данный макрос предназначен для тех, кто хочет делать красивые киллы в Counter Strike 1.6 со снайперских винтовок. Всего лишь задайте клавишу и наслаждайтесь!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 6 ms
+RightUp 1
+Delay 6 ms
+LeftDown 1
+Delay 2 ms
+LeftUp 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>CS 1.6</Software>
+  </DefaultMacro>
+</Root>

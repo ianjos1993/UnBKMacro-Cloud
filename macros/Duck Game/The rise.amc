@@ -1,0 +1,71 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>При выполнении этого макроса нужно: 1) Иметь у себя в руках оружие которое стреляет без перезарядки (пистолет, сетка, револвер) и т.д. 2) Нужно повернуться направо, это необязательно, но так лучше, поверьте. 3) Соблюдайте задержку между повторами, потому что макрос просто будет вертеть вас не туда куда вам нужно) Задержка примерно секунды полторы (не проверял), но там можно определить, когда утка кончит) стрелять, то вам нужно будет сразу прожать ещё раз, чтобы подлететь ещё выше. 4) Я НЕ ручаюсь если ваша утка улетит, это ваши проблемы, у меня всё работало, если вы улетели куда-то, то попробуйте ещё раз, вдруг получится)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 10 ms
+KeyUp 26 1
+Delay 10 ms
+KeyDown 26 1
+Delay 100 ms
+KeyDown 7 1
+Delay 10 ms
+KeyDown 25 1
+Delay 64 ms
+KeyDown 4 1
+Delay 11 ms
+KeyUp 25 1
+Delay 10 ms
+KeyUp 7 1
+Delay 16 ms
+KeyDown 25 1
+Delay 72 ms
+KeyUp 25 1
+Delay 7 ms
+KeyUp 4 1
+Delay 120 ms
+KeyDown 7 1
+Delay 16 ms
+KeyDown 25 1
+Delay 56 ms
+KeyDown 4 1
+Delay 16 ms
+KeyUp 25 1
+Delay 32 ms
+KeyUp 7 1
+Delay 10 ms
+KeyDown 25 1
+Delay 79 ms
+KeyUp 25 1
+Delay 17 ms
+KeyUp 4 1
+Delay 10 ms
+KeyDown 7 1
+Delay 40 ms
+KeyDown 25 1
+Delay 32 ms
+KeyDown 4 1
+Delay 39 ms
+KeyUp 7 1
+Delay 6 ms
+KeyUp 25 1
+Delay 10 ms
+KeyDown 25 1
+Delay 10 ms
+KeyUp 4 1
+Delay 10 ms
+KeyUp 25 1
+Delay 320 ms
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>Duck game</Software>
+  </DefaultMacro>
+</Root>

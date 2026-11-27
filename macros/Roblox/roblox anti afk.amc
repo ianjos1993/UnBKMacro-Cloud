@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>this moves your character to keep if from kicking you. it is very good for use in games like build a boat and islands. it is pretty complex and goes through 3 different movement loops to avoid detection</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+Delay 64 ms
+Delay 1000 ms
+Delay 1000 ms
+GoWhile 1 5
+KeyDown 4 1
+Delay 1000
+KeyUp 4 1
+Delay 1000
+KeyDown 22 1
+Delay 1000
+KeyUp 22 1
+Delay 1000
+KeyDown 26 1
+Delay 1000
+KeyUp 26 1
+Delay 1000
+GoWhile 17 5
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>roblox</Software>
+  </DefaultMacro>
+</Root>

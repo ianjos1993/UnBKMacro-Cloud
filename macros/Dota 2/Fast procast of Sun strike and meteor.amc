@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major>данилка</Major>
+    <Description>Этот макрос кастует ледяную стену, сан страйк и метеор. Главное держать курсор на варге и всё получится.
+1 скилл - q
+2 скилл - w
+3 скилл - e
+4 скилл - d
+5 скилл - f
+Ульт - r
+на букву D ставьте стену, чтобы всё получилось.
+Удачи!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 65 ms
+KeyUp 7 1
+Delay 65 ms
+KeyDown 9 1
+Delay 112 ms
+KeyUp 9 1
+Delay 65 ms
+KeyDown 8 1
+Delay 103 ms
+KeyUp 8 1
+Delay 104 ms
+KeyDown 8 1
+Delay 104 ms
+KeyUp 8 1
+Delay 65 ms
+KeyDown 26 1
+Delay 89 ms
+KeyUp 26 1
+Delay 148 ms
+KeyDown 21 1
+Delay 85 ms
+KeyUp 21 1
+Delay 65 ms
+KeyDown 7 1
+Delay 107 ms
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

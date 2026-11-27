@@ -1,0 +1,93 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос переключает ваш язык на английский открывает чат и вписывает команду /gamemode survival этот макрос нужен для версий майнкрафта от 1.13 до 1.15.2. ОБЯЗАТЕЛЬНО!!! включите Привязку к окну и направте на окно майна иначе чат не будет открыватся</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>SetLang en-US
+KeyDown 23 1
+Delay 1
+KeyUp 23 1
+Delay 1
+KeyDown 84 1
+Delay 1
+KeyUp 84 1
+Delay 1
+KeyDown 10 1
+Delay 1
+KeyUp 10 1
+Delay 1
+KeyDown 4 1
+Delay 1
+KeyUp 4 1
+Delay 1
+KeyDown 16 1
+Delay 1
+KeyUp 16 1
+Delay 1
+KeyDown 8 1
+Delay 1
+KeyUp 8 1
+Delay 1
+KeyDown 16 1
+Delay 1
+KeyUp 16 1
+Delay 1
+KeyDown 18 1
+Delay 1
+KeyUp 18 1
+Delay 1
+KeyDown 7 1
+Delay 1
+KeyUp 7 1
+Delay 1
+KeyDown 8 1
+Delay 1
+KeyUp 8 1
+Delay 1
+KeyDown 44 1
+Delay 1
+KeyUp 44 1
+Delay 1
+KeyDown 22 1
+Delay 1
+KeyUp 22 1
+Delay 1
+KeyDown 24 1
+Delay 1
+KeyUp 24 1
+Delay 1
+KeyDown 21 1
+Delay 1
+KeyUp 21 1
+Delay 1
+KeyDown 25 1
+Delay 1
+KeyUp 25 1
+Delay 1
+KeyDown 12 1
+Delay 1
+KeyUp 12 1
+Delay 1
+KeyDown 25 1
+Delay 1
+KeyUp 25 1
+Delay 1
+KeyDown 4 1
+Delay 1
+KeyUp 4 1
+Delay 1
+KeyDown 15 1
+Delay 1
+KeyUp 15 1
+Delay 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

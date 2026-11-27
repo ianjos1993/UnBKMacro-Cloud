@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос "ловля заказ автомеханика.amc" для "MTA Province" позволяет мгновенно принимать заказы автомеханика автоматически наводя курсор на первую строку в окне заказов. Разработан для разрешения 1920х1080, он упрощает и ускоряет процесс принятия заказов, повышая вашу эффективность в игре. Просто откройте окно заказов, наведите курсор на первую строку и активируйте макрос для быстрого начала работы.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 730 285
+Delay 45 ms
+LeftDown 1
+Delay 49 ms
+LeftUp 1
+Delay 45 ms
+MoveTo 777 596
+Delay 38 ms
+LeftDown 1
+Delay 32 ms
+LeftUp 1
+Delay 35 ms</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

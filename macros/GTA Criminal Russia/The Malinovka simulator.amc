@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>Тренажер малиновка</Major>
+    <Description>Макрос на тренажер для малиновки рп
+Включает в себя автоматическое нажатие на пробел.
+Значительно упрощает прокачку фитнес навыков.
+Для удобства можете изменить задержку.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 65 ms
+KeyUp 44 1
+Delay 65 ms
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Malinovka RP</Software>
+  </DefaultMacro>
+</Root>

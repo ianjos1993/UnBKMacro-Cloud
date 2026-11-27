@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Работает макрос при быстром применении способностей.
+Z-блинк
+X-маска меднес
+C-бкб
+Q-стан, при быстром применении держать на сопернике курсор
+R - ульт
+Ждем соперника нажимаем кнопку на которую назначили и держим курсор на сопернике свен залетает дает стан включает бкб потом ульт и с маской меднеса убивает.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+KeyUp 29 1
+Delay 50
+KeyDown 20 1
+Delay 50 ms
+KeyUp 20 1
+Delay 50 ms
+KeyDown 6 1
+Delay 50 ms
+KeyUp 6 1
+Delay 60 ms
+KeyDown 8 1
+Delay 50 ms
+KeyUp 8 1
+Delay 10 ms
+KeyDown 21 1
+Delay 50 ms
+KeyUp 21 1
+Delay 50 ms
+KeyDown 27 1
+Delay 50
+KeyUp 27 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

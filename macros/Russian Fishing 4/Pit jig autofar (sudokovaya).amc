@@ -1,0 +1,93 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Катушка Sat Azimut Blue 8000 передаточное число 5:4:1 + калиборHSV80SLC  пер,число,,4,7:
+скорость проводки 30
+ приманка судоковая (23.3г можно испльзовать приманки весом 26г)
+разрешение 1680-1050</Description>
+    <Comment>при поклёвки крупной рыбы желательно отключать  ,,, всем удачи
+будут проблемы пишите помогу с настройками скрипта,,,</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 3520 3521 ms
+LeftUp 1
+Delay 4457 4458 ms
+LeftDown 1
+Delay 1358 1359 ms
+LeftUp 1
+Delay 2574 2575 ms
+LeftDown 1
+Delay 1358 1359 ms
+LeftUp 1
+Delay 1358 1359 ms
+LeftDown 1
+KeyDown 225 1
+Delay 1358 1359 ms
+Delay 240 250 ms
+GoColor 23 2 160,160,160 255,255,255 1 428 996 957 85 1 0
+LeftUp 1
+KeyDown 225 1
+Delay 64 67 ms
+Delay 3050 3300 ms
+Goto 13
+Delay 100 110 ms
+LeftDown 1
+Delay 64 68 ms
+RightDown 1
+Delay 100 107 ms
+KeyDown 225 1
+Delay 400 600 ms
+GoColor 34 1 64,64,64 255,255,255 2 695 844 71 12 1 0
+Delay 100 105 ms
+Delay 100 108 ms
+Goto 29
+Delay 100 110 ms
+LeftUp 1
+Delay 100 110 ms
+KeyUp 225 1
+GoColor 59 3 160,160,160 255,255,255 1 430 995 945 86 1 0
+Delay 100 110 ms
+RightUp 1
+Delay 250 255 ms
+GoColor 53 1 74,170,247 255,255,255 2 354 90 401 1 1 0
+Delay 100 110 ms
+GoColor 53 1 228,198,49 255,255,255 2 354 90 401 1 1 0
+Delay 100 108 ms
+GoColor 53 1 183,199,56 255,255,255 2 354 90 401 1 1 0
+Delay 100 107 ms
+KeyDown 42 1
+Delay 100 110 ms
+KeyUp 42 1
+Delay 100 110 ms
+Goto 57
+Delay 300 310 ms
+KeyDown 44 1
+Delay 100 110 ms
+KeyUp 44 1
+Delay 100 108 ms
+Goto 68
+Delay 100 107 ms
+LeftUp 1
+Delay 64 67 ms
+KeyUp 225 1
+Delay 100 107 ms
+RightUp 1
+Delay 100 108 ms
+GoColor 41 1 64,64,64 255,255,255 2 695 844 71 12 1 0
+Goto 13
+Delay 100 109 ms
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 64
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Русская Рыбалка 4</Software>
+  </DefaultMacro>
+</Root>

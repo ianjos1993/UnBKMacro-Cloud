@@ -1,0 +1,74 @@
+<Root>
+  <DefaultMacro>
+    <Major>Макрос для продажи через Шаут (x1200)</Major>
+    <Description>Макрос для продажи через Шаут (x1200)
+
+Данный макрос позволяет продавать вещи через шаут (!) и не получить бан за спам. 
+Инструкция:
+
+1. Поместите объявления на клавиши F1-F12.
+2. Включите макрос
+3. Готово! 
+
+Теперь вы можете не утруждать себя нудным нажатием клавиш и не рассчитвать время в уме до следующего нажатия. Макрос все сделает сам)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 58 1
+Delay 64 120
+KeyUp 58 1
+Delay 7 10 s
+KeyDown 59 1
+Delay 64 120
+KeyUp 59 1
+Delay 7 10 s
+KeyDown 60 1
+Delay 64 120
+KeyUp 60 1
+Delay 7 10 s
+KeyDown 61 1
+Delay 64 120
+KeyUp 61 1
+Delay 7 10 s
+KeyDown 62 1
+Delay 64 120
+KeyUp 62 1
+Delay 7 10 s
+KeyDown 63 1
+Delay 64 120
+KeyUp 63 1
+Delay 7 10 s
+KeyDown 64 1
+Delay 64 120
+KeyUp 64 1
+Delay 7 10 s
+KeyDown 65 1
+Delay 64 120
+KeyUp 65 1
+Delay 7 10 s
+KeyDown 66 1
+Delay 64 120
+KeyUp 66 1
+Delay 7 10 s
+KeyDown 67 1
+Delay 64 120
+KeyUp 67 1
+Delay 7 10 s
+KeyDown 68 1
+Delay 64 120
+KeyUp 68 1
+Delay 7 10 s
+KeyDown 69 1
+Delay 64 120
+KeyUp 69 1
+Delay 64 120
+Delay 1810 ms</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

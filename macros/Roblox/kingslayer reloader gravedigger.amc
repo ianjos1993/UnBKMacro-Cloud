@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major>Kingslayer reload grave/digger</Major>
+    <Description>This is a automatic macro to reload the kingslayer gun in grave/digger
+please note that this works better using run while held/run until pressed again as it repeats the same line allowing for a full reload
+
+this wont work on spent cap chambers, you will have to manually input caps/ remove caps
+
+First, enter reload on the kingslayer by pressing R once, then run the macro.
+this macro: enters a cap into a *EMPTY* chamber, fills it up with the neccessary amount of gunpowder, enters a ball moves chamber and hammers the ball giving you a single shot. It is advised you use run while/held or run until pressed again to repeat this cycle as it will only do it once.
+
+use this macro only when theres no spent caps in your Kingslayer.</Description>
+    <Comment>game is listed in the description, you will still have to buy the actual gun.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 300 ms
+KeyDown 31 1
+Delay 2 s
+KeyUp 31 1
+Delay 1 s
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 500 ms
+LeftDown 1
+Delay 400 ms
+LeftUp 1
+Delay 200 ms
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 1500 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

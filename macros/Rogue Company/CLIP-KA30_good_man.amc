@@ -1,0 +1,100 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Зажим для оружия KA30, удаление отдачи
+
+"ВНИМАНИЕ!!!!!!!"
+Необходима настройка чувствительности в игре, пока не добьешься максимальной кучности</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 111 ms
+MoveR -10 25
+Delay 111 ms
+MoveR -3 25
+Delay 111 ms
+MoveR -3 25
+Delay 111 ms
+MoveR -3 25
+Delay 111 ms
+MoveR -3 25
+Delay 111 ms
+MoveR -3 25
+Delay 111 ms
+MoveR -3 25
+Delay 111 ms
+MoveR -3 25
+Delay 111 ms
+MoveR -3 25
+Delay 111 ms
+MoveR -3 5
+Delay 111 ms
+MoveR -3 5
+Delay 111 ms
+MoveR -3 5
+Delay 111 ms
+MoveR -3 5
+Delay 111 ms
+MoveR -3 15
+Delay 111 ms
+MoveR -3 15
+Delay 111 ms
+MoveR -3 15
+Delay 111 ms
+MoveR -3 15
+Delay 111 ms
+MoveR -3 15
+Delay 111 ms
+MoveR -3 15
+Delay 111 ms
+MoveR -3 15
+Delay 111 ms
+MoveR -3 15
+Delay 111 ms
+MoveR -3 15
+Delay 111 ms
+MoveR -3 15
+Delay 111 ms
+MoveR -3 15
+Delay 111 ms
+MoveR -3 15
+Delay 111 ms
+
+MoveR -3 15
+Delay 111 ms
+MoveR -3 15
+Delay 111 ms
+MoveR -3 15
+Delay 111 ms
+MoveR -3 15
+Delay 111 ms
+
+MoveR -3 15
+Delay 111 ms
+MoveR -3 15
+Delay 111 ms
+MoveR -3 15
+Delay 111 ms
+MoveR -3 15
+Delay 111 ms
+
+MoveR -3 15
+Delay 111 ms
+MoveR -3 15
+Delay 111 ms
+MoveR -3 15
+Delay 111 ms
+MoveR -3 15
+Delay 111 ms
+LeftUp 1
+Delay 6400 ms</Syntax>
+    </KeyDown>
+    <Software>Rogue Company</Software>
+  </DefaultMacro>
+</Root>

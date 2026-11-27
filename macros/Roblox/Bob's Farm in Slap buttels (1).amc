@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Вам нужно 4000 слапов взять перчатку реплика,заходить на арену в красный портал и использовать макрос,вы получите боба примерно за 8-10 часов,но это зависит от удачи                                                                                                                                                                                                                                                                                                   </Description>
+    <Comment>Надеюсь вам это помогло : ]</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 1
+KeyUp 8 1
+Delay 1
+KeyDown 41 1
+Delay 1
+KeyUp 41 1
+Delay 20 ms
+KeyDown 21 1
+Delay 20
+KeyUp 21 1
+Delay 20
+KeyDown 88 1
+Delay 1
+KeyUp 88 1
+Delay 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

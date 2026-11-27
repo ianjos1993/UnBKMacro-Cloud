@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major>Weiz jitter aim no cam shake</Major>
+    <Description>Jitter aim . механика при которой убирается 90% отдачи.
+
+разрешение 1920*1080. сенс 2.3 / 800 dpi
+
+Ставите макрос на левую кнопку мыши с модификацией "выполнять пока нажата" и во время стерльбы полностью безопасна от банов и не трясет камеру. Пользуйтесь :)</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 0 ms
+MoveR -2 2
+Delay 5 ms
+MoveR 2 -2
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

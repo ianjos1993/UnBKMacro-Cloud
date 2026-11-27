@@ -1,0 +1,75 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>этот макрос удаляет практически все настройки mp7 smg bandit для tom clancy's rainbow six siege
+в настройках игры:
+чувствительность - 4 по вертикали, 4 по горизонтали (800 dpi)
+, разрешение 1920x1080, 800 точек на дюйм:4:3
+
+настройка mp7:
+без прицела 
+глушитель
+лазерный прицел( но он не влияет на отдачу только на скорость прицеливания)</Description>
+    <Comment>макрос почти польностью убирает отдачу именно на этих настройках, общий макрос для всех настройках будет не точен. Если надо будет необходимо сделать для определнных настройках могу сделать, также у меня готовы макросы для элы , доки ( дмр, смг-12), эш, сенс, вигил.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 0 60
+Delay 50 ms
+MoveR 5 50
+Delay 50 ms
+MoveR 0 50
+Delay 50 ms
+MoveR 0 50
+Delay 50 ms
+MoveR 5 50
+Delay 50 ms
+MoveR 0 50
+Delay 50 ms
+MoveR 0 50
+Delay 50 ms
+MoveR 0 50
+Delay 50 ms
+MoveR 0 50
+Delay 50 ms
+MoveR 0 50
+Delay 50 ms
+MoveR 0 60
+Delay 50 ms
+MoveR 0 60
+Delay 50 ms
+MoveR 0 60
+Delay 50 ms
+MoveR 0 60
+Delay 50 ms
+MoveR 0 60
+Delay 50 ms
+MoveR 0 60
+Delay 50 ms
+MoveR 0 60
+Delay 50 ms
+MoveR 0 60
+Delay 50 ms
+MoveR 0 60
+Delay 50 ms
+MoveR 5 70
+Delay 50 ms
+MoveR 3 70
+Delay 50 ms
+MoveR 0 70
+Delay 50 ms
+MoveR 0 70
+Delay 50 ms
+MoveR 0 70
+Delay 50 ms
+MoveR 0 70
+LeftDown 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

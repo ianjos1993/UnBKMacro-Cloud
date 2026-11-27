@@ -1,0 +1,66 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос автоматически вводит команду /givemoney в Minecraft Bedrock Edition, позволяя мгновенно передавать игровую валюту другому игроку. Он полезен для серверов с экономической системой, где игроки могут обмениваться деньгами, оплачивать товары и услуги или просто делать подарки. После активации макроса нужно ввести никнейм игрока и количество монет, которые Вы хотите выдать этому игроку.
+
+Инструкция по установке макроса:
+1. Скачайте файл макроса.
+2. Назначьте его на удобную для вас клавишу.
+3. Готово!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>SetLang en-US
+KeyDown 56 1
+Delay 10
+KeyUp 56 1
+Delay 10
+KeyDown 10 1
+Delay 10
+KeyUp 10 1
+Delay 10
+KeyDown 12 1
+Delay 10
+KeyUp 12 1
+Delay 10
+KeyDown 25 1
+Delay 10
+KeyUp 25 1
+Delay 10
+KeyDown 8 1
+Delay 10
+KeyUp 8 1
+Delay 10
+KeyDown 16 1
+Delay 10
+KeyUp 16 1
+Delay 10
+KeyDown 18 1
+Delay 10
+KeyUp 18 1
+Delay 10
+KeyDown 17 1
+Delay 10
+KeyUp 17 1
+Delay 10
+KeyDown 8 1
+Delay 10
+KeyUp 8 1
+Delay 10
+KeyDown 28 1
+Delay 10
+KeyUp 28 1
+Delay 10
+KeyDown 44 1
+Delay 10
+KeyUp 44 1
+Delay 10</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

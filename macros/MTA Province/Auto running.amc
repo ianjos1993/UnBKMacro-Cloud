@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Авто бег для МТА Провинция. Помогает, не нужно держать всё время две кнопки. Можно позалипать в тт пока персонаж бежит. Только направляйте мышью иначе выдадут кик за вилку в клаве.</Description>
+    <Comment>Приятного Использования!)</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 64
+KeyDown 225 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

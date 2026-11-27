@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Crouch spam for side mouse button.
+I don't use CTRL like most I would say, so this is for those who use the mouse buttons more.
+Enjoy.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Button4down 1
+Delay 64 ms
+Button4Up 1
+Delay 64 ms
+Button4down 1
+Delay 64 ms
+Button4Up 1
+Delay 64 ms
+Button4down 1
+Delay 64 ms
+Button4Up 1
+Delay 64 ms
+Button4down 1
+Delay 64 ms
+Button4Up 1
+Delay 64 ms
+Button4down 1
+Delay 64 ms
+Button4Up 1
+Delay 64 ms</Syntax>
+    </KeyDown>
+    <Software>Destiny 2</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Афк на новогодней укрепке с двумя действиями меньше шансов получить бан. Ставим любую экпировку в быстрый слот ( 8 ) и ( 9 ),  персонаж будет снимать и одевать их ( у  меня стоят очки и шапка ) но вы можете поставить все что угодно, главное что бы это была экипировка котороя быстро снимается!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 37 1
+Delay 10 s
+KeyDown 38 1
+Delay 5 s
+KeyUp 38 1
+Delay 5 s
+KeyUp 37 1
+Delay 10 s
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Stay Out</Software>
+  </DefaultMacro>
+</Root>

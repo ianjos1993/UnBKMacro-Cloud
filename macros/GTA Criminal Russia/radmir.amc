@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>этот макрос понадобится тем кто играет на радмире
+с данным макросом вы сможете без всяких проблем фармить айзберг
+что бы запустьть данный макрос нужно забиндить его на интересующую вас клавишу зайти в игру и нажав на забинженую клавишу после чего вы сможете в афк фармить айзберг</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 226 1
+KeyUp 226 1
+Delay 300 500 ms
+KeyDown 226 1
+KeyUp 226 1
+Delay 300 500 ms</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

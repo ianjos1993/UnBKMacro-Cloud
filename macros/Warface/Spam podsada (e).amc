@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major>Спам подсадки</Major>
+    <Description>Макрос для спама подсадки.
+Может использоваться для краша комнат, если отключить предел подсада!
+Можете распоряжаться как хотите)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 30 ms
+KeyDown 26 1
+Delay 1 ms
+KeyUp 26 1
+Delay 25 ms
+KeyDown 22 1
+Delay 20 ms
+KeyUp 22 1</Syntax>
+    </KeyDown>
+    <Software>Warface</Software>
+  </DefaultMacro>
+</Root>

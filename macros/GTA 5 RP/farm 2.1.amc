@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Устали бесконечно жать A и D на коровнике в GTA RP?
+Мой макрос берет эту рутину на себя!
+Как это работает:
+
+Полная автономия: Бот сам нажимает клавиши A и D.
+
+Ваше время свободно: Занимайтесь более важными делами в игре.
+
+Надежность: Работает в разрешении 1920x1080 (оконный режим без рамок).
+Перестаньте быть "кнопконажимателем" – доверьтесь макросу!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 6 1 255,255,255 255,255,255 2 1021 844 40 13 1 0
+GoColor 3 0 255,255,255 255,255,255 2 1023 840 35 19 1 0
+GoColor 10 1 255,255,255 255,255,255 2 868 841 39 19 1 0
+GoColor 1 0 255,255,255 255,255,255 2 868 839 38 18 1 0
+GoColor 14 1 255,218,85 255,255,255 2 1213 615 18 29 1 0
+KeyDown 7 1
+Delay 120 ms
+KeyUp 7 1
+Delay 120 ms
+KeyDown 4 1
+Delay 120 ms
+KeyUp 4 1
+Delay 120 ms
+Delay 200 ms
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

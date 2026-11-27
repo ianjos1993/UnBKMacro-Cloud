@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на квиток, чтобы не откисать на забегах. Нажали - оказались в главном меню. Но всячески рекомендую приучиться это делать руками.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 41 1
+Delay 102 ms
+KeyUp 41 1
+Delay 102 ms
+KeyDown 74 1
+Delay 50 ms
+KeyUp 74 1
+Delay 50 ms
+KeyDown 8 1
+Delay 50 ms
+KeyUp 8 1
+KeyDown 82 1
+Delay 50 ms
+KeyUp 82 1
+KeyDown 8 1
+Delay 50 ms
+KeyUp 8 1
+KeyDown 80 1
+KeyUp 80 1
+Delay 102 ms
+KeyDown 8 1
+Delay 102 ms
+KeyUp 8 1</Syntax>
+    </KeyDown>
+    <Software>Dark Souls Remastered</Software>
+  </DefaultMacro>
+</Root>

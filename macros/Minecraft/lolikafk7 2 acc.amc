@@ -1,0 +1,54 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>заходит на 7 тмр в 1920х1080 просто оставьте комп включенным включите макрос и откройте лоликв полноэкранном режимеи откройте второй аккаунт анологично!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 3 min
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 542 616
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+MoveTo 978 558
+Delay 64
+MoveR 165 -211
+Delay 64
+MoveR -1703 -339
+Delay 64
+MoveR 112 -6
+Delay 64
+MoveR 9 58
+Delay 64
+MoveR 35 -88
+Delay 64
+MoveR 39 9
+Delay 64
+MoveR -110 29
+Delay 64
+KeyDown 226 1
+Delay 64
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+KeyUp 226 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>loliland</Software>
+  </DefaultMacro>
+</Root>

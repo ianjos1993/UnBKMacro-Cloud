@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major>Макрос для удобной ловли угонок на Majestic RP</Major>
+    <Description>Данный макрос позволяет вам быстро словить угонку у NPC, если вы состоите в криминальной организации.
+
+Как правильно использовать:
+
+1. Подходите к NPC, который стоит у дома вашей организации.
+2. Включаете макрос.
+3. Ждёте когда словится угонка.
+4. Выключаете макрос и после того как сдадите угонку - проделываете тоже самое.</Description>
+    <Comment>Можете пожалуйста выдать ключ на пару дней.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 450 ms
+KeyDown 8 1
+Delay 100 ms
+KeyUp 8 1
+Delay 300 ms
+MoveTo 1089 945
+Delay 200 ms
+LeftDown 1
+Delay 150 ms
+LeftUp 1
+Delay 100 ms
+MoveTo 1089 945
+Delay 300 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 150 ms
+MoveTo 919 984
+Delay 400 ms
+LeftDown 1
+LeftUp 1
+GoWhile 1 100</Syntax>
+    </KeyDown>
+    <Software>GTA 5</Software>
+  </DefaultMacro>
+</Root>

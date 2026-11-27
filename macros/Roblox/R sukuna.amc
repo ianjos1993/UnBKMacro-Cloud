@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>этот макрос позволит вам использовать чёрную молнию на персонаже ''сукуна'' в плейсе Realm rampage.
+для этого вам понадобиться: персонаж Сукуна, заряженая способность на R и нормальный пинг. 
+удачного пользования!
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 5 ms
+KeyUp 21 1
+Delay 445 ms
+KeyDown 21 1
+Delay 1 ms
+KeyUp 21 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

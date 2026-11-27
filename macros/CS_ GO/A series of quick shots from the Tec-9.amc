@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Серия быстрых выстрелов из Tec-9. 18 быстрых кликов с учётом скорострельности tec-9. Удобно поставить на кнопку F для единичного выполнения и на alt для выполнения пока нажата кнопка. </Description>
+    <Comment>Серия быстрых выстрелов из Tec-9. 18 быстрых кликов с учётом скорострельности tec-9. Удобно поставить на кнопку F для единичного выполнения и на alt для выполнения пока нажата кнопка. </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 29 31 ms
+LeftUp 1
+Delay 92 94 ms
+GoWhile 1 18</Syntax>
+    </KeyDown>
+    <Software>CSGO</Software>
+  </DefaultMacro>
+</Root>

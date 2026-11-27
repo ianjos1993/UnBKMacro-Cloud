@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major>niger1212</Major>
+    <Description>строительство для новичков все что вам надо смотреть в верх и поставить на повтор макрос
+пол X
+рампа C
+редакт F
+выбрать вариант редактирования P
+разместить здание :</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+KeyUp 6 1
+Delay 20 ms
+KeyDown 51 1
+Delay 20 ms
+KeyDown 27 1
+KeyUp 27 1
+KeyDown 51 1
+Delay 500 ms
+KeyDown 9 1
+Delay 60 ms
+KeyUp 9 1
+Delay 20 ms
+KeyDown 19 1
+Delay 10 ms
+KeyUp 19 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,338 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>CUSTOMIZE MACROS from Josh
+
+
+
+For the correct settings
+:
+Controls "Mouse sensitivity" - 1.0, Options "Field of view" / FOV - 75
+
+FOV 75 - Sensetivity 1.0
+FOV 80 - Sensetivity 0.94
+FOV 85 - Sensetivity 0.88
+FOV 90 - Sensetivity 0.82
+
+Crouch for semi/automatic and m249
+
+Command console F1 - "input.sensitivity 0.8"
+Setting sights - for example handmade scope to resize sensitivity lower
+Installation of modules influencing the recoil, adjust the Sens
+the change
+of the recoil - pulls down lower the Sensitivity, or pulls up raise Sensitivity</Description>
+    <Comment>Havee Fun!!</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>IfKey 2 1 4
+LeftDown 1
+Delay 20 ms
+MoveR 0 5
+Delay 25 ms
+MoveR 0 5
+Delay 25 ms
+MoveR 0 5
+Delay 25 ms
+MoveR 0 4
+Delay 25 ms
+MoveR -1 3
+Delay 25 ms
+MoveR -1 3
+Delay 25 ms
+MoveR -1 3
+Delay 25 ms
+MoveR -1 3
+Delay 12 ms
+MoveR -1 3
+Delay 25 ms
+MoveR -1 3
+Delay 25 ms
+MoveR -1 4
+Delay 25 ms
+MoveR -1 4
+Delay 25 ms
+MoveR -1 4
+Delay 12 ms
+MoveR -2 4
+Delay 25 ms
+MoveR -2 4
+Delay 25 ms
+MoveR -1 3
+Delay 25 ms
+MoveR -2 4
+Delay 25 ms
+MoveR -2 4
+Delay 12 ms
+MoveR -2 4
+Delay 25 ms
+MoveR -2 4
+Delay 25 ms
+MoveR -3 4
+Delay 25 ms
+MoveR -2 4
+Delay 25 ms
+MoveR -2 4
+Delay 12 ms
+MoveR -2 3
+Delay 25 ms
+MoveR -2 3
+Delay 25 ms
+MoveR -2 3
+Delay 25 ms
+MoveR -2 2
+Delay 25 ms
+MoveR -1 2
+Delay 12 ms
+MoveR -1 2
+Delay 25 ms
+MoveR -1 2
+Delay 25 ms
+MoveR -1 2
+Delay 25 ms
+MoveR -1 2
+Delay 25 ms
+MoveR -1 2
+Delay 12 ms
+MoveR -1 2
+Delay 25 ms
+MoveR 0 2
+Delay 25 ms
+MoveR 0 2
+Delay 25 ms
+MoveR 1 2
+Delay 25 ms
+MoveR 0 1
+Delay 12 ms
+MoveR 0 1
+Delay 25 ms
+MoveR 1 1
+Delay 25 ms
+MoveR 1 2
+Delay 25 ms
+MoveR 1 1
+Delay 25 ms
+MoveR 1 1
+Delay 12 ms
+MoveR 0 1
+Delay 25 ms
+MoveR 1 1
+Delay 25 ms
+MoveR 1 1
+Delay 25 ms
+MoveR 2 1
+Delay 25 ms
+MoveR 2 1
+Delay 12 ms
+MoveR 2 1
+Delay 25 ms
+MoveR 2 1
+Delay 25 ms
+MoveR 3 1
+Delay 25 ms
+MoveR 2 1
+Delay 25 ms
+MoveR 2 1
+Delay 12 ms
+MoveR 2 1
+Delay 25 ms
+MoveR 3 1
+Delay 25 ms
+MoveR 3 1
+Delay 25 ms
+MoveR 3 1
+Delay 25 ms
+MoveR 2 1
+Delay 12 ms
+MoveR 2 1
+Delay 25 ms
+MoveR 2 1
+Delay 25 ms
+MoveR 2 1
+Delay 25 ms
+MoveR 1 1
+Delay 25 ms
+MoveR 1 1
+Delay 12 ms
+MoveR 1 0
+Delay 25 ms
+MoveR 0 1
+Delay 25 ms
+MoveR 0 1
+Delay 25 ms
+MoveR 0 0
+Delay 25 ms
+MoveR 0 1
+Delay 12 ms
+MoveR 0 0
+Delay 25 ms
+MoveR 0 0
+Delay 25 ms
+MoveR -1 1
+Delay 25 ms
+MoveR -1 1
+Delay 25 ms
+MoveR -1 0
+Delay 12 ms
+MoveR 0 0
+Delay 25 ms
+MoveR -1 1
+Delay 25 ms
+MoveR -1 1
+Delay 25 ms
+MoveR -1 0
+Delay 25 ms
+MoveR -1 1
+Delay 12 ms
+MoveR -1 0
+Delay 25 ms
+MoveR -2 0
+Delay 25 ms
+MoveR -1 1
+Delay 25 ms
+MoveR -1 1
+Delay 25 ms
+MoveR -1 0
+Delay 12 ms
+MoveR -1 0
+Delay 25 ms
+MoveR -2 1
+Delay 25 ms
+MoveR -3 0
+Delay 25 ms
+MoveR -2 1
+Delay 25 ms
+MoveR -2 0
+Delay 12 ms
+MoveR -2 0
+Delay 25 ms
+MoveR -2 1
+Delay 25 ms
+MoveR -2 0
+Delay 25 ms
+MoveR -2 1
+Delay 25 ms
+MoveR -2 0
+Delay 12 ms
+MoveR -1 0
+Delay 25 ms
+MoveR -2 1
+Delay 25 ms
+MoveR -2 0
+Delay 25 ms
+MoveR -1 1
+Delay 25 ms
+MoveR -2 0
+Delay 12 ms
+MoveR -1 0
+Delay 25 ms
+MoveR -2 0
+Delay 25 ms
+MoveR -1 1
+Delay 25 ms
+MoveR -2 0
+Delay 25 ms
+MoveR -2 0
+Delay 12 ms
+MoveR -1 0
+Delay 25 ms
+MoveR -2 0
+Delay 25 ms
+MoveR -2 1
+Delay 25 ms
+MoveR -2 0
+Delay 25 ms
+MoveR -1 0
+Delay 12 ms
+MoveR -1 0
+Delay 25 ms
+MoveR -2 1
+Delay 25 ms
+MoveR -1 0
+Delay 25 ms
+MoveR -2 1
+Delay 25 ms
+MoveR -1 0
+Delay 12 ms
+MoveR -1 0
+Delay 25 ms
+MoveR -1 1
+Delay 25 ms
+MoveR -1 0
+Delay 25 ms
+MoveR -1 1
+Delay 25 ms
+MoveR -1 0
+Delay 12 ms
+MoveR 0 0
+Delay 25 ms
+MoveR -1 0
+Delay 25 ms
+MoveR 0 1
+Delay 25 ms
+MoveR -1 0
+Delay 25 ms
+MoveR 0 0
+Delay 12 ms
+MoveR 1 0
+Delay 25 ms
+MoveR 1 1
+Delay 25 ms
+MoveR 2 0
+Delay 25 ms
+MoveR 1 1
+Delay 25 ms
+MoveR 1 0
+Delay 12 ms
+MoveR 1 0
+Delay 25 ms
+MoveR 3 1
+Delay 25 ms
+MoveR 4 0
+Delay 25 ms
+MoveR 4 1
+Delay 25 ms
+MoveR 4 0
+Delay 12 ms
+MoveR 3 0
+Delay 25 ms
+MoveR 4 1
+Delay 25 ms
+MoveR 5 0
+Delay 25 ms
+MoveR 5 1
+Delay 25 ms
+MoveR 4 0
+Delay 12 ms
+MoveR 4 0
+Delay 25 ms
+MoveR 4 1
+Delay 25 ms
+MoveR 4 0
+Delay 25 ms
+MoveR 4 1
+Delay 25 ms
+MoveR 4 0
+Delay 12 ms
+MoveR 3 0
+Delay 25 ms
+MoveR 2 0
+Delay 25 ms
+MoveR 2 1
+Delay 25 ms
+MoveR 2 0
+Delay 25 ms
+MoveR 2 0
+Delay 12 ms
+MoveR 1 0
+Delay 50 ms
+LeftUp 1
+DelayS 5 s</Syntax>
+    </KeyDown>
+    <Software>RUST sensitivity - 1.00 (QoL Update 0.88 random)</Software>
+  </DefaultMacro>
+</Root>

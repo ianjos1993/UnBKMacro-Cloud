@@ -1,0 +1,238 @@
+<Root>
+  <DefaultMacro>
+    <Major>Armor King Combo 4</Major>
+    <Description>Макрос позволяет выполнять комбо за Armor King комбинацию у стены с HEAT.
+Видео демонстрации работы макроса: https://youtu.be/LKwoGYB3H6E
+
+Армор Кинг, упорный и стратегический боец, который ценит точность и контроль в бою. Он умеет держать себя в руках и действовать решительно даже в сложных ситуациях. Его уважение к силе делает его серьезным противником для любого соперника. Он постоянно совершенствует свои умения, чтобы оставаться на вершине и быть готовым к новым вызовам. Он внимательно изучает тактики соперников и адаптирует свои стратегии. Его сила и выносливость делают его одним из самых опасных бойцов на арене.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 05.11.2025
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ.
+
+#ArmorKingekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 0 ms
+KeyDown 22 1
+Delay 42 ms
+KeyDown 89 1
+Delay 187 ms
+KeyUp 89 1
+Delay 99 ms
+KeyUp 22 1
+Delay 191 ms
+KeyDown 22 1
+Delay 31 ms
+KeyDown 7 1
+Delay 80 ms
+KeyUp 4 1
+Delay 199 ms
+KeyUp 22 1
+Delay 67 ms
+KeyUp 7 1
+Delay 143 ms
+KeyDown 7 1
+Delay 73 ms
+KeyUp 7 1
+Delay 38 ms
+KeyDown 22 1
+Delay 37 ms
+KeyDown 7 1
+Delay 34 ms
+KeyDown 92 1
+Delay 94 ms
+KeyUp 22 1
+Delay 35 ms
+KeyUp 92 1
+Delay 1 ms
+KeyUp 7 1
+Delay 62 ms
+KeyDown 7 1
+Delay 119 ms
+KeyUp 7 1
+Delay 0 ms
+KeyDown 22 1
+Delay 60 ms
+KeyDown 7 1
+Delay 316 ms
+KeyUp 22 1
+Delay 24 ms
+KeyUp 7 1
+Delay 222 ms
+KeyDown 92 1
+Delay 92 ms
+KeyUp 92 1
+Delay 219 ms
+KeyDown 7 1
+Delay 99 ms
+KeyUp 7 1
+Delay 61 ms
+KeyDown 7 1
+Delay 109 ms
+KeyDown 92 1
+Delay 13 ms
+KeyUp 7 1
+Delay 54 ms
+KeyUp 92 1
+Delay 222 ms
+KeyDown 4 1
+Delay 1 ms
+KeyDown 22 1
+Delay 87 ms
+KeyDown 93 1
+Delay 146 ms
+KeyDown 89 1
+Delay 101 ms
+KeyUp 93 1
+Delay 22 ms
+KeyUp 89 1
+Delay 77 ms
+KeyDown 89 1
+Delay 84 ms
+KeyUp 89 1
+Delay 82 ms
+KeyDown 7 1
+Delay 67 ms
+KeyUp 4 1
+Delay 0 ms
+KeyUp 22 1
+Delay 74 ms
+KeyUp 7 1
+Delay 49 ms
+KeyDown 7 1
+Delay 105 ms
+KeyUp 7 1
+Delay 79 ms
+KeyDown 7 1
+Delay 80 ms
+KeyUp 7 1
+Delay 81 ms
+KeyDown 7 1
+Delay 74 ms
+KeyUp 7 1
+Delay 62 ms
+KeyDown 7 1
+Delay 214 ms
+KeyDown 225 1
+Delay 8 ms
+KeyUp 7 1
+Delay 158 ms
+KeyUp 225 1
+Delay 727 ms
+KeyDown 4 1
+Delay 248 ms
+KeyUp 4 1
+Delay 13 ms
+KeyDown 7 1
+Delay 97 ms
+KeyUp 7 1
+Delay 75 ms
+KeyDown 7 1
+Delay 86 ms
+KeyUp 7 1
+Delay 56 ms
+KeyDown 7 1
+Delay 92 ms
+KeyDown 22 1
+Delay 60 ms
+KeyDown 92 1
+Delay 121 ms
+KeyUp 92 1
+Delay 46 ms
+KeyUp 22 1
+Delay 162 ms
+KeyUp 7 1
+Delay 54 ms
+KeyDown 4 1
+Delay 6 ms
+KeyDown 22 1
+Delay 42 ms
+KeyDown 93 1
+Delay 0 ms
+KeyDown 90 1
+Delay 124 ms
+KeyUp 93 1
+Delay 0 ms
+KeyUp 90 1
+Delay 47 ms
+KeyDown 93 1
+Delay 0 ms
+KeyDown 90 1
+Delay 86 ms
+KeyUp 93 1
+Delay 19 ms
+KeyUp 22 1
+Delay 33 ms
+KeyDown 93 1
+Delay 90 ms
+KeyUp 93 1
+Delay 0 ms
+KeyUp 90 1
+Delay 328 ms
+KeyDown 92 1
+Delay 79 ms
+KeyUp 92 1
+Delay 92 ms
+KeyDown 92 1
+Delay 75 ms
+KeyUp 92 1
+Delay 80 ms
+KeyDown 92 1
+Delay 85 ms
+KeyUp 92 1
+Delay 81 ms
+KeyDown 92 1
+Delay 87 ms
+KeyUp 92 1
+Delay 80 ms
+KeyDown 92 1
+Delay 81 ms
+KeyUp 92 1
+Delay 74 ms
+KeyDown 92 1
+Delay 79 ms
+KeyUp 92 1
+Delay 75 ms
+KeyDown 92 1
+Delay 67 ms
+KeyUp 92 1
+Delay 56 ms
+KeyDown 92 1
+Delay 199 ms
+KeyDown 93 1
+Delay 54 ms
+KeyUp 92 1
+Delay 100 ms
+KeyUp 93 1
+Delay 272 ms
+KeyUp 4 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

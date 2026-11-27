@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro is for the roblox clicher simulator, you just must start the auto hatch, then this macro and you can come back tomorrow and its still not getting off(the game)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 15 min
+KeyDown 7 1
+Delay 1 ms
+KeyUp 7 1
+Delay 1 ms
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+GoWhile 1 500</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

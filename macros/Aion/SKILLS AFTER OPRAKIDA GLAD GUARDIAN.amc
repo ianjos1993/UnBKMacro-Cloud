@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>ОПРОКИД</Major>
+    <Description>СКИЛЫ  ПОСЛЕ ОПРАКИДА  НАЗНАЧТЕ НА  ПАНЕЛЕ СКИЛЫ  1 2 3  ЗАБИНДИТЕ НА УДОБНЫЕ КНОПКИ 
+
+Q либо E 
+
+Ввсе Приятной игры</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 40
+KeyUp 30 1
+Delay 40
+KeyDown 31 1
+Delay 40
+KeyUp 31 1
+Delay 40
+KeyDown 32 1
+Delay 40
+KeyUp 32 1
+Delay 40</Syntax>
+    </KeyDown>
+    <Software>AION</Software>
+  </DefaultMacro>
+</Root>

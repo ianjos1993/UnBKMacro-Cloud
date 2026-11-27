@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>Perfect standing reoil for AR33 for Thatcher and Flores</Major>
+    <Description>Perfect Recoil for AR33. 20/20 headshots out of 20/25 hits at 10m w/o moving the mouse
+Loadout: Acog, Vert, Comp
+
+Res: 16:10, 1920 x1080
+
+Sensitivity 6,6
+
+800 Dpi</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+MoveR 5 25
+Delay 15 ms
+MoveR 1 30
+Delay 15 ms
+MoveR -1 25
+Delay 15 ms
+MoveR -8 10
+Delay 15 ms
+MoveR 0 10
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

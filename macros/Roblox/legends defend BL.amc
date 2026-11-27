@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Второй макросс для защиты в игре Basketball Legends .Макрос сделан для бесконечной и не проходимой защиты, с этим макросом можно обыгрывать даже профессионалов(0ОВР)
+его нужно использовать сразу после начала,  нажимаете S и на ту клавишу которая в бинде макроса 
+ПРИМЕЧАНИЕ: Включить ShiftLock, чтобы курсор доводил в ту сторону, которая нужна.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 28 ms
+KeyUp 9 1
+KeyDown 9 1
+Delay 990 min
+KeyUp 9 1
+KeyDown 26 1
+Delay 1 ms
+KeyUp 26 1
+Delay 1 ms
+KeyDown 22 1
+Delay 1 ms
+KeyUp 22 1
+Delay 1 ms
+MoveR 750 245
+Delay 34 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major>AFK Money</Major>
+    <Description>Привязываем макрос к любой удобной для Вас клавише, затем подходим к сундуку в кафе "Театр" и активируем макрос установленной вами клавишей. Идём по делам, а как вернёмся - считаем прибыль. :)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 1 min
+GoWhile 1 9999999</Syntax>
+    </KeyDown>
+    <Software>Assassin's Creed: Unity</Software>
+  </DefaultMacro>
+</Root>

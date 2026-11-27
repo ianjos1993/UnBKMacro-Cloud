@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major>Yasuo Rapid Triple Tornado </Major>
+    <Description>Description
+This macro script complements the "Delayed Tornado Macro" for Yasuo in "League of Legends." It facilitates the execution of a rapid triple tornado sequence by automating the required combo after activating the delayed tornado.
+
+Features
+Seamless Combo Integration: Designed to be used within two seconds after the delayed tornado combo, enabling a swift transition to the rapid triple tornado.
+Cursor-Based Targeting: The macro executes the combo at the cursor's location, ensuring precise engagement with enemies.
+Automated Combo Execution: Activates the E-Q and a delayed right-click combo automatically to initiate the rapid triple tornado.
+How to Use
+Initial Setup: Successfully execute the delayed tornado using the first macro.
+Targeting: Move your mouse cursor over the desired target.
+Activation: Press the designated macro key within two seconds of the delayed tornado attack to execute the rapid triple tornado combo.
+Requirements
+A PC with "League of Legends" installed and running.
+The first macro for the delayed tornado must be executed correctly prior to using this macro.
+Disclaimer
+Using macros can violate the Terms of Service for "League of Legends" and may lead to account sanctions. Utilize this macro at your own discretion.
+The developer of this macro is not liable for any consequences that arise from using this script, including but not limited to account suspension or bans.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 10 ms
+KeyUp 8 1
+Delay 100 ms
+KeyDown 20 1
+Delay 10 ms
+KeyUp 20 1
+Delay 440 ms
+RightDown 1
+Delay 10 ms
+RightUp 1
+Delay 64
+GoWhile 9 10</Syntax>
+    </KeyDown>
+    <Software>League of legends</Software>
+  </DefaultMacro>
+</Root>

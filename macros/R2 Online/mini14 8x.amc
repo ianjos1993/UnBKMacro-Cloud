@@ -1,0 +1,54 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Mini14 прицел 8x. 10 выстрелов в автоматическом режиме максимально возможно в кучу. Можно зажимать на 200-300 метров с минимальным контролем. Ставьте компенсатор(АВ)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+LeftUp 1
+MoveR 0 110
+Delay 105 ms
+LeftDown 1
+LeftUp 1
+MoveR 0 75
+Delay 105 ms
+LeftDown 1
+LeftUp 1
+MoveR 0 68
+Delay 105 ms
+LeftDown 1
+LeftUp 1
+MoveR 0 80
+Delay 105 ms
+LeftDown 1
+LeftUp 1
+MoveR 0 70
+Delay 105 ms
+LeftDown 1
+LeftUp 1
+MoveR 0 72
+Delay 105 ms
+LeftDown 1
+LeftUp 1
+MoveR 0 70
+Delay 105 ms
+LeftDown 1
+LeftUp 1
+MoveR 0 70
+Delay 105 ms
+LeftDown 1
+LeftUp 1
+MoveR 0 70
+Delay 105 ms
+LeftDown 1
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>R2 online</Software>
+  </DefaultMacro>
+</Root>

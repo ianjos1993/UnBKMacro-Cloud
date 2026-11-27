@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description> Очень удобный кликер ипользовать можно при пвп (плеер v плеер). Существенные изменения вносит когда настроено " режим работы: выполнять пока нажата клавиша". Изменения: при рание указанных настройках 1 клик умножается на 5 то есть, если быстро кликнуть на любом сайте для тестирования клика в секунду, ваш 1 клик будет равен 4-5. При быстром нажатии много раз вы получите огромный кпс который позволит вам выйграть битву.
+ English version: A very convenient clicker and can be used with pvp (player v player). Substantial changes are made when "operating mode: execute while the key is pressed" is configured. Changes: with earlier specified settings, 1 click is multiplied by 5, that is, if you quickly click on any site to test a click per second, your 1 click will be equal to 4-5. If you press quickly many times, you will receive a huge CPP which will allow you to win the battle.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 7 ms
+LeftUp 1
+Delay 7 ms
+LeftDown 1
+Delay 7 ms
+LeftUp 1
+Delay 7 ms
+LeftDown 1
+Delay 7 ms
+LeftUp 1
+Delay 7 ms
+LeftDown 1
+Delay 7 ms
+LeftUp 1
+Delay 7 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

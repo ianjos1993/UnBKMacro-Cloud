@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major>Macros</Major>
+    <Description>Этот макрос значительно облегчит Вам получение редкой жёлтой игрушки Smokey. Просто подойдите к игровому автомату, нажмите на назначенную клавишу и идите перекусить, макрос сам будет делать попытки достать игрушку =) 
+
+Rockstar Games как всегда не жалеет игроков, возможность получения этого трофея 1 к 60... Без макроса на попытки уйдёт много времени.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 60 ms
+KeyUp 8 1
+Delay 3950 ms
+KeyDown 26 1
+Delay 2055 ms
+KeyUp 26 1
+Delay 120 ms
+KeyDown 7 1
+Delay 380 ms
+KeyUp 7 1
+Delay 120 ms
+KeyDown 40 1
+Delay 60 ms
+KeyUp 40 1
+Delay 10800 ms</Syntax>
+    </KeyDown>
+    <Software>GTA V</Software>
+  </DefaultMacro>
+</Root>

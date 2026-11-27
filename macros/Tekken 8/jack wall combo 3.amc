@@ -1,0 +1,109 @@
+<Root>
+  <DefaultMacro>
+    <Major>jack wall combo 3</Major>
+    <Description>Комбо макрос для персонажа Jack-8 в игре Tekken 8
+
+Внешне Jack-8 сочетает массивную бронезащиту с интегрированными модулями вооружения. Центральным элементом является система Gamma System - управляемый энергетический модуль, обеспечивающий выполнение высокомощных атак и тактических прорывов обороны противника. Искусственный интеллект модели оснащен расширенными аналитическими функциями, что позволяет прогнозировать действия соперника и подбирать оптимальный ответ в реальном времени.
+
+
+Видео демонстрация макроса -https://youtu.be/bQkRxB2RA_4
+Тестировалось на последней версии игры.
+
+Настройки в программе для корректного выполнения макроса:
+1. Использовать драйвер.
+2. Отключить использование минимальной задержки.
+
+
+Настройки управления в игре:
+1 - Num 4
+2 - Num 5
+3 - Num 1
+4 - Num 2
+Up - W
+Down - S
+Left - A
+Right - D
+
+Если макрос не работает обращаться - https://keyran.net/discord
+Либо к автору макроса, также по вопросам написания макросов - hersonaep (discord)
+
+#tekken #tekken8 #jack8 #keyran</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 73 1
+Delay 98 ms
+KeyDown 74 1
+Delay 35 ms
+KeyUp 73 1
+Delay 92 ms
+KeyUp 74 1
+Delay 348 ms
+KeyDown 74 1
+Delay 51 ms
+KeyDown 73 1
+Delay 134 ms
+KeyUp 73 1
+Delay 69 ms
+KeyDown 73 1
+Delay 105 ms
+KeyUp 73 1
+Delay 74 ms
+KeyDown 73 1
+Delay 99 ms
+KeyUp 73 1
+Delay 76 ms
+KeyDown 73 1
+Delay 92 ms
+KeyUp 73 1
+Delay 58 ms
+KeyDown 73 1
+Delay 116 ms
+KeyUp 73 1
+Delay 478 ms
+KeyDown 76 1
+Delay 104 ms
+KeyUp 76 1
+Delay 92 ms
+KeyDown 76 1
+Delay 69 ms
+KeyUp 76 1
+Delay 110 ms
+KeyDown 76 1
+Delay 70 ms
+KeyUp 76 1
+Delay 45 ms
+KeyDown 76 1
+Delay 93 ms
+KeyUp 76 1
+Delay 75 ms
+KeyDown 76 1
+Delay 98 ms
+KeyUp 76 1
+Delay 98 ms
+KeyDown 74 1
+Delay 830 ms
+KeyUp 74 1
+Delay 64 ms
+KeyDown 76 1
+Delay 151 ms
+KeyUp 76 1
+Delay 75 ms
+KeyDown 76 1
+Delay 127 ms
+KeyUp 76 1
+Delay 52 ms
+KeyDown 76 1
+Delay 127 ms
+KeyUp 76 1
+Delay 244 ms
+KeyUp 74 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

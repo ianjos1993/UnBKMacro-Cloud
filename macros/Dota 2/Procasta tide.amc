@@ -1,0 +1,68 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Прокаст ульта тайда с предметами
+Пробел - Шива
+Х - Кримсон
+С - Пайп
+В - Рефрешер
+N - Гривсы
+........................
+V - для блинка, его прожимайте сами и запускайте макрос
+!!!Важно!!! Если у противника есть статус резист, уменьшите время до каста  второй ульты, в самом макросе есть коментарий для удобства.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 166 ms
+KeyUp 21 1
+Delay 384 ms
+KeyDown 44 1
+Delay 285 ms
+KeyUp 44 1
+Delay 677 ms
+KeyDown 27 1
+Delay 104 ms
+KeyUp 27 1
+Delay 214 ms
+KeyDown 6 1
+Delay 117 ms
+KeyUp 6 1
+Delay 399 ms
+KeyDown 17 1
+Delay 189 ms
+KeyUp 17 1
+Delay 273 ms
+KeyDown 5 1
+Delay 119 ms
+KeyUp 5 1
+Delay 650 ms
+//выставьте значение 500 если у врагов есть резист к эффектам 
+KeyDown 21 1
+Delay 102 ms
+KeyUp 21 1
+Delay 652 ms
+KeyDown 44 1
+Delay 186 ms
+KeyUp 44 1
+Delay 469 ms
+KeyDown 27 1
+Delay 114 ms
+KeyUp 27 1
+Delay 655 ms
+KeyDown 5 1
+Delay 119 ms
+KeyUp 5 1
+Delay 393 ms
+KeyDown 17 1
+Delay 149 ms
+KeyUp 17 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

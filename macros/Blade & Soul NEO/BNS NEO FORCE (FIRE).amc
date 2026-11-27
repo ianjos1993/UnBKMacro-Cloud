@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Упрощает ротацию в огненной сборке Мастера стихий (форс), чтобы самостоятельно не нажимать ПКМ и ЛКМ. 
+Задержку подбирайте под свой пинг в игре.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 90 ms
+KeyUp 21 1
+Delay 90 ms
+KeyDown 31 1
+Delay 90 ms
+KeyUp 31 1
+Delay 90 ms
+KeyDown 23 1
+Delay 90 ms
+KeyUp 23 1
+Delay 90 ms
+KeyDown 31 1
+Delay 90 ms
+KeyUp 31 1
+Delay 90 ms</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul NEO</Software>
+  </DefaultMacro>
+</Root>

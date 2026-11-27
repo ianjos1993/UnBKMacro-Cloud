@@ -1,0 +1,53 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Анти АФК для Warface.
+Тоесть вы нажимаете на любую букву на которую установили макрос и может отходить от компьютера.
+Это понадобиться вам если вы вдруг захотели поиграть с читером и пробуститься, но вам скучно стоять на месте. Благодаря этому вы можете отойти от компьютера/ноутбука.</Description>
+    <Comment>Желаю удачи и надеюсь мой макрос вам поможет!</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 841 ms
+KeyDown 26 1
+Delay 56 ms
+KeyUp 26 1
+Delay 1007 ms
+KeyDown 44 1
+Delay 135 ms
+KeyUp 44 1
+Delay 1816 ms
+KeyDown 26 1
+Delay 88 ms
+KeyUp 26 1
+Delay 639 ms
+KeyDown 44 1
+Delay 112 ms
+KeyUp 44 1
+Delay 1473 ms
+KeyDown 26 1
+Delay 54 ms
+KeyUp 26 1
+Delay 544 ms
+KeyDown 44 1
+Delay 111 ms
+KeyUp 44 1
+Delay 639 ms
+KeyDown 26 1
+Delay 983 ms
+KeyUp 26 1
+Delay 600 ms
+KeyDown 44 1
+Delay 151 ms
+KeyUp 44 1
+Delay 2001 ms
+LeftDown 1
+Delay 136 ms</Syntax>
+    </KeyDown>
+    <Software>Warface</Software>
+  </DefaultMacro>
+</Root>

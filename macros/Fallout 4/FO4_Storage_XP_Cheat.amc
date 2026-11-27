@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Бинд на правый Ctrl, бесконечно ставит полки для фарма XP. Не рекомендую ставить задержки меньше 10, проверял сам в игре работает безотказно, нафармил 25 ЛВЛов. Юзайте дети мои</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 88 1
+Delay 10 ms
+KeyUp 88 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>FallOut 4</Software>
+  </DefaultMacro>
+</Root>

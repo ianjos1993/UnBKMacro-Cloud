@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>  Макрос на ферму hypixel skyblock в гардене для горизонтальной фермы пшеницы, нароста, картошки и тд  на 3 плота в гардене. Скорость на ранчо ботинках 165 и угол 90 градусов, сенса любая.(Во время контеста модераторы серва проверяют людей на скрипты, Возможен БАН!!! поэтому на контестах лучше не использовать.)(58 секунд это 3 плота, 39 секунд это два плота, 19 секунд это 1 плот в гардене, изначально стоит на 3 плота)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 26 1
+KeyDown 7 1
+Delay 58 s
+KeyUp 7 1
+KeyDown 4 1
+Delay 58 s
+LeftUp 1
+KeyUp 26 1
+KeyUp 4 1
+GoWhile 1 9999</Syntax>
+    </KeyDown>
+    <Software>Minecraft Hypixel Skyblock</Software>
+  </DefaultMacro>
+</Root>

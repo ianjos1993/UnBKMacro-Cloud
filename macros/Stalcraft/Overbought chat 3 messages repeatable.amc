@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Пишет 3 сообщения в чат и сам их повторяет каждые 30 сеунд, включаем макрос и наслаждаемся потоком клиентов с кружечкой чая. Дальше инструкция порядок действий:
+ВАЖНО! В игре меняй кнопку чата с ENTER на средняя кнопка мыши (колесико)
+- Скопируй нужное сообщение
+- Зайди в игру, вставь сообщение в чат, отправь одно
+- ВКЛЮЧИ keyran и нажни назначенную кнопку макроса
+
+
+
+
+
+
+ </Description>
+    <Comment>пользуюсь сам, делаю дела отходя от компа а макрос всю рекламу делает за меня. Удачи в торговле</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MiddleDown 1
+Delay 64
+MiddleUp 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 99 1
+Delay 64
+KeyUp 99 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+GoWhile 1 3
+Delay 30300 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>Apex Jitter Aim for all weapons</Major>
+    <Description>Jitter Aim + Recoil control on all weapons. 
+
+Res: 2k
+Mouse Sens: 1.5 ADS 1.0, DPI 800
+FOV: 110
+
+The mouse cursor can be adusted to value 4 if needed but 3 worked best for me.</Description>
+    <Comment>works well just standing still, works best with normal strafe. </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 3 0
+Delay 8 ms
+MoveR 3 1
+Delay 8 ms
+MoveR -3 0
+Delay 8 ms
+MoveR -3 1
+Delay 8 ms
+GoWhile 2 50000
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

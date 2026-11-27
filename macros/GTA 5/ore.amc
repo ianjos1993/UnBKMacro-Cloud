@@ -1,0 +1,464 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>для добывания руды на маджестике. подбегаеш к камню нажимаеш кнопку и ждеш, бежиш к следующему и повторяеш данную операцию</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 51 ms
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 48 1
+Delay 64
+KeyUp 48 1
+Delay 64
+KeyDown 47 1
+Delay 64
+KeyUp 47 1
+Delay 64
+KeyDown 52 1
+Delay 64
+KeyUp 52 1
+Delay 64
+KeyDown 56 1
+Delay 64
+KeyUp 56 1
+Delay 64
+KeyDown 56 1
+Delay 64
+KeyUp 56 1
+Delay 64
+KeyDown 56 1
+Delay 64
+KeyUp 56 1
+Delay 64
+KeyDown 228 1
+Delay 64
+KeyUp 228 1
+Delay 64
+KeyDown 228 1
+Delay 64
+KeyUp 228 1
+Delay 64
+KeyDown 228 1
+Delay 64
+KeyUp 228 1
+Delay 64
+LeftDown 1
+Delay 162 ms
+LeftUp 1
+Delay 31 ms
+LeftDown 1
+Delay 86 ms
+LeftUp 1
+Delay 109 ms
+LeftDown 1
+Delay 101 ms
+LeftUp 1
+Delay 126 ms
+LeftDown 1
+Delay 93 ms
+LeftUp 1
+Delay 117 ms
+LeftDown 1
+Delay 86 ms
+LeftUp 1
+Delay 126 ms
+LeftDown 1
+Delay 85 ms
+LeftUp 1
+Delay 126 ms
+LeftDown 1
+Delay 101 ms
+LeftUp 1
+Delay 117 ms
+LeftDown 1
+Delay 94 ms
+LeftUp 1
+Delay 117 ms
+LeftDown 1
+Delay 110 ms
+LeftUp 1
+Delay 118 ms
+LeftDown 1
+Delay 101 ms
+LeftUp 1
+Delay 110 ms
+LeftDown 1
+Delay 93 ms
+LeftUp 1
+Delay 110 ms
+LeftDown 1
+Delay 93 ms
+LeftUp 1
+Delay 213 ms
+LeftDown 1
+Delay 102 ms
+LeftUp 1
+Delay 190 ms
+LeftDown 1
+Delay 93 ms
+LeftUp 1
+Delay 118 ms
+LeftDown 1
+Delay 134 ms
+LeftUp 1
+Delay 117 ms
+LeftDown 1
+Delay 86 ms
+LeftUp 1
+Delay 197 ms
+LeftDown 1
+Delay 110 ms
+LeftUp 1
+Delay 134 ms
+LeftDown 1
+Delay 110 ms
+LeftUp 1
+Delay 101 ms
+LeftDown 1
+Delay 109 ms
+LeftUp 1
+Delay 93 ms
+LeftDown 1
+Delay 94 ms
+LeftUp 1
+Delay 94 ms
+LeftDown 1
+Delay 102 ms
+LeftUp 1
+Delay 109 ms
+LeftDown 1
+Delay 102 ms
+LeftUp 1
+Delay 94 ms
+LeftDown 1
+Delay 101 ms
+LeftUp 1
+Delay 78 ms
+LeftDown 1
+Delay 101 ms
+LeftUp 1
+Delay 125 ms
+LeftDown 1
+Delay 102 ms
+LeftUp 1
+Delay 141 ms
+LeftDown 1
+Delay 70 ms
+LeftUp 1
+Delay 101 ms
+LeftDown 1
+Delay 85 ms
+LeftUp 1
+Delay 158 ms
+LeftDown 1
+Delay 117 ms
+LeftUp 1
+Delay 141 ms
+LeftDown 1
+Delay 101 ms
+LeftUp 1
+Delay 102 ms
+LeftDown 1
+Delay 85 ms
+LeftUp 1
+Delay 110 ms
+LeftDown 1
+Delay 93 ms
+LeftUp 1
+Delay 94 ms
+LeftDown 1
+Delay 94 ms
+LeftUp 1
+Delay 85 ms
+LeftDown 1
+Delay 102 ms
+LeftUp 1
+Delay 93 ms
+LeftDown 1
+Delay 86 ms
+LeftUp 1
+Delay 117 ms
+LeftDown 1
+Delay 94 ms
+LeftUp 1
+Delay 94 ms
+LeftDown 1
+Delay 93 ms
+LeftUp 1
+Delay 102 ms
+LeftDown 1
+Delay 109 ms
+LeftUp 1
+Delay 158 ms
+LeftDown 1
+Delay 101 ms
+LeftUp 1
+Delay 117 ms
+LeftDown 1
+Delay 85 ms
+LeftUp 1
+Delay 149 ms
+LeftDown 1
+Delay 134 ms
+LeftUp 1
+Delay 109 ms
+LeftDown 1
+Delay 110 ms
+LeftUp 1
+Delay 93 ms
+LeftDown 1
+Delay 102 ms
+LeftUp 1
+Delay 110 ms
+LeftDown 1
+Delay 101 ms
+LeftUp 1
+Delay 94 ms
+LeftDown 1
+Delay 110 ms
+LeftUp 1
+Delay 101 ms
+LeftDown 1
+Delay 94 ms
+LeftUp 1
+Delay 101 ms
+LeftDown 1
+Delay 110 ms
+LeftUp 1
+Delay 117 ms
+LeftDown 1
+Delay 102 ms
+LeftUp 1
+Delay 125 ms
+LeftDown 1
+Delay 102 ms
+LeftUp 1
+Delay 101 ms
+LeftDown 1
+Delay 109 ms
+LeftUp 1
+Delay 77 ms
+LeftDown 1
+Delay 102 ms
+LeftUp 1
+Delay 117 ms
+LeftDown 1
+Delay 78 ms
+LeftUp 1
+Delay 117 ms
+LeftDown 1
+Delay 86 ms
+LeftUp 1
+Delay 117 ms
+LeftDown 1
+Delay 102 ms
+LeftUp 1
+Delay 101 ms
+LeftDown 1
+Delay 85 ms
+LeftUp 1
+Delay 93 ms
+LeftDown 1
+Delay 101 ms
+LeftUp 1
+Delay 102 ms
+LeftDown 1
+Delay 94 ms
+LeftUp 1
+Delay 110 ms
+LeftDown 1
+Delay 93 ms
+LeftUp 1
+Delay 101 ms
+LeftDown 1
+Delay 110 ms
+LeftUp 1
+Delay 117 ms
+LeftDown 1
+Delay 93 ms
+LeftUp 1
+Delay 117 ms
+LeftDown 1
+Delay 110 ms
+LeftUp 1
+Delay 165 ms
+LeftDown 1
+Delay 110 ms
+LeftUp 1
+Delay 126 ms
+LeftDown 1
+Delay 93 ms
+LeftUp 1
+Delay 149 ms
+LeftDown 1
+Delay 94 ms
+LeftUp 1
+Delay 125 ms
+LeftDown 1
+Delay 109 ms
+LeftUp 1
+Delay 102 ms
+LeftDown 1
+Delay 102 ms
+LeftUp 1
+Delay 93 ms
+LeftDown 1
+Delay 102 ms
+LeftUp 1
+Delay 101 ms
+LeftDown 1
+Delay 94 ms
+LeftUp 1
+Delay 101 ms
+LeftDown 1
+Delay 78 ms
+LeftUp 1
+Delay 109 ms
+LeftDown 1
+Delay 102 ms
+LeftUp 1
+Delay 101 ms
+LeftDown 1
+Delay 110 ms
+LeftUp 1
+Delay 117 ms
+LeftDown 1
+Delay 149 ms
+LeftUp 1
+Delay 118 ms
+LeftDown 1
+Delay 70 ms
+LeftUp 1
+Delay 117 ms
+LeftDown 1
+Delay 93 ms
+LeftUp 1
+Delay 110 ms
+LeftDown 1
+Delay 93 ms
+LeftUp 1
+Delay 93 ms
+LeftDown 1
+Delay 94 ms
+LeftUp 1
+Delay 102 ms
+LeftDown 1
+Delay 86 ms
+LeftUp 1
+Delay 109 ms
+LeftDown 1
+Delay 102 ms
+LeftUp 1
+Delay 117 ms
+LeftDown 1
+Delay 110 ms
+LeftUp 1
+Delay 102 ms
+LeftDown 1
+Delay 118 ms
+LeftUp 1
+Delay 85 ms
+LeftDown 1
+Delay 117 ms
+LeftUp 1
+Delay 86 ms
+LeftDown 1
+Delay 85 ms
+LeftUp 1
+Delay 117 ms
+LeftDown 1
+Delay 93 ms
+LeftUp 1
+Delay 117 ms
+LeftDown 1
+Delay 117 ms
+LeftUp 1
+Delay 109 ms
+LeftDown 1
+Delay 182 ms
+LeftUp 1
+Delay 141 ms
+LeftDown 1
+Delay 85 ms
+LeftUp 1
+Delay 102 ms
+LeftDown 1
+Delay 117 ms
+LeftUp 1
+Delay 94 ms
+LeftDown 1
+Delay 93 ms
+LeftUp 1
+Delay 102 ms
+LeftDown 1
+Delay 93 ms
+LeftUp 1
+Delay 118 ms
+LeftDown 1
+Delay 133 ms
+LeftUp 1
+Delay 94 ms
+LeftDown 1
+Delay 86 ms
+LeftUp 1
+Delay 109 ms
+LeftDown 1
+Delay 93 ms
+LeftUp 1
+Delay 109 ms
+LeftDown 1
+Delay 101 ms
+LeftUp 1
+Delay 110 ms
+LeftDown 1
+Delay 86 ms
+LeftUp 1
+Delay 109 ms
+LeftDown 1
+Delay 102 ms
+LeftUp 1
+Delay 109 ms
+LeftDown 1
+Delay 109 ms
+LeftUp 1
+Delay 93 ms
+LeftDown 1
+Delay 94 ms
+LeftUp 1
+Delay 125 ms
+LeftDown 1
+Delay 94 ms
+LeftUp 1
+Delay 109 ms
+LeftDown 1
+Delay 125 ms
+LeftUp 1
+Delay 190 ms
+LeftDown 1
+Delay 117 ms
+LeftUp 1
+Delay 61 ms
+LeftDown 1
+Delay 118 ms
+LeftUp 1
+Delay 254 ms
+LeftDown 1
+Delay 141 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>GTA V</Software>
+  </DefaultMacro>
+</Root>

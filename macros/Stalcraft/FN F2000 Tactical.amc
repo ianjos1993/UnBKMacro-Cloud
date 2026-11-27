@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Антиотдача для автомата ФН Ф2000 и автокликер.
+Использовал с прицелом леопольд (2.4) и вортекс(2.0)
+
+Расширение 1920х1080
+
+Если чуствуется неудобство, отредактируйте значение Y для корректировки
+
+
+ВАЖНО: Если включаете инвентарь или сворачиваете игру обязательно выключайте макросс, так как автокликер может создать неудобства :)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 0 2
+Delay 15 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

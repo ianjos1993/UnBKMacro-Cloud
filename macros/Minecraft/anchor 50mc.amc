@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>для тех кто плохо ставит или не умеет ставить якоря для более легитной игры.Якоря лодить на 4 и 5 слот они бахаються сами нажимать на лкм не надо.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 33 1
+Delay 50
+KeyUp 33 1
+Delay 50
+RightDown 1
+Delay 50
+RightUp 1
+Delay 50
+KeyDown 34 1
+Delay 50
+KeyUp 34 1
+Delay 50
+RightDown 1
+Delay 50
+RightUp 1
+Delay 50
+KeyDown 30 1
+Delay 50
+KeyUp 30 1
+Delay 50
+RightDown 1
+Delay 50
+RightUp 1
+Delay 50</Syntax>
+    </KeyDown>
+    <Software>minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,61 @@
+<Root>
+  <DefaultMacro>
+    <Major>Быстрый suicide в консоль</Major>
+    <Description>--------------------------------------------------------------------------Описание макроса-----------------------------------------------------------------------------------  Данный мокрос быстро вписывает команду (suicide) в консоль. тем самым очень много времени экономит вам. (Этот макрос работает не на всех серверах, только на которых разрешено писать в консоль команды.)
+
+----------------------------------------------------------------------Инструкция эксплоатации--------------------------------------------------------------------------- 1. Загрузите макрос.
+2. Назначьте нужную кнопку для работы макроса. 
+3. Когда зажмете кнопку, макрос автомотически будет открывать консоль и вписывать в неё команду (suicide) и следом нажимает на (Enter), потом (Esc).
+</Description>
+    <Comment>))))</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 53 1
+Delay 1 ms
+KeyUp 53 1
+Delay 1 ms
+KeyDown 22 1
+Delay 1
+KeyUp 22 1
+Delay 1
+KeyDown 24 1
+Delay 1
+KeyUp 24 1
+Delay 1
+KeyDown 12 1
+Delay 1
+KeyUp 12 1
+Delay 1
+KeyDown 6 1
+Delay 1
+KeyUp 6 1
+Delay 1
+KeyDown 12 1
+Delay 1
+KeyUp 12 1
+Delay 1
+KeyDown 7 1
+Delay 1
+KeyUp 7 1
+Delay 1
+KeyDown 8 1
+Delay 1
+KeyUp 8 1
+Delay 1
+KeyDown 88 1
+Delay 1
+KeyUp 88 1
+Delay 1
+KeyDown 41 1
+Delay 1
+KeyUp 41 1
+Delay 1</Syntax>
+    </KeyDown>
+    <Software>Killing Floor</Software>
+  </DefaultMacro>
+</Root>

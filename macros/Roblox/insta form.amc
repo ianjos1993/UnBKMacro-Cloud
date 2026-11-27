@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>Locked (roblox game)</Major>
+    <Description>A formless for the game inside of roblox named "Locked". This macro will instantly do a perfect 180 as long as you adjust the settings right, look straight up and instantly do an instant formless. for the macro to work  right you must be looking at where you want the formless to go, stand at the center of the ball, and not move you mouse after you click the button you assigned the macro too. if you do move your mouse after you click the assigned macro button, you might miss. The Locked sens to use is 0.5 and the roblox sens to use is .125. Adjust your mouses dpi to however fast or slow you want your sens since it will not affect the macro. also this macro was used made for a 1920x1080 resolutuion (16:9 aspect ratio). i purposely made the swipe distance so that people dont have to use a much faster or slower sens than they are used to. Please enjoy the macro!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR -720 0
+MoveR -512 0
+MoveTo 2720 1472
+Delay 26 ms
+MoveTo 2720 1472
+MoveTo 0 -5000
+Delay 78 ms
+Delay 36 ms
+RightDown 1
+Delay 24 ms
+KeyDown 21 1
+Delay 1 ms
+KeyUp 21 1
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

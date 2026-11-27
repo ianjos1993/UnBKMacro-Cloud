@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>суперглайд легко, вертикальную синхронизацию лучше выключить. Просто карабкаетесь и жмете кнопку в моейм случае CAPSLOCK</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 57 1
+Delay 5 ms
+KeyDown 224 1
+Delay 23 ms
+KeyUp 57 1
+Delay 250 ms
+KeyUp 224 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

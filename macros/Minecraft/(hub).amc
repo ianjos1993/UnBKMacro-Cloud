@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>данный макрос предназначен для быстрого выхода из сервера-игры.
+1 биндить можно на удобную клавишу.
+2 вродебы без помех.
+3 не является читом.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 34 ms
+KeyUp 56 1
+Delay 34 ms
+KeyDown 11 1
+Delay 34 ms
+KeyUp 11 1
+Delay 34 ms
+KeyDown 24 1
+Delay 34 ms
+KeyUp 24 1
+Delay 34 ms
+KeyDown 5 1
+Delay 34 ms
+KeyUp 5 1
+Delay 34 ms
+KeyDown 88 1
+Delay 34 ms
+KeyUp 88 1
+Delay 34 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

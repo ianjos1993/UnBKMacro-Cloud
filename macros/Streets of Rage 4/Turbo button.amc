@@ -1,0 +1,18 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос имитирует нажатие кнопки на Нес или денди а именно кнопку турбо. Чтобы все работало правильно измените режим на "Повторение при нажатии"</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 229 1
+KeyUp 229 1</Syntax>
+    </KeyDown>
+    <Software>Steet"of Rage 4</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Для того что бы копать червей при помощи данного кода нужно забиндить слот с лопатой на букву "Ж" (когда вы её забиндите она будет отображаться у вас как ":". Макрос расчитан на выкапывание 900 червей.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 51 1
+Delay 60 ms
+KeyUp 51 1
+Delay 12000
+GoWhile 1 900</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,63 @@
+<Root>
+  <DefaultMacro>
+    <Major>Авто продажа лута</Major>
+    <Description>Макрос для авто продажи лута в игре Теос/Shaiya 
+Рекомендую ставить на клавишу R.
+Для корректной работы макроса требуется открыть инвентарь и подойти к торговцу открыв окно для продажи.
+Проверял на сервере Shaiya Conflict.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 88 1
+Delay 44 ms
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyUp 88 1
+Delay 33 ms
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyDown 44 1
+Delay 12 ms
+KeyUp 88 1
+Delay 64
+KeyUp 44 1
+Delay 24 ms</Syntax>
+    </KeyDown>
+    <Software>Shaiya</Software>
+  </DefaultMacro>
+</Root>

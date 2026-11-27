@@ -1,0 +1,69 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для наковальни, для крафта различных патронов и не только. Этот макрос для крафта дроби 12.60 на дробовики. Используется на РП сервере ГП. ГП - город подписчиков, рп сервер 5opka, на котором большой онлайн и интересные кастомные предметы. Макрос легко редактируется и прост в использовании</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 150 ms
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 150 ms
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 150 ms
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 150 ms
+KeyDown 35 1
+Delay 64
+KeyUp 35 1
+Delay 150 ms
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 150 ms
+KeyDown 36 1
+Delay 64
+KeyUp 36 1
+Delay 150 ms
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 150 ms
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 150 ms
+KeyDown 37 1
+Delay 64
+KeyUp 37 1
+Delay 150 ms
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 150 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 2000 ms
+LeftDown 1
+Delay 164 ms
+LeftUp 1
+Delay 1400 1522 ms
+GoWhile 49 16</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

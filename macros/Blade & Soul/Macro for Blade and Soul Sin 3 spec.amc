@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>бнс макрос для сина 3 спек</Major>
+    <Description>Бнс макрос для сина 3 спек
+Макрос для нажатия в стойке 4 t y в последовательности.
+Для тех кто реально болеет ленью и не может нажимать кнопки сам )))</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 33 1
+Delay 10 ms
+KeyUp 33 1
+Delay 10 ms
+KeyDown 28 1
+Delay 10 ms
+KeyUp 28 1
+Delay 10 ms
+KeyDown 23 1
+Delay 10 ms
+KeyUp 23 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

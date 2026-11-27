@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description> F3 - делаем макрос  /target имя к кому привязаться  2  строчка /attack 3 /attack
+F2   в макрос выносим нужные сонги со списка умений не с панели у меня 3 сонга всего по этому така язадержка если будет больше сонгов увеличьте задержку
+
+
+
+
+
+
+
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 60 1
+KeyUp 60 1
+Delay 2 s
+KeyDown 59 1
+Delay 64
+KeyUp 59 1
+Delay 3 s
+KeyDown 60 1
+KeyUp 60 1
+Delay 108 s
+GoWhile 1 50000</Syntax>
+    </KeyDown>
+    <Software>lineahe 2</Software>
+  </DefaultMacro>
+</Root>

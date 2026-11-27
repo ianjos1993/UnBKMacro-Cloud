@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для ленивых можно сказать простенький но удобный!
+Назначаете его на лкм или на любую кнопку клавиатуры или доп клавиши мышки, самое главное в самой програме назначте кнопку вкл\выкл программы а то может забагаться лкм! 
+Как я и говорил простенький ну в шахте самое то!)
+Если что то вам не понятно пишите в лс, подскажу!
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 1 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Will To Live Online</Software>
+  </DefaultMacro>
+</Root>

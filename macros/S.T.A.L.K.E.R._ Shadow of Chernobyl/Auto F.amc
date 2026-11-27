@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простенький макрос который автоматически нажимает кнопку использовать (Кнопка F но можно поменять и в настройках игры и в макросе) 5000 раз (При желании можно изменить). Можно использовать для быстрого подбора предметов или чего-то ещё.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 5 ms
+KeyUp 9 1
+Delay 5 ms
+GoWhile 1 5000</Syntax>
+    </KeyDown>
+    <Software>S.T.A.L.K.E.R: Shadow of Chernobyl</Software>
+  </DefaultMacro>
+</Root>

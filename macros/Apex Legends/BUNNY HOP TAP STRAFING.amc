@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>this script will helpfuly you to do a neo strafe of bunny hop strafe to make ur movement great 
+you can bind this key into "spacebar" and keep spaming it while aiming
+you probably press W A S D and spamming the "spacebar" key
+enjoy</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>WheelDown 1
+Delay 4 ms
+WheelUp 1
+Delay 4 ms
+WheelDown 1
+Delay 4 ms
+WheelUp 1
+Delay 4 ms
+WheelDown 1
+Delay 4 ms
+WheelUp 1
+Delay 4 ms
+WheelDown 1
+Delay 4 ms
+WheelUp 1
+Delay 4 ms
+WheelDown 1
+Delay 4 ms
+WheelUp 1
+Delay 4 ms
+GoWhile 1 5</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

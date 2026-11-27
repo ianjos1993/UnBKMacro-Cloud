@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Для фарма на специальных серверах:
+
+Смените назначение клавиш перед использованием.
+
+(Настройки -&gt; Мышь / Клавиатура -&gt; Глобальное -&gt; Настроить привязку клавиш -&gt; Оружие и снаряжение)
+
+Огонь — ЛКМ
+Устройство специалиста — ПКМ
+
+Работает сразу после установки.
+
+Приятного фарма!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Battlefield 2042</Software>
+  </DefaultMacro>
+</Root>

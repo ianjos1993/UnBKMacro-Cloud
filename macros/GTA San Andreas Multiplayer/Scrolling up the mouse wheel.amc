@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Прокрутка мыши вверх. Полезна для игры SAMP на серверах. Работает не только в самп. В будещем возможен выход прокрутки вниз и нажатие боковых клавишь мыших вверх/вниз.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>WheelUp 1
+Delay 300
+WheelUp 1
+Delay 300
+WheelUp 1
+Delay 300
+GoWhile 1 100000</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

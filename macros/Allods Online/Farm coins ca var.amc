@@ -1,0 +1,76 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>ё - мельница
+8 - лук
+F - топот
+7 - черепаха
+alt+7 - берсерк
+
+Советую встать в костре у кобольдов на Гулкая гряда
+Макрос подзывает к себе цели выстрелом из лука и паралельно дает АОЕ мельницей, топотом. Каждые 30 секнуд активирует черепаху для защиты от урона</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+KeyDown 37 1
+Delay 64
+KeyUp 37 1
+Delay 64 ms
+KeyDown 53 1
+Delay 64 ms
+KeyUp 53 1
+Delay 4 s
+KeyDown 226 1
+KeyDown 36 1
+Delay 64
+KeyUp 226 1
+KeyUp 36 1
+Delay 64
+KeyDown 53 1
+Delay 64 ms
+KeyUp 53 1
+Delay 4 s
+KeyDown 53 1
+Delay 64 ms
+KeyUp 53 1
+Delay 4 s
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+KeyDown 37 1
+Delay 64
+KeyUp 37 1
+Delay 64 ms
+KeyDown 53 1
+Delay 64
+KeyUp 53 1
+Delay 4 s
+KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 64 ms
+KeyDown 36 1
+Delay 64
+KeyUp 36 1
+Delay 64
+KeyDown 53 1
+Delay 64
+KeyUp 53 1
+Delay 4 s
+KeyDown 53 1
+Delay 64
+KeyUp 53 1</Syntax>
+    </KeyDown>
+    <Software>Аллоды онлайн</Software>
+  </DefaultMacro>
+</Root>

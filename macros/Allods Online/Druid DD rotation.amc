@@ -1,0 +1,61 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>ПВЕ макрос для друида с ротацией из 5 кнопок. Без задержки перед применением 
+
+1- Осиный рой
+2- Ядовитый шип
+3- Ядовитая лоза
+4- Смерч
+5- Изумрудный всполох
+6- Гром и молния
+
+Макрос прожимает скиллы в последовательности 1 6 2 3 3 4 4 5 5 </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 100 ms
+KeyUp 30 1
+Delay 900 ms
+KeyDown 35 1
+Delay 100 ms
+KeyUp 35 1
+Delay 900 ms
+KeyDown 31 1
+Delay 100 ms
+KeyUp 31 1
+Delay 900 ms
+KeyDown 32 1
+Delay 100 ms
+KeyUp 32 1
+Delay 900 ms
+KeyDown 32 1
+Delay 100 ms
+KeyUp 32 1
+Delay 900 ms
+KeyDown 33 1
+Delay 100 ms
+KeyUp 33 1
+Delay 900 ms
+KeyDown 33 1
+Delay 100 ms
+KeyUp 33 1
+Delay 900 ms
+KeyDown 34 1
+Delay 100 ms
+KeyUp 34 1
+Delay 1200 ms
+KeyDown 34 1
+Delay 100 ms
+KeyUp 34 1
+Delay 1200 ms</Syntax>
+    </KeyDown>
+    <Software>Аллоды онлайн</Software>
+  </DefaultMacro>
+</Root>

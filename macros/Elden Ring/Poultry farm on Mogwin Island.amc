@@ -1,0 +1,62 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Я создал свой скрипт для фарма птицы в Elden Ring
+Требования: 
+-длинный лук
+-800 dpi
+-максимально много стрел
+
+Что нужно сделать:
+
+Телепортируйтесь на благодать "крутая дорога, ведущая ко дворцуу", возьмите лук в две руки и запускайте скрипт
+
+Примечание:
+
+Шанс промаха примерно 1:5, но в отличие от других скриптов в этой проге, мой работает без проблем 
+
+Спасибо за использование:)</Description>
+    <Comment>
+https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 16 1
+Delay 300 ms
+KeyUp 16 1
+Delay 300 ms
+KeyDown 9 1
+Delay 300 ms
+KeyUp 9 1
+Delay 300 ms
+KeyDown 8 1
+Delay 300 ms
+KeyUp 8 1
+Delay 300 ms
+KeyDown 8 1
+Delay 300 ms
+KeyUp 8 1
+Delay 5200 ms
+KeyDown 4 1
+Delay 1400 ms
+KeyUp 4 1
+Delay 100 ms
+MoveR -800 480
+Delay 200 ms
+RightDown 1
+Delay 500 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 7 s
+RightUp 1
+Delay 1 s
+GoWhile 1 699</Syntax>
+    </KeyDown>
+    <Software>Elden Ring</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,67 @@
+<Root>
+  <DefaultMacro>
+    <Major>AION 2 (Общий)</Major>
+    <Description>Данный макрос подходит для любого класса. Настроено на стандартном расположении иконок на 1920х1080
+
+Выберите «Открыть» и откройте Aion2 (Общий).
+Откройте Aion 2.
+Дайнны макрос работает через таб. 
+В настройках поставьте что бы персонаж при выборе моба бежал к нему.
+Пока в таргете есть враг, макрос будет бить его, после убийства идет сбор лута и снова выбор моба. Скилы можно подобрать исходя из своего класса.
+
+Автоматическая атака 
+Готово! Наслаждайтесь!
+Бесплатный фарм.
+Но не отключайтесь, потому что вас могут забанить из-за жалобы на бота от другого игрока.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 23 0 255,255,255 255,255,255 2 1112 48 32 28 1 0
+Delay 32 ms
+KeyDown 21 1
+Delay 32 ms
+KeyUp 21 1
+Delay 32 ms
+KeyDown 23 1
+Delay 32 ms
+KeyUp 23 1
+Delay 32 ms
+KeyDown 30 1
+Delay 32 ms
+KeyUp 30 1
+Delay 32 ms
+KeyDown 21 1
+Delay 32 ms
+KeyUp 21 1
+Delay 32 ms
+KeyDown 8 1
+Delay 32 ms
+KeyUp 8 1
+Delay 32 ms
+GoColor 3 1 255,255,255 255,255,255 2 1118 51 20 23 1 0
+Delay 100 ms
+KeyDown 9 1
+Delay 100 ms
+KeyUp 9 1
+Delay 100 ms
+KeyDown 9 1
+Delay 100 ms
+KeyUp 9 1
+Delay 100 ms
+KeyDown 43 1
+Delay 100 ms
+KeyUp 43 1
+Delay 100 ms
+MoveR 1298 -86
+Delay 64
+MoveTo 500 680
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>AION 2</Software>
+  </DefaultMacro>
+</Root>

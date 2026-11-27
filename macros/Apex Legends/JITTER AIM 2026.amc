@@ -1,0 +1,58 @@
+<Root>
+  <DefaultMacro>
+    <Major>Weapons (Recoil Control)</Major>
+    <Description>        JITTER AIM 2026
+Technical Requirements:
+Driver: Must be ENABLED in the settings ("Use driver for mouse control in macros") to ensure the macro functions correctly.
+
+Resolution: 1920x1080.
+DPI: 800 DPI.
+Movement: Relative Micro-Offsets.
+
+  Overview:
+This macro is designed for Flatline and Havoc users to achieve maximum stability. It bypasses common cursor movement issues by operating through the enabled driver for hardware-level input emulation.
+
+   Recommended Settings:
+In-game Sensitivity: 1.2 - 1.5
+FOV: 104 or higher.
+Mode: Loop while pressed.
+  
+    Key Advantages:
+Effortless Control: Significantly reduces the need for heavy manual mouse pull-down.
+Superior Tracking: Makes it much easier to track fast-moving targets while maintaining a steady aim.
+Reliability: Engineered for consistency across different attachment levels for the Flatline and Havoc.
+</Description>
+    <Comment>1.Set the execution mode to "Loop while pressed".
+
+2.Screen Resolution: 1920x1080
+
+3.DPI Settings: Optimized for 800 DPI.
+
+4.In-game Sensitivity: Best performance is achieved between 1.2 and 2.5.
+
+4.If the jitter feels too strong or too weak, slightly 4.adjust your in-game sensitivity by 0.1 increments.
+
+5.For the most stable visual experience, a Field of View (FOV) of 104 or higher is recommended.
+
+6.Driver: Must be ENABLED in the settings ("Use driver for mouse control in macros") to ensure the macro functions correctly.</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR -4 5
+Delay 4 ms
+MoveR 4 -5
+Delay 4 ms
+MoveR 4 5
+Delay 4 ms
+MoveR -4 -5
+Delay 4 ms
+Goto 2</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

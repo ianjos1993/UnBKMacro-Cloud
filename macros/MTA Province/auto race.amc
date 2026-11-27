@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Нужен на таких работах как ЖБК, поливомоечный трамвай, теплоходы, ледоколы. Скрипт зажимает за вас кнопку W (бег вперед) на продолжительное время. Работайте и не зажимайте кнопки разными предметами.
+P.S. Всех с наступающим ! :)
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 999999999 ms</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>это атоматическая стройка как бриззли. я честно незнаю как сделал такое, но оно не палится анти читом
+1. забинди клавишу которая не мешает
+2. встань задом на краю блока
+3. смотри примерно на 1 пиксель блока который выше
+4. нажимай и смотри как работает потому что есть некоторые косяки но работает!
+сделано:S-S</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 1 ms
+RightUp 1
+Delay 1 ms
+KeyDown 22 1
+KeyDown 7 1
+Delay 6 ms
+KeyUp 7 1
+Delay 6 ms
+KeyDown 4 1
+Delay 6 ms
+KeyUp 4 1
+Delay 6 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major>реинфорс на клавишы W A S D </Major>
+    <Description>возрождение союзника на одну кнопку!!  нужно забиндить использование стратогем на клавиши движенгия и наслаждаться игрой. для успешной работы надо стоять на месте</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 20 ms
+KeyDown 26 1
+Delay 10 ms
+KeyUp 26 1
+Delay 10 ms
+KeyDown 22 1
+Delay 10 ms
+KeyUp 22 1
+Delay 10 ms
+KeyDown 7 1
+Delay 10 ms
+KeyUp 7 1
+Delay 10 ms
+KeyDown 4 1
+Delay 10 ms
+KeyUp 4 1
+Delay 10 ms
+KeyDown 26 1
+Delay 10 ms
+KeyUp 26 1
+Delay 10 ms
+KeyUp 224 1</Syntax>
+    </KeyDown>
+    <Software>Helldivers 2</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Bind this to your shoot key! 
+It will reduce your secondary smg recoil drasticly to the point where you only have side recoil a little bit.
+Resolution recomended is 1920x1080 (it worked for me on lower resolution scales)
+Sensitivity:10 in game controls and 600dpi for mouse
+If its a big if you press in game to  shoot and it doesnt shoot the gun and activates the macro download the apps drivers!
+
+
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 8 ms
+Delay 16 ms
+MoveR 0 6
+Delay 8 ms
+Delay 16 ms
+MoveR 0 6
+Delay 8 ms
+Delay 16 ms
+MoveR 0 6
+Delay 8 ms
+Delay 16 ms
+MoveR 0 6
+Delay 8 ms
+Delay 16 ms
+MoveR 0 6
+Delay 8 ms
+Delay 16 ms
+MoveR 0 6
+Delay 8 ms
+Delay 16 ms
+MoveR 0 6
+Delay 16 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

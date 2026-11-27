@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос сделан для закупки форы в игре Subway Surfers. Он  работает в эмуляторе MuMu на разрешении экрана 1120 x 700. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 58 ms
+KeyUp 68 1
+Delay 65 ms
+KeyUp 225 1
+Delay 1077 ms
+LeftDown 1
+Delay 178 ms
+LeftUp 1
+Delay 891 ms
+KeyDown 225 1
+Delay 390 ms
+KeyDown 68 1
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Subway Surfers</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простенький но от этого не менее полезный скрипт на анти афк, пейдеи падают.
+Работает при любом разрешении, главное держать игру открытой
+
+1) Встаем в укромное место, ложимся (либо садимся) в анимацию.
+2) Запускаем скрипт
+3) Кайфуем.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 2 ms
+KeyUp 26 1
+Delay 10 15 min
+KeyDown 4 1
+Delay 2 ms
+KeyUp 4 1
+Delay 10 15 min
+KeyDown 22 1
+Delay 2 ms
+KeyUp 22 1
+Delay 10 15 min</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

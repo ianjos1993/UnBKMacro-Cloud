@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major>Longshot</Major>
+    <Description>Данный макрос делает сложный тайминг в игре decaying winter. Советую не биндить данный макрос на клавишу F так как вместо обычного шота у вас будет лонгшот который сможет убить вас</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 50 ms
+KeyUp 9 1
+Delay 50 ms
+KeyDown 44 1
+Delay 50 ms
+KeyUp 44 1
+Delay 420 ms
+KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

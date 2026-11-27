@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Быстрая постройка в Minecraft
+
+1. Забиндите макрос на любую клавишу
+2. Подставьте камеру в майнкрафте как будто вы собираетесь сесть на шифт и строится
+3. Нажмите клавишу на которую вы забиндили макрос
+4. Играйте</Description>
+    <Comment>Если будут какие то вопросы по поводу работы макросов,вы можете связаться со мной в лс.</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+Delay 29 ms
+RightUp 1
+Delay 29 ms
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,71 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос создан специально для новичков.
+
+
+С его помощью, по нажатию одной кнопки, макрос автоматически устанавливает лестницу, пол и крышу, а затем сразу же редактирует пол и крышу (так называемый дабл-редакт).
+
+
+
+Всё, что вам нужно сделать — это назначить в дополнительном окне биндов построек следующие клавиши:
+
+
+Лестница — /
+
+Пол — K
+
+Крыша — L
+Так же вам необходимо назначить допольнительный бинд выбора постройки на - [ </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 55 1
+Delay 10 ms
+KeyUp 55 1
+Delay 25 ms
+KeyDown 47 1
+Delay 10 ms
+KeyUp 47 1
+Delay 60 ms
+KeyDown 14 1
+Delay 12 ms
+KeyUp 14 1
+Delay 25 ms
+KeyDown 47 1
+Delay 10 ms
+KeyUp 47 1
+Delay 25 ms
+KeyDown 15 1
+Delay 17 ms
+KeyUp 15 1
+Delay 25 ms
+KeyDown 47 1
+Delay 10 ms
+KeyUp 47 1
+Delay 100 ms
+KeyDown 9 1
+Delay 10 ms
+KeyUp 9 1
+Delay 30 ms
+KeyDown 18 1
+Delay 10 ms
+KeyUp 18 1
+Delay 30 ms
+KeyDown 9 1
+Delay 10 ms
+KeyUp 9 1
+Delay 30 ms
+KeyDown 18 1
+Delay 10 ms
+KeyUp 18 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

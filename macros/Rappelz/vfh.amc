@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Фарм простым персонажем на легких мобах таб, удар. и так дальше через каждую атаку 4 секунды на убийство мобов. можно смело оставлять в кд и на озере кайнен </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 0 ms
+KeyUp 43 1
+Delay 0 ms
+KeyDown 31 1
+Delay 0 ms
+KeyUp 31 1
+Delay 4 s</Syntax>
+    </KeyDown>
+    <Software>Rappelz</Software>
+  </DefaultMacro>
+</Root>

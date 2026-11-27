@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>PROSTORIK</Major>
+    <Description>Всё легко и просто, зашел в подьезд, сел так чтобы крысы не дамажили, навел на ящик запустил макрос, стоишь ждешь, главное не забывать иногда подходить к компу кормить персонажа и давать воды, а так же смотреть чтобы игроки не бегали и не кидали жалобы)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 9 s
+KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 12 1
+Delay 64
+KeyUp 12 1
+Delay 64
+KeyUp 9 1
+Delay 30 s
+GoWhile 1 10000</Syntax>
+    </KeyDown>
+    <Software>Stay Out</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major>Mefest</Major>
+    <Description>По НАЖАТИЮ запускаеться цикл автоматического распыления. НЕОБХОДИМО что бы в ИГРЕ на основной панели скилов находилось заклянание "РАСПЫЛЕНИЕ", назначеное на клавишу "1".  Так же в игре установленна модификаия BAGNON. Количество ячеек сумки при этом 8х12. По горизонтале 8, по вертикали 12. Например при использовании 4 сумок из ледяной ткани. В ином случае вам придеться коректировать макрос. Находить кординаты первой ячейки сверхку-слева и менять количество повторений циклов в зависемости от вашей сетки ячеек в сумках. При повторном НАЖАТИИ макрос прекращается. Макрос работает с разрешением экрана и игры 1920х1080.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Goto 20
+MoveR -440 52
+KeyDown 30 1
+Delay 10 ms
+KeyUp 30 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+KeyDown 30 1
+Delay 10 ms
+KeyUp 30 1
+Delay 10 ms
+MoveR 55 0
+Delay 3300 ms
+GoWhile 3 8
+GoWhile 2 8
+Goto 23
+MoveTo 1410 330
+Delay 10 ms
+Goto 3
+Delay 64 ms</Syntax>
+    </KeyDown>
+    <Software>World of Warcraft</Software>
+  </DefaultMacro>
+</Root>

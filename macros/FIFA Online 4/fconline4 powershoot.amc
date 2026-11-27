@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>FIFA Online 4 / FC Online Power Shot Macro
+
+This macro performs the initial F+D input sequence required for a Power Shot with a single key press. The green gauge timing is intentionally left manual, allowing players to adjust their shot timing and perform follow-up actions or cancel plays more flexibly.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+
+F+D power shot macro 
+
+The in-game key settings are the default settings.
+
+This macro allows you to initiate a Power Shot with a single key.
+
+The green gauge timing and follow-up actions were intentionally not included to allow for more flexible play.
+
+After activating the macro, press D when the gauge reaches the green zone.
+
+You can also use keys such as E or C after pressing F, making Power Shot cancel plays easier to perform.
+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 80 ms
+KeyDown 7 1
+Delay 300 ms
+KeyUp 7 1
+KeyUp 9 1</Syntax>
+    </KeyDown>
+    <Software>FIFA 4 Online</Software>
+  </DefaultMacro>
+</Root>

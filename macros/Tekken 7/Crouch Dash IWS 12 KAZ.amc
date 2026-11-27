@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос позволит вам выполнить очень сложную технику за персонажа Казуя одним нажатием клавиши.
+Назначьте макрос на любую удобную кнопку и при нажатии Казуя выполнит вейвдеш с отменой в IWS 12.</Description>
+    <Comment>Мое расположение клавиш:
+1-NUM 7
+2-NUM 8
+3-NUM4
+4-NUM 5
+
+Forward- D
+Back- A
+Down- S
+Up- W
+
+Если вы не хотите играть с моей раскладкой, то вам придется настроить макрос под свою путем переназначения клавиш в макросе на нужные вам. Это не сложно, просто нужно разобраться :)</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 50 ms
+KeyUp 7 1
+Delay 50 ms
+KeyDown 22 1
+Delay 50 ms
+KeyDown 7 1
+Delay 50 ms
+KeyUp 22 1
+Delay 50 ms
+KeyUp 7 1
+Delay 30 ms
+KeyDown 4 1
+Delay 30 ms
+KeyDown 95 1
+Delay 91 ms
+KeyDown 96 1
+Delay 100 ms
+KeyUp 4 1
+Delay 31 ms
+KeyUp 95 1
+Delay 65 ms
+KeyUp 96 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 7</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Бард путь: Поющий клинок.
+
+Улучшеная версия макроса, кастуется по нажатию одной кнопки, в этом макросе не нужно прожимать TAB перед кастом все прожимается в астоматическом порядке для вашего удобства.
+
+                                                                             !!!ВНИМАНИЕ!!!
+Настройка задержки перед кастом: в макросе поставил 500ms задержку после нажатие TAB, эту настройку можете менять под себя и ваш ПК, если ПК более мощный можно попробовать поставить задержку меньше и способность будет кастоваться быстрее, играйтесь с этой настойкой на свое усмотрение.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 500 ms
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+KeyDown 35 1
+Delay 64
+KeyUp 35 1
+Delay 64
+KeyDown 36 1
+Delay 64
+KeyUp 36 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+KeyDown 35 1
+Delay 64
+KeyUp 35 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Newerwinter</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>правый пик через приседание чтобы ломать модель персонажа. работает только в приватных серверах.использовать на свой страх и риск</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 64
+KeyUp 224 1
+Delay 64
+KeyDown 224 1
+Delay 64
+KeyUp 224 1
+Delay 64
+KeyDown 224 1
+Delay 64
+KeyUp 224 1
+Delay 64
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64
+KeyDown 224 1
+Delay 64
+KeyUp 224 1
+Delay 64
+KeyDown 224 1
+Delay 64
+KeyUp 224 1
+Delay 64
+KeyDown 224 1
+Delay 64
+KeyUp 224 1
+Delay 64
+KeyDown 224 1
+Delay 64
+KeyUp 224 1
+Delay 64
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>standoff-2</Software>
+  </DefaultMacro>
+</Root>

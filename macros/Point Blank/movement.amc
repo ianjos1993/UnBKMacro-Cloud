@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простой макрос на передвижение в игре, некий аналог банихопппа под движок пб
+С ним можно байтить челов на пики из стен
+Подходит для любых режим, автоматы, пистолеты, ножи и т.п
+Биндить можно на все клавиши кроме (пробела, ctrl, F,)
+Удачного пользования</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 1 ms
+KeyDown 9 1
+Delay 30 ms
+KeyDown 9 1
+Delay 30 ms
+KeyDown 224 1
+KeyDown 44 1
+Delay 30 ms</Syntax>
+    </KeyDown>
+    <Software>Point Blank</Software>
+  </DefaultMacro>
+</Root>

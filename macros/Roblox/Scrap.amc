@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос используется в роблоксе игре под названием Decaying Winter, чтобы использовать вам нужно иметь предмет, ближнее оружие нельзя перерабатывать багом! Макрос создан для того чтобы перерабатывать предмет багом, и не теряя оружие после переработки получать скрап</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 66 ms
+KeyDown 27 1
+Delay 7 ms
+KeyDown 8 1
+Delay 104 ms
+KeyUp 27 1
+Delay 32 ms
+KeyUp 8 1
+Delay 1815 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

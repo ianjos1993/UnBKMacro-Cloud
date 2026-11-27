@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для фермы cocoa на скайблоке(макет фермы можно посмотреть посетив Sppirlacks). Для использования нужно использовать ранчер бутсы со скоростью 92 и топор на репленишь. Ставите экран положением в верх и включаете макрос.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 26 1
+Delay 125 s
+KeyUp 26 1
+KeyDown 7 1
+Delay 2 s
+KeyUp 7 1
+KeyDown 22 1
+Delay 125 s
+KeyUp 22 1
+KeyDown 7 1
+Delay 2 s
+KeyUp 7 1
+GoWhile 1 5
+KeyDown 26 1
+Delay 125 s
+KeyUp 26 1
+KeyDown 4 1
+Delay 2 s
+KeyUp 4 1
+KeyDown 22 1
+Delay 125 s
+KeyUp 22 1
+KeyDown 4 1
+Delay 2 ms
+KeyUp 4 1
+GoWhile 15 5
+GoWhile 1 999</Syntax>
+    </KeyDown>
+    <Software>Minecraft(Skyblock Hypixel)</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,88 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>* Macro for Chixia - Auto Attack *
+
+*--------------------------------------------------------------*
+|This macro will help you attack when you switch to Jinxi.     |
+| NOTEs:                                                       |
+|  1. You can set the operaing mode whatever you want.         |
+|  2. If macro gets bugged,change delays by youself.           |
+|     Because it depends on your FPS and LATENCY.              |
+|     You can also use some tools to unlock your fps limit.    |
+|     Macro will work better when you have 200+ fps.           |
+|  3. You should have the character before using the macro.    |
+*--------------------------------------------------------------*</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 500 ms
+KeyDown 20 1
+Delay 50 ms
+KeyUp 20 1
+Delay 600 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 500 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 500 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 500 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 500 ms
+KeyDown 8 1
+Delay 50 ms
+KeyUp 8 1
+Delay 800 ms
+KeyDown 8 1
+Delay 50 ms
+KeyUp 8 1
+Delay 1200 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 500 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 500 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 500 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 600 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 600 ms
+KeyDown 8 1
+Delay 50 ms
+KeyUp 8 1
+Delay 7000 ms
+KeyDown 9 1
+Delay 50 ms
+KeyUp 9 1
+Delay 5 s
+KeyDown 41 1
+Delay 80 ms
+KeyUp 41 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Wuthering Waves</Software>
+  </DefaultMacro>
+</Root>

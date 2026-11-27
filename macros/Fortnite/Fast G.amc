@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major>Fast G</Major>
+    <Description>Лучший макрос для быстрого редакта окон или дверей или еще чего-то/Good Macros for fast redakt windows or doors or more</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+Delay 15 ms
+KeyUp 10 1
+LeftDown 1
+Delay 15 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

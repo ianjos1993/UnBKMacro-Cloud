@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major>Text Spam/Nuking</Major>
+    <Description>Discord is a wonderful software used to message your friends, send funny memes, or connect with people around the world. Some servers in Discord may have a specified spam channel for people to just, well, spam in. This is where the Discord Bombarder macro comes in. If someone challenges you to who can spam the fastest or if you just want to show off, this is the macro for you!
+
+Instructions:
+ - This is a paste script, meaning that you have to copy text before using this macro. A good site I would reccomend to copy text from is blind text generator. All that really matters is that the text should have a total of 2,000 characters in it, no more, no less (4,000 if you have nitro).
+ - After copying your text, click on the discord text box and activate this macro. Sit back and watch as this relativly simple macro destroys other spammers!
+
+Notes:
+ - Although this macro can be used for raiding/nuking discord servers, I highly advise user discretion before taking any rule breaking acts. Servers that don't allow spam will probably mute, kick, or ban those who break their rules, so make sure you either ask for permission before spamming or spam in a dedicated spam channel.
+ - Although I feel like I've made the instructions for how to use this macro clear, if anyone still has questions, concerns, or comments, feel free to contact me using Keyran's built in messaging feature!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 228 1
+Delay 3
+KeyDown 25 1
+Delay 3
+KeyUp 25 1
+Delay 3
+KeyUp 228 1
+Delay 3
+KeyDown 88 1
+Delay 100 ms
+KeyUp 88 1
+Delay 110 ms
+GoWhile 1 86400000
+//If you can't figure out how this is supposed to spam text, check the instructions page.</Syntax>
+    </KeyDown>
+    <Software>Discord</Software>
+  </DefaultMacro>
+</Root>

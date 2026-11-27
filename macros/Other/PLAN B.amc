@@ -1,0 +1,58 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>РАБОТАЕТ ТОЛЬКО НА WINDOWS 10!!!
+
+Нужен очень быстрый макрос чтоб резко скрывать что ты делаешь за компом? Это решение твоей проблемы! Настрой его на самую быстродоступную кнопку и стань настоящим ниндзя!)))
+
+При активировании макроса открывается окно ввода в строку виндовс, далее вводится слово "котики" и нажимается Enter, соответсвенно вас перебрасывает в бинг с безобидной страничкой о котиках!
+
+Также ПО НАДОБНОСТИ рекомендую выставить самостоятельно в начале макроса вашу кнопку для выключения звука ( у меня это F4).
+
+Надеюсь моё творение спасёт кому-то жизнь! Не шалите)</Description>
+    <Comment>По любым вопросам пишите тут, постараюсь как можно быстрее ответить! Всех люблю!</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 227 1
+Delay 32
+KeyUp 227 1
+Delay 32
+SetLang ru-RU
+Delay 32 ms
+KeyDown 21 1
+Delay 32 ms
+KeyUp 21 1
+Delay 32 ms
+KeyDown 13 1
+Delay 32 ms
+KeyUp 13 1
+Delay 32 ms
+KeyDown 17 1
+Delay 32 ms
+KeyUp 17 1
+Delay 32 ms
+KeyDown 5 1
+Delay 32 ms
+KeyUp 5 1
+Delay 32 ms
+KeyDown 21 1
+Delay 32 ms
+KeyUp 21 1
+Delay 32 ms
+KeyDown 5 1
+Delay 32 ms
+KeyUp 5 1
+Delay 32 ms
+KeyDown 88 1
+Delay 32 ms
+KeyUp 88 1
+Delay 32 ms</Syntax>
+    </KeyDown>
+    <Software>Другое</Software>
+  </DefaultMacro>
+</Root>

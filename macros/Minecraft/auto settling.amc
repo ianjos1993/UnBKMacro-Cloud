@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос создан для того чтобы вы могли в пвп легко и быстро накинуть на игрока оседающее зелье урона.Всего 1 нажатием кнопки вы легко и быстро сможете кидать такие зелья и убивать без каких либо проблем. Чтоюы пользоваться данным макросом вам нужно переложить оседающее зелье в 9 слот и забиндить макрос на любую удобную вам кнопку.Желаю удачной и интересной игры!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 38 1
+Delay 24 ms
+KeyUp 38 1
+Delay 24 ms
+RightDown 1
+Delay 24 ms
+RightUp 1
+Delay 24 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

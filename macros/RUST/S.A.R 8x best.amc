@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>DarkSaw</Major>
+    <Description>yarı otomatik tüfek S.A.R 8x seri atar çok az sekme payı vardır hassasiyet 0.41 görüş alanı FOV 80 dir</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 5 ms
+MoveR 0 9
+Delay 5 ms
+MoveR 0 9
+Delay 5 ms
+MoveR 0 9
+Delay 5 ms
+MoveR 0 9
+Delay 5 ms
+MoveR 0 9
+Delay 5 ms
+LeftUp 1
+Delay 8 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>1. Видишь руду - подходишь к ней.
+2. Нажимаешь "макрос".
+3. Ждёшь пока идут "раскопки".
+
+4. (Осколки руды сам кликаешь)</Description>
+    <Comment>GTA5 RP || MajesticRP</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+KeyUp 8 1
+Delay 1 s
+LeftDown 1
+Delay 70 100 ms
+LeftUp 1
+Delay 1 2 s
+GoWhile 4 16</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

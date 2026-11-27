@@ -1,0 +1,66 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Когда вы попадаете в ТСР на Аризона РП, вам нужно перетаскать кучу ящиков. Но есть решение. Скачиваем макрос и ставим на удобную кнопку. Встаем на пикап где брать ящик и смотрит вперед, Запускаем макрос. Главное сидеть за компом а то админ может заподозрить что то. Удачи в использовании!
+РАЗРЕШЕНИЕ ЭКРАНА 1366x768 60 hz</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 847 467
+KeyDown 226 1
+Delay 500 ms
+KeyUp 226 1
+Delay 500 ms
+KeyDown 26 1
+Delay 10500 ms
+KeyUp 26 1
+Delay 500 ms
+KeyDown 7 1
+Delay 2 s
+KeyUp 7 1
+Delay 500 ms
+KeyDown 22 1
+Delay 5 s
+KeyUp 22 1
+Delay 500 ms
+KeyDown 7 1
+Delay 1500 ms
+KeyUp 7 1
+Delay 500 ms
+KeyDown 22 1
+Delay 1100 ms
+KeyUp 22 1
+Delay 500 ms
+KeyDown 226 1
+Delay 64
+KeyUp 226 1
+Delay 3 s
+KeyDown 26 1
+Delay 1100 ms
+KeyUp 26 1
+Delay 500 ms
+KeyDown 4 1
+Delay 1500 ms
+KeyUp 4 1
+Delay 64
+KeyDown 26 1
+Delay 5 s
+KeyUp 26 1
+Delay 500 ms
+KeyDown 4 1
+Delay 2 s
+KeyUp 4 1
+Delay 500 ms
+KeyDown 22 1
+Delay 10500 ms
+KeyUp 22 1
+GoWhile 2 999999</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

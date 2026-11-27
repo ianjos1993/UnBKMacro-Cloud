@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>это самый быстрый автокликер для роблокс
+кликает 15000 раз за 10 секунд!!!!!!!
+а кпс 1480!!!!!!!
+так же можно использовать для автофарма
+автокликер на G раз в милисекунду</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoWhile 3 86400000
+KeyDown 10 1
+Delay 1 ms
+KeyUp 10 1</Syntax>
+    </KeyDown>
+    <Software>roblox;all</Software>
+  </DefaultMacro>
+</Root>

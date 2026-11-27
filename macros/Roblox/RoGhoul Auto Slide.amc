@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Авто слайд в ПВП при смене стадии оружия, лучше всего работает на Наруками
+
+Слайд помогает в ПВП, помогает уклониться от шардов врага 
+
+
+
+
+
+by pod</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+KeyDown 6 1
+Delay 20 ms
+KeyUp 6 1
+KeyUp 44 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

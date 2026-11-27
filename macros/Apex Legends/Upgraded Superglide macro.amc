@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>Modified Superglide macro</Major>
+    <Description>This macro it's a little bit upgraded version of my last glide macro
+
+Bind in game setting C as Crouch (while holding)
+Enable auto-spring 
+
+working good on 1920x1080 Resolution 
+
+Explanation:
+When jumping onto an obstacle, click the C button when the screen shakes. I suggest practicing this macro at the shooting range. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 2 ms
+KeyDown 44 1
+Delay 3 ms
+KeyDown 6 1
+Delay 20 ms
+KeyUp 6 1
+Delay 2 ms
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

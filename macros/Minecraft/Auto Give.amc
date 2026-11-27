@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>И всем снова привет.Решил написать еще 1 макрос,который позволяет вам выдать любую вещь в игре.Полное написание этой команды выглядит следующим образом-/give PlayerName ItemName Quantity.Переводится это довольно просто,Give-выдать,PlayerName-ник игрока,ItemName-название предмета,Quantity-количество.Например 1 из вариаций-/give YODA #minecraft:diamond_sword 1.Выдать игроку YODA алмазный меч в количестве 1 штуки.Довольно полезная команда для быстрого поиска вещей.Надеюсь вам понравится.
+
+Инструкция по настройке:
+1)Скачиваете макрос в разделе макросы для Minecraft.
+2)Отрываете панель управления клавиатуры Keyran.
+3)Выбираете удобную для вас клавишу,
+4)Сохраняете и используете.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 32 ms
+KeyUp 56 1
+Delay 32 ms
+KeyDown 10 1
+Delay 32 ms
+KeyUp 10 1
+Delay 32 ms
+KeyDown 12 1
+Delay 32 ms
+KeyUp 12 1
+Delay 32 ms
+KeyDown 25 1
+Delay 32 ms
+KeyUp 25 1
+Delay 32 ms
+KeyDown 8 1
+Delay 32 ms
+KeyUp 8 1
+Delay 32 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

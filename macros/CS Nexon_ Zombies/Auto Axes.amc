@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>A macro for the melee Twin Shadow Axes in CSN:Z. You must have the Twin Shadow Axes in your inventory.
+
+- How to Use?
+  1).Install the macro and bind it to any key. Set the operating mode to an option other than      "Run Once".
+  2).Activate keyran and launch your CSN:Z. Open your inventory and set your buymenu bookmarks C to "Twin Shadow Axes" and bookmark V to "Dualsword Phantom Slayer".
+  3).Join or create a room of Zombie Scenario mode. When you enter the game, open your buymenu and press C. Now you can press your bind key to use the macro.
+
+- Notes
+  1).You have to use this macro in buyzone becuz you can only open buymenu in buyzone, otherwise it will not work.
+  2).The efficiency of macros depends on your network quality. If the macro doesnt work,it may be be that your network quality is not good.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 0 ms
+KeyUp 32 1
+Delay 0 ms
+LeftDown 1
+Delay 20 ms
+KeyDown 5 1
+Delay 0 ms
+KeyUp 5 1
+Delay 30 ms
+KeyDown 25 1
+Delay 0 ms
+KeyDown 9 1
+Delay 20 ms
+KeyUp 25 1
+Delay 0 ms
+KeyUp 9 1
+Delay 0 ms
+LeftUp 1
+Delay 0 ms</Syntax>
+    </KeyDown>
+    <Software>Counter-Strike Nexon: Zombies</Software>
+  </DefaultMacro>
+</Root>

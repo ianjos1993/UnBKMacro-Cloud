@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>works best for iana</Major>
+    <Description>left mouse button 800 DPI
+ horizontal 10
+ vertical 11
+ADS 50
+1920x1080
+16:10
+let me know if u need help</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+MoveR 2 11
+Delay 15 ms
+MoveR 2 11
+Delay 15 ms
+MoveR 2 11
+Delay 15 ms
+MoveR 1 11
+Delay 15 ms
+MoveR -1 10
+Delay 15 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

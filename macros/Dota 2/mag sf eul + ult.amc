@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Хочешь, идеально затаймил Реквием, чтобы враг не успел прожать Бкб.
+Z-скипетр Божественности Юла.
+C-блинк Кинжал.
+Space-Реквием души(ультимейт).
+Будь лучшим, нажимая 1 кнопку.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 27 1
+Delay 20 ms
+KeyUp 27 1
+Delay 30 ms
+KeyDown 29 1
+Delay 64
+KeyUp 29 1
+Delay 1 s
+Delay 40 ms
+KeyDown 44 1
+Delay 1 s
+KeyUp 44 1
+Delay 1 s</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

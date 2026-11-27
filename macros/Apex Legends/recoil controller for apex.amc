@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major>привязать к кнопке съемки</Major>
+    <Description>лучше всего работает с разрешением 400 dpi и выше
+1080x1920 идеально, но 600x900 также работает, если у вас есть разрешение выше 1600 точек на дюйм, измените уровни Y в редакторе
+привязать к кнопке съемки
+Я также не рекомендую использовать вольт с этим, так как этот макрос также делает все оружие автоматическим, вольт как бы испорчен.
+Flatline и болиголов, в частности, очень хорошо, также r99, p20 теперь жизнеспособны из-за того, что теперь он полностью автоматический с этим макросом</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+MoveR 2 2
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+MoveR 2 -1
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+MoveR -2 -2
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+MoveR -2 3
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

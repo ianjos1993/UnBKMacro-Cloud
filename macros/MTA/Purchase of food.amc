@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Привет! Это массовая и быстрая закупка предметов. Покупать можно магазине или в автоматах с едой на сервера МТА где они есть!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 40 ms
+LeftUp 1
+Delay 40 ms</Syntax>
+    </KeyDown>
+    <Software>Multi Theft Auto (MTA)</Software>
+  </DefaultMacro>
+</Root>

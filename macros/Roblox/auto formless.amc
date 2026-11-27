@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major>Mumantik</Major>
+    <Description>При нажатии кнопки вас автоматически поворачивает на 180 градусов вы прыгаете и используете ваш Formless моя сенса в локеде 0.5 и в роблоксе 0.5  так же вам надо использовать разрешение 1920x1080 и полноэкранный режим роблокса но  с разным dpi  вашей мыши вам возможно надо будет поменять первое значение в файле макро</Description>
+    <Comment>работает 90% случаев, фейлы только в  случаях несоблюдения условия</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR -900 0
+MoveR 0 -360
+Delay 30 ms
+KeyDown 21 1
+Delay 15 ms
+RightDown 1
+Delay 15 ms
+KeyUp 21 1
+Delay 15 ms
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

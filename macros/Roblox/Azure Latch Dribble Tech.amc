@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major>Azure Latch</Major>
+    <Description>This macro for the Azure Latch game in Roblox performs three actions sequentially. Before using it, be sure to activate auto-headder inside the games stettings for best and easy performance. The macro throws the ball and then performs a head kick. Next, he jumps and makes a dash for the ball, hitting it with his head again. This is followed by another headbutt. The original screen resolution is 1920 x 1080 (RECONMMENDED), while you should have 800 DPI (for better control) and 0.171 sensitivity in Roblox. To make the macro work correctly, hold down the W key during its execution, but release it for a short moment after the second headbutt so that the rest of the actions go smoothly. Have Fun.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 16 ms
+LeftUp 1
+Delay 16 ms
+MoveR 0 855 1 875
+Delay 8 ms
+MoveR 0 855 1 875
+Delay 275 ms
+KeyDown 44 1
+Delay 32 ms
+KeyUp 44 1
+Delay 768 ms
+KeyDown 44 1
+Delay 32 ms
+KeyUp 44 1
+KeyDown 20 1
+KeyUp 20 1
+Delay 768 ms
+KeyDown 44 1
+Delay 32 ms
+KeyUp 44 1
+Delay 120 ms
+KeyDown 9 1
+KeyUp 9 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

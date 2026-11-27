@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Выставляем 2 энергии хила (турели) на клавиши Z X также на клавиши C V выставляем "Кару" и "Натиск земли". Макрос ставим на удобную клавишу. Удобный макрос при игре в 2 окна. Доты + турели</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 25 ms
+KeyUp 29 1
+Delay 25 ms
+KeyDown 27 1
+Delay 25 ms
+KeyUp 27 1
+Delay 25 ms
+KeyDown 6 1
+KeyUp 6 1
+KeyDown 25 1
+KeyUp 25 1</Syntax>
+    </KeyDown>
+    <Software>AION</Software>
+  </DefaultMacro>
+</Root>

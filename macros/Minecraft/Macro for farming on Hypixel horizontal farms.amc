@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос создан исключительно для горизонтальных ферм(хоть таким пользуються не часто) на Hypixel. Создан для размеров острова 168х168 и скорость +-115.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 7 1
+Delay 35 s
+KeyDown 26 1
+Delay 150 ms
+KeyUp 26 1
+Delay 64
+KeyDown 4 1
+Delay 35 s
+KeyDown 26 1
+Delay 150 ms
+KeyUp 26 1
+Delay 64
+GoWhile 2 84
+KeyDown 7 1
+Delay 100 ms
+KeyUp 7 1
+Delay 64
+KeyDown 4 1
+Delay 100 ms
+KeyUp 4 1
+Delay 64
+GoWhile 1 99999</Syntax>
+    </KeyDown>
+    <Software>Minecraft(Hypixel)</Software>
+  </DefaultMacro>
+</Root>

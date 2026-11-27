@@ -1,0 +1,44 @@
+<Root>
+  <!-- by Britan -->
+  <DefaultMacro>
+    <Major></Major>
+    <Description>НАЗВАНИЕ: Genshin Impact Auto-Attack. ОПИСАНИЕ: Быстрая комбинация атак:  -&gt; E (elemental skill) . Оптимальная ротация для большинства персонажей. РЕКОМЕНДУЕМАЯ КЛАВИША: Mouse 5 (Side). КАК ИСПОЛЬЗОВАТЬ: Привяжи макрос на кнопку Mouse 5. В бою нажми Mouse 5 - макрос сделает 4 обычных атаки, использует E и добьёт 2 ударами. Однократное выполнение. НАСТРОЙКА: Если E перезаряжается - добавь перед KeyDown 69 (E) строку Delay 1000 ms. АВТОР: by Britan. ЗАПРЕЩЕНО копировать без указания автора.</Description>
+    <Comment>Привязка: Mouse 5 (Side). Режим: однократное. Инструкция: в бою нажми - 4 атаки -&gt; E -&gt; 2 атаки.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 60 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 60 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 60 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 80 ms
+KeyDown 69 1
+Delay 30 ms
+KeyUp 69 1
+Delay 100 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 60 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

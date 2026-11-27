@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Это проклик для игры Rust. Он НЕ гасит отдачу, снижая скорострельность, он позволяет легко контролировать отдачу самому. Т.К. он не полностью убирает отдачу, получить блокировку на сервере практически невозможно.
+Можно использовать с любыми прицелами.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 50 ms
+MoveR 0 40
+LeftUp 1
+Delay 110 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

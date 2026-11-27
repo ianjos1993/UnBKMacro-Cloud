@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для прокачки лука.
+
+Что требуется:
+1. Быть возле костра.
+2. Иметь "Хороший лук"
+3. Иметь 90 стрел.
+4. Иметь около 50-60 выносливости.
+5. Друг (Обязательно)
+
+1. Ваш друг может быть в АФК или же качать другой любой навык не требующий PvP. Пока он к примеру прокачивает бег, вы бьёте его. Обязательно у вас должнен быть включен PvP, а у друга выключен. 
+2. Ваш друг берет щит. Вы оба включаете PvP. И один прокачивает блокирование, а другой лук.
+
+Не забывайте чинится!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 850 ms
+LeftUp 1
+Delay 850 ms
+GoWhile 1 15
+Delay 3000 ms
+GoWhile 1 6</Syntax>
+    </KeyDown>
+    <Software>Valheim</Software>
+  </DefaultMacro>
+</Root>

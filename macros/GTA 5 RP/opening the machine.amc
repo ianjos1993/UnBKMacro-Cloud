@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Если у вас нет умной сигнализации, этот макрос для вас! Просто забиндите это на любую кнопку и вы сможете в миг открывать свою машину, вместо того чтобы писать команду в чат.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 63 1
+Delay 1 ms
+KeyUp 63 1
+Delay 100 ms
+KeyDown 56 1
+Delay 10 ms
+KeyUp 56 1
+Delay 10 ms
+KeyDown 15 1
+Delay 10 ms
+KeyUp 15 1
+Delay 10 ms
+KeyDown 18 1
+Delay 10 ms
+KeyUp 18 1
+Delay 10 ms
+KeyDown 6 1
+Delay 10 ms
+KeyUp 6 1
+Delay 10 ms
+KeyDown 14 1
+Delay 10 ms
+KeyUp 14 1
+Delay 10 ms
+KeyDown 44 1
+Delay 10 ms
+KeyUp 44 1
+Delay 10 ms
+KeyDown 30 1
+Delay 10 ms
+KeyUp 30 1
+Delay 10 ms
+KeyDown 88 1
+Delay 1 ms
+KeyUp 88 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Radmir</Software>
+  </DefaultMacro>
+</Root>

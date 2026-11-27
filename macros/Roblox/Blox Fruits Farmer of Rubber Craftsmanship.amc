@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Для людей которым лень нажимать на кнопки
+ПРЕДУПРЕЖДЕНИЕ: Резина сильно оттлкивает врагов, из-за чего фарм может сломаться!
+Также я не смог его протестировать , так что в нём могут быть баги</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+LeftUp 1
+Delay 1 s
+KeyDown 29 1
+KeyUp 29 1
+Delay 1 s
+KeyDown 27 1
+KeyUp 27 1
+Delay 1 s
+KeyDown 6 1
+KeyUp 6 1
+Delay 1 s
+KeyDown 9 1
+KeyUp 9 1
+Delay 1 s
+GoWhile 1 455</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

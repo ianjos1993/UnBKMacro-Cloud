@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Быстрая атака на кли + заряженная атака когда браслет активируется. При бинде удобней когда зажим включает макро и выключает на отжиме. Задержку адаптируем под свой пинг.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+LeftUp 1
+Delay 150 160 ms
+GoWhile 1 30
+KeyDown 21 1
+Delay 10 30 ms
+KeyUp 21 1
+Delay 10 30 ms
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 10 30 ms
+KeyDown 21 1
+Delay 10 30 ms
+KeyUp 21 1
+Delay 10 30 ms</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,67 @@
+<Root>
+  <DefaultMacro>
+    <Major>Море. 34 банка. FHD разрешение</Major>
+    <Description>Простой и эффективный макрос для рр4 в разрешении FHD
+
+1. Выезжаем на банку 34
+2. Берем в руки удилище
+3. ВКЛЮЧАЕМ МАКРОС И НАСЛАЖДАЕМСЯ!!!
+
+Данный макрос закидывает удилище и делает легкий пилкинг до поклевки, ограничений по времени нет. Изменяем 5 строку по времени, если ваша приманка не успевает утонуть(если у вас кальмары, например). После каждого заброса пьет чай или кофе (нужно поместить в быстрый слот 4)</Description>
+    <Comment> Пишите в комментарии проблемы.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 227 ms
+LeftDown 1
+Delay 99 400 ms
+LeftUp 1
+Delay 19 22 s
+LeftDown 1
+Delay 900 1100 ms
+LeftUp 1
+Delay 800 850 ms
+GoColor 16 2 101,101,101 255,255,255 1 550 1024 999 999 1 0
+RightDown 1
+Delay 300 450 ms
+RightUp 1
+Delay 1600 1800 ms
+GoColor 10 3 171,171,171 255,255,255 1 550 1024 999 999 1 0
+Delay 274 ms
+GoColor 29 1 64,64,64 245,215,45 1 986 879 999 901 1 0
+LeftDown 1
+Delay 150 300 ms
+RightDown 1
+Delay 64
+Delay 64
+Delay 70 100 ms
+KeyDown 225 1
+Delay 1500 2500 ms
+RightUp 1
+Delay 274 ms
+GoColor 17 0 64,64,64 245,215,45 1 986 879 999 901 1 0
+Delay 1500 ms
+KeyUp 225 1
+Delay 274 ms
+LeftUp 1
+Delay 274 ms
+RightUp 1
+Delay 136 ms
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+Delay 532 1533 ms
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+GoWhile 1 500</Syntax>
+    </KeyDown>
+    <Software>Русская Рыбалка 4</Software>
+  </DefaultMacro>
+</Root>

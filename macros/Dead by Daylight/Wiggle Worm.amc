@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Choose a hotkey and sit back n watch the poor killer struggle as you wiggle like a maniac. 
+Dont forget to click your hotkey again if the killer manages to hook you!!
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 40 ms
+KeyUp 4 1
+Delay 40 ms
+KeyDown 7 1
+Delay 40 ms
+KeyUp 7 1
+Delay 40 ms
+KeyDown 4 1
+Delay 40 ms
+KeyUp 4 1
+Delay 40 ms
+KeyDown 7 1
+Delay 40 ms
+KeyUp 7 1
+Delay 40 ms</Syntax>
+    </KeyDown>
+    <Software>Dead by daylight</Software>
+  </DefaultMacro>
+</Root>

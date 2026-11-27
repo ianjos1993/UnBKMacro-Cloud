@@ -1,0 +1,72 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос делает комбо на косе в игре Brawlhalla. Макрос делал строго под себя, поэтому перед использованием нужно заменить значение. NUM1 - легкая атака. NUM2 - тяжелая. WASD - управление. SHIFT- уворот/рывок. В игре вам нужно подойти в упор к противнику и нажать клавишу, на  которую вы забиндите макрос. На профи вряд ли сработает, но нубиков покомбить им можно.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 89 1
+Delay 88 ms
+KeyUp 89 1
+Delay 263 ms
+KeyDown 44 1
+Delay 95 ms
+KeyUp 44 1
+Delay 55 ms
+KeyDown 22 1
+Delay 72 ms
+KeyUp 22 1
+Delay 16 ms
+KeyDown 89 1
+Delay 95 ms
+KeyUp 89 1
+Delay 455 ms
+KeyDown 7 1
+Delay 151 ms
+KeyDown 44 1
+Delay 103 ms
+KeyUp 44 1
+Delay 47 ms
+KeyUp 7 1
+Delay 87 ms
+KeyDown 89 1
+Delay 88 ms
+KeyUp 89 1
+Delay 543 ms
+KeyDown 7 1
+Delay 111 ms
+KeyDown 44 1
+Delay 103 ms
+KeyUp 7 1
+Delay 8 ms
+KeyUp 44 1
+Delay 71 ms
+KeyDown 89 1
+Delay 95 ms
+KeyUp 89 1
+Delay 495 ms
+KeyDown 7 1
+Delay 143 ms
+KeyDown 44 1
+Delay 87 ms
+KeyUp 44 1
+Delay 15 ms
+KeyDown 90 1
+Delay 72 ms
+KeyUp 90 1
+Delay 7 ms
+KeyUp 7 1
+Delay 56 ms
+KeyDown 90 1
+Delay 71 ms
+KeyUp 90 1
+Delay 503 ms</Syntax>
+    </KeyDown>
+    <Software>Brawlhalla</Software>
+  </DefaultMacro>
+</Root>

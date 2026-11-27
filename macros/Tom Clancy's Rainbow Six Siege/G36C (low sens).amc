@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>G36C of iana or Ash with x1.5 scope, silencer
+-4:3 with 90fov
+-800 DPI
+-4X /4Y
+-ADS x1    : 40
+-ADS x1.5 : 50
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+MoveR 0 33
+Delay 15 ms
+MoveR 0 18
+Delay 15 ms
+MoveR 0 15
+Delay 15 ms
+MoveR 0 27
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

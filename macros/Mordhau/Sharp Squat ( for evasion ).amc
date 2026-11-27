@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Делает анимацию ( Сдаться ) удобен для резкого уклонения если противник бьет в голову, твой персонаж максимально ложится вниз что защищает даже от ударов в туловище (аккуратно он бросает оружие при анимации) по этому прийдется его поднять при использовании.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//Конвертированный файл макроса 12 августа 2024 00:53:23
+Delay 0 ms
+KeyDown 27 1
+Delay 0 ms
+KeyUp 27 1
+Delay 10 ms
+KeyDown 27 1
+Delay 0 ms
+KeyUp 27 1
+Delay 10 ms
+KeyDown 38 1
+Delay 64
+KeyUp 38 1
+Delay 64
+KeyUp 38 1
+Delay 64
+KeyDown 38 1
+Delay 64
+KeyUp 38 1
+Delay 500 ms
+KeyDown 6 1
+Delay 0 ms
+KeyUp 6 1
+Delay 10 ms
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 64
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Mordhau</Software>
+  </DefaultMacro>
+</Root>

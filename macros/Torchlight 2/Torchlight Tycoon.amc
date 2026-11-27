@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для игры Torchlight 2.
+Макрос для покупки - продажи предмета стоимостью 1coin, для получения ачивки "Магнат".
+Такие предметы даёт квестовый персонаж "Смехоплюй" ("скверный ботинок" и "очень скверный ботинок") 
+
+Для использования нужно: 
+1. Собственно сам ботинок
+2. Переместить ботинок в инвентарь в самый первый слот
+3. Открыть с кем угодно окно торговли
+4. Записутить макрос
+5. Ждать пока макрос совершит куплю-продажу предмета необходимое вам количество для получения ачивки (иначе необходимо более 500ч игрового времени что бы её нагриндить)
+6. Ачивка получена, вы великолепны</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 998 438
+Delay 64 ms
+KeyDown 225 1
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+KeyUp 225 1
+Delay 64 ms
+MoveTo 999 437
+Delay 64 ms
+MoveTo 13 124
+Delay 64 ms
+KeyDown 225 1
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 64 ms
+KeyUp 225 1</Syntax>
+    </KeyDown>
+    <Software>Torchlight 2</Software>
+  </DefaultMacro>
+</Root>

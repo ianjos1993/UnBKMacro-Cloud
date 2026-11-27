@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>
+В бой входим в магической стойке
+H - Мощная разящая стрела (на крит)
+А - Гипнотика
+Tab - Переходим в физическую стойку
+T - Включаем пелену
+1 - Экстракт Мощи
+W - Удар
+
+С таймингами для второго удара сколько не играл, 
+не получается очень не стабильный ответ, поэтому второй удар делаем ручками
+Тем более 2 добивающий может быть как с мощью, так и с вампом, от ситуации воздаяния.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 11 1
+Delay 64
+KeyUp 11 1
+Delay 64
+KeyDown 4 1
+Delay 120 ms
+KeyUp 4 1
+Delay 164 ms
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 164 ms
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Легенда: Наследие Драконов</Software>
+  </DefaultMacro>
+</Root>

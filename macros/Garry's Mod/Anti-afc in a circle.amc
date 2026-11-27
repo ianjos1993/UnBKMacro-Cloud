@@ -1,0 +1,54 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос чтобы не стоять афк
+Принцип работы
+Вы нажимаете кнопку активации макроса, персонаж прыгает ждет 2-3 секунды потом делает 2 маленьких круга и через 2-4 минуты повторяет действие</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 70 ms
+KeyUp 44 1
+Delay 2 3 s
+KeyDown 22 1
+Delay 300 ms
+KeyDown 7 1
+Delay 300 ms
+KeyUp 22 1
+Delay 300 ms
+KeyDown 26 1
+Delay 300 ms
+KeyUp 7 1
+Delay 300 ms
+KeyDown 4 1
+Delay 300 ms
+KeyUp 26 1
+Delay 300 ms
+KeyDown 22 1
+Delay 300 ms
+KeyUp 4 1
+Delay 300 ms
+KeyDown 7 1
+Delay 300 ms
+KeyUp 22 1
+Delay 300 ms
+KeyDown 26 1
+Delay 300 ms
+KeyUp 7 1
+Delay 300 ms
+KeyDown 4 1
+Delay 300 ms
+KeyUp 26 1
+Delay 300 ms
+KeyUp 4 1
+Delay 2 4 min</Syntax>
+    </KeyDown>
+    <Software>Garry´s Mod</Software>
+  </DefaultMacro>
+</Root>

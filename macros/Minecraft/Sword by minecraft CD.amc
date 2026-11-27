@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Подходит для автоферм где надо убивать мобов, стоящих на одном месте.
+Принцип работы практически как у автокликера
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 130 ms
+LeftUp 1
+Delay 130 ms
+LeftDown 1
+Delay 130 ms
+LeftUp 1
+Delay 130 ms
+LeftDown 1
+Delay 130 ms
+LeftUp 1
+Delay 130 ms
+LeftDown 1
+Delay 130 ms
+LeftUp 1
+Delay 130 ms
+LeftDown 1
+Delay 130 ms
+LeftUp 1
+Delay 130 ms
+LeftDown 1
+Delay 130 ms
+LeftUp 1
+Delay 130 ms
+LeftDown 1
+Delay 130 ms
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>фастзум кракен</Major>
+    <Description>Фастузм + автошот на CDX-MC Kraken
+Бинд на лкм
+Макрос эмулирует нажатие правой кнопки мыши, и делает выстрел.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 171 ms
+RightUp 1
+Delay 295 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Warface</Software>
+  </DefaultMacro>
+</Root>

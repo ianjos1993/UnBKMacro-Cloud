@@ -1,0 +1,152 @@
+<Root>
+  <DefaultMacro>
+    <Major>Фарм красных камней</Major>
+    <Description>Персонаж - Жрица Сайруса
+Должен быть надет питомец
+на 1 ставим "Талисман вызова молний"
+на 5 ставим "Миллион вольт"
+сложность данжа ставим относительно к вашему БМу
+Талисман убивает монстров из 1 комнаты, а "Миллион Вольт" применяется что бы добить, если талисманы улетели в воздух
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 2552 ms
+KeyDown 30 1
+Delay 87 ms
+KeyUp 30 1
+Delay 79 ms
+KeyDown 30 1
+Delay 80 ms
+KeyUp 30 1
+Delay 88 ms
+KeyDown 30 1
+Delay 71 ms
+KeyUp 30 1
+Delay 88 ms
+KeyDown 30 1
+Delay 70 ms
+KeyUp 30 1
+Delay 96 ms
+KeyDown 30 1
+Delay 72 ms
+KeyUp 30 1
+Delay 95 ms
+KeyDown 30 1
+Delay 79 ms
+KeyUp 30 1
+Delay 88 ms
+KeyDown 30 1
+Delay 79 ms
+KeyUp 30 1
+Delay 95 ms
+KeyDown 30 1
+Delay 88 ms
+KeyUp 30 1
+Delay 87 ms
+KeyDown 30 1
+Delay 143 ms
+KeyUp 30 1
+Delay 1248 ms
+KeyDown 26 1
+Delay 1552 ms
+KeyDown 4 1
+Delay 743 ms
+KeyUp 4 1
+Delay 439 ms
+KeyDown 4 1
+Delay 120 ms
+KeyUp 4 1
+Delay 376 ms
+KeyDown 34 1
+Delay 231 ms
+KeyUp 34 1
+Delay 1384 ms
+KeyDown 7 1
+Delay 208 ms
+KeyUp 7 1
+Delay 159 ms
+KeyDown 7 1
+Delay 727 ms
+KeyUp 7 1
+Delay 160 ms
+KeyDown 7 1
+Delay 1008 ms
+KeyUp 26 1
+Delay 112 ms
+KeyDown 4 1
+Delay 79 ms
+KeyUp 4 1
+Delay 919 ms
+KeyUp 7 1
+Delay 2023 ms
+KeyDown 30 1
+Delay 72 ms
+KeyUp 30 1
+Delay 103 ms
+KeyDown 30 1
+Delay 71 ms
+KeyUp 30 1
+Delay 88 ms
+KeyDown 30 1
+Delay 64 ms
+KeyUp 30 1
+Delay 96 ms
+KeyDown 30 1
+Delay 71 ms
+KeyUp 30 1
+Delay 87 ms
+KeyDown 30 1
+Delay 72 ms
+KeyUp 30 1
+Delay 87 ms
+KeyDown 30 1
+Delay 159 ms
+KeyUp 30 1
+Delay 95 ms
+KeyDown 30 1
+Delay 112 ms
+KeyUp 30 1
+Delay 96 ms
+KeyDown 30 1
+Delay 87 ms
+KeyUp 30 1
+Delay 176 ms
+KeyDown 26 1
+Delay 696 ms
+KeyDown 7 1
+Delay 424 ms
+KeyUp 7 1
+Delay 3063 ms
+KeyDown 7 1
+Delay 200 ms
+KeyUp 7 1
+Delay 1031 ms
+KeyUp 26 1
+Delay 6721 ms
+KeyDown 41 1
+Delay 86 ms
+KeyUp 41 1
+Delay 6104 ms
+KeyDown 30 1
+Delay 103 ms
+KeyUp 30 1
+Delay 1040 ms
+KeyDown 58 1
+Delay 143 ms
+KeyUp 58 1
+Delay 1281 ms
+KeyDown 61 1
+Delay 95 ms
+KeyUp 61 1
+Delay 5151 ms
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Kritika Online</Software>
+  </DefaultMacro>
+</Root>

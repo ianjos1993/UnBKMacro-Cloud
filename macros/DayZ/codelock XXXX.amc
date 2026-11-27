@@ -1,0 +1,85 @@
+<Root>
+  <DefaultMacro>
+    <Major>Взлом 4х замка с 0000 до 9999</Major>
+    <Description>Мегапростой скрипт, подходите к замку выставляете 0000 и к последней цифре скобки, запускаете скрипт.
+Бьет по 10 после 100 после 1000 желательно начинать с цифр типо 1000...2000...3000 и т д </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 600 ms
+KeyDown 9 1
+Delay 6400 ms
+KeyUp 9 1
+Delay 620 ms
+KeyDown 9 1
+Delay 140 ms
+KeyUp 9 1
+Delay 180 ms
+KeyDown 9 1
+Delay 140 ms
+KeyUp 9 1
+Delay 180 ms
+KeyDown 9 1
+Delay 140 ms
+KeyUp 9 1
+Delay 180 ms
+KeyDown 9 1
+Delay 1450 ms
+KeyUp 9 1
+Delay 620 ms
+KeyDown 9 1
+Delay 140 ms
+KeyUp 9 1
+GoWhile 1 10
+Delay 180 ms
+KeyDown 9 1
+Delay 140 ms
+KeyUp 9 1
+Delay 180 ms
+KeyDown 9 1
+Delay 140 ms
+KeyUp 9 1
+Delay 180 ms
+KeyDown 9 1
+Delay 1600 ms
+KeyUp 9 1
+Delay 620 ms
+KeyDown 9 1
+Delay 140 ms
+KeyUp 9 1
+Delay 180 ms
+KeyDown 9 1
+Delay 140 ms
+KeyUp 9 1
+Delay 180 ms
+GoWhile 1 10
+Delay 900 ms
+KeyDown 9 1
+Delay 140 ms
+KeyUp 9 1
+Delay 180 ms
+KeyDown 9 1
+Delay 1600 ms
+KeyUp 9 1
+Delay 620 ms
+KeyDown 9 1
+Delay 140 ms
+KeyUp 9 1
+Delay 180 ms
+KeyDown 9 1
+Delay 140 ms
+KeyUp 9 1
+Delay 180 ms
+KeyDown 9 1
+Delay 140 ms
+KeyUp 9 1
+GoWhile 1 10</Syntax>
+    </KeyDown>
+    <Software>DayZ </Software>
+  </DefaultMacro>
+</Root>

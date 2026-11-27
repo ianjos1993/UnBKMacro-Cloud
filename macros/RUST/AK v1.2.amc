@@ -1,0 +1,75 @@
+<Root>
+  <DefaultMacro>
+    <Major>1920x1440 SENS  0.1 ADS SENS 0.65 FOV 90 </Major>
+    <Description>Поле зрения - 90 
+чувствительность - 0.1                                              input.sensitivity 0.6 
+чувствительность во время прицеливания -          input.ads_sensitivity 0.65
+DPI - 1600
+Разрешение 1920x1440 (4:3)
+
+В настройках Keyran
+Отключить минимальную задержку
+При бинде макроса поставить - работает пока зажата клавиша
+
+Зажим 5 патрон с калаша сидя (holo)
+на 150 метров стреляет 95-98 %
+
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 11 ms
+//1 пуля
+MoveR -5 52
+Delay 35 ms
+MoveR -5 52
+Delay 31 ms
+MoveR -5 52
+Delay 32 ms
+MoveR -5 52
+//2 пуля
+Delay 31 ms
+MoveR -6 51
+Delay 31 ms
+MoveR -6 51
+Delay 31 ms
+MoveR -6 51
+Delay 31 ms
+MoveR -6 51
+Delay 31 ms
+//3 пуля
+MoveR -9 50
+Delay 30 ms
+MoveR -9 50
+Delay 32 ms
+MoveR -9 50
+Delay 32 ms
+MoveR -9 50
+Delay 31 ms
+//4 пуля
+MoveR -10 48
+Delay 31 ms
+MoveR -10 48
+Delay 31 ms
+MoveR -10 48
+Delay 31 ms
+MoveR -10 48
+Delay 31 ms
+//5 пуля
+MoveR -15 47
+Delay 31 ms
+MoveR -15 47
+Delay 31 ms
+MoveR -15 47
+Delay 32 ms
+MoveR -15 47</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

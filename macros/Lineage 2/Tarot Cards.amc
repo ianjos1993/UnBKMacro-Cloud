@@ -1,0 +1,498 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос помогает с открытием огромного количества карт таро.
+1. Запускаем игру в разрешении 1920x1080.
+2,В игре начинаем разговор с гадалкой ИВ.
+3.Окно гадания не двигаем,макрос работает по координатам.
+4.Запускаем макрос и он сам начинает открывать карты.
+5.Все что остается,очистить инвентарь для лута)
+Всем приятной игры ;)
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 79 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+Delay 128 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 135 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+Delay 377 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 399 ms
+LeftDown 1
+Delay 103 ms
+LeftUp 1
+Delay 4000 ms
+MoveTo 914 727
+Delay 15 ms
+MoveTo 914 726
+Delay 16 ms
+MoveTo 914 725
+Delay 7 ms
+MoveTo 914 723
+Delay 7 ms
+MoveTo 914 723
+Delay 7 ms
+MoveTo 916 722
+Delay 7 ms
+MoveTo 917 720
+Delay 8 ms
+MoveTo 919 717
+Delay 7 ms
+MoveTo 921 714
+Delay 8 ms
+MoveTo 925 711
+Delay 8 ms
+MoveTo 929 706
+Delay 7 ms
+MoveTo 933 701
+Delay 8 ms
+MoveTo 937 694
+Delay 8 ms
+MoveTo 941 686
+Delay 6 ms
+MoveTo 946 678
+Delay 8 ms
+MoveTo 950 671
+Delay 7 ms
+MoveTo 955 662
+Delay 9 ms
+MoveTo 959 655
+Delay 7 ms
+MoveTo 962 646
+Delay 7 ms
+MoveTo 965 639
+Delay 8 ms
+MoveTo 968 632
+Delay 8 ms
+MoveTo 971 625
+Delay 6 ms
+MoveTo 973 618
+Delay 8 ms
+MoveTo 975 611
+Delay 7 ms
+MoveTo 977 605
+Delay 8 ms
+MoveTo 979 599
+Delay 7 ms
+MoveTo 980 594
+Delay 9 ms
+MoveTo 983 584
+Delay 7 ms
+MoveTo 984 579
+Delay 7 ms
+MoveTo 984 579
+Delay 8 ms
+MoveTo 984 575
+Delay 7 ms
+MoveTo 985 571
+Delay 7 ms
+MoveTo 985 569
+Delay 7 ms
+MoveTo 985 566
+Delay 8 ms
+MoveTo 986 563
+Delay 8 ms
+MoveTo 987 561
+Delay 7 ms
+MoveTo 987 560
+Delay 7 ms
+MoveTo 987 559
+Delay 9 ms
+MoveTo 987 557
+Delay 6 ms
+MoveTo 987 557
+Delay 40 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 2800 ms
+MoveTo 987 556
+Delay 9 ms
+MoveTo 987 556
+Delay 7 ms
+MoveTo 986 558
+Delay 8 ms
+MoveTo 985 560
+Delay 7 ms
+MoveTo 984 563
+Delay 8 ms
+MoveTo 983 566
+Delay 7 ms
+MoveTo 981 571
+Delay 7 ms
+MoveTo 978 578
+Delay 8 ms
+MoveTo 976 585
+Delay 8 ms
+MoveTo 974 593
+Delay 9 ms
+MoveTo 970 610
+Delay 6 ms
+MoveTo 970 610
+Delay 8 ms
+MoveTo 969 618
+Delay 7 ms
+MoveTo 967 625
+Delay 7 ms
+MoveTo 966 632
+Delay 7 ms
+MoveTo 965 639
+Delay 8 ms
+MoveTo 964 644
+Delay 7 ms
+MoveTo 962 649
+Delay 8 ms
+MoveTo 961 653
+Delay 7 ms
+MoveTo 960 659
+Delay 8 ms
+MoveTo 958 669
+Delay 8 ms
+MoveTo 958 669
+Delay 7 ms
+MoveTo 957 674
+Delay 7 ms
+MoveTo 956 680
+Delay 8 ms
+MoveTo 956 690
+Delay 8 ms
+MoveTo 955 690
+Delay 7 ms
+MoveTo 953 693
+Delay 8 ms
+MoveTo 952 696
+Delay 7 ms
+MoveTo 951 699
+Delay 8 ms
+MoveTo 951 701
+Delay 7 ms
+MoveTo 951 705
+Delay 8 ms
+MoveTo 951 706
+Delay 8 ms
+MoveTo 950 709
+Delay 8 ms
+MoveTo 950 711
+Delay 7 ms
+MoveTo 950 712
+Delay 8 ms
+MoveTo 949 714
+Delay 15 ms
+MoveTo 948 715
+Delay 7 ms
+MoveTo 948 717
+Delay 24 ms
+MoveTo 947 717
+Delay 16 ms
+MoveTo 947 719
+Delay 15 ms
+MoveTo 946 720
+Delay 6 ms
+MoveTo 945 721
+Delay 24 ms
+MoveTo 944 721
+Delay 7 ms
+MoveTo 943 722
+Delay 15 ms
+MoveTo 943 722
+Delay 48 ms
+MoveTo 942 723
+Delay 103 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 136 ms
+LeftDown 1
+Delay 71 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 88 ms
+LeftUp 1
+Delay 2351 ms
+RightDown 1
+Delay 311 ms
+RightUp 1
+Delay 3736 ms
+MoveTo 942 723
+Delay 24 ms
+MoveTo 941 723
+Delay 7 ms
+MoveTo 941 723
+Delay 7 ms
+MoveTo 941 721
+Delay 7 ms
+MoveTo 941 719
+Delay 9 ms
+MoveTo 941 715
+Delay 7 ms
+MoveTo 941 715
+Delay 7 ms
+MoveTo 941 712
+Delay 7 ms
+MoveTo 941 709
+Delay 7 ms
+MoveTo 941 705
+Delay 7 ms
+MoveTo 941 703
+Delay 8 ms
+MoveTo 941 697
+Delay 6 ms
+MoveTo 941 697
+Delay 8 ms
+MoveTo 941 694
+Delay 7 ms
+MoveTo 941 692
+Delay 7 ms
+MoveTo 941 690
+Delay 8 ms
+MoveTo 941 687
+Delay 7 ms
+MoveTo 941 684
+Delay 8 ms
+MoveTo 941 682
+Delay 7 ms
+MoveTo 941 679
+Delay 8 ms
+MoveTo 941 676
+Delay 8 ms
+MoveTo 941 673
+Delay 7 ms
+MoveTo 941 670
+Delay 7 ms
+MoveTo 941 667
+Delay 9 ms
+MoveTo 941 664
+Delay 7 ms
+MoveTo 941 660
+Delay 7 ms
+MoveTo 941 656
+Delay 7 ms
+MoveTo 941 652
+Delay 8 ms
+MoveTo 941 648
+Delay 8 ms
+MoveTo 941 644
+Delay 8 ms
+MoveTo 941 637
+Delay 7 ms
+MoveTo 941 637
+Delay 8 ms
+MoveTo 941 633
+Delay 7 ms
+MoveTo 941 630
+Delay 9 ms
+MoveTo 941 627
+Delay 6 ms
+MoveTo 941 624
+Delay 8 ms
+MoveTo 941 621
+Delay 7 ms
+MoveTo 941 616
+Delay 7 ms
+MoveTo 941 616
+Delay 7 ms
+MoveTo 941 613
+Delay 8 ms
+MoveTo 941 610
+Delay 7 ms
+MoveTo 941 608
+Delay 7 ms
+MoveTo 941 605
+Delay 8 ms
+MoveTo 941 602
+Delay 7 ms
+MoveTo 941 600
+Delay 8 ms
+MoveTo 941 598
+Delay 7 ms
+MoveTo 941 596
+Delay 8 ms
+MoveTo 941 594
+Delay 7 ms
+MoveTo 941 593
+Delay 8 ms
+MoveTo 941 592
+Delay 7 ms
+MoveTo 941 591
+Delay 8 ms
+MoveTo 941 590
+Delay 48 ms
+LeftDown 1
+Delay 70 ms
+LeftUp 1
+Delay 88 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 96 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1
+Delay 3040 ms
+MoveTo 941 590
+Delay 8 ms
+MoveTo 941 590
+Delay 7 ms
+MoveTo 939 593
+Delay 7 ms
+MoveTo 939 593
+Delay 8 ms
+MoveTo 938 595
+Delay 6 ms
+MoveTo 938 597
+Delay 8 ms
+MoveTo 938 599
+Delay 7 ms
+MoveTo 937 603
+Delay 8 ms
+MoveTo 936 606
+Delay 8 ms
+MoveTo 936 609
+Delay 8 ms
+MoveTo 935 615
+Delay 7 ms
+MoveTo 935 615
+Delay 8 ms
+MoveTo 935 617
+Delay 7 ms
+MoveTo 935 620
+Delay 7 ms
+MoveTo 934 624
+Delay 7 ms
+MoveTo 934 627
+Delay 8 ms
+MoveTo 934 628
+Delay 7 ms
+MoveTo 934 631
+Delay 8 ms
+MoveTo 934 634
+Delay 7 ms
+MoveTo 933 637
+Delay 7 ms
+MoveTo 933 638
+Delay 8 ms
+MoveTo 933 641
+Delay 7 ms
+MoveTo 933 643
+Delay 8 ms
+MoveTo 933 645
+Delay 8 ms
+MoveTo 933 647
+Delay 7 ms
+MoveTo 933 649
+Delay 7 ms
+MoveTo 932 651
+Delay 8 ms
+MoveTo 931 654
+Delay 7 ms
+MoveTo 931 654
+Delay 8 ms
+MoveTo 931 656
+Delay 7 ms
+MoveTo 931 657
+Delay 8 ms
+MoveTo 930 660
+Delay 8 ms
+MoveTo 930 661
+Delay 7 ms
+MoveTo 930 662
+Delay 7 ms
+MoveTo 929 665
+Delay 8 ms
+MoveTo 928 668
+Delay 7 ms
+MoveTo 928 668
+Delay 8 ms
+MoveTo 928 670
+Delay 7 ms
+MoveTo 927 673
+Delay 7 ms
+MoveTo 927 674
+Delay 7 ms
+MoveTo 926 677
+Delay 8 ms
+MoveTo 926 678
+Delay 7 ms
+MoveTo 926 681
+Delay 8 ms
+MoveTo 926 683
+Delay 8 ms
+MoveTo 925 686
+Delay 7 ms
+MoveTo 924 687
+Delay 7 ms
+MoveTo 923 689
+Delay 8 ms
+MoveTo 923 691
+Delay 9 ms
+MoveTo 923 693
+Delay 7 ms
+MoveTo 923 695
+Delay 6 ms
+MoveTo 923 697
+Delay 8 ms
+MoveTo 923 699
+Delay 8 ms
+MoveTo 923 700
+Delay 7 ms
+MoveTo 923 703
+Delay 8 ms
+MoveTo 923 705
+Delay 7 ms
+MoveTo 923 707
+Delay 8 ms
+MoveTo 923 709
+Delay 7 ms
+MoveTo 923 711
+Delay 9 ms
+MoveTo 923 713
+Delay 7 ms
+MoveTo 923 715
+Delay 7 ms
+MoveTo 923 718
+Delay 8 ms
+MoveTo 923 718
+Delay 10 ms
+MoveTo 923 721
+Delay 5 ms
+MoveTo 923 721
+Delay 7 ms
+MoveTo 923 721
+Delay 8 ms
+MoveTo 923 722
+Delay 7 ms
+MoveTo 923 723
+Delay 7 ms
+MoveTo 923 723
+Delay 55 ms
+MoveTo 923 723
+Delay 80 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+Delay 104 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+Delay 444 ms</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

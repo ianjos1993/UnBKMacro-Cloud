@@ -1,0 +1,72 @@
+<Root>
+  <DefaultMacro>
+    <Major>serve</Major>
+    <Description>stand 4 characters in front of the line, turn on shift lock.
+Keybinds:
+Spawn ball: 4
+Swap power: g
+Powers
+Z: 3
+X: 6
+C:15
+Other keybinds are the same.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 64
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 64
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 64
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 64
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 64
+KeyDown 22 1
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+Delay 64
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 159 ms
+KeyUp 22 1
+KeyDown 26 1
+Delay 98 ms
+KeyDown 44 1
+Delay 100 ms
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 284 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

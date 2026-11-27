@@ -1,0 +1,57 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всем привет!
+
+Представляю вашему вниманию макрос для игры Dota 2 на героя Хускара. Ранее я выкладывал макрос по аналогичному типу, но тогда армлетка не абузилась автоматически. В этом макросе все устроено иначе.
+
+Итак, армлетка не будет абузиться, когда у вас ниже определенного количества HP, но этот макрос настроен так, что она начнет автоматически абузиться, как только ваша полоска здоровья становится низкой.
+
+Армлетка может находиться в любом слоте, но главное, чтобы этот слот был забинжен на кнопку C. Обратите внимание, что макрос будет работать неэффективно, если армлетка уже включена; для корректной работы макроса армлетка должна быть обязательно выключена.
+
+PS: макрос будет работать только на разрешении 1920 x 1080</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 33 1 78,147,49 29,40,16 2 768 1019 7 23 1 0
+KeyDown 6 1
+Delay 40 ms
+KeyUp 6 1
+Delay 800 ms
+KeyDown 6 1
+Delay 40 ms
+KeyUp 6 1
+Delay 80 ms
+KeyDown 6 1
+Delay 40 ms
+KeyUp 6 1
+Delay 800 ms
+KeyDown 6 1
+Delay 40 ms
+KeyUp 6 1
+Delay 80 ms
+KeyDown 6 1
+Delay 40 ms
+KeyUp 6 1
+Delay 800 ms
+KeyDown 6 1
+Delay 40 ms
+KeyUp 6 1
+Delay 80 ms
+KeyDown 6 1
+Delay 40 ms
+KeyUp 6 1
+Delay 800 ms
+KeyDown 6 1
+Delay 40 ms
+KeyUp 6 1
+Delay 80 ms</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

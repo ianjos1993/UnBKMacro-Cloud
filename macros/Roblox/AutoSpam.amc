@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос пишет в роблокс чат с интервалом 10 секунд ваше сообщение из буфер обмена, пользуйтесь на здоровье
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 1 ms
+KeyUp 56 1
+Delay 64
+KeyDown 224 1
+Delay 64
+KeyDown 25 1
+Delay 64 ms
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 10 s
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

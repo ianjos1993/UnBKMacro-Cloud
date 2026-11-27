@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major>Apex Legends Recoil Macro</Major>
+    <Description>A jitter aim macro that will work for every full-auto weapon in Apex Legends. Less effective on slow RoF weapons (e.g. Spitfire, Devotion during spinup) and single shot weapons (Sentinel, Longbow) the jitter is meant to look scuffed so the recoil control won't look too perfect while you're being spectated
+
+To use: bind to the key of your liking and press the keybind in place of the shoot button
+Settings:
+Resolution: 1920x1080
+sensitivity 2.6-3.1 range  at 400DPI</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 1 ms
+MoveR 10 -10
+Delay 1 ms
+MoveR 10 -10
+Delay 1 ms
+MoveR 10 -10
+Delay 1 ms
+MoveR 10 -10
+Delay 1 ms
+MoveR 10 -10
+Delay 1 ms
+MoveR 10 -10
+Delay 1 ms
+MoveR 10 -10
+Delay 1 ms
+MoveR 10 -10
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

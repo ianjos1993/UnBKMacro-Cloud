@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>стреляет под бит в первой локе до босса. Для начала надо попасть первый раз в бит, после все работает как надо </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 70 ms
+LeftUp 1
+Delay 512 ms
+LeftDown 1
+Delay 70 ms
+LeftUp 1
+Delay 512 ms
+LeftDown 1
+Delay 70 ms
+LeftUp 1
+Delay 512 ms
+LeftDown 1
+Delay 70 ms
+LeftUp 1
+Delay 512 ms
+GoWhile 1 15</Syntax>
+    </KeyDown>
+    <Software>metal helsigner</Software>
+  </DefaultMacro>
+</Root>

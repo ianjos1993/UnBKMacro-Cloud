@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Не сложный, но полезный макрос позволяет зажать вам одну кнопку,а персонаж откроет, сядет, заведет мотор, пристегнет ремень, закроет машину за пару секунд, экономит ваше время и нервы. Приятного пользования, дамы и господа!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 15 1
+Delay 64
+KeyUp 15 1
+Delay 1 s
+KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 4 s
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+KeyDown 5 1
+Delay 64
+KeyUp 5 1
+Delay 64
+KeyDown 15 1
+Delay 64
+KeyUp 15 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

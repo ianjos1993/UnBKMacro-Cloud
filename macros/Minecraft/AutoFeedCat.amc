@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для авто-корма для котов на сервере MCPet net
+Разрешение экрана 1680x1050
+Держать кота в 9 слоте.
+Нужен драйвер.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 1 0 26,26,30 255,255,255 1 1920 1080 1 1 1 0
+KeyDown 38 1
+Delay 64 ms
+KeyUp 38 1
+Delay 150 ms
+RightDown 1
+Delay 64 ms
+RightUp 1
+Delay 300 ms
+RightDown 1
+Delay 64 ms
+RightUp 1
+Delay 64 ms
+KeyDown 38 1
+Delay 64 ms
+RightDown 1
+Delay 64 ms
+RightUp 1
+Delay 64 ms
+KeyUp 38 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

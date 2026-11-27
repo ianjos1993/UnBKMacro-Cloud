@@ -1,0 +1,135 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Подходит для стрейфов на серверах 100аа и 10аа. Макисмально получалось 252 LJ 10аа.
+
+Главное взять скорость прыжка.
+
+При bhop`е лучше не использовать, может мешать.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//   новый скрипт ниже.
+//3 метода создания скрипта
+//1, включить функции из верхней левой панели
+//2, запись движений мыши и клавиатуры
+//3, веведите с клавиатуры
+MoveR 0 0
+KeyDown 7 1
+Delay 3 ms
+MoveR 10 0
+Delay 3 ms
+MoveR 10 0
+Delay 3 ms
+MoveR 10 0
+Delay 3 ms
+MoveR 10 0
+Delay 3 ms
+MoveR 10 0
+Delay 3 ms
+MoveR 10 0
+Delay 3 ms
+MoveR 10 0
+Delay 3 ms
+MoveR 10 0
+Delay 3 ms
+MoveR 10 0
+Delay 3 ms
+MoveR 10 0
+Delay 3 ms
+MoveR 10 0
+Delay 3 ms
+MoveR 10 0
+Delay 3 ms
+MoveR 10 0
+Delay 3 ms
+MoveR 10 0
+Delay 3 ms
+MoveR 10 0
+Delay 3 ms
+MoveR 10 0
+Delay 3 ms
+MoveR 10 0
+Delay 3 ms
+MoveR 10 0
+Delay 3 ms
+MoveR 10 0
+Delay 3 ms
+MoveR 10 0
+Delay 3 ms
+MoveR 10 0
+Delay 3 ms
+MoveR 10 0
+Delay 3 ms
+MoveR 10 0
+Delay 3 ms
+MoveR 10 0
+Delay 3 ms
+MoveR 10 0
+Delay 3 ms
+MoveR 10 0
+KeyUp 7 1
+KeyDown 4 1
+Delay 3 ms
+MoveR -10 0
+Delay 3 ms
+MoveR -10 0
+Delay 3 ms
+MoveR -10 0
+Delay 3 ms
+MoveR -10 0
+Delay 3 ms
+MoveR -10 0
+Delay 3 ms
+MoveR -10 0
+Delay 3 ms
+MoveR -10 0
+Delay 3 ms
+MoveR -10 0
+Delay 3 ms
+MoveR -10 0
+Delay 3 ms
+MoveR -10 0
+Delay 3 ms
+MoveR -10 0
+Delay 3 ms
+MoveR -10 0
+Delay 3 ms
+MoveR -10 0
+Delay 3 ms
+MoveR -10 0
+Delay 3 ms
+MoveR -10 0
+Delay 3 ms
+MoveR -10 0
+Delay 3 ms
+MoveR -10 0
+Delay 3 ms
+MoveR -10 0
+Delay 3 ms
+MoveR -10 0
+Delay 3 ms
+MoveR -10 0
+Delay 3 ms
+MoveR -10 0
+Delay 3 ms
+MoveR -10 0
+Delay 3 ms
+MoveR -10 0
+Delay 3 ms
+MoveR -10 0
+Delay 3 ms
+MoveR -10 0
+Delay 3 ms
+MoveR -10 0
+KeyUp 4 1
+MoveR 0 0</Syntax>
+    </KeyDown>
+    <Software>CS 1.6</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,84 @@
+<Root>
+  <DefaultMacro>
+    <Major>Lili combo 1</Major>
+    <Description>Комбо макрос для персонажа Lili в игре Tekken 8
+
+Уход Лили в сторону считается одним из самых сильных в серии, и она может избегать ударов и атак, которые обычно поражают большую часть играбельного состава. Лили также обладает стойкой, прилегающей к волнистой черте, известной как Dew Glide , которую можно использовать для расширения комбо и как способ двигаться вперед с помощью различных движений, которые могут оказывать давление на защищающихся противников.
+
+Видео демонстрация макроса - https://youtu.be/xoQ7QHYZG1Q
+Тестировалось на последней версии игры.
+
+Настройки в программе для корректного выполнения макроса:
+1. Использовать драйвер.
+2. Отключить использование минимальной задержки.
+
+
+Настройки управления в игре:
+1 - Num 4
+2 - Num 5
+3 - Num 1
+4 - Num 2
+Up - W
+Down - S
+Left - A
+Right - D
+
+Если макрос не работает обращаться - https://keyran.net/discord
+Либо к автору макроса, также по вопросам написания макросов - hersonaep (discord)
+
+#tekken #tekken8 #lili #keyran</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 0 ms
+KeyDown 7 1
+Delay 23 ms
+KeyDown 93 1
+Delay 151 ms
+KeyUp 93 1
+Delay 7 ms
+KeyUp 22 1
+Delay 16 ms
+KeyUp 7 1
+Delay 495 ms
+KeyDown 4 1
+Delay 80 ms
+KeyDown 92 1
+Delay 176 ms
+KeyUp 92 1
+Delay 23 ms
+KeyDown 90 1
+Delay 24 ms
+KeyUp 4 1
+Delay 200 ms
+KeyUp 90 1
+Delay 943 ms
+KeyDown 7 1
+Delay 63 ms
+KeyUp 7 1
+Delay 72 ms
+KeyDown 7 1
+Delay 136 ms
+KeyUp 7 1
+Delay 64 ms
+KeyDown 89 1
+Delay 88 ms
+KeyUp 89 1
+Delay 127 ms
+KeyDown 93 1
+Delay 127 ms
+KeyUp 93 1
+Delay 176 ms
+KeyDown 89 1
+Delay 111 ms
+KeyUp 89 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

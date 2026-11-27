@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>просто зажимаешь стрелочку и ты быстро начинаешь разгонятся только много так не балуйте а то забанить могут)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 82 1
+Delay 25 ms
+KeyUp 82 1
+Delay 25 ms
+KeyDown 82 1
+Delay 25 ms
+KeyUp 82 1
+Delay 0 ms</Syntax>
+    </KeyDown>
+    <Software>Gta Arizona</Software>
+  </DefaultMacro>
+</Root>

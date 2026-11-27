@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>автоиспользование скилов для фрукта драгон для режима a one piece game для более удобного фарма, просто активуруете форму драгона и используете макрос,</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+KeyUp 20 1
+KeyDown 8 1
+KeyUp 8 1
+KeyDown 21 1
+KeyUp 21 1
+KeyDown 9 1
+KeyUp 9 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

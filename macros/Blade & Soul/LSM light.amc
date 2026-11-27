@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Лсм в молнии 
+------------------------------Описание------------------------
+Лсм в молнии простой макрос на аникенцел ЛКМ+F
+------------------------------Инструкция----------------------
+1.Запустите игру
+2.Выберите режим работы без привязки к окну
+3.Назеачить кнопку на макрос
+4.В игре кнопку ЛКП закрепить к кнопке R
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 90 ms
+KeyUp 21 1
+Delay 100 ms
+KeyDown 9 1
+Delay 90 ms
+KeyUp 9 1
+Delay 380 ms</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,61 @@
+<Root>
+  <DefaultMacro>
+    <Major>Сообщает в чат шаблон для дальнейшего использования отметок о саммонерках врага.</Major>
+    <Description>Пишет в чат сообщение:
+adc no summs
+
+После чего копирует и вносит во внутренний буфер игры.
+
+Как только будет свободная минутка, можно нажать ctrl+v и добавить уже время, к которому у вражеского адк появятся саммонерки.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 88 1
+KeyUp 88 1
+Delay 15 ms
+KeyDown 4 1
+KeyUp 4 1
+KeyDown 7 1
+KeyUp 7 1
+KeyDown 6 1
+KeyUp 6 1
+KeyDown 44 1
+KeyUp 44 1
+KeyDown 17 1
+KeyUp 17 1
+KeyDown 18 1
+KeyUp 18 1
+KeyDown 44 1
+KeyUp 44 1
+KeyDown 22 1
+KeyUp 22 1
+KeyDown 24 1
+KeyUp 24 1
+KeyDown 16 1
+KeyUp 16 1
+KeyDown 16 1
+KeyUp 16 1
+KeyDown 22 1
+KeyUp 22 1
+KeyDown 44 1
+KeyUp 44 1
+KeyDown 224 1
+KeyDown 4 1
+KeyUp 224 1
+KeyUp 4 1
+KeyDown 224 1
+KeyDown 6 1
+KeyUp 224 1
+KeyUp 6 1
+KeyDown 88 1
+KeyUp 88 1
+Delay 30 ms</Syntax>
+    </KeyDown>
+    <Software>League of legends</Software>
+  </DefaultMacro>
+</Root>

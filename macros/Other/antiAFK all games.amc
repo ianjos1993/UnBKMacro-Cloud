@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major>antiAFK</Major>
+    <Description>This macro will make you move every few seconds so you dont get kicked out from game/server. While this macro works you can go away from computer. 
+To make this macro work best bind it to any keybind u dont use while playing and when you go away from computer click it. 
+When binding it go to operating mode and choose  "Run until pressed angain"
+Works in any game! You need to have the game on screen otherwise it wont work!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 5 ms
+KeyUp 26 1
+Delay 864 ms
+KeyDown 44 1
+Delay 34 ms
+KeyUp 44 1
+Delay 14 ms
+KeyDown 44 1
+Delay 14 ms
+KeyUp 44 1
+Delay 34 ms
+KeyDown 7 1
+Delay 5 ms
+KeyUp 7 1
+Delay 864 ms
+KeyDown 22 1
+Delay 5 ms
+KeyUp 22 1
+Delay 864 ms
+KeyDown 4 1
+Delay 5 ms
+KeyUp 4 1
+Delay 864 ms
+KeyDown 44 1
+Delay 5 ms
+KeyUp 44 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

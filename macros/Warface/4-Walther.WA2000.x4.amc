@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>снайперская винтовка - после установки макроса мы получаем автоматическую снайперскую винтовку и полное отсутствие отдачи, стрельба зажимом
+
+4 кратник, сенса 16, DPI 800</Description>
+    <Comment>
+</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 55 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 55 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+MoveR 0 40
+Delay 55 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 55 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 55 ms
+Goto 18</Syntax>
+    </KeyDown>
+    <Software>Warface</Software>
+  </DefaultMacro>
+</Root>

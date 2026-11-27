@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>Rocket League – Advanced Mechanics</Major>
+    <Description>This macro helps players master the half-flip technique and quick recovery in Rocket League. It automates the sequence of inputs needed to perform a perfect half-flip, followed by a powerslide to regain control. Ideal for improving movement efficiency during competitive play or training.</Description>
+    <Comment>Great for practicing advanced mechanics without having to manually repeat the inputs. Perfect for players who want to improve their recoveries and rotations.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 50 ms
+RightDown 1
+Delay 50 ms
+RightUp 1
+Delay 100 ms
+KeyDown 20 1
+Delay 300 ms
+LeftDown 1
+Delay 150 ms
+LeftUp 1
+KeyDown 225 1
+Delay 100 ms
+KeyUp 225 1
+KeyUp 20 1
+KeyUp 22 1
+Delay 200 ms
+KeyDown 26 1
+Delay 150 ms
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>Rocket League</Software>
+  </DefaultMacro>
+</Root>

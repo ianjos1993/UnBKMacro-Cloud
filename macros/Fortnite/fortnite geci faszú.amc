@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>Edit Macro</Major>
+    <Description>Hello 
+This is a Fortnite Edit Macro
+Put the edit to the default ( G ) 
+and put the select building ( L ) 
+
+And Have fun with it &lt;3</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+Delay 4 ms
+KeyUp 10 1
+Delay 4 ms
+KeyDown 15 1
+Delay 4 ms
+KeyUp 15 1
+Delay 4 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Обычный банихоп, который должен работать. Нужно только установить прыжок на прокрутку колёсика мыши вверх, установить макрос на нужную клавишу.! Передвигайтесь по карте быстрее!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>WheelUp 1
+Delay 10
+KeyDown 4 1
+Delay 10
+KeyUp 4 1
+WheelUp 1
+Delay 10
+KeyDown 7 1
+Delay 10
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Counter-Strike 2</Software>
+  </DefaultMacro>
+</Root>

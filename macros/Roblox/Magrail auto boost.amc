@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major>Magrail</Major>
+    <Description>used for automatic magrail boost
+go to a wall and press hotkey button
+u can use movement keys to change directions 
+automatically press shift for negate fall damange</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+KeyUp 225 1
+KeyDown 8 1
+Delay 54 ms
+KeyDown 44 1
+Delay 40 ms
+KeyUp 8 1
+Delay 48 ms
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

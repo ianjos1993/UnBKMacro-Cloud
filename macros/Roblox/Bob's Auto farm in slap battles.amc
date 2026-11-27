@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Наводите мышку на Enter Arena и включаете макрос и все авто фарм боба удачи вам :) игры в слэп батлс у вас займет от1 до 24+ часа </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+
+Наводите мышку на Enter Arena и включаете макрос и все авто фарм боба удачи вам :)</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 5 s
+KeyUp 44 1
+Delay 1 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64 ms
+KeyDown 8 1
+Delay 1 s
+KeyDown 8 1
+Delay 64 ms
+KeyUp 8 1
+Delay 64
+KeyDown 41 1
+Delay 1 s
+KeyUp 41 1
+Delay 100 ms
+KeyDown 21 1
+Delay 100 ms
+KeyUp 21 1
+Delay 52 ms
+KeyDown 88 1
+Delay 10 ms
+KeyUp 88 1
+Delay 10 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,49 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Афк фарм эфирами ( петовод) 
+герой бегает по кругу раз в минуту собирая мобов на себя после чего эфиры убивают все мобов которые сагрились ,  после герой ожидает спавн мобов , советую поставить тайминги  ожидания в циличности макроса под свой спот мобов</Description>
+    <Comment>Удачи)</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 1350 ms
+KeyUp 26 1
+Delay 1350 ms
+KeyDown 4 1
+Delay 1350 ms
+KeyUp 4 1
+Delay 1350 ms
+KeyDown 22 1
+Delay 1350 ms
+KeyUp 22 1
+Delay 1750 ms
+KeyDown 7 1
+Delay 1400 ms
+KeyUp 7 1
+Delay 7 s
+KeyDown 43 1
+Delay 1 s
+KeyUp 43 1
+Delay 1 s
+KeyDown 33 1
+Delay 1 s
+KeyUp 33 1
+Delay 1 s
+KeyDown 34 1
+Delay 1 s
+KeyUp 34 1
+Delay 1 s
+KeyDown 30 1
+Delay 1 s
+KeyUp 30 1
+Delay 70 s</Syntax>
+    </KeyDown>
+    <Software>Rappelz</Software>
+  </DefaultMacro>
+</Root>

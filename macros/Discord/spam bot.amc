@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Отлично подходит для фарма уровня ботом Mee6!
+Так же подходит для спама в разных чатах Discord
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+KeyDown 25 1
+Delay 64
+KeyUp 25 1
+KeyUp 224 1
+Delay 512 ms
+KeyDown 40 1
+Delay 64
+KeyUp 40 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Discord</Software>
+  </DefaultMacro>
+</Root>

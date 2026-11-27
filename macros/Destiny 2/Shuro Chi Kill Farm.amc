@@ -1,0 +1,165 @@
+<Root>
+  <DefaultMacro>
+    <Major>"The Call" Rocket Sidearm Kill Farm</Major>
+    <Description>Designed for a Monitor 2460 x 1417 at 30 FPS to limit lag
+
+Run the macro starting from the Shuro Chi Spawn in point, have a heavy rocket equipped to kill yourself to let the macro loop. This macro is intend for the call, but changing 2 lines of code can make it into a "Indedbted Kindness" farm as well. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 33 1
+Delay 64
+KeyUp 33 1
+KeyDown 32 1
+Delay 64
+Delay 2000
+KeyUp 32 1
+Delay 2000
+LeftDown 1
+LeftUp 1
+Delay 100 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 26 1
+Delay 76 ms
+KeyDown 225 1
+Delay 543 ms
+KeyDown 7 1
+Delay 82 ms
+KeyUp 7 1
+Delay 257 ms
+KeyDown 7 1
+Delay 3483 ms
+KeyUp 26 1
+Delay 111 ms
+KeyDown 26 1
+Delay 483 ms
+KeyUp 225 1
+Delay 934 ms
+KeyUp 7 1
+Delay 189 ms
+KeyDown 7 1
+Delay 353 ms
+KeyUp 7 1
+Delay 196 ms
+KeyDown 7 1
+Delay 142 ms
+KeyUp 7 1
+Delay 559 ms
+KeyUp 26 1
+Delay 309 ms
+KeyDown 26 1
+Delay 800 ms
+KeyUp 26 1
+Delay 353 ms
+MoveR -160 662
+LeftDown 1
+Delay 1000 ms
+MoveR 14 -255
+LeftDown 1
+Delay 2000
+LeftUp 1
+Delay 2000
+Delay 72 ms
+Delay 72 ms
+LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 1112 ms
+KeyDown 26 1
+KeyUp 26 1
+Delay 64
+LeftDown 1
+LeftUp 1
+MoveR 0 -1
+Delay 72 ms
+MoveR -1 0
+MoveR -605 316
+Delay 600 ms
+LeftDown 1
+Delay 72 ms
+LeftUp 1
+Delay 64
+KeyDown 21 1
+Delay 10 ms
+KeyUp 21 1
+KeyDown 26 1
+Delay 7000 ms
+KeyUp 26 1
+KeyDown 7 1
+Delay 1750 ms
+LeftDown 1
+Delay 72 ms
+LeftUp 1
+KeyUp 7 1
+Delay 64
+MoveR 555 -249
+Delay 64
+LeftDown 1
+Delay 72 ms
+Delay 500 ms
+LeftUp 1
+Delay 500 ms
+LeftDown 1
+Delay 72 ms
+LeftUp 1
+Delay 500 ms
+LeftDown 1
+Delay 72 ms
+Delay 500 ms
+LeftUp 1
+Delay 675 ms
+LeftDown 1
+Delay 72 ms
+Delay 500 ms
+LeftUp 1
+MoveR 38 606
+Delay 64
+Delay 500 ms
+LeftDown 1
+Delay 1000 ms
+LeftUp 1
+Delay 1000 ms
+MoveR 19 699
+MoveR 2 -215
+Delay 64
+Delay 64
+Delay 64
+LeftDown 1
+Delay 300 ms
+LeftUp 1
+Delay 300 ms
+LeftDown 1
+Delay 300 ms
+LeftUp 1
+LeftDown 1
+Delay 300 ms
+LeftUp 1
+LeftDown 1
+Delay 300 ms
+LeftUp 1
+KeyDown 32 1
+Delay 135 ms
+KeyUp 32 1
+Delay 400 ms
+Delay 1000 ms
+LeftDown 1
+Delay 72 ms
+LeftUp 1
+Delay 1 s
+LeftDown 1
+Delay 72 ms
+LeftUp 1
+Delay 24 s
+GoWhile 4 50000</Syntax>
+    </KeyDown>
+    <Software>Destiny 2</Software>
+  </DefaultMacro>
+</Root>

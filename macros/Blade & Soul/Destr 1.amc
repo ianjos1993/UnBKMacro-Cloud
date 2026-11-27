@@ -1,0 +1,67 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Основная ротация для 1-го спека на Дестре. Учитывает откат скиллов, если разрешение экрана 2560x1440 в псевдополноэкранном режиме (Оконный без рамок, скорректируйте условие цвета по мере необходимости).
+
+Назначьте макрос на клавишу https://keyran.net/ru/wiki/?p=hotkey#create
+Активируйте Keyran https://keyran.net/ru/wiki/?p=hotkey#start
+Нажмите на кнопку, к которой привязали макрос. </Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 5 1 102,83,76 255,255,255 2 1240 1294 37 38 1 0
+KeyDown 27 1
+Delay 4 ms
+KeyUp 27 1
+Delay 1 ms
+RightDown 1
+Delay 42 ms
+RightUp 1
+Delay 1 ms
+GoColor 15 1 46,25,12 255,255,255 2 6 910 122 67 1 0
+GoColor 15 1 236,137,45 255,255,255 2 1467 1003 45 47 1 0
+KeyDown 9 1
+Delay 16 ms
+KeyUp 9 1
+Delay 21 ms
+LeftDown 1
+Delay 77 ms
+LeftUp 1
+GoColor 23 1 111,103,97 255,255,255 1 1030 1226 978 38 1 0
+KeyDown 8 1
+Delay 3 ms
+KeyUp 8 1
+Delay 1 ms
+GoColor 28 1 102,83,76 255,255,255 2 1240 1294 37 38 1 0
+KeyDown 27 1
+Delay 4 ms
+KeyUp 27 1
+Delay 1 ms
+GoColor 34 1 73,61,63 255,255,255 2 1288 1220 42 36 1 0
+GoColor 34 1 91,21,90 255,255,255 2 1288 1220 42 36 1 0
+KeyDown 32 1
+Delay 6 ms
+KeyUp 32 1
+Delay 1 ms
+RightDown 1
+Delay 42 ms
+GoColor 42 1 46,25,12 255,255,255 2 6 910 122 67 1 0
+GoColor 42 1 236,137,45 255,255,255 2 1467 1003 45 47 1 0
+KeyDown 9 1
+Delay 16 ms
+KeyUp 9 1
+Delay 21 ms
+LeftDown 1
+Delay 77 ms
+LeftUp 1
+GoWhile 19 6
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

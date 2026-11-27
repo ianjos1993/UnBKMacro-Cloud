@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос позволит фармить статистику меча на мечах с тремя способностями. Такие как: "2SS", "3SS", 'Gryphon'. Советую включать хаки на меч, чтобы фармилась и их статистика. Чтобы использовать макрос переходим на виртуальную клавиатуру в Keyran. Выбираем любую кнопку и нажимаем по ней правой кнопкой мыши, выбираем раздел макрос где выбираем макрос "Фарм Меч с 3 способностями A One Piece Game". Активируем Keyran, заходим в игру, берём наш меч в руки, нажимаем на нашу выбранную кнопку, готово! </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

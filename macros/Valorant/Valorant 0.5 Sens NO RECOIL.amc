@@ -1,0 +1,84 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>this script only work for vandal, phantom and spectre 
+set your in game sensitivity to 0.5 first
+bind to left mouse button
+enjoy
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//..nonogamezone.com
+//..youtube.com/nosoundmevlid
+//..Sens 0,5
+//--no souNd-Valorant-v2.5--
+IfKey 1 1 7
+IfKey 1 0 5
+Delay 100 ms
+MoveR -1 23
+Delay 100 ms
+IfKey 1 0 5
+MoveR -1 24
+Delay 100 ms
+MoveR -1 21
+Delay 100 ms
+IfKey 1 0 5
+MoveR -1 23
+Delay 100 ms
+MoveR -1 27
+Delay 100 ms
+IfKey 1 0 5
+MoveR -2 27
+Delay 100 ms
+MoveR 1 20
+Delay 100 ms
+IfKey 1 0 5
+MoveR -1 15
+Delay 100 ms
+MoveR 3 0
+Delay 100 ms
+IfKey 1 0 5
+MoveR 4 0
+Delay 100 ms
+MoveR 13 0
+Delay 100 ms
+IfKey 1 0 5
+MoveR 16 0
+Delay 100 ms
+MoveR 12 0
+Delay 100 ms
+MoveR 0 0
+IfKey 1 0 5
+Delay 100 ms
+IfKey 1 0 5
+Delay 100 ms
+IfKey 1 0 5
+Delay 100 ms
+IfKey 1 0 5
+Delay 100 ms
+IfKey 1 0 5
+Delay 100 ms
+Delay 100 ms
+IfKey 1 0 5
+Delay 100 ms
+Delay 100 ms
+IfKey 1 0 5
+Delay 100 ms
+Delay 100 ms
+IfKey 1 0 5
+Delay 100 ms
+Delay 100 ms
+IfKey 1 0 5
+Delay 100 ms
+Delay 100 ms
+IfKey 1 0 5</Syntax>
+    </KeyDown>
+    <Software>Valorant</Software>
+  </DefaultMacro>
+</Root>

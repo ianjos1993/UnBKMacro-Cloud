@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Вообще , этот макрос пришёл в голову мне спонтанно , как и сама идея.
+
+Кто не понял , для чего нужен этот макрос , обьясню : Он нужен для резкого манёвра "Кругом" , тоесть вас будет крутить , чтобы вы уворачивалась автоматически от ПВО. В момент нажимания кнопки макроса , не стоит нажимать кнопки - "W" , "D"
+
+Тестилось на клавиатуре Gaming Series
+Мышка SVEN RX-G750
+Windows 11
+
+Удачного пользования</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1035 310
+Delay 6 ms
+KeyDown 26 1
+Delay 11 ms
+KeyDown 7 1
+Delay 11 ms
+KeyUp 7 1
+Delay 2 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

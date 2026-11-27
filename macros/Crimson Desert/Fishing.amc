@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простой и эффективный макрос для рыбалки.
+Он основан на быстрой прокрутке колеса мыши вниз, что ускоряет процесс подтягивания рыбы.
+Когда рыба выдыхается, включаете макрос (рекомендуется назначить на прокрутку вниз) и подтягиваете её.
+Если рыба начинает сопротивляться — отключаете макрос и повторяете действия.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>WheelDown 1
+Delay 20 ms
+WheelDown 1
+Delay 20 ms
+WheelDown 1
+Delay 20 ms
+WheelDown 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Crimson Desert</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,60 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Свапает кнопки 1 и 3, вместе с этим нажимая лкм + пкм.
+---
+Описание:
+Макрос для игры Minecraft
+---
+Инструкция так сказать:
+1. Запустить игру конечно же.
+2. Зайти в клавиши
+3. Поставить удобный вам бинд на любую кнопку
+4. И зажать эту кнопку на которую вы поставили бинд.
+5. Готово. Макрос работает
+
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+LeftDown 1
+Delay 4 ms
+LeftUp 1
+Delay 7 ms
+LeftDown 1
+Delay 9 ms
+LeftUp 1
+Delay 9 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+KeyDown 32 1
+KeyUp 32 1
+RightDown 1
+Delay 5 ms
+RightUp 1
+Delay 8 ms
+RightDown 1
+Delay 9 ms
+RightUp 1
+Delay 10 ms
+RightDown 1
+Delay 8 ms
+RightUp 1
+Delay 9 ms
+RightDown 1
+Delay 9 ms
+RightUp 1
+Delay 9 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

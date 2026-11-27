@@ -1,0 +1,96 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный скрипт предназначен для использования в Roblox режиме Magic Training. Он позволяет по нажатию одной кнопки моментально открыть чат и написать заклинание для режима. В данном скрипте дано заклинание Petrificus Totalus которое обращает противника в камень волшебным образом. По примеру данного скрипта можно создать еще скрипты поменяв только заклинание.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 10 ms
+KeyUp 56 1
+Delay 10 ms
+KeyDown 19 1
+Delay 10 ms
+KeyUp 19 1
+Delay 10 ms
+KeyDown 8 1
+Delay 10 ms
+KeyUp 8 1
+Delay 10 ms
+KeyDown 23 1
+Delay 10 ms
+KeyUp 23 1
+Delay 10 ms
+KeyDown 21 1
+Delay 10 ms
+KeyUp 21 1
+Delay 10 ms
+KeyDown 12 1
+Delay 10 ms
+KeyUp 12 1
+Delay 10 ms
+KeyDown 9 1
+Delay 10 ms
+KeyUp 9 1
+Delay 10 ms
+KeyDown 12 1
+Delay 10 ms
+KeyUp 12 1
+Delay 10 ms
+KeyDown 6 1
+Delay 10 ms
+KeyUp 6 1
+Delay 10 ms
+KeyDown 24 1
+Delay 10 ms
+KeyUp 24 1
+Delay 10 ms
+KeyDown 22 1
+Delay 10 ms
+KeyUp 22 1
+Delay 10 ms
+KeyDown 44 1
+Delay 10 ms
+KeyUp 44 1
+Delay 10 ms
+KeyDown 23 1
+Delay 10 ms
+KeyUp 23 1
+Delay 10 ms
+KeyDown 18 1
+Delay 10 ms
+KeyUp 18 1
+Delay 10 ms
+KeyDown 23 1
+Delay 10 ms
+KeyUp 23 1
+Delay 10 ms
+KeyDown 4 1
+Delay 10 ms
+KeyUp 4 1
+Delay 10 ms
+KeyDown 15 1
+Delay 10 ms
+KeyUp 15 1
+Delay 10 ms
+KeyDown 24 1
+Delay 10 ms
+KeyUp 24 1
+Delay 10 ms
+KeyDown 22 1
+Delay 10 ms
+KeyUp 22 1
+Delay 10 ms
+KeyDown 40 1
+Delay 10 ms
+KeyUp 40 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

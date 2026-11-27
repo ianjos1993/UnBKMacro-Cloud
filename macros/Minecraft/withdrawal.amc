@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Ломает щит противникам в майнкрафт на сервере гтм кристаликс и дожимает с оружия и убивает вашего соперника что подзоляет убить его без проблем и выйграть пвп</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 1 ms
+KeyUp 31 1
+Delay 15 ms
+LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 15 ms
+KeyDown 30 1
+Delay 15 ms
+KeyUp 30 1
+Delay 15 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+RightDown 1
+Delay 1 s
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

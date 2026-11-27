@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для Проектов LovedCraft ZonixCraft для сервера Omega
+Макрос для пвп на суше-яме жиме,макрос предназначен для пвп в з4 его нужно рассвапывать,когда на экране будет виден только кончик экрана значит вы рассвапали макрос,без рассвапа макрос будет слабый.
+1 слот - меч
+3 слот - хилл
+Сейчас этот макрос довольно сильный и может убивать всех в яме-жиме но на суше будьте аккуратней.
+Биндите на любую кнопку у меня это колесико мышки и играете,сам сижу на нем уже дня 3,переписал недавно Всем удачи!</Description>
+    <Comment>&lt;3</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 1 ms
+LeftUp 1
+KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+Delay 9 ms
+RightDown 1
+Delay 1 ms
+Delay 1 ms
+Delay 1 ms
+Delay 4 ms
+Delay 21 ms
+RightUp 1
+Delay 10 ms
+LeftDown 1
+Delay 12 ms
+LeftUp 1
+Delay 6 ms
+KeyDown 32 1
+Delay 1 ms
+KeyUp 32 1
+Delay 1 ms
+RightDown 1
+Delay 8 ms
+Delay 7 ms
+LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 16 ms</Syntax>
+    </KeyDown>
+    <Software>ZonixCraft-LovedCraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,847 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>автоматически бегает по заданным мобам, манорит их и собирает
+1) в первую ячейку третьего ряда поместите макроос:
+/target "имя моба"
+/attack
+2) в первую ячейку второго ряда поместите семена которые будете сажать
+3) в третью ячейку третьего ряда поместите серп
+4) в четвертую ячейку второго ряда поместите поднимать дроп</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 10 ms
+MoveTo 472 523
+Delay 3 ms
+MoveTo 473 528
+Delay 4 ms
+MoveTo 475 534
+Delay 3 ms
+MoveTo 477 542
+Delay 4 ms
+MoveTo 477 551
+Delay 3 ms
+MoveTo 481 561
+Delay 4 ms
+MoveTo 483 572
+Delay 3 ms
+MoveTo 484 583
+Delay 3 ms
+MoveTo 485 595
+Delay 3 ms
+MoveTo 485 608
+Delay 4 ms
+MoveTo 486 620
+Delay 4 ms
+MoveTo 486 632
+Delay 4 ms
+MoveTo 486 643
+Delay 3 ms
+MoveTo 485 653
+Delay 4 ms
+MoveTo 485 664
+Delay 4 ms
+MoveTo 485 673
+Delay 3 ms
+MoveTo 484 683
+Delay 3 ms
+MoveTo 484 692
+Delay 3 ms
+MoveTo 484 701
+Delay 4 ms
+MoveTo 484 701
+Delay 4 ms
+MoveTo 484 711
+Delay 3 ms
+MoveTo 484 730
+Delay 3 ms
+MoveTo 484 740
+Delay 4 ms
+MoveTo 484 750
+Delay 4 ms
+MoveTo 484 759
+Delay 3 ms
+MoveTo 484 768
+Delay 4 ms
+MoveTo 484 776
+Delay 4 ms
+MoveTo 484 784
+Delay 4 ms
+MoveTo 484 792
+Delay 3 ms
+MoveTo 485 800
+Delay 5 ms
+MoveTo 486 807
+Delay 2 ms
+MoveTo 487 814
+Delay 4 ms
+MoveTo 488 820
+Delay 3 ms
+MoveTo 489 826
+Delay 4 ms
+MoveTo 489 831
+Delay 3 ms
+MoveTo 492 836
+Delay 4 ms
+MoveTo 493 841
+Delay 3 ms
+MoveTo 494 845
+Delay 4 ms
+MoveTo 494 849
+Delay 3 ms
+MoveTo 495 852
+Delay 3 ms
+MoveTo 495 855
+Delay 4 ms
+MoveTo 495 858
+Delay 3 ms
+MoveTo 496 860
+Delay 3 ms
+MoveTo 496 863
+Delay 4 ms
+MoveTo 496 865
+Delay 4 ms
+MoveTo 497 867
+Delay 3 ms
+MoveTo 498 869
+Delay 3 ms
+MoveTo 498 871
+Delay 4 ms
+MoveTo 499 873
+Delay 4 ms
+MoveTo 500 875
+Delay 4 ms
+MoveTo 500 877
+Delay 3 ms
+MoveTo 501 879
+Delay 3 ms
+MoveTo 502 880
+Delay 4 ms
+MoveTo 502 881
+Delay 3 ms
+MoveTo 502 882
+Delay 42 ms
+MoveTo 503 882
+Delay 3 ms
+MoveTo 505 884
+Delay 4 ms
+MoveTo 507 886
+Delay 3 ms
+MoveTo 508 887
+Delay 3 ms
+MoveTo 510 890
+Delay 4 ms
+MoveTo 512 892
+Delay 4 ms
+MoveTo 512 895
+Delay 3 ms
+MoveTo 513 898
+Delay 3 ms
+MoveTo 518 901
+Delay 3 ms
+MoveTo 518 905
+Delay 4 ms
+MoveTo 523 909
+Delay 3 ms
+MoveTo 525 912
+Delay 3 ms
+MoveTo 525 915
+Delay 4 ms
+MoveTo 528 918
+Delay 4 ms
+MoveTo 528 918
+Delay 3 ms
+MoveTo 530 921
+Delay 3 ms
+MoveTo 531 922
+Delay 3 ms
+MoveTo 532 924
+Delay 84 ms
+MoveTo 532 924
+Delay 104 ms
+MoveTo 533 925
+Delay 3 ms
+MoveTo 532 924
+Delay 7 ms
+MoveTo 532 922
+Delay 3 ms
+MoveTo 531 921
+Delay 124 ms
+LeftDown 1
+Delay 84 ms
+LeftUp 1
+Delay 124 ms
+LeftDown 1
+Delay 84 ms
+LeftUp 1
+Delay 124 ms
+LeftDown 1
+Delay 84 ms
+LeftUp 1
+Delay 124 ms
+LeftDown 1
+Delay 84 ms
+LeftUp 1
+Delay 124 ms
+LeftDown 1
+Delay 84 ms
+LeftUp 1
+Delay 1048 ms
+MoveTo 531 921
+Delay 11 ms
+MoveTo 530 921
+Delay 63 ms
+MoveTo 530 922
+Delay 764 ms
+MoveTo 530 923
+Delay 7 ms
+MoveTo 530 924
+Delay 12 ms
+MoveTo 530 926
+Delay 3 ms
+MoveTo 530 927
+Delay 3 ms
+MoveTo 530 927
+Delay 4 ms
+MoveTo 530 929
+Delay 4 ms
+MoveTo 530 929
+Delay 4 ms
+MoveTo 530 931
+Delay 3 ms
+MoveTo 530 932
+Delay 4 ms
+MoveTo 530 933
+Delay 4 ms
+MoveTo 530 934
+Delay 3 ms
+MoveTo 530 935
+Delay 3 ms
+MoveTo 530 936
+Delay 4 ms
+MoveTo 530 937
+Delay 8 ms
+MoveTo 530 938
+Delay 7 ms
+MoveTo 530 939
+Delay 16 ms
+MoveTo 530 940
+Delay 7 ms
+MoveTo 530 940
+Delay 23 ms
+MoveTo 530 941
+Delay 92 ms
+MoveTo 530 942
+Delay 7 ms
+MoveTo 530 943
+Delay 20 ms
+MoveTo 530 944
+Delay 27 ms
+MoveTo 530 945
+Delay 7 ms
+MoveTo 530 946
+Delay 20 ms
+MoveTo 530 947
+Delay 11 ms
+MoveTo 530 948
+Delay 7 ms
+MoveTo 530 949
+Delay 1760 ms
+LeftDown 1
+Delay 75 ms
+LeftUp 1
+Delay 99 ms
+LeftDown 1
+Delay 72 ms
+LeftUp 1
+Delay 115 ms
+LeftDown 1
+Delay 63 ms
+LeftUp 1
+Delay 100 ms
+LeftDown 1
+Delay 75 ms
+LeftUp 1
+Delay 100 ms
+LeftDown 1
+Delay 59 ms
+LeftUp 1
+Delay 100 ms
+LeftDown 1
+Delay 71 ms
+LeftUp 1
+Delay 87 ms
+LeftDown 1
+Delay 88 ms
+LeftUp 1
+Delay 91 ms
+LeftDown 1
+Delay 88 ms
+LeftUp 1
+Delay 4434 ms
+MoveTo 530 950
+Delay 7 ms
+MoveTo 530 948
+Delay 3 ms
+MoveTo 531 947
+Delay 4 ms
+MoveTo 532 946
+Delay 3 ms
+MoveTo 532 946
+Delay 3 ms
+MoveTo 534 944
+Delay 4 ms
+MoveTo 536 943
+Delay 4 ms
+MoveTo 536 943
+Delay 4 ms
+MoveTo 539 940
+Delay 3 ms
+MoveTo 541 939
+Delay 4 ms
+MoveTo 542 938
+Delay 3 ms
+MoveTo 542 936
+Delay 3 ms
+MoveTo 545 936
+Delay 4 ms
+MoveTo 545 935
+Delay 3 ms
+MoveTo 545 935
+Delay 4 ms
+MoveTo 547 934
+Delay 3 ms
+MoveTo 548 933
+Delay 3 ms
+MoveTo 550 931
+Delay 3 ms
+MoveTo 551 930
+Delay 4 ms
+MoveTo 551 928
+Delay 3 ms
+MoveTo 552 928
+Delay 4 ms
+MoveTo 553 925
+Delay 3 ms
+MoveTo 556 924
+Delay 4 ms
+MoveTo 557 923
+Delay 4 ms
+MoveTo 557 923
+Delay 4 ms
+MoveTo 560 920
+Delay 3 ms
+MoveTo 561 918
+Delay 4 ms
+MoveTo 562 917
+Delay 4 ms
+MoveTo 562 917
+Delay 3 ms
+MoveTo 564 915
+Delay 3 ms
+MoveTo 567 911
+Delay 3 ms
+MoveTo 567 908
+Delay 4 ms
+MoveTo 569 907
+Delay 4 ms
+MoveTo 573 905
+Delay 4 ms
+MoveTo 575 903
+Delay 3 ms
+MoveTo 577 901
+Delay 4 ms
+MoveTo 578 900
+Delay 3 ms
+MoveTo 580 898
+Delay 4 ms
+MoveTo 580 897
+Delay 3 ms
+MoveTo 582 895
+Delay 4 ms
+MoveTo 582 894
+Delay 4 ms
+MoveTo 584 894
+Delay 3 ms
+MoveTo 585 892
+Delay 3 ms
+MoveTo 589 889
+Delay 3 ms
+MoveTo 591 888
+Delay 4 ms
+MoveTo 591 888
+Delay 3 ms
+MoveTo 593 886
+Delay 3 ms
+MoveTo 597 884
+Delay 4 ms
+MoveTo 598 883
+Delay 4 ms
+MoveTo 598 883
+Delay 4 ms
+MoveTo 600 882
+Delay 3 ms
+MoveTo 602 881
+Delay 3 ms
+MoveTo 606 878
+Delay 4 ms
+MoveTo 608 877
+Delay 4 ms
+MoveTo 610 875
+Delay 3 ms
+MoveTo 610 875
+Delay 3 ms
+MoveTo 614 872
+Delay 4 ms
+MoveTo 617 870
+Delay 4 ms
+MoveTo 617 870
+Delay 3 ms
+MoveTo 619 867
+Delay 3 ms
+MoveTo 623 865
+Delay 3 ms
+MoveTo 623 864
+Delay 4 ms
+MoveTo 626 862
+Delay 3 ms
+MoveTo 628 861
+Delay 3 ms
+MoveTo 628 861
+Delay 4 ms
+MoveTo 632 858
+Delay 4 ms
+MoveTo 634 857
+Delay 3 ms
+MoveTo 636 856
+Delay 3 ms
+MoveTo 636 854
+Delay 4 ms
+MoveTo 640 853
+Delay 4 ms
+MoveTo 642 851
+Delay 4 ms
+MoveTo 644 850
+Delay 3 ms
+MoveTo 645 848
+Delay 4 ms
+MoveTo 647 847
+Delay 3 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+MoveTo 649 845
+Delay 4 ms
+MoveTo 651 844
+Delay 4 ms
+MoveTo 652 842
+Delay 3 ms
+MoveTo 654 841
+Delay 4 ms
+MoveTo 656 839
+Delay 4 ms
+MoveTo 656 839
+Delay 3 ms
+MoveTo 658 836
+Delay 3 ms
+MoveTo 660 835
+Delay 3 ms
+MoveTo 663 834
+Delay 4 ms
+MoveTo 664 832
+Delay 3 ms
+MoveTo 664 832
+Delay 4 ms
+MoveTo 666 830
+Delay 3 ms
+MoveTo 667 829
+Delay 12 ms
+MoveTo 667 829
+Delay 3 ms
+MoveTo 668 828
+Delay 2946 ms
+MoveTo 668 828
+Delay 99 ms
+MoveTo 668 829
+Delay 11138 ms
+MoveTo 669 830
+Delay 12 ms
+MoveTo 668 830
+Delay 7 ms
+MoveTo 667 832
+Delay 4 ms
+MoveTo 666 832
+Delay 8 ms
+MoveTo 666 833
+Delay 23 ms
+MoveTo 666 834
+Delay 7 ms
+MoveTo 662 838
+Delay 7 ms
+MoveTo 661 839
+Delay 4 ms
+MoveTo 660 839
+Delay 7 ms
+MoveTo 660 839
+Delay 3 ms
+MoveTo 659 841
+Delay 8 ms
+MoveTo 659 841
+Delay 3 ms
+MoveTo 658 843
+Delay 3 ms
+MoveTo 657 843
+Delay 3 ms
+MoveTo 657 844
+Delay 8 ms
+MoveTo 657 844
+Delay 12 ms
+MoveTo 657 846
+Delay 4 ms
+MoveTo 656 847
+Delay 3 ms
+MoveTo 656 847
+Delay 3 ms
+MoveTo 656 849
+Delay 4 ms
+MoveTo 655 849
+Delay 8 ms
+MoveTo 655 850
+Delay 3 ms
+MoveTo 654 850
+Delay 8 ms
+MoveTo 654 851
+Delay 7 ms
+MoveTo 654 852
+Delay 8 ms
+MoveTo 654 852
+Delay 3 ms
+MoveTo 653 854
+Delay 7 ms
+MoveTo 653 855
+Delay 8 ms
+MoveTo 653 855
+Delay 3 ms
+MoveTo 652 856
+Delay 3 ms
+MoveTo 652 857
+Delay 4 ms
+MoveTo 651 858
+Delay 4 ms
+MoveTo 651 859
+Delay 7 ms
+MoveTo 651 860
+Delay 8 ms
+MoveTo 651 861
+Delay 3 ms
+MoveTo 650 861
+Delay 3 ms
+MoveTo 650 862
+Delay 4 ms
+MoveTo 650 863
+Delay 4 ms
+MoveTo 650 864
+Delay 3 ms
+MoveTo 649 865
+Delay 7 ms
+MoveTo 649 866
+Delay 4 ms
+MoveTo 648 867
+Delay 3 ms
+MoveTo 648 868
+Delay 3 ms
+MoveTo 648 868
+Delay 3 ms
+MoveTo 647 870
+Delay 4 ms
+MoveTo 647 871
+Delay 4 ms
+MoveTo 646 872
+Delay 3 ms
+MoveTo 646 873
+Delay 4 ms
+MoveTo 645 875
+Delay 4 ms
+MoveTo 645 875
+Delay 4 ms
+MoveTo 644 876
+Delay 3 ms
+MoveTo 643 879
+Delay 3 ms
+MoveTo 642 880
+Delay 4 ms
+MoveTo 642 880
+Delay 4 ms
+MoveTo 642 881
+Delay 3 ms
+MoveTo 641 883
+Delay 3 ms
+MoveTo 640 884
+Delay 4 ms
+MoveTo 640 886
+Delay 3 ms
+MoveTo 640 887
+Delay 3 ms
+MoveTo 639 888
+Delay 3 ms
+MoveTo 637 889
+Delay 4 ms
+MoveTo 637 890
+Delay 3 ms
+MoveTo 636 891
+Delay 4 ms
+MoveTo 634 891
+Delay 3 ms
+MoveTo 634 893
+Delay 3 ms
+MoveTo 632 893
+Delay 4 ms
+MoveTo 632 894
+Delay 3 ms
+MoveTo 632 894
+Delay 3 ms
+MoveTo 631 895
+Delay 7 ms
+MoveTo 631 895
+Delay 12 ms
+MoveTo 630 897
+Delay 8 ms
+MoveTo 630 897
+Delay 11 ms
+MoveTo 629 897
+Delay 3 ms
+MoveTo 629 898
+Delay 3 ms
+MoveTo 628 898
+Delay 3 ms
+MoveTo 627 900
+Delay 8 ms
+MoveTo 627 901
+Delay 12 ms
+MoveTo 626 901
+Delay 4 ms
+MoveTo 626 901
+Delay 7 ms
+MoveTo 626 902
+Delay 8 ms
+MoveTo 626 903
+Delay 11 ms
+MoveTo 625 904
+Delay 11 ms
+MoveTo 623 904
+Delay 8 ms
+MoveTo 623 904
+Delay 11 ms
+MoveTo 622 904
+Delay 43 ms
+MoveTo 621 904
+Delay 1 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 88 ms
+LeftDown 1
+Delay 83 ms
+LeftUp 1
+Delay 120 ms
+LeftDown 1
+Delay 71 ms
+LeftUp 1
+Delay 115 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 103 ms
+LeftDown 1
+Delay 71 ms
+LeftUp 1
+Delay 110 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 91 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 108 ms
+LeftDown 1
+Delay 59 ms
+LeftUp 1
+Delay 1128 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 927 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 648 ms
+MoveTo 620 904
+Delay 3 ms
+MoveTo 620 906
+Delay 3 ms
+MoveTo 620 906
+Delay 3 ms
+MoveTo 620 908
+Delay 3 ms
+MoveTo 620 909
+Delay 4 ms
+MoveTo 620 911
+Delay 3 ms
+MoveTo 621 912
+Delay 4 ms
+MoveTo 621 914
+Delay 3 ms
+MoveTo 621 915
+Delay 4 ms
+MoveTo 622 917
+Delay 3 ms
+MoveTo 622 918
+Delay 3 ms
+MoveTo 622 920
+Delay 4 ms
+MoveTo 623 921
+Delay 3 ms
+MoveTo 623 923
+Delay 4 ms
+MoveTo 624 924
+Delay 4 ms
+MoveTo 624 925
+Delay 3 ms
+MoveTo 625 925
+Delay 4 ms
+MoveTo 625 926
+Delay 3 ms
+MoveTo 625 927
+Delay 4 ms
+MoveTo 625 928
+Delay 3 ms
+MoveTo 626 929
+Delay 8 ms
+MoveTo 626 929
+Delay 4 ms
+MoveTo 627 931
+Delay 3 ms
+MoveTo 627 932
+Delay 8 ms
+MoveTo 627 933
+Delay 8 ms
+MoveTo 628 933
+Delay 7 ms
+MoveTo 628 935
+Delay 11 ms
+MoveTo 628 936
+Delay 24 ms
+MoveTo 628 936
+Delay 3 ms
+MoveTo 629 937
+Delay 3 ms
+MoveTo 629 938
+Delay 4 ms
+MoveTo 629 939
+Delay 8 ms
+MoveTo 629 939
+Delay 4 ms
+MoveTo 630 941
+Delay 3 ms
+MoveTo 630 942
+Delay 4 ms
+MoveTo 630 943
+Delay 7 ms
+MoveTo 630 944
+Delay 3 ms
+MoveTo 631 945
+Delay 8 ms
+MoveTo 631 945
+Delay 8 ms
+MoveTo 631 946
+Delay 16 ms
+MoveTo 632 947
+Delay 243 ms
+LeftDown 1
+Delay 83 ms
+LeftUp 1
+Delay 80 ms
+LeftDown 1
+Delay 72 ms
+LeftUp 1
+Delay 103 ms
+LeftDown 1
+Delay 71 ms
+LeftUp 1
+Delay 88 ms
+LeftDown 1
+Delay 71 ms
+LeftUp 1
+Delay 88 ms
+LeftDown 1
+Delay 83 ms
+LeftUp 1
+Delay 64 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 75 ms
+LeftDown 1
+Delay 84 ms
+LeftUp 1
+Delay 71 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 84 ms
+LeftDown 1
+Delay 72 ms
+LeftUp 1
+Delay 76 ms
+LeftDown 1
+Delay 83 ms
+LeftUp 1
+Delay 80 ms
+LeftDown 1
+Delay 52 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 84 ms
+LeftDown 1
+Delay 91 ms
+LeftUp 1
+Delay 80 ms
+LeftDown 1
+Delay 83 ms
+LeftUp 1
+Delay 80 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 92 ms
+LeftUp 1
+Delay 5000 ms</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

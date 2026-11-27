@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Копает руду ломая анимацию, не оптимизировано, режим работы - пока нажата клавиша
+На добыче дерева не работает, нужно только для того чтобы не ловить конец анимации самостоятельно.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 83 ms
+LeftUp 1
+Delay 1163 ms
+LeftDown 1
+Delay 77 ms
+LeftUp 1
+Delay 1042 ms
+Delay 121 ms
+LeftDown 1
+Delay 92 ms
+LeftUp 1
+Delay 1096 ms
+LeftDown 1
+Delay 105 ms
+LeftUp 1
+Delay 1096 ms
+LeftDown 1
+Delay 105 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Palia</Software>
+  </DefaultMacro>
+</Root>

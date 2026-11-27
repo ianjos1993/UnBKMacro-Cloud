@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>A macro designed to reduce the difficulty of controlling recoil
+
+Tested resolutions: 1920x1080 and 1720x1080</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 2 2
+Delay 16 ms
+MoveR 2 -2
+Delay 16 ms
+MoveR -2 -2
+Delay 16 ms
+MoveR -2 2
+Delay 16 ms</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>Criminality 2.1~ macro m4a1 (auto recoil hold)</Major>
+    <Description>Я уже сделал макро на калаш, но осталась мка, отличный ган, казалось бы с МЕНЬШЕЙ отдачей, НО... Отдача увеличилась, и утруднилась всвязи с обновлением игры. Отдача стала ощутима с горизонтали, поэтому я попытался пофиксить эту проблему.
+
+Тестилось на 1440*900
+Сенсу лучше ставить меньше ~2000.DPI</Description>
+    <Comment>Ставить на работу так, чтобы было использовано, пока нажата клавиша, и лучше на левую кнопку мыши</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 25 ms
+MoveR 0 3
+Delay 25 ms
+MoveR 0 3
+Delay 25 ms
+MoveR 0 3
+Delay 25 ms
+MoveR 0 4
+Delay 25 ms
+MoveR 2 4
+Delay 25 ms
+MoveR 2 4
+Delay 25 ms
+MoveR 0 5
+Delay 25 ms
+MoveR 0 5
+Delay 25 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

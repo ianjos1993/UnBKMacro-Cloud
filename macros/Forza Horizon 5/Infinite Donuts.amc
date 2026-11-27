@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>FH5</Major>
+    <Description>For this macro you will need to make your mocing foward bind "W" and turn left "A" if not set at that already. This macro will give you infinite donuts which can give you a bunch of XP to level up. Hope you enjoy</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 1
+KeyUp 26 1
+Delay 1
+KeyDown 4 1
+Delay 1
+KeyUp 4 1
+Delay 1
+GoWhile 7 86400000</Syntax>
+    </KeyDown>
+    <Software>Forza Horizon 5</Software>
+  </DefaultMacro>
+</Root>

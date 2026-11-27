@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Малый рывок выполняющий ctrl+space, зажатие W обязательно. Желательно биндить на боковую кнопку мыши, удобнее выбирать направление и рывок исполнять</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 150 ms
+KeyDown 44 1
+Delay 100 ms
+KeyUp 44 1
+KeyUp 224 1</Syntax>
+    </KeyDown>
+    <Software>Warframe</Software>
+  </DefaultMacro>
+</Root>

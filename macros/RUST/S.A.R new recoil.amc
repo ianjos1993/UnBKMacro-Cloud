@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>yarı otomatik silah seri ve nokta atar sekme yoktur hassasiyet 0.45 görüş alanı FOV 80 dir eğilerek atış yapınız aksi halde sekme yapar.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 11 ms
+MoveR 0 2
+Delay 11 ms
+MoveR 0 2
+Delay 11 ms
+MoveR 0 2
+Delay 11 ms
+MoveR 0 2
+Delay 11 ms
+MoveR 0 2
+Delay 11 ms
+LeftUp 1
+Delay 12 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

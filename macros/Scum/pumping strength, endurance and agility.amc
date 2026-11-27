@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Нужно содать тележку в безопасном месте  и встать за ее управление, все. Вы начнется бежать и крутиться на месте. Отдыхать не обязательно. Главное отъесться и самому уйти покушать</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+KeyDown 7 1
+Delay 20 s
+KeyUp 26 1
+KeyUp 7 1
+Delay 64
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Scum</Software>
+  </DefaultMacro>
+</Root>

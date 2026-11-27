@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос очень сильно подходит для рейдовой фарм что, всполохи стреляют быстро и очень медленно перегреваются и урон неплохой.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 22 ms
+LeftUp 1
+Delay 22 ms
+RightDown 1
+Delay 22 ms
+RightUp 1
+Delay 22 ms
+KeyDown 33 1
+Delay 22 ms
+KeyUp 33 1
+Delay 22 ms
+KeyDown 34 1
+Delay 22 ms
+KeyUp 34 1
+Delay 22 ms</Syntax>
+    </KeyDown>
+    <Software>Crossout</Software>
+  </DefaultMacro>
+</Root>

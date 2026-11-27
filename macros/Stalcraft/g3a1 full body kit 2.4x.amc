@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>HK G3A1 (Full)</Major>
+    <Description>Оружие:
+    Статы:
+      Вертикальная отдача - 0.45
+      Горизонтальная отдача - 0.12
+    Обвесы:
+      Прицел Leupold 2.4x
+      Тактическая рукоять Fortis SHIFT Vertical
+      Надульник Hera arms CC compensator
+      Деревянный приклад G3 с ремнем (ивент)
+Настройки игры:
+  Разрешение 1600x1080
+  7.5 sens (изменения sens в прицеле - off)
+Рекомендации:
+  НЕ убирать рандом в макросе
+  Режим работы макроса (пока зажата клавиша)
+Для связи:
+  tg - https://t.me/IDIxNAXYN</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 25 35 ms
+MoveR 0 6 1 7
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

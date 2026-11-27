@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Зажимает кнопку для быстрой стрельбы V95(usp)
+Запускайте заходите в игру берете лайта + v95
+Рзносите серв урон + скорострельность</Description>
+    <Comment>ClickLoop v4</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 100 ms
+GoWhile 1 2</Syntax>
+    </KeyDown>
+    <Software>The Finals</Software>
+  </DefaultMacro>
+</Root>

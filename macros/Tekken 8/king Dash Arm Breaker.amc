@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major>Kings arrm break starter</Major>
+    <Description>King arm break starter that can be turned to a cradle starter
+Key mapping ;
+W = UP
+A = BACK
+S = DUCK
+D = FORWARD
+
+U = 1
+I = 2
+J = 3
+K = 4</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 127 ms
+KeyUp 7 1
+Delay 48 ms
+KeyDown 22 1
+Delay 23 ms
+KeyDown 7 1
+Delay 88 ms
+KeyUp 7 1
+Delay 23 ms
+KeyUp 22 1
+Delay 16 ms
+KeyDown 24 1
+KeyDown 14 1
+Delay 64
+KeyUp 24 1
+KeyUp 14 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

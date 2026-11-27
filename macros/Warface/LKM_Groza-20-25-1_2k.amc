@@ -1,0 +1,673 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>лкм гроза сенса 20-25  прицел1.2 разрешение 1920x1080 отдачи нет пользовался постоянно есть еше макросы на грозу если понравится скину еще </Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR 0 0
+IfKey 1 1 4
+IfKey 1 0 1
+Delay 24 ms
+MoveR -1 2
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+
+MoveR -1 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+
+IfKey 1 0 1
+
+MoveR 0 2
+Delay 24 ms
+MoveR 0 2
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+
+MoveR -1 2
+Delay 24 ms
+MoveR 0 2
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+
+MoveR 0 2
+Delay 24 ms
+MoveR 0 2
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+
+MoveR -1 2
+Delay 24 ms
+MoveR 0 2
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+
+IfKey 1 0 1
+
+MoveR 0 2
+Delay 24 ms
+MoveR 0 2
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+
+MoveR -1 2
+Delay 24 ms
+MoveR 0 2
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+
+MoveR 0 2
+Delay 24 ms
+MoveR 0 2
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+IfKey 1 0 1
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+IfKey 1 0 1
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+IfKey 1 0 1
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+IfKey 1 0 1
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+IfKey 1 0 1
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+IfKey 1 0 1
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+IfKey 1 0 1
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+IfKey 1 0 1
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+IfKey 1 0 1
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+IfKey 1 0 1
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+IfKey 1 0 1
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+IfKey 1 0 1
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+IfKey 1 0 1
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+IfKey 1 0 1
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 1
+Delay 22 ms
+MoveR 0 0
+Delay 22 ms
+LeftUp 1
+IfKey 1 0 1
+Delay 1000 ms
+IfKey 1 0 1
+Delay 1000 ms
+IfKey 1 0 1
+Delay 1000 ms
+IfKey 1 0 1
+Delay 1000 ms
+IfKey 1 0 1
+Delay 1000 ms
+IfKey 1 0 1</Syntax>
+    </KeyDown>
+    <Software>Warface</Software>
+  </DefaultMacro>
+</Root>

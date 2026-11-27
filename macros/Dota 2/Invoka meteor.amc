@@ -1,0 +1,64 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Кастует метеоры на инвокере
+Требования:
+Забиндить способности на клавиши: q w e r d f
+Перед кастом ставим шторма на кнопку "d" и метеор на кнопку "f" 
+После всего этого нажимаем забинженую кнопку
+Ход выполнения скрипта:
+1. Кастует шторма 
+2. Каст метеора 
+3. Каст Deafening Blast</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 600 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 700 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 140 ms</Syntax>
+    </KeyDown>
+    <Software>dota 2</Software>
+  </DefaultMacro>
+</Root>

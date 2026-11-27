@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос предназначен в первую очередь для игры на серверах Zonix и HCS, но так же подойдет и для игры на любом другом сервере где хорошо работает система BLOCKHIT!</Description>
+    <Comment>DVD Menu
+</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 8 ms
+KeyUp 31 1
+RightDown 1
+Delay 8 ms
+RightUp 1
+Delay 8 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

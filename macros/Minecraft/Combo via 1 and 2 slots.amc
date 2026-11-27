@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос создан для упрощения комбо через 1 и 2 слот.
+1)Для удобного использования берете в 1 слот меч.а во второй слот топор.
+2)Макрос предназначен для пвп на версиях 1.7.10.
+3)Биндите макрос на левую кнопку мыши.
+4)Зажимаете левую кнопку мыши и слоты будут автоматически переключаться.
+5)Макрос работает по принципу зажать чтобы запустить,отжать чтобы остановить.
+6)Не используйте макрос на серверах где они запрещены.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 30 ms
+KeyDown 30 1
+Delay 30 ms
+KeyUp 30 1
+Delay 30 ms
+KeyDown 31 1
+Delay 30 ms
+KeyUp 31 1
+Delay 30 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

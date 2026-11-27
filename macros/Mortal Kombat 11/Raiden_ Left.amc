@@ -1,0 +1,73 @@
+<Root>
+  <DefaultMacro>
+    <Major>Прием из обучения. Райден лево. </Major>
+    <Description>Комбо со спец приемом из обучения. Сторона лево. два удара с подкидыванием + услиленный спец прием + телепортация за спину + рывок спец прием</Description>
+    <Comment>стандартные настройки управления
+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 7 ms
+KeyDown 13 1
+Delay 122 ms
+KeyUp 4 1
+Delay 31 ms
+KeyUp 13 1
+Delay 161 ms
+KeyDown 12 1
+Delay 156 ms
+KeyUp 12 1
+Delay 64 ms
+KeyDown 22 1
+Delay 61 ms
+KeyDown 4 1
+Delay 44 ms
+KeyDown 12 1
+Delay 40 ms
+KeyUp 22 1
+Delay 32 ms
+KeyUp 4 1
+Delay 18 ms
+KeyUp 12 1
+Delay 336 ms
+KeyDown 51 1
+Delay 87 ms
+KeyUp 51 1
+Delay 663 ms
+KeyDown 22 1
+Delay 69 ms
+KeyUp 22 1
+Delay 98 ms
+KeyDown 26 1
+Delay 79 ms
+KeyUp 26 1
+Delay 559 ms
+KeyDown 13 1
+Delay 40 ms
+KeyDown 12 1
+Delay 40 ms
+KeyUp 13 1
+Delay 90 ms
+KeyUp 12 1
+Delay 60 ms
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 14 1
+Delay 64
+KeyUp 14 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Mortal Kombat 11</Software>
+  </DefaultMacro>
+</Root>

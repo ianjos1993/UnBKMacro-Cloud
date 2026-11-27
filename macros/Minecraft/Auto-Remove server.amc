@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>ATEpast</Major>
+    <Description>Макрос для майнкрафт, который за тебя удалит сервер(а).
+Просто активируй макрос и ты удалишь 1 сервер, находящийся на самом верху
+
+Характеристика:
+Размеры экрана 1600:900
+
+Поменяй координаты для точности попадания по кнопкам на своём пк</Description>
+    <Comment>Макрос на авто-удаление сервера(ов)</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR 500 -378
+Delay 1 ms
+MoveR 113 480
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+MoveR 384 -146
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Привет, это макрос предназначен для m4a1-s. Оно стреляет по 6 пуль в 1 точку. Долго не зажимай)
+Оно больше подходит для дальних и средних расстояний.
+Как его установить?
+1. Скачать макрос
+2.Загрузить ее в "Редактор макросов"
+3. Забиндить на любую клавишу(кнопку мыши)
+4. Проверять работаспособность и пользоватьс им:)
+Надеюсь все понятно. Если нет, то напишите в личные сообщения.
+Удачных каток!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 85 ms
+LeftUp 1
+Delay 85 ms
+LeftDown 1
+Delay 85 ms
+LeftUp 1
+Delay 85 ms
+LeftDown 1
+Delay 85 ms
+LeftUp 1
+Delay 85 ms</Syntax>
+    </KeyDown>
+    <Software>Creative Destruction</Software>
+  </DefaultMacro>
+</Root>

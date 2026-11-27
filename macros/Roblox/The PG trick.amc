@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Трюк PG, его использование только в 2PT обязательно иметь трюк POST(50 ОВР), макрос делает все за вас, он делает микро шаг в игрока и использует пост после отходит и делает шаг влево и закидывает мяч ИДЕАЛЬНО с нулем процентами,
+Требуется: 50ОВР, использование макроса только в зоне 2PT. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 14 ms
+KeyUp 26 1
+KeyDown 22 1
+Delay 35 ms
+KeyUp 22 1
+KeyDown 10 1
+Delay 12 ms
+KeyUp 10 1
+KeyDown 4 1
+Delay 10 ms
+KeyUp 4 1
+KeyDown 8 1
+Delay 344 ms
+KeyUp 8 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

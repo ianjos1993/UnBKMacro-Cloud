@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>It's a script for Russinan fishing 4 .Fishind with jiging technique in Yama river.
+How to use: Justcast the bait where you need (with your spinning/ casting tackle) you need and launch the script. 
+The script checks is the fish on hook or not.
+You do not need to use any specific resolution to use the script.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 1210 ms
+LeftUp 1
+Delay 2 s
+GoWhile 1 160
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+LeftDown 1
+KeyDown 225 1
+Delay 200 ms
+KeyUp 225 1
+LeftUp 1
+Delay 4 s
+GoWhile 6 545454</Syntax>
+    </KeyDown>
+    <Software>Russian Fishing 4</Software>
+  </DefaultMacro>
+</Root>

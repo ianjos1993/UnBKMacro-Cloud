@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос нужно использовать на сервере Hypixel в такой миниигре как Skyblock. Его суть заключается в том, что вы сможете копать ферму даже тогда, когда отойдете от компьютера! Использовать макрос нужно на ферме 128 блоков шириной, а также со скоростью 110</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 24 ms
+LeftDown 1
+Delay 26000 ms
+KeyUp 7 1
+Delay 199 ms
+KeyDown 4 1
+Delay 26000 ms
+LeftUp 1
+Delay 129 ms
+KeyUp 4 1
+Delay 37 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

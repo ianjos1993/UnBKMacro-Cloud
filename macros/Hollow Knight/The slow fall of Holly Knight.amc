@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>для использования надо иметь мстительный дух и ману на минимум 1 заклинание,после этого прожмите бинд
+и вы сможете парить,на старых версиях возможно будет ноклип вместо парения</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 0 ms
+KeyUp 43 1
+Delay 0 ms
+KeyDown 9 1
+Delay 0 ms
+KeyUp 9 1
+Delay 0 ms
+KeyDown 43 1
+Delay 0 ms
+KeyUp 43 1
+Delay 0 ms</Syntax>
+    </KeyDown>
+    <Software>Hollow knight</Software>
+  </DefaultMacro>
+</Root>

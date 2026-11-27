@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Quick change of weapons during reloading. It is often used by esports players, but now you can make an esports movement with a single click of a button. 
+How it works: On a discharged weapon, press the macro button, and the macro itself makes (one) shot and starts reloading, interrupting the animation by changing weapons and returning the main one to your hands.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>
+//Converted macro file 07 October 2021 15:05:11
+//<Root>
+//  <DefaultMacro>
+//    <Major></Major>
+//    <Description>Быстрая смена оружия во время перезарядки. Часто используется киберспортсменами, но теперь и вы можете, одинм нажатием кнопки делать киберспортивное движение. 
+//Принцип работы: На разряженном оружии нажимем кнопку макроса, и макрос сам делает (один) выстрел и начинает перезарядку, обрывая анимацию с помощью смены оружия и возвращает основное в руки. </Description>
+//    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+//    <GUIOption>
+//      <RepeatType>0</RepeatType>
+//    </GUIOption>
+//    <KeyUp>
+//      <Syntax></Syntax>
+//    </KeyUp>
+//    <KeyDown>
+//      <Syntax>LeftDown 1
+//LeftUp 1
+//Delay 10 ms
+//KeyDown 21 1
+//Delay 2780 ms
+//KeyDown 20 1
+//KeyDown 20 1
+//KeyUp 20 1</Syntax>
+//    </KeyDown>
+//    <Software>CS: GO</Software>
+//  </DefaultMacro>
+//</Root></Syntax>
+    </KeyDown>
+    <Software>Black Squad</Software>
+  </DefaultMacro>
+</Root>

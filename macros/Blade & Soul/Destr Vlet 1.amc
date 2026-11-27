@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Влёт для 1-го спека на Дестре. Учитывает откат скиллов E и X, если разрешение экрана 2560x1440 в псевдополноэкранном режиме (Оконный без рамок, скорректируйте условие цвета по мере необходимости).
+
+Переходит к основной ротации автоматически. Важное замечание:
+Стандартный путь ко всем макросам в программе Path: \macros\
+
+В конце структуры измените расположение файла основной ротации, если он у вас отличается.
+
+Назначьте макрос на клавишу https://keyran.net/ru/wiki/?p=hotkey#create
+Активируйте Keyran https://keyran.net/ru/wiki/?p=hotkey#start
+Нажмите на кнопку, к которой привязали макрос. 
+
+Деактивация происходит на ту же клавишу, что назначен этот файл (несмотря на выполнение макроса с основной ротацией. Можно сбивать, если назначить основной файл на другую кнопку).</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 5 1
+Delay 200 ms
+KeyUp 5 1
+Delay 164 ms
+GoColor 8 1 111,103,97 255,255,255 2 1008 1219 41 45 1 0
+KeyDown 8 1
+Delay 80 ms
+KeyUp 8 1
+Delay 140 ms
+KeyDown 31 1
+Delay 30 ms
+KeyUp 31 1
+Delay 160 ms
+GoColor 17 1 117,74,66 255,255,255 2 1240 1294 37 38 1 0
+KeyDown 27 1
+Delay 70 ms
+KeyUp 27 1
+Delay 10 ms
+//Path: \macros\BnS\Destr 1.amc</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

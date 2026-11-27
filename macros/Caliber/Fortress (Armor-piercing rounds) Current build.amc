@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Я вернулся :)
+
+Измененная версия патерна стрельбы за Фортресс
+
+Общая чувствительность: 20 (800 DPI)
+
+Расширение экрана (2560x1440)
+
+P.S Так же хорошо работает и на FullHD (1920x1080)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 8 ms
+MoveR 0 5
+Delay 8 ms
+MoveR -1 0
+Delay 8 ms
+Goto 3</Syntax>
+    </KeyDown>
+    <Software>Caliber</Software>
+  </DefaultMacro>
+</Root>

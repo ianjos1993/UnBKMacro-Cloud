@@ -1,0 +1,108 @@
+<Root>
+  <DefaultMacro>
+    <Major>Обновленный "Трамвай маршрут №2 г.Приволжск"</Major>
+    <Description>Обновленный Макрос «Трамвай г.Приволжск маршрут 2» для «MTA Province».
+Установка макроса происходит очень легко в программе Keyran и улучшает ваш игровой опыт!
+Представляем вам новый макрос для управления трамваем в городском районе Приволжска, конкретно в депо номер 1. Этот бот был тщательно протестирован и зарекомендовал себя как надежный инструмент, обеспечивающий стабильную работу даже при изменении пинга и низкой частоте кадров. Он предназначен для разрешения 1920x1080 и эффективно функционирует при 45-50 фпс.
+
+Чтобы начать использовать макрос, следуйте простым шагам: 
+1. Пройдите один маршрут самостоятельно. 
+2. По окончанию, остановитесь на последнем красном маркере и подтвердите продолжение работы на этом маршруте, выбрав «да» в всплывающем меню.
+3. Далее нажмите назначенную клавишу для активации макроса.
+
+После этого бот начнет автоматически взаимодействовать с меню, выбирая «да» и обеспечивая беспрерывную работу. Если у вас возникнут трудности или вопросы, не стесняйтесь оставлять комментарии, и я постараюсь помочь вам как можно скорее! Удачи в игре!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyUp 225 1
+Delay 1120 ms
+LeftDown 1
+Delay 191 ms
+LeftUp 1
+Delay 680 ms
+KeyDown 26 1
+Delay 39943 ms
+KeyDown 22 1
+Delay 8455 ms
+KeyDown 31 1
+Delay 168 ms
+KeyUp 31 1
+Delay 3399 ms
+KeyDown 31 1
+Delay 88 ms
+KeyUp 31 1
+Delay 2256 ms
+KeyUp 22 1
+Delay 29255 ms
+KeyDown 22 1
+Delay 8559 ms
+KeyDown 31 1
+Delay 160 ms
+KeyUp 31 1
+Delay 2903 ms
+KeyDown 31 1
+Delay 191 ms
+KeyUp 31 1
+Delay 2552 ms
+KeyUp 22 1
+Delay 38671 ms
+KeyDown 22 1
+Delay 7967 ms
+KeyDown 31 1
+Delay 176 ms
+KeyUp 31 1
+Delay 2463 ms
+KeyDown 31 1
+Delay 215 ms
+KeyUp 31 1
+Delay 2880 ms
+KeyUp 22 1
+Delay 29223 ms
+KeyDown 22 1
+Delay 7735 ms
+KeyDown 31 1
+Delay 120 ms
+KeyUp 31 1
+Delay 3391 ms
+KeyDown 31 1
+Delay 160 ms
+KeyUp 31 1
+Delay 3168 ms
+KeyUp 22 1
+Delay 31823 ms
+KeyDown 22 1
+Delay 55 ms
+KeyUp 22 1
+Delay 567 ms
+KeyDown 22 1
+Delay 7959 ms
+KeyDown 31 1
+Delay 176 ms
+KeyUp 31 1
+Delay 3063 ms
+KeyDown 31 1
+Delay 168 ms
+KeyUp 31 1
+Delay 2671 ms
+KeyUp 22 1
+Delay 2648 ms
+KeyUp 26 1
+Delay 415 ms
+KeyDown 26 1
+Delay 704 ms
+KeyUp 26 1
+Delay 1288 ms
+KeyDown 22 1
+Delay 184 ms
+KeyUp 22 1
+Delay 5559 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

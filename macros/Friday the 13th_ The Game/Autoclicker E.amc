@@ -1,0 +1,58 @@
+<Root>
+  <DefaultMacro>
+    <Major>Чима</Major>
+    <Description>Автопрожатие клавиши E. Крайне полезно при игре за Джейсона и вожатых. быстро отходить от станов, выбираться из капканов, отходить от выстрела из ружья, ракетниц и от всего что вызывает нажимание этой клавишой.
+На выжившем: ускоренное высвобождение из удушающего захвата Джейсона, а также высвобождение из капканов. 
+</Description>
+    <Comment>Удачи тебе, макросник!</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 2 ms
+KeyUp 8 1
+Delay 2 ms
+KeyDown 8 1
+Delay 2 ms
+KeyUp 8 1
+Delay 2 ms
+KeyDown 8 1
+Delay 2 ms
+KeyUp 8 1
+Delay 2 ms
+KeyDown 8 1
+Delay 2 ms
+KeyUp 8 1
+Delay 2 ms
+KeyDown 8 1
+Delay 2 ms
+KeyUp 8 1
+Delay 2 ms
+KeyDown 8 1
+Delay 2 ms
+KeyUp 8 1
+Delay 2 ms
+KeyDown 8 1
+Delay 2 ms
+KeyUp 8 1
+Delay 2 ms
+KeyDown 8 1
+Delay 2 ms
+KeyUp 8 1
+Delay 2 ms
+KeyDown 8 1
+Delay 2 ms
+KeyUp 8 1
+Delay 2 ms
+KeyDown 8 1
+Delay 2 ms
+KeyUp 8 1
+Delay 2 ms</Syntax>
+    </KeyDown>
+    <Software>Friday the 13th: The Game</Software>
+  </DefaultMacro>
+</Root>

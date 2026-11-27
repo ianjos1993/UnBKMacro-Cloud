@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major>macro semi pistol</Major>
+    <Description>this macro will be the best in your hands for semi pistol, (press to start, release to stop)
+fov 90
+1920 x 1080
+dpi 1300
+sens 0.7
+
+just put it and will be the best pvp in your gameplay!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 50 ms
+MoveR 0 -18
+Delay 50 ms
+MoveR 0 -18
+Delay 50 ms
+MoveR 0 -18
+Delay 50 ms
+MoveR 0 -18
+Delay 50 ms
+MoveR 0 -18
+Delay 50 ms
+MoveR 0 -18
+Delay 50 ms
+LeftUp 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>rust</Software>
+  </DefaultMacro>
+</Root>

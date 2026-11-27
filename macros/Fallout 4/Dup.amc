@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос предназначен для дюпа предметов в Fallout 4.
+1. Заходим в меню строительства.
+2. Выкидываем предмет, который хотим дюпнуть (Только который можено разобрать)
+3. Направляем курсор на предмет
+4. Нажимаем кнопку с макросом
+Ну вот и всё, теперь предмета в 2 раза больше.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1 ms
+KeyDown 21 1
+Delay 79 ms
+KeyUp 21 1
+Delay 0 ms
+KeyDown 43 1
+Delay 100 ms
+KeyDown 88 1
+Delay 80 ms
+KeyUp 88 1
+Delay 287 ms
+KeyDown 88 1
+Delay 79 ms
+KeyUp 88 1</Syntax>
+    </KeyDown>
+    <Software>Fallout 4</Software>
+  </DefaultMacro>
+</Root>

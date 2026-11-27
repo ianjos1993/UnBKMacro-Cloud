@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major>ZED W E Q</Major>
+    <Description>ZED W E Q просто привяжите к любой кнопке и нажмите и комбо готово иногда кушка не попадает можно понизить задержку но ничего слишком не изменится кстати за это бан не дают) удачи вам зед мейнеры </Description>
+    <Comment>ыыы</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 10 ms
+KeyDown 8 1
+Delay 15 ms
+KeyDown 20 1
+Delay 100 ms</Syntax>
+    </KeyDown>
+    <Software>League of Legends</Software>
+  </DefaultMacro>
+</Root>

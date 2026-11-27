@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major>Заставляет персонажа бежать в северо-западном направлении</Major>
+    <Description>Простой макрос для использования в сингл/мультиплеере. Особенно подходит в мультиплеере при отключённой перемотке времени, когда лень постоянно нажимать кнопки для простого перемещения. (Рекомендуется назначать на клавиши NumPad-а, так как игрой они не задействуются).</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+KeyDown 4 1
+KeyDown 26 1
+Delay 10 s
+KeyUp 4 1
+KeyUp 26 1
+KeyUp 225 1</Syntax>
+    </KeyDown>
+    <Software>Project Zomboid</Software>
+  </DefaultMacro>
+</Root>

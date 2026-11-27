@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>на "T" ставите "негасимый свет" 30% отхила, на "Y" маленькую банку, на "U" большую банку и при нажатии на клавишу "T" происходит магия.
+P.S. не трогайте тайминги они настроены под МС банок, по скольку они имеют откат 180мс.
+Актуально для версии 11.0</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 3 ms
+KeyUp 23 1
+KeyDown 28 1
+Delay 3 ms
+KeyUp 28 1
+Delay 400 ms
+KeyDown 24 1
+Delay 3 ms
+KeyUp 24 1</Syntax>
+    </KeyDown>
+    <Software>Аллоды онлайн</Software>
+  </DefaultMacro>
+</Root>

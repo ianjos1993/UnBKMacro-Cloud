@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major>Fejume</Major>
+    <Description>Для использования необходимо иметь ВК коины на балансе, Биндим на любую кнопку и используем в стандартном режиме работы макроса. Открываем Boost в ВК коине Arizona RP. Выбираем самое дешёвое и запускаем макрос. Всё! Ваш монитор не выключится и будет спокойно фармить PayDay.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы 
+@pr.kntp - Инстаграмм и ТТ создателя.</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 88 1
+Delay 1200 ms
+KeyUp 88 1
+Delay 1200 ms</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,198 @@
+<Root>
+  <DefaultMacro>
+    <Major>Jack combo 8</Major>
+    <Description>Макрос позволяет выполнять комбо за Jack комбинацию у стены с использованием HEAT.
+Видео демонстрации работы макроса: https://youtu.be/voUbPEVuprs
+
+Jack — культовая серия киборгов-гигантов. Металлический колосс с простым управлением и разрушительной мощью. Медленные, но сокрушительные удары убивают за пару попаданий. Оснащен ракетными кулаками и энергетическими пушками. Каждая новая версия совершеннее предыдущей, но суть одна: безжалостная машина для боя.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 20.11.2025
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ.
+
+#Jacktekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 0 ms
+KeyDown 7 1
+Delay 19 ms
+KeyDown 90 1
+Delay 139 ms
+KeyUp 90 1
+Delay 29 ms
+KeyUp 26 1
+Delay 20 ms
+KeyUp 7 1
+Delay 479 ms
+KeyDown 93 1
+Delay 10 ms
+KeyDown 89 1
+Delay 109 ms
+KeyUp 93 1
+Delay 0 ms
+KeyUp 89 1
+Delay 59 ms
+KeyDown 89 1
+Delay 0 ms
+KeyDown 93 1
+Delay 89 ms
+KeyUp 89 1
+Delay 0 ms
+KeyUp 93 1
+Delay 49 ms
+KeyDown 89 1
+Delay 0 ms
+KeyDown 93 1
+Delay 119 ms
+KeyUp 89 1
+Delay 0 ms
+KeyUp 93 1
+Delay 619 ms
+KeyDown 93 1
+Delay 259 ms
+KeyDown 89 1
+Delay 100 ms
+KeyUp 89 1
+Delay 90 ms
+KeyDown 89 1
+Delay 100 ms
+KeyUp 89 1
+Delay 69 ms
+KeyDown 89 1
+Delay 110 ms
+KeyUp 89 1
+Delay 49 ms
+KeyDown 89 1
+Delay 220 ms
+KeyUp 89 1
+Delay 79 ms
+KeyDown 92 1
+Delay 60 ms
+KeyUp 93 1
+Delay 59 ms
+KeyUp 92 1
+Delay 29 ms
+KeyDown 90 1
+Delay 9 ms
+KeyDown 92 1
+Delay 90 ms
+KeyUp 90 1
+Delay 10 ms
+KeyUp 92 1
+Delay 49 ms
+KeyDown 92 1
+Delay 10 ms
+KeyDown 93 1
+Delay 70 ms
+KeyDown 89 1
+Delay 50 ms
+KeyUp 93 1
+Delay 30 ms
+KeyUp 92 1
+Delay 0 ms
+KeyUp 89 1
+Delay 149 ms
+KeyDown 93 1
+Delay 49 ms
+KeyDown 89 1
+Delay 29 ms
+KeyUp 93 1
+Delay 0 ms
+KeyDown 90 1
+Delay 39 ms
+KeyUp 90 1
+Delay 9 ms
+KeyUp 89 1
+Delay 90 ms
+KeyDown 93 1
+Delay 20 ms
+KeyDown 92 1
+Delay 69 ms
+KeyUp 93 1
+Delay 10 ms
+KeyUp 92 1
+Delay 100 ms
+KeyDown 92 1
+Delay 0 ms
+KeyDown 93 1
+Delay 59 ms
+KeyUp 92 1
+Delay 0 ms
+KeyUp 93 1
+Delay 79 ms
+KeyDown 92 1
+Delay 0 ms
+KeyDown 93 1
+Delay 69 ms
+KeyUp 93 1
+Delay 0 ms
+KeyUp 92 1
+Delay 68 ms
+KeyDown 93 1
+Delay 9 ms
+KeyDown 92 1
+Delay 60 ms
+KeyUp 93 1
+Delay 0 ms
+KeyUp 92 1
+Delay 89 ms
+KeyDown 92 1
+Delay 0 ms
+KeyDown 93 1
+Delay 59 ms
+KeyUp 93 1
+Delay 9 ms
+KeyUp 92 1
+Delay 80 ms
+KeyDown 89 1
+Delay 0 ms
+KeyDown 90 1
+Delay 69 ms
+KeyUp 90 1
+Delay 9 ms
+KeyUp 89 1
+Delay 60 ms
+KeyDown 90 1
+Delay 99 ms
+KeyUp 90 1
+Delay 10 ms
+KeyDown 92 1
+Delay 110 ms
+KeyDown 93 1
+Delay 0 ms
+KeyUp 92 1
+Delay 129 ms
+KeyDown 92 1
+Delay 90 ms
+KeyUp 93 1
+Delay 30 ms
+KeyUp 92 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

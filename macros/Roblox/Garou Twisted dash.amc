@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major>Roblox The Strongest Battlegrounds - TSB</Major>
+    <Description>This macro automates twisted dashes for Garou in the Strongest Battlegrounds. In order for this to work best, you must be as close to the target as possible and have done 3 M1s already. IMPORTANT = you must be directly looking at the target as best as possible, otherwise it will do a faulty hit.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 146 ms
+KeyDown 22 1
+Delay 300 ms
+KeyUp 22 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Сейчас данный трюк является одним из самых сильных в Basketball Legends. Я решил сделать для него макрос, который работает довольно хорошо. Я сам его использую и не жалуюсь. 
+
+Для того чтобы использовать его, вам нужно иметь 50 ОВР и знать, как работает трюк POST, а также находиться в зоне 2PT.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 78 ms
+KeyUp 22 1
+KeyDown 10 1
+Delay 28 ms
+KeyUp 10 1
+KeyDown 44 1
+Delay 1 ms
+KeyUp 44 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>данный макрос позволит автоматически собирать пыльцу на бамбуковом биоме нужно встать на самый первый белый цветок с правой стороны, это роботает только на бамбук пока-что если нужно будет на другой биом то пишите, и удачного фарма!</Description>
+    <Comment>ваши коментарии тут так что говорите! :D </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+KeyDown 26 1
+Delay 5 s
+KeyUp 26 1
+Delay 6
+KeyDown 4 1
+Delay 2 s
+KeyUp 4 1
+Delay 6
+KeyDown 22 1
+Delay 5 s
+KeyUp 22 1
+Delay 6
+KeyDown 7 1
+Delay 2 s
+KeyUp 7 1
+Delay 6
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

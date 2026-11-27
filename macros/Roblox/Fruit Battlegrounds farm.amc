@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>позволяет фармить фрукт с помощью простых действий. Нажимает цифру 1 для активации способности, затем нажимает левую клавишу мыши, после чего отпускает клавиши и повторяет цикл.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+LeftDown 1
+LeftUp 1
+GoWhile 1 86400000
+GoWhile 2 86400000
+GoWhile 3 86400000
+GoWhile 4 86400000</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

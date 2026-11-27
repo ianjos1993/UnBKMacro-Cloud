@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Fn shot gun (2) to smg spary/ar spary (3). this macro will make it so that when u press ur hotkey for this it will give 1 second delay for u to ami for shotgun shot wich should be on number 2 then it will switch to smg which should be on number 3 (it will spray for 5 seconds)  then it will build a wall (key Z)(u can change this) </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1 s
+KeyDown 31 1
+KeyUp 31 1
+KeyDown 32 1
+KeyUp 32 1
+LeftDown 1
+Delay 5 s
+LeftUp 1
+KeyDown 29 1
+KeyUp 29 1
+LeftDown 1
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

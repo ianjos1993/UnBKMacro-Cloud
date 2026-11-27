@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major>ставим активацию урона на 4 ку, активацию скорости на 5</Major>
+    <Description>Точно в тайминг до 1 секунды беспрерывно прожемает бафы, в последствии чего расход энергии в отличии от автоиспользования меньше.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>varE = 0
+varF = 0
+if varE == 0 Goto 9
+if varF == 0 Goto 19
+Delay 980 ms
+varE = varE - 1
+varF = varF - 1
+Goto 3
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 64
+varE = 8
+Goto 3
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 64
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 64
+varF = 10
+Goto 3</Syntax>
+    </KeyDown>
+    <Software>BSGO</Software>
+  </DefaultMacro>
+</Root>

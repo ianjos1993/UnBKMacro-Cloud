@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос создан для CB:RO и других режимов чтобы сделать разворот на 360 градусов для низкой чуствительности (0.36)
+Использую для мувиков по CB:RO, а вы можете использовать в других целях.
+
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR -720 0
+Delay 3 ms
+MoveR -720 0
+Delay 3 ms
+MoveR -720 0</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

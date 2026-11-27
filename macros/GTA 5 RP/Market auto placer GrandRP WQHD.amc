@@ -1,0 +1,654 @@
+<Root>
+  <DefaultMacro>
+    <Major>GrandRP 2560 x 1440 WQHD</Major>
+    <Description>This macro saves you the tedious task of constantly placing your goods in the beach market in GrandRP by hand. This macro fills all 30 slots from the backpack into the market with the price that you previously saved in your clipboard. You can also set a specific price in the macro instead of the control and V if an item or more should have a different price. You can also simply delete the slots from the macro that are not to be completed.
+
+This macro should also work with the black market.
+
+The macro starts in the backpack in the top left slot and continues to the right, when the row is finished, it jumps to the next row. You need a backpack LVL 3 or 4 for this macro to work
+
+Can only be used in 2560 x 1440 WQHD resolution.
+
+I'll publish more macros for the beach market soon</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 73 461
+Delay 150
+LeftDown 1
+Delay 64 ms
+MoveTo 1163 333
+Delay 150
+LeftUp 1
+Delay 150
+KeyDown 224 1
+KeyDown 25 1
+Delay 64 ms
+KeyUp 224 1
+KeyUp 25 1
+Delay 150
+MoveTo 774 661
+Delay 150
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 150
+//1st cycle / 1st slot complete
+MoveTo 159 462
+Delay 150
+LeftDown 1
+Delay 64 ms
+MoveTo 1251 335
+Delay 150
+LeftUp 1
+Delay 150
+KeyDown 224 1
+KeyDown 25 1
+Delay 64 ms
+KeyUp 224 1
+KeyUp 25 1
+Delay 150
+MoveTo 774 661
+Delay 150
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 150
+//2nd cycle / 2nd slot complete
+MoveTo 259 465
+Delay 150
+LeftDown 1
+Delay 64 ms
+MoveTo 1352 333
+Delay 150
+LeftUp 1
+Delay 150
+KeyDown 224 1
+KeyDown 25 1
+Delay 64 ms
+KeyUp 224 1
+KeyUp 25 1
+Delay 150
+MoveTo 774 661
+Delay 150
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 150
+//3rd cycle / 3rd slot complete
+MoveTo 355 461
+Delay 150
+LeftDown 1
+Delay 64 ms
+MoveTo 1448 336
+Delay 150
+LeftUp 1
+Delay 150
+KeyDown 224 1
+KeyDown 25 1
+Delay 64 ms
+KeyUp 224 1
+KeyUp 25 1
+Delay 150
+MoveTo 774 661
+Delay 150
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 150
+//4th cycle / 4th slot complete
+MoveTo 447 461
+Delay 150
+LeftDown 1
+Delay 64 ms
+MoveTo 1541 339
+Delay 150
+LeftUp 1
+Delay 150
+KeyDown 224 1
+KeyDown 25 1
+Delay 64 ms
+KeyUp 224 1
+KeyUp 25 1
+Delay 150
+MoveTo 774 661
+Delay 150
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 150
+//5rd cycle / 5rd slot complete
+MoveTo 539 463
+Delay 150
+LeftDown 1
+Delay 64 ms
+MoveTo 1637 337
+Delay 150
+LeftUp 1
+Delay 150
+KeyDown 224 1
+KeyDown 25 1
+Delay 64 ms
+KeyUp 224 1
+KeyUp 25 1
+Delay 150
+MoveTo 774 661
+Delay 150
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 150
+//6th cycle / 6th slot complete, 1st row complete
+MoveTo 73 561
+Delay 150
+LeftDown 1
+Delay 64 ms
+MoveTo 1163 433
+Delay 150
+LeftUp 1
+Delay 150
+KeyDown 224 1
+KeyDown 25 1
+Delay 64 ms
+KeyUp 224 1
+KeyUp 25 1
+Delay 150
+MoveTo 774 661
+Delay 150
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 150
+//7th cycle / 7th slot complete
+MoveTo 159 562
+Delay 150
+LeftDown 1
+Delay 64 ms
+MoveTo 1251 435
+Delay 150
+LeftUp 1
+Delay 150
+KeyDown 224 1
+KeyDown 25 1
+Delay 64 ms
+KeyUp 224 1
+KeyUp 25 1
+Delay 150
+MoveTo 774 661
+Delay 150
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 150
+//8th cycle / 8th slot complete
+MoveTo 259 565
+Delay 150
+LeftDown 1
+Delay 64 ms
+MoveTo 1352 433
+Delay 150
+LeftUp 1
+Delay 150
+KeyDown 224 1
+KeyDown 25 1
+Delay 64 ms
+KeyUp 224 1
+KeyUp 25 1
+Delay 150
+MoveTo 774 661
+Delay 150
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 150
+//9th cycle / 9th slot complete
+MoveTo 355 561
+Delay 150
+LeftDown 1
+Delay 64 ms
+MoveTo 1448 436
+Delay 150
+LeftUp 1
+Delay 150
+KeyDown 224 1
+KeyDown 25 1
+Delay 64 ms
+KeyUp 224 1
+KeyUp 25 1
+Delay 150
+MoveTo 774 661
+Delay 150
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 150
+//10th cycle / 10th slot complete
+MoveTo 447 561
+Delay 150
+LeftDown 1
+Delay 64 ms
+MoveTo 1541 439
+Delay 150
+LeftUp 1
+Delay 150
+KeyDown 224 1
+KeyDown 25 1
+Delay 64 ms
+KeyUp 224 1
+KeyUp 25 1
+Delay 150
+MoveTo 774 661
+Delay 150
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 150
+//11rd cycle / 11rd slot complete
+MoveTo 539 563
+Delay 150
+LeftDown 1
+Delay 64 ms
+MoveTo 1637 437
+Delay 150
+LeftUp 1
+Delay 150
+KeyDown 224 1
+KeyDown 25 1
+Delay 64 ms
+KeyUp 224 1
+KeyUp 25 1
+Delay 150
+MoveTo 774 661
+Delay 150
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 150
+//12th cycle / 12th slot complete, 2nd row complete
+MoveTo 73 661
+Delay 150
+LeftDown 1
+Delay 64 ms
+MoveTo 1163 533
+Delay 150
+LeftUp 1
+Delay 150
+KeyDown 224 1
+KeyDown 25 1
+Delay 64 ms
+KeyUp 224 1
+KeyUp 25 1
+Delay 150
+MoveTo 774 661
+Delay 150
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 150
+//13th cycle / 13th slot complete
+MoveTo 159 662
+Delay 150
+LeftDown 1
+Delay 64 ms
+MoveTo 1251 535
+Delay 150
+LeftUp 1
+Delay 150
+KeyDown 224 1
+KeyDown 25 1
+Delay 64 ms
+KeyUp 224 1
+KeyUp 25 1
+Delay 150
+MoveTo 774 661
+Delay 150
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 150
+//14th cycle / 14th slot complete
+MoveTo 259 665
+Delay 150
+LeftDown 1
+Delay 64 ms
+MoveTo 1352 533
+Delay 150
+LeftUp 1
+Delay 150
+KeyDown 224 1
+KeyDown 25 1
+Delay 64 ms
+KeyUp 224 1
+KeyUp 25 1
+Delay 150
+MoveTo 774 661
+Delay 150
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 150
+//15th cycle / 15th slot complete
+MoveTo 355 661
+Delay 150
+LeftDown 1
+Delay 64 ms
+MoveTo 1448 536
+Delay 150
+LeftUp 1
+Delay 150
+KeyDown 224 1
+KeyDown 25 1
+Delay 64 ms
+KeyUp 224 1
+KeyUp 25 1
+Delay 150
+MoveTo 774 661
+Delay 150
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 150
+//16th cycle / 16th slot complete
+MoveTo 447 661
+Delay 150
+LeftDown 1
+Delay 64 ms
+MoveTo 1541 539
+Delay 150
+LeftUp 1
+Delay 150
+KeyDown 224 1
+KeyDown 25 1
+Delay 64 ms
+KeyUp 224 1
+KeyUp 25 1
+Delay 150
+MoveTo 774 661
+Delay 150
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 150
+//17rd cycle / 17rd slot complete
+MoveTo 539 663
+Delay 150
+LeftDown 1
+Delay 64 ms
+MoveTo 1637 537
+Delay 150
+LeftUp 1
+Delay 150
+KeyDown 224 1
+KeyDown 25 1
+Delay 64 ms
+KeyUp 224 1
+KeyUp 25 1
+Delay 150
+MoveTo 774 661
+Delay 150
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 150
+//18th cycle / 18th slot complete, 3rd row complete
+MoveTo 73 761
+Delay 150
+LeftDown 1
+Delay 64 ms
+MoveTo 1163 633
+Delay 150
+LeftUp 1
+Delay 150
+KeyDown 224 1
+KeyDown 25 1
+Delay 64 ms
+KeyUp 224 1
+KeyUp 25 1
+Delay 150
+MoveTo 774 661
+Delay 150
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 150
+//19th cycle / 19th slot complete
+MoveTo 159 762
+Delay 150
+LeftDown 1
+Delay 64 ms
+MoveTo 1251 635
+Delay 150
+LeftUp 1
+Delay 150
+KeyDown 224 1
+KeyDown 25 1
+Delay 64 ms
+KeyUp 224 1
+KeyUp 25 1
+Delay 150
+MoveTo 774 661
+Delay 150
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 150
+//20th cycle / 20th slot complete
+MoveTo 259 765
+Delay 150
+LeftDown 1
+Delay 64 ms
+MoveTo 1352 633
+Delay 150
+LeftUp 1
+Delay 150
+KeyDown 224 1
+KeyDown 25 1
+Delay 64 ms
+KeyUp 224 1
+KeyUp 25 1
+Delay 150
+MoveTo 774 661
+Delay 150
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 150
+//21th cycle / 21th slot complete
+MoveTo 355 761
+Delay 150
+LeftDown 1
+Delay 64 ms
+MoveTo 1448 636
+Delay 150
+LeftUp 1
+Delay 150
+KeyDown 224 1
+KeyDown 25 1
+Delay 64 ms
+KeyUp 224 1
+KeyUp 25 1
+Delay 150
+MoveTo 774 661
+Delay 150
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 150
+//22th cycle / 22th slot complete
+MoveTo 447 761
+Delay 150
+LeftDown 1
+Delay 64 ms
+MoveTo 1541 639
+Delay 150
+LeftUp 1
+Delay 150
+KeyDown 224 1
+KeyDown 25 1
+Delay 64 ms
+KeyUp 224 1
+KeyUp 25 1
+Delay 150
+MoveTo 774 661
+Delay 150
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 150
+//23rd cycle / 23rd slot complete
+MoveTo 539 763
+Delay 150
+LeftDown 1
+Delay 64 ms
+MoveTo 1637 637
+Delay 150
+LeftUp 1
+Delay 150
+KeyDown 224 1
+KeyDown 25 1
+Delay 64 ms
+KeyUp 224 1
+KeyUp 25 1
+Delay 150
+MoveTo 774 661
+Delay 150
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 150
+//24th cycle / 24th slot complete, 4th row complete
+MoveTo 73 861
+Delay 150
+LeftDown 1
+Delay 64 ms
+MoveTo 1163 733
+Delay 150
+LeftUp 1
+Delay 150
+KeyDown 224 1
+KeyDown 25 1
+Delay 64 ms
+KeyUp 224 1
+KeyUp 25 1
+Delay 150
+MoveTo 774 661
+Delay 150
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 150
+//25th cycle / 25th slot complete
+MoveTo 159 862
+Delay 150
+LeftDown 1
+Delay 64 ms
+MoveTo 1251 735
+Delay 150
+LeftUp 1
+Delay 150
+KeyDown 224 1
+KeyDown 25 1
+Delay 64 ms
+KeyUp 224 1
+KeyUp 25 1
+Delay 150
+MoveTo 774 661
+Delay 150
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 150
+//26th cycle / 26th slot complete
+MoveTo 259 865
+Delay 150
+LeftDown 1
+Delay 64 ms
+MoveTo 1352 733
+Delay 150
+LeftUp 1
+Delay 150
+KeyDown 224 1
+KeyDown 25 1
+Delay 64 ms
+KeyUp 224 1
+KeyUp 25 1
+Delay 150
+MoveTo 774 661
+Delay 150
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 150
+//27th cycle / 27th slot complete
+MoveTo 355 861
+Delay 150
+LeftDown 1
+Delay 64 ms
+MoveTo 1448 736
+Delay 150
+LeftUp 1
+Delay 150
+KeyDown 224 1
+KeyDown 25 1
+Delay 64 ms
+KeyUp 224 1
+KeyUp 25 1
+Delay 150
+MoveTo 774 661
+Delay 150
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 150
+//28th cycle / 28th slot complete
+MoveTo 447 861
+Delay 150
+LeftDown 1
+Delay 64 ms
+MoveTo 1541 739
+Delay 150
+LeftUp 1
+Delay 150
+KeyDown 224 1
+KeyDown 25 1
+Delay 64 ms
+KeyUp 224 1
+KeyUp 25 1
+Delay 150
+MoveTo 774 661
+Delay 150
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 150
+//29rd cycle / 29rd slot complete
+MoveTo 539 863
+Delay 150
+LeftDown 1
+Delay 64 ms
+MoveTo 1637 737
+Delay 150
+LeftUp 1
+Delay 150
+KeyDown 224 1
+KeyDown 25 1
+Delay 64 ms
+KeyUp 224 1
+KeyUp 25 1
+Delay 150
+MoveTo 774 661
+Delay 150
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 150
+//30th cycle / 30th slot complete, 5th row complete</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

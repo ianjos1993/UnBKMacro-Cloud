@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>для выполнения квестов по смени професии если между сменой профы 30 секунд кд. макрос для Dark rp а конкретнее для сервера  gambit</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 61 1
+Delay 64
+KeyUp 61 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 61 1
+Delay 64
+KeyUp 61 1
+Delay 31 s
+KeyDown 61 1
+Delay 64
+KeyUp 61 1
+Delay 64
+WheelDown 1
+Delay 1 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 61 1
+Delay 64
+KeyUp 61 1
+Delay 31 s</Syntax>
+    </KeyDown>
+    <Software>Garry´s Mod</Software>
+  </DefaultMacro>
+</Root>

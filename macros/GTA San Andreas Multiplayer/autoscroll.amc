@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоскролл оружия для игры GTA SA:MP. Работает очень легко и просто. Бинд стоит на колесико ВВЕРХ (тоесть вы скроллите 1 раз вверх и у вас скроллятся ганы 2 раза, вместо одного)
+Очень удобный макрос для ДМ серверов, каптов и вообще для стрельбы в GTA SA:MP
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 20 ms
+KeyUp 8 1
+Delay 20 ms
+KeyDown 20 1
+Delay 20 ms
+KeyUp 20 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>GTA SAMP</Software>
+  </DefaultMacro>
+</Root>

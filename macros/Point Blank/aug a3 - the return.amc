@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос позволяет вам стрелять по одному уровню без отдачы, советую ставить скорострел и одачу тогда ето станит имбой  ходячей приятной игры  админ дай 7дней маже)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 63 ms
+LeftUp 1
+Delay 63 ms
+KeyDown 15 1
+Delay 64
+KeyUp 15 1
+Delay 63 ms
+MoveR 0 0
+Delay 63 ms
+LeftDown 1
+Delay 63 ms
+LeftUp 1
+Delay 63 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro allows you to float yourself/anyone just by holding down caps-lock. Can also be used to edit pyramids and anything with single tiles. (cannot be used to drag edit or anything that isnt a repeated proccess of edit, select, confirm.)
+THIS MACRO ONLY WORKS FOR EDIT ON (E)
+
+                                                                           IF MACRO DONT WORK
+          -- MAKE SURE YOUR EDIT ON RELEASE IS ON
+          --IF YOUR PING IS HIGHER THAN 50-60 PUT THE DELAY TO 20 INSTEAD OF 10
+          --IF YOU JUST WANT IT TO BE FASTER, YOU MUST HAVE 0 PING. IF SO SET THE DELAY TO 3-5 
+
+                                                                     THANKS FOR USING MY MACRO
+
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 10 ms
+KeyDown 8 1
+Delay 10 ms
+KeyUp 8 1
+Delay 10 ms
+KeyDown 56 1
+Delay 10 ms
+KeyUp 56 1
+Delay 10 ms
+KeyDown 8 1
+Delay 10 ms
+KeyUp 8 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

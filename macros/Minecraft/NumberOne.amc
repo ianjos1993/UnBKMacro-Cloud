@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Что? Это что такое ? Ватсон я в шоке 
+Не может быть , это же самый топовый макрос на сервере , чиво???
+и так всем привет я купил себе макрос за 79 рублей был он на мышку , но я переписал на ботмек , и он просто не сравниться ни с чем , кроме баг урона)
+Вылаживаю ибо уже не интересно убивать всех :D
+Все по сторинке , 1 меч (25-30 кпс)
+3 - фростик ( 15-20 кпс)
+Я с ним в яме в халитке сливал 5 качей пб и ост .
+Выхиливает очень хоршо, макрос вообщем намбер ван так и написано!</Description>
+    <Comment>NumerOne </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+LeftDown 1
+Delay 9 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 6 ms
+LeftUp 1
+Delay 7 ms
+LeftDown 1
+Delay 2 ms
+LeftUp 1
+Delay 3 ms
+KeyDown 32 1
+KeyUp 32 1
+RightDown 1
+Delay 12 ms
+RightUp 1
+Delay 14 ms
+RightDown 1
+Delay 9 ms
+RightUp 1
+Delay 9 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

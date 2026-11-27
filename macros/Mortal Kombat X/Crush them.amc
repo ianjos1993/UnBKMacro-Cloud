@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Идеальное комбо "Дави их" При попадании на блокирующего можно быстро среагировать и нажать пещаную ловушку (sadi) (sdai) Или забиндить эти спец приемы на другую клавишу.
+ Выглядит это так- вы нажимаете Дави их, если противник блокирует то после 2 анимации ударов тыкаете самостоятельно sadi или sdai и происходит захват. если промахиваетесь, анимация не будет завершена до конца.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 12 1
+Delay 28
+KeyUp 12 1
+Delay 28
+KeyDown 13 1
+Delay 28
+KeyUp 13 1
+Delay 28
+KeyDown 13 1
+Delay 28
+KeyUp 13 1
+Delay 600 ms
+KeyDown 12 1
+Delay 28
+KeyUp 12 1
+Delay 28
+KeyDown 12 1
+Delay 28
+KeyUp 12 1
+Delay 28</Syntax>
+    </KeyDown>
+    <Software>Mortal combat X</Software>
+  </DefaultMacro>
+</Root>

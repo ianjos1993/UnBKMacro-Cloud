@@ -1,0 +1,57 @@
+<Root>
+  <DefaultMacro>
+    <Major>1920:1080</Major>
+    <Description>1920:1080
+Если макрос работает неправильно, то серните игру в окно (f11) и выберите цвет лампочки, когда она не горит. Открытие САК поставить на X (английскую). Макрос обязательно включать в полноэкранном режиме игры, а также, когда САК закрыт. Всем удачного пользования! Макрос работает отменно, вы будете первым, кто заберет сигнал!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 68 1
+Delay 64
+KeyUp 68 1
+Delay 64
+KeyDown 27 1
+Delay 264 ms
+KeyUp 27 1
+Delay 264 ms
+GoColor 15 0 81,99,77 255,255,255 1 691 392 949 689 1 0
+KeyDown 27 1
+Delay 264 ms
+KeyUp 27 1
+Delay 264 ms
+Goto 5
+MoveTo 1082 790
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1351 776
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 634 577
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 68 1
+Delay 64
+KeyUp 68 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

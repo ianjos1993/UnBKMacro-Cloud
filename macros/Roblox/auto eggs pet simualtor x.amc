@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>использование
+1 просто откройте яйцо
+2 наведите мышку на принятее открытия яйца
+3 включите макрос и дождитесь пока он нажмет сам на ЛКМ
+4 теперь макрос может сам открывать яйца</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 100 ms
+KeyUp 8 1
+Delay 100 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 2 s
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

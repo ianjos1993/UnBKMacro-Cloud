@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>The macro "BloodStrike Always Sprint" for "Blood Strike" can be downloaded and used on any mouse and keyboard.</Major>
+    <Description>The “Bloodstrike Always Sprint” macro for the popular battle royale Blood Strike lets you stay in continuous tactical sprint mode with just a single press of the Shift key. Once activated, the macro keeps you sprinting automatically until you press the key again or stop the program.
+
+Normally, players must double-tap or hold Shift to activate Tactical Sprint, which can delay slides, cause missed inputs, get you stuck in crouch, or slow you down during gunfights if the key doesn’t register properly.
+
+This macro removes those issues by keeping Tactical Sprint active with a single press. It improves movement at all ranges, makes advanced maneuvers smoother, reduces the risk of getting stuck, and helps with escaping fights—allowing you to focus more on movement, shooting, and hipfire accuracy.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 0 ms
+GoWhile 1 43
+KeyUp 225 1
+Delay 0 ms</Syntax>
+    </KeyDown>
+    <Software>Blood Strike</Software>
+  </DefaultMacro>
+</Root>

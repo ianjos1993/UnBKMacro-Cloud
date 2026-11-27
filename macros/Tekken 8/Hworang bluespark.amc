@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>In Tekken 8, Hwoarang's "Blue Spark" is a visual effect that signifies the successful execution of advanced techniques, notably his "Just Frame Sky Rocket" (JFSR). Achieving this move requires precise timing, as players must press the appropriate button for only one frame; any longer, and the move won't come out. To perform the JFSR, it's recommended to slide your fingers across the buttons as quickly as possible.
+I made this macro to save your fingers.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 13 1
+Delay 20 ms
+KeyUp 13 1
+KeyDown 14 1
+Delay 20 ms
+KeyUp 14 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

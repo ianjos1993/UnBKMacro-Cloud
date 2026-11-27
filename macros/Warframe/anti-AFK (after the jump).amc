@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Анти-афк макрос через прыжок. Чем он удобней любого другого анти-афк макроса? Тем, что на вас не действует замедление передвижения, и вы попадаете на то же самое место, на котором стояли изначально.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 100 ms
+KeyUp 22 1
+Delay 400 ms
+KeyUp 44 1
+Delay 400 ms
+KeyDown 44 1
+Delay 100 ms
+KeyDown 26 1
+Delay 400 ms
+KeyUp 44 1
+Delay 400 ms</Syntax>
+    </KeyDown>
+    <Software>Warframe</Software>
+  </DefaultMacro>
+</Root>

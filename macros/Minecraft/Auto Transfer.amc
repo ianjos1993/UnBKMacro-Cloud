@@ -1,0 +1,67 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Приветствую всех вновь.После новогодник праздников и выходных я решил подготовить для вас новенький макрос.Сегодня я сделал макрос,который позволит вам автоматически перевести деньги со своего игрового счета на баланс другого игрока.Команда которую пишет макрос выглядит следующим образом-/money pay.Хочу отметить что команда написана не полностью,после слова pay вам необходимо написать ник игрока которому вы переводите деньги,а так же сумму этих денег,после полного написания команды нажмите клавишу Enter.Данный макрос будет полезен на серверах где установлены плагины и моды на экономику.Например на анархии.
+
+Инструкция по настройке:
+1)Загружаете макрос,который представлен ниже.
+2)Открываете интерфейс панели управления клавиатуры Keyran.
+3)Выбираете наиболее удобную для вас клавишу или кнопку мыши.
+4)Нажимаете пункт назначить макрос и выбираете нужный.
+5)Сохраняете и используете макрос в игре.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 32 ms
+KeyUp 56 1
+Delay 32 ms
+KeyDown 16 1
+Delay 32 ms
+KeyUp 16 1
+Delay 32 ms
+KeyDown 18 1
+Delay 32 ms
+KeyUp 18 1
+Delay 32 ms
+KeyDown 17 1
+Delay 32 ms
+KeyUp 17 1
+Delay 32 ms
+KeyDown 8 1
+Delay 32 ms
+KeyUp 8 1
+Delay 32 ms
+KeyDown 23 1
+Delay 32 ms
+KeyUp 23 1
+Delay 32 ms
+KeyDown 44 1
+Delay 32 ms
+KeyUp 44 1
+Delay 32 ms
+KeyDown 19 1
+Delay 32 ms
+KeyUp 19 1
+Delay 32 ms
+KeyDown 4 1
+Delay 32 ms
+KeyUp 4 1
+Delay 32 ms
+KeyDown 28 1
+Delay 32 ms
+KeyUp 28 1
+Delay 32 ms
+KeyDown 44 1
+Delay 32 ms
+KeyUp 44 1
+Delay 32 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

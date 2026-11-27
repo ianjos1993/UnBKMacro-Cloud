@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Встаете у границы карты, прожимаете макрос у по КД умираете. Ваш товарищ стоит с нужной пушкой в руках и постоянно вас реанимирует. 20 минут таких действий полностью прокачивает оружие из Арсенала миссий.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 4425 ms
+KeyDown 22 1
+Delay 247 ms
+KeyUp 22 1
+Delay 224 ms
+KeyDown 26 1
+Delay 231 ms
+KeyUp 26 1
+Delay 6000 ms
+KeyDown 22 1
+Delay 255 ms
+KeyUp 22 1
+Delay 248 ms
+KeyDown 26 1
+Delay 255 ms
+KeyUp 26 1
+Delay 0 ms
+GoWhile 1 10000000
+MiddleDown 1</Syntax>
+    </KeyDown>
+    <Software>Call of Duty: Modern Warfare (2019)</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>A macro for performing a double shot from any rocket launcher. 
+It works on the principle of simultaneously pressing the shot key and reloading, after which a quick change of weapons to any other and a return to the rocket launcher (specifically in my macro, LMB shot, reloading R). It can be used on all characters, the main thing is that the rocket launcher has two rocket charges.
+To use a macro, you need to install it to yourself, then just bind the macro to any key and start the program.
+In the game, you need to place a rocket launcher in 4 weapon slots, you can put any other weapon on the first slot.
+When all the preparations are over, take a rocket launcher in your hand and briefly hold down the key to which the macro was tied (I tie it to the Q key for convenience), after that a quick double shot occurs.
+Sometimes a double shot may not work, but this is often due to the fact that the macro key was held too little.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 82 1
+Delay 30
+KeyUp 82 1
+KeyDown 82 1
+KeyUp 82 1
+KeyDown 81 1
+KeyUp 81 1
+KeyDown 80 1
+KeyUp 80 1
+KeyDown 81 1
+KeyUp 81 1
+Delay 30 ms
+KeyDown 81 1
+KeyUp 81 1
+KeyDown 32 1
+Delay 20 ms
+KeyUp 32 1
+Delay 20 ms
+KeyDown 31 1
+Delay 20 ms
+KeyUp 31 1
+Delay 20 ms
+KeyDown 80 1
+KeyUp 80 1
+KeyDown 82 1
+KeyUp 82 1
+GoWhile 1 4</Syntax>
+    </KeyDown>
+    <Software>Borderlands 2</Software>
+  </DefaultMacro>
+</Root>

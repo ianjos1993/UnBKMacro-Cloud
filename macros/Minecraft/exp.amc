@@ -1,0 +1,287 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос для сервера FunTime, авто передование опыта в пузырики опыта 15 лвл, так же встроен авто /feed для афк работы,работает только в разрешение экрана 1920 х 1080, и в полно экранном режиме Minecraft</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 75000 ms
+KeyDown 56 1
+Delay 64
+KeyUp 56 1
+Delay 64
+KeyDown 8 1
+Delay 128 ms
+KeyUp 8 1
+Delay 447 ms
+KeyDown 27 1
+Delay 72 ms
+KeyUp 27 1
+Delay 247 ms
+KeyDown 19 1
+Delay 79 ms
+KeyUp 19 1
+Delay 800 ms
+KeyDown 88 1
+Delay 119 ms
+KeyUp 88 1
+Delay 1328 ms
+MoveTo 960 526
+Delay 8 ms
+MoveTo 960 524
+Delay 7 ms
+MoveTo 960 522
+Delay 7 ms
+MoveTo 961 519
+Delay 8 ms
+MoveTo 962 517
+Delay 7 ms
+MoveTo 964 514
+Delay 8 ms
+MoveTo 966 510
+Delay 7 ms
+MoveTo 967 507
+Delay 8 ms
+MoveTo 969 505
+Delay 7 ms
+MoveTo 970 502
+Delay 8 ms
+MoveTo 971 499
+Delay 7 ms
+MoveTo 972 497
+Delay 8 ms
+MoveTo 973 496
+Delay 8 ms
+MoveTo 973 495
+Delay 7 ms
+MoveTo 973 495
+Delay 8 ms
+MoveTo 973 493
+Delay 7 ms
+MoveTo 974 492
+Delay 8 ms
+MoveTo 975 491
+Delay 7 ms
+MoveTo 975 489
+Delay 8 ms
+MoveTo 976 488
+Delay 7 ms
+MoveTo 977 486
+Delay 8 ms
+MoveTo 978 483
+Delay 8 ms
+MoveTo 979 481
+Delay 7 ms
+MoveTo 981 478
+Delay 8 ms
+MoveTo 982 475
+Delay 8 ms
+MoveTo 984 470
+Delay 7 ms
+MoveTo 986 467
+Delay 8 ms
+MoveTo 988 464
+Delay 7 ms
+MoveTo 990 460
+Delay 8 ms
+MoveTo 993 456
+Delay 7 ms
+MoveTo 995 451
+Delay 8 ms
+MoveTo 997 448
+Delay 7 ms
+MoveTo 999 443
+Delay 8 ms
+MoveTo 1000 440
+Delay 7 ms
+MoveTo 1000 437
+Delay 8 ms
+MoveTo 1000 435
+Delay 7 ms
+MoveTo 1001 433
+Delay 7 ms
+MoveTo 1001 431
+Delay 8 ms
+MoveTo 1001 430
+Delay 7 ms
+MoveTo 1002 428
+Delay 8 ms
+MoveTo 1003 426
+Delay 16 ms
+MoveTo 1003 426
+Delay 7 ms
+MoveTo 1003 425
+Delay 8 ms
+MoveTo 1003 424
+Delay 47 ms
+MoveTo 1003 423
+Delay 16 ms
+MoveTo 1004 422
+Delay 7 ms
+MoveTo 1004 422
+Delay 8 ms
+MoveTo 1004 420
+Delay 7 ms
+MoveTo 1005 419
+Delay 8 ms
+MoveTo 1006 418
+Delay 7 ms
+MoveTo 1006 416
+Delay 8 ms
+MoveTo 1007 415
+Delay 7 ms
+MoveTo 1007 414
+Delay 7 ms
+MoveTo 1008 413
+Delay 16 ms
+MoveTo 1008 413
+Delay 48 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 583 ms
+MoveTo 1008 412
+Delay 7 ms
+MoveTo 1007 410
+Delay 8 ms
+MoveTo 1006 409
+Delay 8 ms
+MoveTo 1005 407
+Delay 7 ms
+MoveTo 1003 406
+Delay 8 ms
+MoveTo 1001 404
+Delay 7 ms
+MoveTo 1000 403
+Delay 8 ms
+MoveTo 997 401
+Delay 7 ms
+MoveTo 996 399
+Delay 8 ms
+MoveTo 994 398
+Delay 7 ms
+MoveTo 993 396
+Delay 8 ms
+MoveTo 991 394
+Delay 7 ms
+MoveTo 989 393
+Delay 7 ms
+MoveTo 988 390
+Delay 7 ms
+MoveTo 986 389
+Delay 8 ms
+MoveTo 985 387
+Delay 8 ms
+MoveTo 983 385
+Delay 7 ms
+MoveTo 982 383
+Delay 8 ms
+MoveTo 980 381
+Delay 7 ms
+MoveTo 978 379
+Delay 8 ms
+MoveTo 976 378
+Delay 7 ms
+MoveTo 975 376
+Delay 8 ms
+MoveTo 974 376
+Delay 8 ms
+MoveTo 973 375
+Delay 7 ms
+MoveTo 973 374
+Delay 7 ms
+MoveTo 972 373
+Delay 8 ms
+MoveTo 972 372
+Delay 7 ms
+MoveTo 971 371
+Delay 7 ms
+MoveTo 969 369
+Delay 7 ms
+MoveTo 968 368
+Delay 8 ms
+MoveTo 967 366
+Delay 7 ms
+MoveTo 967 365
+Delay 8 ms
+MoveTo 965 364
+Delay 7 ms
+MoveTo 964 363
+Delay 7 ms
+MoveTo 963 362
+Delay 8 ms
+MoveTo 963 361
+Delay 15 ms
+MoveTo 962 360
+Delay 7 ms
+MoveTo 961 359
+Delay 8 ms
+MoveTo 961 359
+Delay 7 ms
+MoveTo 960 358
+Delay 15 ms
+MoveTo 960 357
+Delay 8 ms
+MoveTo 959 356
+Delay 8 ms
+MoveTo 958 355
+Delay 7 ms
+MoveTo 958 354
+Delay 7 ms
+MoveTo 957 353
+Delay 8 ms
+MoveTo 957 353
+Delay 7 ms
+MoveTo 956 352
+Delay 8 ms
+MoveTo 955 351
+Delay 7 ms
+MoveTo 955 351
+Delay 7 ms
+MoveTo 954 350
+Delay 8 ms
+MoveTo 954 349
+Delay 15 ms
+MoveTo 953 348
+Delay 32 ms
+MoveTo 953 347
+Delay 72 ms
+LeftDown 1
+Delay 128 ms
+LeftUp 1
+KeyDown 41 1
+Delay 112 ms
+KeyUp 41 1
+KeyDown 56 1
+Delay 64
+KeyUp 56 1
+Delay 64
+KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

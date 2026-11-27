@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Каждые 8 минут юзает все зелья (Оставляем только еду), нужно для того чтобы в сидах где есть голод есть еду по кд и иметь возможность стоять в афк.
+Можно так использовать вместе с Fisher Bot</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 5 1
+Delay 64
+KeyUp 5 1
+Delay 64 ms
+Delay 485 s
+GoWhile 1 900</Syntax>
+    </KeyDown>
+    <Software>Terraria</Software>
+  </DefaultMacro>
+</Root>

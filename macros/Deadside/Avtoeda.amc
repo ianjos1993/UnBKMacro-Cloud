@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Скрипт для автоматического потребления еды
+Когда на экране уровень сытости становится бардовым он автоматически заставляет персонажа взять в руки еду и съесть ее. 
+Будет повторять пока не показания не станут белыми.Экран 1920х1080 в режиме окна Еда на Num7
+Добавлена цикличность</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 1 1 255,255,255 255,255,255 1 125 1012 991 69 1 0
+Delay 20 ms
+KeyDown 95 1
+Delay 2 s
+KeyUp 95 1
+Delay 1 s
+LeftDown 1
+Delay 2 s
+LeftUp 1
+Delay 1 s
+GoColor 1 1 255,255,255 255,255,255 1 125 1012 991 69 1 0
+Delay 64 ms</Syntax>
+    </KeyDown>
+    <Software>Deadside</Software>
+  </DefaultMacro>
+</Root>

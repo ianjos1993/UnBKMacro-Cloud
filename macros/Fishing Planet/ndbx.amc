@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>автоматичеки погружает рыбу в сачок.Один рыбак рассказывает:
+- Когда я вытащил эту рыбину - уровень воды в озере снизился на полметра.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1052 732
+Delay 24 ms
+MoveTo 1051 732
+Delay 547 ms
+LeftDown 1
+Delay 70 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Fishing Planet</Software>
+  </DefaultMacro>
+</Root>

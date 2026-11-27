@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>Ловля заказов такси</Major>
+    <Description>Макрос для быстрой ловли заказов такси!
+все что нужно это только забиндить скрипт на нужную кнопку и активировать его! 
+Разрешение 1280 х 1024</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 50 ms
+KeyUp 31 1
+Delay 140 ms
+MoveTo 605 377
+LeftDown 1
+Delay 45 ms
+LeftUp 1
+Delay 50 ms
+MoveTo 545 672
+LeftDown 1
+Delay 45 ms
+LeftUp 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

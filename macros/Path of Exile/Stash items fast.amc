@@ -1,0 +1,318 @@
+<Root>
+  <DefaultMacro>
+    <Major>Auto stash items in the inventory fast</Major>
+    <Description>Auto stash items from the inventory to the stash, vendor or trade inventory. It works fast and clean. Works for 1920x1080 resolution</Description>
+    <Comment>Fixed a bug that initially clicked out of the stash</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+MoveTo 1038 493
+Delay 80 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1036 534
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1040 574
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1037 616
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1037 659
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1078 492
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1080 534
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1080 575
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1080 618
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1079 660
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1121 492
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1122 533
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1124 575
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1123 617
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1123 659
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1166 491
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1165 533
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1165 574
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1165 618
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1164 660
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1207 491
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1207 534
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1207 574
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1206 618
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1208 658
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1250 491
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1250 534
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1250 577
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1250 618
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1249 660
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1292 491
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1292 534
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1292 574
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1291 618
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1294 660
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1333 492
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1333 534
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1334 576
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1334 618
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1334 660
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1376 493
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1375 534
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1376 574
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1376 618
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1376 661
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1417 490
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1418 533
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1418 576
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1418 618
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1418 662
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1459 492
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1460 533
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1461 575
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1458 618
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1460 659
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1502 490
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1502 534
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1503 574
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1502 618
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+MoveTo 1504 658
+Delay 20 ms
+LeftDown 1
+LeftUp 1
+Delay 20 ms
+KeyUp 224 1</Syntax>
+    </KeyDown>
+    <Software>Path of Exile</Software>
+  </DefaultMacro>
+</Root>

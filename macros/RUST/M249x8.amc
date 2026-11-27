@@ -1,0 +1,56 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>
+For the correct settings
+:
+Controls "Mouse sensitivity" - 1.0, Options "Field of view" / FOV - 75
+
+FOV 75 - Sensetivity 1.0
+FOV 80 - Sensetivity 0.94
+FOV 85 - Sensetivity 0.88
+FOV 90 - Sensetivity 0.82
+
+Crouch for semi/automatic and m249
+
+Command console F1 - "input.sensitivity 0.8"
+
+</Description>
+    <Comment>Давно купил с пуликом не бегаю 
+</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 10 ms
+MoveR 0 8
+Delay 10 ms
+MoveR 0 8
+Delay 10 ms
+MoveR 0 8
+Delay 10 ms
+MoveR 0 8
+Delay 10 ms
+MoveR 0 7
+Delay 10 ms
+MoveR 0 7
+Delay 10 ms
+MoveR 0 7
+Delay 10 ms
+MoveR 0 7
+Delay 10 ms
+MoveR 0 7
+Delay 10 ms
+MoveR 0 7
+Delay 10 ms
+MoveR 0 7
+Delay 50 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

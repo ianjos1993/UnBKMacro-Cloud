@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major>lxmndf</Major>
+    <Description>Макрос для Берданки Раст, для низкой чувствительности.
+Разрешение 1920x1080p,
+Чувствительность: 0.4 ; 0.6.
+Поле зрения: 90.
+p.s. - стрелять нужно сидя, как зажим, так и одиночными.
+(ru)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+(eng)
+Macro for Semi-automatic rifle Rust, for low sensitivity.
+RESOLUTION: 1920x1080p,
+Sensitivity: 0.4 ; 0.6.
+FOV: 90
+p.s. - you need to shoot while sitting, full auto and semi auto.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 8 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 5
+Delay 7 ms
+MoveR 0 10
+Delay 8 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

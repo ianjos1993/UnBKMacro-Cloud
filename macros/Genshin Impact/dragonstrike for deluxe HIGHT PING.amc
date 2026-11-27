@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Драгонстрайк мощная вещь но его тяжело делать. Поэтому я сделал этот макрос.
+Тестировал на пинге 130-135.
+Чтобы драгонстрайк сработал главное задеть врага первым ударом
+P.S. может работать не с первого раза</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+LeftUp 1
+Delay 350 ms
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+KeyDown 44 1
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,86 @@
+<Root>
+  <DefaultMacro>
+    <Major>macro</Major>
+    <Description>эта настройка макроса позволяет быстро редактировать постройки без задержки
+настройте следующие кнопки: q-стенка  f-редакт  боковая кнопка мыши-лестница c-конус caps-пол 
+можете поиграться с задержкой </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+KeyDown 78 1
+Delay 64
+KeyUp 78 1
+Delay 64
+Delay 5 ms
+KeyUp 9 1
+Delay 5 ms
+KeyDown 9 1
+Delay 5 ms
+KeyUp 9 1
+Delay 5 ms
+KeyDown 9 1
+Delay 5 ms
+KeyUp 9 1
+Delay 5 ms
+KeyDown 20 1
+Delay 5 ms
+KeyUp 20 1
+Delay 5 ms
+KeyDown 20 1
+Delay 5 ms
+KeyUp 20 1
+Delay 5 ms
+KeyDown 20 1
+Delay 5 ms
+KeyDown 56 1
+Delay 64
+KeyUp 56 1
+Delay 5 ms
+KeyDown 56 1
+Delay 5 ms
+KeyUp 56 1
+Delay 64
+KeyDown 56 1
+Delay 5 ms
+KeyUp 56 1
+Delay 64
+KeyUp 20 1
+Delay 5 ms
+KeyDown 57 1
+Delay 5 ms
+KeyUp 57 1
+Delay 5 ms
+KeyDown 57 1
+Delay 5 ms
+KeyUp 57 1
+Delay 5 ms
+KeyDown 6 1
+Delay 5 ms
+KeyUp 6 1
+Delay 5 ms
+KeyDown 6 1
+Delay 5 ms
+KeyUp 6 1
+Delay 5 ms
+Button4down 1
+Delay 5 ms
+Button4Up 1
+Delay 5 ms
+Button4down 1
+Delay 5 ms
+Button4Up 1
+Delay 5 ms
+Button4down 1
+Delay 5 ms
+Button4Up 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>fortnite</Software>
+  </DefaultMacro>
+</Root>

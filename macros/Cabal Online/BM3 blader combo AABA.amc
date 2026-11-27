@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Мейн комбо для блейдера при разогнаном крит рейте и ампе.
+Требуется.
+1)Быть в БМ3
+2)Спелл А на кнопке 1
+3) Спелл В на кнопке 2
+4) Тригер на кнопке 3</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 97 ms
+KeyUp 30 1
+Delay 773 ms
+KeyDown 30 1
+Delay 118 ms
+KeyUp 30 1
+Delay 817 ms
+KeyDown 31 1
+Delay 102 ms
+KeyUp 31 1
+Delay 778 ms
+KeyDown 30 1
+Delay 120 ms
+KeyUp 30 1
+Delay 817 ms
+KeyDown 32 1
+Delay 79 ms
+KeyUp 32 1</Syntax>
+    </KeyDown>
+    <Software>Cabal Online</Software>
+  </DefaultMacro>
+</Root>

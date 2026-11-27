@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Инструкция для использования скрипта. - Русский язык.
+1. Установить скрипт на нужную клавишу. 
+2. Установить повторение(кому как удобней).
+3. Принцип работы: Подходим к яйцу, Зажимаем E, и ставик курсор на покупку, дальше запускаем скрипт
+и все готов,
+
+Удачного пользования:3
+</Description>
+    <Comment>Instructions for using the script. - Anglish
+1. Install the script on the desired key.
+2. Set the repetition (to whom it is more convenient).
+3. Principle of operation: We approach the egg, hold down E, and put the cursor on the purchase, then run the script
+and everything is ready
+
+Successes:3</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 90 ms
+KeyUp 8 1
+Delay 90 ms
+LeftDown 1
+Delay 90 ms
+LeftUp 1
+Delay 2 s
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

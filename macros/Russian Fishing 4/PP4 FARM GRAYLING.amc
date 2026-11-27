@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Фарм на белой реке поможет ловить хариуса ставим  клипсу 22 метра  и кидаем, после поимки макрос заберет рыбу сачком, так же подойдет для других водоемов, ловить на ультралайт</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 1 ms
+LeftDown 1
+KeyUp 225 1
+Delay 64
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 12 s
+LeftUp 1
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+GoWhile 1 5
+Delay 64
+KeyDown 6 1
+Delay 64
+KeyUp 6 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Russian Fishing 4</Software>
+  </DefaultMacro>
+</Root>

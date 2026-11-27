@@ -1,0 +1,168 @@
+<Root>
+  <DefaultMacro>
+    <Major>jin t8 combo 5</Major>
+    <Description>Комбо макрос для персонажа Jin Kazama в игре Tekken 8
+
+Операция «Молния» началась в Нью-Йорке. Джин столкнулся с Казуей, и они сражались, используя силу своих дьявольских генов. Однако Джину не удалось удержать контроль над своей дьявольской формой; он полностью трансформировался и в конечном итоге проиграл Казуе. Находясь без сознания под обломками в городе, Джин увидел видение своей дьявольской формы, протягивающей ему руку, но он отклонил ее предложение помощи, так как думал, что это сделает его не лучше его отца (который объединил свой разум с разумом своей собственной дьявольской формы)
+
+Видео демонстрация макроса -  https://youtu.be/0y8EUJwc48Q
+Тестировалось на последней версии игры.
+
+Настройки в программе для корректного выполнения макроса:
+1. Использовать драйвер.
+2. Отключить использование минимальной задержки.
+
+
+Настройки управления в игре:
+1 - Num 4
+2 - Num 5
+3 - Num 1
+4 - Num 2
+Up - W
+Down - S
+Left - A
+Right - D
+
+Если макрос не работает обращаться - https://keyran.net/discord
+Либо к автору макроса, также по вопросам написания макросов - hersonaep (discord)
+
+#tekken #tekken8 #jin #keyran</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 3 ms
+KeyDown 22 1
+Delay 160 ms
+KeyUp 4 1
+Delay 7 ms
+KeyUp 22 1
+Delay 24 ms
+KeyDown 93 1
+Delay 71 ms
+KeyUp 93 1
+Delay 600 ms
+KeyDown 92 1
+Delay 80 ms
+KeyUp 92 1
+Delay 223 ms
+KeyDown 7 1
+Delay 72 ms
+KeyUp 7 1
+Delay 47 ms
+KeyDown 7 1
+Delay 88 ms
+KeyUp 7 1
+Delay 16 ms
+KeyDown 92 1
+Delay 55 ms
+KeyUp 92 1
+Delay 223 ms
+KeyDown 4 1
+Delay 55 ms
+KeyDown 7 1
+Delay 32 ms
+KeyUp 4 1
+Delay 79 ms
+KeyDown 93 1
+Delay 104 ms
+KeyDown 92 1
+Delay 71 ms
+KeyUp 93 1
+Delay 48 ms
+KeyUp 92 1
+Delay 119 ms
+KeyDown 22 1
+Delay 64 ms
+KeyDown 93 1
+Delay 80 ms
+KeyUp 93 1
+Delay 79 ms
+KeyDown 93 1
+Delay 88 ms
+KeyUp 93 1
+Delay 71 ms
+KeyDown 93 1
+Delay 90 ms
+KeyUp 93 1
+Delay 109 ms
+KeyUp 22 1
+Delay 72 ms
+KeyUp 7 1
+Delay 136 ms
+KeyDown 7 1
+Delay 88 ms
+KeyUp 7 1
+Delay 112 ms
+KeyDown 7 1
+Delay 64 ms
+KeyUp 7 1
+Delay 119 ms
+KeyDown 7 1
+Delay 55 ms
+KeyUp 7 1
+Delay 103 ms
+KeyDown 7 1
+Delay 64 ms
+KeyUp 7 1
+Delay 87 ms
+KeyDown 7 1
+Delay 208 ms
+KeyDown 4 1
+Delay 15 ms
+KeyUp 7 1
+Delay 56 ms
+KeyDown 93 1
+Delay 80 ms
+KeyDown 92 1
+Delay 55 ms
+KeyUp 93 1
+Delay 40 ms
+KeyUp 92 1
+Delay 39 ms
+KeyUp 4 1
+Delay 552 ms
+KeyDown 7 1
+Delay 72 ms
+KeyUp 7 1
+Delay 71 ms
+KeyDown 7 1
+Delay 151 ms
+KeyUp 7 1
+Delay 40 ms
+KeyDown 93 1
+Delay 63 ms
+KeyUp 93 1
+Delay 271 ms
+KeyDown 4 1
+Delay 7 ms
+KeyDown 22 1
+Delay 80 ms
+KeyDown 93 1
+Delay 63 ms
+KeyUp 93 1
+Delay 95 ms
+KeyDown 93 1
+Delay 152 ms
+KeyUp 93 1
+Delay 7 ms
+KeyDown 89 1
+Delay 72 ms
+KeyUp 89 1
+Delay 72 ms
+KeyDown 89 1
+Delay 71 ms
+KeyUp 89 1
+Delay 95 ms
+KeyUp 4 1
+Delay 7 ms
+KeyUp 22 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

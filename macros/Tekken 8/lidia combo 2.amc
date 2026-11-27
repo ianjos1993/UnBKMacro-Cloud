@@ -1,0 +1,150 @@
+<Root>
+  <DefaultMacro>
+    <Major>Lidia Combo 2</Major>
+    <Description>Макрос позволяет выполнять комбо c хопкика за Лидию с HEAT.
+Видео демонстрации работы макроса: https://youtu.be/a9MxOFZpswg
+
+Геймплей Лидии эволюционировал, сохранив её сильные стороны из предыдущей части, но с добавлением новых механик. Ее стиль карате отличается плавным сочетанием атак средней и ближней дистанции с акцентом на точные удары и контр-атаки. 
+
+Новая механика позволяет ей накапливать энергию с каждым успешным блоком или парированием. При достаточном заряде Лидия может усилить свои атаки, превращая обычные комбо в разрушительные серии. Например, одна из ее серий теперь может пробивать защиту соперника, открывая окно для продолжения атаки.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 20.11.2024
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ.
+
+#lidiatekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 5 ms
+KeyDown 22 1
+Delay 278 ms
+KeyUp 4 1
+Delay 0 ms
+KeyUp 22 1
+Delay 10 ms
+KeyDown 74 1
+Delay 133 ms
+KeyUp 74 1
+Delay 623 ms
+KeyDown 73 1
+Delay 74 ms
+KeyUp 73 1
+Delay 235 ms
+KeyDown 7 1
+Delay 74 ms
+KeyUp 7 1
+Delay 52 ms
+KeyDown 7 1
+Delay 97 ms
+KeyUp 7 1
+Delay 29 ms
+KeyDown 73 1
+Delay 68 ms
+KeyUp 73 1
+Delay 226 ms
+KeyDown 7 1
+Delay 80 ms
+KeyUp 7 1
+Delay 45 ms
+KeyDown 7 1
+Delay 109 ms
+KeyUp 7 1
+Delay 41 ms
+KeyDown 73 1
+Delay 69 ms
+KeyUp 73 1
+Delay 208 ms
+KeyDown 7 1
+Delay 81 ms
+KeyUp 7 1
+Delay 63 ms
+KeyDown 7 1
+Delay 103 ms
+KeyUp 7 1
+Delay 28 ms
+KeyDown 73 1
+Delay 40 ms
+KeyUp 73 1
+Delay 224 ms
+KeyDown 7 1
+Delay 74 ms
+KeyUp 7 1
+Delay 57 ms
+KeyDown 7 1
+Delay 132 ms
+KeyUp 7 1
+Delay 35 ms
+KeyDown 73 1
+Delay 69 ms
+KeyUp 73 1
+Delay 190 ms
+KeyDown 7 1
+Delay 81 ms
+KeyUp 7 1
+Delay 63 ms
+KeyDown 7 1
+Delay 115 ms
+KeyUp 7 1
+Delay 22 ms
+KeyDown 73 1
+Delay 70 ms
+KeyUp 73 1
+Delay 158 ms
+KeyDown 7 1
+Delay 72 ms
+KeyUp 7 1
+Delay 52 ms
+KeyDown 7 1
+Delay 121 ms
+KeyUp 7 1
+Delay 24 ms
+KeyDown 76 1
+Delay 4 ms
+KeyDown 74 1
+Delay 103 ms
+KeyUp 74 1
+Delay 0 ms
+KeyUp 76 1
+Delay 645 ms
+KeyDown 74 1
+Delay 365 ms
+KeyUp 76 1
+Delay 76 ms
+KeyDown 76 1
+Delay 85 ms
+KeyUp 76 1
+Delay 93 ms
+KeyDown 76 1
+Delay 63 ms
+KeyUp 76 1
+Delay 316 ms
+KeyUp 74 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

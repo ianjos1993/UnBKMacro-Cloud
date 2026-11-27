@@ -1,0 +1,111 @@
+<Root>
+  <DefaultMacro>
+    <Major>Kunimitsu CH combo</Major>
+    <Description>Макрос позволяет выполнять CH combo за Kunimitsu.
+Видео демонстрации работы макроса: https://youtu.be/-gsq23kkZgs
+
+Первая Кунимицу — вор и бывший член клана Мандзи. Она впервые появилась в оригинальном Tekken в качестве разблокируемого персонажа, выступавшего в роли подбосса Мишель Чанг. Она вернулась в Tekken 2,  а также в неканонических Tekken Tag Tournament и Tekken Tag Tournament 2. Позже решили добавить Kunimtsu II (дочь Kunimitsu I) в Tekken 7 вместо нее самой. Насчет личности можно сказать, что это очень загадочный персонаж, говорящий мало слов и мало раскрывающий свою личность. Однако из ее действий, когда она является частью клана Манджи, можно сделать вывод, что она холодный, эгоистичный человек со жадностью к богатству и ценностям. Кунимицу считается самым быстрым и проворным игровым персонажем во всей серии, поскольку ее атаки имеют быстрые фреймы. Хотя ей не хватает силы и дальности, она может выполнять акробатические трюки, чтобы уклоняться, сбивать с толку и уклоняться от своих противников.
+
+Тестирование макроса проводились на последнем патче игры на 01.07.2023 (5.01 патч)
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#kunimitsutekken7 #tekken7 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 95 ms
+KeyDown 76 1
+Delay 104 ms
+KeyUp 76 1
+Delay 79 ms
+KeyDown 76 1
+Delay 80 ms
+KeyUp 76 1
+Delay 15 ms
+KeyUp 7 1
+Delay 184 ms
+KeyDown 76 1
+Delay 112 ms
+KeyUp 76 1
+Delay 415 ms
+KeyDown 74 1
+Delay 104 ms
+KeyUp 74 1
+Delay 71 ms
+KeyDown 74 1
+Delay 103 ms
+KeyUp 74 1
+Delay 56 ms
+KeyDown 77 1
+Delay 104 ms
+KeyUp 77 1
+Delay 63 ms
+KeyDown 77 1
+Delay 87 ms
+KeyUp 77 1
+Delay 768 ms
+KeyDown 7 1
+Delay 55 ms
+KeyUp 7 1
+Delay 63 ms
+KeyDown 7 1
+Delay 135 ms
+KeyUp 7 1
+Delay 72 ms
+KeyDown 74 1
+Delay 96 ms
+KeyUp 74 1
+Delay 95 ms
+KeyDown 74 1
+Delay 79 ms
+KeyUp 74 1
+Delay 80 ms
+KeyDown 74 1
+Delay 80 ms
+KeyUp 74 1
+Delay 103 ms
+KeyDown 74 1
+Delay 79 ms
+KeyUp 74 1
+Delay 87 ms
+KeyDown 74 1
+Delay 80 ms
+KeyUp 74 1
+Delay 87 ms
+KeyDown 74 1
+Delay 88 ms
+KeyUp 74 1
+Delay 87 ms
+KeyDown 74 1
+Delay 63 ms
+KeyUp 74 1
+Delay 80 ms
+KeyDown 74 1
+Delay 135 ms
+KeyUp 74 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 7</Software>
+  </DefaultMacro>
+</Root>

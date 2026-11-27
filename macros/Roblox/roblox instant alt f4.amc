@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major>Roblox</Major>
+    <Description>This macro closes roblox immediately upon activation. The original resolution is 1920x1080p, but there is no camera movement involved so that doesn't quite matter.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 226 1
+KeyUp 226 1
+KeyDown 61 1
+KeyUp 61 1
+KeyDown 61 1
+KeyUp 61 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

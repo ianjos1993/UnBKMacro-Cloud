@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major>Повышение КПС (майнкрафт) + юз 5 свичей</Major>
+    <Description>Данный макрос повышает кпс в майнкрафте. Это особенно эффективно как при ПВП так и при строительстве. Макросом достаточно удобно пользоваться, достаточно просто применить его для ЛКМ.
+Также установлен юз 3 свичей, чаще всего юзают профессионалы, но с данным макросом у вас это получится без проблем, всеголишь нужно в 1 ячейку меч , во 2 топор , в 3 трезубец,</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 10 ms
+KeyUp 30 1
+LeftDown 1
+LeftDown 1
+LeftUp 1
+Delay 9 49 ms
+KeyDown 31 1
+Delay 10 ms
+KeyUp 31 1
+LeftDown 1
+LeftDown 1
+Delay 7 67 ms
+LeftDown 1
+KeyDown 32 1
+Delay 10 ms
+KeyUp 32 1
+LeftDown 1
+LeftDown 1
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

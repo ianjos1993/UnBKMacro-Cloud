@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Быстрые приседания. Меняем "]" под свою кнопку приседания и радуемся
+Не использовать в качестве издевательств над противником!!!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 48 1
+Delay 3 ms
+KeyUp 48 1
+Delay 3 ms
+KeyDown 48 1
+Delay 3 ms
+KeyUp 48 1
+Delay 3 ms</Syntax>
+    </KeyDown>
+    <Software>Tera</Software>
+  </DefaultMacro>
+</Root>

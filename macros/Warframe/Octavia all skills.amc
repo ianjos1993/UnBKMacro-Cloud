@@ -1,0 +1,55 @@
+<Root>
+  <DefaultMacro>
+    <Major>WF</Major>
+    <Description>Использовать школу ЗЕНУРИК! Используются все скилы 4-1-2-3 и неуходит в АФК. Бесконечный инвиз. Для зараженных не подходит. Во время макроса можно передвигаться.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 34 1
+Delay 100 ms
+KeyUp 34 1
+Delay 300 ms
+KeyDown 30 1
+Delay 100 ms
+KeyUp 30 1
+Delay 300 ms
+KeyDown 34 1
+Delay 100 ms
+KeyUp 34 1
+Delay 500 ms
+KeyDown 33 1
+Delay 100 ms
+KeyUp 33 1
+Delay 700 ms
+KeyDown 30 1
+Delay 500 ms
+KeyUp 30 1
+Delay 700 ms
+KeyDown 31 1
+Delay 500 ms
+KeyUp 31 1
+Delay 300 ms
+KeyDown 32 1
+Delay 10
+KeyUp 32 1
+Delay 10
+KeyDown 224 1
+Delay 50 ms
+KeyUp 224 1
+Delay 50 ms
+GoWhile 29 20
+Delay 15 s
+KeyDown 224 1
+Delay 50 ms
+KeyUp 224 1
+Delay 50 ms
+GoWhile 35 20</Syntax>
+    </KeyDown>
+    <Software>Warframe</Software>
+  </DefaultMacro>
+</Root>

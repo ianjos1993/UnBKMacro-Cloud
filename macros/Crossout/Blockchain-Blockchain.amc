@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major>Блокчейн</Major>
+    <Description>В игре ставим каждый Блокченй на разные клавиши мыши первый на левую клавишу мыши второй на правую клавишу мыши третий на прокрутку мыши вверх после выстрела каждый Блокченй выстреливает по очереди в одну сек один за другим благодоря чему отбивается рама врага с первого выстрела...</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 20 40 ms
+LeftDown 1
+Delay 40 80 ms
+RightDown 1
+Delay 20 40 ms
+LeftUp 1
+Delay 20 40 ms
+RightUp 1
+Delay 20 40 ms
+WheelUp 1
+Delay 20 40 ms
+WheelUp 1</Syntax>
+    </KeyDown>
+    <Software>Crossout</Software>
+  </DefaultMacro>
+</Root>

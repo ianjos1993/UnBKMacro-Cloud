@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>Карта Blade Master Tennis</Major>
+    <Description>Данный макрос помогает отбивать мяч без отталкивание вашего джагернаута, очень хорошо подходит для пуша противника и так же играя от защиты.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 5 ms
+KeyUp 8 1
+Delay 5 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 35 ms
+KeyDown 20 1
+Delay 5 ms
+KeyUp 20 1
+Delay 5 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Warcraft III</Software>
+  </DefaultMacro>
+</Root>

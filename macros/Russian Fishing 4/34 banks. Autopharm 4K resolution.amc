@@ -1,0 +1,79 @@
+<Root>
+  <DefaultMacro>
+    <Major>Море. 34 банка. 4К разрешение.</Major>
+    <Description>Простой и эффективный макрос для рр4 в разрешении 4К!
+1. Разрешение 4К,Хотите FHD уменьшите корды в 2 раза.
+2. В садок рыба убирается мышью! Координаты для FHD тоже надо менять!
+2. Выезжаем на банку 34
+3. Берем в руки удилище
+4. ВКЛЮЧАЕМ МАКРОС И НАСЛАЖДАЕМСЯ!!!
+
+Данный макрос закидывает удилище и делает легкий пилкинг до поклевки, ограничений по времени нет. Изменяем 5 строку по времени, если ваша приманка не успевает утонуть(если у вас кальмары, например).</Description>
+    <Comment>На 3.11.224 макрос полностью работоспособный. Пишите в комментарии проблемы.
+Автор: GROB666</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 227 ms
+LeftDown 1
+Delay 99 400 ms
+LeftUp 1
+Delay 5 s
+GoColor 26 2 171,171,171 255,255,255 1 1302 2078 829 2 1 0
+Delay 5 s
+GoColor 26 2 171,171,171 255,255,255 1 1302 2078 829 2 1 0
+Delay 5 s
+GoColor 26 2 171,171,171 255,255,255 1 1302 2078 829 2 1 0
+Delay 5 s
+GoColor 26 2 171,171,171 255,255,255 1 1302 2078 829 2 1 0
+Delay 5 s
+GoColor 26 2 171,171,171 255,255,255 1 1302 2078 829 2 1 0
+Delay 5 s
+LeftDown 1
+Delay 900 1100 ms
+LeftUp 1
+Delay 800 850 ms
+GoColor 26 2 171,171,171 255,255,255 1 1302 2078 829 2 1 0
+RightDown 1
+Delay 450 550 ms
+RightUp 1
+Delay 1600 1800 ms
+GoColor 20 3 171,171,171 255,255,255 1 1302 2078 829 2 1 0
+Delay 274 ms
+GoColor 39 1 64,64,64 245,215,45 1 2250 1562 232 359 1 0
+LeftDown 1
+Delay 150 300 ms
+RightDown 1
+Delay 64
+Delay 64
+Delay 70 100 ms
+KeyDown 225 1
+Delay 1500 2500 ms
+RightUp 1
+Delay 274 ms
+GoColor 27 0 64,64,64 245,215,45 1 2250 1652 231 269 1 0
+Delay 300 501 ms
+KeyUp 225 1
+Delay 274 ms
+LeftUp 1
+Delay 274 ms
+RightUp 1
+Delay 632 933 ms
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 136 ms
+GoWhile 1 3
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 64
+GoWhile 1 500</Syntax>
+    </KeyDown>
+    <Software>Русская Рыбалка 4</Software>
+  </DefaultMacro>
+</Root>

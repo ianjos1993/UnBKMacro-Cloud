@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>antiotdacha позволяет стрелять в райнбов 6 почти без отдачи на большей части автоматического оружия таком как g36 mp5 storms и тд
+</Description>
+    <Comment>4XFIRE
+</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 8 ms
+Delay 16 ms
+MoveR 0 3
+Delay 8 ms
+Delay 16 ms
+MoveR 0 3
+Delay 8 ms
+Delay 16 ms
+MoveR 0 3
+Delay 8 ms
+Delay 16 ms
+MoveR 0 3
+Delay 8 ms
+Delay 16 ms
+MoveR 0 3
+Delay 8 ms
+Delay 16 ms
+MoveR 0 3
+Delay 8 ms
+Delay 16 ms
+MoveR 0 3
+Delay 16 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

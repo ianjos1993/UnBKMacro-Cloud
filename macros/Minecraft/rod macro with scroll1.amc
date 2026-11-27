@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Introducing a new macro designed specifically for enhancing your Minecraft PvP experience. This efficient and streamlined macro allows you to execute rapid movements and swift attacks with precision, giving you a competitive edge in combat. Seamlessly integrate this macro into your gameplay to improve your reaction times and optimize your performance. Officially endorsed by Rod Macro Scroll, this tool is a must-have for any serious PvP player looking to elevate their skills. Get ready to dominate the arena and leave your opponents in awe.
+This macro is for rod pvp for servers such as BlocksMC or PG, vallen etc. rod has to be on key 3
+the way it works is when you press it will switch to ur sword then back to 3 and immediately throw a rod so you dont have to use right click at all. bind the macro to ur rod key or to ur right click if you think you can get used to it.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 36 1
+Delay 60 ms
+KeyUp 36 1
+Delay 10 ms
+KeyDown 32 1
+Delay 15 ms
+KeyUp 32 1
+Delay 15 ms
+RightDown 1
+Delay 10 ms
+RightUp 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

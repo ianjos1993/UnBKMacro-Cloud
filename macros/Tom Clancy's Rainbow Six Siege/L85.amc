@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major>Perfect L85 Recoil for Sledge/Thatcher</Major>
+    <Description>Perfect Crouch/Stand recoil with L85. 28/30 headshots at 10m w/o moving mouse.
+
+Loadout: Comp,Vertical, Acog
+
+Res: 16:10, 1920 x1080
+
+Sensitivity 6,6
+
+800 Dpi</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+MoveR -5 20
+Delay 15 ms
+MoveR 1 35
+Delay 15 ms
+MoveR 0 25
+Delay 15 ms
+MoveR -5 16
+Delay 15 ms
+MoveR 15 9
+Delay 16 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

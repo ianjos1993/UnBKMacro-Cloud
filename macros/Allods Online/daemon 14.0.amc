@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>Последний ритуал</Major>
+    <Description>Чтобы не пропустить из самых дамажащих умелок в демоне.макрос зациклен и работает только в обличье искусителя.
+забиндены кнопки 5 и 6
+5-Атаксия
+6-последний ритуал</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 34 1
+KeyUp 34 1
+Delay 200 ms
+KeyDown 35 1
+KeyUp 35 1
+Delay 2000 ms
+KeyDown 35 1
+KeyUp 35 1
+Delay 2000 ms
+KeyDown 35 1
+KeyUp 35 1
+Delay 2000 ms</Syntax>
+    </KeyDown>
+    <Software>Аллоды онлайн</Software>
+  </DefaultMacro>
+</Root>

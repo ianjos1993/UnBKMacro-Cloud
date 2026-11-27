@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>автосвап для фантайма или для вообще чего либо, лично я юзаю для свапа талисмана
+что он делает? вам надо просто забиндить на удобную кнопку после чего она заменит или применит предмет в вторую руку </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 35 ms
+KeyUp 8 1
+Delay 35 ms
+KeyDown 9 1
+Delay 35 ms
+KeyUp 9 1
+Delay 35 ms
+KeyDown 8 1
+Delay 35 ms
+KeyUp 8 1
+Delay 35 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

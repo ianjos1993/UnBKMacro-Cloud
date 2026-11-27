@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на быстрый и точный выстрел с баррета. Ставите на кнопку, на которую ничего не назначено в игре и нажимаете ее при необходимости. Если у вас не такого быстрого прицеливания, как у меня с фиолетовым калиматором, то можно увеличить задержку между нажатием пкм и лкм. https://youtu.be/w8pVEYXzMVw</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 350 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 8 ms
+RightUp 1
+Delay 100 ms</Syntax>
+    </KeyDown>
+    <Software>Survarium</Software>
+  </DefaultMacro>
+</Root>

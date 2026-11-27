@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всем доброго дня.Сегодня я разработал новый макрос для подачи жалоб на игроков.Суть данного макроса довольно проста,подать жалобу на игрока,который занимается запрещенной деятельностью.Например какой либо вид багаюза,использование сторонних программ,оскорбления в игровом чате и так далее.Макрос будет очень удобен на любом сервере.Он пишет команду /report.Главное не забывать,что после написания данной команды необходимо написать ник игрока на которого вы подаете жалобу,а после этого нажать Enter.
+
+Инструкция по настройке:
+1)Скачайте файл данного макроса на свой компьютер.
+2)Откройте панель управления клавиатуры в приложении Keyran.
+3)Выберите любую,подходящую для вас клавишу или кнопку мыши.
+4)Нажимаете на выбранную клавишу правой кнопкой мыши и нажимаете назначить макрос.
+5)Сохраняете эти настройки и используете макрос.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 32 ms
+KeyUp 56 1
+Delay 32 ms
+KeyDown 21 1
+Delay 32 ms
+KeyUp 21 1
+Delay 32 ms
+KeyDown 8 1
+Delay 32 ms
+KeyUp 8 1
+Delay 32 ms
+KeyDown 19 1
+Delay 32 ms
+KeyUp 19 1
+Delay 32 ms
+KeyDown 18 1
+Delay 32 ms
+KeyUp 18 1
+Delay 32 ms
+KeyDown 21 1
+Delay 32 ms
+KeyUp 21 1
+Delay 32 ms
+KeyDown 23 1
+Delay 32 ms
+KeyUp 23 1
+Delay 32 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

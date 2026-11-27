@@ -1,0 +1,89 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для чила на БГ в Аллодах онлайн за воина. 
+(Отлично подойдет новичкам, кто еще не привык к персонажу)
+
+Принцип действия: 
+- Выбираем таргет
+- Запускаем макрос
+- Бегаем вокруг жертвы
+- Убиваем
+
+Настройка: 
+- Биндим на какие-то ячейки [NUM1] и [NUM2]
+- Расставляем скиллы на панельку:
+- [1] - Подсечка (накладывает контроль и замедляет цель) 
+- [2] - Разрушительная атака (снизит затраты энергии на раскол)
+- [3] - Ракол (из-за контроля от Подсечки сразу накладывает 3 эффекта)
+- [4] - Рассечение
+- [5] - Коварный выпад (из-за контроля от Подсечки урон увеличен на 50%)
+- [6] - Смертельный выпад
+- [NUM1] - Черепаха
+- [NUM2] - Жатва
+
+PS: Вы можете забиндить себе на Q E R T F G - какие-либо дополнительные скиллы, типа Пинок для стана, дополнительные бафы и дефы, хилки и т.д. 
+И пока Ваш персонаж самостоятельно наносит серию ударов - вы можете накидывать контроля на жертву, прожимать триньку, гарпун, рывки и т.д. 
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 33 1
+KeyUp 33 1
+Delay 250 ms
+KeyDown 30 1
+KeyUp 30 1
+Delay 2000 ms
+KeyDown 31 1
+KeyUp 31 1
+Delay 1700 ms
+KeyDown 32 1
+KeyUp 32 1
+Delay 1500 ms
+KeyDown 34 1
+KeyUp 34 1
+Delay 1500 ms
+KeyDown 35 1
+KeyUp 35 1
+Delay 1500 ms
+KeyDown 31 1
+KeyUp 31 1
+Delay 1500 ms
+KeyDown 89 1
+Delay 64
+KeyUp 89 1
+Delay 64
+KeyDown 90 1
+Delay 64
+KeyUp 90 1
+Delay 1800 ms
+KeyDown 33 1
+KeyUp 33 1
+Delay 250 ms
+KeyDown 30 1
+KeyUp 30 1
+Delay 1600 ms
+KeyDown 31 1
+KeyUp 31 1
+Delay 1700 ms
+KeyDown 32 1
+KeyUp 32 1
+Delay 1500 ms
+KeyDown 34 1
+KeyUp 34 1
+Delay 1500 ms
+KeyDown 35 1
+KeyUp 35 1
+Delay 1500 ms
+KeyDown 31 1
+KeyUp 31 1
+Delay 1500 ms</Syntax>
+    </KeyDown>
+    <Software>Аллоды онлайн</Software>
+  </DefaultMacro>
+</Root>

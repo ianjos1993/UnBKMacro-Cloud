@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>С этим макросом,вы сможете легко делать дабл эдит,трипл эдит.Также подойдет для Арены.
+Инструкция:
+1.Скачиваете макрос.
+2.Заходите в приложение KeyRan нажимаете на представленой клавиатуре на кнопку G,правой кнопкой мыши,выбираете макрос который скачали,далее еще раз нажимаете правой кнопкой мыши, и ставите режим работы Выполнять пока нажата клавиша.Все можете заходить в игру и всех разносить.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+Delay 4 ms
+KeyUp 10 1
+Delay 4 ms
+LeftDown 1
+Delay 2 ms
+LeftUp 1
+Delay 2 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

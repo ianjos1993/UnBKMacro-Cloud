@@ -1,0 +1,53 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>A macro for the roblox magic training, this macro uses various random delays in between the letters to get past the anti-macro system taht magic training has.
+
+This uses the spell 'Crucio', but feel free to change it if you like
+
+I recommend not changing the delays as this is as fast as I could get it without it messing up or getting detected, make sure to have a bind to disable the program incase you need to type out something if you intend to use the chat. 
+
+Lastly, you can use the same format of my macro to write /team before the spell to ensure that no one else is able to read that you have used the spell</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 5 16 ms
+KeyUp 56 1
+Delay 5 16 ms
+KeyDown 6 1
+Delay 5 16 ms
+KeyUp 6 1
+Delay 5 16 ms
+KeyDown 21 1
+Delay 5 16 ms
+KeyUp 21 1
+Delay 5 16 ms
+KeyDown 24 1
+Delay 5 16 ms
+KeyUp 24 1
+Delay 5 16 ms
+KeyDown 6 1
+Delay 5 16 ms
+KeyUp 6 1
+Delay 5 16 ms
+KeyDown 12 1
+Delay 5 16 ms
+KeyDown 18 1
+Delay 5 16 ms
+KeyUp 12 1
+Delay 5 16 ms
+KeyUp 18 1
+Delay 5 16 ms
+KeyDown 88 1
+Delay 5 16 ms
+KeyUp 88 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

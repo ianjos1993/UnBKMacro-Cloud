@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>Create a portal direcly opening the stash and clicking the portal</Major>
+    <Description>Create a portal direcly opening the stash and clicking the portal in the lower right side of the extended stash. Works in the 1920x1080 resolution</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 12 1
+KeyUp 12 1
+MoveTo 972 656
+Delay 50 ms
+RightDown 1
+RightUp 1
+Delay 20 ms
+KeyDown 12 1
+KeyUp 12 1</Syntax>
+    </KeyDown>
+    <Software>Path of Exile</Software>
+  </DefaultMacro>
+</Root>

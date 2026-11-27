@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>WhiteGoose</Major>
+    <Description>Данный макрос позволяет красиво убить противника дальним койлом в паузе. 
+
+После активации скрипта нажимаете с зажатой клавишей ALT на дальний коил (мышкой) так как баг работает только так, таким образом можно удивить противника убив его не до паузы, не после паузы, а во время паузы, потому что нажатие на коил мышкой провоцирует скип анимации на пару милисекунд и коил мгновенно используется в паузе.
+
+*Вместо боковой клавиши мыши вниз поставьте копку движения в направлении</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Button5Down 1
+RightDown 1
+RightUp 1
+Button5up 1
+KeyDown 8 1
+Delay 50 ms
+KeyUp 8 1
+Delay 570 ms
+KeyDown 66 1
+Delay 200 ms
+KeyUp 66 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

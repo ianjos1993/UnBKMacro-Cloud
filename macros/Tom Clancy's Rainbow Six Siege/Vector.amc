@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major>Vector Recoil Script (Lion, Mira...)</Major>
+    <Description>Almost no recoil for ASH RC4
+
+SETUP
+Right click the left mouse button and add the macro then set operating mode to use when held down then just activate it ingame. This macro is only stable for around 25 meters ingame anything past that it may be inconsistent and unreliable
+
+DISCLAIMER!
+macro will not work if keyran drivers are not installed
+
+Pretty EZ to use, just bind it to the left mouse button.
+ATTACHMENTS
+Sight-Acog or Holo B
+Barrel-Compensator
+
+GAME SETTINGS
+Resolution-1920x1080
+FOV-84
+SenseHorizontal-13
+SenseVertical-13
+DPI-800
+
+Made by HOODIExSZN
+
+ENJOY! </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 8 ms
+MoveR 0 7
+Delay 1 ms
+MoveR -1 0
+MoveR 1 0
+Delay 1 ms
+MoveR 0 1
+LeftUp 1
+Delay 8 ms</Syntax>
+    </KeyDown>
+    <Software>Tom clancy's Rainbow Six Seige </Software>
+  </DefaultMacro>
+</Root>

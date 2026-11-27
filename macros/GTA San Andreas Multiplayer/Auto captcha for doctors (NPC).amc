@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>Авто капча для медиков (NPC) ArizonaRP</Major>
+    <Description>Данный макрос значительно облегчит вам работу при взаимодействии с пострадавшими NPC на сервере Arizona RP.
+
+К плюсам макроса можно отнести:
+- Полная легидность - практически не возможно получить наказание за использование.
+- Не чувствителен к разрешению экрана и FPS
+- Полная автоматизация лечения NPC (все что нужно от вас - активировать макрос)
+
+Вливайся в комьюнити KeyRan и делай свой геймплей удобнее!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 226 1
+Delay 64
+KeyUp 226 1
+KeyDown 11 1
+Delay 64
+KeyUp 11 1
+GoWhile 1 40</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос для спама аглиской буквой Е , подойдет для фарма различных предметов где эта буква нужденться, скирпт простой и понятный (Е нажмиеться каждые 0.5 сек)</Description>
+    <Comment>https://keyran.net - Free macros download | лучшие макросы</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 500 ms
+KeyUp 8 1
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>спам E (в играх)</Software>
+  </DefaultMacro>
+</Root>

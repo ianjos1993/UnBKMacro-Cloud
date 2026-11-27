@@ -1,0 +1,203 @@
+<Root>
+  <DefaultMacro>
+    <Major>INXeryr</Major>
+    <Description>!!!ВНИМАНИЕ!!!!
+
+ЭТО НЕ МАКРОС, А ФИЧА. С ПОМОЩЬЮ ЕЕ ВЫ МОЖЕТЕ ПОВЫСИТЬ ШАНСЫ НА ВЫЖИВАНИЕ.
+
+ДАННАЯ ФИЧА МОЖЕТ РАБОТАТЬ НЕКОРРЕКТНО ИЗ ЗА НЕВЫПОЛНЕНИЙ УСЛОВИЙ ПАРАМЕТРОВ( ЧУСТВИТЕЛЬНОСТЬ, FOV И Т.Д( НО ВЫ ВСЕГДА МОЖЕТЕ НАСТРОИТЬ ПОД СЕБЯ))
+
+БАН ЗА ЭТО НЕ ВЫДАЕТСЯ.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Условия: на 5-ом слоте(в руках) должна быть киянка, а в 6-ом план постройки.
+Чуствительность по гориз.- 1.1 ; по вертю- 1.0
+Угол обзора - 90
+
+Вы должны иметь при себе: 313 дерева и 1875 камня  (ЭТО МИНИМУМ!) 
+
+Тип работы "макроса": Пока удерживается клавиша. 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+В будующем будет доробатываться точность, если будут проблемы.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы 
+
+Автор оригинального макроса - INXeryr
+Остольное фейк( уже были моменты) </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 35 1
+Delay 45 ms
+KeyUp 35 1
+MoveR 0 1000
+Delay 100 ms
+KeyDown 44 1
+KeyUp 44 1
+Delay 100 ms
+LeftDown 1
+LeftUp 1
+Delay 10 ms
+MoveR 0 -319
+Delay 30 ms
+RightDown 1
+Delay 64
+MoveR 45 120
+Delay 200 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+RightUp 1
+Delay 64
+LeftDown 1
+LeftUp 1
+Delay 64
+MoveR 700 0
+Delay 200 ms
+LeftDown 1
+LeftUp 1
+Delay 64
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 64
+RightDown 1
+Delay 64
+MoveR 300 30
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+RightUp 1
+Delay 64
+MoveR -750 -120
+Delay 64
+RightDown 1
+Delay 200 ms
+MoveR 300 30
+Delay 64
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 64
+RightUp 1
+Delay 130 ms
+MoveR 0 1000
+Delay 200 ms
+RightDown 1
+Delay 200 ms
+MoveR 300 30
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+RightUp 1
+Delay 64
+MoveR -650 -320
+Delay 200 ms
+KeyDown 35 1
+Delay 64
+KeyUp 35 1
+Delay 200 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 64
+RightDown 1
+Delay 200 ms
+MoveR 300 30
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 200 ms
+RightUp 1
+KeyDown 35 1
+Delay 64
+KeyUp 35 1
+Delay 64
+MoveR -730 0
+Delay 64
+RightDown 1
+Delay 64
+MoveR -200 140
+Delay 200 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 200 ms
+RightUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveR 0 -10000
+Delay 250 ms
+MoveR -400 0
+Delay 64 ms
+MoveR 400 0
+Delay 250 ms
+MoveR 0 780
+Delay 250 ms
+MoveR 0 -10000
+Delay 250 ms
+MoveR 0 780
+Delay 250 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 200 ms
+KeyDown 34 1
+Delay 64
+KeyUp 34 1
+Delay 58 ms
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveR 0 30
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+RightDown 1
+Delay 64
+MoveR 300 30
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+RightUp 1
+Delay 64
+MoveR 0 -245
+RightDown 1
+Delay 200 ms
+MoveR 300 30
+Delay 200 ms
+LeftDown 1
+LeftDown 1
+LeftDown 1
+Delay 200 ms
+MoveR 0 50
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 200 ms
+RightUp 1
+Delay 10000 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

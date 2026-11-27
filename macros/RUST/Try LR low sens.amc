@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major>Perfect LR no holo</Major>
+    <Description>Perfect macro for LR low sens
+Fov 90
+Sens 0.4
+1920x1080
+This macro for LR look like hack, take care to use it no recoil crouching
+very small recoil standing</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 10 ms
+MoveR 0 55
+LeftUp 1
+MoveR -2 0
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

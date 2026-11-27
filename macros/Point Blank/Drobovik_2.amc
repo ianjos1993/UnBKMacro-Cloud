@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>МАКРОС НА ДРОБЬ, ВКЛЮЧИЛИ , ВЫБРАЛИ КЛАВИШУ И ХОРОШЕЙ ИГРЫ ,РАБОТАЕТ АБСОЛЮТНО НА ВСЕХ ДРОБОВИКАХ.МАКРОС ДЛЯ ПОИНТ БЛАНКА ( POINT BLANK)</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 24 ms
+LeftUp 1
+KeyDown 32 1
+Delay 24 ms
+KeyUp 32 1
+KeyDown 30 1
+Delay 24 ms
+KeyUp 30 1
+Delay 30 ms
+Delay 30 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

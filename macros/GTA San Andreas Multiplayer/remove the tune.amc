@@ -1,0 +1,85 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для работы механиков Namalsk RP. При нажатии на указанную вами клавишу автоматически предложит человеку убрать весь тюнинг на машине.
+Нужно быть около капота машины.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 63 1
+Delay 1 ms
+KeyUp 63 1
+Delay 64
+KeyDown 56 1
+Delay 1
+KeyUp 56 1
+Delay 1
+KeyDown 23 1
+Delay 1
+KeyUp 23 1
+Delay 1
+KeyDown 24 1
+Delay 1
+KeyUp 24 1
+Delay 1
+KeyDown 17 1
+Delay 1
+KeyUp 17 1
+Delay 1
+KeyDown 12 1
+Delay 1
+KeyUp 12 1
+Delay 1
+KeyDown 17 1
+Delay 1
+KeyUp 17 1
+Delay 1
+KeyDown 10 1
+Delay 1
+KeyUp 10 1
+Delay 50 ms
+KeyDown 88 1
+Delay 1
+KeyUp 88 1
+Delay 120 ms
+KeyDown 81 1
+Delay 1 ms
+KeyUp 81 1
+Delay 1 ms
+KeyDown 81 1
+Delay 1 ms
+KeyUp 81 1
+Delay 1 ms
+KeyDown 81 1
+Delay 1 ms
+KeyUp 81 1
+Delay 1 ms
+KeyDown 81 1
+Delay 1 ms
+KeyUp 81 1
+Delay 1 ms
+KeyDown 81 1
+Delay 1 ms
+KeyUp 81 1
+Delay 1 ms
+KeyDown 81 1
+Delay 1 ms
+KeyUp 81 1
+Delay 1 ms
+KeyDown 81 1
+Delay 1 ms
+KeyUp 81 1
+Delay 50 ms
+KeyDown 88 1
+Delay 1
+KeyUp 88 1
+Delay 1</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

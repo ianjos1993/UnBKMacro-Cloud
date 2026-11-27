@@ -1,0 +1,54 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Необходимо иметь для фул прокаста концентрацию. Все задержки просчитанны
+
+Начало Ритуал Крови, Жатва, Бушующий хаос, Откид,  вконце Лечение и Подбор.
+Собирать лучше под действием щита. </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 39 1
+Delay 250
+KeyUp 39 1
+Delay 250
+Delay 250 ms
+KeyDown 32 1
+Delay 250 ms
+KeyUp 32 1
+Delay 1250 ms
+KeyDown 46 1
+Delay 250 ms
+KeyUp 46 1
+Delay 250
+Delay 250 ms
+KeyDown 226 1
+KeyDown 32 1
+Delay 64
+Delay 64
+KeyUp 32 1
+KeyUp 226 1
+Delay 64
+Delay 64 ms
+KeyDown 33 1
+Delay 64
+Delay 250
+KeyUp 33 1
+Delay 250
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 44 1
+Delay 250
+KeyUp 44 1
+Delay 250</Syntax>
+    </KeyDown>
+    <Software>Russian Fishing 4</Software>
+  </DefaultMacro>
+</Root>

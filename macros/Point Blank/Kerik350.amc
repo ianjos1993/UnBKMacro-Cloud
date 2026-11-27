@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос помогает быстро и очень сильно использовать керамбит, так как у керамбита второй вариант удара убивает практически всегда. Моё разрешение экрана (Resolution) - 1366 * 768 (60герц), фпс (FPS) - 90 кадров, а advanced setting - максимальные (highest), этот макрос по умолчанию используется на ПКМ, однако, если у вас второе действие не на ПКМ - требуется заменить на ту клавишу, которая на второе действие, Второе действие включает прицел на практически всех оружиях(для понятности)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 1 ms
+Delay 2 ms
+Delay 1 ms
+RightUp 1
+Delay 1 ms
+Delay 2 ms
+Delay 1 ms
+RightDown 1
+Delay 1 ms
+Delay 2 ms
+Delay 1 ms
+RightUp 1
+Delay 1 ms
+Delay 2 ms
+Delay 1 ms
+KeyDown 20 1
+Delay 1 ms
+Delay 2 ms
+Delay 1 ms
+KeyUp 20 1
+Delay 1 ms
+Delay 2 ms
+Delay 1 ms
+KeyDown 20 1
+Delay 1 ms
+Delay 2 ms
+Delay 1 ms
+KeyUp 20 1
+Delay 1 ms
+Delay 2 ms
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

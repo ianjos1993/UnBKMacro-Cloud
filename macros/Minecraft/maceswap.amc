@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос, созданный для использования продвинутой техники "Maceswap", служащей для увеличения урона молота с сохранением игнорирования брони
+Шаг 1. Положить меч/топор в первый слот, молот в третий слот хотбара.
+Шаг 2. Использовать макрос.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 48 ms
+LeftDown 1
+Delay 13 ms
+KeyUp 32 1
+Delay 79 ms
+LeftUp 1
+Delay 0 ms
+KeyDown 30 1
+Delay 64 ms
+KeyUp 30 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

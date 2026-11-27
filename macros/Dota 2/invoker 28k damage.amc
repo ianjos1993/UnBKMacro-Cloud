@@ -1,0 +1,415 @@
+<Root>
+  <DefaultMacro>
+    <Major>Combo Invoker with items+refresher</Major>
+    <Description>Макрос на Героя Invoker!
+Мои Бинды:
+Q W E D F R - Скиллы
+Z X C  - ПРЕДМЕТЫ, ЗАДЕЙСТВОВАННЫЕ В МАКРОСЕ
+V -  РЕФРЕШЕР
+АГАНИМ И ОКТАРИН ОБЯЗАТЕЛЕНЫ!
+ДЛЯ РАБОТЫ МАКРОСА НУЖНО ЗАЖАТЬ ВАШУ КНОПКУ(РЕКОМЕНДУЮ БИНД НА B) И НЕ ОТПУСКАТЬ ЕЕ, ИНАЧЕ КОМБО ПРЕКРАТИТЬСЯ, ТАКЖЕ НУЖНО ВОДИТЬ МЫШКОЙ ПО ВРАГУ. РЕКОМЕНДУЮ БЛИНКАТЬСЯ ВО ВРАГА В ПЛОТНУЮ, ТАК КАК В МАКРОСЕ СТАВИТЬСЯ ICE WALL!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+KeyUp 29 1
+KeyDown 27 1
+KeyUp 27 1
+KeyDown 6 1
+KeyUp 6 1
+KeyDown 26 1
+Delay 70 ms
+KeyUp 26 1
+Delay 67 74 ms
+KeyDown 26 1
+Delay 67 74 ms
+KeyUp 26 1
+Delay 67 74 ms
+KeyDown 8 1
+Delay 67 74 ms
+KeyUp 8 1
+Delay 67 74 ms
+KeyDown 21 1
+Delay 67 74 ms
+KeyUp 21 1
+Delay 67 74 ms
+KeyDown 226 1
+KeyDown 7 1
+Delay 67 74 ms
+KeyUp 7 1
+Delay 67 74 ms
+KeyUp 226 1
+Delay 67 74 ms
+//ALACRITY
+KeyDown 20 1
+Delay 67 74 ms
+KeyUp 20 1
+Delay 67 74 ms
+KeyDown 20 1
+Delay 67 74 ms
+KeyUp 20 1
+Delay 67 74 ms
+KeyDown 20 1
+Delay 67 74 ms
+KeyUp 20 1
+Delay 67 74 ms
+KeyDown 21 1
+Delay 67 74 ms
+KeyUp 21 1
+Delay 67 74 ms
+KeyDown 7 1
+Delay 67 74 ms
+KeyUp 7 1
+Delay 67 74 ms
+//COLD SNAP
+KeyDown 26 1
+Delay 67 74 ms
+KeyUp 26 1
+Delay 67 74 ms
+KeyDown 26 1
+Delay 67 74 ms
+KeyUp 26 1
+Delay 67 74 ms
+KeyDown 20 1
+Delay 67 74 ms
+KeyUp 20 1
+Delay 67 74 ms
+KeyDown 21 1
+Delay 67 74 ms
+KeyUp 21 1
+Delay 67 74 ms
+KeyDown 7 1
+Delay 67 74 ms
+KeyUp 7 1
+Delay 67 74 ms
+//TORNADO
+KeyDown 20 1
+Delay 67 74 ms
+KeyUp 20 1
+Delay 67 74 ms
+KeyDown 20 1
+Delay 67 74 ms
+KeyUp 20 1
+Delay 67 74 ms
+KeyDown 8 1
+Delay 67 74 ms
+KeyUp 8 1
+Delay 67 74 ms
+KeyDown 21 1
+Delay 67 74 ms
+KeyUp 21 1
+Delay 67 74 ms
+KeyDown 7 1
+KeyDown 7 1
+KeyUp 7 1
+//ICE WALL
+KeyDown 26 1
+Delay 80 ms
+KeyUp 26 1
+Delay 80 ms
+KeyDown 26 1
+Delay 80 ms
+KeyUp 26 1
+Delay 80 ms
+KeyDown 26 1
+Delay 80 ms
+KeyUp 26 1
+Delay 80 ms
+KeyDown 21 1
+Delay 67 74 ms
+KeyUp 21 1
+Delay 67 74 ms
+KeyDown 7 1
+Delay 31 ms
+KeyUp 7 1
+Delay 31 ms
+KeyDown 7 1
+Delay 31 ms
+KeyUp 7 1
+Delay 31 ms
+KeyDown 7 1
+Delay 31 ms
+KeyUp 7 1
+Delay 31 ms
+//E.M.P.
+KeyDown 8 1
+Delay 67 74 ms
+KeyUp 8 1
+Delay 67 74 ms
+KeyDown 8 1
+Delay 67 74 ms
+KeyUp 8 1
+Delay 67 74 ms
+KeyDown 8 1
+Delay 67 74 ms
+KeyUp 8 1
+Delay 85 ms
+KeyDown 21 1
+Delay 67 74 ms
+KeyUp 21 1
+Delay 67 74 ms
+KeyDown 226 1
+KeyDown 7 1
+Delay 67 74 ms
+KeyUp 226 1
+Delay 67 74 ms
+KeyUp 7 1
+Delay 67 74 ms
+//CATACLISM/NEED AGHANIM`S SCEPTER
+KeyDown 8 1
+Delay 67 74 ms
+KeyUp 8 1
+Delay 67 74 ms
+KeyDown 8 1
+Delay 67 74 ms
+KeyUp 8 1
+Delay 67 74 ms
+KeyDown 26 1
+Delay 67 74 ms
+KeyUp 26 1
+Delay 67 74 ms
+KeyDown 21 1
+Delay 67 74 ms
+KeyUp 21 1
+Delay 67 74 ms
+KeyDown 7 1
+Delay 67 74 ms
+KeyUp 7 1
+Delay 67 74 ms
+//METEOR
+KeyDown 20 1
+Delay 67 74 ms
+KeyUp 20 1
+Delay 67 74 ms
+KeyDown 26 1
+Delay 67 74 ms
+KeyDown 8 1
+Delay 67 74 ms
+KeyUp 26 1
+Delay 67 74 ms
+KeyUp 8 1
+Delay 67 74 ms
+KeyDown 21 1
+Delay 67 74 ms
+KeyUp 21 1
+Delay 67 74 ms
+KeyDown 7 1
+Delay 67 74 ms
+KeyUp 7 1
+Delay 67 74 ms
+//BLAST
+KeyDown 8 1
+Delay 67 74 ms
+KeyUp 8 1
+Delay 67 74 ms
+KeyDown 8 1
+Delay 67 74 ms
+KeyUp 8 1
+Delay 67 74 ms
+KeyDown 20 1
+Delay 67 74 ms
+KeyUp 20 1
+Delay 67 74 ms
+KeyDown 21 1
+Delay 67 74 ms
+KeyUp 21 1
+Delay 67 74 ms
+KeyDown 7 1
+Delay 67 74 ms
+KeyUp 7 1
+Delay 67 74 ms
+//FORGE SPIRIT
+KeyDown 25 1
+Delay 80 ms
+KeyUp 25 1
+Delay 80 ms
+//REFRESHER ORB
+KeyDown 29 1
+KeyUp 29 1
+KeyDown 27 1
+KeyUp 27 1
+KeyDown 6 1
+KeyUp 6 1
+KeyDown 20 1
+Delay 67 74 ms
+KeyUp 20 1
+Delay 67 74 ms
+KeyDown 20 1
+Delay 67 74 ms
+KeyUp 20 1
+Delay 67 74 ms
+KeyDown 20 1
+Delay 67 74 ms
+KeyUp 20 1
+Delay 67 74 ms
+KeyDown 21 1
+Delay 67 74 ms
+KeyUp 21 1
+Delay 67 74 ms
+KeyDown 7 1
+Delay 67 74 ms
+KeyUp 7 1
+Delay 67 74 ms
+KeyDown 26 1
+Delay 67 74 ms
+KeyUp 26 1
+Delay 67 74 ms
+KeyDown 26 1
+Delay 67 74 ms
+KeyUp 26 1
+Delay 67 74 ms
+KeyDown 20 1
+Delay 67 74 ms
+KeyUp 20 1
+Delay 67 74 ms
+KeyDown 21 1
+Delay 67 74 ms
+KeyUp 21 1
+Delay 67 74 ms
+KeyDown 7 1
+Delay 67 74 ms
+KeyUp 7 1
+Delay 67 74 ms
+KeyDown 20 1
+Delay 67 74 ms
+KeyUp 20 1
+Delay 67 74 ms
+KeyDown 20 1
+Delay 67 74 ms
+KeyUp 20 1
+Delay 67 74 ms
+KeyDown 8 1
+Delay 67 74 ms
+KeyUp 8 1
+Delay 67 74 ms
+KeyDown 21 1
+Delay 67 74 ms
+KeyUp 21 1
+Delay 67 74 ms
+KeyDown 7 1
+KeyDown 7 1
+KeyUp 7 1
+KeyDown 26 1
+Delay 80 ms
+KeyUp 26 1
+Delay 80 ms
+KeyDown 26 1
+Delay 80 ms
+KeyUp 26 1
+Delay 80 ms
+KeyDown 26 1
+Delay 80 ms
+KeyUp 26 1
+Delay 80 ms
+KeyDown 21 1
+Delay 67 74 ms
+KeyUp 21 1
+Delay 67 74 ms
+KeyDown 7 1
+Delay 67 74 ms
+KeyUp 7 1
+Delay 67 74 ms
+KeyDown 7 1
+Delay 31 ms
+KeyUp 7 1
+Delay 31 ms
+KeyDown 7 1
+Delay 31 ms
+KeyUp 7 1
+Delay 31 ms
+KeyDown 7 1
+Delay 31 ms
+KeyUp 7 1
+Delay 31 ms
+KeyDown 8 1
+Delay 67 74 ms
+KeyUp 8 1
+Delay 67 74 ms
+KeyDown 8 1
+Delay 67 74 ms
+KeyUp 8 1
+Delay 67 74 ms
+KeyDown 8 1
+Delay 67 74 ms
+KeyUp 8 1
+Delay 85 ms
+KeyDown 21 1
+Delay 67 74 ms
+KeyUp 21 1
+Delay 67 74 ms
+KeyDown 226 1
+KeyDown 7 1
+Delay 67 74 ms
+KeyUp 226 1
+Delay 67 74 ms
+KeyUp 7 1
+Delay 67 74 ms
+KeyDown 8 1
+Delay 67 74 ms
+KeyUp 8 1
+Delay 67 74 ms
+KeyDown 8 1
+Delay 67 74 ms
+KeyUp 8 1
+Delay 67 74 ms
+KeyDown 26 1
+Delay 67 74 ms
+KeyUp 26 1
+Delay 67 74 ms
+KeyDown 21 1
+Delay 67 74 ms
+KeyUp 21 1
+Delay 67 74 ms
+KeyDown 7 1
+Delay 67 74 ms
+KeyUp 7 1
+Delay 67 74 ms
+KeyDown 20 1
+Delay 67 74 ms
+KeyUp 20 1
+Delay 67 74 ms
+KeyDown 26 1
+Delay 67 74 ms
+KeyDown 8 1
+Delay 67 74 ms
+KeyUp 26 1
+Delay 67 74 ms
+KeyUp 8 1
+Delay 67 74 ms
+KeyDown 21 1
+Delay 67 74 ms
+KeyUp 21 1
+Delay 67 74 ms
+KeyDown 7 1
+Delay 67 74 ms
+KeyUp 7 1
+Delay 67 74 ms
+KeyDown 8 1
+Delay 67 74 ms
+KeyUp 8 1
+Delay 67 74 ms
+KeyDown 8 1
+Delay 67 74 ms
+KeyUp 8 1
+Delay 67 74 ms
+KeyDown 20 1
+Delay 67 74 ms
+KeyUp 20 1
+Delay 67 74 ms
+KeyDown 21 1
+Delay 67 74 ms
+KeyUp 21 1
+Delay 67 74 ms
+KeyDown 7 1
+Delay 67 74 ms
+KeyUp 7 1
+Delay 67 74 ms</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>this macro is for beret and quick change only it would be op asf if using shotgun or zombie killer very very very op how to use? use the lmb button as macro</Description>
+    <Comment>Hello this is my 2nd macro i hope you will like it :D</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 264 ms
+KeyDown 32 1
+Delay 8 ms
+KeyUp 32 1
+Delay 8 ms
+KeyDown 20 1
+Delay 8 ms
+KeyUp 20 1
+Delay 8 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Point Blank</Software>
+  </DefaultMacro>
+</Root>

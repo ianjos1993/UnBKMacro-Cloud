@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Добрый день,данный макрос поможет вам сократить время а так же автоматизировать столь унылое занятие как заточка внутреигровых итемов такие как броши и браслеты,а так же синтез предметов
+Обязательно полноэкранный режим и разрешение 1920*1080 
+Предметы которые нужно заточить ставите в первую ячейку в инвентаре и саму заточку во вторую,все готово можете идти заниматься своими делами)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 15 s
+KeyUp 43 1
+Delay 15 s
+MoveR 255 247
+Delay 15 ms
+MoveR 414 -180
+Delay 15 s
+MoveR 725 -208
+Delay 15 s
+MoveR -41 254
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+Delay 15 s</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

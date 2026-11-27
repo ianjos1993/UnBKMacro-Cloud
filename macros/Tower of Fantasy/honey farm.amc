@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Нужно встать вплотную к улею, на 2 пистолеты, на 3 коса, скилл на E вместо 1. Пистолеты ломают улей, коса убивает пчелок,  примерно минута на регенерацию улея. Режим работы указать "выполнять до повторного нажатия".</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 1 s
+KeyDown 32 1
+KeyUp 32 1
+Delay 300 ms
+KeyDown 8 1
+KeyUp 8 1
+Delay 3 s
+KeyDown 31 1
+KeyUp 31 1
+Delay 61 s</Syntax>
+    </KeyDown>
+    <Software>Tower of Fantasy</Software>
+  </DefaultMacro>
+</Root>

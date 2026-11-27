@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Скрипт для фарма расетений на гардене, можно настроить на любые фермы!
+Для работы нужно раставить teleport padы чтобы переходить от одной грядки к другой.
+Resolution - 1920x1080.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+KeyDown 225 1
+LeftDown 1
+Delay 19 s
+MoveR -2500 0
+Delay 200 ms
+MoveR -98 0</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

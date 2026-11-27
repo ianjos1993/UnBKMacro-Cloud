@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на берданку без отдачи.
+Cенса в игре 0.86, угол обзора 85. Очень точная, работает так же на пешке! 
+(F1) - (команда) - sensitivity 0.86 </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+MoveR 0 15
+Delay 15 ms
+MoveR 0 12
+Delay 15 ms
+MoveR 0 12
+Delay 15 ms
+MoveR 0 12
+Delay 15 ms
+MoveR 0 12
+Delay 15 ms
+MoveR 0 12
+Delay 15 ms
+MoveR 0 12
+Delay 15 ms
+MoveR 0 12
+Delay 15 ms
+MoveR 0 14
+LeftUp 1
+Delay 13 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

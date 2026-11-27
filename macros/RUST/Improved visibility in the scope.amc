@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос улучшает обзо в прицеле путем переключения рук с правой на левую, с левой на правую, и так далее.</Description>
+    <Comment>Прописываете в консоль bind x ~graphics.vm_horizontal_flip 1;graphics.vm_horizontal_flip 0 , затем выбираете макрос на любую удобную вам кнопку, режим работы ставьте на "Выполнять до повторного нажатия", после этого нажимаете на кнопку макроса и в прицеле у вас улучшенный обзор, рекомендую играть с Crosshair V2 или Crosshair X, При прицеливании c 8x и 16х выключайте макрос.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 27 1
+Delay 40 ms
+KeyUp 27 1
+Delay 40 ms
+KeyDown 27 1
+Delay 40 ms
+KeyUp 27 1
+Delay 40 ms
+KeyDown 27 1
+Delay 40 ms
+KeyUp 27 1
+Delay 40 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

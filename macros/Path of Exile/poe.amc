@@ -1,0 +1,113 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Работает на 1920x1080 ложешь в первую линию 50 сфер бестиария сверху вниз
+открываешь инвентарь открываешь бестирий включаешь макрос встаешь в свободное место подальше от стен и он скидывает бистов на пол
+Проще говоря упрощает вытаскивание желтых бистов в сферы, Можно сделать чтобы он ложил в инвентарь, но впадлу</Description>
+    <Comment>Хочу вытаскивать дальше бистов</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1293 606
+Delay 250 ms
+RightDown 1
+Delay 64
+RightUp 1
+Delay 250 ms
+MoveTo 131 276
+Delay 250 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 250 ms
+MoveTo 675 361
+Delay 250 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 250 ms
+GoWhile 1 10
+MoveTo 1294 665
+Delay 250 ms
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64 ms
+MoveTo 150 288
+Delay 250 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 250 ms
+MoveTo 678 277
+Delay 250 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 250 ms
+GoWhile 20 10
+MoveTo 1301 716
+Delay 250 ms
+RightDown 1
+Delay 64
+RightUp 1
+Delay 250 ms
+MoveTo 155 298
+Delay 250 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 250 ms
+MoveTo 678 205
+Delay 250 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 250 ms
+GoWhile 39 10
+MoveTo 1298 762
+Delay 250 ms
+RightDown 1
+Delay 64
+RightUp 1
+Delay 250 ms
+MoveTo 155 298
+Delay 250 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 250 ms
+MoveTo 678 205
+Delay 250 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 250 ms
+GoWhile 58 10
+MoveTo 1308 819
+Delay 250 ms
+RightDown 1
+Delay 64
+RightUp 1
+Delay 250 ms
+MoveTo 155 298
+Delay 250 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 250 ms
+MoveTo 678 205
+Delay 250 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 250 ms
+GoWhile 77 10</Syntax>
+    </KeyDown>
+    <Software>Path of Exile</Software>
+  </DefaultMacro>
+</Root>

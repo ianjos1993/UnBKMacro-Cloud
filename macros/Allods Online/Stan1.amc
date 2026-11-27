@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major>Стан врагов (Любой класс)</Major>
+    <Description>Прожимает кнопку со станом, когда у врага остается 70% хп. Цвет полоски здоровья белый, можно изменить  цвет Аддоном Interface Manager. Запускаете на бесконечный повтор скрипта и радуемся на чемпионском доминионе и радуетесь</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 5 0 255,255,255 255,255,255 1 896 96
+KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Аллоды онлайн</Software>
+  </DefaultMacro>
+</Root>

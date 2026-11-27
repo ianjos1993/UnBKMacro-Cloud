@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>ловля клиентов на такси, использовать на скрипте 4tech крч старые скрипты нихрена не работают решил добавить свой, рабочий нормально. суть заключается в том что вы бы сначала прикрепили мой скрипт к кнопке посредством нажатия на клавиши-и на нужную кнопку, после назначить 4tech скрипт. после нажать запустить, зайти в игру и устроиться на работу таксиста, сесть в машину, не нажимать на клавишу "2" нажать на кнопку скрипта, мышка автоматически нажмет на первого клиента в списке и примет его заказ, после едете на заказ и отвозите клиента, всё просто)</Description>
+    <Comment>\</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64
+MoveTo 514 255
+LeftDown 1
+Delay 70 ms
+LeftUp 1
+Delay 70 ms
+MoveTo 526 545
+Delay 10 ms
+LeftDown 1
+Delay 127 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

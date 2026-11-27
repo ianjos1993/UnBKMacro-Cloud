@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос для лучника играющий ресвап билдом па пение пз и на каждый кнопку можно с таким таймингом ставить ресвап пение </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 89 1
+Delay 90 ms
+KeyUp 89 1
+KeyDown 32 1
+KeyUp 32 1
+Delay 90 ms
+KeyDown 90 1
+KeyUp 90 1</Syntax>
+    </KeyDown>
+    <Software>Perfect World</Software>
+  </DefaultMacro>
+</Root>

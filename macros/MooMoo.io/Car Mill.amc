@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Сразу быстро ставит мельницы! Этот универсальный макрос может использоваться где угодно, даже на снегу, в отличие от других! Если он не работает поменяйте 5 на клавишу мельницы.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 34 1
+Delay 1 ms
+KeyUp 34 1
+Delay 1 ms
+KeyDown 44 1
+Delay 1 ms
+KeyUp 44 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Moomoo.io / Sploop.io</Software>
+  </DefaultMacro>
+</Root>

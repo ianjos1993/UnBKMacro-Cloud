@@ -1,0 +1,336 @@
+<Root>
+  <DefaultMacro>
+    <Major>Авто фарм на Снайпера</Major>
+    <Description>--------------------------------------------------------------------------Описание макроса-----------------------------------------------------------------------------------  Данный макрос позволит вам повышать уровень персонажа "Снайпер" в режиме АФК.
+--------------------------------------------------------------------Инструкция эксплуатация--------------------------------------------------------------------------- 1. Загрузите данный макрос в программе Keyran
+2. Назначьте нужную кнопку для работы макроса. Советую колесико мыши, или кнопку Пробела.
+3. Зайти в игру, следом нажать на [Параметры - Мышь] и изменить чуствительность мыши в игре на 1.00
+4. Вы должны скачать карту для фарма, под названием TestZSpawningZoneV30ULTIMATE[SOLO] и следом зайти на нее.
+5. Вам нужно взять класс Снайпер. купить арбалет и боеприпасы на этот арбалет,  затем пойти к спавнеру Clot и встать в белый круг.
+6. Вы должны навестись на головы Clot'ov так, чтобы если вы выстрелили с арбалета при этом убив всех Clot'ov в голову одним выстрелом.
+7. Нажать на кнопку E и нацелиться курсором мыши на кнопку [Полный Боезапас], затем нажмите Esc.
+8. Нажмите на кнопку которую забиндили этот макрос и наслаждайтесь.</Description>
+    <Comment>1234</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 150
+LeftUp 1
+Delay 1 s
+RightDown 1
+Delay 150 ms
+RightUp 1
+Delay 1 s
+MoveR 0 2
+Delay 1 s
+LeftDown 1
+Delay 150 ms
+LeftUp 1
+Delay 1 s
+RightDown 1
+Delay 150 ms
+RightUp 1
+Delay 1 s
+MoveR 0 3
+Delay 1 s
+LeftDown 1
+Delay 150 ms
+LeftUp 1
+Delay 1 s
+RightDown 1
+Delay 150 ms
+RightUp 1
+Delay 1 s
+MoveR 0 3
+Delay 1 s
+LeftDown 1
+Delay 150 ms
+LeftUp 1
+Delay 1 s
+RightDown 1
+Delay 150 ms
+RightUp 1
+Delay 1 s
+MoveR 0 3
+Delay 1 s
+LeftDown 1
+Delay 150 ms
+LeftUp 1
+Delay 1 s
+RightDown 1
+Delay 150 ms
+RightUp 1
+Delay 1 s
+MoveR 0 3
+Delay 1 s
+LeftDown 1
+Delay 150 ms
+LeftUp 1
+Delay 1 s
+RightDown 1
+Delay 150 ms
+RightUp 1
+Delay 1 s
+MoveR 0 3
+Delay 1 s
+LeftDown 1
+Delay 150
+LeftUp 1
+Delay 1 s
+RightDown 1
+Delay 150 ms
+RightUp 1
+Delay 1 s
+MoveR 0 2
+Delay 1 s
+LeftDown 1
+Delay 150
+LeftUp 1
+Delay 1 s
+RightDown 1
+Delay 150 ms
+RightUp 1
+Delay 1 s
+MoveR 0 3
+Delay 1 s
+LeftDown 1
+Delay 150
+LeftUp 1
+Delay 1 s
+RightDown 1
+Delay 150
+RightUp 1
+Delay 1 s
+MoveR 0 3
+Delay 1 s
+LeftDown 1
+Delay 150
+LeftUp 1
+Delay 1 s
+RightDown 1
+Delay 150
+RightUp 1
+Delay 1 s
+MoveR 0 3
+Delay 1 s
+LeftDown 1
+Delay 150
+LeftUp 1
+Delay 1 s
+RightDown 1
+Delay 150
+RightUp 1
+Delay 1 s
+MoveR 0 3
+Delay 1 s
+LeftDown 1
+Delay 150
+LeftUp 1
+Delay 1 s
+RightDown 1
+Delay 150
+RightUp 1
+Delay 1 s
+MoveR 0 2
+Delay 1 s
+LeftDown 1
+Delay 150
+LeftUp 1
+Delay 1 s
+RightDown 1
+Delay 150
+RightUp 1
+Delay 1 s
+MoveR 0 3
+Delay 1 s
+LeftDown 1
+Delay 150
+LeftUp 1
+Delay 1 s
+RightDown 1
+Delay 150
+RightUp 1
+Delay 1 s
+MoveR 0 3
+Delay 1 s
+LeftDown 1
+Delay 150
+LeftUp 1
+Delay 1 s
+RightDown 1
+Delay 150
+RightUp 1
+Delay 1 s
+MoveR 0 3
+Delay 1 s
+LeftDown 1
+Delay 150
+LeftUp 1
+Delay 1 s
+RightDown 1
+Delay 150
+RightUp 1
+Delay 1 s
+MoveR 0 3
+Delay 1 s
+LeftDown 1
+Delay 150
+LeftUp 1
+Delay 1 s
+RightDown 1
+Delay 150
+RightUp 1
+Delay 1 s
+MoveR 0 3
+Delay 1 s
+LeftDown 1
+Delay 150
+LeftUp 1
+Delay 1 s
+RightDown 1
+Delay 150
+RightUp 1
+Delay 1 s
+MoveR 0 2
+Delay 1 s
+LeftDown 1
+Delay 150
+LeftUp 1
+Delay 1 s
+RightDown 1
+Delay 150
+RightUp 1
+Delay 1 s
+MoveR 0 3
+Delay 1 s
+LeftDown 1
+Delay 150
+LeftUp 1
+Delay 1 s
+RightDown 1
+Delay 150
+RightUp 1
+Delay 1 s
+MoveR 0 3
+Delay 1 s
+LeftDown 1
+Delay 150
+LeftUp 1
+Delay 1 s
+RightDown 1
+Delay 150
+RightUp 1
+Delay 1 s
+MoveR 0 3
+Delay 1 s
+LeftDown 1
+Delay 150
+LeftUp 1
+Delay 1 s
+RightDown 1
+Delay 150
+RightUp 1
+Delay 1 s
+MoveR 0 3
+Delay 1 s
+LeftDown 1
+Delay 150
+LeftUp 1
+Delay 1 s
+RightDown 1
+Delay 150
+RightUp 1
+Delay 1 s
+MoveR 0 3
+Delay 1 s
+LeftDown 1
+Delay 150
+LeftUp 1
+Delay 1 s
+RightDown 1
+Delay 150
+RightUp 1
+Delay 1 s
+MoveR 0 3
+Delay 1 s
+LeftDown 1
+Delay 150
+LeftUp 1
+Delay 1 s
+RightDown 1
+Delay 150
+RightUp 1
+Delay 1 s
+MoveR 0 2
+Delay 1 s
+LeftDown 1
+Delay 150
+LeftUp 1
+Delay 1 s
+RightDown 1
+Delay 150
+RightUp 1
+Delay 1 s
+MoveR 0 3
+Delay 1 s
+LeftDown 1
+Delay 150
+LeftUp 1
+Delay 1 s
+RightDown 1
+Delay 150
+RightUp 1
+Delay 1 s
+MoveR 0 3
+Delay 1 s
+LeftDown 1
+Delay 150
+LeftUp 1
+Delay 1 s
+RightDown 1
+Delay 150
+RightUp 1
+Delay 1 s
+MoveR 0 3
+Delay 1 s
+LeftDown 1
+Delay 150
+LeftUp 1
+Delay 1 s
+RightDown 1
+Delay 150
+RightUp 1
+Delay 1 s
+MoveR 0 3
+Delay 1 s
+LeftDown 1
+Delay 150
+LeftUp 1
+Delay 1 s
+RightDown 1
+Delay 150
+RightUp 1
+Delay 1 s
+MoveR 0 2
+Delay 1 s
+KeyDown 8 1
+Delay 50 ms
+KeyUp 8 1
+Delay 50 ms
+LeftDown 1
+Delay 50
+LeftUp 1
+Delay 50
+KeyDown 41 1
+Delay 50
+KeyUp 41 1
+Delay 50</Syntax>
+    </KeyDown>
+    <Software>Killing Floor</Software>
+  </DefaultMacro>
+</Root>

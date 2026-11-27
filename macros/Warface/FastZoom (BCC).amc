@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>FrenS</Major>
+    <Description>Фастузм на ВСС,  Нажимаем ПКМ и сразу происходит выстрел. для удобства рекомендую поставить "удерживать" , вместо "нажать" прицел.В случае если стоит ,,нажать" и вы находитесь в прицеле уберет прицел и потом произведен будет выстрел. И после выстрела  вы будете автоматически входить обратно в прицел, вас нужно будет нажимать "ПКМ", чтоб выйти из прицела.Если стоит ,,удерживать"' этого всего не будет происходить и макрос будет "летать". :). Пользуйтесь, удачи!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 25 ms
+RightUp 1
+Delay 25 ms
+LeftDown 1
+Delay 26 ms
+LeftUp 1
+Delay 26 ms
+KeyDown 32 1
+Delay 25 ms
+KeyUp 32 1
+KeyDown 30 1
+Delay 25 ms</Syntax>
+    </KeyDown>
+    <Software>Warface</Software>
+  </DefaultMacro>
+</Root>

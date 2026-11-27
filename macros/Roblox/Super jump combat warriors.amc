@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>The Super Jump macro in Combat Warriors is a powerful tool that allows players to execute high and far-reaching jumps, providing tactical advantages in combat and traversal. This macro combines precise timing and key inputs to achieve a superhuman leap, enabling players to surprise enemies, access otherwise unreachable areas, and navigate the game world with greater efficiency.
+
+Macro Execution:
+
+Activation: To activate the Super Jump macro, the player must press and hold the designated activation key (e.g., Spacebar) for a short duration (e.g., 0.5 seconds). This initial key press prepares the character for the super jump.
+
+Charge: After the activation key is held for the required duration, the player must quickly release and re-press the activation key. This action initiates the charging phase, indicated by a visual cue (e.g., character crouching or glowing).
+
+Release: Once the charge is complete (typically signaled by a visual or audio cue), the player releases the activation key. This triggers the super jump, launching the character into the air with incredible force and height.
+
+Directional Control: During the jump, the player can control the direction of the jump by using the movement keys (e.g., W, A, S, D), allowing for mid-air adjustments and precise landings.
+
+Cooldown: To prevent spamming and maintain game balance, the Super Jump macro has a cooldown period between uses, during which the player cannot perform another super jump.</Description>
+    <Comment>its great </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+MiddleDown 1
+Delay 64
+MiddleUp 1
+Delay 64
+MiddleDown 1
+Delay 64
+MiddleUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>Fixa</Major>
+    <Description>Макрос на автохил + ТП            1920x1080  Для последнего адона
+
+Q-ХИЛ     F8-ТП 
+                           
+Встретите на пиратке, киньте в трейд  хлебушка.
+
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 10 0 178,0,0 255,255,255 1 830 1032
+GoColor 5 0 178,0,0 255,255,255 1 887 1032
+Delay 600 ms
+GoWhile 1 86400000
+KeyDown 20 1
+Delay 60 ms
+KeyUp 20 1
+Delay 340 ms
+GoWhile 1 86400000
+KeyDown 65 1
+Delay 64
+KeyUp 65 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>R2 online</Software>
+  </DefaultMacro>
+</Root>

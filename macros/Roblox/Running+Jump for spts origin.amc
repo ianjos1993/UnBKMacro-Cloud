@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Бег и прыжок одновременно! Установите свой курсор в безопасную область на экране, так как 1 раз в 19 минут курсор будет кликать по экрану дабы вас не выбрасило из игры :)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+KeyDown 26 1
+Delay 19 min
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+GoWhile 3 1000</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

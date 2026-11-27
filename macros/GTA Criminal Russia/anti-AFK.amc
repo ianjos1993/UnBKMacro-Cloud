@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>С этим макросом можно быть афк на сервере без кика. Суть Макроса втом, что он просто нажимает клавиши ходьбы с определенной задержкой, иногда надо проверять работу макроса, бывают недочеты</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 600000 ms
+KeyUp 26 1
+Delay 64 ms
+KeyDown 4 1
+Delay 600000 ms
+KeyUp 4 1
+Delay 64 ms
+KeyDown 22 1
+Delay 600000 ms
+KeyUp 22 1
+Delay 64 ms
+KeyDown 7 1
+Delay 600000 ms
+KeyUp 7 1
+Delay 64 ms
+KeyDown 26 1
+Delay 600000 ms
+KeyUp 26 1
+Delay 64 ms
+KeyDown 26 1
+Delay 600000 ms
+KeyUp 26 1
+Delay 64 ms
+KeyDown 4 1
+Delay 600000 ms
+KeyUp 4 1
+Delay 64 ms
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>GTA:RADMIR RP</Software>
+  </DefaultMacro>
+</Root>

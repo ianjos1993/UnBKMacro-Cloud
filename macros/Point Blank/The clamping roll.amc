@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Фаст-зум макрос для снайперок для Поинт Бланка. Делает за вас действия :1.Прицел. 2. выстрел. 3. на нож 4. обратно на снайперскую винтовку</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 21 ms
+LeftUp 1
+KeyDown 32 1
+Delay 11 ms
+KeyUp 32 1
+KeyDown 30 1
+Delay 11 ms
+KeyUp 30 1
+Delay 440 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>на 2 ставищь блинк и в настройках доты ставишь квикасты на предметы макрос дает ты блинкаешься где твой курсор или в ближайшую от него и сразу реарм</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 1 ms
+KeyUp 31 1
+Delay 1 ms
+KeyDown 6 1
+KeyUp 6 1
+Delay 64
+KeyDown 21 1
+Delay 1 ms
+KeyUp 21 1
+Delay 1 ms
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

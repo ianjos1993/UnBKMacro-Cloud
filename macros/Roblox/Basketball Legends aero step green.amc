@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос поможет вам всегда забивать красиво и точно! Если у вас что-то не получается, то попробуйте поменять задержку нажатия клавиши "E", а еще не зажимайте клавишу на которую у вас стоит макрос, а просто нажмите и смотрите, как ваш мяч летит в кольцо
+
+P.S.
+
+Для данного макроса вам нужна способность aero step</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 70 ms
+KeyUp 9 1
+Delay 64
+KeyDown 24 1
+Delay 11 ms
+KeyUp 24 1
+Delay 11 ms
+KeyDown 12 1
+Delay 23 ms
+KeyUp 12 1
+Delay 23 ms
+KeyDown 8 1
+Delay 336 ms
+KeyUp 8 1
+Delay 61 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major>Automatic Move Cursor To Shield Cordinates</Major>
+    <Description>This macro allows you to automatically equip a shield; simply change the appropriate coordinates on your monitor.
+
+-If you are playing at a resolution of 1440x1080, you don't need to make any changes.
+
+ Enjoy!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR 122 26
+MoveTo 1016 575
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Rise Online</Software>
+  </DefaultMacro>
+</Root>

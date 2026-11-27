@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major>Autosong second Client</Major>
+    <Description>Button Q for Quickstep
+Button S for Bloody chantey
+Button D for  Bulwark Ballad
+Button F for Ode to recovery 
+
+They will start again after 13 to 16 sec randomly , just put the Alt in your Horse and he will play song all the night </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 64 69 ms
+KeyUp 20 1
+Delay 2000 2500 ms
+KeyDown 22 1
+Delay 64 69 ms
+KeyUp 22 1
+Delay 2000 2500 ms
+KeyDown 7 1
+Delay 64 69 ms
+KeyUp 7 1
+Delay 2000 2500 ms
+KeyDown 9 1
+Delay 64 69 ms
+KeyUp 9 1
+Delay 13 16 s</Syntax>
+    </KeyDown>
+    <Software>Archeage</Software>
+  </DefaultMacro>
+</Root>

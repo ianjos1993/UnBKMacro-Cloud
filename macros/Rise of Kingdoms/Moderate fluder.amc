@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major>Чат-флудер | Набор в альянсы | Рассылка собщений</Major>
+    <Description>Флудер для Rise of Kingdoms — это несложный в освоении, но крайне полезный инструмент для любого игрока, следящего за социальной составляющей проекта.
+
+Инструкция:
+Выделите и скопируйте текст (предварительно убедитесь, что он помещается в окно чата), активируйте ввод сообщений в строке чата, активируйте скрипт.
+
+Макрос абсолютно безопасен из-за рандомной задержки перед повтором цикла (27–33 сек.) и умеренной задержки, благодаря чему вы не нарушаете правила проекта.
+
+Спасибо, что остаётесь с KeyRan!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 224 1
+Delay 100 ms
+KeyDown 25 1
+Delay 104 ms
+KeyUp 25 1
+Delay 55 ms
+KeyUp 224 1
+Delay 864 ms
+KeyDown 88 1
+Delay 103 ms
+KeyUp 88 1
+Delay 45 120 s</Syntax>
+    </KeyDown>
+    <Software>Rise of Kingdoms</Software>
+  </DefaultMacro>
+</Root>

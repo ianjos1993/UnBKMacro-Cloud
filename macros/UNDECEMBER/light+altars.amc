@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>данный макрос выполняет открытие ящиков и активацию алтарей
+
+горячие клавиши В ИГРЕ для стабильной работы макроса:
+
+открытия ящика клавиша F
+
+
+макрос ставить на любую клавишу не упомянутую выше. режим работы макроса, работать до повторного нажатия</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 64 120
+KeyUp 9 1
+Delay 200 250 ms</Syntax>
+    </KeyDown>
+    <Software>Undecember</Software>
+  </DefaultMacro>
+</Root>

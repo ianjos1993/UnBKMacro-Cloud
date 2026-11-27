@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>ХОТЬ 107 И ТАК БЬЕТ В ТОЧКУ С  ЭТИМ МАКРОСОМ БУДЕТ ГАРАЗДО УДОБНЕЕ СТРЕЛЯТЬ В ДАЛЬ
+РАЗБРОС УМЕНЬШЕН НА 90 %</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR 0 0
+GoWhile 1 10
+Delay 1 ms
+MoveR 0 0
+Delay 1 ms
+MoveTo 684 383
+Delay 1 ms
+GoWhile 2 20
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Stalker online</Software>
+  </DefaultMacro>
+</Root>

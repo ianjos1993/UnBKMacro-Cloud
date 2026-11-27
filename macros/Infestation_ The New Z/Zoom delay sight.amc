@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Зум + задержка прицела одновременно!
+
+Вам больше не придется зажимать "CapsLock" по умолчанию это задержка прицела в игре !
+Просто, биндите  на клавишу "8" в игре задержка прицела для снайперских винтовок, и ставите макрос на ПКМ мыши ! Теперь ПКМ зум прицела будет работать одновременно с задержкой прицела, очень удобно и просто !
+Макрос сделан так, что первое включается задержка прицела потом зум! Таким образом точность прицеливания будет увеличина !</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 37 1
+Delay 10 ms
+RightDown 1
+Delay 10 s
+RightUp 1
+Delay 10 s</Syntax>
+    </KeyDown>
+    <Software>Infestation: The New Z</Software>
+  </DefaultMacro>
+</Root>

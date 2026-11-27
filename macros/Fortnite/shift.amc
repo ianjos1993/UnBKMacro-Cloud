@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>этот макрос позволит вам присидать также быстор как и монграл если у вас присесть стоит на shift в редакторе можно поменять клавишу</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+KeyUp 225 1
+Delay 1 ms
+KeyDown 225 1
+KeyUp 225 1
+Delay 1 ms
+KeyDown 225 1
+KeyUp 225 1
+Delay 1 ms
+KeyDown 225 1
+KeyUp 225 1</Syntax>
+    </KeyDown>
+    <Software>fortnite</Software>
+  </DefaultMacro>
+</Root>

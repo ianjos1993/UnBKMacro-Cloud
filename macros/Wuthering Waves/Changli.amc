@@ -1,0 +1,83 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>* Macro for Changli's Resonance Skill (E) *
+
+*--------------------------------------------------------------*
+|It will do Tripartite Flames and auto attack in air for you.  |
+|                                                              |
+| NOTEs:                                                       |
+|  1. Please SET THE OPERATING MODE to RUN ONCE.               |
+|     Cuz the cooldown of characters' skills.                  |
+|  2. If macro gets bugged,change the JUMP DELAYS by youself.  |
+|     Cuz it depends on your FPS and LATENCY.                  |
+|  3. Ofc you should have the character.                       |
+*--------------------------------------------------------------*</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 65 ms
+KeyUp 8 1
+Delay 1500 ms
+KeyDown 44 1
+Delay 100 ms
+KeyUp 44 1
+Delay 100 ms
+KeyDown 44 1
+Delay 100 ms
+KeyUp 44 1
+Delay 100 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 200 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 200 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 200 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 200 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 200 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 200 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 200 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 200 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 200 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 200 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 200 ms</Syntax>
+    </KeyDown>
+    <Software>Wuthering Waves</Software>
+  </DefaultMacro>
+</Root>

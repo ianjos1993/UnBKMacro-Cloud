@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Комбо Dlight&gt;jump&gt;cd&gt;nair
+
+Работает на расскладке: 
+J- light
+пробел-jump
+L-dodge
+
+Работает в обе стороны
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 1
+KeyDown 13 1
+Delay 1
+KeyUp 22 1
+Delay 1
+KeyUp 13 1
+Delay 350 ms
+KeyDown 44 1
+Delay 1
+KeyUp 44 1
+Delay 1
+KeyDown 26 1
+Delay 1
+KeyDown 13 1
+Delay 1
+KeyUp 26 1
+Delay 1
+KeyUp 13 1
+Delay 1</Syntax>
+    </KeyDown>
+    <Software>Brawlhalla</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на включение 3 лица на сервере FastRP.При спаме макросом может рабоать некорректно. Больше не чего написать)                                                                                   </Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 61 1
+Delay 10 ms
+KeyUp 61 1
+Delay 10 ms
+MoveR -290 -135
+Delay 20 ms
+LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 10 ms
+KeyDown 61 1
+Delay 10 ms
+KeyUp 61 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Garry´s Mod</Software>
+  </DefaultMacro>
+</Root>

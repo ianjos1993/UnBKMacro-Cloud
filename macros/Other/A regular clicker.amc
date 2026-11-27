@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Стандартный кликер  потходит для всех приложений и игр
+\\\В случае если у вас буду фризы,лаги и вылеты из игр\приложений поменяйте задержку на 30\\\
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы 
+ВК тэг: dambler</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 25 ms
+LeftUp 1
+Delay 25 ms
+LeftDown 1
+Delay 25 ms
+LeftUp 1
+Delay 25 ms
+GoWhile 1 10000000</Syntax>
+    </KeyDown>
+    <Software>Другие</Software>
+  </DefaultMacro>
+</Root>

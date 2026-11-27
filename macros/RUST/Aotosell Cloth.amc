@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major>Sells automaticly Cloth (Bandit Town and Outpost)</Major>
+    <Description>This script is an musthave if you have an Clothfarm in Rust and want to sell your cloth in masses. To be able to sell in masses you have to sell +-210 cloth every 1 minute. A moreboring task to do without this skript doesn´t exist.
+
+ Resulution: 2.560 x 1.440 (WQHD)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 2390 889
+Delay 80 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 80 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 80 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 80 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 80 ms
+MoveTo 2287 824
+Delay 80 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 3 s
+GoColor 1 1 115,141,69 255,255,255 1 2302 817 34 264 1 0
+Goto 25</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This is just a little AFK script to help keep from getting bootted for inactivity. You will spin in cirlces for now. I will change later however to add jumping and crouching. I would really like to add an emote in there well see if i can. Anyway pretty simple just bind to an unused key. Tap that button before you get off, then tap it again when you ccome back. Easy Peasy Lemon Squeezy.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 64 ms
+MoveR 6 0
+Delay 64 64 ms
+MoveR 12 0
+Delay 64 64 ms
+MoveR 18 0
+Delay 64 64 ms
+MoveR 24 0
+Delay 64 64 ms
+KeyDown 44 1
+Delay 64 64 ms
+KeyUp 44 1
+Delay 64 64 ms
+MoveR 30 0
+Delay 64 64 ms
+MoveR 36 0
+Delay 64 64 ms
+MoveR 42 0
+Delay 64 64 ms
+MoveR 48 0
+Delay 64 64 ms
+MoveR 54 0
+Delay 64 64 ms
+KeyDown 224 1
+Delay 64 64 ms
+KeyUp 224 1
+Delay 64 64 ms
+MoveR 60 0
+Delay 64 64 ms
+MoveR 66 0
+Delay 64 64 ms
+MoveR 72 0
+Delay 64 64 ms
+RightUp 1
+Delay 64 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

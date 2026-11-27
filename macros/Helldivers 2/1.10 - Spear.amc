@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Macro for the Support Weapon FAF-14 Spear is the pinnacle of anti-tank warfare, a homing missile that locks onto its target with deadly precision before unleashing its destructive payload.
+
+In the game settings, configure CTRL and arrow keys to prepare the stratagem.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 40 ms
+KeyDown 81 1
+Delay 40 ms
+KeyUp 81 1
+Delay 40 ms
+KeyDown 81 1
+Delay 40 ms
+KeyUp 81 1
+Delay 40 ms
+KeyDown 82 1
+Delay 40 ms
+KeyUp 82 1
+Delay 40 ms
+KeyDown 81 1
+Delay 40 ms
+KeyUp 81 1
+Delay 40 ms
+KeyDown 81 1
+Delay 40 ms
+KeyUp 81 1
+Delay 40 ms
+KeyUp 224 1</Syntax>
+    </KeyDown>
+    <Software>Helldivers 2</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,61 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Templar Macro guide  
+Vicious Strike (R): Keep this basic skill in its default slot.
+Pummel (T): Keep this in the T slot, but ensure it is always at the top of the priority list. (For example: If you add Annihilate to the T slot, set Annihilate to Slot 1 and Pummel to Slot 2 by default).
+Num 1:  placing Poach in Slot 1 and Shield Rush in Slot 2.
+How it works: Push → Eva → Shield Rush → Stun.
+Num 2:
+1 - Shield Smite
+2 - Warding Strike
+3 - Annihilate
+4 - Judgment
+Note: Since Judgment has a low cooldown, you can also consider placing it in the T slot.
+Stigma &amp; CC 
+Stigma Skills: You can place these freely in slots 5, 6, 7, or 8, as these skills are already very effective on their own.
+CC Management: Templars have many CC (Crowd Control) abilities. I suggest using a Stun-Damage rotation—alternating between one CC skill and one high-damage skill—to maximize your total damage output.
+Punishment: Since this is a Charge Skill,  mapping it to Q and triggering it manually based on the situation.
+Example Combo: Poach → Stun → Punishment (CC the opponent to ensure the Charge Skill hits for maximum damage).</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyUp 31 1
+KeyDown 21 1
+Delay 64
+KeyDown 23 1
+Delay 1500 ms
+KeyUp 23 1
+Delay 64
+KeyUp 21 1
+KeyDown 34 1
+Delay 64
+KeyDown 35 1
+Delay 64
+KeyUp 35 1
+Delay 64
+KeyUp 34 1
+Delay 64
+KeyDown 36 1
+Delay 64
+KeyUp 36 1
+Delay 64
+KeyDown 37 1
+Delay 64
+KeyUp 37 1
+KeyDown 9 1
+Delay 64
+KeyUp 9 1</Syntax>
+    </KeyDown>
+    <Software>Aion 2</Software>
+  </DefaultMacro>
+</Root>

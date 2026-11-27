@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major>lugtelha</Major>
+    <Description>Описание: Этот макрос специально разработан для использования в Rust с винтовкой M39 и 8-кратным прицелом на разрешении экрана 1920x1080. Он нацелен на достижение максимальной точности в пределах 90-99% в сочетании с легитимным стилем игры. Чувствительность настроена, чтобы соответствовать базовой чувствительности в 0.4 (input.sensitivity 0.35) и увеличенной чувствительности прицеливания в 0.6 (input.ads_sensitivity 0.61), обеспечивая баланс между контролем и точностью.
+
+Инструкция по активации:
+1. Установите значение DPI на 400. (Для лучшей управляемости.)
+2. Установите разрешение экрана в Rust на 1920x1080.
+3. Откройте консоль в игре.
+4. Введите input.sensitivity 0.35 для установки стандартной чувствительности.
+5. Введите input.ads_sensitivity 0.61 для установки чувствительности в прицеле.
+6. Активируйте макрос для использования с M39 и 8-кратным прицелом.
+
+Предупреждение: Использовать макрос нужно строго в положении сидя!
+
+Видео по использованию: https://youtu.be/e66Pn0sgujA</Description>
+    <Comment>Видео по использованию: https://youtu.be/e66Pn0sgujA</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR -8 14
+Delay 4 ms
+MoveR -8 14
+Delay 4 ms
+MoveR -8 14
+Delay 4 ms
+MoveR -8 14
+Delay 4 ms
+MoveR -8 14
+Delay 4 ms
+MoveR -8 14
+Delay 4 ms
+MoveR -8 14
+Delay 4 ms
+MoveR -8 14
+Delay 4 ms
+MoveR -8 14
+Delay 4 ms
+MoveR -8 14
+LeftUp 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

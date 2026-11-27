@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>Double-Edit (Build)</Major>
+    <Description>This is a macro to auto-build the components for a double-edit.
+It will only build not edit because changing sensitivity will be too hard for the user/you.
+My binds: C ramp Z cone V floor</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+Delay 64
+KeyUp 6 1
+Delay 64
+KeyDown 25 1
+Delay 64
+KeyUp 25 1
+Delay 64
+KeyDown 29 1
+Delay 64
+KeyUp 29 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,77 @@
+<Root>
+  <DefaultMacro>
+    <Major>5 ганов до 0 процентов!</Major>
+    <Description>Этот макрос для Keyran создан для быстрого износа оружия до 0% в GTA 5 RP.
+
+Макрос рассчитан на разрешение экрана 1360×768 (HD).
+
+Он автоматически обрабатывает 5 пушек, выполняя до 500 циклов для каждой. Патроны нужно брать примерно на 3-4 пушки, вдруг не доделает, а количество циклов можно уменьшить или увеличить в зависимости от типа оружия. Все точки нажатия легко изменить через редактор Keyran, подстроив координаты под ваш интерфейс. Делал для АК-47
+
+Меньше ручной работы — больше времени на любимую игру!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 728 384
+LeftDown 1
+Delay 60 ms
+LeftUp 1
+MoveTo 753 400
+Delay 60 ms
+LeftDown 1
+Delay 60 ms
+LeftUp 1
+Delay 60 ms
+GoWhile 1 500
+MoveTo 794 377
+LeftDown 1
+Delay 60 ms
+LeftUp 1
+MoveTo 818 391
+Delay 60 ms
+LeftDown 1
+Delay 60 ms
+LeftUp 1
+Delay 60 ms
+GoWhile 12 500
+MoveTo 857 381
+LeftDown 1
+Delay 60 ms
+LeftUp 1
+MoveTo 866 388
+Delay 60 ms
+LeftDown 1
+Delay 60 ms
+LeftUp 1
+Delay 60 ms
+GoWhile 23 500
+MoveTo 922 378
+LeftDown 1
+Delay 60 ms
+LeftUp 1
+MoveTo 942 392
+Delay 60 ms
+LeftDown 1
+Delay 60 ms
+LeftUp 1
+Delay 60 ms
+GoWhile 34 500
+MoveTo 985 375
+LeftDown 1
+Delay 60 ms
+LeftUp 1
+MoveTo 995 381
+Delay 60 ms
+LeftDown 1
+Delay 60 ms
+LeftUp 1
+Delay 60 ms
+GoWhile 45 500</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

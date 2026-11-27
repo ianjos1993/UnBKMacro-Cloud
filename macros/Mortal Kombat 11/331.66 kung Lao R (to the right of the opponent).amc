@@ -1,0 +1,173 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Комбо за Кунг Лао. Для активации нужно занять положение справа от противника упор.
+17 ударов, 331.66 урона
+1. Нажать J
+2. Ожидать 50 мс
+3. Отпустить J
+4. Нажать K
+5. Ожидать 50 мс
+6. Отпустить K
+7. Нажать I
+8. Ожидать 70 мс
+9. Отпустить I
+10. Нажать S
+11. Ожидать 30 мс
+12. Нажать A
+13. Нажать I
+14. Ожидать 100 мс
+15. Отпустить I
+16. Отпустить A
+17. Отпустить S
+18. Ожидать 50 мс
+19. Нажать D
+20. Ожидать 50 мс
+21. Отпустить D
+22. Нажать D
+23. Ожидать 50 мс
+24. Отпустить D
+25. Нажать W
+26. Нажать K
+27. Ожидать 70 мс
+28. Отпустить K
+29. Отпустить W
+30. Нажать J
+31. Ожидать 70 мс
+32. Отпустить J
+33. Нажать K
+34. Ожидать 70 мс
+35. Отпустить K
+36. Нажать Space
+37. Ожидать 70 мс
+38. Отпустить Space
+39. Нажать D
+40. Нажать A
+41. Нажать J
+42. Ожидать 120 мс
+43. Отпустить J
+44. Отпустить A
+45. Отпустить D
+46. Нажать S
+47. Нажать J
+48. Ожидать 50 мс
+49. Отпустить J
+50. Отпустить S
+51. Нажать S
+52. Нажать I
+53. Ожидать 70 мс
+54. Отпустить I
+55. Отпустить S
+56. Нажать R
+57. Ожидать 60 мс
+58. Отпустить R
+59. Нажать A
+60. Нажать I
+61. Ожидать 70 мс
+62. Отпустить I
+63. Отпустить A
+64. Нажать L
+65. Ожидать 70 мс
+66. Отпустить L
+67. Нажать W
+68. Нажать K
+69. Ожидать 70 мс
+70. Отпустить K
+71. Отпустить W
+72. Нажать O
+73. Нажать P
+74. Ожидать 70 мс
+75. Отпустить O
+76. Отпустить P
+
+Особенности макроса:
+ 1. Задержки увеличены: Между всеми действиями установлены задержки от 50 до 120 мс для плавной работы.
+ 2. Усиленные приёмы: Учтены действия с удерживанием (например, усиленные приёмы или броски).</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 13 1
+Delay 50 ms
+KeyUp 13 1
+KeyDown 14 1
+Delay 50 ms
+KeyUp 14 1
+KeyDown 12 1
+Delay 70 ms
+KeyUp 12 1
+KeyDown 22 1
+Delay 30 ms
+KeyDown 4 1
+KeyDown 12 1
+Delay 100 ms
+KeyUp 12 1
+KeyUp 4 1
+KeyUp 22 1
+Delay 50 ms
+KeyDown 7 1
+Delay 50 ms
+KeyUp 7 1
+KeyDown 7 1
+Delay 50 ms
+KeyUp 7 1
+KeyDown 26 1
+KeyDown 14 1
+Delay 70 ms
+KeyUp 14 1
+KeyUp 26 1
+KeyDown 13 1
+Delay 70 ms
+KeyUp 13 1
+KeyDown 14 1
+Delay 70 ms
+KeyUp 14 1
+KeyDown 44 1
+Delay 70 ms
+KeyUp 44 1
+KeyDown 7 1
+KeyDown 4 1
+KeyDown 13 1
+Delay 120 ms
+KeyUp 13 1
+KeyUp 4 1
+KeyUp 7 1
+KeyDown 22 1
+KeyDown 13 1
+Delay 50 ms
+KeyUp 13 1
+KeyUp 22 1
+KeyDown 22 1
+KeyDown 12 1
+Delay 70 ms
+KeyUp 12 1
+KeyUp 22 1
+KeyDown 21 1
+Delay 60 ms
+KeyUp 21 1
+KeyDown 4 1
+KeyDown 12 1
+Delay 70 ms
+KeyUp 12 1
+KeyUp 4 1
+KeyDown 15 1
+Delay 70 ms
+KeyUp 15 1
+KeyDown 26 1
+KeyDown 14 1
+Delay 70 ms
+KeyUp 14 1
+KeyUp 26 1
+KeyDown 18 1
+KeyDown 19 1
+Delay 70 ms
+KeyUp 18 1
+KeyUp 19 1</Syntax>
+    </KeyDown>
+    <Software>Mortal Kombat 11</Software>
+  </DefaultMacro>
+</Root>

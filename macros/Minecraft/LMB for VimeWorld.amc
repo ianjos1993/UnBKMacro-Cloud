@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Это лкм макрос для майнкрафта,а имено для сервера VimeWorld этот макрос кликает 12-14 кпс.Хорошо подходит для скайварса и дуэлей.Как пользываться: Просто включаете макрос и он сам качинает кликать.А на этом все все удачи хорошей игры </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 1 ms
+LeftUp 1
+KeyDown 37 1
+Delay 1 ms
+KeyUp 37 1
+Delay 4 ms
+KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+Delay 4 ms
+KeyDown 37 1
+Delay 3 ms
+KeyUp 37 1
+Delay 3 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

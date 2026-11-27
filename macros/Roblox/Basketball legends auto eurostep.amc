@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>eurostep</Major>
+    <Description>Этот макрос позволяет сделать вам очень хороший трюк (Все противники будут в шоке) Его можно использовать как и против 70 OVR так и против 99 OVR
+
+This macro allows you to do a very good trick (All opponents will be shocked) It can be used both against 70 OVR and against 99 OVR</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyDown 9 1
+Delay 104 ms
+KeyUp 9 1
+Delay 366 ms
+KeyDown 8 1
+Delay 329 ms
+KeyUp 8 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

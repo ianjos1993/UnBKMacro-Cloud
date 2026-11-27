@@ -1,0 +1,86 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>фарм соло цели (мобы)
+1 изъятие
+2 дыхание
+3 касание
+Q тени
+Е Вирус
+0 Лихорадка
+4 нейротоксин
+
+- неназначенная клавиша т.к. после нейротоксина он не дает юзануть изъятие, Эта клавиша фиксит эту проблему.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 1 s
+KeyUp 30 1
+Delay 500 ms
+KeyDown 31 1
+Delay 90 ms
+KeyUp 31 1
+Delay 570 ms
+KeyDown 32 1
+Delay 90 ms
+KeyUp 32 1
+Delay 650 ms
+KeyDown 20 1
+Delay 90 ms
+KeyUp 20 1
+Delay 950 ms
+KeyDown 8 1
+Delay 90 ms
+KeyUp 8 1
+Delay 950 ms
+KeyDown 39 1
+Delay 150 ms
+KeyUp 39 1
+Delay 950 ms
+KeyDown 33 1
+Delay 100 ms
+KeyUp 33 1
+Delay 650 ms
+KeyDown 45 1
+Delay 64
+KeyUp 45 1
+Delay 300 ms
+KeyDown 30 1
+Delay 700 ms
+KeyUp 30 1
+Delay 700 ms
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 700 ms
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 700 ms
+KeyDown 45 1
+Delay 64
+KeyUp 45 1
+Delay 64
+KeyDown 45 1
+Delay 64
+KeyUp 45 1
+Delay 64
+KeyDown 45 1
+Delay 64
+KeyUp 45 1
+Delay 64
+KeyDown 45 1
+Delay 64
+KeyUp 45 1
+Delay 64
+Goto 13</Syntax>
+    </KeyDown>
+    <Software>Аллоды онлайн</Software>
+  </DefaultMacro>
+</Root>

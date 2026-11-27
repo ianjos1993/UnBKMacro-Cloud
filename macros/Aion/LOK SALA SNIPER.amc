@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос позволяет залочить (заблокировать) немоту на персонажах магичиских классов состоит из 3 умений: последний выстрел+проникающий выстрел+молчание</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 226 1
+KeyUp 226 1
+KeyDown 20 1
+KeyUp 20 1
+Delay 64
+KeyDown 226 1
+KeyUp 226 1
+KeyDown 8 1
+KeyUp 8 1
+Delay 64
+KeyDown 226 1
+KeyUp 226 1
+KeyDown 21 1
+KeyUp 21 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>AION</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major>Спам анмиациями | 2560х1080</Major>
+    <Description>Спам анимациями под разрешение 2560х1080. F1 -&gt; любая вкладка анимаций -&gt; запуск скрипта. За большое количество запросов возможен кик с сервера!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 2359 409
+Delay 100 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+MoveTo 2362 463
+Delay 100 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>Left side hop</Major>
+    <Description>jump to the left and goes back up really fast. often used in no coin challenges or trying to dodge obstacles.
+With the perfect timing and everything ready to use, i dont recommened turning it down because it will not reach the ground but you can expirment on it</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 80 1
+Delay 10 ms
+KeyDown 81 1
+Delay 51 ms
+KeyUp 81 1
+Delay 16 ms
+KeyUp 80 1
+Delay 90 ms
+KeyDown 79 1
+Delay 20 ms
+KeyDown 82 1
+Delay 45 ms
+KeyUp 82 1
+Delay 6 ms
+KeyUp 79 1</Syntax>
+    </KeyDown>
+    <Software>Subway Surfers</Software>
+  </DefaultMacro>
+</Root>

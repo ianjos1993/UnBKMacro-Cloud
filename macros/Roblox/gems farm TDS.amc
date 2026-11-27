@@ -1,0 +1,177 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Фарм гемов в хардкор на карте Wretched Front +-1000 гемов/час без модификаторов и билетов ускорения
+Требования:
+1. Разрешение экрана - 1920 * 1080
+1. Миниганнер в первом слоте (лучше золотой)
+2. Скаут/оператор во 2/3 слот (при необходимости фарма ХР), джагернаут только если есть прокачка дерева навыков
+3. Направить экран на предпоследний виток дороги находясь на  камне, на котором спавниться игрок с камерой, приближенной на половину от максимально возможного</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1015 167
+Delay 64
+GoColor 5 2 28,153,0 43,235,0 0 1920 1080 1 1 1 0
+Goto 3
+Delay 1500 ms
+MoveR 0 3
+Delay 10 ms
+GoWhile 6 4
+MoveR 0 -3
+Delay 10 ms
+GoWhile 9 4
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5000 ms
+GoColor 19 2 28,153,0 43,235,0 0 1920 1080 1 1 1 0
+Goto 17
+Delay 150 ms
+MoveR 3 0
+Delay 10 ms
+GoWhile 20 4
+MoveR -3 0
+Delay 10 ms
+GoWhile 23 4
+LeftDown 1
+Delay 64
+LeftUp 1
+GoWhile 16 3
+Delay 64
+MoveR 3 5
+Delay 64
+GoWhile 31 15
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 500 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1000 ms
+MoveR -3 -5
+Delay 64
+GoWhile 42 15
+Delay 4000 ms
+GoColor 48 2 28,153,0 43,235,0 0 1920 1080 1 1 1 0
+Goto 46
+Delay 150 ms
+MoveR 3 0
+Delay 10 ms
+GoWhile 49 4
+MoveR -3 0
+Delay 10 ms
+GoWhile 52 4
+LeftDown 1
+Delay 64
+LeftUp 1
+GoWhile 45 2
+Delay 2000 ms
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 5000 ms
+GoColor 66 2 28,153,0 43,235,0 0 1920 1080 1 1 1 0
+Goto 64
+Delay 150 ms
+MoveR 3 0
+Delay 10 ms
+GoWhile 67 4
+MoveR -3 0
+Delay 10 ms
+GoWhile 70 4
+LeftDown 1
+Delay 64
+LeftUp 1
+GoWhile 63 5
+Delay 2000 ms
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 1500 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 5000 ms
+GoColor 88 2 28,153,0 43,235,0 0 1920 1080 1 1 1 0
+Goto 86
+Delay 150 ms
+MoveR 3 0
+Delay 10 ms
+GoWhile 89 4
+MoveR -3 0
+Delay 10 ms
+GoWhile 92 4
+LeftDown 1
+Delay 64
+LeftUp 1
+GoWhile 85 6
+Delay 1500 ms
+MoveR 3 5
+Delay 64
+GoWhile 100 15
+MoveR 0 4
+Delay 64
+GoWhile 103 20
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 4000 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveR 0 4
+Delay 64
+GoWhile 114 20
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 4500 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveR 0 -4
+Delay 64
+GoWhile 125 40
+MoveR -3 -5
+Delay 64
+GoWhile 128 15
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveR -1 3
+Delay 5 ms
+GoWhile 135 240
+GoColor 140 2 28,158,46 39,219,64 0 1920 1080 1 1 1 0
+Goto 138
+Delay 1500 ms
+MoveR 0 -2
+Delay 10 ms
+GoWhile 141 4
+MoveR 0 2
+Delay 10 ms
+GoWhile 144 4
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveR 1 -3
+Delay 5 ms
+GoWhile 152 240
+Delay 5000 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

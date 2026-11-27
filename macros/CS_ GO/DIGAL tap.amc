@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Тапы без отдачи на desert Eagle. Что бы изпользывать нажмите заданую клавишу что бы прекратить нажмите повторно.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+LeftUp 1
+Delay 500 ms
+LeftDown 1
+LeftUp 1
+Delay 500
+LeftDown 1
+LeftUp 1
+Delay 500
+LeftDown 1
+LeftUp 1
+Delay 500
+LeftDown 1
+LeftUp 1
+Delay 500
+LeftDown 1
+LeftUp 1
+Delay 500
+LeftDown 1
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>CS: GO</Software>
+  </DefaultMacro>
+</Root>

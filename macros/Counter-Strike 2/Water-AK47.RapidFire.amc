@@ -1,0 +1,84 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Сбиваем  разброс  (Авто рекоил)  в   зажиме  на Калаше.
+Работает   только  на  сенс  2.52!
+При разрешении 1280х960!
+Прямые  руки  и  макрос  =  Глобус  
+
+
+</Description>
+    <Comment> by water! 
+</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 98 ms
+MoveR 0 8
+Delay 97 ms
+MoveR 5 21
+Delay 98 ms
+MoveR -5 26
+Delay 100 ms
+MoveR 0 23
+Delay 96 ms
+MoveR 10 33
+Delay 98 ms
+MoveR 12 20
+Delay 98 ms
+MoveR 8 33
+Delay 98 ms
+MoveR -14 15
+Delay 98 ms
+MoveR -35 4
+Delay 98 ms
+MoveR -16 2
+Delay 98 ms
+MoveR 5 3
+Delay 98 ms
+MoveR -12 2
+Delay 98 ms
+MoveR -18 2
+Delay 98 ms
+MoveR -10 2
+Delay 98 ms
+MoveR 35 0
+Delay 98 ms
+MoveR 25 0
+Delay 98 ms
+MoveR 15 0
+Delay 98 ms
+MoveR 27 10
+Delay 98 ms
+MoveR 20 -10
+Delay 98 ms
+MoveR 0 2
+Delay 98 ms
+MoveR 0 2
+Delay 98 ms
+MoveR 0 2
+Delay 98 ms
+MoveR 0 2
+Delay 98 ms
+MoveR 0 -2
+Delay 98 ms
+MoveR 0 -2
+Delay 98 ms
+MoveR -30 -5
+Delay 98 ms
+MoveR -30 -5
+Delay 98 ms
+MoveR 0 -5
+Delay 98 ms
+MoveR 0 -2
+Delay 980 ms
+Delay 980 ms</Syntax>
+    </KeyDown>
+    <Software>Counter-Strike 2</Software>
+  </DefaultMacro>
+</Root>

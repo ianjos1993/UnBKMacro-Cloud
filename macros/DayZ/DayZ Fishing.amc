@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major>Fishing macro</Major>
+    <Description>Fishing macro bound to numpad 1 key that presses and holds  left mouse button for 40 seconds, releases then repeats after 5 seconds. This loops 100 times but the lure will need to be replaced by then. Suggest setting activation hotkey to number pad 2 and using this macro on number pad 1.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 89 1
+LeftDown 1
+Delay 40 s
+LeftUp 1
+Delay 5 s
+GoWhile 2 100
+KeyUp 89 1</Syntax>
+    </KeyDown>
+    <Software>DayZ</Software>
+  </DefaultMacro>
+</Root>

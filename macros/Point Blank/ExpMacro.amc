@@ -1,0 +1,53 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на кач
+Качатся в режиме зомби, все автоматически
+1.Создаете комнату
+2.Запускаете.
+3.Макрос делает все дальше сам
+4.Необходим полноэкранный режим! (1920x1080)
+</Description>
+    <Comment>Мой самый сложный макрос, работал долго, оцените</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 62 1
+Delay 64 ms
+KeyUp 62 1
+Delay 64 ms
+LeftDown 1
+MoveR 721 900
+Delay 100 ms
+MoveR 721 900
+Delay 100 ms
+MoveR 721 900
+LeftUp 1
+Delay 40 ms
+KeyDown 33 1
+Delay 40 ms
+KeyUp 33 1
+Delay 40 ms
+Delay 64 ms
+KeyDown 40 1
+Delay 40 ms
+Delay 40 ms
+Delay 64 ms
+KeyUp 40 1
+Delay 64 ms
+MoveTo 1345 30
+Delay 2 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+GoWhile 5 4
+GoWhile 5 15</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

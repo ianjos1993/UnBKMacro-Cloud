@@ -1,0 +1,119 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Прокачка на камне в локации "Башня Ленне", подходит для тех, кто ещё не дошел до замка Могвинов.
+
+Обязательно в главный слот использования ставим Костяной свисток (вызов коня)
+Телепортируемся на локацию "Башня Ленне"
+Запускаем скрипт
+
+Windows 11: драйвер только под клавиатуру, макрос мышь не использует
+При использовании мышь не трогать, иначе измените бег коня
+
+Скрипт отрабатывает около 27 секунд, не считая загрузки локации
+Если PC слабый/сильный, и телепортирование грузится медленно/бытро, измените первую строку макроса (увиличте/уменьшите время ожидания)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 7900 ms
+KeyDown 21 1
+Delay 80 ms
+KeyUp 21 1
+Delay 1824 ms
+KeyDown 7 1
+Delay 1271 ms
+KeyDown 44 1
+Delay 688 ms
+KeyDown 26 1
+Delay 7 ms
+KeyUp 44 1
+Delay 40 ms
+KeyUp 7 1
+Delay 151 ms
+KeyDown 4 1
+Delay 463 ms
+KeyUp 4 1
+Delay 623 ms
+KeyDown 4 1
+Delay 143 ms
+KeyUp 4 1
+Delay 712 ms
+KeyDown 44 1
+Delay 2479 ms
+KeyDown 7 1
+Delay 72 ms
+KeyUp 7 1
+Delay 1120 ms
+KeyUp 44 1
+Delay 551 ms
+KeyDown 44 1
+Delay 136 ms
+KeyDown 4 1
+Delay 255 ms
+KeyUp 4 1
+Delay 24 ms
+KeyUp 44 1
+Delay 591 ms
+KeyDown 4 1
+Delay 112 ms
+KeyUp 4 1
+Delay 255 ms
+KeyDown 4 1
+Delay 104 ms
+KeyUp 4 1
+Delay 671 ms
+KeyDown 7 1
+Delay 15 ms
+KeyUp 26 1
+Delay 551 ms
+KeyDown 22 1
+Delay 399 ms
+KeyUp 22 1
+Delay 136 ms
+KeyUp 7 1
+Delay 360 ms
+KeyDown 26 1
+Delay 223 ms
+KeyDown 44 1
+Delay 55 ms
+KeyDown 7 1
+Delay 415 ms
+KeyUp 26 1
+Delay 520 ms
+KeyUp 44 1
+Delay 560 ms
+KeyUp 7 1
+Delay 191 ms
+KeyDown 26 1
+Delay 112 ms
+KeyDown 4 1
+Delay 495 ms
+KeyUp 26 1
+Delay 24 ms
+KeyUp 4 1
+Delay 3104 ms
+KeyDown 10 1
+Delay 87 ms
+KeyUp 10 1
+Delay 1416 ms
+KeyDown 9 1
+Delay 71 ms
+KeyUp 9 1
+Delay 1232 ms
+KeyDown 8 1
+Delay 103 ms
+KeyUp 8 1
+Delay 528 ms
+KeyDown 8 1
+Delay 95 ms
+KeyUp 8 1
+GoWhile 1 9999</Syntax>
+    </KeyDown>
+    <Software>Elden Ring</Software>
+  </DefaultMacro>
+</Root>

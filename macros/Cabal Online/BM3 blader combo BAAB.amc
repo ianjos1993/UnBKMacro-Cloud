@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Комбо для 3 батл мода на сина на 20 крит дмг и 4% ампа ( сильнее мейна если у вас крит дмг разогнан на 250%+)
+Условия - иметь ещё панель специально для БМ3
+1) скилл А на кнопке - 1
+2) Скилл В на кнопке - 2
+3) Триггер комбо на кнопке - 3
+Используя настройки макроса ( а именно цикл) сможете в афк лупить в 3 батл моде, как и во втором, так же не придётся каждый раз гуглить комбу, если вы забыли</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 83 ms
+KeyUp 31 1
+Delay 1023 ms
+KeyDown 30 1
+Delay 108 ms
+KeyUp 30 1
+Delay 955 ms
+KeyDown 30 1
+Delay 101 ms
+KeyUp 30 1
+Delay 1003 ms
+KeyDown 31 1
+Delay 97 ms
+KeyUp 31 1
+Delay 983 ms
+KeyDown 32 1
+Delay 65 ms
+KeyUp 32 1</Syntax>
+    </KeyDown>
+    <Software>Cabal Online</Software>
+  </DefaultMacro>
+</Root>

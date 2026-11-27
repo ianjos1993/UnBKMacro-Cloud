@@ -1,0 +1,99 @@
+<Root>
+  <DefaultMacro>
+    <Major>Panda combo macro 2</Major>
+    <Description>Макрос позволяет выполнять combo за Panda.
+Видео демонстрации работы макроса: https://youtu.be/7EQyEKteunQ
+
+Панда — персонаж серии файтингов Tekken. Как следует из ее имени, она гигантская панда и верный питомец, лучший друг и телохранитель Лин Сяоюй. Будучи почти идентичной Куме, Панда имеет те же сильные и слабые стороны в своем игровом процессе. У нее более длинные руки, чем у большинства актеров, что делает ее способной наносить сильные удары с большого расстояния. У нее, как и у Кумы, также нестандартный хитбокс, поэтому в некоторых случаях другим персонажам может быть сложнее наносить удары, что вынуждает противника адаптироваться. Из «Стойки охотничьего медведя » Панда способна наносить путаницы с большим уроном, которые могут сбить противника с толку. Эта позиция также обеспечивает некоторую уклончивость. Панда также имеет те же слабости, что и Кума: меньшая дальность ее ударов ногами из-за ее меньших ног, способность выполнять против нее комбо с большим уроном, особенно после удара о стену из-за ее размера, и слабые возможности броска назад.
+
+Тестирование макроса проводились на последнем патче игры на 30.08.2023 (5.01 патч)
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#pandatekken7 #tekken7 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 9 ms
+KeyDown 4 1
+Delay 19 ms
+KeyDown 77 1
+Delay 110 ms
+KeyUp 77 1
+Delay 49 ms
+KeyDown 77 1
+Delay 119 ms
+KeyUp 77 1
+Delay 119 ms
+KeyUp 22 1
+Delay 40 ms
+KeyDown 76 1
+Delay 9 ms
+KeyUp 4 1
+Delay 80 ms
+KeyUp 76 1
+Delay 79 ms
+KeyDown 76 1
+Delay 80 ms
+KeyUp 76 1
+Delay 79 ms
+KeyDown 76 1
+Delay 90 ms
+KeyUp 76 1
+Delay 90 ms
+KeyDown 76 1
+Delay 70 ms
+KeyUp 76 1
+Delay 79 ms
+KeyDown 76 1
+Delay 109 ms
+KeyUp 76 1
+Delay 80 ms
+KeyDown 76 1
+Delay 40 ms
+KeyUp 76 1
+Delay 99 ms
+KeyDown 4 1
+Delay 70 ms
+KeyDown 73 1
+Delay 79 ms
+KeyUp 73 1
+Delay 100 ms
+KeyDown 73 1
+Delay 70 ms
+KeyUp 73 1
+Delay 99 ms
+KeyDown 73 1
+Delay 60 ms
+KeyUp 73 1
+Delay 80 ms
+KeyDown 73 1
+Delay 99 ms
+KeyUp 73 1
+Delay 120 ms
+KeyUp 4 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 7</Software>
+  </DefaultMacro>
+</Root>

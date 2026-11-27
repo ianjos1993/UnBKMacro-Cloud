@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major>For 2 account</Major>
+    <Description>You just need to have the two windows separated on the same screen and let the magic happen ! This macro aims to just accept raid by pressing enter so as long as the windows are in the right position everything should work just fine.
+
+DETAILS :
+
+Screen resolution : 1920x1080
+DPI : 800
+Sensitivity : 1
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1000 ms
+MoveTo 1171 231
+Delay 64 ms
+RightDown 1
+Delay 64 ms
+RightUp 1
+Delay 64 ms
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64 ms
+MoveTo 765 162
+Delay 64 ms
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64 ms
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Nostale</Software>
+  </DefaultMacro>
+</Root>

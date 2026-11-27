@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Wavedash - механика, которую можно реализовать в потоке воздуха 
+Просто настройте макрос на любую кнопку и нажмите ее в потоке воздуха</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 64 ms
+KeyUp 8 1
+Delay 400 ms
+LeftDown 1
+Delay 390 ms
+LeftUp 1
+KeyDown 44 1
+KeyUp 44 1
+Delay 34 ms
+KeyDown 44 1
+KeyUp 44 1
+Delay 100 ms
+GoWhile 5 16</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,69 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Закупка первых двух предметов в списке, так же двигает ползунок для поднятия списка. 
+Макрос ставить на повтор до последующего нажатия. 
+Координаты абсолютные для разрешения 1920х1080
+Для корректной работы открыть статистику продаж. </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1277 429
+Delay 70 ms
+LeftDown 1
+Delay 70 ms
+LeftUp 1
+Delay 70 ms
+MoveTo 844 598
+Delay 70 ms
+LeftDown 1
+Delay 70 ms
+LeftUp 1
+Delay 70 ms
+MoveTo 882 734
+Delay 70 ms
+LeftDown 1
+Delay 70 ms
+LeftUp 1
+Delay 70 ms
+MoveTo 1348 456
+Delay 70 ms
+LeftDown 1
+Delay 70 ms
+MoveTo 1349 406
+Delay 70 ms
+LeftUp 1
+Delay 70 ms
+MoveTo 1281 519
+Delay 70 ms
+LeftDown 1
+Delay 70 ms
+LeftUp 1
+Delay 70 ms
+MoveTo 844 600
+Delay 70 ms
+LeftDown 1
+Delay 70 ms
+LeftUp 1
+Delay 70 ms
+MoveTo 886 733
+Delay 70 ms
+LeftDown 1
+Delay 70 ms
+LeftUp 1
+Delay 70 ms
+MoveTo 961 527
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Albion online</Software>
+  </DefaultMacro>
+</Root>

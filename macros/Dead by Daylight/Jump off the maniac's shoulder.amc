@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>спрыгни с плеча маньяка инструкция по использыванию 
+1. забиндь на любую клавишу
+2. зайди в dbd
+3. удерживаю клавишу и используй макрос
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 35 ms
+KeyUp 4 1
+Delay 35 ms
+KeyDown 7 1
+Delay 35 ms
+KeyUp 7 1
+Delay 35 ms
+KeyDown 4 1
+Delay 35 ms
+KeyUp 4 1
+Delay 35 ms
+KeyDown 7 1
+Delay 35 ms
+KeyUp 7 1
+Delay 35 ms</Syntax>
+    </KeyDown>
+    <Software>Dead by daylight</Software>
+  </DefaultMacro>
+</Root>

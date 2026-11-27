@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Скрипт для афк фарма денежной валюты в режиме" Drive World " с автоподбором денег,все что понадобится для фарма-это любой автомбиль.Вам нужно сесть в свой автомобиль взяв его из гаража"кнопка находящаясяя в правом нижнем углу" после чего поехать к пляжу и заехать в воду примерно на 100 метров от пляжа , либо выехать на любую ровную поверхность.После всего проделанного все что остается это включить скрипт . Рекомендуется проверять роблокс каждые 20 минут ,т.к. роблокс может выгнать вас с режима за афк, но не всегда.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 328 ms
+KeyDown 26 1
+Delay 352 ms
+KeyDown 4 1
+Delay 342 ms
+KeyDown 44 1
+Delay 840000 ms
+KeyUp 4 1
+Delay 261 ms
+KeyUp 26 1
+Delay 327 ms
+KeyUp 44 1
+Delay 701 ms
+KeyDown 22 1
+Delay 6184 ms
+KeyUp 22 1
+Delay 913 ms
+KeyDown 26 1
+Delay 348 ms
+KeyDown 4 1
+Delay 293 ms
+KeyDown 44 1
+Delay 840000 ms
+KeyUp 4 1
+Delay 248 ms
+KeyUp 26 1
+Delay 304 ms
+KeyUp 44 1
+Delay 771 ms
+KeyDown 22 1
+Delay 5418 ms
+KeyUp 22 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

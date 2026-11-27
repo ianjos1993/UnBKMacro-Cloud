@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос позволит вам обходить блокировку в самозванцах (типо не дает встать в афк) так вы сможете скриптом танцевать и вам будут давать много опыта. от 3 до 10к за катку</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR 807 226
+Delay 64
+LeftDown 1
+Delay 1 s
+LeftUp 1
+Delay 10 s
+KeyDown 5 1
+MoveR 306 -118
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyUp 5 1
+Delay 10 s
+KeyDown 8 1
+Delay 2 s
+KeyUp 8 1
+Delay 1 s</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

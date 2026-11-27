@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>Auto Skip Conversation</Major>
+    <Description>This will allow you to skip conversation very quickly, simply bind the macro and hover the mouse where the dialouge boxes pop up.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 60 ms
+KeyUp 8 1
+Delay 60 ms
+LeftDown 1
+Delay 60 ms
+LeftUp 1
+Delay 60 ms
+WheelDown 1
+Delay 60 ms
+KeyDown 8 1
+Delay 60 ms
+KeyUp 8 1
+Delay 60 ms
+LeftDown 1
+Delay 60 ms
+LeftUp 1
+Delay 60 ms
+WheelUp 1</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major>Дальний прыжок в 4 блока для паркура</Major>
+    <Description>С помощью этого макроса вы без проблем сможите перепрыгивать через расстояние 4-ёх блоков или 3-ёх блоков на разной высоте. Чтобы использовать макрос нужно встать на самое дальнее растояние от блока, на которого вы хотите запрыгнуть (для удобства можно использовать Shift) и смотреть прямо. Затем нужно активировать макрос и вы окажетесь на следущем блоке</Description>
+    <Comment>Проверял на паркурах</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 26 1
+Delay 300 ms
+KeyDown 44 1
+Delay 35 ms
+KeyUp 44 1
+Delay 300 ms
+KeyUp 26 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>minecraft</Software>
+  </DefaultMacro>
+</Root>

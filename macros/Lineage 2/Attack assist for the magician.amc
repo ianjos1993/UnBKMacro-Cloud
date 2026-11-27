@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>
+Макрос для бития по асситу ДЛЯ МАГА!
+
+  Что делаем :
+
+1.Прописываем в игре макрос /assist player, где "player" - ник игрока, по которому берем ассист.
+
+2.Выставляем на вторую панель в первую ячейку макрос, на вторую - кость (в моем случае профа Некр), на третью - вампирик или вортекс.
+
+3.Выставляем все это дело на любую удобную вам горячую клавишу (например F1).
+
+4.В самой проге ставим чтобы макрос запускался пока нажата горячая кнопка.
+
+5. Зажимаем, бьем по ассисту :)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+KeyDown 31 1
+KeyUp 31 1
+KeyDown 32 1
+KeyUp 32 1</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

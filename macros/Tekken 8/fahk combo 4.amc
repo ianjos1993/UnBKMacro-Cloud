@@ -1,0 +1,106 @@
+<Root>
+  <DefaultMacro>
+    <Major>Fahkumram Combo 4</Major>
+    <Description>Макрос позволяет выполнять комбо за Факумрама комбинацию с heat системой.
+Видео демонстрации работы макроса: https://youtu.be/Zt7BAppt2Ns
+
+Факумрам описывает себя, как мощным бойцом, будто бы он непобежденный и никогда им не будет. Это описание заставляет почувствовать, насколько он хорош в микс игре, хоть и чувствуется на равне с Брайаном. Я стоял у края арены, когда он вошёл в помещение. В тот момент воздух будто стал плотнее и тяжелее. Люди вокруг внезапно затихли, словно почувствовали приближение чего-то опасного. Он подошёл к противнику и смотрел ему прямо в глаза, не отвлекаясь ни на секунду. Один удар положил конец поединку. Это был не просто человек, а нечто сродни буре, принявшей форму бойца.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 10.07.2025
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+Автор выполняет настройку и запись макросов на заказ.
+
+#Fahktekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 59 ms
+KeyDown 73 1
+Delay 0 ms
+KeyDown 74 1
+Delay 369 ms
+KeyUp 73 1
+Delay 10 ms
+KeyUp 74 1
+Delay 939 ms
+KeyDown 22 1
+Delay 60 ms
+KeyDown 77 1
+Delay 120 ms
+KeyDown 76 1
+Delay 79 ms
+KeyUp 77 1
+Delay 0 ms
+KeyUp 22 1
+Delay 29 ms
+KeyUp 76 1
+Delay 60 ms
+KeyDown 76 1
+Delay 89 ms
+KeyUp 76 1
+Delay 60 ms
+KeyDown 76 1
+Delay 120 ms
+KeyUp 76 1
+Delay 10 ms
+KeyUp 7 1
+Delay 579 ms
+KeyDown 7 1
+Delay 89 ms
+KeyUp 7 1
+Delay 59 ms
+KeyDown 7 1
+Delay 90 ms
+KeyUp 7 1
+Delay 90 ms
+KeyDown 76 1
+Delay 139 ms
+KeyDown 73 1
+Delay 30 ms
+KeyUp 76 1
+Delay 79 ms
+KeyUp 73 1
+Delay 80 ms
+KeyDown 77 1
+Delay 100 ms
+KeyUp 77 1
+Delay 50 ms
+KeyDown 77 1
+Delay 99 ms
+KeyUp 77 1
+Delay 50 ms
+KeyDown 90 1
+Delay 79 ms
+KeyUp 90 1
+Delay 69 ms
+KeyDown 90 1
+Delay 89 ms
+KeyUp 90 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

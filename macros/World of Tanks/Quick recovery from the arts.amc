@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Быстрое снятие дебафов от арты с помощью большой ремки и большой аптечки + дополнительно тушение пожара в случае поджога малым огнетушителем</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 33 1
+Delay 64 ms
+KeyUp 33 1
+Delay 64 ms
+KeyDown 34 1
+Delay 64 ms
+KeyUp 34 1
+Delay 64 ms
+KeyDown 35 1
+Delay 64 ms
+KeyUp 35 1
+Delay 64 ms</Syntax>
+    </KeyDown>
+    <Software>World of Tanks (WoT)</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для автоматизации продажи во внутриигровом чате. Полезен для тех, кто продает редкую вещь не для большинства людей. Учтена возможная проверка сообщений по логам чата благодаря рандомному ожиданию в несколько секунд после разрешения продолжать писать дальше.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 196 ms
+KeyDown 224 1
+Delay 100 ms
+KeyDown 25 1
+Delay 10 ms
+KeyUp 224 1
+Delay 10 ms
+KeyUp 25 1
+Delay 10 ms
+KeyDown 88 1
+Delay 100 ms
+KeyUp 88 1
+Delay 121 126 s</Syntax>
+    </KeyDown>
+    <Software>waframe auto-trade</Software>
+  </DefaultMacro>
+</Root>

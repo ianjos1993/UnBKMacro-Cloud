@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>чтобы макрос работал, вам надо: go to the keyboard settings in Fortnite -&gt; scroll to «Select Edit buildings» -&gt; change the setting from LCM to G. и если макрос работает плохо, то нужно включить функцию редактирования в настройках фортнайта: settings -&gt; game -&gt; auto confirm edits -&gt; листайте до edit (2)</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 3 ms
+KeyUp 9 1
+Delay 3 ms
+KeyDown 10 1
+Delay 3 ms
+KeyUp 10 1
+Delay 3 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

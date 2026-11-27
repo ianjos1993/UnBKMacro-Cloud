@@ -1,0 +1,54 @@
+<Root>
+  <DefaultMacro>
+    <Major>Миссия Могильник, начало - опыт на дронах</Major>
+    <Description>Миссия Могильник (Парнел), начало - опыт на дронах. Встаем в точке старта миссии, поворачиваемся к мусорке в проходе. Навыки - импульс электронный, дрон-защитник.
+Запускаем макрос. ГГ бежит до мусорки, упирается. Запускает дрон, ждёт приблидения дронов Парнела. Импульсом убивает их. Возвращается на старт. При включенных 5 директивах - по 9000 за заход (10 секунд). </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 1 s
+KeyUp 9 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 64
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 64 ms
+KeyDown 26 1
+Delay 4 s
+KeyUp 26 1
+Delay 1 s
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 4 s
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64 ms
+KeyDown 22 1
+Delay 3 s
+KeyUp 22 1
+Delay 64 ms
+GoWhile 1 30000</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy’s The Division 2</Software>
+  </DefaultMacro>
+</Root>

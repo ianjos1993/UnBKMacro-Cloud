@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для афк фарма наростов. Нужна будет горизонтлаьная ферма в 4 ряда и 1 рядом для ходьбы. Тайминги для территории острова 160х160 и скрости в 100-140. Нужно будте закрыть проходы по бокам и прорубить в рядах с наростом путь. Встаете в правй угол и запускаете макрос.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 4 1
+Delay 38 s
+KeyUp 4 1
+KeyDown 26 1
+Delay 3 s
+KeyUp 26 1
+KeyDown 7 1
+Delay 38 s
+KeyUp 7 1
+KeyDown 26 1
+Delay 3 s
+KeyUp 26 1
+LeftUp 1
+GoWhile 1 500000</Syntax>
+    </KeyDown>
+    <Software>minecraft</Software>
+  </DefaultMacro>
+</Root>

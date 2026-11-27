@@ -1,0 +1,143 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>сделал макрос для автоматизации 2-го маршрута. Помогает, когда уже лень самому круги нарезать.
+
+Как пользоваться:
+
+Выезжаете на маршрут и проезжаете полный круг, пока не выскочит табличка с вопросом «Продолжить ездить по 2 пути?».
+
+Наводите курсор мыши прямо на кнопку «Да».
+
+Запускаете макрос.
+
+Важно: в настройках самой программы для макросов обязательно поставьте Повторение до повторного нажатия.
+
+Макрос сам проезжает путь и кликает на «Да», когда вылетает окно.
+
+Предупреждение: хоть бот и ездит сам, лучше не отходить от компа надолго. Следите за процессом, а то мало ли — залагает или врежетесь куда, чтобы успеть подправить вручную.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 3000 ms
+LeftDown 1
+Delay 89 ms
+LeftUp 1
+Delay 1000 ms
+KeyDown 26 1
+Delay 40300 ms
+KeyUp 26 1
+Delay 224 ms
+KeyDown 22 1
+Delay 4869 ms
+KeyUp 22 1
+Delay 858 ms
+KeyDown 31 1
+Delay 78 ms
+KeyUp 31 1
+Delay 5529 ms
+KeyDown 31 1
+Delay 112 ms
+KeyUp 31 1
+Delay 528 ms
+KeyDown 26 1
+Delay 30500 ms
+KeyUp 26 1
+Delay 100 ms
+KeyDown 22 1
+Delay 4807 ms
+KeyUp 22 1
+Delay 737 ms
+KeyDown 22 1
+Delay 52 ms
+KeyUp 22 1
+Delay 1083 ms
+KeyDown 31 1
+Delay 86 ms
+KeyUp 31 1
+Delay 6046 ms
+KeyDown 31 1
+Delay 95 ms
+KeyUp 31 1
+Delay 476 ms
+KeyDown 26 1
+Delay 39437 ms
+KeyUp 26 1
+Delay 121 ms
+KeyDown 22 1
+Delay 4554 ms
+KeyUp 22 1
+Delay 364 ms
+KeyDown 22 1
+Delay 406 ms
+KeyUp 22 1
+Delay 909 ms
+KeyDown 31 1
+Delay 94 ms
+KeyUp 31 1
+Delay 5688 ms
+KeyDown 31 1
+Delay 95 ms
+KeyUp 31 1
+Delay 467 ms
+KeyDown 26 1
+Delay 30762 ms
+KeyUp 26 1
+Delay 155 ms
+KeyDown 22 1
+Delay 4171 ms
+KeyUp 22 1
+Delay 501 ms
+KeyDown 22 1
+Delay 301 ms
+KeyUp 22 1
+Delay 147 ms
+KeyDown 22 1
+Delay 457 ms
+KeyUp 22 1
+Delay 770 ms
+KeyDown 31 1
+Delay 138 ms
+KeyUp 31 1
+Delay 5659 ms
+KeyDown 31 1
+Delay 103 ms
+KeyUp 31 1
+Delay 441 ms
+KeyDown 26 1
+Delay 33000 ms
+KeyUp 26 1
+Delay 164 ms
+KeyDown 22 1
+Delay 4242 ms
+KeyUp 22 1
+Delay 267 ms
+KeyDown 22 1
+Delay 545 ms
+KeyUp 22 1
+Delay 259 ms
+KeyDown 22 1
+Delay 109 ms
+KeyUp 22 1
+Delay 753 ms
+KeyDown 31 1
+Delay 96 ms
+KeyUp 31 1
+Delay 5721 ms
+KeyDown 31 1
+Delay 94 ms
+KeyUp 31 1
+Delay 424 ms
+KeyDown 26 1
+Delay 5500 ms
+KeyUp 26 1
+Delay 909 ms</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

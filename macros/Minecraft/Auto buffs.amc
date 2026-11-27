@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major>ATEpast</Major>
+    <Description>Описание: 
+ Макрос для игры которое выбрасывает за тебя взрывные зелья от 7 по 9 слот (3 зелья)
+ Этот макрос полезен, если ты хочешь улучшить восприятие к игре 
+
+
+Кастомизация макроса: 
+ Вы можете кастомизировать этот макрос, изменяя параметры кнопок для переключения хотбара чтобы оно соответствовало вашему инвентарю в игре</Description>
+    <Comment>Макрос на автоматичиское выбрасывание зелий</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 36 1
+Delay 10
+KeyUp 36 1
+Delay 10
+RightDown 1
+Delay 10
+RightUp 1
+Delay 10
+KeyDown 37 1
+Delay 10
+KeyUp 37 1
+Delay 10 ms
+RightDown 1
+Delay 10
+RightUp 1
+Delay 10
+KeyDown 38 1
+Delay 10
+KeyUp 38 1
+Delay 10
+RightDown 1
+Delay 10
+RightUp 1
+Delay 10
+KeyDown 30 1
+Delay 10
+KeyUp 30 1
+Delay 10</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

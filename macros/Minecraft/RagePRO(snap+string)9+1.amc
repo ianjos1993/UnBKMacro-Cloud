@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Лучший макрос для прокрута снайперки и струка на RageWorld , позволяет наносить большое количество урона в минимальный промежуток времени</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 38 1
+Delay 24 ms
+KeyUp 38 1
+Delay 24 ms
+LeftDown 1
+Delay 24 ms
+LeftUp 1
+Delay 24 ms
+RightDown 1
+Delay 24 ms
+RightUp 1
+Delay 24 ms
+KeyDown 30 1
+Delay 24 ms
+KeyUp 30 1
+Delay 24 ms
+RightDown 1
+Delay 24 ms
+RightUp 1
+Delay 24 ms
+KeyDown 31 1
+Delay 24 ms
+KeyUp 31 1
+Delay 24 ms</Syntax>
+    </KeyDown>
+    <Software>minecraft</Software>
+  </DefaultMacro>
+</Root>

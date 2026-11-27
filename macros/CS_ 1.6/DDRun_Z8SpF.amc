@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major>ddrun 1000 fps  mouse4 </Major>
+    <Description>ddrun 800x600 1000 fps Достаточно несложный прием в игре. Смысл заключается в том что при падении или поднятии на лестницах, вы не теряете скорость бега т.е можно держать 240-253 или больше units. Надо забиндить кнопку (bind "mwheelup" "+duck" – колёсико вверх или bind "mwheeldown" "+duck" – колёсико вниз) перед выполнением.
+Сисхематически вот упали=&gt;duck=&gt;strafe=&gt;duck=&gt;strafe и до бесконечности.</Description>
+    <Comment>ddrun 800x600 1000 fps </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 1 ms
+KeyUp 224 1
+Delay 100 ms</Syntax>
+    </KeyDown>
+    <Software>CS 1.6</Software>
+  </DefaultMacro>
+</Root>

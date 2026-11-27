@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Hoodwink Bushwack (W) has longer projectile speed to Acorn Shot (Q).
+Thus, ones can cast Acorn right after Bushwack to plant a tree.
+
+This macro allows canceling backswing animation after casting Bushwack thus ensure chances of success disable.
+
+How to use:
+1. Turn Acorn to auto to plant a tree upon impact (Alt+Q).
+2. Stand more than 350 units distance, best with longer distance, e.g. Aether Lens.
+3. Point the mouse on the enemy, cast macro, and move the mouse a little bit back (50-100 units) to your hero's location, done in about 200ms.
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 50 ms
+KeyUp 26 1
+Delay 50 ms
+RightDown 1
+Delay 140 ms
+RightUp 1
+Delay 90 ms
+KeyDown 20 1
+Delay 53 ms
+KeyUp 20 1
+Delay 53 ms</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

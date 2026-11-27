@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макос позволяет делать красивые комбо в маинкрафте. Версия для игры 1.8.9. О комбо персонаж идёт вперёд и открывает меню быстра закрывая его тем самым делая инвентори комбо.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+LeftDown 1
+KeyDown 8 1
+Delay 14 ms
+KeyUp 8 1
+Delay 14 ms
+KeyDown 8 1
+Delay 14 ms
+KeyUp 8 1
+Delay 14 ms
+KeyDown 8 1
+Delay 14 ms
+KeyUp 8 1
+Delay 14 ms
+KeyDown 8 1
+Delay 14 ms
+KeyUp 8 1
+Delay 14 ms
+Delay 14 ms
+LeftUp 1
+Delay 14 ms
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

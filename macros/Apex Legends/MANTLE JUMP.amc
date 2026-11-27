@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>so i create the mantle jump macro cos it's rly hard to press W and S at the moment
+just bind to key that what you want, i usualy bind it to L-Alt
+all you need to do is to practice this macro first until u get the sense of mantle jump until u get used to do
+
+</Description>
+    <Comment>Movement</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 4 ms
+KeyUp 26 1
+Delay 4 ms
+KeyDown 22 1
+Delay 10 ms
+KeyUp 22 1
+Delay 4 ms
+WheelDown 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,64 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос контролирующий отдачу______________________________________________________________________________________</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+
+Delay 112 ms
+MoveR 4 9
+Delay 112 ms
+MoveR 3 9
+Delay 112 ms
+MoveR 3 9
+Delay 112 ms
+MoveR 2 5
+Delay 112 ms
+MoveR 1 4
+Delay 112 ms
+MoveR 1 4
+Delay 112 ms
+MoveR 1 4
+Delay 112 ms
+MoveR -3 0
+Delay 112 ms
+MoveR -3 0
+Delay 112 ms
+MoveR -3 0
+Delay 112 ms
+MoveR 2 2
+Delay 112 ms
+MoveR 2 2
+Delay 112 ms
+MoveR 2 2
+Delay 112 ms
+MoveR 2 1
+Delay 112 ms
+MoveR 2 3
+Delay 112 ms
+MoveR 2 3
+Delay 112 ms
+MoveR 2 3
+Delay 112 ms
+MoveR 2 1
+Delay 112 ms
+MoveR 2 1
+Delay 112 ms
+Delay 80 ms
+Delay 80 ms
+Delay 80 ms
+LeftUp 1
+Delay 80 ms
+
+</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

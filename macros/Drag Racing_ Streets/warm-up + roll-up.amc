@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major>прогрев + подкат</Major>
+    <Description>делает обычный прогрев + подкат
+подходит на любое авто но желательно чтобы был свап
+работает на хороших настройках где нужен подкат</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 81 ms
+KeyDown 26 1
+Delay 8840 ms
+KeyUp 26 1
+Delay 33 ms
+KeyUp 22 1
+Delay 296 ms
+KeyDown 26 1
+Delay 674 ms
+KeyUp 26 1
+Delay 81 ms
+KeyDown 4 1
+Delay 72 ms
+KeyDown 22 1
+Delay 58 ms
+KeyUp 4 1
+Delay 54 ms
+KeyDown 26 1
+Delay 850 ms
+KeyUp 22 1
+Delay 64 ms
+KeyDown 7 1
+Delay 106 ms
+KeyUp 7 1
+Delay 119 ms
+KeyUp 26 1
+Delay 184 ms
+KeyDown 26 1</Syntax>
+    </KeyDown>
+    <Software>Drag Racing: Уличные гонки</Software>
+  </DefaultMacro>
+</Root>

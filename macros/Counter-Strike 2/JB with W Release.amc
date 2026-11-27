@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major>Jumpbug with W Release</Major>
+    <Description>Releases W and performs a jumpbug / crouchbug. Not 100% consistent but should work almost every time.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 0 ms
+KeyUp 26 1
+KeyDown 44 1
+Delay 0 ms
+KeyUp 44 1
+Delay 718 ms
+KeyDown 224 1
+Delay 15 ms
+KeyUp 224 1
+WheelDown 1
+Delay 7 ms
+WheelDown 1
+Delay 7 ms
+WheelDown 1
+Delay 7 ms
+WheelDown 1
+Delay 7 ms
+WheelDown 1
+Delay 7 ms
+WheelDown 1
+Delay 7 ms</Syntax>
+    </KeyDown>
+    <Software>CS: GO</Software>
+  </DefaultMacro>
+</Root>

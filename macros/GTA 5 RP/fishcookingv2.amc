@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Скрипт на жарку стерляди на костре, комфорке.
+Разрешение 1920X1080, работает как в окне, так и в полный экран
+
+1) Кладем инвентарь один вид (обязательно) рыбы (стерлядь)
+2) Разжигаем костер на любом из пляжей, начинаем готовить, запускаем скрипт
+3) Скрипт сам за нас готовит бесконечное колво рыбешки, как только рыба закончится останавливаем скрипт.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1083 296
+Delay 70 120 ms
+LeftDown 1
+Delay 70 120 ms
+MoveTo 968 308
+Delay 70 120 ms
+LeftUp 1
+Delay 70 120 ms
+MoveTo 867 589
+Delay 70 120 ms
+LeftDown 1
+Delay 70 120 ms
+MoveTo 895 473
+Delay 70 120 ms
+LeftUp 1
+Delay 70 120 ms
+MoveTo 813 686
+Delay 70 120 ms
+LeftDown 1
+Delay 70 120 ms
+LeftUp 1
+Delay 5 s</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для фарма массухами луком. Подходит для серверов с мультипрофой
+
+Что делаем:
+
+Выставляем на 2ю панель в ячейки 5-8 такие скиллы:
+
+5- Макрос с таргетом на определенного моба (Или ставим некст таргет)
+6-массуха №1
+7-Массуха №2
+8-Автоатака
+
+Запускаем, фармим :)
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 34 1
+KeyUp 34 1
+KeyDown 35 1
+KeyUp 35 1
+KeyDown 36 1
+KeyUp 36 1
+KeyDown 37 1
+KeyUp 37 1</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

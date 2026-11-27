@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Выживание Племени 
+Макрос предназначен для быстрой установки ловушки и броска трезубца, чтобы притянуть врага. Назначьте установку ловушки в игре на клавишу "V". Макрос можно назначить на любую удобную вам кнопку. После установки макроса выберите в игре трезубец и ловушку, нажмите назначенную кнопку, и макрос выполнит все действия.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 25 1
+Delay 30 ms
+KeyUp 25 1
+Delay 30 ms
+LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 15 ms
+KeyDown 31 1
+Delay 35 ms
+KeyUp 31 1
+Delay 35 ms
+LeftDown 1
+Delay 23 ms
+LeftUp 1
+Delay 23 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

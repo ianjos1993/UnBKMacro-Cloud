@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major>QC</Major>
+    <Description>The M1887 Quick Switch macro is a macro designed for optimizing the fire rate of the M1887. Leveraging variable comparison, this macro enables users to automatically switch and unswitch weapons, facilitating a faster and more rapid shot.
+
+The M1887 shotgun is renowned for its damage upclose. This macro addresses this limitation by automating the process of switching between the M1887 shotgun and another weapon, allowing for rapid alternating between shots with minimal downtime.
+
+The macro is designed to be highly customizable, allowing users to adjust various parameters such as timing intervals and sensitivity thresholds to suit their individual preferences and playstyle.
+If someone has %75 qc you can change delays from 32 to 24 and still play well, İt is made for %50 qc normally.
+
+Resolution: 1920x1080 60 FPS</Description>
+    <Comment>Top</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>varE = 0
+LeftDown 1
+Delay 32 ms
+LeftUp 1
+Delay 32 ms
+KeyDown 32 1
+Delay 32 ms
+KeyUp 32 1
+Delay 32 ms
+KeyDown 30 1
+Delay 32 ms
+KeyUp 30 1
+varE = 1
+Delay 32 ms
+Delay 350 ms
+if varE == 1 Goto 1</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

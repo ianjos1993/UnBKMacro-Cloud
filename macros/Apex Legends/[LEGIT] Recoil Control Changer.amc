@@ -1,0 +1,62 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Скрипт для контроля отдачи на оружие Сменщик.
+==================================================================================================Использование: Установить макрос в программу BotMeк. Поставьте удобную вам кнопку для включения макроса.
+Зайдите в игру и включите макрос. Отдачу будет успешно контралировать макрос.
+==================================================================================================
+Используйте на здоровье.
+Спасибо за скачивание.
+==================================================================================================
+"bammer"</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 100 ms
+MoveR 0 8
+Delay 100 ms
+MoveR 0 8
+Delay 100 ms
+MoveR 0 8
+Delay 100 ms
+MoveR 0 8
+Delay 100 ms
+MoveR 0 8
+Delay 100 ms
+MoveR 0 8
+Delay 100 ms
+MoveR 0 8
+Delay 100 ms
+MoveR 0 8
+Delay 100 ms
+MoveR 0 8
+Delay 100 ms
+MoveR 0 3
+Delay 100 ms
+MoveR 0 3
+Delay 100 ms
+MoveR 0 3
+Delay 100 ms
+MoveR 0 3
+Delay 100 ms
+MoveR 0 3
+Delay 100 ms
+MoveR 0 3
+Delay 100 ms
+MoveR 0 3
+Delay 80 ms
+Delay 80 ms
+Delay 80 ms
+LeftUp 1
+Delay 100 ms
+MoveR 0 10</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

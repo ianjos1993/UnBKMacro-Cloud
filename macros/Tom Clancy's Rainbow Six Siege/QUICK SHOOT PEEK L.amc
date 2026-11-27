@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Quick peek macro for the left side
+Bind to your in game lean buttons
+!!!This macro will shoot while doing quick peek movements, make sure to be leaning in the direction you want to quick peek shoot at!!!!</Description>
+    <Comment>Good luck operator!
+https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 120 ms
+KeyUp 4 1
+Delay 100 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 75 ms
+KeyDown 7 1
+Delay 120 ms
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

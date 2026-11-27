@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>за 52 секунд 9-10 автоталантов за 2 часа 900+ автоталантов + пару десятков уровней
+
+1. находим в eventlab схему заезда код публикации: 139 710 733 (SP FARM спринт / 1.9 км)
+2. использовать машину Lamborghini Sesto FE полностью прокаченную атоталантами
+3. в параметрах сложность ставим управление-авторуление, пробуксовочная система-вкл, контроль устоичивости-вкл, коробка передач-автоматическая, траектория движения-вся трасса
+4. наводим мышкой на начать заезд но не нажимаем а активируем скрипт
+
+(игра установлена на ssd nvme загрузки быстрые если у вас игра установлена на hdd или ssd sata возможно потребуется коректировка макроса )</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 3 s
+KeyDown 82 1
+Delay 35 s
+KeyUp 82 1
+Delay 5 s
+KeyDown 27 1
+Delay 64
+KeyUp 27 1
+Delay 3 s
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 6 s
+GoWhile 1 100</Syntax>
+    </KeyDown>
+    <Software>Forza Horizon 5</Software>
+  </DefaultMacro>
+</Root>

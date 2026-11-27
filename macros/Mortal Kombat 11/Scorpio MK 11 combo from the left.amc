@@ -1,0 +1,64 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Настройки клавиатуры:
+
+быстрый удар рукой: Y
+мощный удар рукой: U
+быстрый удар ногой: H
+мощный удар ногой: J
+Усиление/взаимодействие: F
+
+описание комбо: популярная комба, которую используют опытные игроки, с телепортом, усилением и ударом руки на 8 ударов.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 28 1
+Delay 47
+KeyUp 28 1
+Delay 47
+KeyDown 28 1
+Delay 47
+KeyUp 28 1
+Delay 47
+KeyDown 22 1
+Delay 47
+KeyUp 22 1
+Delay 47
+KeyDown 4 1
+Delay 47
+KeyUp 4 1
+Delay 47
+KeyDown 11 1
+Delay 47
+KeyUp 11 1
+Delay 47
+KeyDown 9 1
+Delay 47
+KeyUp 9 1
+Delay 1 s
+KeyDown 7 1
+Delay 47
+KeyUp 7 1
+Delay 47
+KeyDown 11 1
+Delay 47
+KeyUp 11 1
+Delay 70 ms
+KeyDown 28 1
+Delay 47
+KeyUp 28 1
+Delay 81 ms
+KeyDown 28 1
+Delay 47
+KeyUp 28 1
+Delay 64 ms</Syntax>
+    </KeyDown>
+    <Software>Mortal Kombat 11</Software>
+  </DefaultMacro>
+</Root>

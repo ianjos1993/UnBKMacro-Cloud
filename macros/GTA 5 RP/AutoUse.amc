@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>AutoUse 1920*1080</Major>
+    <Description>Использует первый слот в инвентаре, аптечку, еду, оружие и все что захотите. 1920*1080
+В  идеале ставить аптечку.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 10
+KeyUp 43 1
+Delay 10
+MoveTo 732 417
+Delay 10
+RightDown 1
+Delay 10
+RightUp 1
+Delay 50 ms
+MoveTo 878 601
+Delay 10
+LeftDown 1
+Delay 10
+LeftUp 1
+Delay 10</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

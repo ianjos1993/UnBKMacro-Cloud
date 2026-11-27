@@ -1,0 +1,54 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>----------------------------------------------------------------------ПВП МАКРОС ДЛЯ ЯМОК-----------------------------------------------------------------------------------
+Макрос убивает всё и вся на 1.4.7 в ямах,значения можно подубавить,смотря какое ограничение на сервере,сам ним выбиваю сета! ИСПОЛЬЗУЙТЕ!
+---------------------------------------------------------------------ИНСТРУКЦИЯ-------------------------------------------------------------------------------------------------------
+1.Заходим на сервер
+2.В 1 слот ставим мечь,в 3 слот ставим хилку
+3.Биндим макрос на любую кнопку
+4.Зажимаем кнопку и ВУАЛЯ,ВСЁ! Идите убивайте всех в яме</Description>
+    <Comment>https://botmek.com - Топ макрос ин зе ворлд,почти бесплатные макросы!</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+Delay 1 ms
+LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 15 ms
+LeftDown 1
+Delay 14 ms
+LeftUp 1
+Delay 15 ms
+KeyDown 32 1
+Delay 1 ms
+KeyUp 32 1
+Delay 1 ms
+RightDown 1
+Delay 12 ms
+RightUp 1
+Delay 12 ms
+RightDown 1
+Delay 13 ms
+RightUp 1
+Delay 13 ms
+RightDown 1
+Delay 14 ms
+RightUp 1
+Delay 14 ms
+RightDown 1
+Delay 15 ms
+RightUp 1
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

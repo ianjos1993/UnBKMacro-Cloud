@@ -1,0 +1,77 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всем привет , написал макрос на майнкрафт а точнее омеги 1.7.10 ( писал на дев зк ) на данный момент в яме я держу всех . Ну конечно не з5 ну з4 все умерают . А так-же на свапе в жиме можно и шотнуть)
+1 - меч (от 35 урона ) советую наследку
+2 - фростик
+6 - (меч от 30- урона) а тут пыл сел меч и это бомба
+Для новичков объясняю что нужно сделать или для тех кто незнает что такео баг макрос , писал его только для ям , и свапать надо 5-6 секунд с 7 слота , играть только свой лог и и не прыгать .
+Что-бы он работал скчайте его , после зайдите в редактор вы ознакомились с этим.И слева снизу нарисованна папочка облако диск и папочка нажимаете на папочке и заходите в загрузки или куда вы скачивали макрос . После выбираете , ставите на удобную вам кнопку , заходите в майнкрафт свапаете залетаете в з4 в яму и воаля любая пб халка крашка и т.д з4 будет убита вами.
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 1 ms
+LeftUp 1
+KeyDown 30 1
+KeyUp 30 1
+RightDown 1
+Delay 4 ms
+Delay 5 ms
+LeftDown 1
+Delay 3 ms
+Delay 2 ms
+LeftUp 1
+Delay 3 ms
+Delay 2 ms
+LeftUp 1
+Delay 2 ms
+Delay 16 ms
+RightUp 1
+Delay 9 ms
+LeftDown 1
+Delay 11 ms
+LeftUp 1
+Delay 8 ms
+RightDown 1
+LeftUp 1
+KeyDown 32 1
+KeyUp 32 1
+RightDown 1
+Delay 5 ms
+Delay 5 ms
+LeftDown 1
+Delay 7 ms
+Delay 7 ms
+KeyDown 35 1
+KeyUp 35 1
+RightDown 1
+Delay 4 ms
+Delay 5 ms
+LeftDown 1
+Delay 3 ms
+Delay 2 ms
+LeftUp 1
+Delay 3 ms
+Delay 2 ms
+LeftUp 1
+Delay 2 ms
+Delay 16 ms
+RightUp 1
+Delay 9 ms
+LeftDown 1
+Delay 11 ms
+RightUp 1
+Delay 8 ms
+LeftDown 1
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

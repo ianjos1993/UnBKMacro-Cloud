@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>afk-farm</Major>
+    <Description>За Кору выбрать позицию где будете фарситься включаете и будет кидать 4 по кд и слегда двигать вперед/назад что бы не вылететь за афк</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 64 ms
+KeyUp 26 1
+Delay 64 ms
+KeyDown 33 1
+Delay 64 ms
+KeyUp 33 1
+DelayS 1 s
+KeyDown 22 1
+Delay 64 ms
+KeyUp 22 1
+Delay 64 ms
+DelayS 28 s</Syntax>
+    </KeyDown>
+    <Software>Warframe</Software>
+  </DefaultMacro>
+</Root>

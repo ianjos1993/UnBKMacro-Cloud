@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>trocando de equipamento para usar a skill de ganancia para coletar item, muito ultil para facilitar atroca de item 
+f7 utilizar equipamento que tenha a skill de ganancia, no f8 utillizaa ganancia e o f9 voltar pro equipe anterior.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 64 1
+Delay 64 ms
+KeyUp 64 1
+Delay 100 ms
+KeyDown 65 1
+Delay 64 ms
+KeyUp 65 1
+Delay 100 ms
+KeyDown 66 1
+Delay 64 ms
+KeyUp 66 1
+Delay 100 ms</Syntax>
+    </KeyDown>
+    <Software>Ragnarok</Software>
+  </DefaultMacro>
+</Root>

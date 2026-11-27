@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Скрипт для Джой, 2 скилл всегда попадает в такт, привязываете макрос на любую удобную клавишу, нажимаете один раз и все делается за вас, вам нужно только направлять персонажа</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 1 s
+KeyDown 26 1
+Delay 1 s
+KeyDown 26 1
+Delay 1 s
+KeyDown 26 1</Syntax>
+    </KeyDown>
+    <Software>Mobile Legends: Bang Bang</Software>
+  </DefaultMacro>
+</Root>

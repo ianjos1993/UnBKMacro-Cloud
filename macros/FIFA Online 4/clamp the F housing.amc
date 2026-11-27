@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>настройка для клавиатуры
+в настройках игры поставить действие (укрывание мяча на клавишу F)
+активная игра корпусом не прожимая физическую клавишу.
+работает для клавиатуры
+ 
+ </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+KeyUp 9 1</Syntax>
+    </KeyDown>
+    <Software>FIFA ONLINE 4</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Quick switch комбинация из precision bolt + rocket + ballista. 
+В конце переключает на shotgun. 
+Баллиста должна быть на кнопке 3. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+KeyUp 31 1
+Delay 300 ms
+RightDown 1
+Delay 64
+LeftDown 1
+Delay 64
+RightUp 1
+LeftUp 1
+KeyDown 33 1
+KeyUp 33 1
+Delay 350 ms
+LeftDown 1
+LeftUp 1
+KeyDown 32 1
+KeyUp 32 1
+Delay 500 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+KeyDown 34 1
+KeyUp 34 1</Syntax>
+    </KeyDown>
+    <Software>Doom Eternal</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,57 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>           После выбора кнопки активации макроса перед запуском напишите необходимый текст с 2 символами в конце по типу "сообщение тест!!" скопируйте текст и макрос проспамит его удаляя по 1 символу после первого сообщения
+          Получиться 
+"сообщение тест!!"
+"сообщение тест!"
+"сообщение тест"
+            Крупные участки кода подписаны комментариями в соответствии с функционалом</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+KeyDown 224 1
+Delay 64
+KeyDown 25 1
+Delay 64
+KeyUp 25 1
+Delay 64
+KeyUp 224 1
+Delay 300 ms
+KeyDown 40 1
+Delay 64
+KeyUp 40 1
+Delay 500 ms
+//отправляет скопированное сообщение
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+KeyDown 42 1
+Delay 64
+KeyUp 42 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+GoWhile 18 2
+//отправляет дубль сообщения выше 2 раза удаляя по 1 последнему символу за раз
+Delay 30000 ms
+GoWhile 1 50000</Syntax>
+    </KeyDown>
+    <Software>Stalcraft</Software>
+  </DefaultMacro>
+</Root>

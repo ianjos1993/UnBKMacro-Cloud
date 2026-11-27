@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос позволяет обходить АФК кик на онлайн серверах, путем открытия сундуков. Чтобы макрос имел хоть какой-то смысл, в самой игре нужно смотреть в любой блок с интерфейсом, но лично я использую его на АФК-фермах и смотрю в сундуки</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 64
+RightUp 1
+Delay 5 s
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 5 s
+GoWhile 1 50000</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

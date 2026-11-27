@@ -1,0 +1,98 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>[v3]hemlock auto fire and low recoil
+Autofire - Just hold the left button it will fire like an auto weapon
+Low recoil - Reduced recoil because of measured pixel movement</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 0 1
+Delay 25 ms
+LeftUp 1
+LeftDown 1
+Delay 25 ms
+LeftUp 1
+MoveR 1 1
+Delay 25 ms
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+MoveR 0 1
+Delay 25 ms
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+MoveR 1 1
+Delay 25 ms
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+MoveR 0 1
+Delay 25 ms
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+MoveR 1 2
+Delay 25 ms
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+MoveR 0 2
+Delay 25 ms
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+MoveR 1 2
+Delay 25 ms
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+MoveR 0 2
+Delay 25 ms
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+MoveR 1 2
+Delay 25 ms
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+MoveR 0 1
+Delay 25 ms
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+MoveR 0 1
+Delay 25 ms
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+MoveR 0 1
+Delay 25 ms
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+MoveR 0 2
+Delay 25 ms
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+Delay 25 ms
+MoveR 0 2
+LeftDown 1
+Delay 16 ms
+LeftUp 1
+MoveR 0 1
+Delay 25 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

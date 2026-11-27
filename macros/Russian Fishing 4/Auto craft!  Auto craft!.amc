@@ -1,0 +1,58 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Производиться автоматический крафт, от вас требуется разрешение 1920x1080, размер интерфейса x1! Перед запуском макроса наведите стрелку мыши на область [Изготовит]! Макрос сделан так что ошибка изготовления не помешает авто крафту на длительный срок! Рекомендую использование макроса на крафт кофе-чая от 500 порций!
+
+Automatic crafting is performed, you are required to have a resolution of 1920x1080, the interface size is x1! Before starting the macro, hover the mouse arrow over the [Make] area! The macro is made so that a manufacturing error will not interfere with auto crafting for a long time! I recommend using a macro for crafting coffee-tea from 500 servings!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 133 ms
+LeftUp 1
+Delay 352 ms
+MoveTo 825 987
+Delay 7 ms
+MoveTo 825 987
+Delay 792 ms
+MoveTo 825 987
+Delay 8 ms
+MoveTo 825 987
+Delay 8 ms
+MoveTo 828 988
+Delay 7 ms
+MoveTo 828 988
+Delay 96 ms
+MoveTo 828 988
+Delay 71 ms
+MoveTo 828 988
+Delay 208 ms
+MoveTo 829 989
+Delay 31 ms
+MoveTo 829 989
+Delay 816 ms
+MoveTo 829 989
+Delay 7 ms
+MoveTo 829 989
+Delay 80 ms
+MoveTo 829 989
+Delay 7 ms
+MoveTo 829 989
+Delay 56 ms
+MoveTo 828 989
+Delay 7 ms
+MoveTo 828 989
+Delay 1427 ms
+KeyDown 44 1
+Delay 135 ms
+KeyUp 44 1
+Delay 80 ms</Syntax>
+    </KeyDown>
+    <Software>Russiaqn Fishing 4! Русская рыбалка 4</Software>
+  </DefaultMacro>
+</Root>

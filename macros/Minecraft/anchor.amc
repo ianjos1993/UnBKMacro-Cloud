@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>спам анчором. Забиндите любую клавишу на мышку нажатие 5,и рядом с ним светокамень ниже чем анчор. и вы сможете спамить анчором.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы,спам анчором. Забиндите любую клавишу на мышку нажатие 5,и рядом с ним светокамень ниже чем анчор. и вы сможете спамить анчором.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Button5Down 1
+Delay 25 ms
+Button5up 1
+Delay 25 ms
+RightDown 1
+Delay 25 ms
+RightUp 1
+Delay 25 ms
+WheelUp 1
+Delay 25 ms
+RightDown 1
+Delay 25 ms
+RightUp 1
+Delay 25 ms
+Button5Down 1
+Delay 25 ms
+Button5up 1
+Delay 25 ms
+RightDown 1
+Delay 25 ms
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

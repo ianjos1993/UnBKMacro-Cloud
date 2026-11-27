@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Point Blank.
+
+Макрос для игры Point Blank.
+
+Макрос для игры с Aug. Помогает контролировать отдачи и снижает ее практически на 0, (если поставить перки на снижение отдачи и скорострел,то отдачи вообще нету).
+
+Удобные и оптимальный макрос.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 2 ms
+MoveTo 960 540
+Delay 15 ms
+LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 2 ms
+MoveTo 960 540
+Delay 15 ms
+LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 2 ms
+MoveTo 960 540
+Delay 15 ms
+LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 2 ms
+MoveTo 960 540
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

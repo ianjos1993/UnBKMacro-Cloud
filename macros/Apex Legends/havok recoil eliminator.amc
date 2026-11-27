@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major>recoil reducer for havok</Major>
+    <Description>havoks heavy recoil requirse a finess to master so I have made a macro to assist you in te best possible way!
+your recoil troubles are over.
+1920 x 1080
+
+sens -5 
+
+dpi- 600+
+
+FOV- 100 </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+MoveR 1 2
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+MoveR 1 -1
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+MoveR -1 -2
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+MoveR -1 3
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

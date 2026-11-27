@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major>dassqqe</Major>
+    <Description>Новая улучшенная версия авто рыбки, никуда наводить мышку не надо, просто вводим капчи и отдыхаем.
+Разрешение 1920x1080, работает как полном экране так и в окне.
+
+1) Биндим слот удочки на P, нажимаем ее и кнопку  макроса
+2) Ничего не делаем, бот сам будет подсекать рыбу и закидывать удочку
+4) Если появится  капча, просто вводим ее, останавливать макрос и проводить любые другие манипуляции не нужно.
+5) Кайфуем
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 5 3 115,0,0 255,0,0 1 1054 903
+LeftDown 1
+Delay 2 ms
+LeftUp 1
+Delay 14 25 ms
+GoColor 1 3 0,245,9 147,245,9 1 648 1013
+KeyDown 19 1
+Delay 2 ms
+KeyUp 19 1
+Delay 2 4 s</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

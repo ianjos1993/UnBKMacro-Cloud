@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>Diamond-T</Major>
+    <Description>easy bunny  for BT2, Crouch: CTRL, Jump: SPACE, change them if you need to, make sure the macro is set up to "hold while clamped"</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+KeyDown 44 1
+KeyUp 44 1
+Delay 35 ms
+KeyDown 44 1
+KeyUp 44 1
+Delay 35 ms
+KeyDown 44 1
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>Battle Teams 2</Software>
+  </DefaultMacro>
+</Root>

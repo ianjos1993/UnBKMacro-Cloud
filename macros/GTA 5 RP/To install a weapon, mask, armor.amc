@@ -1,0 +1,14 @@
+Send(i);
+    #region // Маска
+    Sleep(200);
+    leftDOWN(93,257);
+    Sleep(60);
+    leftUP(727,119);
+#endregion
+    #region // Броня
+    Sleep(500);
+    leftDOWN(94,352);
+    Sleep(60);
+    leftUP(727,119);
+Sleep(200);
+Send(i);

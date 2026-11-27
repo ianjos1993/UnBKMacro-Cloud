@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Фаст scope на АВП + Выстрел. Данный макрос поможет вам одалеть ваших врагов, правда автонаводки нет, но зато присутствует авто прицел и авто выстрел, можно не хило так убивать игроков. Мало вероятно, то что вас спалят с этим макросом, так как и бывает промахи.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 20 ms
+RightUp 1
+Delay 20 ms
+LeftDown 1
+Delay 20 ms
+LeftUp 1
+Delay 20 ms
+KeyDown 32 1
+Delay 20 ms
+KeyUp 32 1
+KeyDown 30 1</Syntax>
+    </KeyDown>
+    <Software>CS: GO</Software>
+  </DefaultMacro>
+</Root>

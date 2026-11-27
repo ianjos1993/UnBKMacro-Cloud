@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major>AR-AMES-B-06</Major>
+    <Description>SETTINGS - SENSITIVITY - 13.50 // RESOLUTION - 1980x1080  //PREFFEREBLY SET TO NUMBERED KEYBIND ON A MACRO STYLE MOUSE (CAN BE SET TO LEFT CLICK ONLY IN GAMEPLAY, DONT FORGET TO SET HOTKEYS FOR ENABLE AND DISABLE ) THIS WORKS STANDARD WITHOUT ANY ATTACHMENTS FOR RECOIL.
+
+HAPPY HUNTING</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+MoveR 0 2
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+MoveR 1 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+MoveR 0 2
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Call of Duty: Black Ops 6</Software>
+  </DefaultMacro>
+</Root>

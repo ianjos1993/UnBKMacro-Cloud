@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>Ro ghoul</Major>
+    <Description>This is a roblox macro on a game called Ro-Ghoul based of an anime called Tokyo ghoul. This macros allows u to do the auto combo of a quinque called SSS-OWL (500M yen). To run this macro perfectly u need to have under 150ms. 
+You also need to be on Range mode to do the combo. The combo deals nearly half player damage. U can assign to any key u want but i suggest to asing it to F.
+
+If u want guide to install
+1. Download keyran from https://keyran.net - Free macros download | Скачать бесплатные макросы 
+2. Download this macro
+3. If u want to use macro buy the subscription or u can use for 2 hour for free
+4. Once u download then assign t to key u want
+5. And enjoy the macro!!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 105 ms
+KeyUp 9 1
+Delay 135 ms
+KeyDown 6 1
+Delay 105 ms
+KeyUp 6 1
+Delay 105 ms
+KeyDown 21 1
+Delay 120 ms
+KeyUp 21 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

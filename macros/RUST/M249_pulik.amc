@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>FOV 90 - сенса 0.82
+
+Приседать обязательно для м249
+
+Командная консоль F1 - «input.sensitivity 0.82»
+Установка модулей влияющих на отдачу, регулировка сенсы  
+- тянет вниз снижаем чувствительность или подтягивает повышаем чувствительность
+
+      Удачного пользoвания!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 11 ms
+MoveR 0 3
+Delay 11 ms
+MoveR 0 2
+Delay 11 ms
+MoveR 0 2
+Delay 11 ms
+MoveR 0 2
+Delay 11 ms
+MoveR 0 2
+Delay 11 ms
+MoveR 0 2
+Delay 11 ms
+MoveR 0 2
+Delay 11 ms
+MoveR 0 2
+Delay 11 ms
+MoveR 0 2
+Delay 10 ms
+MoveR 0 2
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

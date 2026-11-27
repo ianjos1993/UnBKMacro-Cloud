@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос используется для фарма а так же защита от AFK кика на серверах, если вам надо уходить либо же фармить мобов то этот макрос для вас. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 240 ms
+KeyUp 30 1
+Delay 90 ms
+LeftDown 1
+Delay 240 ms
+LeftUp 1
+Delay 240 ms
+KeyDown 44 1
+Delay 580 ms
+KeyUp 44 1
+Delay 580 ms
+KeyDown 80 1
+Delay 900 ms
+KeyUp 80 1
+Delay 900 ms
+KeyDown 79 1
+Delay 900 ms
+KeyUp 79 1
+Delay 900 ms
+KeyDown 82 1
+Delay 900 ms
+KeyUp 82 1
+Delay 900 ms
+KeyDown 44 1
+Delay 580 ms
+KeyUp 44 1
+Delay 580 ms
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

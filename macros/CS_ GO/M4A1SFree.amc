@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>M4A1-S Macro 2020
+
+Макрос на M4A1-S 
+Как правило, для корректной стабилизации отдачи в CS:GO, достаточно ввести в консоле следующие значения:
+
+Sensitivity 2.5
+m_rawinput 1
+m_customaccel 0</Description>
+    <Comment>Base
+</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 96 ms
+MoveR 0 6
+Delay 96 ms
+MoveR 0 8
+Delay 96 ms
+MoveR 0 12
+Delay 96 ms
+MoveR 0 16
+Delay 96 ms
+LeftUp 1
+Delay 2000 ms</Syntax>
+    </KeyDown>
+    <Software>CS: GO</Software>
+  </DefaultMacro>
+</Root>

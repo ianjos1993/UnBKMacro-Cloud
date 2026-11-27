@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major>autotam &amp; farm </Major>
+    <Description>auto tam and farm while tam is not ready
+
+key 1 : tam
+key 2 : damage
+key 3 : heal ( optional)
+
+i update this script for optimising next days. 
+enjoy
+
+Octopus5W</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+Delay 5100 ms
+KeyDown 31 1
+KeyUp 31 1
+KeyDown 32 1
+KeyUp 32 1
+KeyDown 29 1
+Delay 1000 ms
+KeyUp 29 1
+KeyDown 22 1
+Delay 1000 ms
+KeyUp 22 1
+Delay 3500 ms
+KeyDown 32 1
+KeyUp 32 1
+Delay 3500 ms
+GoWhile 15 3</Syntax>
+    </KeyDown>
+    <Software>Rappelz</Software>
+  </DefaultMacro>
+</Root>

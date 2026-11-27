@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major>TSB Shove Knockback cancel</Major>
+    <Description>This macro of roblox TSB will cancel the knockback of saitama's 3rd mode (shove) allowing you to extend your combo's easier, note that it may not work since it is relied on ping but there is good chances it works. You can front dash after using the macro to extend the combo or side dash to the person and uppercut, consecutive punches or normal punch.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 92 ms
+KeyUp 68 1
+Delay 142 ms
+KeyUp 225 1
+Delay 559 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 223 ms
+KeyDown 32 1
+Delay 152 ms
+KeyUp 32 1
+Delay 32 ms
+LeftDown 1
+Delay 136 ms
+LeftUp 1
+Delay 95 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 63 ms
+LeftDown 1
+Delay 103 ms
+LeftUp 1
+Delay 799 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

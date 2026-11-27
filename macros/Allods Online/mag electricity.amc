@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Добрый день, здесь показана раскладка кнопок на мага (Электричество ПВЕ).
+
+4. Электрошок.
+5. Грозовой фронт.
+6. Разряд молнии.
+
+Задержки там впритык(можете поиграться ).
+
+PS. Раскладка будет считаться актуальной если у вас будет 600+ Господства.( может не хватать стихий).
+ </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 33 1
+Delay 100 ms
+KeyUp 33 1
+Delay 900 ms
+KeyDown 34 1
+Delay 100 ms
+KeyUp 34 1
+Delay 1900 ms
+KeyDown 35 1
+Delay 100 ms
+KeyUp 35 1
+Delay 1400 ms
+KeyDown 34 1
+Delay 100 ms
+KeyUp 34 1
+Delay 1900 ms</Syntax>
+    </KeyDown>
+    <Software>Аллоды Онлайн</Software>
+  </DefaultMacro>
+</Root>

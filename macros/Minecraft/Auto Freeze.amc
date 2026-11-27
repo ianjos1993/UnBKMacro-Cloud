@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всем прекрасного вечера! Сегодня у меня сильная бессонница, и я решил поделиться с вами новым макросом. Это макрос, который автоматически активирует команду /freeze. Команда /freeze дословно переводится как “Заморозить игрока”. То есть, после активации этой команды, игрок не сможет двигаться, застывая в неподвижности. Это скорее забавная команда, предназначенная для развлечений, а, как известно, игроки Minecraft обожают развлекаться! Именно поэтому я и создал этот макрос. Благодаря ему, вы сможете использовать эту команду без лишних усилий и с легкостью превратить игровой процесс в ещё более увлекательный.
+
+Инструкция по настройке:
+1)Установите макрос на свой компьютер.
+2)Откройте панель клавиатуры Keyran.
+3)Поставьте данный макрос на удобную для вас клавишу или кнопку мыши(для этого нажмите по ней правой кнопкой мыши).
+4)Сохраняете и используете.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 32 ms
+KeyUp 56 1
+Delay 32 ms
+KeyDown 9 1
+Delay 32 ms
+KeyUp 9 1
+Delay 32 ms
+KeyDown 21 1
+Delay 32 ms
+KeyUp 21 1
+Delay 32 ms
+KeyDown 8 1
+Delay 32 ms
+KeyUp 8 1
+Delay 32 ms
+KeyDown 8 1
+Delay 32 ms
+KeyUp 8 1
+Delay 32 ms
+KeyDown 29 1
+Delay 32 ms
+KeyUp 29 1
+Delay 32 ms
+KeyDown 44 1
+Delay 32 ms
+KeyUp 44 1
+Delay 32 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

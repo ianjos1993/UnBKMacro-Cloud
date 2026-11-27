@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>LegaLizzee</Major>
+    <Description>Все мы наверно заколебались протыкивать диалоги, длящиеся фиг знает сколько. На этот случай я сделал макрос, который скипнет диалоги за вас (единственное вам придётся самим нажимать на выбор фраз ГГшки). Плюс данный макрос может работать как bunny hop. Чтобы им воспользоваться, нужно начать бежать со спринтом и затем просто нажать на макрос, и персонаж сам запрыгает плоть до вашей цели.
+
+P.S. BHop криво работает на спусках, зато в подъёмах он идеально сработает
+
+1. Устанавливаете макрос
+2. Назначаете кнопку
+3. Вперёд к приключениям!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+KeyUp 44 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос позволяет ловить заказы на работе Таксист.
+Ключевое отличие этого макроса в том, что вам не нужно открывать панель заказов и ждать, чтобы нажать нужную клавишу. С помощью этого макроса вам нужно нажать назначенную вами клавишу при появлении уведомления снизу, что пришел заказ - макрос сам откроет панель заказов и примет вызов. 1920x1080</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 150 ms
+MoveTo 923 406
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 809 690
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major>Сам качает скил на жиме штанги и гантелей</Major>
+    <Description>Полностью уникальный скрипт для прокачки 160 хп и урон удара кулаком, подходит только для разрешения 1280x1024.
+Установка: забиндить на любую кнопку скрипт, режим работы: выполнять до повторного нажатия
+Если у кого то есть вопросы, смело задавайте в лс</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 5 0 255,255,255 255,255,255 1 757 858 718 223 1 0
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+GoColor 10 0 255,255,255 255,255,255 1 821 858 654 223 1 0
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+GoColor 15 0 255,255,255 255,255,255 1 877 858 598 223 1 0
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+GoColor 20 0 255,255,255 255,255,255 1 759 915 716 166 1 0
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+GoColor 25 0 255,255,255 255,255,255 1 818 915 657 166 1 0
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+GoColor 30 0 255,255,255 255,255,255 1 877 915 598 166 1 0
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>GTA: Criminal Russia (CRMP)</Software>
+  </DefaultMacro>
+</Root>

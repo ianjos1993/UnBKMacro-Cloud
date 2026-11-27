@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для работы на SAMP серверах 
+Принцип работы:Управление персонажом с помощью взгляда мышью, активируешь макрос и персонаж начинает бегать от точки, до точки нажимая клавишу "Е" в каждом скилл-чеке. 
+
+Как пользоваться и польза макроса:Макрос помогает заработать денег на стройке, выполнить ачивку не убивая много времени и упрощая геймплей. Для работы макроса необходимо устроиться на работу строителем и от первого маркера активировать макрос. Дальше макрос сделает всё сам-Вам нужно лишь мышкой управлять </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 8 ms
+KeyDown 8 1
+Delay 8
+KeyUp 8 1
+Delay 8
+KeyDown 8 1
+Delay 8
+KeyUp 8 1
+Delay 8
+KeyDown 8 1
+Delay 8
+KeyUp 8 1
+Delay 8
+KeyDown 8 1
+Delay 8
+KeyUp 8 1
+Delay 8
+KeyDown 8 1
+Delay 8
+KeyUp 8 1
+Delay 8
+KeyDown 8 1
+Delay 8
+KeyUp 8 1
+Delay 8
+MoveTo 0 1</Syntax>
+    </KeyDown>
+    <Software>GTA San Andreas</Software>
+  </DefaultMacro>
+</Root>

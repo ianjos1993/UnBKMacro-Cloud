@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Помогает вам быстро ресетнутся(умереть) в игре Roblox. Выполняет эту задачу этот макрос за 192 мс. Обычный ресет занимает долгое время. нужно нажать esc потом r и enter.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+Не блокируйте пожалуйста меня. Я хочу получить бесплатный день работы этого замечательного приложения.
+Please don't block me. I want to get a free day of using this amazing app.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 64
+KeyDown 21 1
+Delay 64 ms
+KeyUp 21 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

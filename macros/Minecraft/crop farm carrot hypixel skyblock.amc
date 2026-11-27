@@ -1,0 +1,51 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для фарма моркови на сервере Hypixel (режим SkyBlock Co-op RPG).
+Как работает макрос:
+1. Основной цикл: зажимает A + W + SHIFT + ЛКМ (если скорости хватает, SHIFT можно убрать). 
+2. На переходе между ярусами в конце (важно подобрать время по секундомеру) зажимает A + D + SHIFT + ЛКМ. 
+Рекомендации по ферме: делайте одноярусную ферму 5 блоков в длину, место сбора залейте водой, поставьте /setspawn в начале фермы, угол 90 градусов для полного захвата. 
+Заработок: ~8-9M/час, но морковь неудобна из-за частой продажи. 
+ВАЖНО: макросы запрещены! Используйте только при активном контроле, не оставляйте без присмотра — риск бана и очистки аккаунта! 
+Оптимальный снаряд: мотыга с максимумом чар, питомец Legendary Mushroom Cow, броня Fermento (если 40 lvl фарма). 
+Проверяйте сад на вредителей (4+ = -5%, 8+ = -75%). 
+Для автоматизации фарма можно добавить макрос авто-продажи, который находиться у меня в профиле.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 4 1
+KeyDown 26 1
+KeyDown 225 1
+Delay 210 s
+KeyUp 225 1
+LeftUp 1
+KeyUp 4 1
+KeyUp 26 1
+Delay 1000 ms
+KeyDown 4 1
+KeyDown 26 1
+Delay 1000 ms
+KeyUp 26 1
+KeyUp 4 1
+Delay 500 ms
+KeyDown 7 1
+KeyDown 26 1
+LeftDown 1
+KeyDown 225 1
+Delay 210 ms
+KeyUp 225 1
+LeftUp 1
+KeyUp 26 1
+KeyUp 7 1
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

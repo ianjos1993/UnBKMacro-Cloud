@@ -1,0 +1,71 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Opens dial lock sequentially, please make sure that the cursor isn't on top of a dial wheel, preferably don't move your mouse cursor
+Enjoy!!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 800 ms
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 800 ms
+//pick
+GoWhile 1 10
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 800 ms
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+//add 1 to middle
+GoWhile 1 10
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 800 ms
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64
+KeyDown 79 1
+Delay 64
+KeyUp 79 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+//add 1 to bottom
+GoWhile 1 10</Syntax>
+    </KeyDown>
+    <Software>Scum</Software>
+  </DefaultMacro>
+</Root>

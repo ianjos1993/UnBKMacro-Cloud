@@ -1,0 +1,82 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>RU
+Кликер для того, чтобы бесить своего врага при помощи грави пушки и оружия.
+------
+Суть макроса:Макрос вечно замораживает твоего врага(грави пушкой) спустя момент когда ты его выбесил этим, макрос переключается, либо на револьвер либо, на Smg и начинает стрелять в твоего опонента
+-----
+Как пользоваться: Устанавливаем, заходим на сервер, биндим на лкм, желательно по зажатию, берём грави пушку и целимся в опонента и зажимаем лкм. Всё, враг убит морально и физически. 
+
+-------------------------------
+Eng
+
+Clicker to infuriate your enemy with the help of gravity guns and weapons.
+------
+The essence of the macro:The macro always freezes your enemy (gravi cannon) after the moment when you have pissed him off with this, the macro switches, either to a revolver or to an Smg and starts shooting at your opponent
+-----
+How to use: Install, go to the server, bind to the paintwork, preferably by clamping, take the gravity gun and aim at the oponent and clamp the paintwork. Everything, the enemy is killed mentally and physically.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 20
+LeftUp 1
+Delay 20
+LeftDown 1
+Delay 20
+LeftUp 1
+Delay 20
+LeftDown 1
+Delay 20
+LeftUp 1
+Delay 20
+LeftDown 1
+Delay 20
+LeftUp 1
+Delay 20
+KeyDown 31 1
+Delay 20
+KeyDown 31 1
+Delay 20
+LeftDown 1
+Delay 20
+LeftUp 1
+Delay 20
+LeftDown 1
+Delay 20
+LeftUp 1
+Delay 20
+LeftDown 1
+Delay 20
+LeftUp 1
+Delay 20
+LeftDown 1
+Delay 20
+LeftUp 1
+Delay 20
+KeyDown 30 1
+Delay 20
+KeyUp 30 1
+Delay 10 ms
+LeftDown 1
+Delay 20
+LeftUp 1
+Delay 20
+LeftDown 1
+Delay 20
+LeftUp 1
+Delay 20
+LeftDown 1
+Delay 20
+LeftUp 1
+Delay 20</Syntax>
+    </KeyDown>
+    <Software>Garry´s Mod</Software>
+  </DefaultMacro>
+</Root>

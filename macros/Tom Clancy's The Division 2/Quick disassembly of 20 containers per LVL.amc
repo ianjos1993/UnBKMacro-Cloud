@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Быстрый разбор 20 контейнеров, для работы макроса просто запустите, он сам откроет инвентарь, Разрешение экрана любое.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 12 1
+Delay 59 ms
+KeyUp 12 1
+Delay 59 ms
+KeyDown 22 1
+Delay 59 ms
+KeyUp 22 1
+Delay 59 ms
+GoWhile 5 3
+KeyDown 7 1
+Delay 59 ms
+KeyUp 7 1
+Delay 59 ms
+GoWhile 10 2
+KeyDown 44 1
+Delay 59 ms
+KeyUp 44 1
+Delay 59 ms
+KeyDown 9 1
+Delay 2995 ms
+KeyUp 9 1
+Delay 3995 ms
+KeyDown 44 1
+Delay 59 ms
+KeyUp 44 1
+Delay 59 ms
+GoWhile 19 20
+KeyDown 41 1
+Delay 59 ms
+KeyUp 41 1
+Delay 59 ms
+GoWhile 28 2</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy’s The Division 2</Software>
+  </DefaultMacro>
+</Root>

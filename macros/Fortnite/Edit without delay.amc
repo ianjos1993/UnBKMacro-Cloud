@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Редакт без задержки место (C) Ставте ту клавишу на которую редактируюте а место (Q) любую клавишу которую будет вам удобно прожимать вместе с той клавишой на которую редактируюте!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+Delay 15 ms
+KeyUp 6 1
+KeyDown 20 1
+Delay 15 ms
+KeyUp 20 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

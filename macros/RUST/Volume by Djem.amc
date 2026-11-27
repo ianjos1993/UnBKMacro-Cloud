@@ -1,0 +1,213 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Максро для томсона, отдачи 0 стрельба в точку.
+Sens 0.4-0.5
+Установка. 
+1.Нажать клавиши .
+2. Нажать на нужную кнопку (По вашему усмотрению)
+3. Поставить макрос
+В игре просто открываете консоль F1,вписуем  input.sensitivity 0.4 или же 0.5,заходим на сервер и наслаждаемся,всем удачи!
+
+
+</Description>
+    <Comment>Хотел-бы получить за макрос дни премиума.
+
+</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 80 ms
+MoveR -8 17
+Delay 20 ms
+MoveR 0 0
+Delay 20 ms
+MoveR 0 0
+Delay 20 ms
+MoveR 0 0
+Delay 20 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 0 4
+Delay 20 ms
+MoveR 1 2
+Delay 20 ms
+MoveR 1 2
+Delay 20 ms
+MoveR 1 2
+Delay 20 ms
+MoveR 1 2
+Delay 20 ms
+MoveR 1 2
+Delay 20 ms
+MoveR 1 2
+Delay 20 ms
+MoveR 1 3
+Delay 20 ms
+MoveR 1 3
+Delay 20 ms
+MoveR 1 3
+Delay 20 ms
+MoveR 1 3
+Delay 20 ms
+MoveR 1 3
+Delay 20 ms
+MoveR 1 3
+Delay 20 ms
+MoveR 1 3
+Delay 20 ms
+MoveR 1 1
+Delay 20 ms
+MoveR 1 1
+Delay 20 ms
+MoveR 1 1
+Delay 20 ms
+MoveR 1 1
+Delay 20 ms
+MoveR 1 1
+Delay 20 ms
+MoveR 1 1
+Delay 20 ms
+MoveR 0 2
+Delay 20 ms
+MoveR 0 2
+Delay 20 ms
+MoveR 0 2
+Delay 20 ms
+MoveR 0 2
+Delay 20 ms
+MoveR 0 2
+Delay 20 ms
+MoveR 0 2
+Delay 20 ms
+MoveR -1 1
+Delay 20 ms
+MoveR -1 1
+Delay 20 ms
+MoveR -1 1
+Delay 20 ms
+MoveR -1 1
+Delay 20 ms
+MoveR -1 1
+Delay 20 ms
+MoveR -1 1
+Delay 20 ms
+MoveR 0 1
+Delay 20 ms
+MoveR 0 1
+Delay 20 ms
+MoveR 0 2
+Delay 20 ms
+MoveR 0 2
+Delay 20 ms
+MoveR 0 2
+Delay 20 ms
+MoveR 0 2
+Delay 20 ms
+MoveR -1 2
+Delay 20 ms
+MoveR -1 2
+Delay 20 ms
+MoveR -1 2
+Delay 20 ms
+MoveR -1 2
+Delay 20 ms
+MoveR -1 2
+Delay 20 ms
+MoveR -1 2
+Delay 20 ms
+MoveR -1 2
+Delay 20 ms
+MoveR 0 0
+Delay 20 ms
+MoveR 0 0
+Delay 20 ms
+MoveR 0 0
+Delay 20 ms
+MoveR 0 0
+Delay 20 ms
+MoveR 0 0
+Delay 20 ms
+MoveR 0 0
+Delay 20 ms
+MoveR 0 1
+Delay 20 ms
+MoveR 0 0
+Delay 20 ms
+MoveR 0 0
+Delay 20 ms
+MoveR 0 0
+Delay 20 ms
+MoveR 0 1
+Delay 20 ms
+MoveR 0 1
+Delay 20 ms
+MoveR 0 2
+Delay 20 ms
+MoveR 0 2
+Delay 20 ms
+MoveR 0 2
+Delay 20 ms
+MoveR 0 2
+Delay 20 ms
+MoveR 0 2
+Delay 20 ms
+MoveR 0 2
+Delay 20 ms
+MoveR 1 0
+Delay 20 ms
+MoveR 1 0
+Delay 20 ms
+MoveR 1 0
+Delay 20 ms
+MoveR 1 1
+Delay 20 ms
+MoveR 1 1
+Delay 20 ms
+MoveR 1 0
+Delay 20 ms
+MoveR 0 0
+Delay 20 ms
+MoveR 0 0
+Delay 20 ms
+MoveR 0 0
+Delay 20 ms
+MoveR 1 1
+Delay 20 ms
+MoveR 1 1
+Delay 20 ms
+MoveR 1 1
+Delay 300 ms
+MoveR 0 8
+Delay 300 ms
+LeftUp 1
+Delay 2250 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

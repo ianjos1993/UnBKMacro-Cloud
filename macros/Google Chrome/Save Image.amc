@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major>Save Image</Major>
+    <Description>Opens dialogue box to save image. Open image in a new tab then use this macro. For use on mouse thumb buttons etc.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+KeyDown 22 1
+Delay 99 ms
+KeyUp 22 1
+KeyUp 224 1</Syntax>
+    </KeyDown>
+    <Software>Google Chrome</Software>
+  </DefaultMacro>
+</Root>

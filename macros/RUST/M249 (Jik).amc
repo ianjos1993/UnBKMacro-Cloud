@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>ИМБА ДЛЯ М249 СОВЕТУЮ!!!
+с 8x работает тоже( с 16x хз)
+На сесне 0.5 тупо в точку
+Советую,но все равно топ оружие лр)))</Description>
+    <Comment>DEADXMACRO.STORE</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 25 ms
+MoveR 1 4
+Delay 25 ms
+MoveR 1 4
+Delay 25 ms
+MoveR -1 5
+Delay 26 ms
+MoveR -1 5
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

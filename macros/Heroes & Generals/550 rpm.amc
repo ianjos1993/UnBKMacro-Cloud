@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major>Не майор , рядовой.</Major>
+    <Description>Макрос для раскрытия полной скорострельности американских винтовок серии м1. Не каждый сможет раскликать 550 неавтоматического скорострела , а макрос в этом поможет.
+Качайте и нагибайте бедных фрицев с стг 44 а так же совков с авс 36!)</Description>
+    <Comment>Используйте на свой страх и риск по сути банить тут не за что но кто знает этих разрабов сегодня все нормально а завтра они уже видят в тебе злого читераста .
+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 27 ms
+LeftUp 1
+Delay 27 ms</Syntax>
+    </KeyDown>
+    <Software>Heroes And Generals</Software>
+  </DefaultMacro>
+</Root>

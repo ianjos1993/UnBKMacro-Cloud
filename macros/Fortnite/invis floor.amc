@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>FOR THIS TO WORK YOU MUST HAVE YOU'RE EDIT BIND AS Q</Major>
+    <Description>if you dont feel comfterable using q to edit you can change it at any time by replaceing all of the Press Q and release Q with smt like Press L and Release L
+
+
+sub to me! youtube.com/@NSGJAMESVR</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 10
+KeyUp 20 1
+Delay 10
+LeftDown 1
+Delay 10
+LeftUp 1
+Delay 10
+KeyDown 20 1
+Delay 10
+KeyUp 20 1
+Delay 10
+GoWhile 1 6666</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

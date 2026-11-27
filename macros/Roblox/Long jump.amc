@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>13+ stud Long jump you need to climb on edge turn your camera to 90 degrees and move your mouse up  to white bar </Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 200 ms
+LeftDown 1
+KeyDown 44 1
+KeyUp 44 1
+KeyUp 225 1
+KeyDown 225 1
+Delay 64
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

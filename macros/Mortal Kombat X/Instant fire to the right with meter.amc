@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major>Instant fire to the right with meter</Major>
+    <Description>Instant shot to the right using a meter for Liu Kang's Dragonfire variant. Great for Ninjakila combos.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 15 ms
+KeyDown 4 1
+Delay 15 ms
+KeyUp 26 1
+Delay 15 ms
+KeyDown 7 1
+Delay 15 ms
+KeyUp 4 1
+Delay 15 ms
+KeyUp 7 1
+Delay 15 ms
+KeyDown 13 1
+KeyDown 51 1
+Delay 15 ms
+KeyUp 13 1
+Delay 15 ms
+KeyUp 51 1</Syntax>
+    </KeyDown>
+    <Software>Mortal Kombat X</Software>
+  </DefaultMacro>
+</Root>

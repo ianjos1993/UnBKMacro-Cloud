@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Лайтовая анти отдача, убирает отдачу на всех видах оружия, ставить на удобную вам клавишу протестировано на Алибе.
+Рекомендуемые настройки
+1.Чувствительность 12Y 12X 800 точек на дюйм
+2.Разрешение 1920 x 1080 144 Гц
+3.Соотношение сторон 4:3 90 fov</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 3 11
+Delay 7 ms
+MoveR 2 11
+Delay 6 ms
+MoveR -2 10
+Delay 7 ms
+MoveR 2 11
+Delay 6 ms
+MoveR -2 10
+Delay 7 ms
+MoveR 2 11
+Delay 6 ms
+MoveR -2 10
+Delay 3 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

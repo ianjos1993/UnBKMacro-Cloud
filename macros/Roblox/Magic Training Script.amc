@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный скрипт предназначен для использования в режиме Magic Training. Он позволяет по нажатию ожнойкнопкий быстро открыть чат и написать заклинание для режима. В данном скрипте дано заклинание appa (трансгресирование) которая телепортирует тебя в любое место. По примеру данного скрипта можно создать еще скрипты поменяв только заклинание.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 10 ms
+KeyUp 56 1
+Delay 10 ms
+KeyDown 4 1
+Delay 10 ms
+KeyUp 4 1
+Delay 10 ms
+KeyDown 19 1
+Delay 10 ms
+KeyUp 19 1
+Delay 10 ms
+KeyDown 19 1
+Delay 10 ms
+KeyUp 19 1
+Delay 10 ms
+KeyDown 4 1
+Delay 10 ms
+KeyUp 4 1
+Delay 10 ms
+KeyDown 40 1
+Delay 10 ms
+KeyUp 40 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

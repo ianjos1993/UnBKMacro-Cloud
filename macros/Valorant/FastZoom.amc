@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Беплатный топовый FastZOOM для Operator и Marshal  при нажатий кнопки огонь вы моментально входите в режим прицела и стреляете
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//-------------------
+RightDown 1
+Delay 280 ms
+LeftDown 1
+Delay 1 ms
+RightUp 1
+Delay 106 ms
+LeftUp 1
+Delay 1 ms
+RightDown 1
+Delay 129 ms
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Valorant</Software>
+  </DefaultMacro>
+</Root>

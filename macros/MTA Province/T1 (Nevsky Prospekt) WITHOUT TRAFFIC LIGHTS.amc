@@ -1,0 +1,121 @@
+<Root>
+  <DefaultMacro>
+    <Major>Т1 (Невский)</Major>
+    <Description>Макрос, адаптированный специально для работы на поливомоечном трамвае с ВЫКЛЮЧЕННЫМИ светофорами.
+
+
+
+Для корректной работы макроса встаньте мордой у выезда из ангара — при этом не включайте фары и систему полива. После этого активируйте макрос и можете расслабиться: дальше он всё сделает сам.
+
+
+
+Учтите, что зациклить макрос невозможно: спавн трамвая всегда происходит в разных местах, поэтому каждый запуск нужно выполнять вручную.
+
+
+
+Не забывайте следить за чатом — администрация может в любой момент начать проверку. ;)
+
+
+Удачного фарма! &lt;3</Description>
+    <Comment>Макрос, адаптированный специально для работы на поливомоечном трамвае с ВЫКЛЮЧЕННЫМИ светофорами.
+
+
+
+Для корректной работы макроса встаньте мордой у выезда из ангара — при этом не включайте фары и систему полива. После этого активируйте макрос и можете расслабиться: дальше он всё сделает сам.
+
+
+
+Учтите, что зациклить макрос невозможно: спавн трамвая всегда происходит в разных местах, поэтому каждый запуск нужно выполнять вручную.
+
+
+
+Не забывайте следить за чатом — администрация может в любой момент начать проверку. ;)
+
+
+Удачного фарма! &lt;3</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 15 1
+Delay 88 ms
+KeyUp 15 1
+Delay 115 ms
+KeyDown 15 1
+Delay 83 ms
+KeyUp 15 1
+Delay 447 ms
+KeyDown 31 1
+Delay 93 ms
+KeyUp 31 1
+Delay 491 ms
+KeyDown 26 1
+Delay 84375 ms
+KeyUp 26 1
+Delay 1916 ms
+KeyDown 22 1
+Delay 2060 ms
+KeyUp 22 1
+Delay 1982 ms
+KeyDown 22 1
+Delay 2440 ms
+KeyDown 26 1
+Delay 862 ms
+KeyUp 26 1
+Delay 4 ms
+KeyUp 22 1
+Delay 439 ms
+KeyDown 26 1
+Delay 82114 ms
+KeyUp 26 1
+Delay 1340 ms
+KeyDown 22 1
+Delay 4861 ms
+KeyDown 26 1
+Delay 1321 ms
+KeyUp 22 1
+Delay 4 ms
+KeyUp 26 1
+Delay 201 ms
+KeyDown 26 1
+Delay 116784 ms
+KeyUp 26 1
+Delay 308 ms
+KeyDown 22 1
+Delay 2280 ms
+KeyUp 22 1
+Delay 2336 ms
+KeyDown 22 1
+Delay 831 ms
+KeyUp 22 1
+Delay 820 ms
+KeyDown 22 1
+Delay 1595 ms
+KeyDown 26 1
+Delay 897 ms
+KeyUp 22 1
+Delay 4 ms
+KeyUp 26 1
+Delay 479 ms
+KeyDown 26 1
+Delay 64576 ms
+KeyUp 26 1
+Delay 1276 ms
+KeyDown 22 1
+Delay 4704 ms
+KeyDown 26 1
+Delay 1132 ms
+KeyUp 22 1
+Delay 12 ms
+KeyUp 26 1
+Delay 413 ms
+KeyDown 26 1
+Delay 78923 ms
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

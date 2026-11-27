@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>It's a keyboard and mouse macro for Car Mechanic Simulator 2018, who wants to get bolt related achievements. </Description>
+    <Comment>Purchase dodge DLC (the one with dodge SRT in it, there are 2 dodge DLCs), disassemble the engine part until you get to the part that has 10X2 bolts. Align your camera so 10 bolts are overlapped, start the macro.  </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 50 ms
+LeftDown 1
+Delay 4400 ms
+LeftUp 1
+Delay 50 ms
+KeyDown 41 1
+Delay 50 ms
+KeyUp 41 1
+Delay 100 ms
+GoWhile 1 20000000</Syntax>
+    </KeyDown>
+    <Software>Car Mechanic Simulator 2018</Software>
+  </DefaultMacro>
+</Root>

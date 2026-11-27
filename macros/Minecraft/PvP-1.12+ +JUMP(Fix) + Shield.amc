@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>1</Major>
+    <Description>Использование PvP 1.12+(От 1.9) Прыжок(КРИТ УДАР) + Блокировка щитом на 2 секунды
+=================================================
+1.Установка
+2.Бинд на любую удобную клавишу
+3.Режим работы, какой удобен вам
+*4.Возьмите щит в вторую руку
+*5.Если вам нужна другая задержка на щит то поменяйте её в кфг макроса, так что стоит на 2сек(Там только один параметр на 2 секунды)
+6.Играйте :)
+=================================================
++По всем багам и ошибкам писать лс!+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+LeftDown 1
+KeyUp 44 1
+LeftUp 1
+RightDown 1
+Delay 2 s
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

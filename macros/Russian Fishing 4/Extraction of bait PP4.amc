@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>Добыча наживки РР4 Лопата/Черпак</Major>
+    <Description>Макрос для добычи наживки с помощью Лопаты/черапка,
+Что требуется:
+1. Взять в руки Черпак/Лопату
+2. Положить Чай/Кофе в 5 слот (Лучше Кофе)
+3. Запустить скрипт и радоватсья добытой наживки (можно оставлять на ночь)</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 3500 ms
+KeyDown 44 1
+Delay 100 ms
+KeyUp 44 1
+Delay 100 ms
+KeyDown 34 1
+Delay 100 ms
+KeyUp 34 1
+Delay 15000 ms
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Русская Рыбалка 4</Software>
+  </DefaultMacro>
+</Root>

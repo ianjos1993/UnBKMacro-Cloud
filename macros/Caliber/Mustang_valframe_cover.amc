@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Анти отдача на мустанга, что бы все работало корректно делаем чувствительность в не прицела и в прицеле на "25.6", также должна быть отключена вертикальная синхронизация и установлено разрешение экрана на "1920x1080", также не надо ставить тяжёлый ствол и обработку цевья если хотите что бы макрос работал  корректно.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 0 3
+Delay 13 ms
+MoveR 0 3
+Delay 13 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Caliber</Software>
+  </DefaultMacro>
+</Root>

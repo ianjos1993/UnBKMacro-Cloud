@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Используется для фарма материалов на драконе в игре Roblox King Legacy. Фармить можно обычные материалы: морковку, перья, кожу, сталь и эвентовых материалов, не подходит для фарма квестов и CK гидр. Для фарма нужен фрукт дракона и максимальный LV, обязательно максимальная прокачка фрукта. Фармить нужно в трансформации.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 27 1
+Delay 64
+KeyUp 27 1
+Delay 64
+KeyDown 6 1
+Delay 64
+KeyUp 6 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

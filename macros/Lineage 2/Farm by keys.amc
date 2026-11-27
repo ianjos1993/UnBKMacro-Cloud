@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Фарм по клавишам 1-6
+Выставите предпочтенные вами скилы на панели от 1 до 6 и запустите макрос
+Больше подходит для Афк фарма танков
+Феникс
+Да
+ТК
+ШК
+Рыцарь смерти</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 59 1
+Delay 10
+KeyUp 59 1
+Delay 10
+KeyDown 31 1
+Delay 10
+KeyUp 31 1
+Delay 10
+KeyDown 32 1
+Delay 10
+KeyUp 32 1
+Delay 10
+KeyDown 33 1
+Delay 10
+KeyUp 33 1
+Delay 10
+KeyDown 34 1
+Delay 10
+KeyUp 34 1
+Delay 10
+KeyDown 35 1
+Delay 10
+KeyUp 35 1
+Delay 10</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

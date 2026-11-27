@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Это макрос для вращения в дак гейме, просто зажимай кнопку и смотри как утка будет вращатся вправо и влево</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+KeyUp 7 1
+KeyDown 4 1
+KeyUp 4 1
+KeyDown 7 1
+KeyUp 7 1
+KeyDown 4 1
+KeyUp 4 1
+KeyDown 7 1
+KeyUp 7 1
+KeyDown 4 1
+KeyUp 4 1
+KeyDown 7 1
+KeyUp 7 1
+KeyDown 4 1
+KeyUp 4 1
+KeyDown 7 1
+KeyUp 7 1
+KeyDown 4 1
+KeyUp 4 1
+KeyDown 7 1
+KeyUp 7 1
+KeyDown 4 1
+KeyUp 4 1
+KeyDown 7 1
+KeyUp 7 1
+KeyDown 4 1
+KeyUp 4 1
+KeyDown 7 1
+KeyUp 7 1
+KeyDown 4 1
+KeyUp 4 1
+KeyDown 7 1
+KeyUp 7 1
+KeyDown 4 1
+KeyUp 4 1</Syntax>
+    </KeyDown>
+    <Software>Duck game</Software>
+  </DefaultMacro>
+</Root>

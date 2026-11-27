@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>ems Mortar Sentry
+Shortcut key settings make it easy to use.
+
+setting in the program
+1. section window
+2. program setting section
+3. start tracking the key on
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 30
+KeyDown 81 1
+Delay 30
+KeyUp 81 1
+Delay 30
+KeyDown 82 1
+Delay 30
+KeyUp 82 1
+Delay 30
+KeyDown 79 1
+Delay 30
+KeyUp 79 1
+Delay 30
+KeyDown 81 1
+Delay 30
+KeyUp 81 1
+Delay 30
+KeyDown 79 1
+Delay 30
+KeyUp 79 1
+Delay 30
+KeyUp 57 1
+Delay 30
+KeyUp 224 1</Syntax>
+    </KeyDown>
+    <Software>Helldivers 2</Software>
+  </DefaultMacro>
+</Root>

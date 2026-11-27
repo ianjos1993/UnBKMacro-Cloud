@@ -1,0 +1,342 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>A rust thompson reduced recoil Macro for Rust Multiplayer on Steam.
+Updated OCT 2023.
+
+Thompson reduced Recoil Macro can be played at 1280×1024 scale Full Screen mode on Rust.
+
+This macro can be used without a scope.
+
+Remove attachments such as laser and suppressor for better accuracy of this macro.
+
+Configuration below are the ff: 
+
+1. Program Settings section
+  1.1  Start tracking the keys» ON «
+  1.2. Start the incognito mode» ON «(REQUIRED!)
+  2.3. Use the minimum delay «OFF»
+  2.4. Bind to any button
+  2.5. Mode of operation « While the key is held down»
+
+In-game settings:
+- FOV 80
+- Sensitivity 0.90
+- Resolution should set at 1280×1024 at full screen mode.
+
+The macro was tested on:
+- ASUS GTX 1650 i5 laptop
+- Support Windows 10 20H2
+- RUST via Steam</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 0 4
+Delay 10 ms
+MoveR 0 4
+Delay 10 ms
+MoveR 0 4
+Delay 10 ms
+MoveR 0 4
+Delay 10 ms
+MoveR 0 4
+Delay 10 ms
+MoveR 0 4
+Delay 10 ms
+MoveR 0 4
+Delay 10 ms
+MoveR 0 4
+Delay 10 ms
+MoveR 0 4
+Delay 10 ms
+MoveR 0 4
+Delay 10 ms
+MoveR -2 4
+Delay 10 ms
+MoveR -2 4
+Delay 10 ms
+MoveR -2 4
+Delay 10 ms
+MoveR -2 4
+Delay 10 ms
+MoveR -2 4
+Delay 10 ms
+MoveR -2 4
+Delay 10 ms
+MoveR -2 4
+Delay 10 ms
+MoveR -2 4
+Delay 10 ms
+MoveR -2 4
+Delay 26 ms
+MoveR -2 4
+Delay 26 ms
+MoveR -2 4
+Delay 25 ms
+MoveR -2 4
+Delay 25 ms
+MoveR -2 4
+Delay 26 ms
+MoveR -2 4
+Delay 26 ms
+MoveR -2 4
+Delay 10 ms
+MoveR -2 4
+Delay 10 ms
+MoveR -2 4
+Delay 10 ms
+MoveR -4 6
+Delay 10 ms
+MoveR -4 6
+Delay 10 ms
+MoveR -4 6
+Delay 10 ms
+MoveR -4 6
+Delay 10 ms
+MoveR -4 6
+Delay 10 ms
+MoveR -4 6
+Delay 10 ms
+MoveR -4 6
+Delay 10 ms
+MoveR -4 6
+Delay 10 ms
+MoveR -4 6
+Delay 10 ms
+MoveR -4 6
+Delay 10 ms
+MoveR -4 6
+Delay 10 ms
+MoveR -4 6
+Delay 10 ms
+MoveR -4 6
+Delay 10 ms
+MoveR -4 6
+Delay 10 ms
+MoveR -4 6
+Delay 10 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 10 ms
+MoveR -4 6
+Delay 10 ms
+MoveR -4 6
+Delay 10 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 25 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+MoveR -4 6
+Delay 26 ms
+LeftUp 1
+Delay 13 s
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

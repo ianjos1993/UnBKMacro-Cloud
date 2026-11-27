@@ -1,0 +1,55 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Bloody X7 макросы для FAMAS x2.52 (урезанная версия)
+Выстрелов без отдачи - 25 полностью без отдачи
+Скорострельный [Rapid Fire] - есть
+Макрос для ЛКМ [Left Button] - есть
+Макросы приватного качества написаны для A4tech X7 Bloody на чувствительность в игре x1.00 x1.70 x2.52 x4.99!
+ sensitivity "2.52" , zoom_sensitivity_ratio_mouse "1.0" , m_rawinput "1" , m_customaccel "0"</Description>
+    <Comment>youtube.com/flumbix
+</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//..www.flumbix.com
+//..youtube.com/flumbix
+//..setup.in.game..sens-2.52..m_rawinput-1..m_customaccel-0
+//--FREE-LIMITED-macros-for-CS:GO--
+LeftDown 1
+Delay 87 ms
+MoveR -2 4
+Delay 87 ms
+MoveR -2 8
+Delay 87 ms
+MoveR -2 8
+Delay 87 ms
+MoveR -2 12
+Delay 87 ms
+MoveR 2 20
+Delay 87 ms
+MoveR 7 20
+Delay 87 ms
+MoveR 10 20
+Delay 87 ms
+MoveR 7 10
+Delay 87 ms
+MoveR -25 0
+Delay 87 ms
+MoveR -25 5
+Delay 87 ms
+MoveR -18 0
+Delay 87 ms
+MoveR 20 15
+Delay 87 ms
+MoveR 60 0
+Delay 870 ms
+Delay 870 ms</Syntax>
+    </KeyDown>
+    <Software>CS:GO</Software>
+  </DefaultMacro>
+</Root>

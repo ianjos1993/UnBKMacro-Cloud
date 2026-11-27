@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>Fortnite fast g edit</Major>
+    <Description>the fast g edit with the delayed part exactly, so you can use this at anytime in fortnite, (requires edit in release or it wont work correctly in game as it should, sorry.)</Description>
+    <Comment>yea</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+Delay 1 ms
+KeyUp 10 1
+Delay 1 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

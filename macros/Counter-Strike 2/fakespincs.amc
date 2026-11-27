@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макросс для Фейк Спина(Рейджа)
+Вак не дают, просто крутишься в рандомном положении.
+Ставьте на удобную клавишу и приятного кручения&lt;3
+Разрешение для игры: любое,но тест на 1280x1024</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR 226 507
+Delay 4 20 ms
+MoveR 238 -394
+MoveR 226 507
+Delay 4 20 ms
+MoveR 238 -394
+MoveR 226 507
+Delay 4 20 ms
+MoveR 238 -394
+MoveR 226 507
+Delay 4 20 ms
+MoveR 238 -394</Syntax>
+    </KeyDown>
+    <Software>Counter-Strike 2</Software>
+  </DefaultMacro>
+</Root>

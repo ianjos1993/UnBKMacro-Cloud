@@ -1,0 +1,89 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макро для обзывания окон. Для работы необходима консоль, для это запускаем игру через start.bat. Имена окон прописываете сами, комментарии где и что водить имеются.
+Весьма полезно для тех у кого 6+ окошек, помогает быстро найти окно с нужным чаром.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 227 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+//Выбираете окно. 1-10
+KeyUp 227 1
+Delay 64
+KeyDown 225 1
+Delay 74 ms
+KeyDown 53 1
+Delay 74 ms
+KeyUp 53 1
+Delay 74 ms
+KeyUp 225 1
+Delay 74 ms
+KeyDown 225 1
+Delay 74 ms
+KeyUp 225 1
+Delay 74 ms
+KeyDown 7 1
+Delay 74 ms
+KeyUp 7 1
+Delay 74 ms
+KeyDown 225 1
+Delay 74 ms
+KeyDown 45 1
+Delay 74 ms
+KeyUp 45 1
+Delay 74 ms
+KeyUp 225 1
+Delay 74 ms
+KeyDown 23 1
+Delay 74 ms
+KeyUp 23 1
+Delay 74 ms
+KeyDown 12 1
+Delay 74 ms
+KeyUp 12 1
+Delay 74 ms
+KeyDown 23 1
+Delay 74 ms
+KeyUp 23 1
+Delay 74 ms
+KeyDown 15 1
+Delay 74 ms
+KeyUp 15 1
+Delay 74 ms
+KeyDown 8 1
+Delay 74 ms
+KeyUp 8 1
+Delay 74 ms
+KeyDown 44 1
+Delay 74 ms
+KeyUp 44 1
+Delay 74 ms
+//копировать до этого момента для ругих окон.
+//дальше прописывай имя окна по буквам перед вводом Enter
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 64
+KeyDown 225 1
+Delay 64
+KeyDown 53 1
+Delay 64
+KeyUp 53 1
+Delay 64
+KeyUp 225 1
+Delay 64
+//Колличество окон не ограничено. Для выбора окна 10-11-12 и т.д. прописываем "нажать Win 1 0 отпустить Win" </Syntax>
+    </KeyDown>
+    <Software>Perfect World</Software>
+  </DefaultMacro>
+</Root>

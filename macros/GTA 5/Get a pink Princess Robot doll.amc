@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major>Macros</Major>
+    <Description>Этот макрос значительно облегчит вам получение очень редкой куклы Princess Robot. Просто подойдите к игровому автомату, нажмите на назначенную клавишу и идите пить чай, макрос сам будет делать попытки пока не достанет долгожданную игрушку =) 
+
+Rockstar Games не стала жалеть игроков и установила возможность получения этого коллекционного трофея 1 к 360... Без этого макроса попытки сожрут кучу времени и нервов.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 50 ms
+KeyUp 8 1
+Delay 4000 ms
+KeyDown 26 1
+Delay 4150 ms
+KeyUp 26 1
+Delay 100 ms
+KeyDown 7 1
+Delay 2050 ms
+KeyUp 7 1
+Delay 100 ms
+KeyDown 40 1
+Delay 50 ms
+KeyUp 40 1
+Delay 11500 ms</Syntax>
+    </KeyDown>
+    <Software>GTA V</Software>
+  </DefaultMacro>
+</Root>

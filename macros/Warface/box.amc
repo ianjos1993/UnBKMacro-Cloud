@@ -1,0 +1,185 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос позволяет быстро открывать коробки (скипает). Надо открыть набор оружие которое хотите крутить и запустить макрос. Запускать в 1920x1080 НЕ в оконном режиме. Сенса в игре 28</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 35 ms
+GoWhile 169 5000
+KeyUp 68 1
+Delay 174 ms
+KeyUp 225 1
+Delay 444 ms
+MoveTo 941 953
+Delay 15 ms
+MoveTo 940 953
+Delay 8 ms
+MoveTo 940 952
+Delay 51 ms
+LeftDown 1
+Delay 85 ms
+LeftUp 1
+Delay 6 ms
+MoveTo 941 952
+Delay 8 ms
+MoveTo 942 952
+Delay 64 ms
+LeftDown 1
+Delay 83 ms
+LeftUp 1
+Delay 73 ms
+LeftDown 1
+Delay 79 ms
+LeftUp 1
+Delay 78 ms
+LeftDown 1
+Delay 75 ms
+LeftUp 1
+Delay 71 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 273 ms
+MoveTo 943 952
+Delay 7 ms
+MoveTo 943 951
+Delay 8 ms
+MoveTo 946 950
+Delay 7 ms
+MoveTo 948 950
+Delay 8 ms
+MoveTo 952 948
+Delay 7 ms
+MoveTo 956 947
+Delay 8 ms
+MoveTo 962 945
+Delay 7 ms
+MoveTo 969 944
+Delay 8 ms
+MoveTo 978 943
+Delay 7 ms
+MoveTo 987 943
+Delay 8 ms
+MoveTo 996 943
+Delay 7 ms
+MoveTo 1006 943
+Delay 8 ms
+MoveTo 1018 944
+Delay 8 ms
+MoveTo 1029 944
+Delay 7 ms
+MoveTo 1041 944
+Delay 8 ms
+MoveTo 1054 944
+Delay 7 ms
+MoveTo 1068 944
+Delay 7 ms
+MoveTo 1068 944
+Delay 8 ms
+MoveTo 1097 944
+Delay 8 ms
+MoveTo 1111 944
+Delay 7 ms
+MoveTo 1126 946
+Delay 8 ms
+MoveTo 1139 947
+Delay 7 ms
+MoveTo 1153 949
+Delay 8 ms
+MoveTo 1162 950
+Delay 7 ms
+MoveTo 1171 953
+Delay 8 ms
+MoveTo 1177 954
+Delay 7 ms
+MoveTo 1180 956
+Delay 8 ms
+MoveTo 1182 956
+Delay 16 ms
+MoveTo 1182 957
+Delay 31 ms
+MoveTo 1182 958
+Delay 87 ms
+MoveTo 1181 958
+Delay 792 ms
+MoveTo 1181 958
+Delay 15 ms
+MoveTo 1179 958
+Delay 8 ms
+MoveTo 1177 957
+Delay 7 ms
+MoveTo 1176 956
+Delay 16 ms
+MoveTo 1175 956
+Delay 7 ms
+MoveTo 1174 956
+Delay 31 ms
+MoveTo 1173 956
+Delay 7 ms
+MoveTo 1173 955
+Delay 136 ms
+MoveTo 1172 955
+Delay 15 ms
+MoveTo 1171 955
+Delay 7 ms
+MoveTo 1170 955
+Delay 8 ms
+MoveTo 1168 955
+Delay 16 ms
+MoveTo 1167 954
+Delay 7 ms
+MoveTo 1165 954
+Delay 15 ms
+MoveTo 1164 954
+Delay 7 ms
+MoveTo 1163 954
+Delay 16 ms
+MoveTo 1162 954
+Delay 32 ms
+MoveTo 1161 954
+Delay 7 ms
+MoveTo 1160 954
+Delay 16 ms
+MoveTo 1159 954
+Delay 16 ms
+MoveTo 1158 954
+Delay 7 ms
+MoveTo 1157 954
+Delay 15 ms
+MoveTo 1156 954
+Delay 16 ms
+MoveTo 1155 954
+Delay 7 ms
+MoveTo 1154 954
+Delay 16 ms
+MoveTo 1153 954
+Delay 1487 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 40 ms
+MoveTo 1151 954
+Delay 7 ms
+MoveTo 1150 954
+Delay 8 ms
+MoveTo 1149 954
+Delay 15 ms
+MoveTo 1150 954
+Delay 291 ms
+KeyDown 41 1
+Delay 87 ms
+KeyUp 41 1
+Delay 256 ms
+KeyDown 225 1
+Delay 151 ms
+KeyDown 68 1</Syntax>
+    </KeyDown>
+    <Software>Warface</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,183 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для фарма гай на сервере Loliland. Для монитора разрешением 1920*1080. Настройки интерфейса: Крупный. Перед запуском наведите курсор мыши  так, чтобы при нажатии клавиши shift ваш курсор наводился на маяк, а без нажатой клавиши наводился на ноги Гайи. Слитки террастали/гайи класть в 9 слот. Убийцы гайи класть с 1 по 8 слот хотбара и ещё 8 убийц гай в 1-е 8 слотов инвентаря над хотбаром. При активации макроса используется клавиша 9, затем призывается 8 боссов, идёт кд 30 секунд(с учётом тпс 8-10) именно столько нужно на призыв. Затем поочерёдно с задержкой 200 мс используются мечи и шотают гай. Затем макрос заходит в инвентарь, использует кнопку baubles что бы избежать багов инвентаря и по координатом переносит курсор в первый слот над хотбаром,  поочерёдно кликает клавиши 1-8 над хотбаром попутно перенося курсор и заменяет клинки с кд на другие. Кд между макросами 5 секунд. Таким образом кд между убийцами перекрывают друг друга и макрос использует по 16 мечей за свой цикл.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 38 1
+Delay 64
+KeyUp 38 1
+Delay 64
+Delay 64
+KeyDown 225 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+KeyUp 225 1
+Delay 30000 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 200 ms
+KeyDown 31 1
+Delay 200 ms
+KeyUp 31 1
+Delay 200 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 200 ms
+KeyDown 32 1
+Delay 200 ms
+KeyUp 32 1
+Delay 200 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 200 ms
+KeyDown 33 1
+Delay 200 ms
+KeyUp 33 1
+Delay 200 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 200 ms
+KeyDown 34 1
+Delay 200 ms
+KeyUp 34 1
+Delay 200 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 200 ms
+KeyDown 35 1
+Delay 200 ms
+KeyUp 35 1
+Delay 200 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 200 ms
+KeyDown 36 1
+Delay 200 ms
+KeyUp 36 1
+Delay 200 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 200 ms
+KeyDown 37 1
+Delay 200 ms
+KeyUp 37 1
+Delay 200 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 200 ms
+KeyDown 8 1
+Delay 200 ms
+KeyUp 8 1
+Delay 64
+MoveTo 908 332
+Delay 64
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 200 ms
+MoveTo 743 674
+Delay 200 ms
+KeyDown 30 1
+Delay 200 ms
+KeyUp 30 1
+Delay 200 ms
+MoveTo 797 674
+Delay 200 ms
+KeyDown 31 1
+Delay 200 ms
+KeyUp 31 1
+Delay 200 ms
+MoveTo 850 676
+Delay 200 ms
+KeyDown 32 1
+Delay 200 ms
+KeyUp 32 1
+Delay 200 ms
+MoveTo 903 677
+Delay 200 ms
+KeyDown 33 1
+Delay 200 ms
+KeyUp 33 1
+Delay 200 ms
+MoveTo 958 674
+Delay 200 ms
+KeyDown 34 1
+Delay 200 ms
+KeyUp 34 1
+Delay 200 ms
+MoveTo 1016 679
+Delay 200 ms
+KeyDown 35 1
+Delay 200 ms
+KeyUp 35 1
+Delay 200 ms
+MoveTo 1067 674
+Delay 200 ms
+KeyDown 36 1
+Delay 200 ms
+KeyUp 36 1
+Delay 200 ms
+MoveTo 1120 675
+Delay 200 ms
+KeyDown 37 1
+Delay 200 ms
+KeyUp 37 1
+Delay 200 ms
+KeyDown 41 1
+Delay 200 ms
+KeyUp 41 1
+Delay 1000 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft(loliland)/ фарм гай</Software>
+  </DefaultMacro>
+</Root>

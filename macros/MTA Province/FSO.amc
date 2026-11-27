@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major>ФСО для машины</Major>
+    <Description>Представляю вашему вниманию ФСО для любого дорожного транспорта! Задержку между нажатием включения кнопки фар поставил 1 секунду, на слабых ПК может кушать фпс, поэтому кому надо, увеличьте задержку! Разрешение не важно, фпс 60+.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 15 1
+Delay 1 ms
+KeyUp 15 1
+Delay 1 ms
+KeyDown 15 1
+Delay 1 ms
+KeyUp 15 1
+Delay 1 ms
+KeyDown 15 1
+Delay 1 ms
+KeyUp 15 1
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

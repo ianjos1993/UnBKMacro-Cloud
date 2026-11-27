@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Наводитесь на надпись Enter Arena и просто запускаете макрос!
+
+Он будет автоматически телепортироваться на арену, спавнить реплику и телепортироваться обратно в лобби с нормальными таймингами задержки между кликами</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 250 ms
+LeftUp 1
+Delay 250 ms
+Delay 1 s
+KeyDown 8 1
+Delay 250 ms
+KeyUp 8 1
+Delay 250 ms
+KeyDown 41 1
+Delay 250 ms
+KeyUp 41 1
+Delay 250 ms
+KeyDown 21 1
+Delay 250 ms
+KeyUp 21 1
+Delay 250 ms
+KeyDown 88 1
+Delay 250 ms
+KeyUp 88 1
+Delay 250 ms
+Delay 5 s
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

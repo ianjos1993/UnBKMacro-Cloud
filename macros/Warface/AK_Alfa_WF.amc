@@ -1,0 +1,228 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на оружие АK Альфа, макрос убирает с Вас вес тяжелой стрельбы, делая её значительно более контролируемой,  убирая сильный разброс и отдачу пуль. Так же рабаотает на АС Вал и ак47)
+Примечание: 800 DPI 25 sens game</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 21 ms
+MoveR -1 1
+Delay 19 ms1
+MoveR 0 1
+Delay 18 ms
+MoveR 0 1
+Delay 18 ms
+MoveR 0 0
+Delay 18 ms
+
+MoveR -1 1
+Delay 21 ms
+MoveR -1 1
+Delay 19 ms
+MoveR 0 1
+Delay 18 ms
+MoveR 0 1
+Delay 18 ms
+MoveR 0 0
+Delay 18 ms
+
+MoveR 0 2
+Delay 21 ms
+MoveR 0 1
+Delay 19 ms
+MoveR 0 1
+Delay 18 ms
+MoveR 0 1
+Delay 18 ms
+MoveR 0 1
+Delay 18 ms
+
+MoveR -1 2
+Delay 21 ms
+MoveR -1 1
+Delay 19 ms
+MoveR 0 1
+Delay 18 ms
+MoveR 0 1
+Delay 18 ms
+MoveR 0 1
+Delay 18 ms
+
+MoveR 1 1
+Delay 21 ms
+MoveR 1 1
+Delay 19 ms
+MoveR 1 1
+Delay 18 ms
+MoveR 0 1
+Delay 18 ms
+MoveR 0 0
+Delay 18 ms
+
+MoveR 1 1
+Delay 21 ms
+MoveR 1 1
+Delay 19 ms
+MoveR 1 1
+Delay 18 ms
+MoveR 0 0
+Delay 18 ms
+MoveR 0 0
+Delay 18 ms
+
+MoveR 1 1
+Delay 21 ms
+MoveR 1 1
+Delay 19 ms
+MoveR 0 1
+Delay 18 ms
+MoveR 0 0
+Delay 18 ms
+MoveR 0 0
+Delay 18 ms
+
+MoveR 1 1
+Delay 21 ms
+MoveR 1 1
+Delay 19 ms
+MoveR 0 1
+Delay 18 ms
+MoveR 0 0
+Delay 18 ms
+MoveR 0 0
+Delay 18 ms
+
+MoveR -1 1
+Delay 21 ms
+MoveR -1 1
+Delay 19 ms
+MoveR -1 1
+Delay 18 ms
+MoveR 0 1
+Delay 18 ms
+MoveR 0 0
+Delay 18 ms
+
+MoveR -1 1
+Delay 21 ms
+MoveR -1 1
+Delay 19 ms
+MoveR -1 1
+Delay 18 ms
+MoveR 0 0
+Delay 18 ms
+MoveR 0 0
+Delay 18 ms
+
+MoveR -1 1
+Delay 21 ms
+MoveR -1 1
+Delay 19 ms
+MoveR -1 0
+Delay 18 ms
+MoveR 0 0
+Delay 18 ms
+MoveR 0 0
+Delay 18 ms
+
+MoveR 1 1
+Delay 21 ms
+MoveR 1 1
+Delay 19 ms
+MoveR 1 0
+Delay 18 ms
+MoveR 0 0
+Delay 18 ms
+MoveR 0 0
+Delay 18 ms
+
+MoveR 1 0
+Delay 21 ms
+MoveR 1 0
+Delay 19 ms
+MoveR 1 0
+Delay 18 ms
+MoveR 0 0
+Delay 18 ms
+MoveR 0 0
+Delay 18 ms
+
+MoveR -1 0
+Delay 21 ms
+MoveR -1 0
+Delay 19 ms
+MoveR 0 0
+Delay 18 ms
+MoveR 0 0
+Delay 18 ms
+MoveR 0 0
+Delay 18 ms
+
+MoveR 0 0
+Delay 21 ms
+MoveR 0 0
+Delay 19 ms
+MoveR 0 0
+Delay 18 ms
+MoveR 0 0
+Delay 18 ms
+MoveR 0 0
+Delay 18 ms
+
+MoveR 0 1
+Delay 21 ms
+MoveR 0 0
+Delay 19 ms
+MoveR 0 0
+Delay 18 ms
+MoveR 0 0
+Delay 18 ms
+MoveR 0 0
+Delay 18 ms
+
+MoveR -1 0
+Delay 21 ms
+MoveR -1 0
+Delay 19 ms
+MoveR -1 0
+Delay 18 ms
+MoveR 0 0
+Delay 18 ms
+MoveR 0 0
+Delay 18 ms
+
+MoveR 1 0
+Delay 21 ms
+MoveR 1 0
+Delay 19 ms
+MoveR 1 0
+Delay 18 ms
+MoveR 1 0
+Delay 18 ms
+MoveR 0 0
+Delay 18 ms
+
+MoveR 0 0
+Delay 21 ms
+MoveR 0 0
+Delay 19 ms
+MoveR 0 0
+Delay 18 ms
+MoveR 0 0
+Delay 18 ms
+MoveR 0 0
+Delay 18 ms
+LeftUp 1
+Delay 6400 ms
+</Syntax>
+    </KeyDown>
+    <Software>Warface</Software>
+  </DefaultMacro>
+</Root>

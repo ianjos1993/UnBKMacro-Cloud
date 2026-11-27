@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>this nmacri will quicly drop ALL items (30 seconds for 220 items) from the currently selected page of your backpack inventory,
+
+Usage:
+1. Pull up your inventory, then select your desired inventory category (ex. Ingredients, Weopons, Traps, etc.) 
+2. Run the macro
+3.  Enjoy the amazement and wonder other players exhibit when they see you turbo drop items.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1049 359
+Delay 20 ms
+MoveTo 535 362
+KeyDown 27 1
+KeyUp 27 1
+MoveTo 1213 595
+Delay 20 ms
+LeftDown 1
+Delay 40 ms
+LeftUp 1
+MoveTo 795 669
+Delay 20 ms
+LeftDown 1
+Delay 40 ms
+LeftUp 1
+GoWhile 2 50</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

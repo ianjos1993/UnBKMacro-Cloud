@@ -1,0 +1,49 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Инвокер из Ghost Walk нажимает на противника Cold Snap и кастует на себя Alacrity. Чтобы скрипт сработал правильно, вам нужно Ghost Walk закастовать на вторую ячейку, а Cold Snapp на первую. Перед уходом в инвиз, вам нужно скастовать 3 сферы Wex. Если у вас есть Hex или Orchid, то лучше будет сначала активировать их, а потом макрос. Последовательность ваших действий такая:
+1. Скастовать Ghost Walk.
+2. Cкастовать Cold Snap.
+3. Прожать три сферы Wex, для скорости - обязательно!
+4. Уйти в Ghost Walk.
+5. Найти одиночного противника.
+6. Если есть Hex или Orchid - сначала используйте их, если нет, то сразу активируйте макрос, предварительно наведя курсор на противника.
+7. После срабатывания макроса можно использовать E+E+Q и призвать Forges, для большего урона.
+Этот макрос не поможет поднять ваш уровень игры, он нужен лишь для того, чтобы вы ознакомились с механиками персонажа.
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 30 ms
+KeyUp 8 1
+Delay 30 ms
+KeyDown 7 1
+Delay 30
+KeyUp 7 1
+Delay 30
+KeyDown 21 1
+Delay 30
+KeyUp 21 1
+Delay 30
+KeyDown 7 1
+Delay 30
+KeyUp 7 1
+Delay 30
+KeyDown 226 1
+Delay 30
+KeyDown 7 1
+Delay 30
+KeyUp 7 1
+Delay 30
+KeyUp 226 1
+Delay 30</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

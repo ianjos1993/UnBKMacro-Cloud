@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>macro tommy</Major>
+    <Description>this macro work for tommy with high sensitivity
+fov 90
+dpi 1450
+1920 x 1080
+sens 1.2
+
+jut try it and enjoy the macro!!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 50 ms
+MoveR 0 -33
+Delay 50 ms
+MoveR 0 -33
+Delay 50 ms
+MoveR 0 -33
+Delay 50 ms
+MoveR 0 -33
+Delay 50 ms
+MoveR 0 -33
+Delay 50 ms
+LeftUp 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

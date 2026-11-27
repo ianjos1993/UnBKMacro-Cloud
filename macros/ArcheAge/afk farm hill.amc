@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>DeadlylLiDrag</Major>
+    <Description> Перед использование настакать свет и тьма 5 раз. Потом активируем макрос.
+ Действе макроса: Поддерживает стаки от навыка свет и тьмы, cпамит навыком отблеск света, сменяет таргет. 
+ Боковая кнопка мыши вниз - отблеск света "огонь". Кнопка 3 - свет и тьма "правосудие". Кнопка Tab - смена таргета. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Button5Down 1
+Delay 10 s
+Button5up 1
+Delay 64
+KeyDown 32 1
+Delay 2 s
+KeyUp 32 1
+Delay 64
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Archeage</Software>
+  </DefaultMacro>
+</Root>

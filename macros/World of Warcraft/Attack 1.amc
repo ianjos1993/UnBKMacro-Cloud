@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Приватный макрос для игры World of Warcraft. Макрос расчитан на игру в два окна. 
+
+Настройки в игре:
+1. Оконный режим
+ 1.1. Работает без привязки к окну
+ 1.2. Использывать драйвер </Description>
+    <Comment>Приватный макрос для игры World of Warcraft. Макрос расчитан на игру в два окна. 
+
+Настройки в игре:
+1. Оконный режим
+ 1.1. Работает без привязки к окну
+ 1.2. Использывать драйвер </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//Начала действия, окно 1
+KeyDown 30 1
+KeyUp 30 1
+Delay 64 ms
+//Переключение на окно 2
+KeyDown 226 1
+KeyDown 43 1
+KeyUp 43 1
+KeyUp 226 1
+Delay 64 ms
+//Начала действия, окно 2
+KeyDown 30 1
+KeyUp 30 1
+Delay 64 ms
+//Переключение на окно 1
+KeyDown 226 1
+KeyDown 43 1
+KeyUp 226 1
+KeyUp 43 1</Syntax>
+    </KeyDown>
+    <Software>World of Warcraft</Software>
+  </DefaultMacro>
+</Root>

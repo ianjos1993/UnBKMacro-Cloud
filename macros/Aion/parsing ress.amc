@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>разбор ресурсов  через панель игры используя внутри игровой макрос на кнопку 7 и 6 раз нажатий кд 3200 мс6*3200=19200 мс) после чего кнопка 8 и 6 нажатий кд 3200 мс(6*3200=19200 мс)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 36 1
+Delay 10 ms
+KeyUp 36 1
+Delay 10 ms
+Delay 19200 ms
+KeyDown 37 1
+Delay 10 ms
+KeyUp 37 1
+Delay 10 ms
+Delay 19200 ms</Syntax>
+    </KeyDown>
+    <Software>AION</Software>
+  </DefaultMacro>
+</Root>

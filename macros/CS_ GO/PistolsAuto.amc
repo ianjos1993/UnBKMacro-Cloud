@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>
+Автоматический макрос для большинства пистолетов в CS:GO. Макрос подходит для пистолетов
+p250, glock, tec-9, dual berettas​, five-seven, usp-s и p2000 под любые игровые настройки.</Description>
+    <Comment>PistolsAuto
+</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 52 ms
+LeftUp 1
+Delay 15 ms
+LeftDown 1
+Delay 52 ms
+LeftUp 1
+Delay 15 ms
+LeftDown 1
+Delay 52 ms
+LeftUp 1
+Delay 15 ms
+LeftDown 1
+Delay 52 ms
+LeftUp 1
+Delay 15 ms
+LeftDown 1
+Delay 52 ms
+LeftUp 1
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>CSGO</Software>
+  </DefaultMacro>
+</Root>

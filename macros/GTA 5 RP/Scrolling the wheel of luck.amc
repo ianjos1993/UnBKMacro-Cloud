@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос автоматически крутит колесо удачи, когда Вас нет у ПК.
+Как активировать: включаете макрос, открываете сайт казино и колесо удачи, ставите мышку над кнопкой прокрутки. 
+Скрипт раз в 5 минут проверяет цвет кнопки (когда она активная, она рыжая), нажимает, если прокрутка доступна.
+Тестировалось на разрешении 1440х900, работать будет с любым, т.к. мышку ставите сами над кнопкой.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 6 3 191,170,0 176,86,0 0 1920 1080 1 1 1 0
+GoColor 3 2 191,170,0 176,86,0 0 1920 1080 1 1 1 0
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 300 s
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

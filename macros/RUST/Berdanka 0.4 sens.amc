@@ -1,0 +1,114 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на берданку с самодельным прицелом, на сенсу 0.4. 
+Писал лично под себя на разрешение 1052х1052 и сенсу 0.4
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+MoveR 0 40
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+MoveR 0 40
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+MoveR 0 40
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+MoveR 0 40
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+MoveR 0 40
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+MoveR 0 40
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+MoveR 0 40
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+MoveR 0 40
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+MoveR 0 40
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+MoveR 0 40
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+MoveR 0 40
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+MoveR 0 40
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+MoveR 0 40
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+MoveR 0 40
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+MoveR 0 40
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+MoveR 0 40
+Delay 64
+LeftUp 1
+Delay 600 min</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

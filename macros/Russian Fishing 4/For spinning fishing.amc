@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>ИНСТРУКЦИЯ:
+
+1:Открыть клавиатуру, назначить кнопу для работы макроса.
+
+2:Запустить макрос.
+
+
+СОВЕТЫ ПО ИСПОЛЬЗЫВАНИЮ:
+
+1: Работает на спиннинг ( только на него ).
+
+2: Ловится лучше всего щука, окунь.
+
+3: Скорость подбирается по катушке ( Для каждой разная скорость ), скорость от 14-27.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 200 ms
+RightDown 1
+Delay 64 ms
+RightUp 1
+Delay 1300 ms
+RightDown 1
+Delay 64
+RightUp 1
+Delay 1300 ms
+RightDown 1
+Delay 64
+RightUp 1
+Delay 1300 ms</Syntax>
+    </KeyDown>
+    <Software>Russian Fishing 4</Software>
+  </DefaultMacro>
+</Root>

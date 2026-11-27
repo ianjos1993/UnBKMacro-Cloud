@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос возращает элементы стрительста в исходное положение если они заредактированы, лучше всего ставить на скролл</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+Delay 15 ms
+RightDown 1
+Delay 15 ms
+RightUp 1
+Delay 15 ms
+KeyUp 6 1</Syntax>
+    </KeyDown>
+    <Software>fortnite</Software>
+  </DefaultMacro>
+</Root>

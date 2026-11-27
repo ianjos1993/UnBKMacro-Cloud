@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major>Автопринятие заказов такси GTA 5 RP</Major>
+    <Description>Автоматически принимает заказ, полезно когда большой онлайн.
+Работает на 5 заказов. Ваша задача, открыть КПК таксиста и нажать на забитую кнопку и ждать. Работает циклично.
+Чтобы отключить еще раз нажмите на забитую кнопку.
+Разрешение 1920*1080 в полном безрамочном екране</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1044 360
+Delay 20 ms
+LeftDown 1
+Delay 20 ms
+LeftUp 1
+Delay 20 ms
+MoveTo 1044 408
+Delay 20 ms
+LeftDown 1
+Delay 20 ms
+LeftUp 1
+Delay 20 ms
+MoveTo 1044 456
+Delay 20 ms
+LeftDown 1
+Delay 20 ms
+LeftUp 1
+Delay 20 ms
+MoveTo 1044 504
+Delay 20 ms
+LeftDown 1
+Delay 20 ms
+LeftUp 1
+Delay 20 ms
+MoveTo 1044 552
+Delay 20 ms
+LeftDown 1
+Delay 20 ms
+LeftUp 1
+Delay 20 ms
+GoWhile 1 100</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

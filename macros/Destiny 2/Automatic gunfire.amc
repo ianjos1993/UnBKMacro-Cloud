@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматическая стрельба из пистолетов, револьверов, винтовок разведчика и имульсных винтовок.
+Назначаете на удобную Вам клавишу, при нажатии и удержании которой происходит стрельба.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Destiny 2 Titian Skating</Software>
+  </DefaultMacro>
+</Root>

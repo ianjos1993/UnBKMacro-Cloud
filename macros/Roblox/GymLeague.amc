@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для режима под названием Gym League - это симулятор качка, в котором нужно прокачивать свои мышца нажатием кнопки мыши. Но если ты устал это делать, то тогда этот макрос именно для тебя. Твой персонаж никогда не упадёт, если у него кончается выносливость, ведь этот макрос так же ждёт её возврата, если её очень мало. Разрешение: 1920x1080, Формат: 16:9 </Description>
+    <Comment>Надеюсь помог &lt;3</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+LeftUp 1
+Delay 15 ms
+GoWhile 1 10
+GoColor 1 1 0,113,184 255,255,255 2 528 934 122 27 1 0
+GoColor 8 0 0,113,184 255,255,255 2 528 934 122 27 1 0
+Delay 40 s
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

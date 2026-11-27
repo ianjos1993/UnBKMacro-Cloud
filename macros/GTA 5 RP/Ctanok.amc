@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major>Станок в тюрьме</Major>
+    <Description>Макрос просто делает вид что вы работаете проверено в течении 12 часов, подходите к станку чтоб появилась кнопка взаимодействия включаете макрос и он цеклично будет взаимодействовать со станком.
+Так чуть быстрее проходит время в тюрьме. И не кидает  в АФК. 
+ВНИМАНИЕ макрос не делает за вас работу!!! 
+Проверено и протестировано на разрешение экрана 1920х1080</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoWhile 1 5
+KeyDown 8 1
+MoveTo 806 772
+Delay 14 25 ms
+MoveTo 955 856
+Delay 64
+MoveTo 1140 755
+Delay 7 15 ms
+KeyDown 8 1
+MoveTo 812 872
+Delay 14 22 ms
+MoveTo 951 827
+Delay 10 25 ms
+KeyDown 8 1
+MoveTo 947 752
+Delay 10 25 ms
+MoveTo 1159 901
+Delay 10 25 ms
+Delay 10 ms
+KeyUp 8 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>GTA5 RP</Software>
+  </DefaultMacro>
+</Root>

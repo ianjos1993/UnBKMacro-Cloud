@@ -1,0 +1,83 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для цитры.
+Простенькая зацикленная мелодия из тетради смерти. 
+Сделано для тех кому лень искать ноты для мелодии и забивать их самостоятельно.
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 150 ms
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 150 ms
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 150 ms
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 150 ms
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 150 ms
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 150 ms
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 150 ms
+KeyDown 28 1
+Delay 64
+KeyUp 28 1
+Delay 150 ms
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 150 ms
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 150 ms
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 150 ms
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 150 ms
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 150 ms
+KeyDown 11 1
+Delay 64
+KeyUp 11 1
+Delay 150 ms
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 150 ms
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 150 ms</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

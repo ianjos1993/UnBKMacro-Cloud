@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Фарм молота тора в The walking zombie 2 без кибер рук. Чтобы все работало, нужно навести на молот курсор, после чего спиной в заднюю левую часть желтой палатки и запустить макрос. Можно немного подправить курсор. Повторений стоит 500, в случае неудачи повторно запустить макрос. После всех выполненных действий можете спокойно заниматься своими делами.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 53 ms
+KeyDown 26 1
+Delay 1400 ms
+KeyUp 26 1
+KeyDown 8 1
+Delay 1 ms
+KeyUp 8 1
+KeyDown 22 1
+Delay 2000 ms
+KeyUp 22 1
+Delay 4 s
+GoWhile 1 500</Syntax>
+    </KeyDown>
+    <Software>the walking zombie 2 фарм молота тора без кибер-рук</Software>
+  </DefaultMacro>
+</Root>

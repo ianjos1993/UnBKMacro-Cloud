@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для фарма душ Dark Souls 3. Переходим к косту "Пик древних драконов". Встаем у костра, так, чтобы без лишних манипуляций можно было садиться и вставать у коста. Готовим заклинание "Кристаллическое копье души", прокачиваем магию до необходимого уровня, чтобы можно было пользоваться заклинанием, надеваем все кольца, повышающие дамаг магии. Садимся у костра, не передвигаясь, нацеливаемся на Человека змеелюда, включаем макрос. 
+
+Суть такова: макрос будет делать следующие действия: встать с костра, выстрелить заклинанием (убивает змеелюда), сесть у костра, повтор действий.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 106 ms
+KeyUp 20 1
+Delay 3248 ms
+LeftDown 1
+Delay 2867 ms
+LeftUp 1
+Delay 939 ms
+LeftDown 1
+Delay 2867 ms
+LeftUp 1
+Delay 939 ms
+MiddleDown 1
+Delay 64
+MiddleUp 1
+Delay 64
+GoWhile 1 99999</Syntax>
+    </KeyDown>
+    <Software>Dark Souls 3 - Фарм душ на костре "Пик древних драконов"</Software>
+  </DefaultMacro>
+</Root>

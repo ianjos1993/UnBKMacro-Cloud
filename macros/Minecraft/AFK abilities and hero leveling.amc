@@ -1,0 +1,267 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Для режима "Путь героя" на сервере streamcraft 
+Макрос на афк фарм с способностями и прокачкой лвла раз в полторы минуты. Позволяет быстро прокачиватся и не терять лвл во время афк фарма. Использовать в разрешении 1920 х 1080</Description>
+    <Comment>Комментарий для модератора,
+Скрипт загружен в целях продвижения использования на сервере игроками. Сервер https://streamcraft.net/ Режим "Путь героя"</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+Delay 131 ms
+KeyUp 6 1
+Delay 834 ms
+KeyDown 10 1
+Delay 99 ms
+KeyUp 10 1
+Delay 1278 ms
+KeyDown 25 1
+Delay 99 ms
+KeyUp 25 1
+Delay 863 ms
+KeyDown 21 1
+Delay 132 ms
+KeyUp 21 1
+Delay 5098 ms
+KeyDown 25 1
+Delay 99 ms
+KeyUp 25 1
+Delay 5414 ms
+KeyDown 25 1
+Delay 99 ms
+KeyUp 25 1
+Delay 4012 ms
+KeyDown 21 1
+Delay 132 ms
+KeyUp 21 1
+Delay 131 ms
+KeyDown 21 1
+Delay 131 ms
+KeyUp 21 1
+Delay 99 ms
+KeyDown 21 1
+Delay 132 ms
+KeyUp 21 1
+Delay 960 ms
+KeyDown 25 1
+Delay 132 ms
+KeyUp 25 1
+Delay 5158 ms
+KeyDown 25 1
+Delay 195 ms
+KeyUp 25 1
+Delay 3472 ms
+KeyDown 25 1
+Delay 131 ms
+KeyUp 25 1
+Delay 68 ms
+KeyDown 25 1
+Delay 99 ms
+KeyUp 25 1
+Delay 67 ms
+KeyDown 25 1
+Delay 132 ms
+KeyUp 25 1
+Delay 69 ms
+KeyDown 25 1
+Delay 131 ms
+KeyUp 25 1
+Delay 68 ms
+KeyDown 25 1
+Delay 131 ms
+KeyUp 25 1
+Delay 68 ms
+KeyDown 25 1
+Delay 131 ms
+KeyUp 25 1
+Delay 68 ms
+KeyDown 25 1
+Delay 132 ms
+KeyUp 25 1
+Delay 67 ms
+KeyDown 25 1
+Delay 132 ms
+KeyUp 25 1
+Delay 68 ms
+KeyDown 25 1
+Delay 132 ms
+KeyUp 25 1
+Delay 4041 ms
+KeyDown 21 1
+Delay 131 ms
+KeyUp 21 1
+Delay 929 ms
+KeyDown 25 1
+Delay 163 ms
+KeyUp 25 1
+Delay 4266 ms
+KeyDown 25 1
+Delay 132 ms
+KeyUp 25 1
+Delay 736 ms
+KeyDown 25 1
+Delay 131 ms
+KeyUp 25 1
+Delay 5698 ms
+KeyDown 25 1
+Delay 164 ms
+KeyUp 25 1
+Delay 2574 ms
+KeyDown 30 1
+Delay 164 ms
+KeyUp 30 1
+Delay 722 ms
+MoveTo 960 528
+Delay 6 ms
+MoveTo 960 529
+Delay 9 ms
+MoveTo 960 533
+Delay 6 ms
+MoveTo 960 537
+Delay 9 ms
+MoveTo 960 543
+Delay 7 ms
+MoveTo 961 550
+Delay 7 ms
+MoveTo 962 559
+Delay 8 ms
+MoveTo 964 571
+Delay 7 ms
+MoveTo 966 584
+Delay 8 ms
+MoveTo 968 598
+Delay 7 ms
+MoveTo 968 612
+Delay 7 ms
+MoveTo 968 628
+Delay 7 ms
+MoveTo 968 643
+Delay 8 ms
+MoveTo 966 658
+Delay 7 ms
+MoveTo 965 675
+Delay 8 ms
+MoveTo 964 692
+Delay 7 ms
+MoveTo 963 710
+Delay 8 ms
+MoveTo 963 728
+Delay 7 ms
+MoveTo 962 747
+Delay 8 ms
+MoveTo 962 767
+Delay 7 ms
+MoveTo 962 781
+Delay 8 ms
+MoveTo 961 798
+Delay 7 ms
+MoveTo 959 813
+Delay 8 ms
+MoveTo 959 826
+Delay 7 ms
+MoveTo 958 837
+Delay 7 ms
+MoveTo 958 846
+Delay 8 ms
+MoveTo 957 853
+Delay 9 ms
+MoveTo 957 859
+Delay 7 ms
+MoveTo 957 862
+Delay 7 ms
+MoveTo 957 864
+Delay 60 ms
+MoveTo 958 865
+Delay 11 ms
+MoveTo 959 865
+Delay 11 ms
+MoveTo 960 867
+Delay 5 ms
+MoveTo 961 870
+Delay 6 ms
+MoveTo 962 874
+Delay 7 ms
+MoveTo 962 881
+Delay 7 ms
+MoveTo 962 890
+Delay 8 ms
+MoveTo 962 900
+Delay 7 ms
+MoveTo 962 911
+Delay 7 ms
+MoveTo 962 920
+Delay 7 ms
+MoveTo 962 929
+Delay 9 ms
+MoveTo 961 936
+Delay 6 ms
+MoveTo 961 941
+Delay 8 ms
+MoveTo 961 946
+Delay 7 ms
+MoveTo 961 950
+Delay 9 ms
+MoveTo 961 955
+Delay 7 ms
+MoveTo 961 957
+Delay 63 ms
+MoveTo 962 959
+Delay 158 ms
+LeftDown 1
+Delay 0 ms
+MoveTo 962 959
+Delay 88 ms
+LeftUp 1
+Delay 61 ms
+MoveTo 962 959
+Delay 68 ms
+MoveTo 962 958
+Delay 82 ms
+MoveTo 962 957
+Delay 25 ms
+MoveTo 962 956
+Delay 25 ms
+MoveTo 962 955
+Delay 58 ms
+MoveTo 962 954
+Delay 88 ms
+LeftDown 1
+Delay 0 ms
+MoveTo 962 953
+Delay 102 ms
+LeftUp 1
+Delay 330 ms
+LeftDown 1
+Delay 0 ms
+MoveTo 962 953
+Delay 74 ms
+LeftUp 1
+Delay 490 ms
+KeyDown 41 1
+Delay 132 ms
+KeyUp 41 1
+Delay 4498 ms
+KeyDown 25 1
+Delay 131 ms
+KeyUp 25 1
+Delay 1785 ms
+KeyDown 6 1
+Delay 35 ms
+KeyUp 6 1
+Delay 801 ms
+KeyDown 21 1
+Delay 131 ms
+KeyUp 21 1
+Delay 2423 ms
+KeyDown 25 1
+Delay 101 ms
+KeyUp 25 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

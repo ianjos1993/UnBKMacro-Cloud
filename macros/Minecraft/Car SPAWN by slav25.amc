@@ -1,0 +1,72 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматически прописывает команду /SPAWN для телепортации на спавн.
+
+Привила использования:
+
+1. Язык должн быть РУССКИЙ.
+
+2.НЕ надо включать чат на клавишу t.
+
+3.Ничего не нажимать при срабатывании макроса</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 8 ms
+KeyDown 226 1
+Delay 8 ms
+KeyUp 226 1
+Delay 8 ms
+KeyUp 225 1
+Delay 8 ms
+KeyDown 23 1
+Delay 8 ms
+KeyUp 23 1
+Delay 8 ms
+KeyDown 56 1
+Delay 8 ms
+KeyUp 56 1
+Delay 8 ms
+KeyDown 22 1
+Delay 8 ms
+KeyUp 22 1
+Delay 8 ms
+KeyDown 19 1
+Delay 8 ms
+KeyUp 19 1
+Delay 8 ms
+KeyDown 4 1
+Delay 8 ms
+KeyUp 4 1
+Delay 8 ms
+KeyDown 26 1
+Delay 8 ms
+KeyUp 26 1
+Delay 8 ms
+KeyDown 17 1
+Delay 8 ms
+KeyUp 17 1
+Delay 8 ms
+KeyDown 40 1
+Delay 8 ms
+KeyUp 40 1
+Delay 8 ms
+KeyDown 225 1
+Delay 8 ms
+KeyDown 226 1
+Delay 8 ms
+KeyUp 226 1
+Delay 8 ms
+KeyUp 225 1
+Delay 8 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,67 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макросс предзназначен для легкого контроля отдачи на ПП в Радуге
+На Оружии даложно быть Вертикальная рукоятка и пламегаситель
+Чувствительность 10
+Чувствительность по Вертикали 14
+DPI 400
+Разрешение 1440x1080</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 8 ms
+Delay 16 ms
+MoveR -1 5
+Delay 8 ms
+Delay 16 ms
+MoveR 1 4
+Delay 8 ms
+Delay 16 ms
+MoveR -1 5
+Delay 8 ms
+Delay 16 ms
+MoveR 1 4
+Delay 8 ms
+Delay 16 ms
+MoveR -1 5
+Delay 8 ms
+Delay 16 ms
+MoveR 1 4
+Delay 8 ms
+Delay 16 ms
+MoveR -1 5
+Delay 16 ms
+Delay 8 ms
+Delay 16 ms
+MoveR -1 5
+Delay 8 ms
+Delay 16 ms
+MoveR 1 4
+Delay 8 ms
+Delay 16 ms
+MoveR -1 5
+Delay 8 ms
+Delay 16 ms
+MoveR 1 4
+Delay 8 ms
+Delay 16 ms
+MoveR -1 5
+Delay 8 ms
+Delay 16 ms
+MoveR 1 4
+Delay 8 ms
+Delay 16 ms
+MoveR -1 5
+Delay 16 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

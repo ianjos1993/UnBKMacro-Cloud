@@ -1,0 +1,130 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>A macro for the RUST game for Python.
+
+
+In-game settings:
+- FOV 85-Sensitivity 0.66
+
+Command console F1 - «input.sensitivity 0.66» </Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15
+MoveR 0 10
+Delay 15
+MoveR 0 10
+Delay 15
+MoveR 0 10
+Delay 15
+MoveR 0 10
+Delay 15
+MoveR 0 10
+Delay 15
+MoveR 0 10
+Delay 15
+MoveR 0 10
+Delay 15
+LeftUp 1
+Delay 15
+LeftDown 1
+Delay 15
+MoveR 0 10
+Delay 15
+MoveR 0 10
+Delay 15
+MoveR 0 10
+Delay 15
+MoveR 0 10
+Delay 15
+MoveR 0 10
+Delay 15
+MoveR 0 10
+Delay 15
+MoveR 0 10
+Delay 15
+LeftUp 1
+Delay 15
+LeftDown 1
+Delay 15
+MoveR 0 10
+Delay 15
+MoveR 0 10
+Delay 15
+MoveR 0 10
+Delay 15
+MoveR 0 10
+Delay 15
+MoveR 0 10
+Delay 15
+MoveR 0 10
+Delay 15
+MoveR 0 10
+Delay 15
+LeftUp 1
+Delay 15
+LeftDown 1
+Delay 15
+MoveR 0 10
+Delay 15
+MoveR 0 10
+Delay 15
+MoveR 0 10
+Delay 15
+MoveR 0 10
+Delay 15
+MoveR 0 10
+Delay 15
+MoveR 0 10
+Delay 15
+MoveR 0 10
+Delay 15
+LeftUp 1
+Delay 15
+LeftDown 1
+Delay 15
+MoveR 0 10
+Delay 15
+MoveR 0 10
+Delay 15
+MoveR 0 10
+Delay 15
+MoveR 0 10
+Delay 15
+MoveR 0 10
+Delay 15
+MoveR 0 10
+Delay 15
+MoveR 0 10
+Delay 15
+LeftUp 1
+Delay 15
+LeftDown 1
+Delay 15
+MoveR 0 10
+Delay 15
+MoveR 0 10
+Delay 15
+MoveR 0 10
+Delay 15
+MoveR 0 10
+Delay 15
+MoveR 0 10
+Delay 15
+MoveR 0 10
+Delay 15
+MoveR 0 10
+Delay 15
+LeftUp 1
+Delay 86400000 min</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

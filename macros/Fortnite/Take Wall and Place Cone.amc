@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This Macro allows you to take someone's wall instantly and place a cone in their box. This helps you with peice control and will be a game changer for you. You can use this macro in Creative, Battle Royal, Ranked, etc. I hope this helps. Have fun :)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 5
+LeftUp 1
+Delay 5
+LeftDown 1
+Delay 5
+LeftUp 1
+Delay 5
+KeyDown 29 1
+Delay 5
+KeyUp 29 1
+Delay 5
+KeyDown 25 1
+Delay 5
+KeyUp 25 1
+Delay 5</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

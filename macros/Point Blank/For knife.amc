@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для ножей. Самый простой и удобный в использовании. Ваша задача поставить на любую легкодоступную кнопку этот макрос- зайти на ножи. Объясню работу макроса: У вас должна быть любая граната в слоте №5 . Когда вы видите что вы рано нажали лкм, то просто тыкните свою кнопку и у вас моментально появится нож в руке без анимации(Задержка минимальная для PB). Удачи))</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 34 1
+Delay 17 ms
+KeyUp 34 1
+Delay 17 ms
+KeyDown 32 1
+Delay 17 ms
+KeyUp 32 1
+Delay 17 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

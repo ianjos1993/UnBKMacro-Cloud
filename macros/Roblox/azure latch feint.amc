@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major>Azure Latch</Major>
+    <Description>This macro for the game Azure Latch in Roblox performs two actions. One, you charge a shot. Two, you super run, canceling the shot. This is good for faking out aggressive slide tackles. The original resolution is 1920x1080, but it doesn't matter due to the fact that there's no camera movement involved.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 256 ms
+KeyDown 9 1
+Delay 64
+LeftUp 1
+KeyUp 9 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

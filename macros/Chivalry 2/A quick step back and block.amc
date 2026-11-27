@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос позволит вам в Chivalry 2, отлично поможет избежать удара противника. Ставьте на удобную вами клавиши и режим работы один раз при нажатии. </Description>
+    <Comment>Он полезный всегда меня выручает</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 64
+KeyDown 225 1
+Delay 64
+KeyUp 225 1
+Delay 64
+KeyUp 22 1
+RightDown 1
+Delay 500 ms
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Chivalry 2</Software>
+  </DefaultMacro>
+</Root>

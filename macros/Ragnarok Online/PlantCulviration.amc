@@ -1,0 +1,78 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос предназначен для фарма лута Poison Spore,
+Высаживает гриб1 &gt; Удар телегой(бьет  на 1 хп и подвигает гриб на следующую клетку) &gt; Высаживает новый гриб&gt; Повторяем55 раз &gt; Удар телегой 15 раз (убивает все грибы) &gt; Юзает грид что бы поднять весь лут. После определенного кол-ва раз лут скидывается автоматом в телегу
+
+Для работы макроса ОБЯЗАТЕЛЬНО необходим Рюкзак/BraveryBag(дает скил Грид) </Description>
+    <Comment>MushroomPlanting</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//   It is your new script below.
+//-------------------
+//there are three ways to create the script.
+//1. Insert functions from top and left panels.
+//2. Record both mouse and keyboard movements using record button.
+//3. Input with either keyboard panel below or your actual keyboard.
+Delay 100 ms
+MoveTo 284 272
+Delay 64 ms
+KeyDown 59 1
+Delay 64 ms
+KeyUp 59 1
+Delay 64 ms
+Delay 100 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 500 ms
+KeyDown 60 1
+Delay 64 ms
+KeyUp 60 1
+Delay 64 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 100 ms
+GoWhile 7 55
+Delay 100 ms
+MoveTo 254 271
+Delay 100 ms
+KeyDown 60 1
+Delay 100 ms
+KeyUp 60 1
+Delay 100 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 700 ms
+GoWhile 30 15
+Delay 64 ms
+KeyDown 63 1
+Delay 64 ms
+KeyUp 63 1
+Delay 800 ms
+GoWhile 7 45
+Delay 200 ms
+MoveTo 128 400
+Delay 400 ms
+LeftDown 1
+Delay 400 ms
+MoveTo 149 275
+Delay 400 ms
+LeftUp 1
+Delay 600 ms
+KeyDown 40 1
+Delay 300 ms
+KeyUp 40 1
+Delay 1000 ms
+GoWhile 45 6</Syntax>
+    </KeyDown>
+    <Software>Ragnarok</Software>
+  </DefaultMacro>
+</Root>

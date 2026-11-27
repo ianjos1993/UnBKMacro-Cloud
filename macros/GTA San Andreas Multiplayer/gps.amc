@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>авто-ввод комманды /gps
+ну если прям лень вводить самому(я), а что ещё писать? Я хз лол:&gt; Но описанию надо минимум сто символов :|</Description>
+    <Comment>хых, полезная штучка</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 63 1
+Delay 64
+KeyUp 63 1
+Delay 64
+KeyDown 56 1
+Delay 10 ms
+KeyUp 56 1
+KeyDown 88 1
+Delay 10 ms
+KeyDown 10 1
+Delay 10 ms
+KeyUp 10 1
+Delay 10 ms
+KeyDown 19 1
+Delay 10 ms
+KeyUp 19 1
+Delay 10 ms
+KeyDown 22 1
+Delay 10 ms
+KeyUp 22 1
+Delay 10 ms
+KeyDown 88 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>SA:MP</Software>
+  </DefaultMacro>
+</Root>

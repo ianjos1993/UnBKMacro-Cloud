@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>Антиотдача АК-103 или АК Искателя</Major>
+    <Description>Элементарный зацикленный макрос
+Разрешение 1920х1080
+Колиматорный прицел
+Компенсации по оси x нет, оно особо и не нужно
+Бинд на ЛКМ</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 0 1
+Delay 11 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

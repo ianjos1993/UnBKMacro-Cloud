@@ -1,0 +1,231 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всем привет, хотел бы вам предоставить приватный макрос на оружие M4A4, а именно, в игре CS:GO
+Данный макрос делает мягкий зажим.
+Итак, перейдем к настройкам
+1. Запускаем игру и в консоли пишем команду sensivity 2.5
+2. Сохраняем данный макрос к себе
+3. Заходим в вкладку "Клавиши"
+4. Жмем на любую удобную клавишу правой кнопкой мыши и выбираем "Присвоить AMC Макрос и выбираем раннее сохранянный вами макрос"
+5. Заходим в игру и берем в руки M4A4, зажимаем раннее забидженную клавишу.
+6. Вооооуляяя, скрипт работает</Description>
+    <Comment>www.goodman.expert
+</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 21 ms
+MoveR 0 1
+Delay 21 ms
+MoveR 0 1
+Delay 21 ms
+MoveR 0 2
+Delay 21 ms
+MoveR 0 2
+Delay 21 ms
+MoveR 0 3
+Delay 21 ms
+MoveR 0 3
+Delay 21 ms
+MoveR 0 3
+Delay 21 ms
+MoveR 0 3
+Delay 21 ms
+MoveR -1 4
+Delay 21 ms
+MoveR -1 4
+Delay 21 ms
+MoveR -1 4
+Delay 21 ms
+MoveR -1 4
+Delay 21 ms
+MoveR 1 5
+Delay 21 ms
+MoveR 1 5
+Delay 21 ms
+MoveR 1 5
+Delay 21 ms
+MoveR 1 5
+Delay 21 ms
+MoveR -1 6
+Delay 21 ms
+MoveR -1 6
+Delay 21 ms
+MoveR -1 6
+Delay 21 ms
+MoveR -1 6
+Delay 21 ms
+MoveR -1 7
+Delay 21 ms
+MoveR -1 7
+Delay 21 ms
+MoveR -1 7
+Delay 21 ms
+MoveR -1 7
+Delay 21 ms
+MoveR 3 4
+Delay 21 ms
+MoveR 3 4
+Delay 21 ms
+MoveR 3 4
+Delay 21 ms
+MoveR 3 4
+Delay 21 ms
+MoveR 3 3
+Delay 21 ms
+MoveR 3 3
+Delay 21 ms
+MoveR 3 3
+Delay 21 ms
+MoveR 3 3
+Delay 21 ms
+MoveR 5 2
+Delay 21 ms
+MoveR 5 2
+Delay 21 ms
+MoveR 5 2
+Delay 21 ms
+MoveR 5 2
+Delay 21 ms
+MoveR 0 2
+Delay 21 ms
+MoveR 0 2
+Delay 21 ms
+MoveR 0 2
+Delay 21 ms
+MoveR 0 2
+Delay 21 ms
+MoveR -5 0
+Delay 21 ms
+MoveR -5 0
+Delay 21 ms
+MoveR -5 0
+Delay 21 ms
+MoveR -5 0
+Delay 21 ms
+MoveR -6 0
+Delay 21 ms
+MoveR -6 0
+Delay 21 ms
+MoveR -6 0
+Delay 21 ms
+MoveR -6 0
+Delay 21 ms
+MoveR -9 0
+Delay 21 ms
+MoveR -9 0
+Delay 21 ms
+MoveR -9 0
+Delay 21 ms
+MoveR -9 0
+Delay 21 ms
+MoveR -4 -1
+Delay 21 ms
+MoveR -4 -1
+Delay 21 ms
+MoveR -4 -1
+Delay 21 ms
+MoveR -4 -1
+Delay 87 ms
+MoveR 0 0
+Delay 21 ms
+MoveR 0 2
+Delay 21 ms
+MoveR 0 2
+Delay 21 ms
+MoveR 0 2
+Delay 21 ms
+MoveR 0 2
+Delay 21 ms
+MoveR -2 0
+Delay 21 ms
+MoveR -2 0
+Delay 21 ms
+MoveR -2 0
+Delay 21 ms
+MoveR -2 0
+Delay 21 ms
+MoveR -2 0
+Delay 21 ms
+MoveR -2 0
+Delay 21 ms
+MoveR -2 0
+Delay 21 ms
+MoveR -2 0
+Delay 87 ms
+MoveR 0 0
+Delay 21 ms
+MoveR 6 0
+Delay 21 ms
+MoveR 6 0
+Delay 21 ms
+MoveR 6 0
+Delay 21 ms
+MoveR 6 0
+Delay 21 ms
+MoveR 4 0
+Delay 21 ms
+MoveR 4 0
+Delay 21 ms
+MoveR 4 0
+Delay 21 ms
+MoveR 4 0
+Delay 21 ms
+MoveR 8 2
+Delay 21 ms
+MoveR 8 2
+Delay 21 ms
+MoveR 8 2
+Delay 21 ms
+MoveR 8 2
+Delay 87 ms
+MoveR 0 0
+Delay 21 ms
+MoveR 4 0
+Delay 21 ms
+MoveR 4 0
+Delay 21 ms
+MoveR 4 0
+Delay 21 ms
+MoveR 4 0
+Delay 87 ms
+MoveR 0 0
+Delay 21 ms
+MoveR -1 0
+Delay 21 ms
+MoveR -1 0
+Delay 21 ms
+MoveR -1 0
+Delay 21 ms
+MoveR -1 0
+Delay 87 ms
+MoveR 0 0
+Delay 21 ms
+MoveR 0 3
+Delay 21 ms
+MoveR 0 3
+Delay 21 ms
+MoveR 0 3
+Delay 21 ms
+MoveR 0 3
+Delay 21 ms
+MoveR 2 2
+Delay 21 ms
+MoveR 2 2
+Delay 21 ms
+MoveR 2 2
+Delay 21 ms
+MoveR 2 2
+Delay 87 ms
+LeftUp 1
+Delay 8700 ms</Syntax>
+    </KeyDown>
+    <Software>CS: GO</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,68 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro types /bombarda and allows the caster to use it fast.
+Can be used in the game "Magic Training"
+
+About Bombarda:
+
+The Exploding Charm, or Bombarda, is an offensive spell that summons an explosion at the point of impact. It deals 60 damage, leaving the opponent at critical health. It's good for crowd control, but suffers in close-quarters where the spell may backfire onto the caster.
+A stronger, one-shot-kill version of the spell with a larger radius, Bombarda Maxima, formerly existed. It was removed due to abuse and spam because of its overpowered nature.
+
+-AKA: The Exploding Charm
+-Type: AoE
+-Effect: Causes an explosion at the point of impact
+-Counterspell: Episkey
+(Magic Training Wiki)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 10 ms
+KeyUp 56 1
+Delay 10 ms
+KeyDown 5 1
+Delay 10 ms
+KeyUp 5 1
+Delay 10 ms
+KeyDown 18 1
+Delay 10 ms
+KeyUp 18 1
+Delay 10 ms
+KeyDown 16 1
+Delay 10 ms
+KeyUp 16 1
+Delay 10 ms
+KeyDown 5 1
+Delay 10 ms
+KeyUp 5 1
+Delay 10 ms
+KeyDown 4 1
+Delay 10 ms
+KeyUp 4 1
+Delay 10 ms
+KeyDown 21 1
+Delay 10 ms
+KeyUp 21 1
+Delay 10 ms
+KeyDown 7 1
+Delay 10 ms
+KeyUp 7 1
+Delay 10 ms
+KeyDown 4 1
+Delay 10 ms
+KeyUp 4 1
+Delay 10 ms
+KeyDown 88 1
+Delay 10 ms
+KeyUp 88 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

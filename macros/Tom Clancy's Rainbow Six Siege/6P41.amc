@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>6P41 Recoil for Fuze/ Finka</Major>
+    <Description>A recoil reduction macro for 6P41. LMG recoils are hard to manage for long bursts, so this was designed to make an entire mag dump possible on even a small mousepad. Micro adjustments are needed, but you should be able to acheive 100% upper body shot hits at any range with a little practice
+
+Loadout: Vert, acog, comp
+
+Res: 16:10, 1920 x1080
+
+Sensitivity 6,6
+
+800 Dpi</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 25 ms
+MoveR 4 44 5 45
+Delay 25 ms
+MoveR 0 55
+Delay 25 ms
+MoveR 0 50
+Delay 25 ms
+MoveR -10 45
+Delay 25 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

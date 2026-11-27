@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос создан для автоматизации стрейфов.
+Поставьте данный макрос на кнопку A и в режим работы "пока нажата клавиша".
+Макрос тестировался 1920 на 1080 разрешении.
+Советую настроить его под себя так как у всех разная чувствительность (Макрос подходит для 1ед. Чувствительности).</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR -8 0
+Delay 8 ms
+MoveR -8 0
+Delay 8 ms
+MoveR -8 0
+Delay 8 ms
+MoveR -8 0
+Delay 8 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

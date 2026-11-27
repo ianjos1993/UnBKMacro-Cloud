@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простой макрос на фарм с автовыбором цели.
+Вам просто запустить макрос и все, таб срабатывает сам  через 12 секунд боя переключается на другю цель.
+Приятной игры!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//Конвертированный файл макроса 27 апреля 2022 13:07:48
+KeyDown 43 1
+KeyDown 30 1
+Delay 12 s
+KeyUp 43 1
+KeyDown 30 1
+Delay 12 s
+GoWhile 2 86400001</Syntax>
+    </KeyDown>
+    <Software>Rappelz</Software>
+  </DefaultMacro>
+</Root>

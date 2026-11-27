@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматический режим ведения огня для полуавтоматического дробовика SAP6
+Биндите на левую клавишу мыши и зажимаете
+На всякий случай проверьте режим работы - выполнять, пока клавиша зажата
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 30 ms
+LeftUp 1
+Delay 50 ms
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 50 ms
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 50 ms
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 50 ms
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 50 ms
+LeftDown 1
+Delay 30
+LeftUp 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>Warface</Software>
+  </DefaultMacro>
+</Root>

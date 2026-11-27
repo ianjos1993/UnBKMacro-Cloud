@@ -1,0 +1,56 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всем привет.И вот вновь я решил написать макрос для различных серверов Minecraft.И в этот раз это макрос на автоматический бан.Данный макрос будет полезен для бана игроков,которые играют нечестным путем.Главное после того как макрос напишет команду  написать ник и время бана игрока.
+
+Инструкция по настройке:
+1)Устанавливаете макрос.
+2)Открываете панель клавиатуры Keyran.
+3)Ставите макрос на удобную клавишу или кнопку мыши.
+4)Сохраняете и используете.
+
+Приятного использования.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 32 ms
+KeyUp 56 1
+Delay 32 ms
+KeyDown 23 1
+Delay 32 ms
+KeyUp 23 1
+Delay 32 ms
+KeyDown 8 1
+Delay 32 ms
+KeyUp 8 1
+Delay 32 ms
+KeyDown 16 1
+Delay 32 ms
+KeyUp 16 1
+Delay 32 ms
+KeyDown 19 1
+Delay 32 ms
+KeyUp 19 1
+Delay 32 ms
+KeyDown 5 1
+Delay 32 ms
+KeyUp 5 1
+Delay 32 ms
+KeyDown 4 1
+Delay 32 ms
+KeyUp 4 1
+Delay 32 ms
+KeyDown 17 1
+Delay 32 ms
+KeyUp 17 1
+Delay 32 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

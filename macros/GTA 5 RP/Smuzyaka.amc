@@ -1,0 +1,114 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос поможет вам готовить смузи.
+Он полностью автоматизирован и не требует вмешательства во время работы.
+
+Макрос самостоятельно берёт ингредиенты из шкафа, а затем кладёт туда готовый продукт и отходы.
+
+
+Приготовление смузи происходит с использованием блендера (при желании можно перенастроить на плиту).
+
+
+
+Для работы загрузите ингредиенты во второй слот шкафа, а блендер разместите в первый слот инвентаря - и всё будет работать.
+
+
+
+Разрешение: 1920×1080, полный экран.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 65
+KeyUp 8 1
+Delay 65
+MoveTo 896 333
+Delay 65
+KeyDown 224 1
+LeftDown 1
+MoveTo 702 314
+Delay 65
+LeftUp 1
+KeyUp 224 1
+MoveTo 623 439
+Delay 65
+LeftDown 1
+LeftUp 1
+KeyDown 79 1
+Delay 65
+KeyUp 79 1
+Delay 65
+KeyDown 42 1
+Delay 65
+KeyUp 42 1
+Delay 65
+KeyDown 33 1
+Delay 65
+KeyUp 33 1
+Delay 65
+KeyDown 39 1
+Delay 65
+KeyUp 39 1
+Delay 65
+MoveTo 688 539
+Delay 65
+LeftDown 1
+Delay 65
+LeftUp 1
+Delay 65
+KeyDown 41 1
+Delay 65
+KeyUp 41 1
+Delay 65
+KeyDown 12 1
+Delay 65
+KeyUp 12 1
+Delay 65
+MoveTo 1194 334
+RightDown 1
+Delay 65
+RightUp 1
+Delay 65
+Delay 65
+MoveTo 920 237
+Delay 65
+RightDown 1
+Delay 65
+RightUp 1
+Delay 65
+MoveTo 858 234
+Delay 65
+RightDown 1
+Delay 65
+RightUp 1
+Delay 65
+MoveTo 697 464
+Delay 65
+RightDown 1
+Delay 65
+RightUp 1
+Delay 65
+MoveTo 687 537
+Delay 65
+LeftDown 1
+Delay 65
+LeftUp 1
+Delay 65 ms
+Delay 5 s
+GoWhile 53 41
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 64
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

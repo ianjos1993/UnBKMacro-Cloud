@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>wellskate on flat ground 100% no fails with weapon switch used for long jumps for the warlock class in destiny 2</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 10 ms
+KeyUp 32 1
+Delay 500 ms
+KeyDown 44 1
+Delay 10 ms
+KeyUp 44 1
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 25 ms
+KeyDown 44 1
+Delay 25 ms
+KeyUp 44 1
+Delay 25 ms
+KeyDown 20 1
+Delay 10 ms
+KeyUp 20 1
+KeyDown 31 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Destiny 2</Software>
+  </DefaultMacro>
+</Root>

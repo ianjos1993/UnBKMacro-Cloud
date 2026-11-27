@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всем привет, многие уже прикупили новый Battle Pass в поинт бланке, и увидели там ахуенный берет
+который заменяет трудно-доступный пбтн)
+
+Обычный макрос на дробь/снайпу к такому берету не подойдет, поэтому я сделал макрос на Дробь/Снайпу
+специально с лучшими таймингами для этого берета, смена станет в 2-3 раза быстрее чем с обычным макросом и беретом, так же прокручивать макрос не будет.
+
+ВНИМАНИЕ! ИСПОЛЬЗОВАНИЕ БЕЗ БЕРЕТА НЕДОПУСТИМО(БУДУТ ПРОКРУТКИ)
+
+Ставить лучше на Доп.Клавишу мыши №4
+или на любую удобную.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 24 ms
+LeftUp 1
+KeyDown 32 1
+Delay 24 ms
+KeyUp 32 1
+KeyDown 30 1
+Delay 24 ms
+KeyUp 30 1</Syntax>
+    </KeyDown>
+    <Software>PointBlank</Software>
+  </DefaultMacro>
+</Root>

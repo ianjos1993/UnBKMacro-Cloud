@@ -1,0 +1,30 @@
+<Root>
+  <!-- by Britan -->
+  <DefaultMacro>
+    <Major></Major>
+    <Description>НАЗВАНИЕ: Apex Legends Auto-Slide. ОПИСАНИЕ: Автоматический слайд после спринта: W+Shift (спринт) -&gt; Ctrl (присесть) -&gt; Ctrl (слайд). Позволяет быстро перемещаться по карте. РЕКОМЕНДУЕМАЯ КЛАВИША: Mouse 5 (Side). КАК ИСПОЛЬЗОВАТЬ: Привяжи макрос на кнопку Mouse 5. Начни бежать и нажми Mouse 5 - макрос автоматически сделает спринт и слайд. Повторяй для быстрого перемещения. Пока зажата клавиша - цикл спринт+слайд повторяется. НАСТРОЙКА: Если слайд не работает - увеличь Delay 15 ms до 25 ms. АВТОР: by Britan. ЗАПРЕЩЕНО копировать без указания автора.</Description>
+    <Comment>Привязка: Mouse 5 (Side). Режим: повторяется пока зажата. Инструкция: беги и зажми - автоматический слайд-спринт.</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+KeyDown 16 1
+Delay 200 ms
+KeyUp 16 1
+KeyUp 26 1
+Delay 15 ms
+KeyDown 17 1
+Delay 80 ms
+KeyUp 17 1
+Delay 15 ms
+KeyDown 17 1
+Delay 80 ms
+KeyUp 17 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

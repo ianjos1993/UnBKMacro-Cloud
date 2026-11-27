@@ -1,0 +1,109 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>no recoil 2560 x 1440 rez 16:10 ratio
+f2 should have the extended barrel and 1.5x scope to work
+dpi is 900 and sens is 17
+F2 gun still has some recoil after spraying 6+ bullets.
+ minimal recoil
+
+this is the extended barrel version of my other script, the one with the muzzle brake. The muzzle brake one is more accurate, but this one is alright. only accurate on the first bullet. accurate again after the 3 bullet. Jumps up after the first bullet and i dont know how to fix that. made it accurate with tap shooting and spraying but not consistent when bursting with the gun</Description>
+    <Comment>no recoil 2560 x 1440 rez 16:10 ratio
+f2 should have extended barrel and 1.5x scope to work
+this is the extended barrel version of my other script, the one with the muzzle brake. The muzzle brake one is more accurate, but this one is alright. only accurate on the first bullet. accurate again after the 3 bullet. Jumps up after the first bullet and i dont know how to fix that. made it accurate with tap shooting and spraying but not consistent when bursting with the gun</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR -2 3
+MoveR -2 1
+Delay 1 ms
+MoveR 2 0
+Delay 1 ms
+MoveR -2 1
+Delay 1 ms
+MoveR 2 1
+Delay 1 ms
+MoveR -2 1
+Delay 1 ms
+MoveR 2 0
+Delay 1 ms
+MoveR -2 1
+Delay 1 ms
+MoveR 2 0
+Delay 1 ms
+MoveR -2 1
+Delay 1 ms
+MoveR 2 1
+Delay 1 ms
+MoveR -2 1
+Delay 1 ms
+MoveR 2 0
+Delay 1 ms
+MoveR -1 1
+Delay 1 ms
+MoveR 2 0
+Delay 1 ms
+MoveR -2 1
+Delay 1 ms
+MoveR 2 1
+Delay 1 ms
+MoveR -2 1
+Delay 1 ms
+MoveR 2 0
+Delay 1 ms
+MoveR -2 1
+Delay 1 ms
+MoveR 2 0
+Delay 1 ms
+MoveR -2 1
+Delay 1 ms
+MoveR 2 1
+Delay 1 ms
+MoveR -2 1
+Delay 1 ms
+MoveR 2 0
+Delay 1 ms
+MoveR -2 1
+Delay 1 ms
+MoveR 2 0
+Delay 1 ms
+MoveR -2 1
+Delay 1 ms
+MoveR 2 1
+Delay 1 ms
+MoveR -1 1
+Delay 1 ms
+MoveR 2 0
+Delay 1 ms
+MoveR -2 1
+Delay 1 ms
+MoveR 2 0
+Delay 1 ms
+MoveR -2 1
+Delay 1 ms
+MoveR 2 1
+Delay 1 ms
+MoveR -2 1
+Delay 1 ms
+MoveR 2 0
+Delay 1 ms
+MoveR -1 1
+Delay 1 ms
+MoveR 2 0
+Delay 1 ms
+MoveR -2 1
+Delay 1 ms
+MoveR 2 1
+Delay 1 ms
+MoveR -2 1
+Delay 1 ms
+MoveR 2 0
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

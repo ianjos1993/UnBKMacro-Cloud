@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>быстрое исрользование предметов на арк вардене советую z - хекс x - бладторн v- молнии
+через tab переключаться чтобы на иллюзии прожать предметы</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+KeyUp 29 1
+Delay 69 80 ms
+KeyDown 27 1
+KeyUp 27 1
+Delay 60 70 ms
+KeyDown 226 1
+KeyDown 25 1
+KeyUp 25 1
+KeyUp 226 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

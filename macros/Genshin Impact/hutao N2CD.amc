@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Hu Tao  COMBO  N2CD+
+
+this combo is full power  for  Constellation 1 (While in a Paramita Papilio state activated by Guide to Afterlife, Hu Tao's Charge Attacks [sic] do not consume Stamina.)
+
+2 normal attack + charge attack + dash  +A+D+A+D (cancal animation)
+
+full combo 10N2CD = 4243.27% damage</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 100 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 100 ms
+LeftDown 1
+Delay 300 ms
+LeftUp 1
+Delay 50 ms
+KeyDown 225 1
+Delay 50 ms
+KeyUp 225 1
+KeyDown 4 1
+KeyUp 4 1
+Delay 50 ms
+KeyDown 7 1
+KeyUp 7 1
+Delay 50 ms
+KeyDown 4 1
+KeyUp 4 1
+Delay 50 ms
+KeyDown 7 1
+KeyUp 7 1</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

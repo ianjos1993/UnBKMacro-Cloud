@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Привет , это макрос для тех кто использует АКС-74 У , для использования этого макроса тебе понадобится
+расширение - 1920x1080
+чувствительность мыши - 7.39
+1 шаг - забиндите на любую удобную вам клавишу(макрос) , 
+2 шаг - войдите в прицел , и зажмите горячую клавишу(бинд) . 
+удачи ! </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 0 13
+Delay 64
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

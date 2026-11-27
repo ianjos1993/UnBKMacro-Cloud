@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>Auto-farm, v1.0, Gift Farming</Major>
+    <Description>Macro for automatic MonoMono Machine rolling. It automatically spends Monocoins and gets the gifts needed to level up relationships with other characters (Free Time Events). A great way to save time on routine grinding.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 81 1
+Delay 64
+KeyUp 81 1
+Delay 64 ms
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 8 s
+GoWhile 1 300</Syntax>
+    </KeyDown>
+    <Software>Danganronpa: Trigger Happy Havoc</Software>
+  </DefaultMacro>
+</Root>

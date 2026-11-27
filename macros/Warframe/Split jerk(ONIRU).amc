@@ -1,0 +1,64 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос сделат под школу фокуса Унайру. Он работатет так:
+-Выходит в оператора
+-Делает рывок вперёд
+-Делает рывок назад
+-Делает рывок вперёд
+-Делает рывок назад
+-Возвращается в Варфрейма
+По итогу, делая 4 рывка, вы ослабляете врага на 40% его брони.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 34 1
+Delay 100 ms
+KeyUp 34 1
+Delay 300 ms
+KeyDown 224 1
+Delay 100 ms
+KeyDown 26 1
+Delay 50 ms
+KeyDown 44 1
+Delay 100 ms
+KeyUp 44 1
+KeyUp 26 1
+Delay 300 ms
+KeyDown 22 1
+Delay 50 ms
+KeyDown 44 1
+Delay 100 ms
+KeyUp 44 1
+KeyUp 22 1
+Delay 300 ms
+Delay 64
+KeyDown 26 1
+Delay 50 ms
+KeyDown 44 1
+Delay 100 ms
+KeyUp 44 1
+KeyUp 26 1
+Delay 300 ms
+KeyDown 22 1
+Delay 50 ms
+KeyDown 44 1
+Delay 100 ms
+KeyUp 22 1
+KeyUp 44 1
+Delay 500 ms
+KeyUp 224 1
+Delay 64
+KeyDown 34 1
+Delay 100 ms
+KeyUp 34 1
+Delay 300 ms</Syntax>
+    </KeyDown>
+    <Software>Warframe</Software>
+  </DefaultMacro>
+</Root>

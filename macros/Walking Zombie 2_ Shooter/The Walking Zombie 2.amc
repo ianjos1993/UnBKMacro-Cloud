@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Постоянное автонажатие на кнопку "E". То есть нажатие и отпускание клавиши. Очень полезно когда нужно разломать приграду или при быстром наведении на предмет взаимодействия не задерживать курсор на нём.
+
+Зажми кнопку чтобы активировать макрос. Отпускание кнопки остановит макрос. Если не удобно зажимать клавишу, можно переключить в настройках макроса на включение и отключение макроса по нажатию клавиши.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 10 ms
+KeyUp 8 1
+Delay 10 ms
+KeyDown 8 1
+Delay 10 ms
+KeyUp 8 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>The Walking Zombie 2: Shooter</Software>
+  </DefaultMacro>
+</Root>

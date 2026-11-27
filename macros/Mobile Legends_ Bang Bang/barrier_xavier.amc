@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Герой: Ксавьер
+Создает защитный барьр с помощью 2-го и 1-го навыка в персонаже, обходя кривой автоприцел игры.
+Для реализации нужно:
+1. Привязать использование 2-го навыка (свап с ЦЕНТРАЛИЗАЦИЕЙ обязателен, в противном случае барьер будет ставиться где-то в Камчатке) на |SHIFT|
+2. Привязать использование 1-го навыка на |CTRL|
+
+- а что такое эта ваша "централизация"??
+- это указание места героя на экране в эмуляторе для точного прицеливания направляемыми навыками через модуль имитации свапа по экрану.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 100 ms
+MoveTo 1202 245
+Delay 100 ms
+MoveTo 693 404
+Delay 100 ms
+KeyUp 225 1
+Delay 100 ms
+KeyDown 224 1
+Delay 64
+KeyUp 224 1</Syntax>
+    </KeyDown>
+    <Software>Mobile Legends Bang Bang</Software>
+  </DefaultMacro>
+</Root>

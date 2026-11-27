@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>очень удобен для фарма мобов на афк фармилке в маинкравте полность афк вы не будете умирать так же от голода 
+Правила использования:
+1. Возмите меч в первый слот (для лучшего фарма с починкой и добычей остальные зачары по желанию).
+2. Возмите в 10 слот (на кнопку 0 ) любую еду желательно которое даёт побольше еды.
+3. Берите и просто фармте.
+ Удачи!))</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 1 s
+GoWhile 1 200
+KeyDown 39 1
+Delay 64
+KeyUp 39 1
+Delay 64
+RightDown 1
+Delay 3 s
+RightUp 1
+Delay 64
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+GoWhile 1 9999999</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

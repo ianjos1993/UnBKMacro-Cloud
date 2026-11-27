@@ -1,0 +1,234 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос на WF АС-Вал. Идеальный зажим в точку, самый актуальный макрос, долгое время пользуюсь сам и редактирую.
+Разрешение Full HD 
+800 dpi (примерная цифра, советую опробовать на своем)
+Работает как часы, удачного использования!
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>IfKey 1 1 3
+IfKey 1 0 1
+Delay 18 ms
+MoveR -2 3
+Delay 18 ms
+MoveR -1 3
+Delay 18 ms
+MoveR -1 3
+Delay 18 ms
+IfKey 1 0 1
+MoveR -1 3
+Delay 19 ms
+MoveR -1 2
+Delay 18 ms
+MoveR -2 3
+Delay 18 ms
+MoveR -2 3
+Delay 18 ms
+MoveR -2 2
+IfKey 1 0 1
+Delay 18 ms
+MoveR -1 2
+Delay 19 ms
+MoveR -1 2
+Delay 18 ms
+MoveR -1 4
+Delay 18 ms
+MoveR -1 4
+Delay 18 ms
+IfKey 1 0 1
+MoveR -1 4
+Delay 18 ms
+MoveR -1 3
+Delay 19 ms
+MoveR 0 3
+Delay 18 ms
+MoveR -2 3
+Delay 18 ms
+MoveR -1 3
+IfKey 1 0 1
+Delay 18 ms
+MoveR -1 3
+Delay 18 ms
+MoveR -1 3
+Delay 18 ms
+MoveR -1 2
+Delay 19 ms
+MoveR 3 3
+Delay 18 ms
+IfKey 1 0 1
+MoveR 3 3
+Delay 18 ms
+MoveR 2 3
+Delay 18 ms
+MoveR 2 3
+Delay 18 ms
+MoveR 2 2
+Delay 19 ms
+MoveR 2 3
+IfKey 1 0 1
+Delay 18 ms
+MoveR 2 3
+Delay 18 ms
+MoveR 2 2
+Delay 18 ms
+MoveR 2 2
+Delay 18 ms
+MoveR 2 2
+Delay 19 ms
+IfKey 1 0 1
+MoveR 2 3
+Delay 18 ms
+MoveR 2 3
+Delay 18 ms
+MoveR 2 2
+Delay 18 ms
+MoveR 2 2
+Delay 18 ms
+MoveR 2 2
+IfKey 1 0 1
+Delay 19 ms
+MoveR 1 2
+Delay 18 ms
+MoveR 1 2
+Delay 18 ms
+MoveR 1 2
+Delay 18 ms
+MoveR 1 2
+Delay 18 ms
+IfKey 1 0 1
+MoveR 0 2
+Delay 19 ms
+MoveR -1 3
+Delay 18 ms
+MoveR -1 3
+Delay 18 ms
+MoveR -1 2
+Delay 18 ms
+MoveR -1 2
+IfKey 1 0 1
+Delay 18 ms
+MoveR -1 2
+Delay 19 ms
+MoveR -2 3
+Delay 18 ms
+MoveR -2 3
+Delay 18 ms
+MoveR -2 2
+Delay 18 ms
+IfKey 1 0 1
+MoveR -1 2
+Delay 18 ms
+MoveR -1 2
+Delay 19 ms
+MoveR -2 2
+Delay 18 ms
+MoveR -2 2
+Delay 18 ms
+MoveR -2 2
+IfKey 1 0 1
+Delay 18 ms
+MoveR -1 1
+Delay 18 ms
+MoveR -1 1
+Delay 17 ms
+MoveR 2 2
+Delay 18 ms
+MoveR 2 1
+Delay 18 ms
+IfKey 1 0 1
+MoveR 2 1
+Delay 18 ms
+MoveR 1 1
+Delay 18 ms
+MoveR 1 1
+Delay 19 ms
+MoveR 2 1
+Delay 18 ms
+MoveR 1 1
+IfKey 1 0 1
+Delay 18 ms
+MoveR 1 0
+Delay 18 ms
+MoveR 1 0
+Delay 18 ms
+MoveR 1 0
+Delay 19 ms
+MoveR -2 0
+Delay 18 ms
+IfKey 1 0 1
+MoveR -1 0
+Delay 18 ms
+MoveR -1 0
+Delay 18 ms
+MoveR -1 0
+Delay 18 ms
+MoveR -1 0
+Delay 19 ms
+MoveR 0 0
+IfKey 1 0 1
+Delay 18 ms
+MoveR 0 0
+Delay 18 ms
+MoveR 0 0
+Delay 18 ms
+MoveR 0 0
+Delay 18 ms
+MoveR 0 0
+Delay 17 ms
+IfKey 1 0 1
+MoveR 1 0
+Delay 18 ms
+MoveR 1 0
+Delay 18 ms
+MoveR 0 0
+Delay 18 ms
+MoveR 0 0
+Delay 18 ms
+MoveR 0 0
+IfKey 1 0 1
+Delay 19 ms
+MoveR -2 1
+Delay 18 ms
+MoveR -2 1
+Delay 18 ms
+MoveR -2 0
+Delay 18 ms
+MoveR -2 0
+Delay 18 ms
+IfKey 1 0 1
+MoveR -2 0
+Delay 19 ms
+MoveR 2 0
+Delay 18 ms
+MoveR 2 0
+Delay 18 ms
+MoveR 2 0
+Delay 18 ms
+MoveR 1 0
+IfKey 1 0 1
+Delay 18 ms
+MoveR 1 0
+Delay 19 ms
+MoveR 1 0
+Delay 18 ms
+MoveR 1 0
+Delay 18 ms
+MoveR 0 0
+Delay 18 ms
+IfKey 1 0 1
+MoveR 0 0
+Delay 18 ms
+MoveR 0 0
+Delay 93 ms</Syntax>
+    </KeyDown>
+    <Software>Warface</Software>
+  </DefaultMacro>
+</Root>

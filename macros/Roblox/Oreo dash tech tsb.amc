@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос выполняющий экстендер теч (трюк) благодаря которому можно делать большие комбо наносящие хороший урон.
+Важно-перед использованием макроса настройте разрешение экрана на 1920x1080, фпс желательно от 60, пинг 60-90
+также перед активацией макроса вам предстоит небольшая работа-сделайте 3 удара, затем подпрыгните и сделайте аперкот, после чего, сразу же активируйте макрос</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR -1200 -200
+KeyDown 44 1
+Delay 20 ms
+KeyDown 20 1
+Delay 355 ms
+MoveR 1200 -200
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

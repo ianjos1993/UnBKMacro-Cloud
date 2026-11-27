@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Поможен быстро добыть Spirit Shards и увеличить урон по NPS. Рекомендуется использовать скиллы:G-Rupid splash, K-Rupid panch,U-Energy beam,N-Meteor Shower и Z-барадж от стенда. Сюда ещё добавлены клики как доп. урон. Это мой первый макрос, пожалуйста не судите строго.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+GoWhile 1 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 10 1
+Delay 64
+KeyUp 10 1
+Delay 64
+KeyDown 14 1
+Delay 64
+KeyUp 14 1
+Delay 64
+KeyDown 24 1
+Delay 64
+KeyUp 24 1
+Delay 64
+KeyDown 17 1
+Delay 64
+KeyUp 17 1
+Delay 600 ms
+KeyDown 29 1
+Delay 64
+KeyUp 29 1</Syntax>
+    </KeyDown>
+    <Software>Roblox:AnimeFightingSimulator</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major>Это простой макрос для улучшения навыка бега в Project Zomboid.</Major>
+    <Description>Персонаж будет бегать квадратом по одной и той же территории. Что увеличит через некоторое время навык бега.
+Следует использовать в безопасных и просторных для бега местах, не имеющих большого количества препятствий. Ускорение времени увеличит область забега.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+KeyDown 22 1
+KeyDown 4 1
+Delay 10 s
+KeyUp 22 1
+KeyUp 4 1
+KeyDown 22 1
+KeyDown 7 1
+Delay 10 s
+KeyUp 7 1
+KeyUp 22 1
+KeyDown 26 1
+KeyDown 7 1
+Delay 10 s
+KeyUp 7 1
+KeyUp 26 1
+KeyDown 4 1
+KeyDown 26 1
+Delay 10 s
+KeyUp 4 1
+KeyUp 26 1
+KeyUp 225 1</Syntax>
+    </KeyDown>
+    <Software>Project Zomboid</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для автоматического фарма, разработанный исключительно для персонажей класса Ланчер в осадном наборе.Использует 30-й навык («Компот») в качестве основного умения для нанесения урона и эффективной зачистки целей, обеспечивая стабильный и удобный процесс фарма.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+//Выделить монстра
+Delay 64
+KeyUp 43 1
+Delay 10000 ms
+KeyDown 44 1
+//Запустить автоатаку
+Delay 64
+KeyUp 44 1
+Delay 10000 ms
+KeyDown 31 1
+//Компот (30 скил в осадке)
+Delay 64
+KeyUp 31 1
+Delay 20000 ms</Syntax>
+    </KeyDown>
+    <Software>RF-Online</Software>
+  </DefaultMacro>
+</Root>

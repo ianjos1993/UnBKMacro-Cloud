@@ -1,0 +1,81 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Mavuika Overload Combo Q C 3(DCDCCF) DCF. Bind the macro to a trigger button of your choice.
+Includes Mavuika Burst so there's no need to time when to start it, just press the trigger right after switching to Mavuika.
+The combo could be found here (with timestamp): https://youtu.be/EgWVS7e8Qc0?si=K2v7mOKwDHxC5EWM&amp;t=513</Description>
+    <Comment>Update description</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 202 ms
+KeyUp 20 1
+Delay 1555 ms
+LeftDown 1
+Delay 300 ms
+LeftUp 1
+Delay 60 ms
+LeftDown 1
+Delay 200 ms
+KeyDown 225 1
+Delay 91 ms
+KeyUp 225 1
+Delay 151 ms
+LeftUp 1
+Delay 90 ms
+LeftDown 1
+Delay 200 ms
+KeyDown 225 1
+Delay 91 ms
+KeyUp 225 1
+Delay 1000 ms
+LeftUp 1
+Delay 853 ms
+LeftDown 1
+Delay 200 ms
+KeyDown 225 1
+Delay 92 ms
+KeyUp 225 1
+Delay 150 ms
+LeftUp 1
+Delay 90 ms
+LeftDown 1
+Delay 200 ms
+KeyDown 225 1
+Delay 91 ms
+KeyUp 225 1
+Delay 1001 ms
+LeftUp 1
+Delay 857 ms
+LeftDown 1
+Delay 200 ms
+KeyDown 225 1
+Delay 91 ms
+KeyUp 225 1
+Delay 151 ms
+LeftUp 1
+Delay 90 ms
+LeftDown 1
+Delay 200 ms
+KeyDown 225 1
+Delay 91 ms
+KeyUp 225 1
+Delay 1000 ms
+LeftUp 1
+Delay 851 ms
+LeftDown 1
+Delay 200 ms
+KeyDown 225 1
+Delay 91 ms
+KeyUp 225 1
+Delay 150 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

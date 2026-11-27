@@ -1,0 +1,76 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>вы тратите много времяни на то чтобы набрать воду в пузырьки то этот макрос для вас просто поместите курсор на 1 ячейку инвентаря </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 30 ms
+RightUp 1
+GoWhile 1 64
+KeyDown 31 1
+Delay 30 ms
+KeyUp 31 1
+RightDown 1
+Delay 30 ms
+RightUp 1
+GoWhile 8 64
+KeyDown 32 1
+Delay 30 ms
+KeyUp 32 1
+RightDown 1
+Delay 30 ms
+RightUp 1
+GoWhile 15 64
+KeyDown 33 1
+Delay 30 ms
+KeyUp 33 1
+RightDown 1
+Delay 30 ms
+RightUp 1
+GoWhile 22 64
+KeyDown 34 1
+Delay 30 ms
+KeyUp 34 1
+RightDown 1
+Delay 30 ms
+RightUp 1
+GoWhile 29 64
+KeyDown 35 1
+Delay 30 ms
+KeyUp 35 1
+RightDown 1
+Delay 30 ms
+RightUp 1
+GoWhile 36 64
+KeyDown 36 1
+Delay 30 ms
+KeyUp 36 1
+RightDown 1
+Delay 30 ms
+RightUp 1
+GoWhile 43 64
+KeyDown 37 1
+Delay 30 ms
+KeyUp 37 1
+RightDown 1
+Delay 30 ms
+RightUp 1
+GoWhile 50 64
+KeyDown 38 1
+Delay 30 ms
+KeyUp 38 1
+RightDown 1
+Delay 30 ms
+RightUp 1
+GoWhile 57 64</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>для снайперки . основной ган на 2 слот снайпу на 3 слот
+нажимаешь на кнопку макрос берет снайпу прицеливается стреляет убирает прицел и потом переключается на 2 слот и дальше можно стрелять с основного оружия.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 0 ms
+KeyUp 32 1
+Delay 0 ms
+RightDown 1
+Delay 0 ms
+RightUp 1
+Delay 50 ms
+LeftDown 1
+Delay 83 ms
+LeftUp 1
+Delay 100 ms
+RightDown 1
+Delay 74 ms
+RightUp 1
+Delay 10 ms
+KeyDown 31 1
+Delay 10 ms
+KeyUp 31 1</Syntax>
+    </KeyDown>
+    <Software>minecraft . для удобной стрельбы</Software>
+  </DefaultMacro>
+</Root>

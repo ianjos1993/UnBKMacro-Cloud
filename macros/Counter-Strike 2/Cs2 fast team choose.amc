@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major>Counter Strike 2</Major>
+    <Description>С помощью этого макроса вы можете заходить быстро за терористов.Что позволяет нажатием одним нажатием клавишы выбирать сторону терористов.Этот макрос работает только на 1920x1080</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 16 1
+Delay 64
+KeyUp 16 1
+Delay 64
+MoveTo 1534 576
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Counter Strike 2</Software>
+  </DefaultMacro>
+</Root>

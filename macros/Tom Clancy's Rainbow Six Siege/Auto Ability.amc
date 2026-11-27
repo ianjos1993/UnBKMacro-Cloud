@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>Fast Ability</Major>
+    <Description>Have your ability setting on middle mouse this throws youer ability very fast as there is a 2ms delay.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MiddleDown 1
+Delay 2 ms
+MiddleUp 1
+Delay 2 ms
+MiddleDown 1
+Delay 2 ms
+MiddleUp 1
+Delay 2 ms</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

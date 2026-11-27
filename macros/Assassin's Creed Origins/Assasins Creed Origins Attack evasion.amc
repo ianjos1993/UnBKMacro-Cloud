@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос автоматически выполняет атаку (левая кнопка мыши) и уклонение (пробел) с задержками между действиями, повторяя это в цикле.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 500 ms
+LeftUp 1
+Delay 64 ms
+KeyDown 44 1
+Delay 300 ms
+KeyUp 44 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Assasin Creed Origins</Software>
+  </DefaultMacro>
+</Root>

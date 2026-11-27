@@ -1,0 +1,74 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простой макрос который предназначен чтобы повернуться на 90 градусов и вернуться в обратное положение.
+Делал макрос под себя, если у вас сенса не совпадает или же разрешение то тут я без силен.
+Для макроса нужно:
+
+1) Sensivity 0.36(если у вас другая сенса то у вас будет не 90 градусов, а больше, или же меньше)
+2) Shift Lock(чтобы не просто повело мышкой по экрану а повернулся персонаж)
+3) Разрешение экрана 1366x768
+В макросе выставлена небольшая рандомная задержка при повороте (чтобы казалось что это ВЫ сами повернули мышку)
+
+Можно использовать в различных режимах где нужно крутить камерой
+
+Удачи!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR -45 0
+Delay 5 10 ms
+MoveR -45 0
+Delay 5 10 ms
+MoveR -45 0
+Delay 5 10 ms
+MoveR -45 0
+Delay 5 10 ms
+MoveR -45 0
+Delay 5 10 ms
+MoveR -45 0
+Delay 5 10 ms
+MoveR -45 0
+Delay 5 10 ms
+MoveR -45 0
+Delay 5 10 ms
+MoveR -45 0
+Delay 5 10 ms
+MoveR -45 0
+Delay 5 10 ms
+MoveR -45 0
+Delay 5 10 ms
+MoveR -45 0
+Delay 5 10 ms
+MoveR 45 0
+Delay 5 10 ms
+MoveR 45 0
+Delay 5 10 ms
+MoveR 45 0
+Delay 5 10 ms
+MoveR 45 0
+Delay 5 10 ms
+MoveR 45 0
+Delay 5 10 ms
+MoveR 45 0
+Delay 5 10 ms
+MoveR 45 0
+Delay 5 10 ms
+MoveR 45 0
+Delay 5 10 ms
+MoveR 45 0
+Delay 5 10 ms
+MoveR 45 0
+Delay 5 10 ms
+MoveR 45 0
+Delay 5 10 ms
+MoveR 45 0</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

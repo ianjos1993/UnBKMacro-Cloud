@@ -1,0 +1,65 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос создан для быстрого прописания команды /Clan Home.
+1)Макрос лучше всего использовать на серверах по Анархии,чтобы в случии рейда базы быстро телепортироваться.
+2)Биндите макрос на любую удобную вам клавишу или кнопку мыши.
+3)После того как вы забиндили макрос при нажатии забинженной вами клавиши или кнопки мыши он автоматически напишит команду /Clan Home.
+4)Не рекомендуется использовать макрос на серверах где сторонние программы под запретом,вы можете получить бан.
+5)Спасибо за внимание и приятного использования.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 20 ms
+KeyUp 56 1
+Delay 20 ms
+KeyDown 6 1
+Delay 20 ms
+KeyUp 6 1
+Delay 20 ms
+KeyDown 15 1
+Delay 20 ms
+KeyUp 15 1
+Delay 20 ms
+KeyDown 4 1
+Delay 20 ms
+KeyUp 4 1
+Delay 20 ms
+KeyDown 17 1
+Delay 20 ms
+KeyUp 17 1
+Delay 20 ms
+KeyDown 44 1
+Delay 20 ms
+KeyUp 44 1
+Delay 20 ms
+KeyDown 11 1
+Delay 20 ms
+KeyUp 11 1
+Delay 20 ms
+KeyDown 18 1
+Delay 20 ms
+KeyUp 18 1
+Delay 20 ms
+KeyDown 16 1
+Delay 20 ms
+KeyUp 16 1
+Delay 20 ms
+KeyDown 8 1
+Delay 20 ms
+KeyUp 8 1
+Delay 20 ms
+KeyDown 88 1
+Delay 20 ms
+KeyUp 88 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

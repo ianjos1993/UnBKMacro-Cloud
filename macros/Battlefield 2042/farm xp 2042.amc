@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>простой макрос для фарма экспы на специальных серверах через ящики амуниции. Перед началом работы поменять управление на "Устройство специалиста" - ПКМ. На здоровье, пользуйтесь :)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 3 s
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 3 s
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Battlefield 2042</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>healing</Major>
+    <Description>Макрос подойдет для любых магов, к примеру, таких как: Wizard, Elven Wizard, Dark Wizard. Автоматическое использование скила Battle Heal. Нужен для быстрого хила персонажа. 
+
+W. делаем макрос в самой игре для выделения своего ника (/target ник) и вторым по очереди ставим скил Battle Heal.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 1 ms
+KeyUp 26 1
+Delay 1 ms
+KeyDown 26 1
+Delay 1 ms
+KeyUp 26 1
+Delay 1 ms
+KeyDown 26 1
+Delay 1 ms
+KeyUp 26 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

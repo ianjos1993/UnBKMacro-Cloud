@@ -1,0 +1,73 @@
+<Root>
+  <DefaultMacro>
+    <Major>Victor Combo 3</Major>
+    <Description>Макрос позволяет выполнять комбо за Victor в HEAT.
+Видео демонстрации работы макроса: https://youtu.be/cwE-xdSWvXk
+
+Виктор — утонченный, учтивый и элегантный мужчина аристократического происхождения. С детства им двигало желание спасти нуждающихся. Он бережлив, любит романтические развлечения и описывается как человек, разбивший множество сердец. Судя по его репликам, он кажется человеком с безмерной самоуверенностью и немалой степенью высокомерия. Он человек с тактическим складом ума, наблюдающий за тенденциями глобальной политики и ростом власти корпораций и стремящийся бросить вызов этим угрозам. Об этом также свидетельствует одна из его голосовых реплик в бою: «Шах и мат». Виктор также очарован японской культурой благодаря пребыванию в Японии у друга-наемника своего отца.
+
+ Настройки в игре (для корректной работы макроса):
+ Up - W
+ Down - S
+ Left - A
+ Right - D
+ 1 - Insert
+ 4 - End
+ 2 - Home
+ 3 - Delete
+ 1+2 - Page UP
+ 3+4 Page Down
+ X — HEAT
+
+Тестирование макроса проводились на последнем патче игры на 14.05.2024
+Если возникают проблемы:
+1. Отключить использование минимальной задержки.
+2. Включить опцию "Использовать драйвер" (при необходимости установить драйвер)
+
+Дискорд автора для связи - flkpa#4883
+При необходимости обращайтесь в поддержку -  https://keyran.net/discord
+
+#victortekken8 #tekken8 #tekken</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 7 ms
+KeyDown 73 1
+Delay 8 ms
+KeyDown 74 1
+Delay 519 ms
+KeyUp 73 1
+Delay 288 ms
+KeyDown 73 1
+Delay 95 ms
+KeyUp 73 1
+Delay 79 ms
+KeyDown 73 1
+Delay 96 ms
+KeyUp 73 1
+Delay 88 ms
+KeyDown 73 1
+Delay 87 ms
+KeyUp 73 1
+Delay 95 ms
+KeyDown 73 1
+Delay 71 ms
+KeyUp 73 1
+Delay 63 ms
+KeyDown 73 1
+Delay 104 ms
+KeyUp 73 1
+Delay 95 ms
+KeyUp 7 1
+Delay 72 ms
+KeyUp 74 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>1-Огонь прейсподни
+2-Гоблин подрывник
+3-Свиток перемещения
+
+Ставишь в тп бчд гк в любые нубо локи, 2к трофеев за 6 часов при условии гоблин 8, и пет на маг урон(маг/ближ.бой)
+
+5000к свитков 
+
+свитки нажимает частко сделано для того что бы герои не убивали тебя)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 3000 ms
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 100 ms
+KeyDown 22 1
+Delay 1500 ms
+KeyUp 22 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 1000 ms</Syntax>
+    </KeyDown>
+    <Software>R2 online</Software>
+  </DefaultMacro>
+</Root>

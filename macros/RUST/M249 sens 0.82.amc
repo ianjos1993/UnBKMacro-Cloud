@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Instructions:
+
+1. Install the script
+2. Bind it to a key (I recommend MB1 or Scroll wheel)
+3. Set a bind to turn BotMek on and off so when you want to use it you press the key and hold Mouse1
+4. Have fun and destroy people in Rust!
+
+Works best with these settings:
+  - FOV 90 - 0.82</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 11 ms
+MoveR 0 3
+Delay 11 ms
+MoveR 0 2
+Delay 11 ms
+MoveR 0 2
+Delay 11 ms
+MoveR 0 2
+Delay 11 ms
+MoveR 0 2
+Delay 11 ms
+MoveR 0 2
+Delay 11 ms
+MoveR 0 2
+Delay 11 ms
+MoveR 0 2
+Delay 11 ms
+MoveR 0 2
+Delay 10 ms
+MoveR 0 2
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

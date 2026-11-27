@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Авто кирка на 180 ударов устоновка проста на F5 
+пакупаем кирки у коробейщика и вперед в рудник все остольное он сделет за вас 
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+
+https://vk.com/id212820424
+пишите буду рад вашему вниманию</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>varE = 0
+KeyDown 62 1
+Delay 64
+KeyUp 62 1
+Delay 64
+KeyDown 62 1
+Delay 64
+KeyUp 62 1
+Delay 18 min
+varE = 1
+if varE == 1 Goto 1</Syntax>
+    </KeyDown>
+    <Software>Blood and Soul Classic</Software>
+  </DefaultMacro>
+</Root>

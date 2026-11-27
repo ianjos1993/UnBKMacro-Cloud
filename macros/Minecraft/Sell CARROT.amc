@@ -1,0 +1,49 @@
+<Root>
+  <DefaultMacro>
+    <Major>Cerisier</Major>
+    <Description>FOR CARROT
+
+How to use it:
+
+You need to have macro by lunar or some mod in minecraft and put it /shop on macro minecraft
+after that you put the buttom macro shop on ] 
+
+Or just do /shop before use it
+
+Resolution: 2560x1440
+Scale Scale: normal
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 48 1
+Delay 64 ms
+KeyUp 48 1
+Delay 64 ms
+MoveTo 1245 614
+Delay 50 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 50 ms
+MoveTo 1349 615
+Delay 300 ms
+KeyDown 225 1
+Delay 50
+RightDown 1
+Delay 5 ms
+RightUp 1
+Delay 50 ms
+KeyDown 41 1
+Delay 5 ms
+KeyUp 41 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

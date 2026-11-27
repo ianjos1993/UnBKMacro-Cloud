@@ -1,0 +1,53 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Персонаж: Ари
+
+Что делает: Залетает через ультимейт и дает  прокаст с доп заклинанием (поджогом) и базовой атакой(ее можно усилить через предмет по желаниею)
+(Закуп предметов на скорость навыков не требуется)
+
+Что нужно: 
+1. Бинд навыков снизу вверх (num1 -  1 навык и так далее)
+2. Бинд базовой атаки на "P"
+3. Бинд поджога на "G"
+4. Наслаждаться игрой</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 92 1
+Delay 64
+KeyUp 92 1
+Delay 270 ms
+KeyDown 91 1
+Delay 64 ms
+KeyUp 91 1
+Delay 360 ms
+KeyDown 89 1
+Delay 30 ms
+KeyUp 89 1
+Delay 30 ms
+KeyDown 89 1
+Delay 30 ms
+KeyUp 89 1
+Delay 30 ms
+KeyDown 90 1
+Delay 64
+KeyUp 90 1
+Delay 64
+KeyDown 10 1
+Delay 64
+KeyUp 10 1
+Delay 64
+KeyDown 19 1
+Delay 64
+KeyUp 19 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>LoL Wild Rift (for emulators)</Software>
+  </DefaultMacro>
+</Root>

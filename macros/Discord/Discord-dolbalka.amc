@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Дискорд-звонилка для задалбывания ваших друзей в личных сообщениях. Спамит с неплохой скоростью, но нужно, что бы у вас не был сверхвысокий пинг, иначе будет лагать дискорд и ничего не заработает, как надо.
+
+Для нормальной работы, нужно:
+1. Иметь экран 1920 x 1080, иначе при другом размере экрана макрос будет неконкретно работать и не выполнять свою задачу.
+2. Вроде всё...
+
+Этот макрос предназначен мною для быстрых звонков и скипов звонков в discord. Перейдите к своему другу в лс, и просто запустите макрос, и начинайте чилить. через 10 - 15 минут, вы засрёте себе и другу экран)))) Приятного пользования =)
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1532 45
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 3 s
+MoveTo 1260 217
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 1 s</Syntax>
+    </KeyDown>
+    <Software>Discord</Software>
+  </DefaultMacro>
+</Root>

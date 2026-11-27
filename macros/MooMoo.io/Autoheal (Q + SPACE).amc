@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>С помощью этого макроса вы получите автоматическое и быстрое восстановление вашего здоровья!
+Программа работает просто, Q-- выберает предмет еды, а пробел съедает эту еду.
+Если у вас лагает от этой программы, поставьте задержку.</Description>
+    <Comment>https://sploop.io/ Играть онлайн!</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 1 ms
+KeyUp 20 1
+Delay 1 ms
+KeyDown 44 1
+Delay 1 ms
+KeyUp 44 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>MooMoo.io</Software>
+  </DefaultMacro>
+</Root>

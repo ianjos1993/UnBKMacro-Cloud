@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>Russian Mafia Hammer</Major>
+    <Description>Легендарное комбо на молоте.
+Все что вам нужно сделать нижнюю атаку, прожать макрос и после макроса добить нижней атакой
+Очень рабочее комбо. Желательно использовать на красном стоке</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 30 ms
+KeyUp 44 1
+Delay 30 ms
+KeyDown 79 1
+Delay 30 ms
+KeyDown 29 1
+KeyUp 79 1
+KeyUp 29 1
+Delay 30 ms
+KeyDown 27 1
+KeyUp 27 1</Syntax>
+    </KeyDown>
+    <Software>Brawlhalla</Software>
+  </DefaultMacro>
+</Root>

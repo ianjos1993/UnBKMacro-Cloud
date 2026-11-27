@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос отправки комментариев в любой социальной сети без бана. Cтоит задержка 1,84 можно менять. Для использования просто копируете нужный текст и запускаете программу</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+KeyDown 25 1
+Delay 64
+Delay 64
+KeyUp 224 1
+KeyUp 25 1
+Delay 64
+Delay 64
+KeyDown 88 1
+Delay 64
+Delay 64
+KeyUp 88 1
+Delay 1500 ms
+GoWhile 1 100000</Syntax>
+    </KeyDown>
+    <Software>Instagram</Software>
+  </DefaultMacro>
+</Root>

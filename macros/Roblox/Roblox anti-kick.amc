@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Roblox anti-kick. It autojumps and doesnt kick you oof the game due to inactivity. Bind to whatever key you want. it will autojump no need to hold the key.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 19 ms
+KeyUp 44 1
+Delay 19 ms
+KeyDown 44 1
+Delay 19 ms
+KeyUp 44 1
+Delay 19 ms
+KeyDown 44 1
+Delay 19 ms
+KeyUp 44 1
+Delay 19 ms
+KeyDown 44 1
+Delay 19 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

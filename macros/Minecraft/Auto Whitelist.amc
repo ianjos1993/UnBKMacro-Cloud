@@ -1,0 +1,63 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всем добрый вечер.И сегодня у нас еще 1 макрос для Minecraft серверов.На этот раз макрос прописывает команду /whitelist.Команда /whitelist переводится как белый список.Зачем же он нужен?А нужен он для того чтобы ограничить доступ сервера для некоторой категории игроков.Например когда администрация сервера проводит технические работы то ставит сервер на вайтлист.Это нужно для того чтобы игроки не мешали их проведению.Чтобы добавить игрока в вайтлист нужно написать команду /whitelist и написать никнейм игрока,которого вы хотите добавить.После чего нажать клавишу Enter.Надеюсь вам понравится данный макрос.
+
+Инструкция по настройке:
+1)Установите файл макроса на свой компьютер.
+2)Сверните вкладку "Редактор макросов" и перейдите во вкладку с клавиатурой Keyran.
+3)Выбираете удобную клавишу или любую кнопку мыши которая вам подходит.
+4)Нажимаете правой кнопкой мыши по этой клавише,а после "Назначить макрос".
+5)Сохраняете и используете этот макрос.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 32 ms
+KeyUp 56 1
+Delay 32 ms
+KeyDown 26 1
+Delay 32 ms
+KeyUp 26 1
+Delay 32 ms
+KeyDown 11 1
+Delay 32 ms
+KeyUp 11 1
+Delay 32 ms
+KeyDown 12 1
+Delay 32 ms
+KeyUp 12 1
+Delay 32 ms
+KeyDown 23 1
+Delay 32 ms
+KeyUp 23 1
+Delay 32 ms
+KeyDown 8 1
+Delay 32 ms
+KeyUp 8 1
+Delay 32 ms
+KeyDown 15 1
+Delay 32 ms
+KeyUp 15 1
+Delay 32 ms
+KeyDown 12 1
+Delay 32 ms
+KeyUp 12 1
+Delay 32 ms
+KeyDown 22 1
+Delay 32 ms
+KeyUp 22 1
+Delay 32 ms
+KeyDown 23 1
+Delay 32 ms
+KeyUp 23 1
+Delay 32 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Прокаст бафа перед убийством боссов за спарк сорку.
+Использование печати силы, стены огня, дебафа и насаживание скелетов.
+Макрос не абьюзит скорость и был записан со скоростью с которым человек может нажимать эти кнопки</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 56 59 ms
+KeyUp 8 1
+Delay 280 380 ms
+KeyDown 20 1
+Delay 62 68 ms
+KeyUp 20 1
+Delay 299 399 ms
+KeyDown 21 1
+Delay 53 62 ms
+KeyUp 21 1
+Delay 260 300 ms
+MiddleDown 1
+Delay 100 116 ms
+MiddleUp 1</Syntax>
+    </KeyDown>
+    <Software>Path of Exile 2</Software>
+  </DefaultMacro>
+</Root>

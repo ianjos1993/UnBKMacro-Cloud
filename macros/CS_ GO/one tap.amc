@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для АК-47,М4А1,USP-S,glock(можно использовать и на других оружиях, но на описанных работает лучше всего)
+Как установить:
+1.заходите в Botmek и ставите макрос на любую удобную кнопку(нужно сначала его скачать) .
+2.далее жмём на кнопку которую поставили и ставим выполнять при зажатой клавише(в режиме работы).
+3.заходим в игру и ставим стрельбу на левую кнопку мыши(обязательно).
+4.жмём запустить в BotMek и играем.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 115 ms
+LeftUp 1
+Delay 115 ms</Syntax>
+    </KeyDown>
+    <Software>CS: GO</Software>
+  </DefaultMacro>
+</Root>

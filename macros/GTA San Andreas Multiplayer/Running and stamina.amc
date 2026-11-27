@@ -1,0 +1,54 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос автоматически нажимает клавишу пробел. Подойдёт для Малиновки на беговой дорожке,проверено,работает на любом разрешении экрана,вообщем бег и стамина рулит</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 60
+KeyUp 44 1
+Delay 60
+KeyDown 44 1
+Delay 60
+KeyUp 44 1
+Delay 60
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+GoColor 12 0 255,255,255 255,255,255 1 1171 904 1 1 1 0
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+GoColor 17 0 255,255,255 255,255,255 1 1171 904 1 1 1 0
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+GoColor 22 0 255,255,255 255,255,255 1 1231 905 1 1 1 0
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+GoColor 27 0 255,255,255 255,255,255 1 1101 968 1 1 1 0
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+GoColor 32 0 255,255,255 255,255,255 1 1168 966 1 1 1 0
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64
+GoColor 37 0 255,255,255 255,255,255 1 1232 968 1 1 1 0</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,82 @@
+<Root>
+  <DefaultMacro>
+    <Major>AOE Farm DMW with APO. 8 F3 and then DS in 8</Major>
+    <Description>This macro automates AOE farming with APO in Digimon Master World, targeting crowded monster areas efficiently by looping skill rotations and auto movement for maximum loot and EXP gain.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+KeyDown 60 1
+Delay 64
+KeyUp 60 1
+Delay 64
+Delay 10500 ms
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+KeyDown 60 1
+Delay 64
+KeyUp 60 1
+Delay 64
+Delay 10500 ms
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+KeyDown 60 1
+Delay 64
+KeyUp 60 1
+Delay 64
+Delay 10500 ms
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+KeyDown 60 1
+Delay 64
+KeyUp 60 1
+Delay 64
+Delay 10500 ms
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+KeyDown 60 1
+Delay 64
+KeyUp 60 1
+Delay 64
+Delay 10500 ms
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+KeyDown 60 1
+Delay 64
+KeyUp 60 1
+Delay 64
+Delay 10500 ms
+KeyDown 43 1
+Delay 64
+KeyUp 43 1
+Delay 64
+KeyDown 60 1
+Delay 64
+KeyUp 60 1
+Delay 64
+KeyDown 37 1
+KeyUp 37 1
+Delay 10500
+GoWhile 1 1000</Syntax>
+    </KeyDown>
+    <Software>Digimon Masters Online</Software>
+  </DefaultMacro>
+</Root>

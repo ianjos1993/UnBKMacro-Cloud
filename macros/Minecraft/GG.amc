@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This macro allows you to type GG super fast. Pretty easy to use and stable.
+It's recommended to use one of Num-Lock number's</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 15 ms
+KeyUp 23 1
+Delay 15 ms
+KeyDown 225 1
+Delay 15 ms
+KeyDown 10 1
+Delay 15 ms
+KeyUp 10 1
+Delay 15 ms
+KeyDown 10 1
+Delay 15 ms
+KeyUp 10 1
+Delay 15 ms
+KeyUp 225 1
+Delay 15 ms
+KeyDown 88 1
+Delay 15 ms
+KeyUp 88 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

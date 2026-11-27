@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Инструкция: вам нужно 25 пчел для входа на верхушку горы и становимся со второй строчки на перный синий цветок справой стороны, и нужно вставить камеру ровно (зависит от того на чем играете) и запускаете макрос. Удачной игры!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64 ms
+KeyDown 26 1
+Delay 3500 ms
+KeyUp 26 1
+Delay 64
+KeyDown 4 1
+Delay 3000 ms
+KeyUp 4 1
+Delay 64
+KeyDown 22 1
+Delay 3500 ms
+KeyUp 22 1
+Delay 64
+KeyDown 7 1
+Delay 3000 ms
+KeyUp 7 1
+Delay 64
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос для перезорядки в режимах нажимает q и обратно и перезарежает оружие (для снайперских винтовок с 1 потроном)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 250 ms
+KeyDown 20 1
+Delay 15 ms
+KeyUp 20 1
+Delay 100 ms
+KeyDown 20 1
+Delay 15 ms
+KeyUp 20 1
+Delay 20 ms
+KeyDown 21 1
+Delay 10 ms
+KeyUp 21 1
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

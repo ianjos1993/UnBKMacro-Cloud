@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Коробка с мкпп на акпп. Просто активируете, и все работает. Работает на разрешении 2560 х 1440. Всего хорошего</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 3 0 255,182,0 255,255,255 1 2366 1405 17 14 1 0
+KeyDown 30 1
+KeyUp 30 1
+Delay 50 ms
+GoColor 7 0 255,182,0 255,255,255 1 2392 1405 14 24 1 0
+KeyDown 31 1
+KeyUp 31 1
+Delay 50 ms
+GoColor 11 0 255,182,0 255,255,255 1 2422 1406 8 2 1 0
+KeyDown 32 1
+KeyUp 32 1
+Delay 50 ms
+GoColor 15 0 255,182,0 255,255,255 1 2447 1404 5 19 1 0
+KeyDown 33 1
+KeyUp 33 1
+Delay 50 ms
+GoColor 19 0 252,180,0 255,255,255 1 2479 1398 81 42 1 0
+KeyDown 34 1
+KeyUp 34 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

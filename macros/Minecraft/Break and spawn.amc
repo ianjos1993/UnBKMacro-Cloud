@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для постановки и моментального разрушения блоков. Использовались для настройки булыжник и каменная кирка. Подходит для ММО модов для поднятия навыка копания, например ProdjectMMO.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoWhile 1 64
+KeyDown 30 1
+KeyUp 30 1
+Delay 64 ms
+RightDown 1
+Delay 64 ms
+RightUp 1
+Delay 64 ms
+WheelDown 1
+Delay 64 ms
+LeftDown 1
+Delay 1002 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

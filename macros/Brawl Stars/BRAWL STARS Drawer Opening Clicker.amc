@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Идеальный тайминг откртия ящиков для бравл старс на ПК. Цикл состоит из 5 кликов. Это для особо ленивых))). Я его по тестил мне спайк выпал). </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 93
+LeftUp 1
+Delay 93
+LeftDown 1
+Delay 93
+LeftUp 1
+Delay 93
+LeftDown 1
+Delay 93
+LeftUp 1
+Delay 93
+LeftDown 1
+Delay 93
+LeftUp 1
+Delay 93
+LeftDown 1
+Delay 93
+LeftUp 1
+Delay 93
+GoWhile 1 999999</Syntax>
+    </KeyDown>
+    <Software>Brawl Stars</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для постановки вашего конус в чужой бокс
+макрос редактирует вашу стену окном, ставит конус, после чего вы должны направить камеру вправо или влево чтобы стена отредактировалась назад.
+редакт-f
+конус-v
+обратный редакт-колесико мыши вниз. Если появятся какие то вопросы, пишите.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 12 ms
+KeyUp 9 1
+Delay 13 ms
+LeftDown 1
+Delay 40 ms
+LeftUp 1
+Delay 25 ms
+KeyDown 25 1
+Delay 20 ms
+KeyUp 25 1
+Delay 40 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 70 ms
+WheelDown 1
+Delay 30 ms
+WheelDown 1
+Delay 15 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Персоанаж двигается в авто один раз в 20 минут. Чтобы не уйти в афк режим. Он запускает авто и проезжает пару метров что-бы выйти из АФК, затем глушит авто</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 5 1
+Delay 133 ms
+KeyUp 5 1
+Delay 304 ms
+KeyDown 22 1
+Delay 1041 ms
+KeyUp 22 1
+Delay 1841 ms
+KeyDown 26 1
+Delay 902 ms
+KeyUp 26 1
+Delay 1158 ms
+KeyDown 26 1
+Delay 391 ms
+KeyUp 26 1
+Delay 2437 ms
+KeyDown 5 1
+Delay 124 ms
+KeyUp 5 1
+Delay 20 min
+GoWhile 1 50</Syntax>
+    </KeyDown>
+    <Software>GTA 5</Software>
+  </DefaultMacro>
+</Root>

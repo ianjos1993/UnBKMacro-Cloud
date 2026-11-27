@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>джиговая промотка,
+что нужно:
+1. Встать на точке
+2. активировать макрос
+3. при поклевке, отжать макрос и тянуть самому</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1000 ms
+LeftDown 1
+KeyDown 225 1
+Delay 64
+KeyUp 225 1
+LeftUp 1
+Delay 7500 ms
+LeftDown 1
+KeyDown 225 1
+Delay 1000 ms
+KeyUp 225 1
+LeftUp 1
+Delay 2700 ms
+GoWhile 8 20</Syntax>
+    </KeyDown>
+    <Software>Русская Рыбалка 4</Software>
+  </DefaultMacro>
+</Root>

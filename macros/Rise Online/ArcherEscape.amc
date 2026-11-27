@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major>Archer Escape Macro</Major>
+    <Description>The Archer class, you can easily evade an attack by using the "Mushroom" and "Stepback" skills with a single button press.
+
+
+Usage:
+F2;
+Key 2 the mushroom skill.
+Key 3 the stepback skill.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 59 1
+Delay 1
+KeyUp 59 1
+Delay 1
+KeyDown 31 1
+Delay 1
+KeyUp 31 1
+Delay 1
+LeftDown 1
+Delay 1
+LeftUp 1
+Delay 500 ms
+KeyDown 32 1
+Delay 1
+KeyUp 32 1
+Delay 1</Syntax>
+    </KeyDown>
+    <Software>Rise Online</Software>
+  </DefaultMacro>
+</Root>

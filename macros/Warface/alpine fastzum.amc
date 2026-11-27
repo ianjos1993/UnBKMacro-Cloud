@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Фастзум на Alpine (варбаксовая)
+тестил на Новогодней версии, все работает, выстрел происходит сразу как входит в зум.
+Советую поставить для удобства режим прицела на удержание, приятной игры!)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 124 ms
+RightUp 1
+Delay 10 ms
+LeftDown 1
+Delay 111 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Warface</Software>
+  </DefaultMacro>
+</Root>

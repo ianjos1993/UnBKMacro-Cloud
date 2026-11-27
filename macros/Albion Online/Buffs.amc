@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Buffs in order to start a pool in avalon. It will start with a chest buff, shoes and then the head. It will optimize your buffs to start your rotation without an skill over other</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 2 ms
+KeyUp 21 1
+Delay 2 ms
+KeyUp 26 1
+Delay 2 ms
+KeyDown 9 1
+Delay 2 ms
+KeyUp 9 1
+Delay 2 ms
+KeyDown 7 1
+Delay 2 ms
+KeyUp 7 1
+Delay 2 ms</Syntax>
+    </KeyDown>
+    <Software>Albion online</Software>
+  </DefaultMacro>
+</Root>

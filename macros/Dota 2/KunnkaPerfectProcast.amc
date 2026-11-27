@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major>Идеальный прокаст за куннку</Major>
+    <Description>Необходимо быстрое применение скиллов и стандартные бинды.
+
+ВО ВРЕМЯ ПРИМЕНЕНИЯ ДЕРЖАТЬ КУРСОР НА ВРАГЕ!
+
+Данный прокаст будет держать врага в стане из которого он сможет выйти лишь на полсекунды перед тем как его застанит вновь
+
+Стандартные бинды:
+Q - Torrent
+E - X Marks The Spot
+R - Ghostship</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 94 ms
+KeyUp 20 1
+Delay 343 ms
+KeyDown 8 1
+Delay 96 ms
+KeyUp 8 1
+Delay 352 ms
+KeyDown 21 1
+Delay 134 ms
+KeyUp 21 1
+Delay 345 ms
+KeyDown 8 1
+Delay 160 ms
+KeyUp 8 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

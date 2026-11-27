@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос автоматически вводит команду /deop в Minecraft Bedrock Edition, позволяя мгновенно снять права оператора у указанного игрока. Это полезный инструмент для администраторов серверов, которым необходимо быстро управлять доступом к привилегиям, особенно в случае злоупотребления полномочиями.
+После применения макроса нужно вписать никнейм игрока.
+
+Инструкция по установке:
+1. Загрузите файл макроса.
+2. Назначьте на удобную для вас клавишу.
+3. Готово!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>SetLang en-US
+KeyDown 56 1
+Delay 10
+KeyUp 56 1
+Delay 10
+KeyDown 7 1
+Delay 10
+KeyUp 7 1
+Delay 10
+KeyDown 8 1
+Delay 10
+KeyUp 8 1
+Delay 10
+KeyDown 18 1
+Delay 10
+KeyUp 18 1
+Delay 10
+KeyDown 19 1
+Delay 10
+KeyUp 19 1
+Delay 10
+KeyDown 44 1
+Delay 10
+KeyUp 44 1
+Delay 10</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

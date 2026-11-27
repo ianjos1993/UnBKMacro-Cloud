@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Авто нажатие E
+
+Нажимаете забинженую клавишу и оно зажмет кнопку E                                                                                              
+Биндить можно на любую клавишу</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>ARK: Survival Evolved</Software>
+  </DefaultMacro>
+</Root>

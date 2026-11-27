@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>- Уменьшает отдачу 
+- Ставить мышь на 50
+- Ставим на левую кнопку мыши , включаем и наслаждаемся игрой</Description>
+    <Comment>макрос отлично подходит к оперативнику</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 0 1
+Delay 12 ms
+MoveR 0 0
+Delay 12 ms
+MoveR -1 1
+Delay 12 ms
+MoveR 0 1
+Delay 12 ms
+MoveR 0 1
+Delay 12 ms
+MoveR -1 0
+Delay 12 ms
+MoveR 0 1
+Delay 12 ms
+MoveR 0 0
+Delay 12 ms
+MoveR -1 1
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Caliber</Software>
+  </DefaultMacro>
+</Root>

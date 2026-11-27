@@ -1,0 +1,132 @@
+<Root>
+  <DefaultMacro>
+    <Major>Автосамокат после нока + хил на нем</Major>
+    <Description>Макрос для игры CRMP AMAZING ONLINE.
+
+При использовании персонаж автоматически садиться на самокат и восстанавливает здоровье аптечкой.
+
+Достаточно одного нажатия забиндженой кнопки для работы!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 123 ms
+RightUp 1
+Delay 123 ms
+KeyDown 26 1
+Delay 32 ms
+KeyUp 26 1
+Delay 32 ms
+KeyDown 39 1
+Delay 72 ms
+KeyUp 39 1
+Delay 144 ms
+KeyDown 39 1
+Delay 72 ms
+KeyUp 39 1
+Delay 144 ms
+KeyDown 8 1
+Delay 194 ms
+KeyUp 8 1
+Delay 19 ms
+KeyDown 20 1
+Delay 18
+KeyUp 20 1
+Delay 18
+KeyDown 8 1
+Delay 18
+KeyUp 8 1
+Delay 18
+KeyDown 20 1
+Delay 18
+KeyUp 20 1
+Delay 18
+KeyDown 8 1
+Delay 18
+KeyUp 8 1
+Delay 18
+KeyDown 20 1
+Delay 18
+KeyUp 20 1
+Delay 18
+KeyDown 8 1
+Delay 18
+KeyUp 8 1
+Delay 18
+KeyDown 21 1
+Delay 18
+KeyUp 21 1
+Delay 18
+KeyDown 20 1
+Delay 18
+KeyUp 20 1
+Delay 18
+KeyDown 26 1
+Delay 18
+KeyUp 26 1
+Delay 18
+KeyDown 21 1
+Delay 18
+KeyUp 21 1
+Delay 18
+WheelDown 1
+Delay 18
+WheelDown 1
+Delay 3 ms
+WheelDown 1
+Delay 3 ms
+WheelUp 1
+Delay 4 ms
+WheelDown 1
+Delay 8 ms
+WheelUp 1
+Delay 12 ms
+MiddleDown 1
+Delay 84 ms
+MiddleUp 1
+Delay 28 ms
+WheelDown 1
+Delay 23 ms
+WheelUp 1
+Delay 18
+KeyDown 23 1
+Delay 70
+KeyUp 23 1
+Delay 70
+KeyDown 56 1
+Delay 70
+KeyUp 56 1
+Delay 70
+KeyDown 7 1
+Delay 70
+KeyUp 7 1
+Delay 70
+KeyDown 21 1
+Delay 70
+KeyUp 21 1
+Delay 70
+KeyDown 24 1
+Delay 70
+KeyUp 24 1
+Delay 70
+KeyDown 10 1
+Delay 70
+KeyUp 10 1
+Delay 70
+KeyDown 22 1
+Delay 70
+KeyUp 22 1
+Delay 70
+KeyDown 88 1
+Delay 70
+KeyUp 88 1
+Delay 70</Syntax>
+    </KeyDown>
+    <Software>GTA: Criminal Russia (CRMP)</Software>
+  </DefaultMacro>
+</Root>

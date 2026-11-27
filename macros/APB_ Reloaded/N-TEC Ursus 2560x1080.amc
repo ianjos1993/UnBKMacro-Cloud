@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Recommended monitor resolution: 2560x1080 and mouse DPI: 1500.
+Simple to install (https://keyran.net/en/wiki/?p=share) and use.</Description>
+    <Comment>Good Luck</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+LeftDown 1
+MoveR 0 11
+LeftUp 1
+MoveR 0 -1
+Delay 20 ms
+MoveR 0 -1
+Delay 20 ms
+MoveR 0 -1
+Delay 20 ms
+MoveR 0 -1
+Delay 30 ms
+MoveR 0 -1
+Delay 18 ms</Syntax>
+    </KeyDown>
+    <Software>APB Reloaded</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>автоотрава, быстрая, в секунду, помогает иногда, бана не будет
+
+бинд отрава на 4 ложим её в 3 слот хотбара
+и при нажатии на 4, у вас будет сразу кидаться отрава
+Наслаждайтесь!
+
+это полное содержание макроса</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 33 1
+Delay 20
+KeyUp 33 1
+Delay 20
+RightDown 1
+Delay 20
+RightUp 1
+Delay 20</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,268 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Shoots straight on the point, should use FOV 85 and input.sensitivity 0.82
+
+Personally used Settings:
+
+Driver should be turned on to be more legit.
+Snap to Window is off
+Mentioned before: FOV (graphics.fov 85 in F1) and Sensitivity (input.sensitivity 0.82 in F1)
+Mouse used: Trust GXT 105  ///   DPI: 1600
+if possible put it on Mouse Button 1 (Left Click)
+
+
+Personally used Key Settings:
+
+Use minimal delay when pressing keys in macros: ON
+React only to physical clicks on keyboards and mice: ON
+Block modifier keystrokes: ON</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 24 ms
+MoveR 0 3
+Delay 24 ms
+MoveR 0 -3
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 0 4
+Delay 24 ms
+MoveR 0 -2
+Delay 24 ms
+MoveR 0 -1
+Delay 24 ms
+MoveR 0 8
+Delay 24 ms
+MoveR 0 4
+Delay 24 ms
+MoveR 0 4
+Delay 24 ms
+MoveR 1 4
+Delay 24 ms
+MoveR 1 4
+Delay 24 ms
+MoveR 1 5
+Delay 24 ms
+MoveR 3 2
+Delay 24 ms
+MoveR 4 5
+Delay 24 ms
+MoveR 4 4
+Delay 24 ms
+MoveR 4 -2
+Delay 24 ms
+MoveR 3 4
+Delay 24 ms
+MoveR 4 1
+Delay 24 ms
+MoveR 4 3
+Delay 24 ms
+MoveR 4 3
+Delay 24 ms
+MoveR 4 4
+Delay 24 ms
+MoveR 4 6
+Delay 24 ms
+MoveR 4 3
+Delay 24 ms
+MoveR 3 3
+Delay 24 ms
+MoveR 3 3
+Delay 24 ms
+MoveR 3 3
+Delay 24 ms
+MoveR 2 2
+Delay 24 ms
+MoveR 2 2
+Delay 24 ms
+MoveR -1 2
+Delay 24 ms
+MoveR -1 2
+Delay 24 ms
+MoveR -2 1
+Delay 24 ms
+MoveR -2 1
+Delay 24 ms
+MoveR -3 2
+Delay 24 ms
+MoveR -3 1
+Delay 24 ms
+MoveR -3 1
+Delay 24 ms
+MoveR -2 1
+Delay 24 ms
+MoveR -3 1
+Delay 24 ms
+MoveR -3 1
+Delay 24 ms
+MoveR -3 2
+Delay 24 ms
+MoveR -2 2
+Delay 24 ms
+MoveR -2 2
+Delay 24 ms
+MoveR -1 2
+Delay 24 ms
+MoveR -1 1
+Delay 24 ms
+MoveR -1 1
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 0 1
+Delay 24 ms
+MoveR 2 1
+Delay 24 ms
+MoveR 2 1
+Delay 24 ms
+MoveR 2 1
+Delay 24 ms
+MoveR 2 1
+Delay 24 ms
+MoveR 2 0
+Delay 24 ms
+MoveR 2 1
+Delay 24 ms
+MoveR 3 0
+Delay 24 ms
+MoveR 3 1
+Delay 24 ms
+MoveR 3 0
+Delay 24 ms
+MoveR 3 1
+Delay 24 ms
+MoveR 2 0
+Delay 24 ms
+MoveR 2 1
+Delay 24 ms
+MoveR 2 0
+Delay 24 ms
+MoveR 2 0
+Delay 24 ms
+MoveR 2 0
+Delay 24 ms
+MoveR 2 0
+Delay 24 ms
+MoveR 0 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR 0 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR 0 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -2 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+MoveR -1 0
+Delay 24 ms
+Delay 24 ms
+LeftUp 1
+Delay 24 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

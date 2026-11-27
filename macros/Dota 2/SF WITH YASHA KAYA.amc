@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>SF C ЯШЕЙ КАЕЙ ИДЕАЛЬНЫЙ ТАЙМИНГ 
+Макрос называется С ЯШЕЙ И КАЕЙ и создан с нуля в редакторе Keyran для Shadow Fiend в Dota 2 вместо заблокированного скачанного файла sf тайм ульт. В нём собрана последовательность из тринадцати строк с заменой клавиш Space и 1 на C и Z. Сначала идут нажатие и отпускание C с паузами по 64 мс, затем нажатие и отпускание Z также с задержками по 64 мс. Далее следует задержка перед ультой, после чего выполняются нажатие R, ожидание 1 сек., отпускание R и финальная пауза 1 сек. для тайминга Requiem of Souls под Eul.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+Delay 64
+KeyUp 6 1
+Delay 64
+KeyDown 29 1
+Delay 64
+KeyUp 29 1
+Delay 1170 ms
+KeyDown 21 1
+Delay 1 s
+KeyUp 21 1
+Delay 1 s</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

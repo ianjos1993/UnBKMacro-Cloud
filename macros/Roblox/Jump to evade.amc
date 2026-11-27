@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>ставьте макрос на любую клавишу и включите режим повтора до еще одного нажатия. 
+в эвейде персонаж будет прыгать, а вам не нужно нажимать на пробел
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 171 ms
+KeyDown 44 1
+Delay 109 ms
+KeyUp 44 1
+Delay 469 ms
+KeyDown 44 1
+Delay 123 ms
+KeyUp 44 1
+Delay 490 ms
+KeyDown 44 1
+Delay 94 ms
+KeyUp 44 1
+Delay 525 ms
+KeyDown 44 1
+Delay 74 ms
+KeyUp 44 1
+Delay 540 ms
+KeyDown 44 1
+Delay 82 ms
+KeyUp 44 1
+Delay 575 ms
+KeyDown 44 1
+Delay 82 ms
+KeyUp 44 1
+Delay 516 ms
+KeyDown 44 1
+Delay 86 ms
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос, включаемый для оптимизации и облегчения бесконечных миссий фарма. Учтено время отключения системой пользователя из игры. Учтен байпасс античита благодаря рандомным значениям ожидания действия.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 1500 2000 ms
+KeyUp 26 1
+Delay 250 450 ms
+KeyDown 22 1
+Delay 1500 2000 ms
+KeyUp 22 1
+Delay 2 3 min</Syntax>
+    </KeyDown>
+    <Software>waframe anti-afk bypass</Software>
+  </DefaultMacro>
+</Root>

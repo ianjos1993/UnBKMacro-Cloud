@@ -1,0 +1,74 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Фановый макрос для режима $olitary
+
+Позволяет моментально менять цвет авто на любой (случайный (если менее 6 слотов цвета)) порядковый. Можно настроить через *time* время задержки между переключениями цветов. Не подойдёт под слабые пк. Идеально подходит для Toyota Celsior UFC10, не подходит под Suzuki
+
+Разрешение экрана: 1920 на 1080</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 387 831
+Delay 5 ms
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 5 ms
+MoveTo 449 838
+Delay 5
+LeftDown 1
+Delay 5
+LeftUp 1
+Delay 5
+MoveTo 517 829
+Delay 5
+LeftDown 1
+Delay 5
+LeftUp 1
+Delay 5
+MoveTo 574 830
+Delay 5
+LeftDown 1
+Delay 5
+LeftUp 1
+Delay 5
+MoveTo 640 827
+Delay 5
+LeftDown 1
+Delay 5
+LeftUp 1
+Delay 5
+MoveTo 705 828
+Delay 5
+LeftDown 1
+Delay 5
+LeftUp 1
+Delay 5
+MoveTo 769 808
+Delay 5
+LeftDown 1
+Delay 5
+LeftUp 1
+Delay 5
+MoveTo 830 822
+Delay 5
+LeftDown 1
+Delay 5
+LeftUp 1
+Delay 5
+MoveTo 894 811
+Delay 5
+LeftDown 1
+Delay 5
+LeftUp 1
+Delay 5</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

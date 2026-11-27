@@ -1,0 +1,82 @@
+<Root>
+  <DefaultMacro>
+    <Major>Автоматическая закупка</Major>
+    <Description>Этот макрос для автоматичесокой закупки в магазине!
+
+ПАРАМЕТРЫ:
+- Мышь - 13.50 чувствительность
+- Монитор - Xiaomi
+- Разрешение - 3440х1440
+- Соотношение - 21х9
+- Обзор экрана (в игре) - 120
+
+Привязываешь макрос к удобной для себя кнопки и радуешься моментальным закупкам в магазинах.
+
+КАК РАБОТАЕТ ЭТОТ МАКРОС?
+К примеру привязал макрос к кнопке 4. Нажав на данную кнопку у тебя автоматически открывается магазин и делается закупка следующих предметов:
+- Набор для самореанимации = 4.000$
+- Противогаз = 3.000$
+- БПЛА = 6.000$
+- Ящик с боеприпасами = 4.000$
+- Бронепластина 5шт. = 750$
+
+ДОП: С применением всех бронепластин нажатием на левую боковую дальнюю клавишу мыши. При желании нажатие клавиши заменить можете на свою.
+
+Сумма закупа составляет: 17.750$
+
+То есть если у тебя будет сумма меньше, это означает что ты не всё купишь из вышеперечисленного. Покупка происходит в указанном выше порядке!
+
+Нажал и отпустил кнопку - сработал макрос</Description>
+    <Comment>Удачной игры друзья =)</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+KeyUp 9 1
+Delay 500 ms
+MoveTo 1144 923
+Delay 25 ms
+LeftDown 1
+LeftUp 1
+Delay 25 ms
+MoveTo 1144 840
+Delay 25 ms
+LeftDown 1
+LeftUp 1
+Delay 25 ms
+MoveTo 1143 679
+Delay 25 ms
+LeftDown 1
+LeftUp 1
+Delay 25 ms
+MoveTo 1144 596
+Delay 25 ms
+LeftDown 1
+LeftUp 1
+Delay 25 ms
+MoveTo 1145 326
+Delay 25 ms
+LeftDown 1
+LeftUp 1
+LeftDown 1
+LeftUp 1
+LeftDown 1
+LeftUp 1
+LeftDown 1
+LeftUp 1
+LeftDown 1
+LeftUp 1
+Delay 25 ms
+KeyDown 41 1
+KeyUp 41 1
+Delay 25 ms
+Button4down 1
+Button4Up 1</Syntax>
+    </KeyDown>
+    <Software>Call of Duty: Black Ops 6</Software>
+  </DefaultMacro>
+</Root>

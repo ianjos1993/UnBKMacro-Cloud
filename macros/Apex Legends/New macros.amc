@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>JitterAim macro - for most AR, SMG and LMG</Major>
+    <Description>JitterAim macro for Apex. Tested with R-301, Spitfire, Alternator, Rampage, Flatline and works pretty well :)
+
+
+Mouse DPI: 800-1000 (I'm suggesting to set on 800)
+Resolution: 1920x1080
+Sens in-game: 2,53 (hard required to set 2.53, not less or more)
+
+Good luck Legends!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 6 -2
+Delay 2 6 ms
+MoveR 5 1
+Delay 4 7 ms
+MoveR -1 6
+Delay 2 5 ms
+MoveR 4 -1
+Delay 9 11 ms
+Goto 2</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

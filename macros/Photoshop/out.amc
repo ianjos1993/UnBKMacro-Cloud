@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простой макрос который можно поставить на колёскио мыши(скрол назад)
+В программе Photoshop очень удобен, с ним можно быстро отдалять изображение
+Время настраиваете в зависимости от вашего пк(если мощный то меньше, если слабый то побольше) Изначальное значение стоит среднее
+Всех благ!
+
+По вопросам и вариантам улучшения пишите под постом</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 177 ms
+KeyDown 45 1
+Delay 77 ms
+KeyUp 45 1
+Delay 180 ms
+KeyUp 224 1</Syntax>
+    </KeyDown>
+    <Software>Photoshop</Software>
+  </DefaultMacro>
+</Root>

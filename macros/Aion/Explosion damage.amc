@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>assasin</Major>
+    <Description>макрос для взрыва печати в маг сете, на ф4 выставляем засаду, после чего колесеко мышки у нас отвечает за переодевание сета, ф5 за клык зверя</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 61 1
+KeyUp 61 1
+Delay 500 ms
+MiddleDown 1
+MiddleUp 1
+Delay 800 ms
+KeyDown 62 1
+KeyUp 62 1</Syntax>
+    </KeyDown>
+    <Software>aion</Software>
+  </DefaultMacro>
+</Root>

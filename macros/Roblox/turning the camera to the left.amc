@@ -1,0 +1,19 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос обеспечивает плавный поворот камеры в левую сторону, создавая ощущение естественного движения и позволяя игроку или пользователю лучше ориентироваться в пространстве. Этот эффект достигается за счет постепенного изменения вектора направления взгляда камеры, избегая резких рывков.
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 80 1
+Delay 86400000 min</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

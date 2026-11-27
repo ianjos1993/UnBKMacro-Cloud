@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Простой макрос на сумонера. Ставь нужные скилы на панельку и качайся быстро. От F1-F6 ставим на панель гнев теней, созвать, следущая дальняя цель, зов проклятий, сумонатак и подбор предмета. УДАЧНОГО ВАМ КАЧА.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 58 1
+Delay 10 ms
+KeyUp 58 1
+Delay 10 ms
+KeyDown 59 1
+Delay 10 ms
+KeyUp 59 1
+Delay 10 ms
+KeyDown 60 1
+Delay 10 ms
+KeyUp 60 1
+Delay 10 ms
+KeyDown 61 1
+Delay 10 ms
+KeyUp 61 1
+Delay 10 ms
+KeyDown 62 1
+Delay 10 ms
+KeyUp 62 1
+Delay 10 ms
+KeyDown 63 1
+Delay 10 ms
+KeyUp 63 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

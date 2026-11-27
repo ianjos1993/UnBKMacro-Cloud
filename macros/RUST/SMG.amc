@@ -1,0 +1,67 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос для SMG в игре rust, для корректной работы выставить следующие значения
+разрешение 1920*1080 FOV 90
+чувствительность 0.9
+ЗАЖИМАТЬ СИДЯ</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR -1 1
+Delay 25 ms
+MoveR -1 2
+Delay 25 ms
+MoveR -1 1
+Delay 25 ms
+MoveR 0 1
+Delay 25 ms
+MoveR 1 1
+Delay 25 ms
+MoveR 1 1
+Delay 25 ms
+MoveR 1 1
+Delay 25 ms
+MoveR 1 1
+Delay 25 ms
+MoveR 0 1
+Delay 25 ms
+MoveR -1 1
+Delay 25 ms
+MoveR -1 1
+Delay 25 ms
+MoveR -1 1
+Delay 25 ms
+MoveR -1 1
+Delay 25 ms
+MoveR 0 1
+Delay 25 ms
+MoveR 1 1
+Delay 25 ms
+MoveR 2 1
+Delay 25 ms
+MoveR 2 1
+Delay 25 ms
+MoveR 2 1
+Delay 25 ms
+MoveR 2 1
+Delay 25 ms
+MoveR 0 1
+Delay 25 ms
+MoveR -1 1
+Delay 25 ms
+MoveR -1 1
+Delay 25 ms
+MoveR -1 1
+Delay 25 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

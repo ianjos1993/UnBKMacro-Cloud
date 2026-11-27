@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>DenXP</Major>
+    <Description>Мастер парных кленков 4+F (Цикл) от 26.06.2023
+Для первого спека 
+Особеность:
+3-3-2-3-2
+Возможно понадобиться изменение задержки из-за разного пинга.
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 33 1
+Delay 64 ms
+KeyUp 33 1
+Delay 64 ms
+KeyDown 9 1
+Delay 64 ms
+KeyUp 9 1</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

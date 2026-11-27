@@ -1,0 +1,72 @@
+<Root>
+  <DefaultMacro>
+    <Major>мистик ПВЕ</Major>
+    <Description>ротация на основе рекомендаций разработчико игры и практического опыта
+Если всё сделать без потерь времени, то вы ровно уложитесь в тайминг Скракана и отдадите Энтропию в толпу крипов под всеми баффами, что моментально унесёт вас в космос по урону.
+Инструкция по пользованию макросом. нажимаем контакт разумов и запускаем установленный стандартным способом с помощью программы Keyran, макрос, присвоенной ему клавишей. Порядок выполнения макросом нажатий, Q концентрация, 2 фантомы, 3 клинки, трираза нажимается 4 травма, 5 мучение, 6 выжигание, 7 психоз, 8 зенит, 9 распад конец выполнения макроса</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+//Концентрация
+Delay 100 ms
+KeyUp 20 1
+Delay 100 ms
+KeyDown 31 1
+//Фантомы
+Delay 231 ms
+KeyUp 31 1
+Delay 100 ms
+KeyDown 32 1
+//Клинки
+Delay 239 ms
+KeyUp 32 1
+Delay 250 ms
+KeyDown 33 1
+//Травма
+Delay 167 ms
+KeyUp 33 1
+Delay 1200 ms
+KeyDown 33 1
+//Травма
+Delay 151 ms
+KeyUp 33 1
+Delay 1127 ms
+KeyDown 33 1
+//Травма
+Delay 216 ms
+KeyUp 33 1
+Delay 250 ms
+KeyDown 34 1
+//Мучение
+Delay 184 ms
+KeyUp 34 1
+Delay 300 ms
+KeyDown 35 1
+//Выжигание
+Delay 183 ms
+KeyUp 35 1
+Delay 300 ms
+KeyDown 36 1
+//Психоз
+Delay 208 ms
+KeyUp 36 1
+Delay 500 ms
+KeyDown 37 1
+//Зенит
+Delay 50 ms
+KeyUp 37 1
+Delay 50 ms
+KeyDown 38 1
+//Распад
+Delay 176 ms
+KeyUp 38 1</Syntax>
+    </KeyDown>
+    <Software>allods online</Software>
+  </DefaultMacro>
+</Root>

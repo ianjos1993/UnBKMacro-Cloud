@@ -1,0 +1,56 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>script for the bearing 9 1.5x in R6. 
+if there is any operator with bearing 9 this will work
+2560 x 1440 screen resolution
+
+16:10 ratio
+
+650dpi
+sensitivity: 17
+
+attachments: 
+extended barrel
+angled grip.
+1.5x scope</Description>
+    <Comment>script for the bearing 9 1.5x in R6. 
+if there is any operator with bearing 9 this will work
+2560 x 1440 screen resolution
+
+16:10 ratio
+
+650dpi
+sensitivity: 17
+
+attachments: 
+extended barrel
+angled grip.
+1.5x scope</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR -2 6
+Delay 7 ms
+MoveR 4 3
+Delay 6 ms
+MoveR -3 6
+Delay 7 ms
+MoveR 4 4
+Delay 6 ms
+MoveR -2 3
+Delay 7 ms
+MoveR 3 5
+Delay 6 ms
+MoveR -2 2
+Delay 7 ms
+MoveR -2 5
+Delay 3 ms</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

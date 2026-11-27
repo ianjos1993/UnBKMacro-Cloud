@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>Fast Emote Slot #6</Major>
+    <Description>Данный макрос предназначен для автоматизации нажатия клавиши эмоции в 6-м слоте. Он имитирует последовательность открытия колеса выбора и нажатия на нужную позицию за минимальное время.
+
+Цель: Быстрое использование любимой эмоции без необходимости вручную выбирать её в меню.
+
+Преимущества: Улучшает игровой опыт, позволяя мгновенно реагировать на игровые ситуации. Не влияет на скорость передвижения или физику персонаж</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+Delay 64
+KeyDown 35 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

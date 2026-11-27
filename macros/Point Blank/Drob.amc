@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major>By Rustam</Major>
+    <Description>Хороший макрос на любой дробовик в игре Point Blank. лучше всего ставить на Q вообще будет топ не надо ставить на левую кнопку мыши так не будет стрелять</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 20
+LeftUp 1
+Delay 20
+KeyDown 20 1
+Delay 20
+KeyUp 20 1
+Delay 20
+KeyDown 20 1
+Delay 20
+KeyUp 20 1</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

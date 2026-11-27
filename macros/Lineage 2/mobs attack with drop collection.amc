@@ -1,0 +1,153 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>простая автоатака для персонажей ближнего боя со сбором дропа
+разрешение экрана 1920х1080
+
+на 3 строке в 1 ячейку помещается игровой макрос (/target *часть имени моба*, например "/target ragna")
+на 3 строке во 2 ячейку помещается действие для подбора дропа</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 2 ms
+MoveTo 947 1003
+Delay 3 ms
+MoveTo 948 1003
+Delay 3 ms
+MoveTo 949 1004
+Delay 3 ms
+MoveTo 950 1005
+Delay 3 ms
+MoveTo 951 1005
+Delay 8 ms
+MoveTo 952 1005
+Delay 76 ms
+LeftDown 1
+Delay 47 ms
+LeftUp 1
+Delay 83 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 83 ms
+LeftDown 1
+Delay 67 ms
+LeftUp 1
+Delay 83 ms
+LeftDown 1
+Delay 39 ms
+LeftUp 1
+Delay 92 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 71 ms
+LeftDown 1
+Delay 68 ms
+LeftUp 1
+Delay 48 ms
+MoveTo 953 1005
+Delay 3 ms
+MoveTo 955 1005
+Delay 3 ms
+MoveTo 957 1005
+Delay 3 ms
+MoveTo 960 1005
+Delay 4 ms
+MoveTo 962 1005
+Delay 3 ms
+MoveTo 963 1005
+Delay 4 ms
+MoveTo 964 1005
+Delay 3 ms
+MoveTo 965 1005
+Delay 3 ms
+MoveTo 966 1005
+Delay 4 ms
+MoveTo 967 1005
+Delay 4 ms
+MoveTo 968 1005
+Delay 3 ms
+MoveTo 970 1005
+Delay 4 ms
+MoveTo 971 1005
+Delay 4 ms
+MoveTo 972 1005
+Delay 4 ms
+MoveTo 973 1005
+Delay 3 ms
+MoveTo 974 1005
+Delay 3 ms
+MoveTo 975 1005
+Delay 4 ms
+MoveTo 976 1005
+Delay 3 ms
+MoveTo 977 1004
+Delay 3 ms
+MoveTo 978 1004
+Delay 3 ms
+MoveTo 978 1003
+Delay 12 ms
+MoveTo 979 1003
+Delay 7 ms
+MoveTo 980 1003
+Delay 40 ms
+MoveTo 981 1003
+Delay 7 ms
+MoveTo 982 1003
+Delay 16 ms
+MoveTo 983 1003
+Delay 16 ms
+MoveTo 984 1003
+Delay 7 ms
+MoveTo 985 1003
+Delay 32 ms
+MoveTo 986 1003
+Delay 4 ms
+MoveTo 986 1002
+Delay 36 ms
+LeftDown 1
+Delay 87 ms
+LeftUp 1
+Delay 52 ms
+LeftDown 1
+Delay 59 ms
+LeftUp 1
+Delay 88 ms
+LeftDown 1
+Delay 67 ms
+LeftUp 1
+Delay 75 ms
+LeftDown 1
+Delay 68 ms
+LeftUp 1
+Delay 79 ms
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 123 ms
+MoveTo 985 1002
+Delay 96 ms
+MoveTo 984 1002
+Delay 4 ms
+MoveTo 983 1002
+Delay 3 ms
+MoveTo 981 1002
+Delay 4 ms
+MoveTo 979 1001
+Delay 4 ms
+MoveTo 977 1001
+Delay 4 ms
+MoveTo 976 1000
+Delay 3 ms
+MoveTo 975 1000
+Delay 2 ms</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

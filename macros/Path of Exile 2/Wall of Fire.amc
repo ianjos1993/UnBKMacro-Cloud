@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>Стена огня + Морозные осколки</Major>
+    <Description>Расширение 2560х1440 (если это влияет)
+
+Простой макрос, для создания стены огня и потом морозными осколками сквозь неё ударить,для поджигания самих осколков.
+
+Тайминг выставлен в рандом не большой, для исключения бана за одинаковое время клика.
+
+Кнопки скиллов меняйте сами по своему вкусу, настроено на "R" - стена огня, "ЛКМ" - Морозные осколки</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 455 485 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Path of Exile 2</Software>
+  </DefaultMacro>
+</Root>

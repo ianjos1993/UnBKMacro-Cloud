@@ -1,0 +1,125 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для 2 кольцевого маршрута на трамвае для MTA Province. В макрос включено ожидание некоторого времени после остановки.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 123 ms
+LeftUp 1
+Delay 166 ms
+KeyDown 26 1
+Delay 40584 ms
+KeyUp 26 1
+Delay 31 ms
+KeyDown 22 1
+Delay 4904 ms
+KeyUp 22 1
+Delay 624 ms
+KeyDown 31 1
+Delay 55 ms
+KeyUp 31 1
+Delay 5543 ms
+KeyDown 31 1
+Delay 103 ms
+KeyUp 31 1
+Delay 287 ms
+KeyDown 26 1
+Delay 30992 ms
+KeyUp 26 1
+Delay 15 ms
+KeyDown 22 1
+Delay 4823 ms
+KeyUp 22 1
+Delay 576 ms
+KeyDown 31 1
+Delay 87 ms
+KeyUp 31 1
+Delay 5568 ms
+KeyDown 31 1
+Delay 111 ms
+KeyUp 31 1
+Delay 368 ms
+KeyDown 26 1
+Delay 39471 ms
+KeyUp 26 1
+Delay 15 ms
+KeyDown 22 1
+Delay 4456 ms
+KeyUp 22 1
+Delay 263 ms
+KeyDown 22 1
+Delay 352 ms
+KeyUp 22 1
+Delay 567 ms
+KeyDown 22 1
+Delay 72 ms
+KeyUp 22 1
+Delay 631 ms
+KeyDown 31 1
+Delay 80 ms
+KeyUp 31 1
+Delay 5895 ms
+KeyDown 31 1
+Delay 103 ms
+KeyUp 31 1
+Delay 640 ms
+KeyDown 26 1
+Delay 30784 ms
+KeyUp 26 1
+Delay 16 ms
+KeyDown 22 1
+Delay 4824 ms
+KeyUp 22 1
+Delay 767 ms
+KeyDown 22 1
+Delay 40 ms
+KeyUp 22 1
+Delay 960 ms
+KeyDown 31 1
+Delay 71 ms
+KeyUp 31 1
+Delay 5600 ms
+KeyDown 31 1
+Delay 79 ms
+KeyUp 31 1
+Delay 311 ms
+KeyDown 26 1
+Delay 33303 ms
+KeyUp 26 1
+Delay 255 ms
+KeyDown 22 1
+Delay 4976 ms
+KeyUp 22 1
+Delay 631 ms
+KeyDown 31 1
+Delay 104 ms
+KeyUp 31 1
+Delay 5487 ms
+KeyDown 31 1
+Delay 87 ms
+KeyUp 31 1
+Delay 391 ms
+KeyDown 26 1
+Delay 336 ms
+KeyUp 26 1
+Delay 375 ms
+KeyDown 26 1
+Delay 3823 ms
+KeyUp 26 1
+Delay 7590 ms
+LeftDown 1
+Delay 172 ms
+LeftUp 1
+Delay 1412 ms
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

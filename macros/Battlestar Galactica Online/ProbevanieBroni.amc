@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>Нужно иметь разрешение экрана 1440 на 900</Major>
+    <Description>Производит переключение патронов на пробевание брони, на любой линейки, при условии того что играеш в полноэкранном режиме и в 3 слот с конца стоят пушка.
+Бинится на клавишу и не запускается в цикл.
+!!Важно!! отключить в самом кликере использование драйвера для мышки в противном случии макрос работает некорректно.</Description>
+    <Comment>давно комьюнити просила раздработчиков ввести хоткеи на переключение патронов, данный макрос переключает тип патронов на горячую клавишу</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 1314 678
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+MoveTo 1292 430
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1346 552
+Delay 250 ms
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Battlestar Galactica Online</Software>
+  </DefaultMacro>
+</Root>

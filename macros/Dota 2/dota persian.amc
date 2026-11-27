@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>тайминг метеора ОД</Major>
+    <Description>тайминг метеора ОД астрал 4 лвл метеор на Z квикасты на предметы.Идеальный тайминг на ОД 
+Применение скиллов без квикастов на кнопку W
+Применение предметов с квикастами на кнопку Z
+Макрос позволяет моментально применить на врака метеор хамер после применения на него астрала что не позволяет ему выжить
+[22:55]
+воти</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+LeftDown 1
+Delay 5 ms
+LeftUp 1
+Delay 10 ms
+KeyUp 26 1
+Delay 1500 ms
+KeyDown 29 1
+Delay 64
+KeyUp 29 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

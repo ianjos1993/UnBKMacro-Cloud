@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>Parry-Attack &gt; Backwards dodge</Major>
+    <Description>Quickly hold parry to get the special attack from parry stance into a quick backwards step. This is only for keyboard (obviously).</Description>
+    <Comment>For Lies of P, using keyboard. Probably works for Dark Souls 1-3 as well.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 25 ms
+LeftDown 1
+Delay 25 ms
+LeftUp 1
+Delay 250 ms
+KeyUp 225 1
+Delay 110 ms
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 25 ms
+KeyDown 225 1
+Delay 110 ms
+KeyUp 225 1</Syntax>
+    </KeyDown>
+    <Software>Lies of P</Software>
+  </DefaultMacro>
+</Root>

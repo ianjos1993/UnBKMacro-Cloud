@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>!!!THIS MACRO REQUIRES MIDNIGHT BLADE IN YOUR 3 SLOT AND GODHUMAN IN YOUR 1 SPOT!!!
+
+This will automatically perform a combo to hit your opponent with Portal Opening into soaring beast, sixth realm gun and followed by heaven and earth. This combo quite comfortably reaches 20k damage and you can land crescent dash after wards and make it one shot.
+For this to work you need to have your cursor on your opponent for the first move (Portal Opening) after that it does not matter.
+
+If your Godhuman and Midnight Blade are in different spots you must swap them to slot 1 and 3 or change the macro keys
+
+Made by prox</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 29 1
+Delay 64
+KeyUp 29 1
+Delay 800 ms
+KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 64
+KeyDown 29 1
+Delay 120 ms
+KeyUp 29 1
+Delay 450 ms
+KeyDown 6 1
+Delay 64
+KeyUp 6 1
+Delay 150 ms
+KeyDown 27 1
+Delay 64
+KeyUp 27 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

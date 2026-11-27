@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Выставить скилы: Очищающий свет, Сияние очищения на клавиши "-"  "=" , так как клавиши рядом будет удобно ориентироваться по их кд. Макрос ставим на любую удобную кнопку. В макосе 2 чистки личная и пати чистка</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 45 1
+KeyUp 45 1
+Delay 20 ms
+KeyDown 46 1
+Delay 15 ms
+KeyUp 46 1</Syntax>
+    </KeyDown>
+    <Software>AION</Software>
+  </DefaultMacro>
+</Root>

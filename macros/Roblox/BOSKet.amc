@@ -1,0 +1,19 @@
+<Root>
+  <DefaultMacro>
+    <Major>Basketball legends</Major>
+    <Description>с этим макросом вам не нужно будет заморачиваться по поводу нажатия блока на клавишу, все пальцы будут свободны и будет больше пространства для маневра</Description>
+    <Comment>Блок для баскетбола</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 86400000 ms
+KeyUp 9 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

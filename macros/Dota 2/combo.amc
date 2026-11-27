@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>tinker script </Major>
+    <Description>Скрипт на тинкера, читайте ниже обязательные условия для корректной работы макроса!
+Бинды:
+хекс-2
+етериал-3
+дагон-4
+шива-скролл колёсика мыши вверх
+соул ринг-скролл колёсика мыши вниз
+лазер-q
+ракетки-w
+
+Блинк прожимайте на своё усмотрение, далее нажимайте кнопку макроса и вуаля. Теперь вы ученик Lensaaa))</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+WheelDown 1
+KeyDown 32 1
+WheelUp 1
+KeyDown 33 1
+KeyDown 26 1
+KeyDown 20 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

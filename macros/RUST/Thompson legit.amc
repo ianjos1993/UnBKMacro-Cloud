@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Здравствуйте!
+Этот макрос предназначен для контроля отдачи оружия Thompson в игре Rust. Перейдём к настройке:
+
+DPI мыши: рекомендуется установить значение 700
+
+Разрешение экрана: оптимально — 1920x1080
+
+Чувствительность мыши: общая — 0.6, в прицеле — 0.5
+
+Поле зрения (FOV): рекомендуется установить на 90
+
+Убедитесь, что все параметры выставлены правильно для максимальной эффективности макроса.
+Удачи в игре и метких выстрелов!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+MoveR 0 4
+Delay 64
+MoveR 0 4
+Delay 64
+MoveR 0 4
+Delay 64
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

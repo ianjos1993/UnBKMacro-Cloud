@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major>ыф</Major>
+    <Description>Данный макрос предназначен для быстрого и четкого прокаста на тикнере через ракетки+шиву
+Rearm R
+Rocket W
+Shiva Space 
+Если надо меняйте на удобные клавиши или добовляйте новое
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 1250 ms
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

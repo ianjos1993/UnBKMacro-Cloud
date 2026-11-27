@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>Lowers recoil</Major>
+    <Description>Настройки:
+1900 dpi mouse 
+6 sens
+1920x1080
+5:4
+
+Описание:
+Макрос на пистолет. При использовании абилки необходимо целиться чуть выше. Советую использовать дробовик на основу.
+
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 15 ms
+MoveR 1 14
+Delay 15 ms
+MoveR 2 9
+Delay 15 ms
+MoveR -1 11
+Delay 15 ms
+MoveR -2 12
+Delay 15 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

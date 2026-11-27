@@ -1,0 +1,55 @@
+<Root>
+  <DefaultMacro>
+    <Major>DPI 2500 Чувствительность 50.0</Major>
+    <Description>Макрос для AK 5D на оперативника Фрейр.
+Использовался навык "тяжёлый ствол" от оперативника Фаро.
+Для нормальной работоспособности следует отключить верт.синхронизацию, поставить чувствительность в прицеле 50.0. Разрешение экрана 1920 на 1080
+
+Для активации макроса нужно нажать на ЛКМ
+
+Повышает вашу точность на близких и средних дистанциях.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 7 ms
+MoveR 0 0
+Delay 7 ms
+MoveR 0 0
+Delay 7 ms
+MoveR -1 2
+Delay 7 ms
+MoveR 0 3
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 3
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR -1 3
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+MoveR -1 1
+Delay 7 ms
+MoveR -1 2
+Delay 7 ms
+MoveR 0 1
+Delay 7 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Калибр</Software>
+  </DefaultMacro>
+</Root>

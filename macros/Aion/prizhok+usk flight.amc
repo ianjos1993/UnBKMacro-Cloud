@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>Убийца</Major>
+    <Description>На букву G биндим ускоренный полет, на букву H штурмовой удар ( бинды можно настроить под себя) 
+макрос для любого класса для автоматического штурмового удара </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 400 ms
+KeyDown 44 1
+Delay 150 ms
+KeyDown 10 1
+Delay 25 ms
+KeyDown 10 1
+Delay 5 ms
+KeyDown 11 1
+KeyDown 11 1
+KeyDown 11 1
+Delay 10 ms
+KeyDown 11 1
+Delay 10 ms
+KeyDown 11 1
+KeyDown 11 1</Syntax>
+    </KeyDown>
+    <Software>AION</Software>
+  </DefaultMacro>
+</Root>

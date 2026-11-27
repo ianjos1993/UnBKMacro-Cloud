@@ -1,0 +1,60 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>этот макрос поможет вам если вы играете на серверах и к примеру ктото за вами гониться , зажав поставленную кнопку вы перемещаетесь на то место которое подписано как home . все действия по подсчёту происходят примерно за 73 ммилисекунды и по этому этот макрос мог бы пригодиться многим игрокам </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 10 ms
+KeyUp 56 1
+Delay 10
+KeyDown 11 1
+Delay 10
+KeyUp 11 1
+Delay 10
+KeyDown 18 1
+Delay 10
+KeyUp 18 1
+Delay 10
+KeyDown 16 1
+Delay 10
+KeyUp 16 1
+Delay 10
+KeyDown 8 1
+Delay 10
+KeyUp 8 1
+Delay 10
+KeyDown 44 1
+Delay 10
+KeyUp 44 1
+Delay 10
+KeyDown 11 1
+Delay 10
+KeyUp 11 1
+Delay 10
+KeyDown 18 1
+Delay 10
+KeyUp 18 1
+Delay 10
+KeyDown 16 1
+Delay 10
+KeyUp 16 1
+Delay 10
+KeyDown 8 1
+Delay 10
+KeyUp 8 1
+Delay 10
+KeyDown 88 1
+Delay 10
+KeyUp 88 1
+Delay 10</Syntax>
+    </KeyDown>
+    <Software>minecraft</Software>
+  </DefaultMacro>
+</Root>

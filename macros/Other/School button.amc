@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Нажатии кнопки госуслуги. Скоростной клик для быстрого нажатия кнопки поступления в школу. Нажатии в несколько мест так как кнопка при старте может поменять место расположение. Разрешение 1920 на 1080 </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 1
+LeftUp 1
+Delay 1
+MoveR 0 15
+Delay 1
+LeftDown 1
+Delay 1
+LeftUp 1
+Delay 1
+MoveR 0 -15
+Delay 1</Syntax>
+    </KeyDown>
+    <Software>Другие</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Remember to set your own buttons in game before activate this macro. (mine is xb1 and xb2)
+
+Just a simple macro made for the Destroyer with skills -- Judgement and Cleave.
+
+I don't recommend using it when lots of mons around you.
+
+Simple LMB - RMB.
+
+The best of dungeon and mobs ,and ford raid!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 120 ms
+LeftUp 1
+Delay 200 ms
+RightDown 1
+Delay 200 ms
+RightUp 1
+Delay 0 ms</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

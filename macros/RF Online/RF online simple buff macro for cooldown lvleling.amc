@@ -1,0 +1,87 @@
+<Root>
+  <DefaultMacro>
+    <Major>RF online buff macro</Major>
+    <Description>RF online buff macro.
+simply add your buffs to one row, leave f9 and f10
+place cooldown adding buff to f9 and purification to f10
+start the lvl grind :)</Description>
+    <Comment>simple explanation for newbies on this platform for better gameplay and understanding of macros</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 58 1
+Delay 64
+KeyUp 58 1
+Delay 64
+KeyDown 66 1
+Delay 64
+KeyUp 66 1
+Delay 64
+KeyDown 59 1
+Delay 64
+KeyUp 59 1
+Delay 64
+KeyDown 66 1
+Delay 64
+KeyUp 66 1
+Delay 64
+KeyDown 60 1
+Delay 64
+KeyUp 60 1
+Delay 64
+KeyDown 66 1
+Delay 64
+KeyUp 66 1
+Delay 64
+KeyDown 61 1
+Delay 64
+KeyUp 61 1
+Delay 64
+KeyDown 66 1
+Delay 64
+KeyUp 66 1
+Delay 64
+KeyDown 62 1
+Delay 64
+KeyUp 62 1
+Delay 64
+KeyDown 66 1
+Delay 64
+KeyUp 66 1
+Delay 64
+KeyDown 63 1
+Delay 64
+KeyUp 63 1
+Delay 64
+KeyDown 66 1
+Delay 64
+KeyUp 66 1
+Delay 64
+KeyDown 64 1
+Delay 64
+KeyUp 64 1
+Delay 64
+KeyDown 66 1
+Delay 64
+KeyUp 66 1
+Delay 64
+KeyDown 65 1
+Delay 64
+KeyUp 65 1
+Delay 64
+KeyDown 66 1
+Delay 64
+KeyUp 66 1
+Delay 64
+KeyDown 67 1
+Delay 64
+KeyUp 67 1
+Delay 5 s</Syntax>
+    </KeyDown>
+    <Software>RF-Online</Software>
+  </DefaultMacro>
+</Root>

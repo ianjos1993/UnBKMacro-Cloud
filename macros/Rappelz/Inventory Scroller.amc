@@ -1,0 +1,62 @@
+<Root>
+  <DefaultMacro>
+    <Major>Inventory Management</Major>
+    <Description>Game Should be 1024x768
+game should be in top left corner in windows.
+inventory should be top right corner in game
+Code will be 10 time scroll your inventory. you can add  more or decrease it.
+Also you can use it in your macros for inventory management.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 668 461
+Delay 64
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 1024 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 1024 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 1024 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 1024 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 1024 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 1024 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 1024 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 1024 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 1024 ms
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 1024 ms</Syntax>
+    </KeyDown>
+    <Software>Rappelz</Software>
+  </DefaultMacro>
+</Root>

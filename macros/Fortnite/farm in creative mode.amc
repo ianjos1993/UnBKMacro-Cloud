@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Сегодня, играя в фортнайт, я захотел пофармить опыт на карте в творческом режиме, но так как мне нужно было уходить, я решил создать макрос, и с помощью него, можно спокойно фармить столько опыта, сколько вам нужно.
+Что  вам нужно сделать:
+1. В поиске режимов набрать XP FARM  (или у вас на примете есть какие-то карты, вбейте их название).
+2. Подойти ко кнопке фарма XP (Все зависит от режима!)
+3. А дальше просто подрубите макрос и наслаждайтесь. Можно таким образом нафармить кучу опыта!</Description>
+    <Comment>можно лицензию пожалуйста, мне нужно потестить макросы сложные, чтобы потом их загрузить)</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyDown 8 1
+Delay 64
+KeyDown 8 1
+Delay 64
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

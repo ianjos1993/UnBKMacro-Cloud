@@ -1,0 +1,295 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос нужен для авто приготовления сваренного риса.
+Для того чтобы скрипт работал нужно:
+1. У вас должны быть в инвентаре ингридиенты, такие как: рисовая крупа, а также вода и огонь.
+2. Для правильной работы скрипта вам нужно, чтобы рисовая крупа стояла во 2 слоте и вода  в 1 слоте во время готовки.
+3. Если у вас возникли проблемы с расположением ингридиентов, вам нужно просто выложить не нужные блюда или же ингридиенты.
+
+Удачной игры)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 843 241
+MoveTo 843 241
+RightDown 1
+Delay 72 ms
+RightUp 1
+MoveTo 839 243
+MoveTo 763 251
+MoveTo 762 251
+RightDown 1
+Delay 64 ms
+RightUp 1
+MoveTo 762 253
+MoveTo 562 536
+Delay 8 ms
+MoveTo 563 536
+RightDown 1
+Delay 55 ms
+MoveTo 564 537
+Delay 7 ms
+RightUp 1
+Delay 24 ms
+MoveTo 565 538
+Delay 15 ms
+MoveTo 565 539
+Delay 7 ms
+MoveTo 563 542
+Delay 8 ms
+MoveTo 559 548
+Delay 7 ms
+MoveTo 556 553
+Delay 8 ms
+MoveTo 553 558
+Delay 8 ms
+MoveTo 553 564
+Delay 8 ms
+MoveTo 546 572
+Delay 7 ms
+MoveTo 543 578
+Delay 7 ms
+MoveTo 543 578
+Delay 8 ms
+MoveTo 537 593
+Delay 7 ms
+MoveTo 535 600
+Delay 7 ms
+MoveTo 530 607
+Delay 8 ms
+MoveTo 525 616
+Delay 7 ms
+MoveTo 523 623
+Delay 8 ms
+MoveTo 523 623
+Delay 8 ms
+MoveTo 518 630
+Delay 7 ms
+MoveTo 515 640
+Delay 7 ms
+MoveTo 507 644
+Delay 7 ms
+MoveTo 507 644
+Delay 8 ms
+MoveTo 501 651
+Delay 8 ms
+MoveTo 500 652
+Delay 7 ms
+MoveTo 499 654
+Delay 7 ms
+MoveTo 499 655
+Delay 7 ms
+MoveTo 498 656
+Delay 16 ms
+MoveTo 498 656
+Delay 15 ms
+MoveTo 498 658
+Delay 8 ms
+MoveTo 498 658
+Delay 7 ms
+MoveTo 498 659
+Delay 7 ms
+MoveTo 498 660
+Delay 8 ms
+MoveTo 498 661
+Delay 16 ms
+LeftDown 1
+Delay 71 ms
+LeftUp 1
+Delay 64 ms
+MoveTo 498 661
+Delay 15 ms
+MoveTo 498 660
+Delay 5728 ms
+MoveTo 843 241
+MoveTo 843 241
+RightDown 1
+Delay 72 ms
+RightUp 1
+MoveTo 839 243
+MoveTo 763 251
+MoveTo 762 251
+RightDown 1
+Delay 64 ms
+RightUp 1
+MoveTo 762 253
+MoveTo 562 536
+Delay 8 ms
+MoveTo 563 536
+RightDown 1
+Delay 55 ms
+MoveTo 564 537
+Delay 7 ms
+RightUp 1
+Delay 24 ms
+MoveTo 565 538
+Delay 15 ms
+MoveTo 565 539
+Delay 7 ms
+MoveTo 563 542
+Delay 8 ms
+MoveTo 559 548
+Delay 7 ms
+MoveTo 556 553
+Delay 8 ms
+MoveTo 553 558
+Delay 8 ms
+MoveTo 553 564
+Delay 8 ms
+MoveTo 546 572
+Delay 7 ms
+MoveTo 543 578
+Delay 7 ms
+MoveTo 543 578
+Delay 8 ms
+MoveTo 537 593
+Delay 7 ms
+MoveTo 535 600
+Delay 7 ms
+MoveTo 530 607
+Delay 8 ms
+MoveTo 525 616
+Delay 7 ms
+MoveTo 523 623
+Delay 8 ms
+MoveTo 523 623
+Delay 8 ms
+MoveTo 518 630
+Delay 7 ms
+MoveTo 515 640
+Delay 7 ms
+MoveTo 507 644
+Delay 7 ms
+MoveTo 507 644
+Delay 8 ms
+MoveTo 501 651
+Delay 8 ms
+MoveTo 500 652
+Delay 7 ms
+MoveTo 499 654
+Delay 7 ms
+MoveTo 499 655
+Delay 7 ms
+MoveTo 498 656
+Delay 16 ms
+MoveTo 498 656
+Delay 15 ms
+MoveTo 498 658
+Delay 8 ms
+MoveTo 498 658
+Delay 7 ms
+MoveTo 498 659
+Delay 7 ms
+MoveTo 498 660
+Delay 8 ms
+MoveTo 498 661
+Delay 16 ms
+LeftDown 1
+Delay 71 ms
+LeftUp 1
+Delay 64 ms
+MoveTo 498 661
+Delay 15 ms
+MoveTo 498 660
+Delay 5728 ms
+MoveTo 843 241
+MoveTo 843 241
+RightDown 1
+Delay 72 ms
+RightUp 1
+MoveTo 839 243
+MoveTo 763 251
+MoveTo 762 251
+RightDown 1
+Delay 64 ms
+RightUp 1
+MoveTo 762 253
+MoveTo 562 536
+Delay 8 ms
+MoveTo 563 536
+RightDown 1
+Delay 55 ms
+MoveTo 564 537
+Delay 7 ms
+RightUp 1
+Delay 24 ms
+MoveTo 565 538
+Delay 15 ms
+MoveTo 565 539
+Delay 7 ms
+MoveTo 563 542
+Delay 8 ms
+MoveTo 559 548
+Delay 7 ms
+MoveTo 556 553
+Delay 8 ms
+MoveTo 553 558
+Delay 8 ms
+MoveTo 553 564
+Delay 8 ms
+MoveTo 546 572
+Delay 7 ms
+MoveTo 543 578
+Delay 7 ms
+MoveTo 543 578
+Delay 8 ms
+MoveTo 537 593
+Delay 7 ms
+MoveTo 535 600
+Delay 7 ms
+MoveTo 530 607
+Delay 8 ms
+MoveTo 525 616
+Delay 7 ms
+MoveTo 523 623
+Delay 8 ms
+MoveTo 523 623
+Delay 8 ms
+MoveTo 518 630
+Delay 7 ms
+MoveTo 515 640
+Delay 7 ms
+MoveTo 507 644
+Delay 7 ms
+MoveTo 507 644
+Delay 8 ms
+MoveTo 501 651
+Delay 8 ms
+MoveTo 500 652
+Delay 7 ms
+MoveTo 499 654
+Delay 7 ms
+MoveTo 499 655
+Delay 7 ms
+MoveTo 498 656
+Delay 16 ms
+MoveTo 498 656
+Delay 15 ms
+MoveTo 498 658
+Delay 8 ms
+MoveTo 498 658
+Delay 7 ms
+MoveTo 498 659
+Delay 7 ms
+MoveTo 498 660
+Delay 8 ms
+MoveTo 498 661
+Delay 16 ms
+LeftDown 1
+Delay 71 ms
+LeftUp 1
+Delay 64 ms
+MoveTo 498 661
+Delay 15 ms
+MoveTo 498 660
+Delay 5728 ms</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

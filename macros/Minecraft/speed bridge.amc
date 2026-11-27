@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major>A Macro for speed bridging easily in minecraft with 1 button</Major>
+    <Description>stand at the edge of a block , aim down at the side of the block , then press the macro key, and here you go  </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 0 ms
+KeyDown 22 1
+Delay 0 ms
+KeyDown 225 1
+Delay 170 ms
+KeyUp 22 1
+Delay 265 ms
+KeyUp 225 1
+Delay 0 ms
+RightUp 1
+Delay 0 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

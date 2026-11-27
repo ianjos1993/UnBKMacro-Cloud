@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Баг урон подлетел на очереде , со свапом сразу и 53-55 кпс , взять в комбу чела и сразу можно его дропнуть ,
+для cubixcraft , dangercraft , zonixcraft 1.7.10 .
+1 - меч (меч о5-7)
+2 - меч (не чар или о4)
+Вем удачи , удачных комб!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 1 ms
+KeyUp 30 1
+Delay 1 ms
+LeftDown 1
+Delay 4 ms
+LeftUp 1
+Delay 5 ms
+LeftDown 1
+Delay 6 ms
+LeftUp 1
+Delay 5 ms
+LeftDown 1
+Delay 2 ms
+LeftUp 1
+KeyDown 33 1
+Delay 1 ms
+KeyUp 33 1
+Delay 1 ms
+LeftDown 1
+Delay 8 ms
+LeftUp 1
+Delay 5 ms
+LeftDown 1
+Delay 6 ms
+LeftUp 1
+Delay 4 ms
+LeftDown 1
+Delay 2 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

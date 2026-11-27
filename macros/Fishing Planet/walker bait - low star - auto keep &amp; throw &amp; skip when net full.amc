@@ -1,0 +1,95 @@
+<Root>
+  <DefaultMacro>
+    <Major>Software Engineer</Major>
+    <Description>BEWARE! This uses baitcoins to skip to optimal time of day (19PM). You may need to edit the first duration for throwing so the bar fills up because I had to do that on another guys file.
+
+IMPORTANT: When you level up or a shop is in your display, THE PROGRAM STOPS WORKING and you need to restart the program (Just bind a shortcut in the settings). YOU NEED to set pro tackle load indicator in the settings under game!
+
+DESCRIPTION: 
+Macro for Fishing Planet at low star lake for bass.
+Auto keeps all fish, just find the bass godspot so you don't have fish that take half your net.
+Auto detects when no fish is caught and rethrows.
+Setup (This isn't the best one, just mine):  Rod -&gt; Thora 240, Reel -&gt; EspiraML3000, Line -&gt; Braid 0.15mm, Titanium Leader 0.13, Walker 14g #3/0
+ 
+INSTRUCTION:
+1.Start the game
+2. Assign a macro to a convenient keyboard key in the program
+3. Skip time to 19PM because then bass are active and net is full in around an hour ( max 2 hours) and our program skips 22 hours after net is full.
+3.Stand in the fishing spot and choose the casting direction
+4.Press the key to which the macro has been assigned
+5. Catching bass</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 1925 ms
+KeyUp 44 1
+Delay 3000 ms
+LeftDown 1
+Delay 500 ms
+RightDown 1
+Delay 150 250 ms
+GoColor 21 0 255,255,255 255,255,255 1 1825 860 21 221 1 0
+RightUp 1
+Delay 800 950 ms
+GoColor 7 0 255,221,119 255,255,255 1 1126 782 464 299 1 0
+LeftUp 1
+Delay 2000 ms
+KeyDown 44 1
+Delay 64 ms
+KeyUp 44 1
+Delay 5000 ms
+GoColor 27 0 247,247,247 255,255,255 1 87 180 996 886 1 0
+Goto 1
+Delay 500 ms
+RightUp 1
+Delay 500
+LeftUp 1
+Delay 500
+Goto 1
+Delay 500 ms
+KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 64
+MoveTo 823 747
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2000 ms
+MoveTo 1157 247
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+GoWhile 40 22
+MoveTo 607 892
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 3000 ms
+MoveTo 781 660
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2000 ms
+MoveTo 871 848
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 2000 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>Fishing Planet</Software>
+  </DefaultMacro>
+</Root>

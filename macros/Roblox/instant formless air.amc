@@ -1,0 +1,65 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Macro for the game "Locked" on Roblox. The macro kicks the ball into the air, walks forward, jumps, and kicks the ball in whatever direction you're facing. It'll miss sometimes, it's dependent on ping. 800 dpi and .171 Roblox Sensitivity are required, 1920x1080p is used but you can use any resolution since mouse move is relative.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR 0 -586373120
+MoveR 0 -586373120
+MoveR 0 -586373120
+MoveR 0 -586373120
+MoveR 0 -586373120
+MoveR 0 -586373120
+MoveR 0 -586373120
+MoveR 0 -586373120
+Delay 40 ms
+RightDown 1
+Delay 15 ms
+RightUp 1
+Delay 15 ms
+MoveR 0 1300
+Delay 15 ms
+KeyDown 26 1
+Delay 950 ms
+KeyUp 26 1
+KeyDown 44 1
+Delay 64
+KeyUp 44 1
+MoveR -586373120 0
+MoveR -57376768 0
+MoveR -57376768 0
+MoveR -57376768 0
+MoveR -57376768 0
+MoveR -57376768 0
+MoveR -57376768 0
+MoveR -57376768 0
+Delay 40 ms
+MoveR 0 -586373120
+MoveR 0 -586373120
+MoveR 0 -586373120
+MoveR 0 -586373120
+MoveR 0 -586373120
+MoveR 0 -586373120
+MoveR 0 -586373120
+MoveR 0 -586373120
+MoveR -21 0
+Delay 20 ms
+KeyDown 21 1
+Delay 15 ms
+RightDown 1
+Delay 15 ms
+KeyUp 21 1
+Delay 15 ms
+RightUp 1
+MoveR 0 1300
+MoveR 1050 0 2100 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Для работы необходимо поставить "перемещения" в слот со сборкой (у меня это 7 и 8 слот 1 и 2 строчки)
+По нажатию открываеться инвентарть, меняеться конт и инвент закрываеться 
+!!! Этот скрип нужно настроить под расположения контейнера в вашем инвенторе 
+Для этого переметите "перемещения" на ваш контейнер</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+Delay 48 ms
+KeyUp 8 1
+Delay 48 ms
+MoveTo 1311 327
+Delay 48 ms
+KeyDown 225 1
+Delay 48 ms
+LeftDown 1
+Delay 48 ms
+KeyUp 225 1
+Delay 48 ms
+LeftUp 1
+Delay 48 ms
+KeyDown 8 1
+Delay 48 ms
+KeyUp 8 1
+Delay 48 ms</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,41 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Отличный макрос на отмену удара ножом!
+
+Можно делать крутые комбо с боевым мачете, кукри, клыком и так далее!
+
+Данный макрос очень популярен среди игроков PB, скачая его, вы станете мастером ножей!
+
+Макрос работает быстро и стабильно.
+
+Советуется устанавливать его на верхнюю боковую кнопку мыши.
+
+Macro by heeph.
+
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 34 1
+Button4down 1
+Delay 9 ms
+Button4Up 1
+Delay 9 ms
+Delay 9 ms
+KeyDown 32 1
+Delay 9 ms
+KeyDown 32 1
+Delay 5 ms
+KeyUp 32 1
+Delay 9 ms
+KeyUp 34 1</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

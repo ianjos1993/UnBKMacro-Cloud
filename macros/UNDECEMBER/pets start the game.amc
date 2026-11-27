@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос предназначен для автоматического вызова питомцев чтобы вам не приходилось следить за их времени жизни к тому же бегя по карте автоматически открываются сундуки и прожимаются алтари</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>varE = 50
+if varE == 50 Goto 3
+KeyDown 20 1
+Delay 64 120 ms
+KeyUp 20 1
+Delay 64 120 ms
+varE = 1
+KeyDown 9 1
+Delay 64 120
+KeyUp 9 1
+Delay 64 120 ms
+varE = varE + 1
+if varE &lt; 50 Goto 7</Syntax>
+    </KeyDown>
+    <Software>Undecember</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Информация: Популярная комбинация для подката. Макрос, автоматически выполняет за вас молниеносный подкат. 
+
+Структура макроса: W + SHIFT + F
+
+Кому подойдет: новичкам, кому сложно освоить подкат на начальном этапе игры.
+
+Что можно изменить: задержку между нажатиями клавиш.
+
+На какую клавишу назначать: на любую удобную клавишу.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>
+//Конвертированный файл макроса 11 ноября 2021 03:30:27
+KeyDown 26 1
+Delay 50 ms
+KeyDown 225 1
+Delay 100 ms
+KeyDown 9 1
+Delay 100 ms
+KeyUp 225 1
+Delay 5 ms
+KeyUp 9 1
+Delay 40 ms
+KeyUp 26 1
+</Syntax>
+    </KeyDown>
+    <Software>Warface</Software>
+  </DefaultMacro>
+</Root>

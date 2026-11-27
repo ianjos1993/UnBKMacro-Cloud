@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>быстрый переход на первый рабочий стол с использованием горячих клавиш виндовс для ускорения вашей работы , бинд на кнопку мыши для удобста</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 64
+KeyDown 227 1
+Delay 64
+KeyDown 80 1
+Delay 64
+KeyUp 224 1
+Delay 64
+KeyUp 227 1
+Delay 64
+KeyUp 80 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Другие</Software>
+  </DefaultMacro>
+</Root>

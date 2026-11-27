@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>Анти отдача + 3 пули за раз для SVA 545</Major>
+    <Description>При правильной сборке на максимальный контроль, и с прицелом корио глаз 2.5х, используйте макрос для максимально быстрой выдачи 3 пули за раз! Хватает 2-х оборотов для кила. Сверх сильная пушка получается с таким макросом! Пользуйтесь пока не стало хитом.
+Разрешение экрана 2к (2560*1440)
+Чувствительность мыши 5.0
+Меняйте чувствительность мыши в зависимости от поведения прицела. В идеале он стоит на одной точке.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 135 175 ms
+MoveR 0 -3 1 -2
+Delay 15 ms
+MoveR 0 -3 1 -2
+Delay 15 ms
+MoveR 0 -3 1 -2
+Delay 15 ms
+MoveR 0 10 1 12
+LeftUp 1
+Delay 80 100 ms
+LeftDown 1
+MoveR 0 10 1 12
+Delay 135 160 ms
+MoveR 0 -3 1 -2
+LeftUp 1
+Delay 74 100 ms</Syntax>
+    </KeyDown>
+    <Software>Call of Duty: Warzone 2.0</Software>
+  </DefaultMacro>
+</Root>

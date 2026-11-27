@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major>No need to change weapon yourself.</Major>
+    <Description>Quick switch that will automate 3 1 or 3 Q process for you.
+Useful in snipers, specifically kar98 which draws faster and allows for faster shooting.
+Normal human reaction time is above 200ms while this program can help you switch in 64ms.
+
+1920x1080 Resolution
+60 Fps
+tested with no titles and %50 quick switch. it should work perfectly fine if you ise it normally. dont disable the macro while holding the left key or it will glitch as well. have fun using my macro. it is also usable in barrett but because of the higher delay when doing 3 1 it will not work as well while using kar98 and lightweight snipers it will be extremely beneficial.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 5 ms
+LeftDown 1
+Delay 12 ms
+LeftUp 1
+Delay 5 ms
+KeyDown 32 1
+Delay 11 ms
+KeyUp 32 1
+Delay 11 ms
+KeyDown 30 1
+Delay 12 ms
+KeyUp 30 1
+varE = 0
+GoColor 2 0 255,255,255 255,255,255 0 1920 1080 1 1 1 0
+MoveR 0 -15
+LeftDown 1
+Delay 12 ms
+LeftUp 1
+Delay 12 ms
+MoveR 0 15</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

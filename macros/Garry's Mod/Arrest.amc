@@ -1,0 +1,167 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>При нажатии бинда открывается чат (в макросе стоит дефолтная кнопка T, которую вы можете изменить на свое усмотрение) и пишется фраза "вы будете арестованы по причине".
+!!!!!!!!!!ВНИМАНИЕ!!!!!!!!!!
+!!!!!!!!Причину ареста вы должны указать сами.!!!!!!!!!
+Причинами могут быть:
+
+Неадекватное поведение
+Нападение
+Оскорбление государственных служащих
+Попытка нападения
+Убийство граждан города
+Нелегальное оружие
+Вандализм и порча имущества
+Денежные принтеры
+и т.д.
+
+
+
+
+</Description>
+    <Comment>Макрос предназначен для упрощения жизни людям без микрофона. (Микрофон (от греч. μικρός — маленький, φωνή — голос) — электроакустическое устройство, преобразующее звуковые колебания в электрический сигнал.)</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>SetLang ru-RU
+KeyDown 23 1
+Delay 20
+KeyUp 23 1
+Delay 20
+KeyDown 7 1
+Delay 20
+KeyUp 7 1
+Delay 20
+KeyDown 22 1
+Delay 20
+KeyUp 22 1
+Delay 20
+KeyDown 44 1
+Delay 20
+KeyUp 44 1
+Delay 20
+KeyDown 54 1
+Delay 20
+KeyUp 54 1
+Delay 20
+KeyDown 8 1
+Delay 20
+KeyUp 8 1
+Delay 20
+KeyDown 15 1
+Delay 20
+KeyUp 15 1
+Delay 20
+KeyDown 5 1
+Delay 20
+KeyUp 5 1
+Delay 20
+KeyDown 17 1
+Delay 20
+KeyUp 17 1
+Delay 20
+KeyDown 23 1
+Delay 20
+KeyUp 23 1
+Delay 20
+KeyDown 44 1
+Delay 20
+KeyUp 44 1
+Delay 20
+KeyDown 13 1
+Delay 20
+KeyUp 13 1
+Delay 20
+KeyDown 11 1
+Delay 20
+KeyUp 11 1
+Delay 20
+KeyDown 23 1
+Delay 20
+KeyUp 23 1
+Delay 20
+KeyDown 6 1
+Delay 20
+KeyUp 6 1
+Delay 20
+KeyDown 17 1
+Delay 20
+KeyUp 17 1
+Delay 20
+KeyDown 13 1
+Delay 20
+KeyUp 13 1
+Delay 20
+KeyDown 7 1
+Delay 20
+KeyUp 7 1
+Delay 20
+KeyDown 9 1
+Delay 20
+KeyUp 9 1
+Delay 20
+KeyDown 28 1
+Delay 20
+KeyUp 28 1
+Delay 20
+KeyDown 4 1
+Delay 20
+KeyUp 4 1
+Delay 20
+KeyDown 44 1
+Delay 20
+KeyUp 44 1
+Delay 20
+KeyDown 10 1
+Delay 20
+KeyUp 10 1
+Delay 20
+KeyDown 13 1
+Delay 20
+KeyUp 13 1
+Delay 20
+KeyDown 44 1
+Delay 20
+KeyUp 44 1
+Delay 20
+KeyDown 10 1
+Delay 20
+KeyUp 10 1
+Delay 20
+KeyDown 11 1
+Delay 20
+KeyUp 11 1
+Delay 20
+KeyDown 5 1
+Delay 20
+KeyUp 5 1
+Delay 20
+KeyDown 27 1
+Delay 20
+KeyUp 27 1
+Delay 20
+KeyDown 5 1
+Delay 20
+KeyUp 5 1
+Delay 20
+KeyDown 28 1
+Delay 20
+KeyUp 28 1
+Delay 20
+KeyDown 23 1
+Delay 20
+KeyUp 23 1
+Delay 20
+KeyDown 44 1
+Delay 20
+KeyUp 44 1
+Delay 20</Syntax>
+    </KeyDown>
+    <Software>Garry´s Mod</Software>
+  </DefaultMacro>
+</Root>

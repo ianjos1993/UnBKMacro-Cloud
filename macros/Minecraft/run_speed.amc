@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major>fast speed</Major>
+    <Description>данный макрос на быструю добычу ресурсов или выкапывание.
+итак ставим управление W идти вперёд, R бег, биндим удобную кнопку (я у себя забиндил на нажатие колёсика мышки) 
+и наслаждаемся процессом!
+итог
+бежать и рубить всё на пути!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+KeyDown 21 1
+LeftDown 1
+Delay 64 min
+LeftUp 1
+KeyUp 21 1
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

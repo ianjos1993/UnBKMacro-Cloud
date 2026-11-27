@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>A macro for dmz. Now you don't have to wait 3-5 business days for under barrel grenades to reload. This macro will let your weapon's under barrel grenades never deplete and never reloads.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 25 1
+Delay 15 ms
+LeftDown 1
+Delay 15 ms
+KeyDown 20 1
+Delay 20 ms
+KeyUp 20 1
+Delay 10 ms
+KeyDown 30 1
+Delay 15 ms
+KeyUp 30 1
+Delay 10 ms
+LeftUp 1
+Delay 15 ms
+KeyUp 25 1
+Delay 0 ms</Syntax>
+    </KeyDown>
+    <Software>Call of Duty: Warzone 2.0</Software>
+  </DefaultMacro>
+</Root>

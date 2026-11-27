@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос для фарма опыта у Mee6
+Данный макрос спамит в чат для фарма
+Примечание: 
+1.Заранее скопируйте нужный текст
+2. Достаточно один раз нажать на кнопку для аткивации, повторное нажание отключает макрос</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы 
+Удачной игры!</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+KeyDown 25 1
+Delay 250 ms
+KeyUp 25 1
+KeyUp 224 1
+KeyDown 88 1
+Delay 250 ms
+KeyUp 88 1</Syntax>
+    </KeyDown>
+    <Software>Discord</Software>
+  </DefaultMacro>
+</Root>

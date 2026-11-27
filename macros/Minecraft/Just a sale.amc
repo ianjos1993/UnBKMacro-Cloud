@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Довольно простой скрипт но в тоже время может быть полезен при использовании на сервере, расчитан на
+то что у вас будет то что будет выбрасывать вещи после чего вы сможете их продавать заранее заготовленной последней введеной командой, тобиш перед началом вводите в чат команду, и активируете, в 
+привязке к окну работать не будет, разрешение 1920x1080, прямое назначение Oneblock mcskill, но также может быть использован и для других серверов и целей. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 23 1
+Delay 64
+KeyUp 23 1
+Delay 64
+KeyDown 82 1
+Delay 64
+KeyUp 82 1
+Delay 64
+KeyDown 88 1
+Delay 64
+KeyUp 88 1
+Delay 3 s</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

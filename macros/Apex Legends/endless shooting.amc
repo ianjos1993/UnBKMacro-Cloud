@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Очень быстрое нажимание кнопки стрельбы (Левая кнопка мыши)
+Этот макрос сделан для таполок или для оружия с одиночным режимом стрельбы
+
+
+При задержке меньше 50мс после отжатия макроса произвадилась стрельба что мешала при игре, по этому меньше данной задержки не советаю ставить
+
+
+Режим работы ставте "Выполнять пока нажата"</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 50 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 50 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 50 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

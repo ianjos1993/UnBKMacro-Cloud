@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>the best macro for HMLMG with low sens
+play thisa macro with 1920 x 1080
+sens 0.4
+DPI 3000
+Support me and enjoy!
+
+BlackMamba</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 5 ms
+MoveR 1 5
+Delay 5 ms
+MoveR 3 4
+Delay 5 ms
+MoveR 3 4
+Delay 5 ms
+MoveR 3 4
+Delay 4 ms
+MoveR 3 4
+Delay 4 ms
+MoveR 3 4</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>Скрипт для дальнего прыжка клавдии</Major>
+    <Description>Очень простой скрипт для полета клавы на дальние расстояния.
+Все что нужно это забиндить этот скрипт на любую удобную вам клавишу и проверить в игре как работает.
+Чтобы наверняка работало в игре заходим Settings&gt;hit frame OFF.
+Так же ставим фпс 60-90 и проверяем как на пк у вас будет работать.
+Если макрос работает через раз то  играемся с частотой в 7ом пункте - Отпустить левую клавишу мыши. Меняем там частоту по 10мс от 260 до 320 до тех пор пока макрос не будет юзаться наверняка.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 280 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 295 ms
+KeyDown 31 1
+Delay 1 ms
+KeyUp 31 1
+Delay 1 ms
+KeyDown 31 1
+Delay 1 ms
+KeyUp 31 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Tower of Fantasy</Software>
+  </DefaultMacro>
+</Root>

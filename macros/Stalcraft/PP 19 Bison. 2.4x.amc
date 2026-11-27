@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Привет , этот макрос отлично подойдет для новичков , для пушки пп бизон. 
+Разрешение экрана - 1920 x 1280
+Чувствительность мыши - 7.39 (в игре)
+шаг 1 - 
+забиндите макрос на любую удобную клавишу.
+шаг 2 - 
+войдите в прицел , зажмите горячую клавишу.
+бизон будет стрелять без отдачи , 
+удачи в использовании ! </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 0 11
+Delay 64
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

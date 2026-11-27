@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для обуза Армлета. 
+
+Слот с армлетом должен быть на кнопку F
+Устанавливаете любую клавишу и за 1 нажатие Армлет будет снова выключатся и включатся. 
+
+(важно) Армлет должен быть включен при нажатии на нужную клавишу. 
+
+По всем вопросам:Тг@atiloh. 
+Удачи в использовании.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 1 ms
+KeyUp 9 1
+Delay 1 ms
+KeyDown 9 1
+Delay 1 ms
+KeyUp 9 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

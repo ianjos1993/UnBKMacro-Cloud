@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Чувствительность стандартная, макрос контролирует отдачу, а так же автоматически стреляет, предназначен для пистолета P2020 в Apex Legends</Description>
+    <Comment>www.goodman.expert
+</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 80 ms
+MoveR 0 9
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 80 ms
+MoveR 0 7
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 80 ms
+MoveR 0 7
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 80 ms
+MoveR 0 5</Syntax>
+    </KeyDown>
+    <Software>https://vk.com/warface_macros_pablic good man</Software>
+  </DefaultMacro>
+</Root>

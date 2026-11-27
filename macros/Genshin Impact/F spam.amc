@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>For you lazy player spamming their F, just hold the F button
+
+Instruction : 
+- Bind on F (recommended)
+- Operation mode &gt; run while key pressed
+
+Note : only one macro works at the times, e.g. : You can't use F spam button while Bhop macro, the bhop macro will stopped
+
+Feel free to download and gave feedback/idea for a new macro</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 50
+KeyDown 9 1
+Delay 50
+KeyDown 9 1
+Delay 50</Syntax>
+    </KeyDown>
+    <Software>Genshin Impact</Software>
+  </DefaultMacro>
+</Root>

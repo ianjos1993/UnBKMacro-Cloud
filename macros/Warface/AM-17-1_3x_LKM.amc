@@ -1,0 +1,95 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос для АМ-17 (для wf) макрос написан как для стандартной сенсы 25, так и для высокой 45 и 65 +ЛКМ версии!
+Сенса и вид прицела прописаны в названии макроса !
+Внимание - при уводе оружия в верх повышаем чувствительность, при уводе в низ понижаем.
+Важно помнить что DPI на мыши не как не влияет на работу макроса!
+</Description>
+    <Comment>если непонятно описание напишите в лс я уже много раз вам присылал этот макрос
+</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>IfKey 1 1 3
+IfKey 1 0 1
+Delay 60 ms
+MoveR 0 5
+Delay 80 ms
+MoveR 0 11
+Delay 80 ms
+IfKey 1 0 1
+MoveR 0 10
+Delay 80 ms
+MoveR 0 3
+Delay 80 ms
+IfKey 1 0 1
+MoveR 0 3
+Delay 80 ms
+MoveR 0 3
+Delay 80 ms
+MoveR 0 7
+IfKey 1 0 1
+Delay 80 ms
+MoveR 0 1
+Delay 80 ms
+MoveR 0 1
+Delay 80 ms
+MoveR -1 0
+Delay 80 ms
+MoveR 0 1
+IfKey 1 0 1
+Delay 80 ms
+MoveR -1 1
+Delay 80 ms
+MoveR -1 0
+Delay 80 ms
+MoveR 0 1
+Delay 80 ms
+MoveR -1 1
+IfKey 1 0 1
+Delay 80 ms
+MoveR -1 0
+Delay 80 ms
+MoveR -1 1
+Delay 80 ms
+MoveR -1 1
+Delay 80 ms
+MoveR -1 0
+Delay 80 ms
+MoveR -1 1
+Delay 80 ms
+MoveR -1 0
+IfKey 1 0 1
+Delay 80 ms
+MoveR -1 1
+Delay 80 ms
+MoveR 0 0
+Delay 80 ms
+MoveR 0 1
+Delay 80 ms
+MoveR 1 0
+Delay 80 ms
+MoveR 1 1
+Delay 80 ms
+MoveR 0 0
+IfKey 1 0 1
+Delay 80 ms
+MoveR 1 1
+Delay 80 ms
+MoveR 1 1
+Delay 80 ms
+Delay 80 ms
+Delay 80 ms
+Delay 80 ms
+Delay 80 ms
+Delay 80 ms
+IfKey 1 0 1</Syntax>
+    </KeyDown>
+    <Software>Warface</Software>
+  </DefaultMacro>
+</Root>

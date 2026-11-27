@@ -1,0 +1,55 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This mantle jump gives you the farthest distance for your zipline super jump.  Make sure "E" is for your interact or go into the macro and change.  Scroll wheel down for your jump.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 2 ms
+KeyUp 44 1
+Delay 2 ms
+KeyDown 26 1
+Delay 300 ms
+KeyUp 26 1
+Delay 2 ms
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 2 ms
+KeyDown 8 1
+Delay 58 ms
+WheelDown 1
+Delay 7 ms
+WheelDown 1
+Delay 7 ms
+WheelDown 1
+Delay 4 ms
+WheelDown 1
+Delay 3 ms
+WheelDown 1
+Delay 4 ms
+WheelDown 1
+Delay 4 ms
+WheelDown 1
+Delay 3 ms
+WheelDown 1
+Delay 2 ms
+KeyUp 8 1
+Delay 3 ms
+WheelDown 1
+Delay 5 ms
+WheelDown 1
+Delay 60 ms
+WheelDown 1
+Delay 2 ms
+WheelDown 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

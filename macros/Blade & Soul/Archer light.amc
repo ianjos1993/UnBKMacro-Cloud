@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>------------------------------Описание------------------------
+Макрос на лучника (Стрелы света), Стандартное комбо 4+ЛКМ+F+ПКМ под табкой успевает провести 3 таких комбо подряд .
+------------------------------Инструкция----------------------
+1.Запустите игру
+2.Выберите режим работы без привязки к окну
+3.Назеачить кнопку на макрос
+4.В игре кнопку ЛКП закрепить к кнопке R
+5.В игре кнопку ПКП закрепить к кнопке T
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 33 1
+Delay 40 ms
+KeyUp 33 1
+Delay 40 ms
+KeyDown 21 1
+Delay 40 ms
+KeyUp 21 1
+Delay 40 ms
+KeyDown 9 1
+Delay 40 ms
+KeyUp 9 1
+Delay 40 ms
+KeyDown 23 1
+Delay 40 ms
+KeyUp 23 1
+Delay 40 ms</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

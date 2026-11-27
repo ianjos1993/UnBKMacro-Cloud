@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Вам надоело крафтить наживку самому?
+Вам срочно нужно 1000 порций чая?
+ТОГДА ЭТОТ МАКРОС ДЛЯ ВАС!
+Просто наведите мышку на надпись "Изготовить" и запустите макрос.
+В макросе специально сделаны небольшие задержки в нажатиях на случай ожидания ответа с сервера.
+НХНЧ!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 50 ms
+LeftDown 1
+Delay 60 ms
+LeftUp 1
+Delay 3750 ms
+KeyDown 44 1
+Delay 150 ms
+KeyUp 44 1
+Delay 620 ms
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Russian Fishing 4</Software>
+  </DefaultMacro>
+</Root>

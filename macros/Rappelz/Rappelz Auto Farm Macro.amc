@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This file was created for Rappelz
+ presses 1,2 and 3
+
+Perfect for Pet Class players
+
+Carefully crafted
+
+
+recommended resolution 1600x900</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 32 ms
+KeyUp 30 1
+Delay 64 ms
+KeyDown 31 1
+Delay 64 ms
+KeyUp 31 1
+Delay 64 ms
+KeyDown 32 1
+Delay 64 ms
+KeyUp 32 1
+Delay 64 ms</Syntax>
+    </KeyDown>
+    <Software>Rappelz</Software>
+  </DefaultMacro>
+</Root>

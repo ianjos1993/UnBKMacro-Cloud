@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Практически убирает отдачу от гвоздомёта, благодаря чему стрельба становиться намного легче.
+Новичок в этом деле. 
+Возник вопрос - пиши в лс, отвечу с удовольствием)</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 10 ms
+LeftDown 1
+Delay 10 ms
+MoveR 0 6
+Delay 10 ms
+MoveR 0 5
+Delay 10 ms
+MoveR 0 4
+Delay 10 ms
+LeftUp 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

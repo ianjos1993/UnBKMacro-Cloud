@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Анти афк система для серверов майнкрафт,
+включает в себя передвижение и сдвигание камеры
+
+- DPI 1600
+- Чувствительность 100%
+
+Главное чтобы не было открыто инвентарей</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR 253 -182
+KeyDown 44 1
+Delay 64 ms
+KeyUp 44 1
+Delay 1000 ms
+MoveR -253 182
+Delay 30000 ms
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

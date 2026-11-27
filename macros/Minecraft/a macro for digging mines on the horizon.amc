@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для автоматического копания любых шахт на призоне VimeWorld, от 3 до 38, он копает определённое время потом поворачивается на 90 градусов и копает опять, подходит для разрешения экрана в 1600 х 900
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 26 1
+Delay 1000 ms
+KeyUp 26 1
+Delay 1 ms
+Delay 64
+KeyDown 26 1
+Delay 5000 ms
+KeyDown 7 1
+Delay 1000 ms
+KeyUp 7 1
+Delay 64
+MoveTo 1225 450
+Delay 64
+KeyDown 26 1
+Delay 10500 ms
+KeyUp 26 1
+Delay 64
+GoWhile 1 99999</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

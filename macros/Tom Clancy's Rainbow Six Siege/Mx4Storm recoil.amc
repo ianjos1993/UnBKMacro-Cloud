@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>INXeryr</Major>
+    <Description>Макрос для Mx4 Storm у оперативника Alibi.
+
+Обвесы - Надульник, Прямая рукаятка.
+
+DPI(Горизонтально) - 35 из 100
+DPI(Вертикально) - 35 из 100)
+
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+Delay 21 ms
+MoveR 1 7
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

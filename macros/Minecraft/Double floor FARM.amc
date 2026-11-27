@@ -1,0 +1,280 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Афк ферма для гардена на сервере Hypexel режима SkyBlock
+Двухярусная афк ферма культур, не являющихся блоками. два плота от начала до конца по горизонтали с 5 рядами в длину, скорость 400 (нужен годпот). если возникнут проблемы с макросом - пишите в дс ichvoyage
+Работает с: картошкой, морковкой, незервартом, пшеницей.
+обязательно иметь обновленные хитбоксы растений из версий 1.12 и выше. Так же работает клиент ранних версий с данной модификацией.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 0 ms
+KeyDown 22 1
+Delay 30 ms
+KeyDown 7 1
+Delay 504 ms
+KeyUp 22 1
+Delay 31 ms
+KeyUp 7 1
+Delay 128 ms
+KeyUp 225 1
+Delay 480 ms
+KeyDown 225 1
+Delay 127 ms
+KeyDown 26 1
+Delay 339 ms
+LeftDown 1
+Delay 140 ms
+KeyDown 7 1
+Delay 36463 ms
+KeyUp 26 1
+Delay 60 ms
+LeftUp 1
+Delay 196 ms
+KeyDown 22 1
+Delay 63 ms
+KeyUp 7 1
+Delay 896 ms
+KeyDown 4 1
+Delay 287 ms
+KeyUp 22 1
+Delay 281 ms
+LeftDown 1
+Delay 70 ms
+KeyDown 26 1
+Delay 15607 ms
+KeyUp 4 1
+Delay 480 ms
+KeyDown 4 1
+Delay 63 ms
+KeyUp 4 1
+Delay 159 ms
+KeyDown 4 1
+Delay 469 ms
+KeyUp 26 1
+Delay 266 ms
+KeyDown 26 1
+Delay 1484 ms
+KeyUp 26 1
+Delay 684 ms
+KeyDown 26 1
+Delay 863 ms
+KeyUp 26 1
+Delay 1336 ms
+KeyDown 26 1
+Delay 4407 ms
+KeyUp 26 1
+Delay 512 ms
+KeyDown 22 1
+Delay 127 ms
+KeyUp 22 1
+Delay 384 ms
+KeyDown 26 1
+Delay 4207 ms
+KeyUp 26 1
+Delay 6260 ms
+LeftUp 1
+Delay 132 ms
+KeyDown 22 1
+Delay 40 ms
+KeyUp 4 1
+Delay 719 ms
+KeyDown 7 1
+Delay 543 ms
+KeyUp 22 1
+Delay 174 ms
+LeftDown 1
+Delay 241 ms
+KeyDown 26 1
+Delay 36208 ms
+KeyUp 26 1
+Delay 112 ms
+LeftUp 1
+Delay 79 ms
+KeyDown 22 1
+Delay 127 ms
+KeyUp 7 1
+Delay 1367 ms
+KeyDown 4 1
+Delay 127 ms
+KeyUp 22 1
+Delay 190 ms
+LeftDown 1
+Delay 1 ms
+KeyDown 26 1
+Delay 36431 ms
+KeyUp 26 1
+Delay 5 ms
+LeftUp 1
+Delay 219 ms
+KeyDown 22 1
+Delay 95 ms
+KeyUp 4 1
+Delay 1464 ms
+KeyDown 7 1
+Delay 20 ms
+LeftDown 1
+Delay 106 ms
+KeyUp 22 1
+Delay 415 ms
+KeyDown 26 1
+Delay 36367 ms
+KeyUp 26 1
+Delay 212 ms
+LeftUp 1
+Delay 107 ms
+KeyDown 22 1
+Delay 191 ms
+KeyUp 7 1
+Delay 1751 ms
+KeyDown 4 1
+Delay 128 ms
+KeyUp 22 1
+Delay 270 ms
+LeftDown 1
+Delay 50 ms
+KeyDown 26 1
+Delay 36431 ms
+KeyDown 22 1
+Delay 31 ms
+KeyUp 4 1
+Delay 383 ms
+KeyUp 26 1
+Delay 1048 ms
+KeyDown 7 1
+Delay 127 ms
+KeyUp 22 1
+Delay 64 ms
+KeyDown 22 1
+Delay 287 ms
+KeyUp 22 1
+Delay 256 ms
+KeyDown 26 1
+Delay 36175 ms
+KeyUp 225 1
+Delay 0 ms
+KeyUp 26 1
+Delay 169 ms
+LeftUp 1
+Delay 22 ms
+KeyUp 7 1
+Delay 575 ms
+KeyDown 225 1
+Delay 191 ms
+KeyDown 4 1
+Delay 175 ms
+LeftDown 1
+Delay 208 ms
+KeyDown 26 1
+Delay 36221 ms
+LeftUp 1
+Delay 83 ms
+KeyUp 4 1
+Delay 63 ms
+KeyUp 225 1
+Delay 448 ms
+KeyDown 225 1
+Delay 159 ms
+KeyDown 7 1
+Delay 262 ms
+LeftDown 1
+Delay 36553 ms
+KeyUp 7 1
+Delay 120 ms
+KeyUp 225 1
+Delay 352 ms
+KeyDown 225 1
+Delay 31 ms
+KeyDown 4 1
+Delay 36784 ms
+KeyUp 225 1
+Delay 31 ms
+KeyUp 4 1
+Delay 447 ms
+KeyDown 7 1
+Delay 386 ms
+KeyDown 225 1
+Delay 37869 ms
+KeyUp 7 1
+Delay 84 ms
+LeftUp 1
+Delay 716 ms
+KeyDown 4 1
+Delay 242 ms
+LeftDown 1
+Delay 36606 ms
+KeyUp 4 1
+Delay 126 ms
+KeyUp 225 1
+Delay 384 ms
+KeyDown 7 1
+Delay 31 ms
+KeyDown 225 1
+Delay 36848 ms
+KeyUp 7 1
+Delay 19 ms
+LeftUp 1
+Delay 396 ms
+KeyUp 225 1
+Delay 312 ms
+KeyDown 225 1
+Delay 0 ms
+KeyDown 4 1
+Delay 267 ms
+LeftDown 1
+Delay 36531 ms
+LeftUp 1
+Delay 16 ms
+KeyUp 26 1
+Delay 351 ms
+KeyUp 4 1
+Delay 96 ms
+KeyUp 225 1
+Delay 63 ms
+KeyDown 22 1
+Delay 383 ms
+KeyUp 22 1
+Delay 95 ms
+KeyDown 44 1
+Delay 96 ms
+KeyUp 44 1
+Delay 127 ms
+KeyDown 44 1
+Delay 191 ms
+KeyUp 44 1
+Delay 127 ms
+KeyDown 26 1
+Delay 256 ms
+KeyUp 26 1
+Delay 511 ms
+KeyDown 225 1
+Delay 920 ms
+KeyDown 7 1
+Delay 95 ms
+KeyUp 7 1
+Delay 224 ms
+KeyDown 7 1
+Delay 95 ms
+KeyUp 7 1
+Delay 512 ms
+KeyDown 22 1
+Delay 479 ms
+KeyDown 7 1
+Delay 768 ms
+KeyUp 7 1
+Delay 32 ms
+KeyUp 225 1
+Delay 0 ms
+KeyUp 22 1
+Delay 1000 ms
+GoWhile 1 50000</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

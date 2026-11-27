@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major>Rise Rogue archer macro</Major>
+    <Description>rise online rogue macro. u can play dont catch macro block. 
+
+just press test button and relax.
+
+You should check a game, cause other players can be reported you.
+
+
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 500 ms
+KeyUp 29 1
+Delay 64
+KeyDown 31 1
+Delay 500 ms
+KeyUp 31 1
+Delay 64
+KeyDown 29 1
+Delay 500 ms
+KeyUp 29 1
+Delay 64
+KeyDown 33 1
+Delay 500 ms
+KeyUp 33 1
+Delay 64
+KeyDown 29 1
+Delay 500 ms
+KeyUp 29 1
+Delay 64
+KeyDown 33 1
+Delay 500 ms
+KeyUp 33 1
+Delay 64
+GoWhile 1 999</Syntax>
+    </KeyDown>
+    <Software>Rise Online</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,77 @@
+<Root>
+  <DefaultMacro>
+    <Major>Ростация с обычными и силовыми атаками</Major>
+    <Description>Макрос для ускоренной ротации:
+- Не затрагивает 5-й скилл, можете установить в качестве 5-го скила любой необязщательный скилл вашей ротации, например навык для лечения.
+- В качестве 2-го скила ставте наземную абилку или долго кастующийся скил, т.к. перед 3-м килом будет пауза.
+- Спам абилки установите в 4й чкилл, он прожмётся 3 раза за ротацию.
+- Смена бара присутвует
+- 1 раз за круг будет прожиматсья силовая атака, чтобы вы могли автоматически воссттановить ресурсы.
+
+! - если при данном макросе вы всёравно проседаете по ресурсам задумайтесь над качесством экипировки. При правильном подборе зачарований просадки быть не должно.
+
+Макрос рассчитан на нестабильный интернет, в котором пинг от 120 до 200.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64 83 ms
+LeftUp 1
+Delay 83 124 ms
+KeyDown 30 1
+Delay 64 83 ms
+KeyUp 30 1
+Delay 83 124 ms
+LeftDown 1
+Delay 64 83 ms
+LeftUp 1
+Delay 83 124 ms
+KeyDown 31 1
+Delay 64 83 ms
+KeyUp 31 1
+Delay 500 ms
+LeftDown 1
+Delay 1500 ms
+LeftUp 1
+Delay 83 124 ms
+KeyDown 32 1
+Delay 64 83 ms
+KeyUp 32 1
+Delay 83 124 ms
+LeftDown 1
+Delay 64 83 ms
+LeftUp 1
+Delay 83 124 ms
+KeyDown 33 1
+Delay 64 83 ms
+KeyUp 33 1
+Delay 83 124 ms
+LeftDown 1
+Delay 64 83 ms
+LeftUp 1
+Delay 83 124 ms
+KeyDown 33 1
+Delay 64 83 ms
+KeyUp 33 1
+Delay 83 124 ms
+LeftDown 1
+Delay 64 83 ms
+LeftUp 1
+Delay 83 124 ms
+KeyDown 33 1
+Delay 64 83 ms
+KeyUp 33 1
+Delay 83 124 ms
+KeyDown 53 1
+Delay 64 83 ms
+KeyUp 53 1
+Delay 490 510 ms</Syntax>
+    </KeyDown>
+    <Software>The Elder Scrolls Online (TESO)</Software>
+  </DefaultMacro>
+</Root>

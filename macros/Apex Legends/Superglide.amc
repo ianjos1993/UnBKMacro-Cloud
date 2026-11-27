@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>84% success rate at 170 fps according to online superglide trainer 
+
+At lower fps, change delay to 2ms.
+
+To use this superglide macro, simply climb any object and then press the hotkey that you have bound the macro to. 
+I press V for example, at the peak of my climb.
+
+Also, make sure you bind your second Crouch HOLD bind  to J</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+KeyUp 44 1
+Delay 1 ms
+KeyDown 13 1
+KeyUp 13 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

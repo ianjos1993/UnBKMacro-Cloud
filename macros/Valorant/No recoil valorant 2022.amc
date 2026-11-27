@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>No recoil Valorant 21/05/22</Major>
+    <Description>New no recoil Valorant based on the spread of the weapon, I use it with the vandal but I don't know if it works with others weapons but I think so. just put it on the left click of the mouse (the one with which you shoot) and hold it when u fire the ennemies. 
+
+SENS ; 0.35
+DPI : 400
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 23 ms
+MoveR 0 13
+LeftUp 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Valorant</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос под 60 герц,подойдет для 4 скорика.жmет в точку.
+Скачивай,не пожалеешь,лучше устанавливать на лкm.
+Работает на 1920Х1080 разрешении экрана.
+0.1 сенса в игре.
+И 800 DPI.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 69 ms
+LeftUp 1
+Delay 7 ms
+MoveR 0 22
+GoWhile 1 3
+LeftDown 1
+Delay 69 ms
+LeftUp 1
+Delay 7 ms
+MoveR 0 23
+LeftDown 1
+Delay 69 ms
+LeftUp 1
+Delay 7 ms
+MoveR 0 0
+GoWhile 12 45
+KeyUp 32 1
+Delay 64 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

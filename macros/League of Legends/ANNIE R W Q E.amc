@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major>ANNIE R W Q E</Major>
+    <Description>Ку всем, этот макрос для быстрого комбо на энни (ANNIE)  для выполнение комбо просто привяжите на любую клавишу и наведите на цель ОЧЕНЬ ВАЖНО Q у энни не наводится автоматический прошу навести на цель прежде чем нажимать кнопку ( забиндованную) комбо включаетв себя R W Q E</Description>
+    <Comment>Удачи энни мейнерам)</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 21 1
+Delay 15 ms
+KeyDown 20 1
+Delay 20 ms
+KeyDown 26 1
+Delay 25 ms
+KeyDown 8 1
+Delay 30 ms</Syntax>
+    </KeyDown>
+    <Software>League of Legends</Software>
+  </DefaultMacro>
+</Root>

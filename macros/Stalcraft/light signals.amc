@@ -1,0 +1,73 @@
+<Root>
+  <DefaultMacro>
+    <Major>CeNI</Major>
+    <Description>Этот макрос сделаный  на расширение 1920 x 1200
+
+необходимо установить:
+
+1.Открытие САК-1 биндить на Правый альт
+
+2.Игра должна быть запущена в открытом окне(иначе макрос будет работать не коректно)
+Если вы хотите поменять под своё расширение вот какие позиции нужно менять
+11 и 12 это зеленый индикатор
+14 это вкл/выкл САК-1
+20 и 21 это красный индикатор
+28 это кнопка поиск
+
+Удачного поиска сигналов)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 230 1
+Delay 70 ms
+KeyUp 230 1
+Delay 70 ms
+MoveTo 1078 851
+Delay 70 ms
+LeftDown 1
+Delay 70 ms
+LeftUp 1
+Delay 70 ms
+GoColor 35 0 42,65,38 24,39,21 1 691 459 766 622 1 0
+GoColor 13 1 42,65,38 24,39,21 1 691 459 838 622 1 0
+Delay 70 ms
+MoveTo 1346 848
+Delay 70 ms
+LeftDown 1
+Delay 70 ms
+LeftUp 1
+Delay 70 ms
+GoColor 19 0 246,95,95 255,255,255 1 1120 800 500 281 1 0
+GoColor 22 1 246,95,95 255,255,255 1 1120 800 724 281 1 0
+MoveTo 1188 698
+Delay 70 ms
+LeftDown 1
+Delay 70 ms
+LeftUp 1
+Delay 70 ms
+MoveTo 624 639
+Delay 70 ms
+LeftDown 1
+Delay 70 ms
+LeftUp 1
+Delay 134 ms
+Goto 44
+KeyDown 230 1
+Delay 70 ms
+KeyUp 230 1
+Delay 70 ms
+KeyDown 230 1
+Delay 70 ms
+KeyUp 230 1
+Delay 70 ms
+Goto 4
+Delay 70 ms</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

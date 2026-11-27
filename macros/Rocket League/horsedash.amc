@@ -1,0 +1,71 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>FIXED horsedash, allows horsedash with jump to chain repeat with correct commands. Low MS for Quick high MS for smooth, HIGHER = less chance, TOO LOW = wont happen, = middle (works)</Description>
+    <Comment>FIXED HORSE DASH</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+KeyUp 20 1
+Delay 450 ms
+KeyDown 22 1
+Delay 159 ms
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+KeyUp 22 1
+KeyDown 26 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 22 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 26 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 22 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+KeyUp 22 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Rocket League</Software>
+  </DefaultMacro>
+</Root>

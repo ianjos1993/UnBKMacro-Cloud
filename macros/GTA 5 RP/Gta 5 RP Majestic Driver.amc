@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Быстрая посадка в автомобиль
+Нажимает L потом F, пристегивается (J) и заводит автомобиль
+У всех была проблема посадки в автомобиль</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 5 1
+Delay 64
+KeyUp 5 1
+Delay 64
+KeyDown 15 1
+Delay 64
+KeyUp 15 1
+Delay 1000 ms
+KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 3000 ms
+KeyDown 5 1
+Delay 64
+KeyUp 5 1
+Delay 222 ms
+KeyDown 13 1
+Delay 64
+KeyUp 13 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,66 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Фарм Автоталантов(9-10 за меньше минуты) 
+В Форзе 5 заходим в EventLab, ищем гонку по коду 743 324 179, желательно сразу добавить в избранное,
+берем автомобиль Lamborgini Sesto Elemento FE(можно любую другую быструю, но тогда профит будет сильно меньше) наводим курсор на "начать гонку и запускаем макрос". По умолчанию 30 повторений но можете изменить количество в последней строчке. Если у вас медленный диск то увеличьте паузы(у меня ссд).
+
+Также у меня есть макрос по автоматическому конвертации этих автоталантов в  WheelSpin и SuperWheelSpin
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 151 ms
+KeyUp 68 1
+Delay 41 ms
+KeyUp 225 1
+Delay 583 ms
+KeyDown 79 1
+Delay 71 ms
+KeyUp 79 1
+Delay 271 ms
+KeyDown 79 1
+Delay 112 ms
+KeyUp 79 1
+Delay 351 ms
+KeyDown 80 1
+Delay 96 ms
+KeyUp 80 1
+Delay 432 ms
+KeyDown 88 1
+Delay 79 ms
+KeyUp 88 1
+Delay 5696 ms
+KeyDown 26 1
+Delay 55 ms
+KeyDown 7 1
+Delay 1911 ms
+KeyUp 7 1
+Delay 624 ms
+KeyDown 7 1
+Delay 119 ms
+KeyUp 7 1
+Delay 26992 ms
+KeyUp 26 1
+Delay 12888 ms
+KeyDown 27 1
+Delay 88 ms
+KeyUp 27 1
+Delay 455 ms
+KeyDown 88 1
+Delay 79 ms
+KeyUp 88 1
+Delay 5511 ms
+KeyDown 225 1
+Delay 311 ms
+KeyDown 68 1
+GoWhile 1 60</Syntax>
+    </KeyDown>
+    <Software>Forza Horizon 5</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major>Макрос  для  режима гта в майнкрафт 2.0</Major>
+    <Description>Макрос для быстрого выстрела с двух страйкеров и возврат на слот джет пака. 1 слот - джет пак, 2 и 3 - страйкеры. Макрос написан для определенного сервера майнкрафт</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+Delay 20 ms
+KeyDown 32 1
+Delay 20 ms
+KeyUp 32 1
+Delay 20 ms
+RightDown 1
+Delay 25 ms
+RightUp 1
+Delay 25 ms
+KeyDown 31 1
+Delay 20 ms
+KeyUp 31 1
+Delay 20 ms
+RightDown 1
+Delay 25 ms
+RightUp 1
+Delay 25 ms
+KeyDown 30 1
+Delay 20 ms
+KeyUp 30 1
+Delay 20 ms
+KeyUp 225 1</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

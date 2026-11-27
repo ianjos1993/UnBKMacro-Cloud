@@ -1,0 +1,49 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Авто стрельба для набивание StatTrak оружия! Подойдет для IDLE серверов. В макросе присутствует авто перезарядка! Это макрос предназначен для Desert Eagle стреляет 7 патронов после чего перезаряжается!
+Примечание: Авто стрельба будет работать бесконечно пока вы не нажмёте на кнопку на  которой она была забинжена! 
+Приятной игры!</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 72 ms
+LeftUp 1
+Delay 1424 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 1008 ms
+LeftDown 1
+Delay 88 ms
+LeftUp 1
+Delay 984 ms
+LeftDown 1
+Delay 72 ms
+LeftUp 1
+Delay 952 ms
+LeftDown 1
+Delay 80 ms
+LeftUp 1
+Delay 920 ms
+LeftDown 1
+Delay 72 ms
+LeftUp 1
+Delay 808 ms
+LeftDown 1
+Delay 73 ms
+LeftUp 1
+Delay 920 ms
+KeyDown 21 1
+Delay 80 ms
+KeyUp 21 1</Syntax>
+    </KeyDown>
+    <Software>CS: GO</Software>
+  </DefaultMacro>
+</Root>

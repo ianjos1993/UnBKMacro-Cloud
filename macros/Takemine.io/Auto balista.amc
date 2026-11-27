@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major>Макрос</Major>
+    <Description>Использование - авто балиста полезна тем, то что ей можно убить врага моментально, тоесть ставите кап кан, ловите врага и ставите балисты забинденной клавишей тем самым балисты ставятся очень быстро и почти одновременно, и сносят каждая по 40 хп, + ваш удар и вы победили!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 37 1
+KeyUp 37 1
+Delay 15 ms
+KeyDown 44 1
+KeyUp 44 1
+KeyDown 20 1
+KeyUp 20 1</Syntax>
+    </KeyDown>
+    <Software>Takemine.io</Software>
+  </DefaultMacro>
+</Root>

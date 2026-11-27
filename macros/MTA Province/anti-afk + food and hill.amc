@@ -1,0 +1,56 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Анти АФК Еда+Хилл Разрешение (1280х1080)
+
+На первую кнопку быстрого доступа нужно поставить еду, +15-25 за перекус
+На вторую кнопку быстрого доступа нужно поставить лекарство с аптеки, +10-15
+Запустить макрос в помещении и радоваться!
+
+Как поставить предмет в быстрый доступ? ( Ответ ниже)
+
+Вариант 1: Кнопка U -&gt; Выбрать предмет который хотим положить -&gt; Нажать правой кнопкой мыши -&gt; Добавить в быстрый лоступ 
+
+Вариант 2: Кнопка U -&gt; Зажать ЛКМ на предмете и перенести под текст "Быстрый доступ"</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 54 1
+Delay 64 ms
+Delay 4 min
+KeyUp 54 1
+KeyDown 55 1
+Delay 4 ms
+KeyUp 55 1
+RightDown 1
+Delay 4 min
+RightUp 1
+Delay 4 min
+WheelUp 1
+KeyDown 80 1
+Delay 4 min
+KeyUp 80 1
+Delay 15 min
+KeyDown 30 1
+Delay 4
+KeyUp 30 1
+Delay 5 min
+KeyDown 226 1
+Delay 4
+KeyUp 226 1
+Delay 15 min
+Delay 4
+KeyDown 31 1
+Delay 4 ms
+KeyUp 31 1
+Delay 15 min
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

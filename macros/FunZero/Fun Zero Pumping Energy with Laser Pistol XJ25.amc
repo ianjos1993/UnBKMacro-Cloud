@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для удобного прокачивания энергетического оружия с помощью лазерного пистолета Laser PistolXJ25 на крысах и стичах. Нажатием одной кнопки выстреливаем всю обойму и автоматически перезаряжаем.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 2 5 ms
+LeftUp 1
+Delay 2 5 ms
+LeftDown 1
+Delay 2 5 ms
+LeftUp 1
+Delay 2 5 ms
+LeftDown 1
+Delay 2 5 ms
+LeftUp 1
+Delay 2 5 ms
+LeftDown 1
+Delay 1 5 ms
+LeftUp 1
+Delay 1 5 ms
+LeftDown 1
+Delay 2 5 ms
+LeftUp 1
+Delay 3 5 ms
+LeftDown 1
+Delay 2 5 ms
+LeftUp 1
+Delay 2 5 ms
+KeyDown 21 1
+Delay 3 5 ms
+KeyUp 21 1
+Delay 2 5 ms</Syntax>
+    </KeyDown>
+    <Software>Fun Zero</Software>
+  </DefaultMacro>
+</Root>

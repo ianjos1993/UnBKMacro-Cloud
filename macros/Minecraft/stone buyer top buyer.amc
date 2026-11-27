@@ -1,0 +1,101 @@
+<Root>
+  <DefaultMacro>
+    <Major>hypixel skyblock</Major>
+    <Description>performs a purchase of hard stone from the bazaar at the top buy price so you dont get over purchased
+
+you will then neeed to use an auto compactor or manually craft enchanted hard stone by hand in order to sell and profit form the macro
+
+it does not collect and sell the hard stone only buys it </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 56 1
+Delay 132 150 ms
+KeyUp 56 1
+Delay 132 150 ms
+KeyDown 5 1
+Delay 132 150 ms
+KeyUp 5 1
+Delay 132 150 ms
+KeyDown 29 1
+Delay 132 150 ms
+KeyUp 29 1
+Delay 132 150 ms
+KeyDown 88 1
+Delay 132 150 ms
+KeyUp 88 1
+Delay 132 150 ms
+MoveTo 817 1493
+Delay 132 150 ms
+MoveTo 1111 1527
+Delay 132 150 ms
+LeftDown 1
+Delay 132 150 ms
+LeftUp 1
+Delay 132 150 ms
+MoveTo 927 1514
+Delay 132 150 ms
+LeftDown 1
+Delay 132 150 ms
+LeftUp 1
+Delay 132 150 ms
+MoveTo 1035 1511
+Delay 132 150 ms
+LeftDown 1
+Delay 132 150 ms
+LeftUp 1
+Delay 132 150 ms
+MoveTo 1071 1515
+Delay 132 150 ms
+LeftDown 1
+Delay 132 150 ms
+LeftUp 1
+Delay 150 246 ms
+KeyDown 36 1
+Delay 132 150 ms
+KeyUp 36 1
+Delay 132 150 ms
+KeyDown 30 1
+Delay 132 150 ms
+KeyUp 30 1
+Delay 132 150 ms
+KeyDown 35 1
+Delay 132 150 ms
+KeyUp 35 1
+Delay 132 150 ms
+KeyDown 37 1
+Delay 132 150 ms
+KeyUp 37 1
+Delay 132 150 ms
+KeyDown 39 1
+Delay 132 150 ms
+KeyUp 39 1
+Delay 132 150 ms
+MoveTo 965 1615
+Delay 132 150 ms
+LeftDown 1
+Delay 132 150 ms
+LeftUp 1
+Delay 132 150 ms
+MoveTo 856 1509
+Delay 132 150 ms
+LeftDown 1
+Delay 132 150 ms
+LeftUp 1
+Delay 132 150 ms
+MoveTo 968 1511
+Delay 132 150 ms
+LeftDown 1
+Delay 132 150 ms
+LeftUp 1
+Delay 132 150 ms
+GoWhile 1 5000</Syntax>
+    </KeyDown>
+    <Software>minecraft</Software>
+  </DefaultMacro>
+</Root>

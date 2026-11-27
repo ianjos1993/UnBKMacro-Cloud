@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для рыбалки в Rust. Поло автоматический макрос для ловли рыбы, Выполняет действие закидки рыбы и ловли непосредственной рыбы</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 1779 ms
+LeftDown 1
+Delay 130 ms
+LeftUp 1
+Delay 1009 ms
+RightUp 1
+KeyDown 22 1
+Delay 140 ms
+KeyUp 22 1
+Delay 140 ms
+KeyDown 22 1
+Delay 10 ms
+KeyUp 22 1
+Delay 100 ms
+GoWhile 8 2400</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

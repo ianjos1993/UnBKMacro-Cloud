@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major>Locked</Major>
+    <Description>Used for the No Look trait in Locked. No look grants a small shot bonus once active, allowing you to flick the ball in with just a tap at heights like 5'9, 5'11, 6'0, 6'1, 6'2, and 6'3. To activate No Look, you need to disable your control lock. What this macro does is unshiftlock then M2. If you have emperor, then it will activate emperor before using.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+KeyUp 224 1
+RightDown 1
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

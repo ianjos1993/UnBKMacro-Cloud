@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major>KOCTPOB</Major>
+    <Description>Warlock Well Skate на ровной земле(не нужно вставать на край "обрыва") ! Это макрос destiny 2 для идиального скейтинга, вам понадобится взять меч c перком "резвый клинок", не нужно искать точку откуда его пожно выполнить, он выполняеться с любой ровной поверхности. скейтинг выполняеться через легкую атаку.
+https://youtu.be/B6T2J_479L4
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 10 ms
+KeyDown 32 1
+Delay 10
+KeyUp 32 1
+Delay 500 ms
+KeyDown 44 1
+Delay 20 ms
+KeyUp 44 1
+Delay 17 ms
+LeftDown 1
+Delay 21 ms
+LeftUp 1
+Delay 0 ms
+KeyDown 44 1
+Delay 15 ms
+KeyUp 44 1
+Delay 12 ms
+KeyDown 9 1
+Delay 0 ms
+KeyDown 44 1
+Delay 56 ms
+KeyUp 9 1
+Delay 46 ms
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>Destiny 2</Software>
+  </DefaultMacro>
+</Root>

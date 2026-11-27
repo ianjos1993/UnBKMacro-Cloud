@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>One click to fire 4 sequential bullets instantly and concentrate on the point of impactsf impacts.
+Applicable Weapon: all guns
+</Description>
+    <Comment>4XFIRE
+</Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 11 1
+Delay 170 ms
+KeyUp 11 1
+KeyDown 10 1
+Delay 290 ms
+KeyUp 10 1</Syntax>
+    </KeyDown>
+    <Software>Counter-Strike (CS)
+</Software>
+  </DefaultMacro>
+</Root>

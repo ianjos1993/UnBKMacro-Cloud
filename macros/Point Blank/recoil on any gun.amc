@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Всех приветствую!
+
+Данный макрос уберет отдачу у любой пушки. Всё что требуется это установить макрос на ЛКМ.
+перки: 4 или 2 скорик, остальное по желанию.
+ разрешение экрана 1920х1080
+
+Всем  приятной игры!!!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 45 ms
+LeftUp 1
+Delay 33 ms
+MoveR 2 2
+Delay 64
+MoveR 2 2
+Delay 64
+MoveR 2 2
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Point Blank</Software>
+  </DefaultMacro>
+</Root>

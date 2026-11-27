@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>parkour magjump</Major>
+    <Description>used to magjump make sure u press shift to not die also u need to look a little bit out the wall so it willl actually works
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+KeyUp 20 1
+Delay 10 ms
+KeyDown 225 1
+Delay 68 ms
+KeyDown 44 1
+KeyUp 225 1
+KeyUp 44 1
+Delay 10 ms
+KeyDown 8 1
+Delay 64
+Delay 500 ms
+KeyUp 8 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

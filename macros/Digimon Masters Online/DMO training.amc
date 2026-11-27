@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Good morning, Keyran users!
+
+This time around, you get a special macro for bosses (or tough fights).
+
+First things first: you will need a strong digi. Either an SSS or SSS+. Because of this, and the fact that you will use F2 and F3, you will need DS discs, and the good ones at that.
+
+So, a few recomendations:
+1) have a digiaura
+2) have a Magnetic ID
+3) have a 1000x exp multiplier two times (one from the regular ones, and the other from the dungeons)
+4) put the ds disc on F5
+
+You can use this Macro for training on Rainbow Bridge, or go to a boss and leave it there, or Minato city.
+
+Good luck!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 43 1
+Delay 1 s
+KeyUp 43 1
+Delay 1 s
+KeyDown 30 1
+Delay 1 s
+KeyUp 30 1
+Delay 64
+KeyDown 59 1
+Delay 2 s
+KeyUp 59 1
+Delay 64
+KeyDown 62 1
+Delay 64
+KeyUp 62 1
+Delay 64
+GoWhile 1 5
+KeyDown 60 1
+Delay 64
+KeyUp 60 1
+Delay 1 s
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Digimon Masters Online</Software>
+  </DefaultMacro>
+</Root>

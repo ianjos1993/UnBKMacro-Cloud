@@ -1,0 +1,89 @@
+<Root>
+  <DefaultMacro>
+    <Major>Acolyte Heal Spam</Major>
+    <Description>1. Set the Heal skill to key "F", Graphic Resolution Setting 1600 x 900. 
+
+2. Make sure your Ragnarok game window is set to the top, most left of your screen, in order for this macro to work properly.
+
+3. Next, create a party, Press Alt + Z, to open the party member list window.
+
+4. Leave the party window under your fully expanded short keys window. (1, 2, 3, 4: Total 4 lanes of skills) You are now all ready to spam heal to yourself. 
+
+5. Remember to set this macro to whichever key you wish to use with Keyran, set the Operating mode to "Run until pressed again". Walaa~ You are now ready to spam non stop Heal. :D
+
+______________________________________________________________________________
+
+I will create another version, Spam heal for the party of 2. Stay tuned!
+
+Thank you Keyran for making gaming experience so much easier, pleasant and stress free! :)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 149 ms
+KeyUp 9 1
+Delay 314 ms
+LeftDown 1
+Delay 95 ms
+LeftUp 1
+Delay 711 ms
+Delay 711 ms
+KeyDown 9 1
+Delay 176 ms
+KeyUp 9 1
+Delay 271 ms
+LeftDown 1
+Delay 109 ms
+LeftUp 1
+Delay 810 ms
+KeyDown 9 1
+Delay 158 ms
+KeyUp 9 1
+Delay 552 ms
+LeftDown 1
+Delay 104 ms
+LeftUp 1
+Delay 910 ms
+KeyDown 9 1
+Delay 131 ms
+KeyUp 9 1
+Delay 452 ms
+LeftDown 1
+Delay 94 ms
+LeftUp 1
+Delay 730 ms
+KeyDown 9 1
+Delay 114 ms
+KeyUp 9 1
+Delay 423 ms
+LeftDown 1
+Delay 106 ms
+LeftUp 1
+Delay 738 ms
+KeyDown 9 1
+Delay 123 ms
+KeyUp 9 1
+Delay 439 ms
+LeftDown 1
+Delay 118 ms
+LeftUp 1
+Delay 751 ms
+KeyDown 9 1
+Delay 105 ms
+KeyUp 9 1
+Delay 488 ms
+LeftDown 1
+Delay 100 ms
+LeftUp 1
+Delay 385 ms
+LeftUp 1
+Delay 78 ms</Syntax>
+    </KeyDown>
+    <Software>Ragnarok</Software>
+  </DefaultMacro>
+</Root>

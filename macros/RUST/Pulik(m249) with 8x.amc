@@ -1,0 +1,79 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Привет, данный макрос зделан для игры Rust, для оружия M249(пулик) с прицелом 8х
+Данный макрос использовать с драйвером, для более стабильной роботы, и желательно в режиме инкогнито.
+Макрос использовать при sens 1.0 и fov 75.  dpi сильно не влияет
+Пользуйтесь на здоровье
+</Description>
+    <Comment>Macros for You</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 3
+Delay 23 ms
+MoveR 0 27
+Delay 23 ms
+MoveR 0 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

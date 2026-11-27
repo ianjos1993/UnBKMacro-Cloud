@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major>Jitter Flatline or R-301 and light machine gun</Major>
+    <Description>Приветствую, друзья! Предлагаю вам данный макрос, который убирает отдачу практически на всех оружиях, особенно сильно на карабинах типа Флэтлайн и R-301. Рекомендую прицелы Марксманских винтовок, что-бы стрелять в точку на любой дистанции.
+
+Разрешение экрана:  2560x1440
+DPI:  400-1600
+Чувствительность в игре: 2.2
+Режим работы:  Выполнять пока нажата клавиша</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR -4 6
+Delay 8 ms
+MoveR 4 -6
+Delay 8 ms
+MoveR -6 4
+Delay 13 ms
+MoveR 6 -4
+Delay 5 ms
+MoveR -7 4
+Delay 13 ms
+MoveR 5 -5
+Delay 6 ms
+MoveR -1 8
+Delay 11 ms
+MoveR 7 -7
+Delay 5 ms
+MoveR 5 -5
+Delay 7 ms
+MoveR 3 -5
+Delay 7 ms
+MoveR -5 5
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

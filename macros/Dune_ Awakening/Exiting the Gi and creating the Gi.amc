@@ -1,0 +1,65 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Готовый автоматический макрос для быстрого выхода из текущей гильдии и моментального создания новой гильдии в игре, полностью оптимизированный под ультраширокое разрешение монитора 3440х1440 пикселей.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 18 1
+Delay 200 ms
+KeyUp 18 1
+Delay 200 ms
+MoveTo 627 960
+Delay 200 ms
+LeftDown 1
+Delay 200 ms
+LeftUp 1
+Delay 200 ms
+KeyDown 44 1
+Delay 200 ms
+KeyUp 44 1
+Delay 200 ms
+KeyDown 44 1
+Delay 200 ms
+KeyUp 44 1
+Delay 400 ms
+KeyDown 88 1
+Delay 200 ms
+KeyUp 88 1
+Delay 200 ms
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 200 ms
+KeyDown 88 1
+Delay 200 ms
+KeyUp 88 1
+Delay 200 ms
+KeyDown 44 1
+Delay 200 ms
+KeyUp 44 1</Syntax>
+    </KeyDown>
+    <Software>Dune: Awakening</Software>
+  </DefaultMacro>
+</Root>

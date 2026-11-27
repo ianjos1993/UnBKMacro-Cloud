@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major>Авто Хил Штурмовой брони</Major>
+    <Description>Важно: Включать скрипт нужно на постоянный повтор, до нажатия кнопки!
+Скрипт определяет полоску здоровья Штурмовой брони и при достижении 45-50%(Не считал) но выставлял на половину, автоматически чинит её Аварийным комплектом! Зачем тратить 200 кристаллов в месяц? Когда можно воспользоваться данным скриптом! Упоминаю: По умолчанию полоска здоровья белая, изменить цвет можно Аддоном Interface Meneger в самой игре!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 5 0 255,255,255 255,255,255 1 109 226
+KeyDown 29 1
+Delay 64
+KeyUp 29 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Аллоды онлайн</Software>
+  </DefaultMacro>
+</Root>

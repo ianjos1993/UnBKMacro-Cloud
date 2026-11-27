@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major>AFK Bot for GrandRP (maybe also for other RP Servers)</Major>
+    <Description>This macro prevents you from going into sleep mode (AFK mode). It is important that you stand in front of a wall and look straight at it so that you do not move. You can use this macro e.g. at GrandRP to be able to do something else while you are in prison or also if you want to get the daily reward but you don't have time or don't feel like playing or you just generally have to wait for something or someone. What I paid extra attention to is that one run of the macro is exactly 10 minutes. This means that you can enter in the repeat command at the bottom of your macro that it should only repeat 11 times, which then corresponds to 2 hours, so that if you have been imprisoned for 2 hours, but you are away for more than 2 hours, you do not run through the counter and thus do not become conspicuous for admins.
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 100 ms
+KeyUp 26 1
+Delay 599900 ms
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

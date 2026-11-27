@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>have your pic axe out and take a wall with ease. Make sure your picaxe is FULLY out before using. 
+Bind to any free key on keyboard and enjoy. :)
+NOTE: may not work depending on what ping you have</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 177 ms
+LeftUp 1
+Button5Down 1
+Delay 5 ms
+LeftDown 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

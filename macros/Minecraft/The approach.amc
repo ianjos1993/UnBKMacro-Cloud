@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматически выключает кинематографичную камеру при нажатии на С или бинд приближения в майнкрафт
+Нужно зайти в управление и забиндить кинематографичную камеру на Y или русскую Н</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+Delay 64
+KeyDown 28 1
+Delay 1 ms
+KeyUp 28 1
+KeyDown 42 1
+Delay 1 ms
+KeyUp 42 1
+Delay 999999</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

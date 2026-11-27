@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>быстро спамит буквой которую можно изменить в редакторе подходит для фарма уровней в ботах по типу MEE6 и других ботов с возможностью системы уровней</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 16 ms
+KeyUp 4 1
+Delay 16 ms
+KeyDown 40 1
+Delay 16 ms
+KeyUp 40 1
+Delay 16 ms</Syntax>
+    </KeyDown>
+    <Software>Discord</Software>
+  </DefaultMacro>
+</Root>

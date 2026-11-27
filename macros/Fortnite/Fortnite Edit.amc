@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Один из самых быстрых эдит макросов для нового чаптера, инструкция:
+1.Эдит должен быть на кнопку F
+2.Выбор редактирования постройки должен быть на P
+3.Должно быть включен Edit On Reless</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 9 1
+Delay 7 ms
+KeyUp 9 1
+Delay 7 ms
+KeyDown 19 1
+Delay 5 ms
+KeyUp 19 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

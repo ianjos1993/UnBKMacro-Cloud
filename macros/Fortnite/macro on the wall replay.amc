@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос позволяет забирать стенку у противника( у которого 0-50 пинг).This macro allows you to take the wall from the opponent (who has 0-50 ping)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 175 ms
+LeftUp 1
+Delay 2 ms
+KeyDown 20 1
+Delay 2 ms
+LeftDown 1
+Delay 2 ms
+KeyUp 20 1
+Delay 2 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

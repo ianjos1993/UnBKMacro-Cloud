@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос чтобы быстро редактировать окно, вот инструкция:
+
+включить автоподтверждение редакта
+Дополнительная кнопка редактирования: K
+Дополнительная кнопка выбора редактирования: L
+
+
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 14 1
+Delay 2 ms
+KeyUp 14 1
+Delay 2 ms
+KeyDown 15 1
+Delay 2 ms
+KeyUp 15 1
+Delay 2 ms
+KeyDown 14 1
+Delay 2 ms
+KeyUp 14 1
+Delay 2 ms
+KeyDown 15 1
+Delay 2 ms
+KeyUp 15 1
+Delay 2 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

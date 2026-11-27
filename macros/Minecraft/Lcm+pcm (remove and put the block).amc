@@ -1,0 +1,22 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Ммакрос обновлённый и ускоренный, облегчающий постройку пола, стен или потолков в разы. Ставите макрос на любую клавишу, нажимаете и до тех пор пока не будет повторного нажатия каждую секунду персонаж будет ломать один блок и ставить тот который у вас в руках. </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+RightDown 1
+Delay 500 ms
+LeftDown 1
+RightDown 1
+Delay 500 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>A macro for the RUST game for the M92 Semi-Auto Pistol. If you set to LButton you can interrupt fire by tapping RButton. Use caution when shredding with this baby
+
+
+In-game settings:
+- FOV 90-Sensitivity 0.66/ I use .66 anywhere between .66-.7 is good
+
+Command console F1 - «input.sensitivity 0.66» </Description>
+    <Comment>Please Enjoy</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 34 ms
+MoveR 0 8
+Delay 34 ms
+MoveR 0 8
+Delay 34 ms
+MoveR 0 8
+Delay 34 ms
+MoveR 0 8
+Delay 34 ms
+MoveR 0 8
+Delay 34 ms
+LeftUp 1
+Delay 37 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

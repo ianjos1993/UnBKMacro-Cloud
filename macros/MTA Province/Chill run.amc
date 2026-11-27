@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос, который используется в связке с "Zhbk". 
+
+Принцип работы: пока бежите за ящиком, жмёте ЛКМ и макрос за вас быстро бежит в сочетании с прыжками, между которыми установлена минимальная задержка для быстроты бега.
+Когда несёте ящик в коморку - прожимаете "Чилл бег", чтобы не стукаться прыжками об дверные проёмы. Также можете использовать "Чилл бег", когда подбегаете к чекпоинту для ящика, чтобы не перепрыгнуть через него.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 196 ms
+KeyDown 44 1
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>MTA Province</Software>
+  </DefaultMacro>
+</Root>

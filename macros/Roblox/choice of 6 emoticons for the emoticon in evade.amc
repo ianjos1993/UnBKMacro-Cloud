@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>С помощью этого макроса вы сможете быстро нажимать на 6 эмоцию для эмот деша в evade. если вы найдёте другое применение данного макроса то поздравляю.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 10 1
+Delay 5 ms
+KeyDown 35 1
+Delay 5 ms
+KeyUp 35 1
+Delay 5 ms
+KeyUp 10 1
+Delay 5 ms
+KeyDown 44 1
+Delay 10 ms
+KeyUp 44 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>roblox </Software>
+  </DefaultMacro>
+</Root>

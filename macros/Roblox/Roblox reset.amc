@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>a macro that resets your player to roblox on 1 click :) important! reducing the delay can lead to lags on the PC be careful I love everyone and thank keiran for the gifts!!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 41 1
+Delay 30 ms
+KeyUp 41 1
+Delay 30 ms
+KeyDown 21 1
+Delay 30 ms
+KeyUp 21 1
+Delay 30 ms
+KeyDown 88 1
+Delay 30 ms
+KeyUp 88 1
+Delay 30 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

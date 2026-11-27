@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>SMG Hololu düşük hassasiyetli çok az sekme yapabilir hassasiyet 0.5 görüş alanı FOV 80 çözünürlük 1366 x 768 fare DPI 1600</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 10 ms
+MoveR 0 2
+Delay 10 ms
+MoveR 0 2
+Delay 10 ms
+MoveR 0 2
+Delay 10 ms
+MoveR 0 2
+Delay 10 ms
+MoveR 0 2
+Delay 10 ms
+LeftUp 1
+Delay 13 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major>Крупнокалиберный револьвер</Major>
+    <Description>Рабочий макрос. Ставьте настройки игры, как указано ниже:
+1) DPI 500
+2) Обзор 90
+3) Сенса 0.5
+4) Разрешения экрана 1920х1080
+Удачи в боях.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 20 ms
+MoveR 0 50
+Delay 20 ms
+MoveR 0 50
+Delay 20 ms
+MoveR 0 50
+Delay 20 ms
+MoveR 0 50
+Delay 20 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

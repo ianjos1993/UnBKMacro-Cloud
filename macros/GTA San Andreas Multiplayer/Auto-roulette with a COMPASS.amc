@@ -1,0 +1,32 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос предназначений для автоматичиского открытие рулеток при наличии РУЛЕТОЧНОГО КОМПАСА,  процедура происходит максимально быстро, для начало работы запустите рулетку, далее запускайте макрос.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 88 1
+Delay 147 ms
+KeyUp 88 1
+Delay 1116 ms
+KeyDown 28 1
+Delay 123 ms
+KeyUp 28 1
+Delay 211 ms
+KeyDown 88 1
+Delay 103 ms
+KeyUp 88 1
+Delay 88 ms
+KeyDown 88 1
+Delay 112 ms
+KeyUp 88 1
+GoWhile 1 50000</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

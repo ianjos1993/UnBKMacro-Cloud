@@ -1,0 +1,63 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос который поможет вам ловить сигналы,вы можете делать что хотите пока макрос сам ищет сигнал,открывает и закрывает тоже сам,вам нужно будет просто дождаться и пойти забрать сигнал.Макрос для разрешения 1920х1080, игра в окне
+Открытие Сака поставить на RAlt.</Description>
+    <Comment>Если макрос будет работать неправильно,вы должны будете настроить цвет лампочки сигнала в макросе,в строке 9,11,13 вы должны нажать два раза откроется редактор,там будет перекрестие у выбора цвета,вы должны навести его на лампочку сигнала,сделать это во всех 3 строках и подтвердить.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 230 1
+Delay 250 365 ms
+KeyUp 230 1
+MoveTo 1081 791
+Delay 15 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+GoColor 19 0 42,65,38 255,255,255 1 691 399 536 600 1 0
+Delay 40 75 ms
+GoColor 19 0 42,65,38 255,255,255 1 691 399 866 600 1 0
+Delay 40 75 ms
+GoColor 19 0 42,65,38 255,255,255 1 691 399 866 600 1 0
+Delay 170 215 ms
+KeyDown 230 1
+Delay 250 365 ms
+KeyUp 230 1
+Goto 1
+MoveTo 1077 800
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 1347 784
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 10 s
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 728 484
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+MoveTo 624 582
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>StalCraft</Software>
+  </DefaultMacro>
+</Root>

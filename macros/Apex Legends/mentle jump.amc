@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>192.168</Major>
+    <Description>Apex mentleJump for making superjump after the end of it , can be super easy to practise but better with macro .Must have jump bind to "scroll wheel down" and interraction bind to "E" and screen resolution : 1920x1080 , work at 60+fps</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR 1624 316
+Delay 5 ms
+KeyDown 22 1
+Delay 15 ms
+KeyUp 22 1
+Delay 1 ms
+KeyDown 22 1
+Delay 10 ms
+KeyUp 22 1
+Delay 64
+KeyDown 8 1
+Delay 5 ms
+KeyUp 8 1
+Delay 2 ms
+WheelDown 1</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

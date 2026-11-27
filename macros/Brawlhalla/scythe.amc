@@ -1,0 +1,59 @@
+<Root>
+  <DefaultMacro>
+    <Major>Eetu</Major>
+    <Description>simple scythe combo, works on left side
+This combo is not true, so opponent can dodge this.
+
+movement: WASD, shift
+attack: J</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 7 1
+Delay 105 ms
+KeyDown 13 1
+Delay 42 ms
+KeyUp 13 1
+Delay 119 ms
+KeyDown 13 1
+Delay 22 ms
+KeyUp 13 1
+Delay 208 ms
+KeyDown 22 1
+Delay 44 ms
+KeyUp 7 1
+Delay 85 ms
+KeyDown 13 1
+Delay 42 ms
+KeyUp 13 1
+Delay 100 ms
+KeyDown 13 1
+Delay 41 ms
+KeyUp 13 1
+Delay 82 ms
+KeyDown 13 1
+Delay 99 ms
+KeyUp 13 1
+Delay 151 ms
+KeyUp 22 1
+Delay 387 ms
+KeyDown 4 1
+Delay 10 ms
+KeyDown 44 1
+Delay 81 ms
+KeyDown 13 1
+Delay 21 ms
+KeyUp 44 1
+Delay 25 ms
+KeyUp 13 1
+Delay 187 ms
+KeyUp 4 1</Syntax>
+    </KeyDown>
+    <Software>Brawlhalla</Software>
+  </DefaultMacro>
+</Root>

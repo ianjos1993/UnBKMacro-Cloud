@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>use toggle run use secondary that can scope and sec crouch/slide only to C use on control or smthing idk </Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 100 ms
+RightUp 1
+KeyDown 6 1
+Delay 64
+KeyUp 6 1
+Delay 75 ms
+KeyDown 44 1
+Delay 70 ms
+KeyUp 44 1
+Delay 750 ms</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

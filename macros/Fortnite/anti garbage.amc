@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>анти отброс для всего оружия в фортнайт, надоело промахиваться и не уметь контролить разброс то данный макрос поможет тебе и заменит немного твои действия. </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR 0 1
+LeftDown 1
+Delay 30 ms
+MoveR 1 0
+MoveR 0 1
+MoveR 1 0
+MoveR 0 1
+Delay 64
+LeftUp 1
+Delay 30 ms
+Delay 2 ms</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

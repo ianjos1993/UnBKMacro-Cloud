@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Приветствую, данный макрос делает смену (фаст - зум) на снайперках.
+Он быстро выполняет функцию 3-1 что позволяет мгновенно производить выстрелы.
+Делайте активную клавишу ЛКМ и пользуйтесь :)</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 18 ms
+KeyDown 32 1
+Delay 18 ms
+KeyUp 32 1
+Delay 18 ms
+KeyDown 30 1
+Delay 18 ms
+KeyUp 30 1
+Delay 18 ms
+KeyDown 32 1
+Delay 18 ms
+KeyUp 32 1
+Delay 18 ms
+KeyDown 30 1
+Delay 18 ms
+KeyUp 30 1
+Delay 18 ms
+KeyDown 32 1
+Delay 18 ms
+KeyUp 32 1
+Delay 18 ms
+KeyDown 30 1
+Delay 18 ms
+KeyUp 30 1
+Delay 18 ms
+KeyDown 32 1
+Delay 18 ms
+KeyUp 32 1
+Delay 18 ms
+KeyDown 30 1
+Delay 18 ms
+KeyUp 30 1</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

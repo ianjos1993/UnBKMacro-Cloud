@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major>Дроп всех денег</Major>
+    <Description>1. Скачать макрос. 
+2. Забиндить кнопку.
+3. При зажатие кнопки, будет выкидывать деньги.
+4. Приятного пользования макросом.</Description>
+    <Comment>123</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 5 1
+Delay 1 ms
+KeyUp 5 1
+Delay 1 ms</Syntax>
+    </KeyDown>
+    <Software>Killing Floor</Software>
+  </DefaultMacro>
+</Root>

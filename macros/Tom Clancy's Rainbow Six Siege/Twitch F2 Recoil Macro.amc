@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>This is a macro to get rid of the insane recoil on Twitch's F2
+What it does: When firing in ADS on F2 as Twitch, it prevents the upward kick of the gun. Very useful for maintaining aim on the F2.
+
+Ingame Configuration:
+Weapon: F2 (operator is Twitch)
+Attachments: Vertical Grip, any 1x sight, Flash Hider
+
+Macro Configuration &amp; Customization:
+Bind the macro to your fire button and set it to "run until stop clicking"
+This is designed for 1920x1080. If you are on a different resolution, you can change the y and x values under macro customization.
+Higher y value = more downard movement
+Llower y value = less downward movement
+You can also change x value to compensate for horizontal recoil.
+
+Note: Make sure to only fire in ADS and stop shooting right before you run out of bullets.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 1 ms
+MoveR -2 15
+Delay 3 ms
+Delay 6 ms
+Delay 9 ms</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

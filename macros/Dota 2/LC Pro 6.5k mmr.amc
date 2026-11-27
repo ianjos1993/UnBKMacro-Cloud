@@ -1,0 +1,54 @@
+<Root>
+  <DefaultMacro>
+    <Major>LC macro (quickcast ON)</Major>
+    <Description>Legion Commander Macro - Initiation and Survival Combo
+
+    Key Bindings:
+        B: Activate Blade Mail
+        V: Activate Bloodthorn
+        N: Activate Black King Bar (BKB)
+        Spacebar: Use Blink Dagger to jump to the target location.
+
+Functionality:
+This macro is designed for Legion Commander to optimize her initiation and survivability in duels.
+
+Execution Tips:
+
+**Activate Quikcast**
+    Use the macro in quick succession for optimal results.
+    Always check the status of BKB and Blade Mail cooldowns before initiating.
+    Adjust positioning and timing with Blink Dagger to maximize effectiveness.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 5 1
+Delay 14 84 ms
+KeyUp 5 1
+KeyDown 44 1
+Delay 14 84 ms
+KeyUp 44 1
+Delay 14 84 ms
+KeyDown 17 1
+Delay 14 84 ms
+KeyUp 17 1
+Delay 14 84 ms
+KeyDown 25 1
+Delay 14 84 ms
+KeyUp 25 1
+Delay 14 84 ms
+KeyDown 21 1
+Delay 14 84 ms
+KeyUp 21 1
+Delay 14 84 ms
+KeyDown 21 1
+Delay 14 84 ms
+KeyUp 21 1</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

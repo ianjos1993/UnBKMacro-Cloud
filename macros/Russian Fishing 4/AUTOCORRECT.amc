@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>nabokov</Major>
+    <Description>Скрипт закидывает, подматывает и ставит удочку сам. Закидка стоит на 50% мощности. Можно изменять скрипт под ваши нужды.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 64
+LeftDown 1
+Delay 900 ms
+LeftUp 1
+Delay 2000 ms
+LeftDown 1
+Delay 50 ms
+LeftUp 1
+Delay 50 ms
+Delay 103 ms
+KeyDown 39 1
+KeyUp 39 1
+KeyDown 28 1</Syntax>
+    </KeyDown>
+    <Software>Russian Fishing 4</Software>
+  </DefaultMacro>
+</Root>

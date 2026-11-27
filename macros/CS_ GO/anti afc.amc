@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Это анти афк на бой насмерть или гонка вооружения или как хотите,так и используйте!
+Сразу расскажу как это работает чтобы вы не тратили время на этот макрос,вы биндите на любую кнопку как вам удобно(я поставил на num1) и вы нажимаете и ваш человечек ходит по кругу!
+подойдёт для людей которые афкашат часто или просто фармят!
+Удачи с анти афк в бою!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 100 ms
+KeyUp 26 1
+Delay 100 ms
+KeyDown 4 1
+Delay 100 ms
+KeyUp 4 1
+Delay 100 ms
+KeyDown 22 1
+Delay 100 ms
+KeyUp 22 1
+Delay 100 ms
+KeyDown 7 1
+Delay 100 ms
+KeyUp 7 1
+Delay 100 ms
+//бинд на любую кнопку! надо нажать и всё,персонаж будет ходить по кругу и антиафкашить</Syntax>
+    </KeyDown>
+    <Software>CS: GO</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>для фарма скорости в SPTS
+инструкция по использованию:
+1) идете в безопасное место (советую фургон)
+2) включаете невидимость (если у вас много психической силы)
+3) включаете скрипт
+
+
+
+
+
+P.S:было проверено только в SPTS origin</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 4 1
+Delay 3 s
+KeyUp 4 1
+KeyDown 7 1
+Delay 3 s
+KeyUp 7 1
+GoWhile 1 86400000</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

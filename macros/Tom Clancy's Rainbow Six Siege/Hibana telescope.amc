@@ -1,0 +1,52 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>script for the Hibana gun in r6
+
+2560 x 1440 screen resolution
+
+16:10 ratio
+
+900dpi
+sensitivity: 17
+
+attachments: 
+suppresor
+telescopic</Description>
+    <Comment>script for the Hibana gun in r6
+
+2560 x 1440 screen resolution
+
+16:10 ratio
+
+900dpi
+sensitivity: 17
+
+attachments: 
+suppresor
+telescopic</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveR -4 4
+Delay 7 ms
+MoveR 3 3
+Delay 6 ms
+MoveR -3 5
+Delay 7 ms
+MoveR 3 2
+Delay 6 ms
+MoveR -2 6
+Delay 7 ms
+MoveR 3 3
+Delay 6 ms
+MoveR -3 2
+Delay 6 ms</Syntax>
+    </KeyDown>
+    <Software>Tom Clancy's Rainbow Six Siege</Software>
+  </DefaultMacro>
+</Root>

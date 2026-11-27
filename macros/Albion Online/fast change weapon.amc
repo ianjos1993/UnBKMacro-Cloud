@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major>fast w</Major>
+    <Description>this macro  open your inventory and change your first weapon on your inventory for pvp or something else .
+resolution 10920x1080.
+HUD 80%.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 12 1
+Delay 30 ms
+KeyUp 12 1
+Delay 30 ms
+MoveTo 908 311
+Delay 10 ms
+LeftDown 1
+Delay 10 ms
+LeftUp 1
+Delay 10 ms
+KeyDown 12 1
+Delay 10 ms
+KeyUp 12 1
+Delay 10 ms
+//this macro is for change first weapon on your inventory fast.</Syntax>
+    </KeyDown>
+    <Software>Albion online</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,57 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>С этом файлом ваш персонаж сам начет кликать , со скоростью 20  кликов в секунду
+Вам надо:
+1. Установить файл
+2. В Разделе "клавиши" нажать на правую кнопки мыши и выбрать данный файл
+3. Запустить по нажатию клавишь (это можно сделать в настройках) или в ручную нажать кнопку "Запуск"
+-Cовет: лучше сделать по нажатию клавишь-
+4. Зайти в майн и нажать правую кнопку мыши 
+-Чтоб он перестал кликать , нужно повторно нажать на правую кнопку мыши-
+(Теперь ваш персонаж сам будет кликать :) )
+5. Радоваться данному макросу</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+KeyUp 30 1
+LeftDown 1
+Delay 13 ms
+LeftUp 1
+Delay 13 ms
+LeftDown 1
+Delay 4 ms
+LeftUp 1
+Delay 4 ms
+LeftDown 1
+Delay 3 ms
+LeftUp 1
+Delay 3 ms
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+KeyDown 32 1
+KeyUp 32 1
+RightDown 1
+Delay 10 ms
+RightUp 1
+Delay 12 ms
+RightDown 1
+Delay 12 ms
+RightUp 1
+Delay 10 ms
+RightDown 1
+Delay 6 ms
+RightUp 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

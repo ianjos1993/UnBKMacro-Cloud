@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major>Basketball legends auto voil</Major>
+    <Description>Благодоря этому макросу вы сможете автоматически делать самый сложный трюк нажав 1 кнопку.Но надо быть на центре площадки и тогда всё сработает. Так как макрос установлен на то чтобы игрок стоял посередине. Этот трюк могут делать мало кто из игроков даже професионалам сложно его делать. А я создал макрос который делает его автоматически.Надеюсь вам понравиться.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 2 s
+KeyUp 26 1
+Delay 64
+KeyDown 25 1
+Delay 100 ms
+KeyUp 25 1
+Delay 20 ms
+KeyDown 44 1
+Delay 2 s
+KeyUp 44 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

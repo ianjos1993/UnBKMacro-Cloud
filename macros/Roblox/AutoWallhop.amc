@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Привет! Этот макрос автоматически валлхопит не нажимая ни одну кнопку !
+Надеюсь вам понравится.
+
+900dpi, roblox sensitivity 0.2, скорость мыши в настройках "10".
+1280x1024 monitor</Description>
+    <Comment>У меня работает.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 1
+KeyDown 7 1
+Delay 1
+KeyDown 26 1
+Delay 1500 ms
+MoveTo 15 0
+Delay 45 ms
+MoveTo 0 0
+Delay 1 ms
+KeyUp 44 1
+Delay 1
+KeyUp 7 1
+Delay 1
+KeyUp 26 1
+Delay 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

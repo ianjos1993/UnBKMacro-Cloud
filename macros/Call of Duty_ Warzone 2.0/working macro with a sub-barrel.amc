@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Наконец то рабочая версия макроса для подствольного гранатомета или дробовика 
+вам нужно всего лишь иметь подствольник , метательный нож и тактическое снаряжение кроме стимулятора и бинокля . а также ваш боезапас зависит от магазина в основном оружие . Ставьте макрос на клавишу которая не за что не отвечает . В стрельбище работать не будет . И некоторые пушки не всегда работают 
+но 100% работает калаш . УДАЧИ ВАМ В ДАЛЬНЕЙШЕЙ ИГРЕ )</Description>
+    <Comment>если остались какие то вопросы пишите мне на почту - valera1jigylin@gmail.com
+или в дискорд : nupogodi1985</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 25 1
+Delay 13 ms
+LeftDown 1
+Delay 14 ms
+KeyDown 20 1
+Delay 25 ms
+LeftUp 1
+Delay 25 ms
+KeyDown 30 1
+Delay 14 ms
+KeyUp 25 1
+Delay 13 ms
+LeftUp 1
+Delay 14 ms
+KeyUp 20 1
+Delay 25 ms
+KeyUp 30 1</Syntax>
+    </KeyDown>
+    <Software>Call of Duty: Warzone 2.0</Software>
+  </DefaultMacro>
+</Root>

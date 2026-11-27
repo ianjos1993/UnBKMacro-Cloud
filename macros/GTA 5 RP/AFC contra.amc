@@ -1,0 +1,63 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Афк контра 
+становишься около торговца и наводи мышь на место кнопки покупки 
+сам скидывает контру в багажник если рядом стоит машина 
+1920-1080</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+GoWhile 1 100
+Delay 127 ms
+KeyUp 26 1
+Delay 967 ms
+KeyDown 22 1
+Delay 168 ms
+KeyUp 22 1
+Delay 4935 ms
+KeyDown 8 1
+Delay 160 ms
+KeyUp 8 1
+Delay 1433 ms
+LeftDown 1
+Delay 179 ms
+LeftUp 1
+Delay 3691 ms
+KeyDown 22 1
+Delay 240 ms
+KeyUp 22 1
+Delay 631 ms
+KeyDown 22 1
+Delay 176 ms
+KeyUp 22 1
+Delay 431 ms
+KeyDown 22 1
+Delay 175 ms
+KeyUp 22 1
+Delay 4503 ms
+KeyDown 225 1
+Delay 743 ms
+KeyDown 68 1
+KeyDown 12 1
+Delay 64
+KeyUp 12 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64
+RightDown 1
+Delay 64
+RightUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

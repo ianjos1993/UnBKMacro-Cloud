@@ -1,0 +1,44 @@
+<Root>
+  <DefaultMacro>
+    <Major>Прокаст за лешрака</Major>
+    <Description>Макрос делает пролный прокаст по врагу, всё что требуется от вас держать на нём курсор.
+Также необходимо быстрое применение скиллов и предметов.
+
+После прокаста у вас автоматически используется ульта для погони за врагом, так что не спите ;)
+
+Необходимые бинды:
+Q - split earth
+W - diabolic edict
+E - lightning storm
+R - pulse nova</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+Delay 119 ms
+KeyUp 6 1
+Delay 392 ms
+KeyDown 26 1
+Delay 154 ms
+KeyUp 26 1
+Delay 1085 ms
+KeyDown 20 1
+Delay 127 ms
+KeyUp 20 1
+Delay 735 ms
+KeyDown 8 1
+Delay 96 ms
+KeyUp 8 1
+Delay 415 ms
+KeyDown 21 1
+Delay 95 ms
+KeyUp 21 1</Syntax>
+    </KeyDown>
+    <Software>dota 2</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,48 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос поможет безопасно перемещаться!
+This macros help you move safe!
+
+________________________________________________
+
+
+Змейка = пол + крыша + стенки вокруг себя</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+KeyDown 20 1
+Delay 30 ms
+MoveR 698 11
+Delay 30 ms
+MoveR 698 11
+Delay 30 ms
+MoveR 698 11
+Delay 30 ms
+MoveR 698 11
+Delay 30 ms
+MoveR 698 11
+Delay 30 ms
+MoveR 698 11
+KeyUp 20 1
+Delay 10 ms
+KeyDown 27 1
+MoveR 20 525
+Delay 30 ms
+MoveR -41 -985
+KeyUp 27 1
+Delay 10 ms
+KeyDown 25 1
+Delay 30 ms
+KeyUp 25 1
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

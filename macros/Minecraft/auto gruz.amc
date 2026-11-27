@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос поможет вам автоматичекски забирать лут с грузов на таких проэктах как HolyWorld, FunTime и других, также его можно использовать чтоб в 1 клик забрать весь лут с сундуков. Для работы этого макроса необходим мод в самом майнкрафте под названием ItemScroller. Этот авто груз работает на любых разрешениях экрана, откройте сундук/груз нажмите на клавишу под которую забиндили макрос и моментально забирите все ресурсы. </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+KeyDown 226 1
+LeftDown 1
+Delay 1 ms
+LeftUp 1
+Delay 1 ms
+GoWhile 3 14880</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

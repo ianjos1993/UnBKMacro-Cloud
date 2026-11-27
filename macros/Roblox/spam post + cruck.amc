@@ -1,0 +1,49 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Basketball legends. Макрос используется в зоне 2PT, можно юзать, как и на углах так и на красной линии, все делается автоматически. Вы подходите к красной зоне и используете клавишу где у вас макрос, после он начинает бегать вперед назад с постом и кинет крюком с байтом.
+Чтобы использовать вам нужно иметь 50ОВР.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 10 1
+Delay 122 ms
+KeyUp 10 1
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 10 1
+Delay 64
+KeyUp 10 1
+Delay 87 ms
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+KeyDown 10 1
+Delay 122 ms
+KeyUp 10 1
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+KeyDown 10 1
+Delay 5 ms
+KeyDown 8 1
+Delay 344 ms
+KeyUp 10 1
+KeyUp 8 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

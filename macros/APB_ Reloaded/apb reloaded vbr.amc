@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос на VBR, тк винтовка является полуавтоматической в игре, я написал макрос на атоматическую стрельбу с глушением отдачи и большей точности за счет задержек </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 13
+LeftUp 1
+MoveR 0 1
+LeftDown 1
+Delay 13
+LeftUp 1
+Delay 13</Syntax>
+    </KeyDown>
+    <Software>APB Reloaded</Software>
+  </DefaultMacro>
+</Root>

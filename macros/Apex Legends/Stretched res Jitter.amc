@@ -1,0 +1,25 @@
+<Root>
+  <DefaultMacro>
+    <Major>Apex Enhanced Jitter Aim (4:3 Adjusted)</Major>
+    <Description>Bind macro to left mouse click, creates a jitter aim pattern with enhanced shake while keeping the cursor centered for 4:3 stretched resolution (1600x1200) 1.6 sens. Thank you for using this macro!</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+MoveR 4 4
+Delay 8 ms
+MoveR 4 -4
+Delay 8 ms
+MoveR -4 -4
+Delay 8 ms
+MoveR -4 4
+Delay 8 ms</Syntax>
+    </KeyDown>
+    <Software>Apex Legends</Software>
+  </DefaultMacro>
+</Root>

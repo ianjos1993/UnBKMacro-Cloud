@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос не полный могут быть помехи но он создан для мм ханта 3.3.5а уровень 25+ 
+Я буду его продолжать обновлять но не обещаю 
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 64
+KeyUp 30 1
+Delay 1700 ms
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 1500 ms
+KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 1500 ms
+KeyDown 33 1
+Delay 64
+KeyUp 33 1
+Delay 3500 ms
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 6000 ms</Syntax>
+    </KeyDown>
+    <Software>World of Warcraft</Software>
+  </DefaultMacro>
+</Root>

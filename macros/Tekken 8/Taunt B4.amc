@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>Bryan Fury's Taunt B4 (LEFT SIDE)</Major>
+    <Description>This is a macro for bryan fury's iconic taunt b4 for wall pressure etc, It is a macro script which will work in mostly 99% of the times. For this to work, follow these instructions in order to map your inputs for this macro to work:
+
+Keyboard settings on tekken 8:
+I = Triangle / Y / 2 Input 
+O = Circle / B / 4 Input
+J = Square / X / 1 Input
+K = X / A / 3 Input
+
+After mapping this, go to controller setup on tekken 8 and map the U button to 1+3+4 input (Taunt button). After mapping all these correctly, this macro will work perfectly!
+(ONLY WORKS ON THE LEFT SIDE)</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 24 1
+Delay 440 ms
+KeyUp 24 1
+Delay 25 ms
+KeyDown 4 1
+KeyDown 18 1
+Delay 45 ms
+KeyUp 18 1
+KeyUp 4 1
+Delay 64 ms</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

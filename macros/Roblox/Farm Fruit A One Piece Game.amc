@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Авто-Фарм фрукта в A One Piece Game. Чтобы всё работало требуется на виртуальной клавиатуре в Keyran назначить макрос "Фарм Фрукт A One Piece Game" на любую удобную вам клавишу с которой вы можете взаимодействовать нажав на неё правой кнопкой мыши. Активируем Keyran, нажимаем на нашу назначенную клавишу в игре, взяв фрукт в инвенторе. Всё готово! Авто-Фарм запущен.</Description>
+    <Comment>Сделал так как вы говорили мне в сообщениях. Макрос проверен, задержки присутсвуют. </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+KeyDown 9 1
+Delay 64
+KeyUp 9 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,26 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Игра под название Boku no Roblox подходит тем у кого есть Quirk FierceWings и скилл на Z
+Инструкция:
+1. Подходите к Груше в спорт зале
+2. Нажмите на скилл на Z и поставте курсор так что бы вы не упали или еще чего нибудь
+3. Пожете запускать макрос</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+KeyUp 29 1
+Delay 300
+KeyDown 29 1
+KeyUp 29 1
+Delay 300</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,20 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>for gang beasts to fly only in local game it spams the button and you move your mouse for the direction enjoy :)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 31 1
+Delay 2 ms
+KeyUp 31 1
+Delay 2 ms</Syntax>
+    </KeyDown>
+    <Software>gang beasts</Software>
+  </DefaultMacro>
+</Root>

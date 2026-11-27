@@ -1,0 +1,59 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматически прописывает команду /HUB для покидания мини игры на проекте VimeWorld.
+
+Привила использования:
+
+1. Язык должн быть РУССКИЙ.
+
+2.НЕ надо включать чат на клавишу t.
+
+3.Ничего не нажимать при срабатывании макроса</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 225 1
+KeyDown 226 1
+Delay 1 ms
+Delay 1 ms
+KeyUp 226 1
+KeyUp 225 1
+Delay 1 ms
+KeyDown 23 1
+Delay 8 ms
+KeyUp 23 1
+Delay 8 ms
+KeyDown 56 1
+Delay 8 ms
+KeyUp 56 1
+Delay 8 ms
+KeyDown 11 1
+Delay 8 ms
+KeyUp 11 1
+KeyDown 24 1
+Delay 8 ms
+KeyUp 24 1
+KeyDown 5 1
+Delay 8 ms
+KeyUp 5 1
+KeyDown 40 1
+Delay 8 ms
+KeyUp 40 1
+KeyDown 225 1
+Delay 8 ms
+KeyDown 226 1
+Delay 8 ms
+KeyUp 226 1
+Delay 8 ms
+KeyUp 225 1
+Delay 8 ms</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

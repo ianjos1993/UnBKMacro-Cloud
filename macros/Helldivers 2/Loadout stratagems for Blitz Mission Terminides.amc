@@ -1,0 +1,112 @@
+<Root>
+  <DefaultMacro>
+    <Major>Helldivers 2</Major>
+    <Description>За вас выбирает на экране выбора стратагем перед миссией определенный набор стратагем.
+НЕ выбирает усилитель и НЕ ставит за вас готовность.
+Выбирает стратагемы
+- Воздушный налет
+- Орбитальный лазер
+- Личный генератор щита
+- Одноразовый противотанковый
+
+Макрос актуален и работоспрособен при соблюдении всех условий:
+- У вас приобретены ВСЕ возводные стратагемы
+- Версия игры 01.000.104/12388 (увидеть её можно нажав ESС в левом нижнем углу экрана)
+- У вас стандарные настройки ВЫБОРА стратагем при старте мисссии.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы 
+
+Если кому показалось интересной идея или есть преложения - пишите в ЛС.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 44 1
+Delay 30 ms
+KeyUp 44 1
+Delay 30 ms
+KeyDown 79 1
+Delay 30 ms
+KeyUp 79 1
+Delay 30 ms
+KeyDown 79 1
+Delay 30 ms
+KeyUp 79 1
+Delay 30 ms
+KeyDown 88 1
+Delay 30 ms
+KeyUp 88 1
+Delay 30 ms
+KeyDown 81 1
+Delay 30 ms
+KeyUp 81 1
+Delay 30 ms
+KeyDown 81 1
+Delay 30 ms
+KeyUp 81 1
+Delay 30 ms
+KeyDown 81 1
+Delay 30 ms
+KeyUp 81 1
+Delay 30 ms
+KeyDown 80 1
+Delay 30 ms
+KeyUp 80 1
+Delay 30 ms
+KeyDown 80 1
+Delay 30 ms
+KeyUp 80 1
+Delay 30 ms
+KeyDown 88 1
+Delay 30 ms
+KeyUp 88 1
+Delay 30 ms
+KeyDown 81 1
+Delay 30 ms
+KeyUp 81 1
+Delay 30 ms
+KeyDown 81 1
+Delay 30 ms
+KeyUp 81 1
+Delay 30 ms
+KeyDown 81 1
+Delay 30 ms
+KeyUp 81 1
+Delay 30 ms
+KeyDown 88 1
+Delay 30 ms
+KeyUp 88 1
+Delay 30 ms
+KeyDown 81 1
+Delay 30 ms
+KeyUp 81 1
+Delay 30 ms
+KeyDown 81 1
+Delay 30 ms
+KeyUp 81 1
+Delay 30 ms
+KeyDown 81 1
+Delay 30 ms
+KeyUp 81 1
+Delay 30 ms
+KeyDown 79 1
+Delay 30 ms
+KeyUp 79 1
+Delay 30 ms
+KeyDown 79 1
+Delay 30 ms
+KeyUp 79 1
+Delay 30 ms
+KeyDown 79 1
+Delay 30 ms
+KeyUp 79 1
+Delay 30 ms
+KeyDown 88 1
+Delay 30 ms
+KeyUp 88 1</Syntax>
+    </KeyDown>
+    <Software>Helldivers 2</Software>
+  </DefaultMacro>
+</Root>

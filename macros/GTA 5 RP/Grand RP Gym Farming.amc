@@ -1,0 +1,31 @@
+<Root>
+  <DefaultMacro>
+    <Major>1.0</Major>
+    <Description>AFK Farm in Gym on Grand RP only made for GrandRP Servers. 
+Ill Tested it and it works perfectly on the Beach Gym on German Grand RP Servers
+</Description>
+    <Comment>DM on Discord for Custom Makros: 030Danny#0316
+Ill have no Hobbys so i create Makros if u send me youre Idea for an makro</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 99 ms
+KeyUp 8 1
+Delay 5597 ms
+KeyDown 8 1
+Delay 66 ms
+KeyUp 8 1
+Delay 5453 ms
+KeyDown 8 1
+Delay 81 ms
+KeyUp 8 1
+Delay 57817 ms
+Goto 1</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

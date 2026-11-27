@@ -1,0 +1,36 @@
+<Root>
+  <DefaultMacro>
+    <Major>semi auto pistol</Major>
+    <Description>this macro work for semi pistol (press start release to stop)
+1920 x 1080
+fov 90
+dpi 1200
+sens 0.5</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 20 ms
+MoveR 0 15
+Delay 20 ms
+MoveR 0 15
+Delay 20 ms
+MoveR 0 15
+Delay 20 ms
+MoveR 0 15
+Delay 20 ms
+MoveR 0 15
+Delay 20 ms
+MoveR 0 15
+Delay 20 ms
+LeftUp 1
+Delay 20 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major>Dem41k</Major>
+    <Description>Макрос мне очень помогает. он выполняет такие задачи как когда я играю со снайпером при нажатии на правую кнопку мыши он выполняет 3 функции сразу . 1) он целится 2) он стреляет 3) он делает смену 3-1. и при чем все это в течении 1 секунды
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+P.S это 3-ий макрос.
+Чувствительность в игре у меня 0.8
+Мышку можно использовать любую у меня ( ГАРНИЗОН GM-720G)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 45 ms
+RightUp 1
+Delay 5 ms
+LeftDown 1
+Delay 25 ms
+LeftUp 1
+Delay 5 ms
+KeyDown 32 1
+Delay 40 ms
+KeyUp 32 1
+Delay 5 ms
+KeyDown 30 1
+Delay 40 ms
+KeyUp 30 1
+Delay 5 ms</Syntax>
+    </KeyDown>
+    <Software>PointBlank</Software>
+  </DefaultMacro>
+</Root>

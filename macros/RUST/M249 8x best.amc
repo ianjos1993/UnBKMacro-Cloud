@@ -1,0 +1,73 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>M249 8x nişangah hassasiyet 0.95 görüş alanı FOV 80 yaklaşık 150 metreye kadar nokta atar çözünürlüğü kendinize göre ayarlayabilrisiniz</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 24 ms
+MoveR 0 3
+Delay 24 ms
+MoveR 0 27
+Delay 24 ms
+MoveR 0 3
+Delay 24 ms
+MoveR 0 27
+Delay 24 ms
+MoveR 0 3
+Delay 24 ms
+MoveR 0 27
+Delay 24 ms
+MoveR 0 3
+Delay 24 ms
+MoveR 0 27
+Delay 24 ms
+MoveR 0 3
+Delay 24 ms
+MoveR 0 27
+Delay 24 ms
+MoveR 0 3
+Delay 24 ms
+MoveR 0 27
+Delay 24 ms
+MoveR 0 3
+Delay 24 ms
+MoveR 0 27
+Delay 24 ms
+MoveR 0 3
+Delay 24 ms
+MoveR 0 27
+Delay 24 ms
+MoveR 0 3
+Delay 24 ms
+MoveR 0 27
+Delay 24 ms
+MoveR 0 3
+Delay 24 ms
+MoveR 0 27
+Delay 24 ms
+MoveR 0 3
+Delay 24 ms
+MoveR 0 27
+Delay 24 ms
+MoveR 0 3
+Delay 24 ms
+MoveR 0 27
+Delay 24 ms
+MoveR 0 3
+Delay 24 ms
+MoveR 0 27
+Delay 24 ms
+MoveR 0 3
+Delay 24 ms
+MoveR 0 27</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

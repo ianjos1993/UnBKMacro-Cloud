@@ -1,0 +1,346 @@
+<Root>
+  <DefaultMacro>
+    <Major>Where Winds Meet</Major>
+    <Description>Стандартная ротация атаки «Зонтики и веера» предполагает последовательное использование различных атакующих элементов для достижения максимального эффекта. 
+Последовательность ротации:
+1. Легкая атака с использованием всей выносливости.
+2. Две последовательные атаки на "Q".
+3. Использование навыка на "Тильду"
+4. Переключение на Веер.
+5. Использование навыка на "Q".
+6. Легкие атаки до исчезновения баффа "Балистика"
+7. Использование навыка на "Q".
+8. Переключение на Зонтик.
+9. Конец ротации.</Description>
+    <Comment>Макрос качественный, сам пользуюсь. </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 11160 ms
+LeftUp 1
+Delay 450 ms
+KeyDown 20 1
+Delay 139 ms
+KeyUp 20 1
+Delay 1562 ms
+KeyDown 20 1
+Delay 170 ms
+KeyUp 20 1
+Delay 1562 ms
+KeyDown 53 1
+Delay 160 ms
+KeyUp 53 1
+Delay 682 ms
+WheelDown 1
+Delay 640 ms
+KeyDown 20 1
+Delay 133 ms
+KeyUp 20 1
+Delay 690 ms
+LeftDown 1
+Delay 47 ms
+LeftUp 1
+Delay 55 ms
+LeftDown 1
+Delay 47 ms
+LeftUp 1
+Delay 56 ms
+LeftDown 1
+Delay 56 ms
+LeftUp 1
+Delay 47 ms
+LeftDown 1
+Delay 56 ms
+LeftUp 1
+Delay 55 ms
+LeftDown 1
+Delay 48 ms
+LeftUp 1
+Delay 55 ms
+LeftDown 1
+Delay 56 ms
+LeftUp 1
+Delay 48 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 55 ms
+LeftDown 1
+Delay 48 ms
+LeftUp 1
+Delay 56 ms
+LeftDown 1
+Delay 56 ms
+LeftUp 1
+Delay 47 ms
+LeftDown 1
+Delay 56 ms
+LeftUp 1
+Delay 55 ms
+LeftDown 1
+Delay 47 ms
+LeftUp 1
+Delay 56 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 48 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 56 ms
+LeftDown 1
+Delay 47 ms
+LeftUp 1
+Delay 55 ms
+LeftDown 1
+Delay 56 ms
+LeftUp 1
+Delay 48 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 47 ms
+LeftDown 1
+Delay 56 ms
+LeftUp 1
+Delay 55 ms
+LeftDown 1
+Delay 48 ms
+LeftUp 1
+Delay 55 ms
+LeftDown 1
+Delay 56 ms
+LeftUp 1
+Delay 47 ms
+LeftDown 1
+Delay 56 ms
+LeftUp 1
+Delay 55 ms
+LeftDown 1
+Delay 48 ms
+LeftUp 1
+Delay 56 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 48 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 56 ms
+LeftDown 1
+Delay 47 ms
+LeftUp 1
+Delay 56 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 48 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 55 ms
+LeftDown 1
+Delay 48 ms
+LeftUp 1
+Delay 55 ms
+LeftDown 1
+Delay 56 ms
+LeftUp 1
+Delay 47 ms
+LeftDown 1
+Delay 56 ms
+LeftUp 1
+Delay 55 ms
+LeftDown 1
+Delay 48 ms
+LeftUp 1
+Delay 55 ms
+LeftDown 1
+Delay 56 ms
+LeftUp 1
+Delay 47 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 48 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 55 ms
+LeftDown 1
+Delay 48 ms
+LeftUp 1
+Delay 55 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 48 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 56 ms
+LeftDown 1
+Delay 47 ms
+LeftUp 1
+Delay 56 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 47 ms
+LeftDown 1
+Delay 56 ms
+LeftUp 1
+Delay 55 ms
+LeftDown 1
+Delay 48 ms
+LeftUp 1
+Delay 55 ms
+LeftDown 1
+Delay 56 ms
+LeftUp 1
+Delay 47 ms
+LeftDown 1
+Delay 56 ms
+LeftUp 1
+Delay 55 ms
+LeftDown 1
+Delay 48 ms
+LeftUp 1
+Delay 55 ms
+LeftDown 1
+Delay 56 ms
+LeftUp 1
+Delay 47 ms
+LeftDown 1
+Delay 56 ms
+LeftUp 1
+Delay 55 ms
+LeftDown 1
+Delay 48 ms
+LeftUp 1
+Delay 56 ms
+LeftDown 1
+Delay 56 ms
+LeftUp 1
+Delay 48 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 56 ms
+LeftDown 1
+Delay 48 ms
+LeftUp 1
+Delay 56 ms
+LeftDown 1
+Delay 47 ms
+LeftUp 1
+Delay 56 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 48 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 56 ms
+LeftDown 1
+Delay 48 ms
+LeftUp 1
+Delay 55 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 48 ms
+LeftDown 1
+Delay 56 ms
+LeftUp 1
+Delay 56 ms
+LeftDown 1
+Delay 47 ms
+LeftUp 1
+Delay 56 ms
+LeftDown 1
+Delay 56 ms
+LeftUp 1
+Delay 47 ms
+LeftDown 1
+Delay 56 ms
+LeftUp 1
+Delay 55 ms
+LeftDown 1
+Delay 48 ms
+LeftUp 1
+Delay 55 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 48 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 55 ms
+LeftDown 1
+Delay 48 ms
+LeftUp 1
+Delay 55 ms
+LeftDown 1
+Delay 56 ms
+LeftUp 1
+Delay 47 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 56 ms
+LeftDown 1
+Delay 47 ms
+LeftUp 1
+Delay 56 ms
+LeftDown 1
+Delay 48 ms
+LeftUp 1
+Delay 56 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 47 ms
+LeftDown 1
+Delay 56 ms
+LeftUp 1
+Delay 55 ms
+LeftDown 1
+Delay 47 ms
+LeftUp 1
+Delay 56 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 48 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 56 ms
+LeftDown 1
+Delay 47 ms
+LeftUp 1
+Delay 56 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 111 ms
+KeyDown 20 1
+Delay 133 ms
+KeyUp 20 1
+Delay 730 ms
+WheelDown 1
+Delay 56 ms</Syntax>
+    </KeyDown>
+    <Software>Where Winds Meet</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,69 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Зпускает охоту за призом и сворачивает окно боя. Ждёт  окончания боя, запускает заново. 
+Для тех, кто не хочет играть в охоту, но нужно насобирать билетики для рулетки.
+Требования:
+разрешение окна игры 1600*900
+Окно игры смещено в левый верхний угол монитора
+Начальная позиция или поле или убежище
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>//Компания
+MoveTo 977 852
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//Охота за призом
+MoveTo 1271 662
+Delay 64
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//Подобрать
+MoveTo 875 711
+Delay 64
+//Нажать кнопку "Подобрать"
+LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+//Выходим в поле
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 64
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 64
+//Проверяем "Уведомление"
+MoveTo 688 671
+Delay 64
+Delay 10 s
+GoColor 35 3 180,172,161 174,166,155 0 1920 1080 1 1 1 0
+GoColor 39 2 180,172,161 174,166,155 0 1920 1080 1 1 1 0
+//Закрываем "Уведомление"
+KeyDown 41 1
+Delay 64
+KeyUp 41 1
+Delay 150 ms
+//Проверяем идёт ли битва
+Delay 10 s
+MoveTo 361 566
+GoColor 1 3 255,242,176 244,228,162 0 1920 1080 1 1 1 0
+Goto 44</Syntax>
+    </KeyDown>
+    <Software>Doomsday: Last Survivors</Software>
+  </DefaultMacro>
+</Root>

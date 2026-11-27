@@ -1,0 +1,40 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Подходите к любой "луже" длиной в 4 блока, встаете у края смотря в сторону противоположного "берега", и запускаете макрос. Каждые 55 минут  персонаж будет опускаться в воду на несколько секунд. Таким образом можно оставлять компьютер включенным на ночь и не бояться, что вас настигнет событие "грязнуля" (или, если и настигнет, то не больше чем на 55 мин :) )</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 2990 ms
+KeyDown 26 1
+Delay 1726 ms
+KeyUp 26 1
+Delay 1300 ms
+MoveTo 960 532
+Delay 7094 ms
+KeyDown 26 1
+Delay 48 ms
+KeyDown 44 1
+Delay 733 ms
+KeyUp 44 1
+Delay 79 ms
+KeyUp 26 1
+Delay 1471 ms
+KeyDown 22 1
+Delay 2031 ms
+KeyDown 44 1
+Delay 704 ms
+KeyUp 44 1
+Delay 240 ms
+KeyUp 22 1
+Delay 55 min
+GoWhile 1 9</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

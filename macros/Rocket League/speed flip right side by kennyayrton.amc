@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major>speed flip right side by kennyayrton</Major>
+    <Description>This macro executes a precise and consistent right Speed Flip maneuver in Rocket League. It is specifically designed to perform the right-sided diagonal flip cancel, allowing for faster and more efficient kickoffs. Useful for improving competitive performance and optimizing your kickoff technique with maximum speed and consistency.</Description>
+    <Comment>This macro is extremely easy to use — no changes or adjustments are needed. Just activate it and it works instantly, making the right Speed Flip simple and consistent for every kickoff.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 40 ms
+RightUp 1
+Delay 15 ms
+KeyDown 7 1
+Delay 16 ms
+KeyDown 26 1
+Delay 15 ms
+RightDown 1
+Delay 5 ms
+RightUp 1
+Delay 1 3 ms
+KeyUp 26 1
+Delay 1 3 ms
+KeyUp 7 1
+Delay 1 3 ms
+KeyDown 22 1
+Delay 1 5 ms
+KeyDown 8 1
+Delay 588 ms
+KeyDown 7 1
+Delay 175 ms
+KeyUp 7 1
+Delay 16 ms
+KeyUp 22 1
+Delay 95 ms
+KeyUp 8 1</Syntax>
+    </KeyDown>
+    <Software>Rocket League</Software>
+  </DefaultMacro>
+</Root>

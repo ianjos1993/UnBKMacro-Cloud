@@ -1,0 +1,42 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Персоанаж двигается один  раз в 10 минут. Чтобы не уйти в афк режим. Это очень простой макрос. больше нечего добавить (Работает в анимации) </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 150 min
+KeyDown 7 1
+Delay 5000 ms
+KeyUp 7 1
+Delay 10 min
+KeyDown 7 1
+Delay 5000 ms
+KeyUp 7 1
+Delay 10 min
+KeyDown 7 1
+Delay 5000 ms
+KeyUp 7 1
+Delay 10 min
+KeyDown 7 1
+Delay 5000 ms
+KeyUp 7 1
+Delay 10 min
+KeyDown 7 1
+Delay 5000 ms
+KeyUp 7 1
+Delay 10 min
+KeyDown 7 1
+Delay 5000 ms
+KeyUp 7 1
+Delay 10 min
+GoWhile 2 99999</Syntax>
+    </KeyDown>
+    <Software>GTA V</Software>
+  </DefaultMacro>
+</Root>

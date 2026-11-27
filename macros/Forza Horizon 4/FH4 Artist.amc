@@ -1,0 +1,50 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Перед использованием макроса необходимо создать свой собственный дизайн,он может быть соответственно любой,даже если просто цвет машины изменить.
+После этого заходим в Гараж/ Дизайн и расскраска / Мои дизайны. там первым дизайном должен быть ваш НЕ ОПУБЛИКОВАННЫЙ дизайн любой машины,и запускаем макрос.
+Макрос будет публиковать и удалять из общего доступа один и тот же дизайн .</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 88 1
+Delay 128 ms
+KeyUp 88 1
+Delay 2064 ms
+KeyDown 88 1
+Delay 151 ms
+KeyUp 88 1
+Delay 2663 ms
+KeyDown 81 1
+Delay 159 ms
+KeyUp 81 1
+Delay 327 ms
+KeyDown 81 1
+Delay 144 ms
+KeyUp 81 1
+Delay 279 ms
+KeyDown 81 1
+Delay 152 ms
+KeyUp 81 1
+Delay 1711 ms
+KeyDown 88 1
+Delay 159 ms
+KeyUp 88 1
+Delay 9304 ms
+KeyDown 88 1
+Delay 144 ms
+KeyUp 88 1
+Delay 2423 ms
+KeyDown 88 1
+Delay 120 ms
+KeyUp 88 1
+Delay 5672 ms</Syntax>
+    </KeyDown>
+    <Software>Forza Horizon 4 Повышение ранга Художника</Software>
+  </DefaultMacro>
+</Root>

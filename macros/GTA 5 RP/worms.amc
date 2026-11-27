@@ -1,0 +1,21 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>макрос для афк добычи червей.хороший способ заработка за 1 афк час +-50к не учитывая время продажи самих червей на многих серваках нету конкуренции на них так что ставте цену от 150-200 за 1 на моем сервере они по 175 за 5 часов купили половину из 1500</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 29 1
+Delay 11 s
+KeyDown 29 1
+Delay 11 s
+GoWhile 1 1000</Syntax>
+    </KeyDown>
+    <Software>GTA 5 RP</Software>
+  </DefaultMacro>
+</Root>

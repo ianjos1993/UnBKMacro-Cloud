@@ -1,0 +1,27 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Полезный макрос который позволить делать вам двойной рывок без особого напряга.
+1. Скачиваем макрос
+2. Биндим его
+3. Напрвляем мышку туда куда вам надо, и включаем макрос.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+KeyUp 26 1
+KeyDown 26 1
+KeyUp 26 1
+KeyDown 26 1
+KeyUp 26 1
+KeyDown 26 1
+KeyUp 26 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

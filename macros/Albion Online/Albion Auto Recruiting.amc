@@ -1,0 +1,56 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос позволяет постоянно отправлять приглашение в гилдию (в чат рекрутинга) он использует комбинацию клавиш ctrl+v чтоб скопировать свое приглашение ctrl+c.
+This macro allows you to constantly send an invitation to the guild (to the recruiting chat), he uses the key combination ctrl + v to copy his invitation ctrl + c.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>MoveTo 61 780
+Delay 9 ms
+MoveTo 62 780
+Delay 791 ms
+LeftDown 1
+Delay 56 ms
+LeftUp 1
+Delay 1 s
+KeyDown 224 1
+Delay 565 ms
+KeyDown 25 1
+Delay 98 ms
+KeyUp 25 1
+Delay 94 ms
+KeyUp 224 1
+Delay 843 ms
+KeyDown 88 1
+Delay 86 ms
+KeyUp 88 1
+MoveTo 904 212
+Delay 30 s
+MoveTo 62 780
+LeftDown 1
+Delay 96 ms
+LeftUp 1
+Delay 360 ms
+KeyDown 224 1
+Delay 200 ms
+KeyDown 25 1
+Delay 119 ms
+KeyUp 25 1
+Delay 48 ms
+KeyUp 224 1
+Delay 1235 ms
+KeyDown 88 1
+Delay 86 ms
+KeyUp 88 1
+MoveTo 904 212
+Delay 30 s</Syntax>
+    </KeyDown>
+    <Software>Albion online</Software>
+  </DefaultMacro>
+</Root>

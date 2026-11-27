@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Advanced version of camo skill trainer. Press the assigned key to either start or stop.  Make sure to crouch in a bush that can activate the camo skill before starting the macro. This version is faster and more discreet than the previous. (Please delete reuploaded as traditional macro)</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+Delay 128 ms
+KeyUp 6 1
+Delay 1200 ms
+KeyDown 6 1
+Delay 120 ms
+KeyUp 6 1
+Delay 840 ms
+KeyDown 43 1
+Delay 120 ms
+KeyUp 43 1
+Delay 4976 ms
+KeyDown 43 1
+Delay 144 ms
+KeyUp 43 1
+KeyDown 6 1
+Delay 64
+KeyUp 6 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Scum</Software>
+  </DefaultMacro>
+</Root>

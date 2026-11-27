@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Люкан Огонь дракона. Инстант фаер в прыжке направо. 
+надо  научиться пользоваться макросом для эффектного результата </Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 26 1
+Delay 14
+KeyDown 4 1
+Delay 14 ms
+KeyUp 26 1
+Delay 14
+KeyDown 7 1
+Delay 14
+KeyUp 4 1
+Delay 14
+KeyUp 7 1
+Delay 14
+KeyDown 13 1
+Delay 14
+KeyUp 13 1
+Delay 14</Syntax>
+    </KeyDown>
+    <Software>Mortal Kombat X</Software>
+  </DefaultMacro>
+</Root>

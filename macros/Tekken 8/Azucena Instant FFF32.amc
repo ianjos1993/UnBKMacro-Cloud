@@ -1,0 +1,43 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Azucena IWR32
+
+This macro is made to instantly trigger Azucena while running 32, which gives her good frame advantage.
+
+This is for left side only
+
+Buttons: 3 = K  2 = I
+
+I use this macro all the time &amp; succesfully in ruler ranks, mix it with good movement to hide the fact that it's instantaneous.</Description>
+    <Comment>Have fun with it, it's OP</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 79 1
+Delay 20 ms
+KeyUp 79 1
+Delay 20 ms
+KeyDown 79 1
+Delay 20 ms
+KeyUp 79 1
+Delay 20 ms
+KeyDown 79 1
+Delay 20 ms
+KeyDown 14 1
+Delay 64
+KeyUp 14 1
+Delay 64
+Delay 20 ms
+KeyUp 79 1
+KeyDown 12 1
+Delay 64
+KeyUp 12 1</Syntax>
+    </KeyDown>
+    <Software>Tekken 8</Software>
+  </DefaultMacro>
+</Root>

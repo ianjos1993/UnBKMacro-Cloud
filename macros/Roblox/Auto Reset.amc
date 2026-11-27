@@ -1,0 +1,24 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>При нажати на кнопку персонаж автоматиески сбрасывается. Можно поставить на любую конпку. Пользуйтесь
+___________________________________________________________________________________________________</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 41 1
+KeyDown 26 1
+KeyUp 41 1
+KeyDown 21 1
+KeyUp 21 1
+KeyDown 40 1
+KeyUp 40 1</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

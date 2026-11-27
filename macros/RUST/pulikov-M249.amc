@@ -1,0 +1,28 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>ставте сенсу на 0.9
+если будут вопроссы пишите в дискорд d1est#0446
+Советую создал я сам проверяйте работает он ЛЕГАЛЬНЫЙ!!!!!!</Description>
+    <Comment>KOM</Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 26 ms
+MoveR 2 4
+Delay 24 ms
+MoveR 0 4
+Delay 25 ms
+MoveR -2 4
+Delay 26 ms
+MoveR 0 5
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

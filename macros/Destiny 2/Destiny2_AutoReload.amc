@@ -1,0 +1,24 @@
+<Root>
+  <!-- by Britan -->
+  <DefaultMacro>
+    <Major></Major>
+    <Description>НАЗВАНИЕ: Destiny 2 Auto Reload. ОПИСАНИЕ: Быстрая перезарядка с отменой анимации: R (перезарядка) -&gt; прыжок (Space) для отмены. Ускоряет перезарядку на ~0.5 секунды. РЕКОМЕНДУЕМАЯ КЛАВИША: Mouse 5 (Side). КАК ИСПОЛЬЗОВАТЬ: Привяжи макрос на кнопку Mouse 5. После выстрела нажми Mouse 5 - макрос нажмёт R и прыгнет для отмены анимации перезарядки. Однократное выполнение. НАСТРОЙКА: Если прыжок не отменяет анимацию - увеличь Delay 20 ms до 50 ms. АВТОР: by Britan. ЗАПРЕЩЕНО копировать без указания автора.</Description>
+    <Comment>Привязка: Mouse 5 (Side). Режим: однократное. Инструкция: после выстрела нажми - быстрая перезарядка с отменой анимации.</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 82 1
+Delay 30 ms
+KeyUp 82 1
+Delay 20 ms
+KeyDown 32 1
+Delay 50 ms
+KeyUp 32 1</Syntax>
+    </KeyDown>
+    <Software>Destiny 2</Software>
+  </DefaultMacro>
+</Root>

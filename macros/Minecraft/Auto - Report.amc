@@ -1,0 +1,55 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос поможет вводить команду репорта самостоятельно. Будет полезен на различных серверах, чтобы быстро отправить репорт на игрока.
+
+Инструкция по установке:
+1. Скачать данный макрос.
+2. Поставить на любую удобную клавишу.
+3.Зайти на сервер, использовать макрос, и дописать никнейм желанного вами нарушителя.
+4. Все готово.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>SetLang en-US
+KeyDown 56 1
+Delay 25
+KeyUp 56 1
+Delay 25
+KeyDown 21 1
+Delay 25
+KeyUp 21 1
+Delay 25
+KeyDown 8 1
+Delay 25
+KeyUp 8 1
+Delay 25
+KeyDown 19 1
+Delay 25
+KeyUp 19 1
+Delay 25
+KeyDown 18 1
+Delay 25
+KeyUp 18 1
+Delay 25
+KeyDown 21 1
+Delay 25
+KeyUp 21 1
+Delay 25
+KeyDown 23 1
+Delay 25
+KeyUp 23 1
+Delay 25
+KeyDown 44 1
+Delay 25
+KeyUp 44 1
+Delay 25</Syntax>
+    </KeyDown>
+    <Software>Minecraft</Software>
+  </DefaultMacro>
+</Root>

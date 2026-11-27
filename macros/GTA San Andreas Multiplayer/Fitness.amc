@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос создан для проекта Малиновка. Он очень сильно упрощает прокачку фитнеса, достаточно просто включить макрос и он будет прокачивать фитнес сам. Подходит для жима(макс. кол-ва хп) и для силы(макс. кол-ва патронов) </Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>GoColor 5 0 255,255,255 255,255,255 1 1101 903
+KeyDown 20 1
+Delay 64
+KeyUp 20 1
+Delay 64
+GoColor 10 0 255,255,255 255,255,255 1 1171 904
+KeyDown 26 1
+Delay 64
+KeyUp 26 1
+Delay 64
+GoColor 15 0 255,255,255 255,255,255 1 1231 905
+KeyDown 8 1
+Delay 64
+KeyUp 8 1
+Delay 64
+GoColor 20 0 255,255,255 255,255,255 1 1101 968
+KeyDown 4 1
+Delay 64
+KeyUp 4 1
+Delay 64
+GoColor 25 0 255,255,255 255,255,255 1 1168 966
+KeyDown 22 1
+Delay 64
+KeyUp 22 1
+Delay 64
+GoColor 30 0 255,255,255 255,255,255 1 1232 968
+KeyDown 7 1
+Delay 64
+KeyUp 7 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>SAMP</Software>
+  </DefaultMacro>
+</Root>

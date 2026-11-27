@@ -1,0 +1,39 @@
+<Root>
+  <DefaultMacro>
+    <Major>quick lc bm + dagger + q + duel combo with delay</Major>
+    <Description>This utilizes the use of LC, one of the strongest offlaner in this patch. I added a small delay so you have the chance to react whether you are about to get disabled after using the BM+Dagger in combo. 
+
+Duel should be in quick cast and point your cursor to your target ( I advice you to have a good vision before executing this ) 
+
+Feel free to adjust the timing to your own accord.
+Dm me @trigago on keyran forums for suggestions and feedback.
+
+Enjoy!</Description>
+    <Comment>https://keyran.net - Free macros download </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 6 1
+Delay 5 ms
+KeyUp 6 1
+Delay 5 ms
+KeyDown 23 1
+Delay 5 ms
+KeyUp 23 1
+Delay 5 ms
+KeyDown 20 1
+Delay 150 ms
+KeyUp 20 1
+Delay 150 ms
+KeyDown 21 1
+Delay 50 ms
+KeyUp 21 1
+Delay 50 ms</Syntax>
+    </KeyDown>
+    <Software>Dota 2</Software>
+  </DefaultMacro>
+</Root>

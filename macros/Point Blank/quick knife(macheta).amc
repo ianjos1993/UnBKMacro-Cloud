@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Быстрая смена на нож,
+Устанавливаем данный макрос
+Ставим на любую удобную вам кнпоку (лично я поставил на левую кнопку мыши)
+Очень удобно играть с данным макросом на мачете. 
+Нажимаю ПКМ и сразу ЛКМ , чтобы как можно быстрее сделать следующий удар ножом
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 16 ms
+LeftUp 1
+Delay 16 ms
+KeyDown 34 1
+Delay 9 ms
+KeyUp 34 1
+Delay 9 ms
+KeyDown 32 1
+Delay 9 ms
+KeyUp 32 1
+Delay 9 ms</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

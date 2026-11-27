@@ -1,0 +1,29 @@
+<Root>
+  <DefaultMacro>
+    <Major>thompson macro</Major>
+    <Description>this macro is for thompson low sens 0.5 (press start, release to stop)
+Fov 90
+DPI 2800
+sens 0.5
+1920x1080
+
+support me and enjoy</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 20 ms
+MoveR 0 11
+Delay 20 ms
+MoveR 0 11
+Delay 20 ms
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

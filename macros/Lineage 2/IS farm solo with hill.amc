@@ -1,0 +1,45 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>F1-Ставим соло таргет скил
+F2-Ставим АОЕ скил(НЕ ИСПОЛЬЗУЙ симфонию)
+F3-Ставим подлет
+(Если у вас достаточно урона но хп просаживается , можете заменить подлет на смфонию)
+В игре сделайте макрос и ставим его на F8  /target ваш ник нейм
+                                                                             /delay 1
+                                                                             /Поэма Усиления
+</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>2</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 64
+KeyDown 58 1
+Delay 64
+KeyUp 58 1
+Delay 64
+KeyDown 59 1
+Delay 64
+KeyUp 59 1
+Delay 64
+KeyDown 60 1
+Delay 64
+KeyUp 60 1
+Delay 64
+KeyDown 58 1
+Delay 64
+KeyUp 58 1
+Delay 64
+GoWhile 1 6
+KeyDown 65 1
+Delay 64
+KeyUp 65 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Lineage 2</Software>
+  </DefaultMacro>
+</Root>

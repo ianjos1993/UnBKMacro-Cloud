@@ -1,0 +1,701 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Автоматическое прохождение этого долбаного гуся в Atomic Heart DLC2 -
+только последний отрезок после последней точки сохранения.
+
+Для запуска необходимо загрузиться с точки последнего сохранения и на экране запроса назатия SPACE запустить этот скрипт.
+Он сам нажимает Space и этим синхронизируется с игрой.
+
+Все тайминги были выставлены по опорной записи успешного прохождения с YouTube через расставление маркеров в Magix Vegas и эксопртом сриптом в маркос.
+
+Есть пара мест, где гусь спотыкается - это нормально (если бежит дальше и выполняет адекватные движения)
+Иногда по разным причинам происходит рассинхрон времени - тогда надо запустить с загрузки заново.
+Если гусь после спотыканий начинает делать совсем песторонние прыжки, то это и был рассинхрон - перезвпускайте макрос заново.
+
+Общее время на этот последний отрезок до конца - чуть больше двух минут.
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>                   
+//  SPACE - стартуем после загрузочного экрана
+KeyDown 44 1
+Delay 70 ms
+KeyUp 44 1
+Delay 4347 ms
+//  E
+KeyDown 8 1
+Delay 67 ms
+//  W
+KeyDown 26 1
+Delay 299 ms
+KeyUp 26 1
+Delay 67 ms
+KeyUp 8 1
+Delay 417 ms
+//  D
+KeyDown 7 1
+Delay 70 ms
+KeyUp 7 1
+Delay 296 ms
+//  W
+KeyDown 26 1
+Delay 367 ms
+KeyUp 26 1
+Delay 667 ms
+//  S
+KeyDown 22 1
+Delay 350 ms
+KeyUp 22 1
+Delay 100 ms
+//  A
+KeyDown 4 1
+Delay 70 ms
+KeyUp 4 1
+Delay 1046 ms
+//  Q
+KeyDown 20 1
+Delay 900 ms
+KeyUp 20 1
+Delay 150 ms
+//  D
+KeyDown 7 1
+Delay 70 ms
+KeyUp 7 1
+Delay 64 ms
+//  W
+KeyDown 26 1
+Delay 70 ms
+KeyUp 26 1
+Delay 513 ms
+//  A
+KeyDown 4 1
+Delay 70 ms
+KeyUp 4 1
+Delay 363 ms
+//  W
+KeyDown 26 1
+Delay 70 ms
+KeyUp 26 1
+Delay 547 ms
+//  A
+KeyDown 4 1
+Delay 70 ms
+KeyUp 4 1
+Delay 1013 ms
+//  D
+KeyDown 7 1
+Delay 70 ms
+KeyUp 7 1
+Delay 247 ms
+//  S
+KeyDown 22 1
+Delay 134 ms
+//  E
+KeyDown 8 1
+Delay 633 ms
+KeyUp 8 1
+Delay 116 ms
+KeyUp 22 1
+Delay 67 ms
+//  D
+KeyDown 7 1
+Delay 70 ms
+KeyUp 7 1
+Delay 230 ms
+//  W
+KeyDown 26 1
+Delay 120 ms
+KeyUp 26 1
+Delay 813 ms
+//  D
+KeyDown 7 1
+Delay 70 ms
+KeyUp 7 1
+Delay 763 ms
+//  A
+KeyDown 4 1
+Delay 70 ms
+KeyUp 4 1
+Delay 330 ms
+//  A
+KeyDown 4 1
+Delay 70 ms
+KeyUp 4 1
+Delay 747 ms
+//  D
+KeyDown 7 1
+Delay 70 ms
+KeyUp 7 1
+Delay 697 ms
+//  A
+KeyDown 4 1
+Delay 70 ms
+KeyUp 4 1
+Delay 164 ms
+//  Q
+KeyDown 20 1
+Delay 850 ms
+KeyUp 20 1
+Delay 366 ms
+//  A
+KeyDown 4 1
+Delay 100 ms
+KeyUp 4 1
+Delay 100 ms
+//  A
+KeyDown 4 1
+Delay 167 ms
+KeyUp 4 1
+Delay 483 ms
+//  D
+KeyDown 7 1
+Delay 70 ms
+KeyUp 7 1
+Delay 1347 ms
+//  E
+KeyDown 8 1
+Delay 1099 ms
+KeyUp 8 1
+Delay 117 ms
+//  D
+KeyDown 7 1
+Delay 70 ms
+KeyUp 7 1
+Delay 630 ms
+//  A
+KeyDown 4 1
+Delay 70 ms
+KeyUp 4 1
+Delay 380 ms
+//  Q
+KeyDown 20 1
+Delay 850 ms
+KeyUp 20 1
+Delay 100 ms
+//  D
+KeyDown 7 1
+Delay 70 ms
+KeyUp 7 1
+Delay 563 ms
+//  W
+KeyDown 26 1
+Delay 70 ms
+KeyUp 26 1
+Delay 847 ms
+//  A
+KeyDown 4 1
+Delay 70 ms
+KeyUp 4 1
+Delay 214 ms
+//  W
+KeyDown 26 1
+Delay 250 ms
+KeyUp 26 1
+Delay 2199 ms
+//  D
+KeyDown 7 1
+Delay 70 ms
+KeyUp 7 1
+Delay 430 ms
+//  Q
+KeyDown 20 1
+Delay 67 ms
+//  W
+KeyDown 26 1
+Delay 483 ms
+KeyUp 26 1
+Delay 117 ms
+KeyUp 20 1
+Delay 217 ms
+//  D
+KeyDown 7 1
+Delay 70 ms
+KeyUp 7 1
+Delay 963 ms
+//  W
+KeyDown 26 1
+Delay 70 ms
+KeyUp 26 1
+Delay 313 ms
+//  A
+KeyDown 4 1
+Delay 70 ms
+KeyUp 4 1
+Delay 630 ms
+//  E
+KeyDown 8 1
+Delay 500 ms
+KeyUp 8 1
+Delay 884 ms
+//  A
+KeyDown 4 1
+Delay 70 ms
+KeyUp 4 1
+Delay 963 ms
+//  D
+KeyDown 7 1
+Delay 70 ms
+KeyUp 7 1
+Delay 397 ms
+//  W
+KeyDown 26 1
+Delay 103 ms
+KeyUp 26 1
+Delay 1397 ms
+//  A
+KeyDown 4 1
+Delay 117 ms
+KeyUp 4 1
+Delay 183 ms
+//  W
+KeyDown 26 1
+Delay 167 ms
+KeyUp 26 1
+Delay 1283 ms
+//  D
+KeyDown 7 1
+Delay 70 ms
+KeyUp 7 1
+Delay 414 ms
+//  W
+KeyDown 26 1
+Delay 70 ms
+KeyUp 26 1
+Delay 596 ms
+//  D
+KeyDown 7 1
+Delay 70 ms
+KeyUp 7 1
+Delay 947 ms
+//  S
+KeyDown 22 1
+Delay 533 ms
+KeyUp 22 1
+Delay 67 ms
+//  A
+KeyDown 4 1
+Delay 70 ms
+KeyUp 4 1
+Delay 663 ms
+//  A
+KeyDown 4 1
+Delay 70 ms
+KeyUp 4 1
+Delay 114 ms
+//  W
+KeyDown 26 1
+Delay 70 ms
+KeyUp 26 1
+Delay 1513 ms
+//  W
+KeyDown 26 1
+Delay 70 ms
+KeyUp 26 1
+Delay 580 ms
+//  D
+KeyDown 7 1
+Delay 70 ms
+KeyUp 7 1
+Delay 780 ms
+//  A
+KeyDown 4 1
+Delay 70 ms
+KeyUp 4 1
+Delay 30 ms
+//  W
+KeyDown 26 1
+Delay 70 ms
+KeyUp 26 1
+Delay 1330 ms
+//  A
+KeyDown 4 1
+Delay 70 ms
+KeyUp 4 1
+Delay 480 ms
+//  Q
+KeyDown 20 1
+Delay 300 ms
+//  W
+KeyDown 26 1
+Delay 217 ms
+KeyUp 26 1
+Delay 234 ms
+KeyUp 20 1
+Delay 766 ms
+//  D
+KeyDown 7 1
+Delay 70 ms
+KeyUp 7 1
+Delay 880 ms
+//  S
+KeyDown 22 1
+Delay 500 ms
+KeyUp 22 1
+Delay 100 ms
+//  D
+KeyDown 7 1
+Delay 70 ms
+KeyUp 7 1
+Delay 1114 ms
+//  A
+KeyDown 4 1
+Delay 70 ms
+KeyUp 4 1
+Delay 612 ms
+//  S
+KeyDown 22 1
+Delay 100 ms
+//  E
+KeyDown 8 1
+Delay 667 ms
+KeyUp 8 1
+Delay 150 ms
+KeyUp 22 1
+Delay 83 ms
+//  Q
+KeyDown 20 1
+Delay 117 ms
+//  W
+KeyDown 26 1
+Delay 200 ms
+KeyUp 26 1
+Delay 533 ms
+KeyUp 20 1
+Delay 584 ms
+//  Q
+KeyDown 20 1
+Delay 616 ms
+KeyUp 20 1
+Delay 300 ms
+//  E
+KeyDown 8 1
+Delay 550 ms
+KeyUp 8 1
+Delay 84 ms
+//  Q
+KeyDown 20 1
+Delay 516 ms
+KeyUp 20 1
+Delay 267 ms
+//  D
+KeyDown 7 1
+Delay 70 ms
+KeyUp 7 1
+Delay 680 ms
+//  A
+KeyDown 4 1
+Delay 70 ms
+KeyUp 4 1
+Delay 397 ms
+//  S
+KeyDown 22 1
+Delay 650 ms
+KeyUp 22 1
+Delay 283 ms
+//  W
+KeyDown 26 1
+Delay 70 ms
+KeyUp 26 1
+Delay 380 ms
+//  D
+KeyDown 7 1
+Delay 70 ms
+KeyUp 7 1
+Delay 997 ms
+//  S
+KeyDown 22 1
+Delay 483 ms
+KeyUp 22 1
+Delay 396 ms
+//  W
+KeyDown 26 1
+Delay 67 ms
+//  A
+KeyDown 4 1
+Delay 83 ms
+KeyUp 26 1
+Delay 71 ms
+KeyUp 4 1
+Delay 1166 ms
+//  A
+KeyDown 4 1
+Delay 70 ms
+KeyUp 4 1
+Delay 547 ms
+//  S
+KeyDown 22 1
+Delay 417 ms
+KeyUp 22 1
+Delay 83 ms
+//  D
+KeyDown 7 1
+Delay 70 ms
+KeyUp 7 1
+Delay 1180 ms
+//  A
+KeyDown 4 1
+Delay 70 ms
+KeyUp 4 1
+Delay 230 ms
+//  Q
+KeyDown 20 1
+Delay 67 ms
+//  W
+KeyDown 26 1
+Delay 266 ms
+KeyUp 20 1
+Delay 50 ms
+KeyUp 26 1
+Delay 184 ms
+//  W
+KeyDown 26 1
+Delay 83 ms
+KeyUp 26 1
+Delay 350 ms
+//  W
+KeyDown 26 1
+Delay 400 ms
+KeyUp 26 1
+Delay 933 ms
+//  S
+KeyDown 22 1
+Delay 750 ms
+KeyUp 22 1
+Delay 767 ms
+//  D
+KeyDown 7 1
+Delay 70 ms
+KeyUp 7 1
+Delay 597 ms
+//  W
+KeyDown 26 1
+Delay 70 ms
+KeyUp 26 1
+Delay 1030 ms
+//  W
+KeyDown 26 1
+Delay 70 ms
+KeyUp 26 1
+Delay 1080 ms
+//  Q
+KeyDown 20 1
+Delay 83 ms
+//  W
+KeyDown 26 1
+Delay 70 ms
+KeyUp 26 1
+Delay 297 ms
+KeyUp 20 1
+Delay 283 ms
+//  D
+KeyDown 7 1
+Delay 70 ms
+KeyUp 7 1
+Delay 180 ms
+//  D
+KeyDown 7 1
+Delay 117 ms
+KeyUp 7 1
+Delay 733 ms
+//  A
+KeyDown 4 1
+Delay 117 ms
+KeyUp 4 1
+Delay 450 ms
+//  A
+KeyDown 4 1
+Delay 100 ms
+KeyUp 4 1
+Delay 700 ms
+//  W
+KeyDown 26 1
+Delay 433 ms
+KeyUp 26 1
+Delay 1084 ms
+//  W
+KeyDown 26 1
+Delay 70 ms
+KeyUp 26 1
+Delay 1130 ms
+//  D
+KeyDown 7 1
+Delay 70 ms
+KeyUp 7 1
+Delay 246 ms
+//  W
+KeyDown 26 1
+Delay 70 ms
+KeyUp 26 1
+Delay 1580 ms
+//  A
+KeyDown 4 1
+Delay 70 ms
+KeyUp 4 1
+Delay 530 ms
+//  W
+KeyDown 26 1
+Delay 70 ms
+KeyUp 26 1
+Delay 4830 ms
+//  W
+KeyDown 26 1
+Delay 70 ms
+KeyUp 26 1
+Delay 980 ms
+//  D
+KeyDown 7 1
+Delay 70 ms
+KeyUp 7 1
+Delay 647 ms
+//  E
+KeyDown 8 1
+Delay 83 ms
+//  S
+KeyDown 22 1
+Delay 384 ms
+KeyUp 8 1
+Delay 233 ms
+KeyUp 22 1
+Delay 83 ms
+//  A
+KeyDown 4 1
+Delay 70 ms
+KeyUp 4 1
+Delay 330 ms
+//  S
+KeyDown 22 1
+Delay 667 ms
+KeyUp 22 1
+Delay 150 ms
+//  D
+KeyDown 7 1
+Delay 70 ms
+KeyUp 7 1
+Delay 1147 ms
+//  A
+KeyDown 4 1
+Delay 70 ms
+KeyUp 4 1
+Delay 196 ms
+//  E
+KeyDown 8 1
+Delay 550 ms
+KeyUp 8 1
+Delay 1200 ms
+//  Q
+KeyDown 20 1
+Delay 700 ms
+KeyUp 20 1
+Delay 150 ms
+//  E
+KeyDown 8 1
+Delay 567 ms
+KeyUp 8 1
+Delay 484 ms
+//  W
+KeyDown 26 1
+Delay 70 ms
+KeyUp 26 1
+Delay 430 ms
+//  D
+KeyDown 7 1
+Delay 70 ms
+KeyUp 7 1
+Delay 1130 ms
+//  A
+KeyDown 4 1
+Delay 70 ms
+KeyUp 4 1
+Delay 413 ms
+//  W
+KeyDown 26 1
+Delay 70 ms
+KeyUp 26 1
+Delay 2397 ms
+//  A
+KeyDown 4 1
+Delay 70 ms
+KeyUp 4 1
+Delay 146 ms
+//  Q
+KeyDown 20 1
+Delay 150 ms
+//  W
+KeyDown 26 1
+Delay 154 ms
+KeyUp 26 1
+Delay 313 ms
+KeyUp 20 1
+Delay 234 ms
+//  D
+KeyDown 7 1
+Delay 70 ms
+KeyUp 7 1
+Delay 462 ms
+//  E
+KeyDown 8 1
+Delay 83 ms
+//  S
+KeyDown 22 1
+Delay 469 ms
+KeyUp 8 1
+Delay 65 ms
+KeyUp 22 1
+Delay 68 ms
+//  W
+KeyDown 26 1
+Delay 70 ms
+KeyUp 26 1
+Delay 613 ms
+//  D
+KeyDown 7 1
+Delay 70 ms
+KeyUp 7 1
+Delay 214 ms
+//  S
+KeyDown 22 1
+Delay 383 ms
+KeyUp 22 1
+Delay 850 ms
+//  Q
+KeyDown 20 1
+Delay 83 ms
+//  W
+KeyDown 26 1
+Delay 70 ms
+KeyUp 26 1
+Delay 412 ms
+KeyUp 20 1
+Delay 430 ms
+//  A
+KeyDown 4 1
+Delay 70 ms
+KeyUp 4 1
+Delay 113 ms
+//  A
+KeyDown 4 1
+Delay 70 ms
+KeyUp 4 1
+Delay 584 ms
+//  D
+KeyDown 7 1
+Delay 70 ms
+KeyUp 7 1
+Delay 80 ms
+//  S
+KeyDown 22 1
+Delay 918 ms
+KeyUp 22 1
+Delay 70 ms
+      </Syntax>
+    </KeyDown>
+    <Software>Atomic Heart</Software>
+  </DefaultMacro>
+</Root>

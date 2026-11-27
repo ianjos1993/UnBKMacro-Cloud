@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос контролирует зажим у основного оружия оперативника КОШМАР
+
+Отключить вертикальную синхронизацию
+
+Чувствительность 50.0
+
+Разрешение экрана 1920x1080
+
+Устанавливаем макрос на удобную вами кнопку и в бой!</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 35 ms
+MoveR 0 0
+MoveR 0 3
+Delay 35 ms
+Goto 4</Syntax>
+    </KeyDown>
+    <Software>Caliber</Software>
+  </DefaultMacro>
+</Root>

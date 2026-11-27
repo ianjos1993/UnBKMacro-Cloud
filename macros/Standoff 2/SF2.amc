@@ -1,0 +1,46 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос для «STANDOFF 2» скачать и использовать на простой мышке и клавиатуре.
+Установка макроса происходит очень просто в программе Keyran и улучшает ваш игровой опыт!
+
+Назначьте макрос на удобную вам клавишу. Рекомендуемые параметры: разрешение – 1920х1080, сенса – 1.
+Данный макрос подходит на всё оружие.
+
+На эмулятор bluestacks</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 1 ms
+MoveR -1 6
+Delay 30 ms
+MoveR 1 -2
+Delay 30 ms
+MoveR -1 6
+Delay 30 ms
+MoveR 1 -2
+Delay 30 ms
+MoveR -1 6
+Delay 30 ms
+MoveR -3 0
+Delay 30 ms
+MoveR -3 0
+Delay 30 ms
+MoveR -3 0
+Delay 30 ms
+MoveR 3 0
+Delay 30 ms
+MoveR 3 0
+Delay 30 ms
+MoveR 3 0
+Delay 30 ms</Syntax>
+    </KeyDown>
+    <Software>Standoff 2</Software>
+  </DefaultMacro>
+</Root>

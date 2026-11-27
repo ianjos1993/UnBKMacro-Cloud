@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>                                             ||Улучшений Макрос для Point Blank на Мачете или Кукри||
+__________________________________________________________________________________________________-
+Макрос доработан на 100 проц, Проверял на кукри и мачете на кукри ультра удар а на мачете по 3-4 удара можно делать.
+
+1) Качаем скрипт в базе
+2) устанавливаем на кнопку любую к примеру "Q" 
+3) Запускаем заходим в игру и катаем.
+PS Желательно иметь быструю смену оружия . Макрос реально рабочий проверяйте наслаждайтесь.</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 34 1
+Delay 15 ms
+KeyUp 34 1
+KeyDown 32 1
+Delay 14 ms
+KeyUp 32 1
+Delay 15 ms
+KeyUp 34 1
+KeyDown 32 1
+Delay 14 ms
+KeyUp 32 1</Syntax>
+    </KeyDown>
+    <Software>Point blank</Software>
+  </DefaultMacro>
+</Root>

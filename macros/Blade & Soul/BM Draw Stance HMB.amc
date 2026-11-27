@@ -1,0 +1,35 @@
+<Root>
+  <DefaultMacro>
+    <Major>Blade Master Sun Stroke HMB</Major>
+    <Description>When you are at "draw stance" and your party need "HMB (Hongmoon Block)". 
+"HMB" can be difficult to use sometimes.
+ Because you are switching to "basic stance" from "draw stance" with using "block skill(1) + F", 
+If you make mistake or if you are not fast enough, your "Sun Stroke(Tab)" skill is not resetting. 
+That's big problem for your dps. 
+This macro makes you use "hmb" when you are at "draw stance" and switch from "basic stance" to "draw stance" again.
+
+Enjoy!</Description>
+    <Comment>https://keyran.net - Free macros download</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 30 1
+Delay 120
+KeyUp 30 1
+Delay 120
+KeyDown 9 1
+Delay 120
+KeyUp 9 1
+Delay 120
+KeyDown 20 1
+Delay 120
+KeyUp 20 1
+Delay 120</Syntax>
+    </KeyDown>
+    <Software>Blade &amp; Soul</Software>
+  </DefaultMacro>
+</Root>

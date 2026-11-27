@@ -1,0 +1,30 @@
+<Root>
+  <DefaultMacro>
+    <Major>Быстрая покупка вещей</Major>
+    <Description>Повторяет правый клик мыши с минимальной задержкой
+
+Простая тема, но экономит кучу времени. Ставим макрос на "ё" и быстро закупаемся у кадалы или торговцев. </Description>
+    <Comment>https://www.twitch.tv/kirstrimit - фармим ARPG, диаблоиды и прочие игры где есть элементы добычи гира или прочих вещей для персонажа и аккаунта :) Если что заходи</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>RightDown 1
+Delay 10 ms
+RightUp 1
+Delay 10 ms
+RightDown 1
+Delay 10 ms
+RightUp 1
+Delay 10 ms
+RightDown 1
+Delay 10 ms
+RightUp 1
+Delay 10 ms</Syntax>
+    </KeyDown>
+    <Software>Diablo 3</Software>
+  </DefaultMacro>
+</Root>

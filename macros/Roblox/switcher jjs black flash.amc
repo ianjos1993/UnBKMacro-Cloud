@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макрос: Black Flash (Switcher — Jujutsu Shenanigans)
+Цель: Автоматизировать выполнение механики «Чёрная вспышка», требующей точного тайминга нажатия клавиш
+Выполняемые действия:Инициирует начало техники по нажатию 1 клавиши.Гарантирует выполнение техники.
+Требования:120 FPS в игре на публичном сервере, Пинг не больше 100, Использование персонажа «Switcher».
+
+Примечание-Мкрос будет работать лишь тогда когда у вас все способности не в кд.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 32 1
+Delay 64
+KeyUp 32 1
+Delay 64
+KeyDown 21 1
+Delay 64
+KeyUp 21 1
+Delay 64
+KeyDown 31 1
+Delay 64
+KeyUp 31 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Roblox</Software>
+  </DefaultMacro>
+</Root>

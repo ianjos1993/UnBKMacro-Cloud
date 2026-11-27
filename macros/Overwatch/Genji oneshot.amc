@@ -1,0 +1,33 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Макросс предназначен для  комбо За Гендзи позволяюший ваншотнуть в тело всех добольнотаки тонкий персонажей.
+
+The macro is designed for a combo For Genji that allows you to shoot into the body of all the characters that are so thin.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 110 ms
+LeftUp 1
+Delay 130 ms
+KeyDown 225 1
+Delay 60
+KeyUp 225 1
+Delay 190 ms
+KeyDown 25 1
+Delay 40 ms
+KeyUp 25 1
+Delay 470 ms
+RightDown 1
+Delay 30 ms
+RightUp 1</Syntax>
+    </KeyDown>
+    <Software>Overwatch</Software>
+  </DefaultMacro>
+</Root>

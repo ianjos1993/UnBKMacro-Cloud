@@ -1,0 +1,68 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Данный макрос автоматизирует выполнение «длинного доджа», позволяя персонажу мгновенно совершить рывок на максимальной дистанции без риска случайного прыжка или уклонения на месте. Скрипт имитирует профессиональный тайминг ввода: он зажимает клавишу направления и через минимальную паузу в 25 мс активирует кнопку уклонения. Это гарантирует стабильный Speed Dodge при беге или Chase Dodge сразу после успешного удара по противнику. Инструмент идеально подходит для отработки сложных комбо в режиме тренировки и помогает новичкам привыкнуть к динамике игры. Настройка выполнена с учетом стандартного тикрейта серверов, что сводит задержки к минимуму. Используйте макрос для улучшения мобильности и быстрого сокращения дистанции, но помните, что в соревновательных режимах и на официальных турнирах использование стороннего ПО может быть ограничено правилами.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>Delay 2460 ms
+KeyDown 15 1
+Delay 154 ms
+KeyUp 15 1
+Delay 551 ms
+KeyDown 15 1
+Delay 163 ms
+KeyUp 15 1
+Delay 396 ms
+KeyDown 15 1
+Delay 167 ms
+KeyUp 15 1
+Delay 398 ms
+KeyDown 15 1
+Delay 162 ms
+KeyUp 15 1
+Delay 360 ms
+KeyDown 15 1
+Delay 159 ms
+KeyUp 15 1
+Delay 351 ms
+KeyDown 15 1
+Delay 142 ms
+KeyUp 15 1
+Delay 377 ms
+KeyDown 15 1
+Delay 151 ms
+KeyUp 15 1
+Delay 373 ms
+KeyDown 15 1
+Delay 154 ms
+KeyUp 15 1
+Delay 340 ms
+KeyDown 15 1
+Delay 157 ms
+KeyUp 15 1
+Delay 333 ms
+KeyDown 15 1
+Delay 131 ms
+KeyUp 15 1
+Delay 375 ms
+KeyDown 15 1
+Delay 116 ms
+KeyUp 15 1
+Delay 368 ms
+KeyDown 15 1
+Delay 123 ms
+KeyUp 15 1
+Delay 340 ms
+KeyDown 15 1
+Delay 118 ms
+KeyUp 15 1</Syntax>
+    </KeyDown>
+    <Software>Brawlhalla</Software>
+  </DefaultMacro>
+</Root>

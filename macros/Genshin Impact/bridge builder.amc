@@ -1,0 +1,23 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>строитель мостов для игры genshin-impact за перса кэйа он поможет строить мосты из льда и добратся до
+всех мест</Description>
+    <Comment>зделано var</Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 8 1
+KeyUp 8 1
+KeyDown 26 1
+Delay 15 ms
+KeyUp 26 1
+GoWhile 1 999</Syntax>
+    </KeyDown>
+    <Software>genshin mpact</Software>
+  </DefaultMacro>
+</Root>

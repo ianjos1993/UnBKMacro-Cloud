@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major>auto double pump</Major>
+    <Description>this macro is for automatic double pump (press to start release to stop)
+1920 x 1080
+dpi 1300
+sens 0.5
+fov 90
+
+just try it and enjoy the macro!
+
+</Description>
+    <Comment></Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 54 ms
+MoveR 0 -27
+Delay 54 ms
+MoveR 0 -27
+Delay 54 ms
+MoveR 0 -27
+Delay 54 ms
+MoveR 0 -27
+Delay 54 ms
+MoveR 0 -27
+Delay 54 ms
+LeftUp 1
+Delay 54 ms</Syntax>
+    </KeyDown>
+    <Software>Rust</Software>
+  </DefaultMacro>
+</Root>

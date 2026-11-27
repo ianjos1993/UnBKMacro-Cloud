@@ -1,0 +1,34 @@
+<Root>
+  <DefaultMacro>
+    <Major>cammy dp from 2p/right position</Major>
+    <Description>swap 4 with ur dp button if required.
+works on char with kick dp by default,
+keep holding the macro and do not tap.</Description>
+    <Comment>https://keyran.net - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 22 1
+Delay 20 ms
+KeyDown 4 1
+Delay 20 ms
+KeyUp 4 1
+Delay 20 ms
+KeyDown 4 1
+Delay 20 ms
+KeyDown 92 1
+Delay 68 ms
+KeyUp 92 1
+Delay 40 ms
+KeyUp 4 1
+Delay 60 ms
+KeyUp 22 1
+Delay 30 ms</Syntax>
+    </KeyDown>
+    <Software>Street Fighter 6</Software>
+  </DefaultMacro>
+</Root>
